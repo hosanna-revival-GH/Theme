@@ -1,0 +1,228 @@
+<!-- ============================= SEO Expert Pro ============================= -->
+    <title>{% if template == "index" and shop.metafields.evmSEOMeta.title_homepage!="" %}{{shop.metafields.evmSEOMeta.title_homepage}}{% elsif collection.handle == "all" and shop.metafields.evmSEOMeta.title_collectionsAll!="" %} {{shop.metafields.evmSEOMeta.title_collectionsAll}}{% elsif template == "search"  and shop.metafields.evmSEOMeta.title_search!=""  %}{{shop.metafields.evmSEOMeta.title_search}}{% elsif template == "404" and shop.metafields.evmSEOMeta.title_404!="" %}{{shop.metafields.evmSEOMeta.title_404}}{% else %}{{ page_title }}{% endif %}</title>
+   
+    {% if template == "index"  and shop.metafields.evmSEOMeta.description_homepage!="" %}
+        <meta name="description" content="{{shop.metafields.evmSEOMeta.description_homepage}}" />
+    {% elsif collection.handle == "all"  and shop.metafields.evmSEOMeta.description_collectionsAll!="" %}
+        <meta name="description" content="{{shop.metafields.evmSEOMeta.description_collectionsAll}}" />
+    {% elsif template == "search" and shop.metafields.evmSEOMeta.description_search!=""  %}
+        <meta name="description" content="{{shop.metafields.evmSEOMeta.description_search}}" />
+    {% elsif template == "404" and shop.metafields.evmSEOMeta.description_404!="" %}
+        <meta name="description" content="{{shop.metafields.evmSEOMeta.description_404}}" />
+    {% elsif page_description %}
+        <meta name="description" content="{{ page_description | escape }}" />
+    {% endif %}
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 2000 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "{{ shop.name }}",
+    "url": "https://{{ shop.domain }}"    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://{{ shop.domain }}",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://{{ shop.domain }}/search?q={query}",
+            "query-input": "required name=query"
+            }
+    }
+    </script>
+    
+    {% if template contains "collection" %}
+    <script type="application/ld+json">
+        [
+            {
+                "@context" : "http://schema.org",
+                "@type": "CollectionPage",
+                "name": "{{ collection.title}}",
+                "url": "{{ shop.url | append: collection.url }}",
+                  "image": "{{ collection.image | img_url: "master" }}"
+            }{% if collection.products != empty %},{% endif %}
+            {% for product in collection.products %}
+            {
+                "@context" : "http://schema.org",
+                "@type" : "Product",
+                "name" : "{{ product.title | strip_newlines | strip_html | escape_once | replace: "\", "\\\\\\\\" }}",
+                "image": "{{ product.featured_image.src | img_url: "master" | prepend : "https:" }}",
+                "url" : "{{ shop.url | append: "/products/" | append: product.handle }}",
+                "offers" : {
+                    "@type" : "Offer",
+                    "price" : {{ product.price | money_without_currency | split: "" | reverse | join: "" | remove_first: "00." | split: "" | reverse | join: "" | replace: ",", "" }},
+                    "priceCurrency" : "{{ shop.currency }}"
+                }
+            }{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+        ]
+    </script>
+    {% endif %}
+   
+    {% if template contains "product" %}
+{%- assign isHasReviews = false -%}
+{%- assign reviewAppTitle = blank -%}
+{%- assign ratingValue = blank -%}
+{%- assign reviewCount = blank -%}
+{%- if product.metafields.spr.reviews != blank and isHasReviews == false -%}
+    {%- assign ratingValueReviewArray = product.metafields.spr.reviews | split: 'meta itemprop="ratingValue" content="' -%}
+    {%- assign ratingValueArr = ratingValueReviewArray[1] |split: '"' -%}
+    {%- assign reviewValue = ratingValueArr[0] -%}
+    {%- assign reviewsCountStrArray = product.metafields.spr.reviews | split: 'meta itemprop="reviewCount" content="' -%}
+    {%- assign reviewsCountArr = reviewsCountStrArray[1] | split: '"' -%}
+    {%- assign reviewsCount = reviewsCountArr[0] -%}
+    {%- unless reviewsCount == blank -%}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"Shopify Product Reviews"' -%}
+        {%- assign ratingValue = reviewValue -%}
+        {%- assign reviewCount = reviewsCount -%}
+    {%- endunless -%}
+{%- endif -%}
+
+{%- if product.metafields.judgeme.badge != blank and isHasReviews == false %}
+    {%- assign ratingValueReviewArray = product.metafields.judgeme.badge | split: "data-average-rating='" -%}
+    {%- assign ratingValueArr = ratingValueReviewArray[1] |split: "'" -%}
+    {%- assign reviewValue = ratingValueArr[0] -%}
+    {%- assign reviewsCountStrArray = product.metafields.judgeme.badge | split: "data-number-of-reviews='" -%}
+    {%- assign reviewsCountArr = reviewsCountStrArray[1] | split: "'" -%}
+    {%- assign reviewsCount = reviewsCountArr[0] -%}
+    {%- unless reviewsCount == '0' -%}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"Judge.me Reviews"' -%}
+        {%- assign ratingValue = reviewValue -%}
+        {%- assign reviewCount = reviewsCount -%}
+    {%- endunless -%}
+{%- endif -%}
+
+{%- if product.metafields.yotpo.reviews_count and product.metafields.yotpo.reviews_count != '0' and product.metafields.yotpo.reviews_count != 0 and isHasReviews == false %}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"Yotpo Reviews"' -%}
+        {%- assign ratingValue = product.metafields.yotpo.reviews_average -%}
+        {%- assign reviewCount = product.metafields.yotpo.reviews_count -%}
+{%- elsif product.metafields.orankl.review_count and product.metafields.orankl.review_count != '0' and product.metafields.orankl.review_count != 0 and isHasReviews == false %}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"Orankl Reviews"' -%}
+        {%- assign ratingValue = product.metafields.orankl.rating -%}
+        {%- assign reviewCount = product.metafields.orankl.review_count -%}
+{%- elsif product.metafields.loox.num_reviews and product.metafields.loox.num_reviews != '0' and product.metafields.loox.num_reviews != 0 and isHasReviews == false %}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"Loox Reviews"' -%}
+        {%- assign ratingValue = product.metafields.loox.avg_rating -%}
+        {%- assign reviewCount = product.metafields.loox.num_reviews -%}
+{%- elsif product.metafields.ssw.count_rate and product.metafields.ssw.count_rate != '0' and product.metafields.ssw.count_rate != 0 and isHasReviews == false %}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"SocialShopWave Reviews"' -%}
+        {%- assign ratingValue = product.metafields.ssw.avg_rate -%}
+        {%- assign reviewCount = product.metafields.ssw.count_rate -%}
+{%- elsif product.metafields.vnreviews.reviewCount and product.metafields.vnreviews.reviewCount != '0' and product.metafields.vnreviews.reviewCount != 0 and isHasReviews == false %}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"Trust Reviews"' -%}
+        {%- assign ratingValue = product.metafields.vnreviews.ratingValue -%}
+        {%- assign reviewCount = product.metafields.vnreviews.reviewCount -%}
+{%- elsif product.metafields.stamped.reviews_count and product.metafields.stamped.reviews_count != '0' and product.metafields.stamped.reviews_count != 0 and isHasReviews == false %}
+        {%- assign isHasReviews = true -%}
+        {%- assign reviewAppTitle = '"Stamped.io Product Reviews Addon"' -%}
+        {%- assign ratingValue = product.metafields.stamped.reviews_average -%}
+        {%- assign reviewCount = product.metafields.stamped.reviews_count -%}
+{%- endif -%}
+
+{%- assign isProductBarCodeAvailable = false -%}
+{%- assign isProductValidGtinLengthAvailable = false -%}
+{%- assign productgtinString = "gtin" -%}
+{% assign daysProductPriceValidUntil = 90 | times: 86400 %}
+
+{%- if product.selected_or_first_available_variant.barcode != blank -%}
+
+    {%- assign isProductBarCodeAvailable = true -%}
+
+    {%- assign productgtinStringLength = product.selected_or_first_available_variant.barcode | size -%}
+
+    {%- if productgtinStringLength == 8 or productgtinStringLength == 12 or productgtinStringLength == 13 or productgtinStringLength == 14 -%}
+        {%- assign isProductValidGtinLengthAvailable = true -%}
+        {%- assign productgtinString = productgtinString | append: productgtinStringLength -%}
+    {%- endif -%}
+
+{%- endif -%}
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org/",
+        "@type": "Product",
+        {%- if isProductBarCodeAvailable and isProductValidGtinLengthAvailable %}
+        "{{productgtinString}}": "{{product.selected_or_first_available_variant.barcode}}",
+        "productId": "{{product.selected_or_first_available_variant.barcode}}",
+        {%- elsif isProductBarCodeAvailable %}
+        "productId": "{{product.selected_or_first_available_variant.barcode}}",
+        "mpn": "{{product.selected_or_first_available_variant.barcode}}",
+        {%- endif %}
+        "url": "{{ shop.url | append: '/products/' | append: product.handle }}",
+        "name": {{ product.title | json }},
+        "image": "https:{{ product.featured_image.src | img_url: "master" }}",
+        "description": {{ product.description | strip_html | json }},
+        {% if collection_urls != blank %}"category": [
+            {{ collection_urls }}
+        ],{%- endif -%}
+        "brand": {
+            "name": "{{ product.vendor | strip_newlines | strip_html | escape_once | replace: '\', '\\\\' }}"
+        },
+        {%- if product.selected_or_first_available_variant.sku != blank %}
+        "sku": "{{product.selected_or_first_available_variant.sku}}",
+        {%- endif -%}
+        {%- if product.selected_or_first_available_variant.weight != blank %}
+        "weight": "{{ product.selected_or_first_available_variant.weight | weight_with_unit | replace: " ", "" }}",
+        {%- endif -%}
+       {%- if isHasReviews and reviewAppTitle and ratingValue and reviewCount -%}
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "description": {{ reviewAppTitle }},
+            "ratingValue": "{{ ratingValue }}",
+            "reviewCount": "{{ reviewCount }}"
+        },      
+        "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ ratingValue }}"
+    },
+    "author": {
+      "@type": "Person",
+      "name": ""
+    },
+    "reviewBody": ""
+  },
+        {%- endif %}
+        "offers" : [
+            {% for variant in product.variants -%}{
+                "@type" : "Offer" ,
+                {%- if isProductBarCodeAvailable and isProductValidGtinLengthAvailable %}
+                "{{productgtinString}}": "{{variant.barcode}}",
+                {%- elsif isProductBarCodeAvailable %}
+                "mpn": "{{variant.barcode}}",
+                {%- endif %}
+                "priceCurrency" : "{{ shop.currency }}" ,
+                "price" : "{{ variant.price | money_without_currency | split: "" | reverse | join: "" | remove_first: "00." | split: "" | reverse | join: "" | replace: ",", "" }}" ,
+                "priceValidUntil": "{{"now" | date: "%s" | plus: daysProductPriceValidUntil | date: "%Y-%m-%d"}}",
+                "availability" : "http://schema.org/{% if variant.available %}InStock{% else %}OutOfStock{% endif %}" ,
+                "itemCondition": "http://schema.org/NewCondition",
+            {%- if variant.sku != blank %}
+                "sku": "{{ variant.sku }}",
+            {%- endif -%}
+            {%- if variant.title != "Default Title" %}
+                "name": "{{ variant.title | strip_newlines | strip_html | escape_once | replace: '\', '\\\\' }}",
+            {%- endif %}
+                "url" : "{{ shop.url | append: variant.url }}",
+                "seller" : {
+                    "@type" : "Organization",
+                    "name" : "{{ shop.name | strip_newlines | strip_html | escape_once | replace: '\', '\\\\' }}"
+                }
+            }{% unless forloop.last %}, 
+            {% endunless %}{% endfor %}
+        ]
+    }
+</script>
+{% endif %}

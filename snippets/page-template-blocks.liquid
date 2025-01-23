@@ -1,0 +1,83 @@
+{% comment %}
+  This file handles each block available on product.sections or page.sections templates.
+  Each block is a near identical duplicate of a section also available on the home page.
+  Exception is sections that had blocks become hard coded options.
+{% endcomment %}
+<div class="page-blocks">
+  {% for block in section.blocks %}
+    <div {{ block.shopify_attributes }}>
+      {% case block.type %}
+
+        {% when 'image-hero' %}
+          {% include 'page-block-image-hero' %}
+
+        {% when 'mobile-hero' %}
+          {% include 'page-block-mobile-hero' %}
+
+        {% when 'parallax-hero' %}
+          {% include 'page-block-parallax-hero' %}
+
+        {% when 'background-image-text' %}
+          {% include 'page-block-background-image-text' %}
+
+        {% when 'text-and-image' %}
+          {% include 'page-block-text-and-image' %}
+
+        {% when 'text-and-image-alt' %}
+          {% include 'page-block-text-and-image-alt' %}
+
+        {% when 'image-gallery' %}
+          {% include 'page-block-image-gallery' %}
+
+        {% when 'image-row' %}
+          {% include 'page-block-image-row' %}
+
+        {% when 'single-image' %}
+          {% include 'page-block-single-image' %}
+
+        {% when 'hero-video' %}
+          {% include 'page-block-hero-video' %}
+
+        {% when 'title'%}
+          {% include 'page-block-title' %}
+
+        {% when 'rich-text'%}
+          {% include 'page-block-rich-text' %}
+
+        {% when 'steps-columns' %}
+          {% include 'page-block-steps-columns' %}
+
+        {% when 'text-columns' %}
+          {% include 'page-block-text-columns' %}
+
+        {% when 'team-bios' %}
+          {% include 'page-block-team-bios' %}
+
+        {% when 'testimonials' %}
+          {% include 'page-block-testimonials' %}
+
+        {% when 'question' %}
+          {% include 'page-block-faq' %}
+
+        {% when 'featured-collection' %}
+          {% include 'page-block-featured-collection' %}
+
+        {% when 'single-button' %}
+          {% include 'page-block-single-button' %}
+
+        {% when 'custom-html' %}
+          {% include 'page-block-custom-html' %}
+
+        {% when 'map' %}
+          {% include 'page-block-map' %}
+
+        {% when 'contact-form' %}
+          {% include 'page-block-contact-form' %}
+
+        {% when 'newsletter' %}
+          {% include 'page-block-newsletter' %}
+
+      {% endcase %}
+    </div>
+  {% endfor %}
+</div>

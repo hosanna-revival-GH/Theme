@@ -1,0 +1,203 @@
+{% if product.gift_card? %}
+  <style>
+    :root {
+      --main-gift-accent-color: rgb(255, 255, 255) !important;
+      --main-gift-accent-color-font:  rgb(0, 0, 0) !important;
+      --main-gift-outline-color-font:  rgb(0, 0, 0)!important;
+      --main-gift-border-radius: 0px !important;
+      --main-gift-border-radius-small: 0px !important;
+    }
+
+    .sc-giftr-card__add .sc-giftr-card__price {
+    	display: none;
+    }
+    
+    .sc-card-options .sc-card-option__value.sc-card-option__value--selected,
+    .sc-card-tabs .sc-card-tab.sc-card-tab--active {
+    	font-family: proxima-nova-condensed, serif !important;
+    	font-size: 13px !important;
+    	font-weight 500 !important;
+    	letter-spacing: 1.3px !important;
+    	line-height: 18.46px !important;
+    	border: 1px solid rgb(165, 130, 74) !important;
+    	background-color: rgb(165, 130, 74) !important;
+    	color: rgb(255, 255, 255) !important;
+    }
+    
+    .sc-card-option__value,
+    .sc-card-tabs .sc-card-tab,
+    .sc-quantity-selector {
+    	font-family: proxima-nova-condensed, serif !important;
+    	font-size: 13px !important;
+    	font-weight 500 !important;
+    	letter-spacing: 1.3px !important;
+    	line-height: 18.46px !important;
+    	border: 1px solid rgb(232, 232, 226) !important;
+    }
+    
+    .sc-card-preview {
+    	font-family: proxima-nova-condensed, serif !important;
+    	font-size: 13px !important;
+    	font-weight 500 !important;
+    	letter-spacing: 1.3px !important;
+    	line-height: 18.46px !important;
+    	border: 1px solid rgb(165, 130, 74) !important;
+    	background-color: rgb(165, 130, 74) !important;
+    	color: rgb(255, 255, 255) !important;
+    	padding: 7px 20px 7px 20px !important;
+    }
+    
+    .sc-giftr-card__add button {
+    	font-family: proxima-nova-condensed, serif !important;
+    	font-size: 13px !important;
+    	font-weight 500 !important;
+    	letter-spacing: 1.3px !important;
+    	line-height: 18.46px !important;
+    	border: 1px solid #000 !important;
+    }
+
+    .sc-mobile__container .sc-giftr-card__add{
+        height: 38px !important;
+    }
+ 
+    .sc-quantity-selector .sc-quantity-selector__qty {
+    	font-family: "Baskerville No 2", serif !important;
+    	font-size: 16px !important;
+    	font-weight: 400 !important;
+    	height: 30px !important;
+    	letter-spacing: 0.35px !important;
+    	line-height: 22.4px !important;
+    }
+    
+    .sc-gift-card .sc-more {
+    	font-family: proxima-nova-condensed, serif !important;
+    	font-size: 13px !important;
+    	font-weight 500 !important;
+    	letter-spacing: 1.3px !important;
+    	line-height: 18.46px !important;
+    	border: 1px solid rgb(165, 130, 74) !important;
+    	background-color: rgb(165, 130, 74) !important;
+    	color: rgb(255, 255, 255) !important;
+    	padding: 7px 20px 7px 20px !important;
+    }
+
+    .sc-mobile__container .sc-more{
+        font-family: proxima-nova-condensed, serif !important;
+    	font-size: 13px !important;
+    	font-weight 500 !important;
+    	letter-spacing: 1.3px !important;
+    	line-height: 18.46px !important;
+    	border: 1px solid rgb(165, 130, 74) !important;
+    	background-color: rgb(165, 130, 74) !important;
+    	color: rgb(255, 255, 255) !important;
+    	padding: 7px 20px 7px 20px !important;
+    }
+    
+    .sc-card-options .sc-card-option__value.sc-card-option__value--selected input::placeholder {
+    	color: rgb(255, 255, 255) !important;
+    }
+
+    .sc-builder .sc-configurator .sc-card-gallery .sc-card-gallery__container>.sc-card-gallery__more{
+        font-family: proxima-nova-condensed, serif !important;
+    	font-size: 13px !important;
+    	font-weight 500 !important;
+    	letter-spacing: 1.3px !important;
+    	line-height: 18.46px !important;
+    }
+    
+    .sc-builder h1 {
+    	font-family: Roboto, sans-serif !important;
+    	font-size: 28.5px !important;
+    	font-weight: 500 !important;
+    	letter-spacing: 2.85px !important;
+    	margin-bottom: 20px !important;
+    }
+
+    .sc-card-text .sc-textfield__resizable,
+    .sc-card-text input,
+    .sc-card-type .sc-textfield__resizable,
+    .sc-card-type input {
+    	border-radius: 0px !important;
+    }
+
+    .simplepicker-ok-btn.simplepicker-btn{
+      color: rgb(255, 255, 255) !important;
+     background-color: rgb(165, 130, 74) !important;
+    }
+
+    .simplepicker-calender tbody td.active,
+    .simplepicker-calender tbody td:active {
+      color: rgb(255, 80, 80)!important;
+    }
+
+    .sc-footer a {
+    	font-size: 0 !important;
+    	display: flex;
+    	align-items: center;
+    	margin: 0;
+    	padding: 0;
+    	line-height: initial;
+    }
+    
+    .sc-footer a:before {
+    	content: ' ';
+    	display: block;
+    	width: 180px;
+    	height: 50px;
+    	background: center center url(//hosannarevival.com/cdn/shop/files/Logotype-Black-1000px_3e7b45f5-47fb-46ff-b858-1be0b827a07a_180x.png?v=1613697240) no-repeat;
+    	background-size: cover;
+    	margin: auto;
+    }
+    
+    .sc-start-btn span {
+    	color: rgb(255, 255, 255) !important;
+    }
+    
+    .sc-footer {
+    	background-color: rgb(255, 255, 255) !important;
+    }
+
+    .sc-qr {
+      display: none !important;
+    }
+
+    .sc-greeting .sc-greeting__message, .sc-greeting .sc-greeting__name, .sc-greeting .sc-greeting__to {
+      font-family: inherit;
+      color: #000;
+    }
+  </style> 
+{% endif %} 
+
+
+
+{% if shop.metafields.gift_hero.giftcards.active and product.gift_card? %}
+  <div id="sc-giftcard-builder">
+{% endif %}
+{% section 'product-general-template' %}
+{% section 'product-recommendations' %}
+{% section 'recently-viewed' %}
+
+{% if collection %}
+  <div class="text-center page-content page-content--bottom">
+    <a href="{% if collection.handle == 'frontpage' %}/{% else %}{{ collection.url }}{% endif %}" class="btn btn--small return-link">
+      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 50 15"><path d="M50 5.38v4.25H15V15L0 7.5 15 0v5.38z"/></svg> {{ 'products.general.collection_return' | t: collection: collection.title }}
+    </a>
+  </div>
+{% endif %}
+
+        
+<script>
+  // Override default values of shop.strings for each template.
+  // Alternate product templates can change values of
+  // add to cart button, sold out, and unavailable states here.
+  theme.productStrings = {
+    addToCart: {{ 'products.product.add_to_cart' | t | json }},
+    soldOut: {{ 'products.product.sold_out' | t | json }},
+    unavailable: {{ 'products.product.unavailable' | t | json }}
+  };
+</script>
+{% if shop.metafields.gift_hero.giftcards.active and product.gift_card? %}
+  </div>
+{% endif %}
+
+

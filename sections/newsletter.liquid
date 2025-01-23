@@ -1,0 +1,97 @@
+{% style %}
+  .newsletter-{{ section.id }} {
+    {% if section.settings.image_bg %}
+    background-image: url({{ section.settings.image_bg | img_url: 'master' }});
+    {% else %}
+    background-color: {{ section.settings.main_background }};
+    {% endif %}
+    color: {{ section.settings.color_text }};
+  }
+  .newsletter-{{ section.id }} .grid__item {
+    background: {{ section.settings.color_background }};
+  }
+
+  .newsletter-{{ section.id }} .newsletter__input::-webkit-input-placeholder { color: {{ section.settings.color_text }}; }
+  .newsletter-{{ section.id }} .newsletter__input::-moz-placeholder { color: {{ section.settings.color_text }}; }
+  .newsletter-{{ section.id }} .newsletter__input::-ms-input-placeholder { color: {{ section.settings.color_text }}; }
+{% endstyle %}
+
+<div class="newsletter-section newsletter-{{ section.id }}{% if section.settings.color_background == settings.color_body_bg %} newsletter-section--with-divider{% endif %}">
+  <div class="page-width text-center">
+    <div class="grid">
+      <div class="grid__item medium-up--three-quarters medium-up--push-one-eighth">
+        {% if section.settings.image_title != blank %}
+          <img src="{{ section.settings.image_title | img_url: 'master' }}" width="{{ section.settings.image_width }}" alt="Stay in the loop!">
+        {% endif %}
+        {% if section.settings.text != blank %}
+          <div class="rte">{{ section.settings.text }}</div>
+        {% endif %}
+
+        {% include 'newsletter-form', section_id: section.id, snippet_context: 'section' %}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Newsletter",
+    "settings": [
+      {
+        "type": "paragraph",
+        "content": "Customers who subscribe will have their email address added to the 'accepts marketing' [customer list](/admin/customers?query=&accepts_marketing=1)."
+      },
+      {
+        "type": "color",
+        "id": "main_background",
+        "label": "Background color",
+        "default": "#fff"
+      },
+      {
+        "type": "image_picker",
+        "id": "image_bg",
+        "label": "Background image",
+        "info": "Overrides background color"
+      },
+      {
+        "type": "color",
+        "id": "color_background",
+        "label": "Inset background color",
+        "default": "#f9f9f9"
+      },
+      {
+        "type": "color",
+        "id": "color_text",
+        "label": "Text",
+        "default": "#1c1d1d"
+      },
+      {
+        "type": "image_picker",
+        "id": "image_title",
+        "label": "Image"
+      },
+      {
+        "type": "range",
+        "id": "image_width",
+        "label": "Image width",
+        "default": 500,
+        "min": 100,
+        "max": 1000,
+        "step": 10,
+        "unit": "px"
+      },
+      {
+        "type": "richtext",
+        "id": "text",
+        "label": "Content",
+        "default": "<p>We'd love to keep you in the loop when we launch new products, hold restocks, or have sales!</p>"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Newsletter",
+        "category": "Promotional"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,13 @@
+<div class="index-section index-section--title index-section--no-space" style="padding: {{ block.settings.space_above }}px 0 {{ block.settings.space_below }}px;">
+  <div class="page-width text-{{ block.settings.align_text }}">
+    <div class="grid">
+      <div class="grid__item{% if block.settings.narrow_column %} medium-up--three-quarters medium-up--push-one-eighth{% endif %}">
+        {% if block.settings.title != blank %}
+          <p class="h3" style="text-align: center;margin-bottom:0;letter-spacing: 3px;{% if block.settings.uppercase %} text-transform:uppercase;{% endif %}">
+            {{ block.settings.title | escape }}
+          </p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

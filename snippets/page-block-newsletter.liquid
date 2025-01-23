@@ -1,0 +1,34 @@
+{% style %}
+  .newsletter-{{ block.id }} {
+    {% if block.settings.image_bg %}
+    background-image: url({{ block.settings.image_bg | img_url: 'master' }});
+    {% else %}
+    background-color: {{ block.settings.main_background }};
+    {% endif %}
+    color: {{ block.settings.color_text }};
+  }
+  .newsletter-{{ block.id }} .grid__item {
+    background: {{ block.settings.color_background }};
+  }
+
+  .newsletter-{{ block.id }} .newsletter__input::-webkit-input-placeholder { color: {{ block.settings.color_text }}; }
+  .newsletter-{{ block.id }} .newsletter__input::-moz-placeholder { color: {{ block.settings.color_text }}; }
+  .newsletter-{{ block.id }} .newsletter__input::-ms-input-placeholder { color: {{ block.settings.color_text }}; }
+{% endstyle %}
+
+<div class="newsletter-section newsletter-{{ block.id }}{% if block.settings.color_background == settings.color_body_bg %} newsletter-section--with-divider{% endif %}">
+  <div class="page-width text-center">
+    <div class="grid">
+      <div class="grid__item medium-up--three-quarters medium-up--push-one-eighth">
+        {% if block.settings.image_title != blank %}
+          <img src="{{ block.settings.image_title | img_url: 'master' }}" width="{{ block.settings.image_width }}" alt="Stay in the loop!">
+        {% endif %}
+        {% if block.settings.text != blank %}
+          <div class="rte">{{ block.settings.text }}</div>
+        {% endif %}
+
+        {% include 'newsletter-form', section_id: section.id, snippet_context: 'section' %}
+      </div>
+    </div>
+  </div>
+</div>

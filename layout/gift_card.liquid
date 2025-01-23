@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="{{ request.locale.iso_code }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="{{ settings.color_button }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+
+  {%- if settings.favicon -%}
+    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
+  {%- endif -%}
+
+  {%- assign formatted_initial_value = gift_card.initial_value | money_without_trailing_zeros: gift_card.currency -%}
+  {%- assign formatted_initial_value_stripped = formatted_initial_value | strip_html -%}
+  <title>{{ 'gift_cards.issued.title_html' | t: value: formatted_initial_value_stripped, shop: shop.name }}</title>
+
+  <meta name="description" content="{{ 'gift_cards.issued.subtext' | t }}">
+
+  {%- include 'social-meta-tags' -%}
+
+  {% include 'font-face' %}
+  {{ 'theme.scss.css' | asset_url | stylesheet_tag }}
+  {{ 'gift-card.scss.css' | asset_url | stylesheet_tag }}
+
+  <script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+
+  <script src="{{ 'vendor-scripts-v6.js' | asset_url | split: '?' | first }}" defer="defer"></script>
+  {{ 'vendor/qrcode.js' | shopify_asset_url | script_tag }}
+
+  {{ content_for_header }}
+<!-- GSSTART Coming Soon code start. Do not change -->
+<script type="text/javascript"> gsProductByVariant = {}; {% if product.id > 1 %}{% for variant in product.variants %} gsProductByVariant[{{variant.id}}] = {% if variant.available %} 1 {% else %} 0 {% endif %}; {% endfor %}{% endif %}  gsProductCSID = "{{ product.id }}"; gsDefaultV = "{{ product.selected_or_first_available_variant.id }}"; </script><script type="text/javascript" src="https://gravity-software.com/js/shopify/pac_shop23515.js?v=gs{{ shop.metafields["gscode"]["gsimages"] }}xx"></script>
+<!-- Coming Soon code end. Do not change GSEND --></head>
+
+<body class="template-giftcard">
+
+  <div id="PageContainer">
+
+    <div class="page-width">
+
+      {% section 'giftcard-header' %}
+
+      <main class="giftcard" role="main">
+        {{ content_for_layout }}
+      </main>
+
+      <footer class="giftcard__footer">
+        {% if gift_card.pass_url %}
+          <a class="add-to-apple-wallet" href="{{ gift_card.pass_url }}">
+            <img src="{{ 'gift-card/add-to-apple-wallet.svg' | shopify_asset_url }}" width="120" height="40" alt="{{ 'gift_cards.issued.add_to_apple_wallet' | t }}">
+          </a>
+        {% endif %}
+      </footer>
+    </div>
+
+  </div>
+<style>
+   .sc-footer a {
+    	font-size: 0 !important;
+    	display: flex;
+    	align-items: center;
+    	margin: 0;
+    	padding: 0;
+    	line-height: initial;
+    }
+    
+    .sc-footer a:before {
+    	content: ' ';
+    	display: block;
+    	width: 180px;
+    	height: 50px;
+    	background: center center url(//hosannarevival.com/cdn/shop/files/Logotype-Black-1000px_3e7b45f5-47fb-46ff-b858-1be0b827a07a_180x.png?v=1613697240) no-repeat;
+    	background-size: cover;
+    	margin: auto;
+    }
+    
+    .sc-start-btn span {
+    	color: rgb(255, 255, 255) !important;
+    }
+    
+    .sc-footer {
+    	background-color: rgb(255, 255, 255) !important;
+    }
+
+    .sc-qr {
+      display: none !important;
+    }
+
+  .sc-greeting .sc-greeting__message, .sc-greeting .sc-greeting__name, .sc-greeting .sc-greeting__to {
+      font-family: inherit;
+      color: #000;
+    }
+</style>
+</body>
+</html>

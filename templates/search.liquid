@@ -1,0 +1,92 @@
+{% paginate search.results by 12 %}
+
+<div class="page-width page-content">
+
+  {%- include 'breadcrumbs' -%}
+
+  <div class="grid">
+    <div class="grid__item">
+      <header class="section-header">
+        <h1 class="section-header__title">
+          {{ 'general.search.title' | t }}
+        </h1>
+      </header>
+
+      {% include 'search-bar', search_btn_style: 'btn', search_bar_location: 'search-bar--page' %}
+
+      {% if search.performed %}
+
+        <hr class="hr--medium">
+
+        <div data-section-id="{{ section.id }}" data-section-type="collection-template">
+          <div class="section-header">
+            <h2 class="section-header__title">
+              {{ 'general.search.result_count' | t: count: search.results_count }}
+            </h2>
+            {% if search.results_count == 0 %}
+              <p>
+                {{ 'general.search.no_results_html' | t: terms: search.terms | replace: '*', '' }}
+              </p>
+            {% endif %}
+          </div>
+
+          <div class="grid grid--uniform">
+            {% for item in search.results %}
+              {% unless item.handle contains 'navidium' %}
+
+              {% if item.object_type == 'product' %}
+                {%- assign product = item -%}
+                {% include 'product-grid-item' %}
+              {% else %}
+                <div class="grid__item grid-search medium-up--one-quarter small--one-half">
+                  <div class="grid-search__page">
+                    <a href="{{ item.url }}" class="grid-search__page-link">
+                      <span class="grid-search__page-content">
+                        <span class="h4">{{ item.title }}</span>
+                        {% if item.object_type == 'article' and item.image %}
+                          {%- assign img_url = item.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+                          <img class="grid-product__image lazyload"
+                              data-src="{{ img_url }}"
+                              data-widths="[180, 360, 540]"
+                              data-aspectratio="{{ item.image.aspect_ratio }}"
+                              data-sizes="auto"
+                              alt="{{ item.title | escape }}">
+                        {% endif %}
+                        {{ item.content | strip_html | truncatewords: 45 }}
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              {% endif %}
+              {% endunless %}
+            {% endfor %}
+
+            {% for item in search.results %}
+              {% if item.object_type == 'product' %}
+                {% if settings.quick_shop_enable %}
+                  {%- assign product = item -%}
+                  {% include 'quick-shop-modal' %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+
+        {% if paginate.pages > 1 %}
+          {% include 'pagination' %}
+        {% endif %}
+
+      {% endif %}
+
+      <hr class="hr--medium">
+        <div class="section-header">
+          <h2 class="section-header__title">Are you looking for <em>WHEN</em> articles?</h2>
+          <p style="padding-bottom: 30px;"><em>WHEN</em> is a branch of Hosanna Revival Publishing that provides high-quality free content to point you to Scripture.</p>
+          <a href="https://hosannarevival.blog/search" target="_blank" class="btn">Search Articles</a>
+        </div>
+      <!--<iframe src="https://hosannarevival.blog/search/" target="_blank" width="100%" height="800" style="border:2px solid #f2f2f2;" title="Search WHEN blog"></iframe>-->
+    </div>
+  </div>
+</div>
+
+{% endpaginate %}

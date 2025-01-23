@@ -1,0 +1,27 @@
+{%- assign quiz_key = section.settings.key -%}
+              {%- if quiz_key != blank -%}
+                {% if customer %}
+                  <script>
+                    localStorage.setItem('customerEmail', '{{ customer.email }}')
+                  </script>
+                {% endif %}
+                <div data-quiz-kit-key="{{ quiz_key }}"></div>
+              {%- endif -%}
+              {% schema %}
+                {
+                  "name": "Quiz Kit",
+                  "settings": [
+                  {
+                    "type": "text",
+                    "id": "key",
+                    "label": "Quiz key"
+                  }
+                ],
+                  "presets": [
+                    {
+                      "name": "Quiz Kit",
+                      "category": "Quiz"
+                    }
+                  ]
+                }
+              {% endschema %}

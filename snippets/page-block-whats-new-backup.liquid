@@ -1,0 +1,10 @@
+<!-- different -->
+{% if block.settings.image %}
+  <a href="{{block.settings.link}}" class="whats-new-link text-center">
+    <img src="{{ block.settings.image | img_url: 'master' }}" width="800" alt="{{ block.settings.title }}">
+  </a>
+{% else %}
+  <a href="{{block.settings.link}}">
+    <p>{{ block.settings.title }}</p>
+  </a>
+{% endif %}

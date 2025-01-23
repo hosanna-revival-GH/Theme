@@ -1,0 +1,14 @@
+<!--THIS IS THE CART CHECK CODE WE USED TO KEEP PEOPLE FROM BEING ABLE TO ADD A PRE-ORDER KJV BIBLE TO THEIR CART WITH OTHER AVAILABLE PRODUCTS-->
+{%- assign cart_type = '' -%}
+{%- if cart.items[0].product.tags contains 'standard' -%}
+  {%- assign cart_type = 'Standard' -%}
+{%- elsif cart.items[0].product.tags contains 'KJV' -%}
+  {%- assign cart_type = 'KJV' -%}
+{%- endif -%}
+{% if product.tags contains 'standard' and cart_type == 'KJV' %}
+  <p style="color:white;background:#990038;padding:10px;"><strong>This item cannot be ordered together with a pre-order item, and you have a pre-order item in your cart. If you would like to place an order for this item, please place a separate order.</strong></p>
+  <style>.add-to-cart, .payment-buttons {display: none;}</style>
+{% elsif product.tags contains 'KJV' and cart_type == 'Standard' %}
+  <p style="color:white;background:#990038;padding:10px;"><strong>This KJV Bible is a pre-order item which cannot be ordered together with regular shop items. Please remove the other items in your cart in order to purchase this KJV Bible. If you would like to order other items, please place a separate order.</strong></p>
+  <style>.add-to-cart, .payment-buttons {display: none;}</style>
+{% endif %}

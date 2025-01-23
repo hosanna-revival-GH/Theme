@@ -1,0 +1,186 @@
+{% style %}
+  .mission-{{ section.id }} {
+    {% if section.settings.image_background %}
+    background-image: url({{ section.settings.image_background | img_url: 'master' }});
+    {% else %}
+    background-color: {{ section.settings.color_background }};
+    {% endif %}
+    color: {{ section.settings.color_text }};
+  }
+{% endstyle %}
+
+<div class="mission-section mission-{{ section.id }}{% if section.settings.divider %} section--divider{% endif %}">
+
+  <div
+    data-section-id="{{ section.id }}"
+    data-section-type="featured-content-section"
+    class="text-{{ section.settings.align_text }}">
+
+    <div class="page-width">
+      <div class="grid">
+        <div class="grid__item{% if section.settings.narrow_column %} medium-up--three-quarters medium-up--push-one-eighth{% endif %}">
+          {% if section.settings.image != blank %}
+            <div class="text-center">
+              <img src="{{ section.settings.image | img_url: 'master' }}" width="{{ section.settings.image_width }}" alt="Hosanna Revival: Our Mission">
+            </div>
+          {% endif %}
+
+          {% if section.settings.text != blank %}
+            <div class="rte">
+              {% if section.settings.enlarge_text %}<div class="enlarge-text">{% endif %}
+              {{ section.settings.text }}
+              {% if section.settings.enlarge_text %}</div>{% endif %}
+            </div>
+          {% endif %}
+
+          {% for block in section.blocks %}
+            <div class="rte" {{ block.shopify_attributes }}>
+              {% case block.type %}
+                {% when 'page' %}
+                  {% if block.settings.home_page_content != blank %}
+                    {{ pages[block.settings.home_page_content].content }}
+                  {% else %}
+                    {{ 'home_page.onboarding.no_content' | t }}
+                  {% endif %}
+                {% when 'text' %}
+                  {% if block.settings.home_page_richtext != blank %}
+                    {% if block.settings.enlarge_text %}<div class="enlarge-text">{% endif %}
+                    {{ block.settings.home_page_richtext }}
+                    {% if block.settings.enlarge_text %}</div>{% endif %}
+                  {% else %}
+                    {{ 'home_page.onboarding.no_content' | t }}
+                  {% endif %}
+              {% endcase %}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Our mission",
+    "class": "index-section",
+    "max_blocks": 2,
+    "settings": [
+      {
+        "type": "color",
+        "id": "color_background",
+        "label": "Background color",
+        "default": "#f9f9f9"
+      },
+      {
+        "type": "image_picker",
+        "id": "image_background",
+        "label": "Background image",
+        "info": "Overrides background color"
+      },
+      {
+        "type": "color",
+        "id": "color_text",
+        "label": "Text color",
+        "default": "#000"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image heading"
+      },
+      {
+        "type": "range",
+        "id": "image_width",
+        "label": "Image width",
+        "default": 500,
+        "min": 100,
+        "max": 1000,
+        "step": 10,
+        "unit": "px"
+      },
+      {
+        "type": "richtext",
+        "id": "text",
+        "label": "Text",
+        "default": "<p>Hosanna Revival was created on the belief that as people of a broken and boring life, we are in desperate need of revival. When something is new and beautiful, it can become fun, exciting, and yours. For that reason, our founder, Katie, began re-binding and hand-painting beautiful Bibles in 2015. Years later, our mission is the same: we work to excite women about engaging in Scripture by creating beautiful and intentional tools for their lives. We make beautiful Bibles, journals, and other lovely things because we believe they can be used to draw us closer to our Creator, and that's what we're all about.</p>"
+      },
+      {
+        "type": "select",
+        "id": "align_text",
+        "label": "Text alignment",
+        "default": "center",
+        "options": [
+          {
+            "value": "left",
+            "label": "Left"
+          },
+          {
+            "value": "center",
+            "label": "Centered"
+          },
+          {
+            "value": "justify",
+            "label": "Justified"
+          },
+          {
+            "value": "justify-center",
+            "label": "Justified Center"
+          }
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "narrow_column",
+        "label": "Narrow column",
+        "default": true
+      },
+      {
+        "type": "checkbox",
+        "id": "enlarge_text",
+        "label": "Enlarge text",
+        "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "divider",
+        "label": "Show section divider",
+        "default": false
+      }
+    ],
+    "presets": [{
+      "name": "Mission blurb",
+      "category": "Text"
+    }],
+    "blocks" : [
+      {
+        "type": "text",
+        "name": "Text",
+        "settings": [
+          {
+            "type": "checkbox",
+            "id": "enlarge_text",
+            "label": "Enlarge text",
+            "default": false
+          },
+          {
+            "id": "home_page_richtext",
+            "type": "richtext",
+            "label": "Text",
+            "default": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        ]
+      },
+      {
+        "type": "page",
+        "name": "Page",
+        "settings": [
+          {
+            "id": "home_page_content",
+            "type": "page",
+            "label": "Page"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
