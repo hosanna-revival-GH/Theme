@@ -28,7 +28,8 @@
   {%- endif -%}
 
   {%- render 'social-meta-tags' -%}
-
+    <!-- Adobe Fonts: Proxima Nova Condensed -->
+  <link rel="stylesheet" href="https://use.typekit.net/hrm5rlr.css">
   {%- render 'font-face' -%}
   {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
   {%- render 'css-variables' -%}
