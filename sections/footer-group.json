@@ -1,1 +1,119 @@
-{"type":"footer","name":"t:sections.footer-group.name","sections":{"footer-promotions":{"type":"footer-promotions","blocks":{"footer-promotions-0":{"type":"promotion","settings":{"enable_image":true}},"footer-promotions-1":{"type":"promotion","settings":{"enable_image":true}},"footer-promotions-2":{"type":"promotion","settings":{"enable_image":true}}},"block_order":["footer-promotions-0","footer-promotions-1","footer-promotions-2"],"settings":{}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"logo_social","settings":{"container_width":95}},"footer-1":{"type":"menu","settings":{"menu":"footer","container_width":25}},"footer2":{"type":"newsletter","settings":{"container_width":33}}},"block_order":["footer-1","footer2","footer-0"],"settings":{"show_payment_icons":false}}},"order":["footer-promotions","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "blocks": {
+        "footer-promotions-0": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true
+          }
+        },
+        "footer-promotions-1": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true
+          }
+        },
+        "footer-promotions-2": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true
+          }
+        }
+      },
+      "block_order": [
+        "footer-promotions-0",
+        "footer-promotions-1",
+        "footer-promotions-2"
+      ],
+      "settings": {}
+    },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1494301487048": {
+            "type": "logo_social",
+            "settings": {
+              "logo": "shopify://shop_images/Logotype-White-1000px.png",
+              "desktop_logo_height": 50,
+              "container_width": 25
+            }
+          },
+          "1494301487049": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "footer-shop",
+              "container_width": 25
+            }
+          },
+          "1591634102710": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "footer-info",
+              "container_width": 25
+            }
+          },
+          "1591634112189": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "footer-support",
+              "container_width": 25
+            }
+          },
+          "1591634176799": {
+            "type": "custom",
+            "settings": {
+              "show_footer_title": false,
+              "title": "Verse",
+              "text": "<p>“The hand of the Lord was upon me, and he brought me out in the Spirit of the Lord and set me down in the middle of the valley; it was full of bones. And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry. And he said to me, ‘Son of man, can these bones live?’ And I answered, ‘O Lord God, you know.‘ Then he said to me, ‘Prophesy over these bones, and say to them, O dry bones, hear the word of the Lord. Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live.’” —Ezekiel 37:1-5</p>",
+              "container_width": 75
+            }
+          },
+          "1598302247073": {
+            "type": "newsletter",
+            "settings": {
+              "show_footer_title": false,
+              "title": "Find us on Social Media",
+              "text": "",
+              "container_width": 25
+            }
+          }
+        },
+        "block_order": [
+          "1494301487048",
+          "1494301487049",
+          "1591634102710",
+          "1591634112189",
+          "1591634176799",
+          "1598302247073"
+        ],
+        "settings": {
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_currency_flags": true,
+          "show_payment_icons": false,
+          "show_copyright": true,
+          "copyright_text": ""
+        }
+      },
+  },
+  "order": [
+    "footer-promotions",
+    "footer"
+  ]
+}
