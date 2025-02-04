@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "t:sections.header-group.name",
@@ -8,7 +17,8 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "desktop_logo_width": 140,
+            "logo": "shopify://shop_images/Logotype-Black-1000px_3e7b45f5-47fb-46ff-b858-1be0b827a07a.png",
+            "desktop_logo_width": 180,
             "mobile_logo_width": 110
           }
         }
@@ -18,12 +28,17 @@
       ],
       "settings": {
         "main_menu_link_list": "main-menu",
+        "hover_menu": true,
+        "mega_menu_images": true,
         "main_menu_alignment": "center-split",
         "header_style": "sticky",
         "sticky_index": false,
         "sticky_collection": false,
-        "toolbar_menu": "top",
-        "toolbar_social": true
+        "toolbar_menu": "top-nav",
+        "toolbar_social": true,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "show_currency_flags": false
       }
     },
     "announcement": {
@@ -32,21 +47,32 @@
         "announcement-0": {
           "type": "announcement",
           "settings": {
-            "text": "Free shipping",
-            "link_text": "On all orders over $100"
+            "text": "10% off 2025 Planners",
+            "link_text": "Intentionality meets functionality—it’s not too late to start your planner",
+            "link": "shopify://collections/planners"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Hassle-free returns",
-            "link_text": "30-day postage paid returns"
+            "text": "Begin your 5-Year Prayer Journal",
+            "link_text": "Commit to daily prayer and reflect on God’s faithfulness this year",
+            "link": "shopify://collections/one-thing-i-ask"
+          }
+        },
+        "announcement_NXQKWa": {
+          "type": "announcement",
+          "settings": {
+            "text": "Beautiful Bibles to excite you to engage in Scripture",
+            "link_text": "Explore our Bibles and the beauty they hold",
+            "link": "shopify://collections/beautiful-bibles"
           }
         }
       },
       "block_order": [
         "announcement-0",
-        "announcement-1"
+        "announcement-1",
+        "announcement_NXQKWa"
       ],
       "settings": {
         "announcement_compact": true
