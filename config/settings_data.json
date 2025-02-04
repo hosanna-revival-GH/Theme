@@ -12,45 +12,42 @@
     "color_body_bg": "#ffffff",
     "color_body_text": "#000000",
     "color_price": "#1c1d1d",
-    "color_savings_text": "#990038",
+    "color_savings_text": "#C20000",
     "color_borders": "#e8e8e1",
-    "color_button": "#e3e6d7",
-    "color_button_text": "#717057",
-    "color_sale_tag": "#990038",
-    "color_cart_dot": "#990038",
+    "color_button": "#111111",
+    "color_button_text": "#ffffff",
+    "color_cart_dot": "#ff4f33",
     "color_small_image_bg": "#ffffff",
     "color_large_image_bg": "#0f0f0f",
     "color_header": "#ffffff",
     "color_header_text": "#000000",
-    "color_announcement": "#2e4251",
-    "color_announcement_text": "#f4efe6",
-    "color_footer": "#2e4251",
-    "color_footer_text": "#f4efe6",
+    "color_announcement": "#0f0f0f",
+    "color_announcement_text": "#ffffff",
+    "color_footer": "#ffffff",
+    "color_footer_text": "#000000",
     "color_drawer_background": "#ffffff",
     "color_drawer_text": "#000000",
     "color_drawer_border": "#e8e8e1",
-    "color_drawer_button": "#55666e",
+    "color_drawer_button": "#111111",
     "color_drawer_button_text": "#ffffff",
     "color_modal_overlays": "#e6e6e6",
     "color_image_overlay": "#000000",
     "color_image_overlay_text_shadow": 20,
-    "type_header_font_family": "baskerville_no_2_n4",
     "type_header_spacing": "0",
-    "type_header_base_size": 38,
+    "type_header_base_size": 36,
     "type_header_line_height": 1,
     "type_header_capitalize": true,
     "type_headers_align_text": true,
-    "type_base_font_family": "baskerville_no_2_n4",
     "type_base_spacing": "25",
-    "type_base_size": 16,
-    "type_base_line_height": 1.6,
+    "type_base_size": 18,
+    "type_base_line_height": 1.4,
     "type_body_align_text": true,
     "type_navigation_style": "body",
     "type_navigation_size": 13,
     "type_navigation_capitalize": true,
     "type_product_style": "body",
     "type_collection_font": "body",
-    "type_collection_size": 18,
+    "type_collection_size": 20,
     "button_style": "square",
     "icon_weight": "2px",
     "icon_linecaps": "miter",
@@ -91,14 +88,7 @@
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Modern": {
@@ -280,43 +270,71 @@
         "footer": {
           "type": "footer",
           "blocks": {
-            "1494301487049": {
-              "type": "menu",
-              "settings": {
-                "show_footer_title": false,
-                "menu": "footer",
-                "container_width": 25
-              }
-            },
-            "1494292487693": {
-              "type": "newsletter",
-              "settings": {
-                "show_footer_title": true,
-                "title": "Sign up and save",
-                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
-                "container_width": 30
-              }
-            },
             "1494301487048": {
               "type": "logo_social",
               "settings": {
-                "logo": "",
+                "logo": "shopify://shop_images/Logotype-White-1000px.png",
                 "desktop_logo_height": 50,
-                "container_width": 95
+                "container_width": 25
+              }
+            },
+            "1494301487049": {
+              "type": "menu",
+              "settings": {
+                "show_footer_title": true,
+                "menu": "footer-shop",
+                "container_width": 25
+              }
+            },
+            "1591634102710": {
+              "type": "menu",
+              "settings": {
+                "show_footer_title": true,
+                "menu": "footer-info",
+                "container_width": 25
+              }
+            },
+            "1591634112189": {
+              "type": "menu",
+              "settings": {
+                "show_footer_title": true,
+                "menu": "footer-support",
+                "container_width": 25
+              }
+            },
+            "1591634176799": {
+              "type": "custom",
+              "settings": {
+                "show_footer_title": false,
+                "title": "Verse",
+                "text": "<p>“The hand of the Lord was upon me, and he brought me out in the Spirit of the Lord and set me down in the middle of the valley; it was full of bones. And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry. And he said to me, ‘Son of man, can these bones live?’ And I answered, ‘O Lord God, you know.‘ Then he said to me, ‘Prophesy over these bones, and say to them, O dry bones, hear the word of the Lord. Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live.’” —Ezekiel 37:1-5</p>",
+                "container_width": 75
+              }
+            },
+            "1598302247073": {
+              "type": "newsletter",
+              "settings": {
+                "show_footer_title": false,
+                "title": "Find us on Social Media",
+                "text": "",
+                "container_width": 25
               }
             }
           },
           "block_order": [
+            "1494301487048",
             "1494301487049",
-            "1494292487693",
-            "1494301487048"
+            "1591634102710",
+            "1591634112189",
+            "1591634176799",
+            "1598302247073"
           ],
           "settings": {
             "show_locale_selector": true,
             "show_currency_selector": true,
             "show_currency_flags": true,
             "show_payment_icons": false,
-            "show_copyright": false,
+            "show_copyright": true,
             "copyright_text": ""
           }
         },
