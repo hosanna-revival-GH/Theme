@@ -67,12 +67,21 @@
             "link_text": "Explore our Bibles and the beauty they hold",
             "link": "shopify://collections/beautiful-bibles"
           }
+        },
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Devotionals for every season",
+            "link_text": "Explore our devotional library for Scripture-based wisdom",
+            "link": "shopify://collections/devotionals"
+          }
         }
       },
       "block_order": [
         "announcement-0",
         "announcement-1",
-        "announcement_NXQKWa"
+        "announcement_NXQKWa",
+        "announcement_mMUAeX"
       ],
       "settings": {
         "announcement_compact": true
