@@ -46,17 +46,17 @@
       }
     },
     "featured-collection": {
-        "type": "featured-collection",
-        "settings": {
-          "title": "CHOOSE THE DESIGN THAT SPEAKS TO YOU",
-          "home_featured_products": "beautiful-bibles",
-          "per_row": 5,
-          "rows": 1,
-          "mobile_scrollable": true,
-          "view_all": true,
-          "divider": false
-        }
-      },
+      "type": "featured-collection",
+      "settings": {
+        "title": "CHOOSE THE DESIGN THAT SPEAKS TO YOU",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
@@ -98,11 +98,68 @@
         "show_button": true,
         "lazyload_images": true
       }
+    },
+    "promo_grid_qpi8Dd": {
+      "type": "promo-grid",
+      "blocks": {
+        "advanced_eCqhHF": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "advanced_iCV8g9": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "advanced_eCqhHF",
+        "advanced_iCV8g9"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-collection",
+    "promo_grid_qpi8Dd",
     "background-image-text",
     "blog-posts",
     "map"
