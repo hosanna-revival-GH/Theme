@@ -156,12 +156,49 @@
         "show_button": true,
         "lazyload_images": true
       }
+    },
+    "slideshow_bFRBJV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_R4xKcJ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/collections/best-sellers/bible",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/1-16-25-Post-Sale-04_0ccc8402-def1-416f-994a-5e5e9fa314fb.png",
+            "image_mobile": "shopify://shop_images/1-16-25-Post-Sale-02_b9667ef4-2842-4d66-934e-42d69e538510.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_R4xKcJ"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-collection",
     "promo_grid_qpi8Dd",
+    "slideshow_bFRBJV",
     "background-image-text",
     "blog-posts",
     "map"
