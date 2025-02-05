@@ -30,7 +30,7 @@
   {%- render 'social-meta-tags' -%}
 
   {%- render 'font-face' -%}
-  {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
+
   {%- render 'css-variables' -%}
 
   <script>
@@ -97,7 +97,7 @@
 
   {% if request.design_mode %}
     <script>theme.settings.email = {{ shop.email | json }}</script>
-    {% comment %}<script src="https://api.archetypethemes.co/design-mode.js" defer="defer"></script>  {% endcomment %}
+    {<script src="https://api.archetypethemes.co/design-mode.js" defer="defer"></script>
   {% endif %}
 </head>
 
