@@ -192,13 +192,26 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
-    }
+    },
+    "featured_collection_JDUqAJ": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Explore the Devotional Library",
+          "home_featured_products": "devotionals",
+          "per_row": 5,
+          "rows": 1,
+          "mobile_scrollable": true,
+          "view_all": true,
+          "divider": false
+        }
+      },
   },
   "order": [
     "slideshow",
     "featured-collection",
     "promo_grid_qpi8Dd",
     "slideshow_bFRBJV",
+    "featured_collection_JDUqAJ",
     "background-image-text",
     "blog-posts",
     "map"
