@@ -97,7 +97,7 @@
 
   {% if request.design_mode %}
     <script>theme.settings.email = {{ shop.email | json }}</script>
-    <script src="https://api.archetypethemes.co/design-mode.js" defer="defer"></script>
+    {% comment %}<script src="https://api.archetypethemes.co/design-mode.js" defer="defer"></script>  {% endcomment %}
   {% endif %}
 </head>
 
