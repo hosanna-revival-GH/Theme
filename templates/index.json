@@ -283,36 +283,6 @@
         "autoplay": false,
         "autoplay_speed": 7
       }
-    },
-    "slideshow_ARPJM7": {
-      "type": "slideshow",
-      "blocks": {
-        "image_HcYVEX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-07_fef4469f-83ce-4c47-b6da-c403a7dc6a08.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_HcYVEX"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "parallax": false,
-        "style": "minimal",
-        "autoplay": false,
-        "autoplay_speed": 7
-      }
     }
   },
   "order": [
@@ -321,7 +291,6 @@
     "promo_grid_qpi8Dd",
     "slideshow_bFRBJV",
     "featured_collection_JDUqAJ",
-    "slideshow_ARPJM7",
     "promo_grid_rPL8cn",
     "slideshow_LAdPKf",
     "background-image-text",
