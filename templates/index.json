@@ -247,6 +247,35 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
+    },
+    "slideshow_BkBAEX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jifDy9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/1-01-25-web-07.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_jifDy9"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
     }
   },
   "order": [
@@ -255,6 +284,7 @@
     "promo_grid_qpi8Dd",
     "slideshow_bFRBJV",
     "featured_collection_JDUqAJ",
+    "slideshow_BkBAEX",
     "promo_grid_rPL8cn",
     "slideshow_LAdPKf"
   ]
