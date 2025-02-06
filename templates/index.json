@@ -213,48 +213,6 @@
         "lazyload_images": true
       }
     },
-    "background-image-text": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-        "button_label": "",
-        "button_link": "shopify://collections/all",
-        "layout": "left",
-        "height": 750,
-        "framed": false,
-        "parallax": true,
-        "parallax_direction": "top",
-        "lazyload_images": true
-      }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "From the journal",
-        "blog": "news",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "blog_image_size": "wide",
-        "divider": false
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm</p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "api_key": "",
-        "show_button": true,
-        "lazyload_images": true
-      }
-    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -267,9 +225,13 @@
             "subheading": "",
             "link": "shopify://pages/about",
             "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1-09-25-web-010.png"
+            "image": "shopify://shop_images/1-09-25-web-010.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
@@ -278,10 +240,12 @@
       ],
       "settings": {
         "section_height": "natural",
+        "mobile_height": "auto",
         "parallax": false,
         "style": "minimal",
         "autoplay": false,
-        "autoplay_speed": 7
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     }
   },
@@ -292,9 +256,6 @@
     "slideshow_bFRBJV",
     "featured_collection_JDUqAJ",
     "promo_grid_rPL8cn",
-    "slideshow_LAdPKf",
-    "background-image-text",
-    "blog-posts",
-    "map"
+    "slideshow_LAdPKf"
   ]
 }
