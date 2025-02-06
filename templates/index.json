@@ -205,6 +205,55 @@
           "divider": false
         }
       },
+              "promo_grid_rPL8cn": {
+        "type": "promo-grid",
+        "blocks": {
+          "image_B8YJWP": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/1-09-25-web-06_a436a2a8-9ce5-4c17-9031-74cc6b20588b.png",
+              "link": "shopify://pages/bible-toolkit",
+              "width": "25"
+            }
+          },
+          "image_FgbaUr": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/1-09-25-web-07_52ac93a6-cf0b-4a96-8e79-94e52795489a.png",
+              "link": "shopify://pages/prayer-toolkit",
+              "width": "25"
+            }
+          },
+          "image_iFgL6D": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/1-09-25-web-08_90bdebb9-40e5-4419-a669-5676d485f981.png",
+              "link": "shopify://blogs/lock-screens",
+              "width": "25"
+            }
+          },
+          "image_gaptee": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/1-09-25-web-09_92167df6-36c7-4e6f-ac86-37ff5f242555.png",
+              "link": "https://hosannarevival.blog",
+              "width": "25"
+            }
+          }
+        },
+        "block_order": [
+          "image_B8YJWP",
+          "image_FgbaUr",
+          "image_iFgL6D",
+          "image_gaptee"
+        ],
+        "settings": {
+          "full_width": true,
+          "gutter_size": 0,
+          "space_above": false,
+          "space_below": false
+        }
+      },
   },
   "order": [
     "slideshow",
@@ -212,6 +261,7 @@
     "promo_grid_qpi8Dd",
     "slideshow_bFRBJV",
     "featured_collection_JDUqAJ",
+    "promo_grid_rPL8cn",
     "background-image-text",
     "blog-posts",
     "map"
