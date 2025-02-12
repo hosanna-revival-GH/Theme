@@ -32,7 +32,7 @@
         "liquid_DTg4mE": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "code": "<div class=\"acerill-custom-form\" data-form-id=\"831777bc-bd42-45b7-97f3-4ba686c39973\"></div><script type=\"text/javascript\" src=\"https://custom-forms-client.acerill.com/js/custom-forms-v2.js\"></script>",
             "width": "100%",
             "alignment": "center"
           }
