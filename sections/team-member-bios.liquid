@@ -5,7 +5,7 @@
         <h2>{{ section.settings.title }}</h2>
       </div>
     {% endif %}
-    {% assign text_column_count = section.settings.number_columns | times: 1 %} ---{{ text_column_count }}
+    {% assign text_column_count = section.settings.number_columns | times: 1 %} 
 
     {% case text_column_count %}
       {% when 1 %}
@@ -17,7 +17,6 @@
     {% endcase %}
     <div class="grid grid--flush-bottom">
       {% for block in section.blocks %}
-        {% assign grid_item_width = 'medium-up--one-third' %}
         <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
           {% if block.settings.enable_image %}
             <div style="{% if section.settings.align_text == 'center' %}margin: 0 auto;{% endif %}">
