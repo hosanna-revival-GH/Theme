@@ -130,6 +130,39 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_nQKHQj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AmEeXb": {
+          "type": "heading",
+          "settings": {
+            "title": "Our History"
+          }
+        },
+        "text_7XT6wJ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In 2015 while studying in Spain, our founder Katie had the idea to re-bind and paint her bilingual Bible. It was plain black, but she wanted her Bible to be beautiful and personal, reflecting the way the words on the inside made her feel. Katie immediately saw the ministry that this could become. She spent the next few weeks trying out different materials and processes—creating what is now Hosanna Revival.</p><p>Truly, it was a simple concept: When you get a new planner, you’re excited to organize. When you get a new journal, you’re excited to fill it up. When you get a new traveling coffee mug, all of the sudden you take your coffee to-go. What if a new and beautiful Bible would excite you to actually open it up and read it?</p><p>We are convinced that a beautiful Bible can lead even the darkest heart to crack it open and consider the words inside of it. We are convinced that a beautiful Bible can revive the heart of a believer gone astray by motivating them and reminding them of the truth beyond the cover. We are convinced that an active Christ follower will be drawn to the foot of the cross each morning by the Scripture within their precious tool. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AmEeXb",
+        "text_7XT6wJ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "about--2021-history",
+        "color_bg": "#ffffff",
+        "color_text": "#1c1d1d",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -137,6 +170,7 @@
     "hero_video_ANVyba",
     "slideshow",
     "rich-text",
-    "rich_text_aDNQJ8"
+    "rich_text_aDNQJ8",
+    "rich_text_nQKHQj"
   ]
 }
