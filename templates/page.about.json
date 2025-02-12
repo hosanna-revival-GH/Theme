@@ -199,6 +199,39 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "team_member_bios_ayLpAY": {
+      "type": "team-member-bios",
+      "blocks": {
+        "team_member_PMJYnJ": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/05-Ben-Hosanna-Revival-Team.jpg",
+            "image_width": 300,
+            "title": "Ben",
+            "text": "<p>Ben joined the Hosanna team in May of 2020 as an intern. Now, as the Director of Commercial Operations, Ben oversees Hosanna Revival's presence in retail locations across the globe and manages a lot of the day-to-day tasks of the production & supply chain process. Ben’s relationship with the Lord really took off when he arrived at the University of Cincinnati. It was there that he found a real, genuine Jesus-loving community to do life with. Ben enjoys teaching others about the infinite depths of the Lord and is passionate about the local church. Off the clock, you'll either find Ben consuming (too much) caffeine, playing golf or tennis, or eating tacos with his beautiful wife, Lily.<br/><em>(see </em><a href=\"https://www.bible.com/bible/111/GEN.49.27.NIV\" target=\"_blank\" title=\"https://www.bible.com/bible/111/GEN.49.27.NIV\"><em>Genesis 49:27</em></a><em> for Ben's true bio)</em></p>"
+          }
+        },
+        "team_member_PEhtdX": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-40.jpg",
+            "image_width": 300,
+            "title": "Malory",
+            "text": "<p>Malory is the director of publishing at Hosanna Revival. She lives in Cincinnati, Ohio with her husband and two sons. Malory met the Lord her freshman year of high school when the weight of sin and the gift of grace were explained in a way that made sense for the first time. Over the years of following Christ, she has fallen in love with the Word of God and is passionate about creating space for women in all walks of faith to open the Bible and process its words together to build biblical literacy. On an average day, you can find her taking a long walk, raiding the public library for her next good read, or drinking iced coffee.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "team_member_PMJYnJ",
+        "team_member_PEhtdX"
+      ],
+      "settings": {
+        "title": "Our Team",
+        "align_text": "center"
+      }
     }
   },
   "order": [
@@ -208,6 +241,7 @@
     "rich-text",
     "rich_text_aDNQJ8",
     "rich_text_nQKHQj",
-    "slideshow_TfaxhB"
+    "slideshow_TfaxhB",
+    "team_member_bios_ayLpAY"
   ]
 }
