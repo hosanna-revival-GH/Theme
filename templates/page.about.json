@@ -163,6 +163,42 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "slideshow_TfaxhB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9UU8MH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hosanna_History_v2.png",
+            "image_mobile": "shopify://shop_images/timeline_mobile.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_9UU8MH"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -171,6 +207,7 @@
     "slideshow",
     "rich-text",
     "rich_text_aDNQJ8",
-    "rich_text_nQKHQj"
+    "rich_text_nQKHQj",
+    "slideshow_TfaxhB"
   ]
 }
