@@ -20,8 +20,8 @@
         <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
           {% if block.settings.enable_image %}
             <div style="{% if section.settings.align_text == 'center' %}margin: 0 auto;{% endif %}">
-              <a href="{{ block.settings.image | image_url: width: 1024 }}" data-fancybox="our-team" data-caption="{{ block.settings.title }}">
-                {{ block.settings.image | image_url: width: 1024 | image_tag: alt: block.settings.title }}
+              <a href="{{ block.settings.image | image_url: width: section.settings.image_width }}" data-fancybox="our-team" data-caption="{{ block.settings.title }}">
+                {{ block.settings.image | image_url: width: section.settings.image_width | image_tag: alt: block.settings.title }}
               </a>
             </div>
           {% endif %}
