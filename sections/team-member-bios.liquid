@@ -7,19 +7,19 @@
     {% endif %}
     {% assign text_column_count = section.settings.number_columns | times: 1 %} 
 
-    {% case text_column_count %}
-      {% when 1 %}
-        {% assign grid_item_width = '' %}
-      {% when 2 %}
-        {% assign grid_item_width = 'medium-up--one-half' %}
-      {% when 3 %}
-        {% assign grid_item_width = 'medium-up--one-third' %}
-    {% endcase %}
-    <div class="grid grid--flush-bottom">
+    <div class="grid" style="display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;">
       {% for block in section.blocks %}
-        <div class="grid__item {{ grid_item_width }}" data-aos="row-of-{{ text_column_count }}">
+        {% case text_column_count %}
+          {% when 1 %}
+            {% assign grid_item_width = '100%' %}
+          {% when 2 %}
+            {% assign grid_item_width = '50%' %}
+          {% when 3 %}
+            {% assign grid_item_width = '33.3333%' %}
+        {% endcase %}
+        <div class="grid__item" data-aos="row-of-{{ text_column_count }}" style="flex: 0 0 {{ grid_item_width }}; max-width: {{ grid_item_width }}; padding-right: 15px; padding-left: 15px; box-sizing: border-box;">
           {% if block.settings.enable_image %}
-            <div class="image-wrap text-spacing" style="{% if section.settings.align_text == 'center' %}margin: 0 auto 10px;{% endif %} max-width:{{ block.settings.image_width }}px;">
+            <div class="image-wrap text-spacing" style="{% if section.settings.align_text == 'center' %}margin: 0 auto 10px;{% else %}margin-bottom: 10px;{% endif %}">
               <a href="{{ block.settings.image | image_url: width: block.settings.image_width }}" data-fancybox="our-team" data-caption="{{ block.settings.title }}">
                 {{ block.settings.image | image_url: width: block.settings.image_width | image_tag: alt: block.settings.title }}
               </a>
