@@ -5,7 +5,7 @@
         <h2>{{ section.settings.title }}</h2>
       </div>
     {% endif %}
-    {% assign text_column_count = section.settings.number_columns | times: 1 %} ---{{ section.settings.number_columns }}
+    {% assign text_column_count = section.settings.number_columns | times: 1 %} ---{{ text_column_count }}
 
     {% case text_column_count %}
       {% when 1 %}
