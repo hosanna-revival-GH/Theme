@@ -66,61 +66,193 @@
         "space_below": 75
       }
     },
-    "team_member_bios_ayLpAY": {
-      "type": "team-member-bios",
-      "blocks": {
-        "team_member_PMJYnJ": {
-          "type": "team_member",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/05-Ben-Hosanna-Revival-Team.jpg",
-            "image_width": 300,
-            "title": "Ben",
-            "text": "<p>Ben joined the Hosanna team in May of 2020 as an intern. Now, as the Director of Commercial Operations, Ben oversees Hosanna Revival's presence in retail locations across the globe and manages a lot of the day-to-day tasks of the production & supply chain process. Ben’s relationship with the Lord really took off when he arrived at the University of Cincinnati. It was there that he found a real, genuine Jesus-loving community to do life with. Ben enjoys teaching others about the infinite depths of the Lord and is passionate about the local church. Off the clock, you'll either find Ben consuming (too much) caffeine, playing golf or tennis, or eating tacos with his beautiful wife, Lily.<br/><em>(see </em><a href=\"https://www.bible.com/bible/111/GEN.49.27.NIV\" target=\"_blank\" title=\"https://www.bible.com/bible/111/GEN.49.27.NIV\"><em>Genesis 49:27</em></a><em> for Ben's true bio)</em></p>"
-          }
-        },
-        "team_member_PEhtdX": {
-          "type": "team_member",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-40.jpg",
-            "image_width": 300,
-            "title": "Malory",
-            "text": "<p>Malory is the director of publishing at Hosanna Revival. She lives in Cincinnati, Ohio with her husband and two sons. Malory met the Lord her freshman year of high school when the weight of sin and the gift of grace were explained in a way that made sense for the first time. Over the years of following Christ, she has fallen in love with the Word of God and is passionate about creating space for women in all walks of faith to open the Bible and process its words together to build biblical literacy. On an average day, you can find her taking a long walk, raiding the public library for her next good read, or drinking iced coffee.</p>"
-          }
-        },
-        "team_member_Katie": {
-          "type": "team_member",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/01-Katie-Hosanna-Revival-Team_ec2c9ed9-1b44-424d-843d-62999430e099.jpg",
-            "image_width": 300,
-            "title": "Katie",
-            "text": "<p>Katie founded Hosanna Revival in 2015, after re-binding and painting her Bible. She pictured how a beautiful Bible could draw someone in—leading them to know God through his Word. This blossomed into the beautiful ministry we now know as Hosanna Revival. Ten years later, Katie continues to lead the team, spending her days designing new products, leading the marketing team, and fostering a creative and intentional company culture. She hopes to glorify the Lord in her work and life—and help women find honesty and peace in their walk with Jesus. Outside of work, Katie cares for her baby boy Louie, her big dog Frank, and her kind husband Nick. Hobbies include but are not limited to: trying creative recipes, hunting for antique art, planning trips, doing puzzles, and writing cards.</p>"
-          }
-        },
-        "team_member_Nick": {
-          "type": "team_member",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/02-Nick-Hosanna-Revival-Team_878b5802-3ec7-4731-822d-459f9372560c.jpg",
-            "image_width": 300,
-            "title": "Nick",
-            "text": "<p>Days before marrying Katie, Nick left the corporate world and joined the team on a mission to grow Hosanna Revival. He oversees production, finances, and operations with the primary goal of responsibly stewarding the resources God so graciously gives Hosanna Revival. His walk with the Lord started when he was a freshman in high school. A friend of his swooped in during a time of need, cared for him, and showed him the genuine love of Christ. Nick loves studying and teaching the Word of God, playing tennis, and riding bikes with his friends. He loves new food and proudly considers himself a corn dog enthusiast.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "team_member_PMJYnJ",
-        "team_member_PEhtdX",
-        "team_member_Katie",
-        "team_member_Nick"
-      ],
+"team_member_bios_ayLpAY": {
+  "type": "team-member-bios",
+  "blocks": {
+    "team_member_Katie": {
+      "type": "team_member",
       "settings": {
-        "title": "Our Team",
-        "align_text": "center"
+        "enable_image": true,
+        "image": "shopify://shop_images/01-Katie-Hosanna-Revival-Team_ec2c9ed9-1b44-424d-843d-62999430e099.jpg",
+        "image_width": 300,
+        "title": "Katie",
+        "text": "<p>Katie founded Hosanna Revival in 2015, after re-binding and painting her Bible. She pictured how a beautiful Bible could draw someone in—leading them to know God through his Word. This blossomed into the beautiful ministry we now know as Hosanna Revival. Ten years later, Katie continues to lead the team, spending her days designing new products, leading the marketing team, and fostering a creative and intentional company culture. She hopes to glorify the Lord in her work and life—and help women find honesty and peace in their walk with Jesus. Outside of work, Katie cares for her baby boy Louie, her big dog Frank, and her kind husband Nick. Hobbies include but are not limited to: trying creative recipes, hunting for antique art, planning trips, doing puzzles, and writing cards.</p>",
+      }
+    },
+    "team_member_Nick": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/02-Nick-Hosanna-Revival-Team_878b5802-3ec7-4731-822d-459f9372560c.jpg",
+        "image_width": 300,
+        "title": "Nick",
+        "text": "<p>Days before marrying Katie, Nick left the corporate world and joined the team on a mission to grow Hosanna Revival. He oversees production, finances, and operations with the primary goal of responsibly stewarding the resources God so graciously gives Hosanna Revival. His walk with the Lord started when he was a freshman in high school. A friend of his swooped in during a time of need, cared for him, and showed him the genuine love of Christ. Nick loves studying and teaching the Word of God, playing tennis, and riding bikes with his friends. He loves new food and proudly considers himself a corn dog enthusiast.</p>",
+      }
+    },
+    "team_member_Ben": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/05-Ben-Hosanna-Revival-Team.jpg",
+        "image_width": 300,
+        "title": "Ben",
+        "text": "<p>Ben joined the Hosanna team in May of 2020 as an intern. Now, as the Director of Commercial Operations, Ben oversees Hosanna Revival's presence in retail locations across the globe and manages a lot of the day-to-day tasks of the production & supply chain process. Ben’s relationship with the Lord really took off when he arrived at the University of Cincinnati. It was there that he found a real, genuine Jesus-loving community to do life with. Ben enjoys teaching others about the infinite depths of the Lord and is passionate about the local church. Off the clock, you'll either find Ben consuming (too much) caffeine, playing golf or tennis, or eating tacos with his beautiful wife, Lily.<br/><em>(see </em><a href=\"https://www.bible.com/bible/111/GEN.49.27.NIV\" target=\"_blank\" title=\"https://www.bible.com/bible/111/GEN.49.27.NIV\"><em>Genesis 49:27</em></a><em> for Ben's true bio)</em></p>",
+      }
+    },
+    "team_member_Malory": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-40.jpg",
+        "image_width": 300,
+        "title": "Malory",
+        "text": "<p>Malory is the director of publishing at Hosanna Revival. She lives in Cincinnati, Ohio with her husband and two sons. Malory met the Lord her freshman year of high school when the weight of sin and the gift of grace were explained in a way that made sense for the first time. Over the years of following Christ, she has fallen in love with the Word of God and is passionate about creating space for women in all walks of faith to open the Bible and process its words together to build biblical literacy. On an average day, you can find her taking a long walk, raiding the public library for her next good read, or drinking iced coffee.</p>",
+      }
+    },
+    "team_member_Christine": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/09-Christine-Hosanna-Revival-Team.jpg",
+        "image_width": 300,
+        "title": "Christine",
+        "text": "<p>Christine is the Business Administrator at Hosanna Revival. She is responsible for assisting the staff in human resources, finances, and day to day operations. Christine loves bringing order to chaos and gets oddly excited about policies and procedures. She grew up in the church but made a personal decision to follow Jesus in 2008. As an enneagram 6w5, Christine is fiercely loyal and finds great joy in serving others. She is passionate about gift giving, good food, and being prepared for ANYTHING. Christine lives in Loveland, OH with her husband and their two amazing daughters.</p>",
+      }
+    },
+    "team_member_Charlotte": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-44.jpg",
+        "image_width": 300,
+        "title": "Charlotte",
+        "text": "<p>Originally from Charlotte, NC, Charlotte moved from one Queen City to another with her husband, Alex, in early 2021. As our Creative Director at Hosanna, she leads the Creative Team, manages website updates, and designs devotionals! Growing up as the middle of seven children in a creative Christian family, Charlotte was encouraged to explore her faith and creativity from a young age. Though she always knew about God, her relationship with him was rekindled at 18 during an internship at her local church.She is passionate about great coffee, more coffee, really good food, baking bread, trying to do too many creative projects at once, thrifting material for new sewing projects, and keeping too many houseplants alive! She is most excited when people in her life say “YES!!” to living their lives wholeheartedly for Jesus! </p>",
+      }
+    },
+    "team_member_AnnaClaire": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-38.jpg",
+        "image_width": 300,
+        "title": "AnnaClaire",
+        "text": "<p>As our Creative Marketing Director, AnnaClaire designs all of our email updates, and when she’s not designing emails, she’s casting big vision for our marketing team to craft a brand experience that will delight you from start to finish. She and Hope also tag-team writing the words across our site with the intention of cheering you on as you grow to know the Lord! She herself has been following Jesus since she was little, but his leadership became real in her life when she surrendered to him in high school and now she loves seeing his creativity at work at Hosanna Revival! In the wild, AnnaClaire can be found picnicking at a local park, analyzing her friends’ seasonal style color palettes, planning her next international trip, and unwinding at Ikea.</p>",
+      }
+    },
+    "team_member_Bernie": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-36.jpg",
+        "image_width": 300,
+        "title": "Bernie",
+        "text": "<p>Bernie is the Operations Manager and is responsible for keeping the warehouse in order, managing the shipping department, and helping get your order to you. He spent his first 37 years of work life in the corporate world doing IT. As soon as he had a chance to come work with his daughter Katie at Hosanna and do work that had a purpose, he came running! Bernie is very detail-oriented and loves to keep everything in order and on time. He likes a good home reno project, the occasional mountain bike ride, and a good grill out. On a daily basis you can find him working out, spending time with his wife Becky, playing with his dog Sadie, and reading car magazines. He has the exclusive claim to fame as the only Hosanna employee born before VCR’s.</p>",
+      }
+    },
+    "team_member_Maddie": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-20.jpg",
+        "image_width": 300,
+        "title": "Maddie",
+        "text": "<p>Maddie handles all things customer service and community outreach! She met Jesus when she was a freshman in high school and is constantly astounded by the faithfulness and sovereignty of the story that God has been writing in her life. Maddie finds joy in baking things for the office, attempting multiple crafts at a time, and going on walks with her husband and pup. On the weekends you can find her going on long runs or snuggled on the couch with her kindle.</p>",
+      }
+    },
+    "team_member_Monica": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-22.jpg",
+        "image_width": 300,
+        "title": "Monica",
+        "text": "<p>As a Senior Account Executive on our B2B team, Monica spends her days building strong relationships with our wholesale partners to make sure stores all over the country are carrying our Bibles so they are readily available to you! Monica grew up in a Christian family and has been following the Lord for the majority of her life. After a year in full-time ministry, she found Hosanna to be the perfect opportunity to engage in work involving Christ in the marketplace. She loves her community and is passionate about loving people well and following the Spirit as he leads in her conversations. An avid connoisseur of Mexican food (especially queso), Monica enjoys visiting new restaurants with her husband, being a pop-culture enthusiast, and consuming her daily quota of Diet Coke.</p>"
+      }
+    },
+    "team_member_Jenna": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/13-Jenna-Hosanna-Revival-Team.jpg",
+        "image_width": 300,
+        "title": "Jenna",
+        "text": "<p>Jenna is our photo-video gal and brings our creative visions to life through capturing our tools in beautiful settings. She first picked up her Grandpa’s camera at the age of 15 and has since used her skills both locally as a wedding photographer and globally working with a ministry in Israel. Jenna grew up walking with Christ but started taking her faith seriously the summer before her Freshman year of college. She is passionate about music, songwriting, worshiping the Lord, and soup year round. When not working in the office you can find her shooting weddings, going to farmers markets for the fresh blooms, going on evening walks with her husband, and consuming her daily iced vanilla matcha latte.</p>",
+      }
+    },
+    "team_member_Audra": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-42.jpg",
+        "image_width": 300,
+        "title": "Audra",
+        "text": "<p>Audra serves as the Systems and Sales Ops Lead at Hosanna Revival! After living in Indianapolis for 7 years, she is thrilled to be back in her hometown of Cincinnati. Audra desires to contribute to Hosanna by learning the business end-to-end and diligently working to ensure all processes function smoothly and efficiently, ultimately aiming for the widest possible impact of God’s Word on people's lives! Her relationship with God began when, as a senior in high school, she realized that living to make much of herself left her absolutely empty. Through persistent friends and a multitude of prayer warriors around her, her heart opened up to the Truth, and she has been running with the Lord ever since! In her free time, you can find her outside with her pup, watching airplanes, spending time with loved ones, or line dancing!</p>"
+      }
+    },
+    "team_member_Hope": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-47.jpg",
+        "image_width": 300,
+        "title": "Hope",
+        "text": "<p>Hope is part of our Marketing Team at Hosanna Revival! As a creative copywriter, SMS specialist, and head of our PR department, she brings her passion for storytelling and faith into everything she does. A Cincinnati native, Hope grew up in a big, lively family that encouraged her bold opinions—she’s always ready to add a hot take to office conversations! She’s also our resident Katy Perry fan and the go-to for upbeat pop hits when it’s her turn on the aux. Her faith journey began in childhood and now fuels her mission to reveal God’s beauty in every project, helping others see His love and purpose in all we create.</p>",
+      }
+    },
+    "team_member_Analissa": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-31.jpg",
+        "image_width": 300,
+        "title": "Analissa",
+        "text": "<p>Analissa, a Texas native, moved to Cincinnati earlier this year. Just days after arriving, she discovered that Hosanna Revival was hiring—and the rest is history. Now, she spends her days creating social media content, responding to comments, selecting ribbon colors for products, and second-shooting at Hosanna photoshoots! At 18, her life was transformed when she discovered what it truly meant to live with Jesus. A thriving extrovert, Analissa finds great joy in celebrating others, spending time with friends around a table, spending hours analyzing movies, and taking long walks with her film camera. She's a self-proclaimed matcha connoisseur.</p>",
+      }
+    },
+    "team_member_Frankie": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/14-Frankie-Hosanna-Revival-Team.jpg",
+        "image_width": 300,
+        "title": "Frankie",
+        "text": "<p>As our residential Floor Manager, Frankie enjoys long naps on the floor, most days, most of the time. He likes to eat pretty much anything in sight, including other dog’s food. He loves his Mom and Dad more than anything and will jump at least 6 feet in the air when he sees them. He is looking forward to taking more naps this summer, and eating people food when he can find it.  He loves going to the groomer because everyone tells him how handsome he is afterward. He can often be found in his hammock bed memorizing Scripture to tell his friends he meets at the dog park. </p>",
+      }
+    },
+    "team_member_Pippa": {
+      "type": "team_member",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-49.jpg",
+        "image_width": 300,
+        "title": "Pippa",
+        "text": "<p>Pippa instantly charmed her way into our lives the moment her mother, Audra, joined our team. With her gentle nature and keen awareness, Pippa makes it clear that snuggles are her top priority—she’ll communicate her needs with expressive eyes and a not so soft nudge, ensuring that she gets all the affection she deserves. Loyal to her mom and eager for attention from anyone willing to give her a good rub-down, Pippa is the kind of dog who turns every moment into a cozy, heartwarming experience. Her playful spirit and unwavering loyalty make her a cherished member of the team</p>"
       }
     }
+  },
+  "block_order": [
+    "team_member_Katie",
+    "team_member_Nick",
+    "team_member_Ben",
+    "team_member_Malory",
+    "team_member_Christine",
+    "team_member_Charlotte",
+    "team_member_AnnaClaire",
+    "team_member_Bernie",
+    "team_member_Maddie",
+    "team_member_Monica",
+    "team_member_Jenna",
+    "team_member_Audra",
+    "team_member_Hope",
+    "team_member_Analissa",
+    "team_member_Frankie",
+    "team_member_Pippa"
+  ],
+  "settings": {
+    "title": "Our Team",
+    "align_text": "center"
+  }
+}
   },
   "order": [
     "main",
