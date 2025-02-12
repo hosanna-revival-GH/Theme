@@ -9,40 +9,176 @@
  */
 {
   "sections": {
-    "main": { "type": "main-page", "disabled": true, "settings": {} },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "hero_video_ANVyba": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c843a9d1c00c4e10b3ebaa997f9f7223.mp4",
+        "overlay_opacity": 0,
+        "section_height": "750px",
+        "mobile_height": "auto"
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slideshow-0": { "type": "image", "settings": { "link_text": "" } }
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-1_f8a8a01b-642b-4799-b04f-bbd69cf48da7.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
       },
-      "block_order": ["slideshow-0"],
-      "settings": {}
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
-        "heading": { "type": "heading", "settings": {} },
-        "text": { "type": "text", "settings": {} }
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Mission"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.</p>"
+          }
+        }
       },
-      "block_order": ["heading", "text"],
-      "settings": {}
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     },
-    "map": { "type": "map", "settings": {} },
     "text-columns": {
       "type": "text-columns",
       "blocks": {
-        "column1": { "type": "text_block", "settings": {} },
-        "column2": { "type": "text_block", "settings": {} },
-        "column3": { "type": "text_block", "settings": {} }
+        "column1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "column2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "column3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
       },
-      "block_order": ["column1", "column2", "column3"],
-      "settings": {}
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     },
-    "featured-collection": { "type": "featured-collection", "settings": {} },
-    "form": { "type": "contact-form", "settings": {} }
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Our retail store",
+        "address": "<p>301 Front St W<br>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm</p>",
+        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "api_key": "",
+        "show_button": true,
+        "lazyload_images": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
   },
   "order": [
     "main",
+    "hero_video_ANVyba",
     "slideshow",
     "rich-text",
     "text-columns",
