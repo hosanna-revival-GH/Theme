@@ -9,20 +9,21 @@
  */
 {
   "sections": {
-    "hero": {
-      "type": "hero-video",
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "text-and-image-1591974140841": {
+      "type": "text-and-image",
       "settings": {
+        "image": "shopify://shop_images/katie-speaking.jpg",
+        "subtitle": "founder + artist",
         "title": "Katie Guiliano",
-        "title_size": 80,
-        "subheading": "Seamless hero videos",
-        "link_text": "Optional button",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "text": "<p>Katie is passionate about creating beautiful and meaningful products that draw women to Jesus. Speaking to women about the faith and business journey she&rsquo;s traveled has become a powerful opportunity to share the gospel with women in all seasons of life. She has been featured on multiple podcasts and has spoken at a number of conferences throughout her entrepreneurial career. Katie would love to speak at your next women's event, entrepreneur conference, or young adults ministry gathering!</p>",
+        "button_label": "",
+        "button_link": "",
+        "image_width": "500",
+        "layout": "left"
       }
     },
     "custom-html-block": {
@@ -48,7 +49,8 @@
     }
   },
   "order": [
-    "hero",
+    "main",
+    "text-and-image-1591974140841",
     "custom-html-block"
   ]
 }
