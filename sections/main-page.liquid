@@ -12,6 +12,20 @@
 {% schema %}
 {
   "name": "t:sections.main-page.name",
-  "tag": "section"
+  "tag": "section",
+   "settings":  [
+     {
+      "type": "checkbox",
+      "id": "page_title_enable",
+      "label": "Title enable",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "page_content_enable",
+      "label": "Content Enable",
+      "default": false
+    },
+   ]
 }
 {% endschema %}
