@@ -89,7 +89,13 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
+        "divider": false,
+        "css-id": "",
+        "css-class": "about--2021-mission",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#af8548",
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "text-columns": {
