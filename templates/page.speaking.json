@@ -9,12 +9,22 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {}
+    "hero": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Katie Guiliano"
+      }
+    },
+    "custom-html-block": {
+      "type": "advanced-content",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
-    "main"
+    "hero",
+    "custom-html-block"
   ]
 }
