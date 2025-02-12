@@ -11,28 +11,19 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {}
     },
     "text-and-image-1591974140841": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/katie-speaking.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
         "subtitle": "founder + artist",
         "title": "Katie Guiliano",
-        "text": "<p>Katie is passionate about creating beautiful and meaningful products that draw women to Jesus. Speaking to women about the faith and business journey she’s traveled has become a powerful opportunity to share the gospel with women in all seasons of life. She has been featured on multiple podcasts and has spoken at a number of conferences throughout her entrepreneurial career. Katie would love to speak at your next women's event, entrepreneur conference, or young adults ministry gathering!</p>",
+        "text": "<p>Katie is passionate about creating beautiful and meaningful products that draw women to Jesus. Speaking to women about the faith and business journey she&rsquo;s traveled has become a powerful opportunity to share the gospel with women in all seasons of life. She has been featured on multiple podcasts and has spoken at a number of conferences throughout her entrepreneurial career. Katie would love to speak at your next women's event, entrepreneur conference, or young adults ministry gathering!</p>",
         "button_label": "",
         "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": false
+        "image_width": "500",
+        "layout": "left"
       }
     },
     "custom-html-block": {
