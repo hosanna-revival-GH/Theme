@@ -1,6 +1,132 @@
+<div class="index-section">
+  <div class="page-width text-{{ section.settings.align_text }}">
+    {% if section.settings.title != blank %}
+      <div class="section-header">
+        <h2>{{ section.settings.title }}</h2>
+      </div>
+    {% endif %}
+    {% assign text_column_count = 0 %}
+    {% assign column_1_enabled = false %}
+    {% assign column_2_enabled = false %}
+    {% assign column_3_enabled = false %}
+    {% if section.settings.enable_image_1 or section.settings.title_1 != blank or section.settings.text_1 != blank %}
+      {% assign column_1_enabled = true %}
+      {% assign text_column_count = text_column_count | plus: 1 %}
+    {% endif %}
+    {% if section.settings.enable_image_2 or section.settings.title_2 != blank or section.settings.text_2 != blank %}
+      {% assign column_2_enabled = true %}
+      {% assign text_column_count = text_column_count | plus: 1 %}
+    {% endif %}
+    {% if section.settings.enable_image_3 or section.settings.title_3 != blank or section.settings.text_3 != blank %}
+      {% assign column_3_enabled = true %}
+      {% assign text_column_count = text_column_count | plus: 1 %}
+    {% endif %}
+
+    {% case text_column_count %}
+      {% when 1 %}
+        {% assign grid_item_width = '' %}
+      {% when 2 %}
+        {% assign grid_item_width = 'medium-up--one-half' %}
+      {% when 3 %}
+        {% assign grid_item_width = 'medium-up--one-third' %}
+    {% endcase %}
+    <div class="grid grid--flush-bottom">
+      {% for block in section.blocks %}
+        {% assign grid_item_width = 'medium-up--one-third' %}
+        <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
+          {% if block.settings.enable_image %}
+            <div style="{% if section.settings.align_text == 'center' %}margin: 0 auto;{% endif %}">
+              <a href="{{ block.settings.image | image_url: width: 1024 }}" data-fancybox="our-team" data-caption="{{ block.settings.title }}">
+                {{ block.settings.image | image_url: width: 1024 | image_tag: alt: block.settings.title }}
+              </a>
+            </div>
+          {% endif %}
+          {% if block.settings.title != blank %}
+            <p class="article__title">{{ block.settings.title }}</p>
+          {% endif %}
+          {% if block.settings.text != blank %}
+            <div class="rte-setting text-spacing">{{ block.settings.text }}</div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "Team Bios",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Section Title"
+    },
+    {
+      "type": "select",
+      "id": "align_text",
+      "label": "Text Alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "checkbox",
+      "id": "round_images",
+      "label": "Use Circular Images",
+      "default": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "team_member",
+      "name": "Team Member",
+      "settings": [
+        {
+          "type": "checkbox",
+          "id": "enable_image",
+          "label": "Enable Image",
+          "default": true
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "range",
+          "id": "image_width",
+          "label": "Image Width",
+          "min": 60,
+          "max": 650,
+          "step": 10,
+          "default": 300,
+          "unit": "px"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Name"
+        },
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "Bio"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Team Bios"
+    }
+  ]
+}
 {% endschema %}
