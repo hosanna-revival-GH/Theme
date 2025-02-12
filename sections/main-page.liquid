@@ -11,7 +11,13 @@
   </div>
     {% endif %}
 </div>
-
+{% style %}
+  {% unless section.settings.page_content_enable %}
+    #shopify-section-template--{{ section.id }} {
+      padding-bottom:0;
+    }
+    {% endunless %}
+{% endstyle %}
 {% schema %}
 {
   "name": "t:sections.main-page.name",
