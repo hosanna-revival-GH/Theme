@@ -1,8 +1,13 @@
 {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
 {% style %}
-
+#shopify-section-{{ section.id }} .index-section { 
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  background: {{ section.settings.color_bg }};
+  color: {{ section.settings.color_text }};
+  padding: {{ section.settings.space_above }}px 0 {{ section.settings.space_below }}px;
+}
 {% endstyle %}
-<div id="{{ section.id }}-{{ section.settings.css-id }}" class="index-section index-section--no-space {{ section.settings.css-class }}" style="background: {{ section.settings.color_bg }}; color: {{ section.settings.color_text }}; padding: {{ section.settings.space_above }}px 0 {{ section.settings.space_below }}px;">
   <div class="page-width text-{{ section.settings.align_text }}{% if section.settings.narrow_column %} page-width--narrow{% endif %}">
   {%- for block in section.blocks -%}
     <div class="theme-block" {{ block.shopify_attributes }}>
@@ -36,7 +41,6 @@
       {%- endcase -%}
     </div>
   {%- endfor -%}
-</div>
 </div>
 {%- if section.settings.divider -%}</div>{%- endif -%}
 
