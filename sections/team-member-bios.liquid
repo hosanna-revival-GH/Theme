@@ -5,22 +5,7 @@
         <h2>{{ section.settings.title }}</h2>
       </div>
     {% endif %}
-    {% assign text_column_count = 0 %}
-    {% assign column_1_enabled = false %}
-    {% assign column_2_enabled = false %}
-    {% assign column_3_enabled = false %}
-    {% if section.settings.enable_image_1 or section.settings.title_1 != blank or section.settings.text_1 != blank %}
-      {% assign column_1_enabled = true %}
-      {% assign text_column_count = text_column_count | plus: 1 %}
-    {% endif %}
-    {% if section.settings.enable_image_2 or section.settings.title_2 != blank or section.settings.text_2 != blank %}
-      {% assign column_2_enabled = true %}
-      {% assign text_column_count = text_column_count | plus: 1 %}
-    {% endif %}
-    {% if section.settings.enable_image_3 or section.settings.title_3 != blank or section.settings.text_3 != blank %}
-      {% assign column_3_enabled = true %}
-      {% assign text_column_count = text_column_count | plus: 1 %}
-    {% endif %}
+    {% assign text_column_count = section.setttings.number_columns %}
 
     {% case text_column_count %}
       {% when 1 %}
@@ -78,11 +63,21 @@
       "default": "center"
     },
     {
-      "type": "checkbox",
-      "id": "round_images",
-      "label": "Use Circular Images",
-      "default": false
-    }
+      "type": "select",
+      "id": "number_columns",
+      "label": "Number of Columns",
+      "options": [
+        {
+          "value": "2",
+          "label": "Two"
+        },
+        {
+          "value": "3",
+          "label": "Three"
+        }
+      ],
+      "default": "2"
+    },
   ],
   "blocks": [
     {
