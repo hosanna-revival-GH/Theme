@@ -12,14 +12,38 @@
     "hero": {
       "type": "hero-video",
       "settings": {
-        "title": "Katie Guiliano"
+        "title": "Katie Guiliano",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "custom-html-block": {
       "type": "advanced-content",
+      "blocks": {
+        "liquid_DTg4mE": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_DTg4mE"
+      ],
       "settings": {
         "full_width": false,
-        "space_around": true
+        "space_around": true,
+        "lazyload_images": true
       }
     }
   },
