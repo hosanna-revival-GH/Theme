@@ -17,15 +17,7 @@
     "hero_video_ANVyba": {
       "type": "hero-video",
       "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
         "video_url": "https://cdn.shopify.com/videos/c/o/v/c843a9d1c00c4e10b3ebaa997f9f7223.mp4",
-        "overlay_opacity": 0,
         "section_height": "750px",
         "mobile_height": "auto"
       }
@@ -36,33 +28,16 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-1_f8a8a01b-642b-4799-b04f-bbd69cf48da7.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
+            "parallax_direction": "top"
           }
         }
       },
-      "block_order": [
-        "slideshow-0"
-      ],
+      "block_order": ["slideshow-0"],
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
+        "parallax": false
       }
     },
     "rich-text": {
@@ -77,127 +52,18 @@
         "text": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
             "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.</p>"
           }
         }
       },
-      "block_order": [
-        "heading",
-        "text"
-      ],
+      "block_order": ["heading", "text"],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "about--2021-mission",
         "color_bg": "rgba(0,0,0,0)",
         "color_text": "#af8548",
         "space_above": 75,
         "space_below": 75
-      }
-    },
-    "rich_text_aDNQJ8": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_y4xGKV": {
-          "type": "heading",
-          "settings": {
-            "title": "The Authority of Scripture"
-          }
-        },
-        "text_dFdziQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages.</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_y4xGKV",
-        "text_dFdziQ"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#af8548",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "rich_text_nQKHQj": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_AmEeXb": {
-          "type": "heading",
-          "settings": {
-            "title": "Our History"
-          }
-        },
-        "text_7XT6wJ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>In 2015 while studying in Spain, our founder Katie had the idea to re-bind and paint her bilingual Bible. It was plain black, but she wanted her Bible to be beautiful and personal, reflecting the way the words on the inside made her feel. Katie immediately saw the ministry that this could become. She spent the next few weeks trying out different materials and processes—creating what is now Hosanna Revival.</p><p>Truly, it was a simple concept: When you get a new planner, you’re excited to organize. When you get a new journal, you’re excited to fill it up. When you get a new traveling coffee mug, all of the sudden you take your coffee to-go. What if a new and beautiful Bible would excite you to actually open it up and read it?</p><p>We are convinced that a beautiful Bible can lead even the darkest heart to crack it open and consider the words inside of it. We are convinced that a beautiful Bible can revive the heart of a believer gone astray by motivating them and reminding them of the truth beyond the cover. We are convinced that an active Christ follower will be drawn to the foot of the cross each morning by the Scripture within their precious tool. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_AmEeXb",
-        "text_7XT6wJ"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "about--2021-history",
-        "color_bg": "#ffffff",
-        "color_text": "#1c1d1d",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "slideshow_TfaxhB": {
-      "type": "slideshow",
-      "blocks": {
-        "image_9UU8MH": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Hosanna_History_v2.png",
-            "image_mobile": "shopify://shop_images/timeline_mobile.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_9UU8MH"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": true
       }
     },
     "team_member_bios_ayLpAY": {
@@ -222,11 +88,33 @@
             "title": "Malory",
             "text": "<p>Malory is the director of publishing at Hosanna Revival. She lives in Cincinnati, Ohio with her husband and two sons. Malory met the Lord her freshman year of high school when the weight of sin and the gift of grace were explained in a way that made sense for the first time. Over the years of following Christ, she has fallen in love with the Word of God and is passionate about creating space for women in all walks of faith to open the Bible and process its words together to build biblical literacy. On an average day, you can find her taking a long walk, raiding the public library for her next good read, or drinking iced coffee.</p>"
           }
+        },
+        "team_member_Katie": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/01-Katie-Hosanna-Revival-Team_ec2c9ed9-1b44-424d-843d-62999430e099.jpg",
+            "image_width": 300,
+            "title": "Katie",
+            "text": "<p>Katie founded Hosanna Revival in 2015, after re-binding and painting her Bible. She pictured how a beautiful Bible could draw someone in—leading them to know God through his Word. This blossomed into the beautiful ministry we now know as Hosanna Revival. Ten years later, Katie continues to lead the team, spending her days designing new products, leading the marketing team, and fostering a creative and intentional company culture. She hopes to glorify the Lord in her work and life—and help women find honesty and peace in their walk with Jesus. Outside of work, Katie cares for her baby boy Louie, her big dog Frank, and her kind husband Nick. Hobbies include but are not limited to: trying creative recipes, hunting for antique art, planning trips, doing puzzles, and writing cards.</p>"
+          }
+        },
+        "team_member_Nick": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/02-Nick-Hosanna-Revival-Team_878b5802-3ec7-4731-822d-459f9372560c.jpg",
+            "image_width": 300,
+            "title": "Nick",
+            "text": "<p>Days before marrying Katie, Nick left the corporate world and joined the team on a mission to grow Hosanna Revival. He oversees production, finances, and operations with the primary goal of responsibly stewarding the resources God so graciously gives Hosanna Revival. His walk with the Lord started when he was a freshman in high school. A friend of his swooped in during a time of need, cared for him, and showed him the genuine love of Christ. Nick loves studying and teaching the Word of God, playing tennis, and riding bikes with his friends. He loves new food and proudly considers himself a corn dog enthusiast.</p>"
+          }
         }
       },
       "block_order": [
         "team_member_PMJYnJ",
-        "team_member_PEhtdX"
+        "team_member_PEhtdX",
+        "team_member_Katie",
+        "team_member_Nick"
       ],
       "settings": {
         "title": "Our Team",
@@ -239,9 +127,6 @@
     "hero_video_ANVyba",
     "slideshow",
     "rich-text",
-    "rich_text_aDNQJ8",
-    "rich_text_nQKHQj",
-    "slideshow_TfaxhB",
     "team_member_bios_ayLpAY"
   ]
 }
