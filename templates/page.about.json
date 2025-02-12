@@ -98,87 +98,37 @@
         "space_below": 75
       }
     },
-    "text-columns": {
-      "type": "text-columns",
+    "rich_text_aDNQJ8": {
+      "type": "rich-text",
       "blocks": {
-        "column1": {
-          "type": "text_block",
+        "heading_y4xGKV": {
+          "type": "heading",
           "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "The Authority of Scripture"
           }
         },
-        "column2": {
-          "type": "text_block",
+        "text_dFdziQ": {
+          "type": "text",
           "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "column3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "enlarge_text": true,
+            "text": "<p><em>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages.</em></p>"
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "heading_y4xGKV",
+        "text_dFdziQ"
       ],
       "settings": {
-        "title": "",
         "align_text": "center",
-        "divider": false
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm</p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "api_key": "",
-        "show_button": true,
-        "lazyload_images": true
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Contact us",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#af8548",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
       }
     }
   },
@@ -187,9 +137,6 @@
     "hero_video_ANVyba",
     "slideshow",
     "rich-text",
-    "text-columns",
-    "map",
-    "featured-collection",
-    "form"
+    "rich_text_aDNQJ8"
   ]
 }
