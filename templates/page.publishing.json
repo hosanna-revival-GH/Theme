@@ -11,11 +11,31 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false
+      }
     },
     "single-image-1597333252753": {
       "type": "single-image",
-      "settings": {}
+      "blocks": {
+        "image_block_4dUgKd": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/hr-devo-splash.png",
+            "image_link": "",
+            "image_width": 300,
+            "space_above": 150,
+            "space_below": 100
+          }
+        }
+      },
+      "block_order": [
+        "image_block_4dUgKd"
+      ],
+      "settings": {
+        "section_title": "Featured Images"
+      }
     },
     "custom-html-03f4698a": {
       "type": "advanced-content",
@@ -32,13 +52,20 @@
       "block_order": [
         "liquid_03f4698a"
       ],
-      "settings": {}
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     },
     "rich-text-1597331381358": {
       "type": "rich-text",
       "settings": {
         "align_text": "left",
         "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
         "color_bg": "#fce7e3",
         "color_text": "#c66d5c",
         "space_above": 75,
@@ -50,6 +77,9 @@
       "settings": {
         "align_text": "left",
         "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
         "color_bg": "#c5a094",
         "color_text": "#ffffff",
         "space_above": 75,
@@ -61,6 +91,9 @@
       "settings": {
         "align_text": "left",
         "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
         "color_bg": "#c66d5c",
         "color_text": "#fce7e3",
         "space_above": 75,
@@ -82,13 +115,20 @@
       "block_order": [
         "liquid_1597334520076"
       ],
-      "settings": {}
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     },
     "rich-text-1597334531881": {
       "type": "rich-text",
       "settings": {
         "align_text": "left",
         "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
         "color_bg": "#fce7e3",
         "color_text": "#c66d5c",
         "space_above": 75,
