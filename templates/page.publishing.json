@@ -60,6 +60,25 @@
     },
     "rich-text-1597331381358": {
       "type": "rich-text",
+      "blocks": {
+        "heading_DVknrt": {
+          "type": "heading",
+          "settings": {
+            "title": "Hosanna Revival Devotionals"
+          }
+        },
+        "text_Hnqwxe": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>At Hosanna Revival, our mission has always been to excite people about engaging with Scripture by creating beautiful and intentional tools for their lives. That’s why we were so excited to launch Hosanna Revival Devotionals in 2019, a beautiful tool created to help you engage more deeply with Jesus and His Word.</p><p></p><p>We spent a lot of time dreaming about these tools, because we wanted to produce these devotionals in a unique and beautiful way. We are always amazed and encouraged by the incredible community God has given us, and we love seeing the different ways so many of you share the truth of the gospel. Our dream for these devotionals is that they would be written <em>by</em> our community, <em>for</em> our community.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DVknrt",
+        "text_Hnqwxe"
+      ],
       "settings": {
         "align_text": "left",
         "narrow_column": true,
@@ -74,6 +93,25 @@
     },
     "rich-text-1597333307717": {
       "type": "rich-text",
+      "blocks": {
+        "heading_7U7RDh": {
+          "type": "heading",
+          "settings": {
+            "title": "We're Looking for Authors"
+          }
+        },
+        "text_RUhfCG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Do you have a great idea for a devotional?  Does it align with our mission to excite people about engaging in Scripture?  If so, we’d love to hear from you!  We work side-by-side with authors and aspiring authors to create beautiful, high-quality devotional content.  As authors pitch their devotional ideas to us, we prayerfully consider each one as we seek to identify our next author. <br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7U7RDh",
+        "text_RUhfCG"
+      ],
       "settings": {
         "align_text": "left",
         "narrow_column": true,
@@ -88,6 +126,25 @@
     },
     "rich-text-1597333405434": {
       "type": "rich-text",
+      "blocks": {
+        "heading_ikTDDk": {
+          "type": "heading",
+          "settings": {
+            "title": "Devotional Submission Guidelines"
+          }
+        },
+        "text_cDJwrM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Use the form provided below to submit your pitch.  If it’s a good fit for Hosanna Revival’s mission, matches our voice, and fits our publishing schedule, we’ll reach out for an interview and request a proposal.</p><p><em>Important: Please do not send a full proposal or completed manuscript until we have requested one.  Unsolicited proposals and manuscripts will not be considered.</em></p><p></p><p><strong>What types of devotionals is Hosanna Revival most interested in?<br/></strong>Our mission at Hosanna Revival is to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.  We are seeking authors who are interested in helping us accomplish that mission by writing devotional books that are deeply rooted in Scripture and aim to:</p><p><strong>Point the reader to Jesus.</strong>  The Bible is not about us—it’s all about Jesus and His message for us, namely, the gospel.  Our desire for each devotional is that every reader would love Jesus more as a result of having read it.</p><p><strong>Practically apply to the Christian life.  </strong>There are no Christian superstars.  We’re ordinary people serving an extraordinary God.  Our goal for each devotional is that it would deepen the reader’s understanding of Christian truth as it is taught in the Scriptures, and how we can apply it to everyday life.</p><p><strong>Stand firmly on the Word of God.</strong>  The Bible is the very Word of God.  God has chosen to reveal Himself to us through His Word, and our prayer for each devotional is that they would be deeply rooted in Scripture and always point the reader to the Bible.  If you can read our devotional without your Bible in hand, we have not accomplished our mission.</p><p><strong>What types of devotionals and books is Hosanna Revival </strong><em><strong>not</strong></em><strong> interested in?<br/></strong>- Religious “self-help” devotionals<br/>- Collected works or poetry<br/>- Fiction or novel-type books<br/>- Biographical devotionals<br/>- Devotionals featuring non-Hosanna Revival art</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ikTDDk",
+        "text_cDJwrM"
+      ],
       "settings": {
         "align_text": "left",
         "narrow_column": true,
@@ -123,6 +180,25 @@
     },
     "rich-text-1597334531881": {
       "type": "rich-text",
+      "blocks": {
+        "heading_MhRdcY": {
+          "type": "heading",
+          "settings": {
+            "title": "Questions"
+          }
+        },
+        "text_QWwFnb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>When will I hear back from Hosanna Revival about my submission?<br/></strong>Due to the volume of submissions we receive, we cannot respond to each one.  We will only respond if we decide to request an interview and/or a proposal.  If you have not heard from us within 6 weeks, we have decided not to request a proposal.  If you have another devotional idea in the future, you are welcome to submit another pitch.<br/><br/></p><p><strong>If I already have a manuscript written, should I send it with or in place of a pitch?<br/></strong>No; only send a manuscript if we specifically request one from you.  Unsolicited manuscripts or proposals will not be considered.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MhRdcY",
+        "text_QWwFnb"
+      ],
       "settings": {
         "align_text": "left",
         "narrow_column": true,
