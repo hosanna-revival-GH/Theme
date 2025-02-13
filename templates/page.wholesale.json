@@ -16,9 +16,131 @@
         "page_title_enable": false,
         "page_content_enable": false
       }
+    },
+    "background_image_text_LgLcDX": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Hosanna Revival",
+        "title": "Wholesale",
+        "text": "<p>If you are interested in selling Hosanna Revival Bibles, prayer journals, notebooks, devotionals, stickers, or any other products in your store, in your church bookstore, or at your conference, you’re in the right place. </p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/Beautiful-Christian-Tools-Gifting-Bibles-Hosanna-Revival-192B.jpg",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": false
+      }
+    },
+    "text_columns_hLmqiY": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_hFNLEc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Current Retailers",
+            "text": "<p>If you are an existing retailer, login to your Hosanna Revival wholesale portal below.</p>",
+            "button_label": "Sign In",
+            "button_link": "https://b2b.hosannarevival.com/"
+          }
+        },
+        "text_block_jKhw6E": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Become a Retailer",
+            "text": "<p>If you are interested in selling our products, submit an application and we’ll be in touch.</p>",
+            "button_label": "Apply",
+            "button_link": "shopify://pages/wholesale-application"
+          }
+        },
+        "text_block_73y3VE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "ExaWholesale Catalog",
+            "text": "<p>Click below to view the most recent version of the Hosanna Revival wholesale catalog.</p>",
+            "button_label": "Wholesale Catalog",
+            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/10-17-24-Hosanna-Wholesale-Catalog-Winter-2024.pdf?v=1729279224"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hFNLEc",
+        "text_block_jKhw6E",
+        "text_block_73y3VE"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_columns_RXY6qM": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_Ja3qU4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_y8bet3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Terms & Conditions",
+            "text": "<p>Click below to review our updated wholesale terms & conditions.</p>",
+            "button_label": "View Terms & Conditions",
+            "button_link": "https://hosannarevival.com/pages/wholesale-terms-conditions"
+          }
+        },
+        "text_block_rLUrUF": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Ja3qU4",
+        "text_block_y8bet3",
+        "text_block_rLUrUF"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "background_image_text_LgLcDX",
+    "text_columns_hLmqiY",
+    "text_columns_RXY6qM"
   ]
 }
