@@ -23,10 +23,19 @@
         "image_pgmdxz": {
           "type": "image",
           "settings": {
+            "top_subheading": "",
             "title": "Returns",
             "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Hosanna-Revival-Shipping-Team01018-1.jpg"
+            "image": "shopify://shop_images/Hosanna-Revival-Shipping-Team01018-1.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
@@ -36,12 +45,22 @@
       "settings": {
         "section_height": "450px",
         "mobile_height": "auto",
-        "parallax": true
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "rich-text_b16f929d": {
       "type": "rich-text",
       "blocks": {
+        "heading_zB4dT6": {
+          "type": "heading",
+          "settings": {
+            "title": "REQUEST A RETURN"
+          }
+        },
         "text_b16f929d": {
           "type": "text",
           "settings": {
@@ -51,9 +70,20 @@
         }
       },
       "block_order": [
+        "heading_zB4dT6",
         "text_b16f929d"
       ],
-      "settings": {}
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#fafafa",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 30
+      }
     },
     "text-columns_833d5d04": {
       "type": "text-columns",
@@ -61,15 +91,25 @@
         "column_1": {
           "type": "text_block",
           "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
             "title": "Wrong/Damaged item?",
-            "text": "<p>If you received a wrong or damaged item, please email at <a href=\"mailto:support@hosannarevival.com\">support@hosannarevival.com</a> with your order number and a description of the error so we can make this right.</p>"
+            "text": "<p>If you received a wrong or damaged item, please email at <a href=\"mailto:support@hosannarevival.com\">support@hosannarevival.com</a> with your order number and a description of the error so we can make this right.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "column_2": {
           "type": "text_block",
           "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
             "title": "Did you receive a gift?",
-            "text": "<p>If you received a Hosanna Revival intentional tool as a gift, please reach out to <a href=\"mailto:support@hosannarevival.com\">support@hosannarevival.com</a> and provide the order number and name of purchaser. We will be happy to assist you!</p>"
+            "text": "<p>If you received a Hosanna Revival intentional tool as a gift, please reach out to <a href=\"mailto:support@hosannarevival.com\">support@hosannarevival.com</a> and provide the order number and name of purchaser. We will be happy to assist you!</p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
@@ -77,37 +117,77 @@
         "column_1",
         "column_2"
       ],
-      "settings": {}
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     },
     "rich-text_rich_text_ziAmhM": {
       "type": "rich-text",
       "blocks": {
+        "heading_qjVdVD": {
+          "type": "heading",
+          "settings": {
+            "title": "HOSANNA REVIVAL RETURN POLICY"
+          }
+        },
         "policy_text": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>Orders may be returned so long as:</p><p>• The order is new, unused/unworn, and in the original packaging</p><p>• The order is returned within <strong>30</strong> days of receipt*</p><p>• The order was not purchased on final sale</p><p><strong>Note: All returns are subject to a 10% restocking fee, and we do not refund original shipping costs.</strong></p>"
           }
         }
       },
       "block_order": [
+        "heading_qjVdVD",
         "policy_text"
       ],
-      "settings": {}
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     },
     "rich-text_042aad6c": {
       "type": "rich-text",
       "blocks": {
+        "heading_HpUfPA": {
+          "type": "heading",
+          "settings": {
+            "title": "HAVE MORE QUESTIONS?"
+          }
+        },
         "more_questions": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>Send an email to <a href=\"mailto:support@hosannarevival.com\">support@hosannarevival.com</a> and include your order number.</p>"
           }
         }
       },
       "block_order": [
+        "heading_HpUfPA",
         "more_questions"
       ],
-      "settings": {}
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
