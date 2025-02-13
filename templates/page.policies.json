@@ -84,6 +84,9 @@
         "shipping-fulfillment",
         "missing-packages-warranty"
       ],
+      "custom_css": [
+        "h2{text-align:center;}"
+      ],
       "settings": {
         "title": "FAQs and Customer Support",
         "align_text": "left",
