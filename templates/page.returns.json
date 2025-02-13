@@ -49,7 +49,7 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich-text_b16f929d": {
