@@ -89,32 +89,168 @@
         "divider": false
       }
     },
-    "faq_jCNdBy": {
-      "type": "faq",
-      "blocks": {
-        "question_daxULp": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
-          }
-        },
-        "question_dkwCBc": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
-          }
+ "faq_jCNdBy": {
+    "type": "faq",
+    "settings": {
+      "title": "FAQs"
+    },
+    "blocks": {
+      "question_AbYGb6": {
+        "type": "question",
+        "settings": {
+          "title": "Are my items from the bumped & bruised sale eligible for returns?",
+          "text": "<p>No—all items from our bumped & bruised sale are final sale. We will not accept any returns from this sale!</p>"
         }
       },
-      "block_order": [
-        "question_daxULp",
-        "question_dkwCBc"
-      ],
-      "settings": {
-        "title": "FAQs"
+      "question_47a05574": {
+        "type": "question",
+        "settings": {
+          "title": "What are your hours of communication?",
+          "text": "<p>We operate 8:00am - 4:00pm ET Monday - Friday. We do not ship on the weekends or after normal business hours. If orders are placed after business hours, processing time will begin when we return to the office.</p>"
+        }
+      },
+      "question_99f8f95e": {
+        "type": "question",
+        "settings": {
+          "title": "What Bible versions do you offer?",
+          "text": "<p>Our Bible designs are available in the English Standard Version (ESV), Christian Standard Bible (CSB), King James Version (KJV), and New Living Translation (NLT). <a href=\"https://www.youtube.com/watch?v=jkWQ2ry3meI\">Watch this video</a> to learn more about the translations we offer.</p>"
+        }
+      },
+      "question_a42083b4": {
+        "type": "question",
+        "settings": {
+          "title": "Can Bible designs and translations be switched?",
+          "text": "<p>No; our designs are specific to each translation, so they cannot be switched between translations. However, some are very similar or may be available in another translation at a later time.</p>"
+        }
+      },
+      "question_84c97ddb": {
+        "type": "question",
+        "settings": {
+          "title": "What pen should I use to write in my Bible?",
+          "text": "<p>The pages are durable and many pens will work just fine. These are two of our favorites: our favorite black pens to use are Pilot G2 pens. For color, we love Micron Fine Liners.</p>"
+        }
+      },
+      "question_f74129a0": {
+        "type": "question",
+        "settings": {
+          "title": "Do you offer other discounts/sales?",
+          "text": "<p>From time to time we offer promotions that align with holidays or milestones. We will post them on our Instagram. Follow us there!</p>"
+        }
+      },
+      "question_bc7adb10": {
+        "type": "question",
+        "settings": {
+          "title": "Do you offer bulk discounts?",
+          "text": "<p>Yes! If you are looking for larger quantities to resell in your shop or to sell at an event, fill out our Wholesale Application. We would love to talk about working together! If you are looking for medium quantities for a small group or Bible study, check out our discounted bundles.</p>"
+        }
+      },
+      "question_XfCY3i": {
+        "type": "question",
+        "settings": {
+          "title": "Does the free shipping promotion apply to Hawaii & Alaska?",
+          "text": "<p>So sorry, free shipping is available in the contiguous 48 states only!</p>"
+        }
+      },
+      "question_BNVkCc": {
+        "type": "question",
+        "settings": {
+          "title": "My cart isn’t saying I have free shipping. Why?",
+          "text": "<p>When we offer sales and promotions on free shipping, the minimum is always $10. Make sure your purchases match that criteria!</p>"
+        }
+      },
+      "question_Hgw6EW": {
+        "type": "question",
+        "settings": {
+          "title": "Do you offer free shipping on international orders?",
+          "text": "<p>At this time we only offer promotions on domestic shipping.</p>"
+        }
+      },
+      "question_dRVCiJ": {
+        "type": "question",
+        "settings": {
+          "title": "I ordered at 11:50 MT ~ how did I miss the sale?",
+          "text": "<p>So sorry, our sale times are always communicated in ET. We do not offer price adjustments at this time.</p>"
+        }
+      },
+      "question_bYC9b7": {
+        "type": "question",
+        "settings": {
+          "title": "My code isn’t working, why?",
+          "text": "<p>Our website permits the use of only one code per transaction, and multiple discount codes cannot be applied to a single order. Additionally, each customer is limited to using a code only once; once it's utilized, it cannot be reused.</p>"
+        }
+      },
+      "question_pWmzPM": {
+        "type": "question",
+        "settings": {
+          "title": "Will my discount code take currency into consideration?",
+          "text": "<p>All promotional offerings are denominated in USD currency. While we provide various currency options, we kindly request that you take into consideration any potential disparities during the checkout process.</p>"
+        }
+      },
+      "question_825c7603": {
+        "type": "question",
+        "settings": {
+          "title": "Do you offer price adjustments?",
+          "text": "<p>We are unable to make price adjustments for products purchased before or after the sale/discount period.</p>"
+        }
+      },
+      "question_33105f6d": {
+        "type": "question",
+        "settings": {
+          "title": "Are your stickers waterproof?",
+          "text": "<p>Yes! Our stickers are made from a highly durable transparent vinyl with a matte finish. Our stickers are 3 millimeters thick. They will do just fine on the back of your car or on your water bottle.</p>"
+        }
+      },
+      "question_689d9e8b": {
+        "type": "question",
+        "settings": {
+          "title": "Do you still hand-paint Bibles?",
+          "text": "<p>Yes! Our founder Katie selects a handful of submissions a few times per year. Click here for more information.</p>"
+        }
+      },
+      "question_HQKCBa": {
+        "type": "question",
+        "settings": {
+          "title": "What if I received a damaged item?",
+          "text": "<p>If you receive a damaged product, we want to know! We would love to make this right, please reach out to our Customer Service team at support@hosannarevival.com within 30 days of receiving the package. Replacements or refunds for orders are determined on a case by case basis.</p>"
+        }
+      },
+      "question_iNLyG8": {
+        "type": "question",
+        "settings": {
+          "title": "The gold artwork on my Bible has started to flake off ~ can you help?",
+          "text": "<p>Sadly we do not offer a warranty on our foiling. The nature & process of foiling is delicate and is subject to wear and tear. That being said, this is not a common complaint, and most of our customers enjoy their foiled products for years to come!</p>"
+        }
+      },
+      "question_61782c78": {
+        "type": "question",
+        "settings": {
+          "title": "Looking for custom bible info?",
+          "text": "<p>If you have questions about custom Bibles, please click here for more info.</p>"
+        }
       }
-    }
+    },
+    "block_order": [
+      "question_AbYGb6",
+      "question_47a05574",
+      "question_99f8f95e",
+      "question_a42083b4",
+      "question_84c97ddb",
+      "question_f74129a0",
+      "question_bc7adb10",
+      "question_XfCY3i",
+      "question_BNVkCc",
+      "question_Hgw6EW",
+      "question_dRVCiJ",
+      "question_bYC9b7",
+      "question_pWmzPM",
+      "question_825c7603",
+      "question_33105f6d",
+      "question_689d9e8b",
+      "question_HQKCBa",
+      "question_iNLyG8",
+      "question_61782c78"
+    ]
+  }
   },
   "order": [
     "main",
