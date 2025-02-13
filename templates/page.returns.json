@@ -136,7 +136,7 @@
         "policy_text": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Orders may be returned so long as:</p><p>• The order is new, unused/unworn, and in the original packaging</p><p>• The order is returned within <strong>30</strong> days of receipt*</p><p>• The order was not purchased on final sale</p><p><strong>Note: All returns are subject to a 10% restocking fee, and we do not refund original shipping costs.</strong></p>"
           }
         }
