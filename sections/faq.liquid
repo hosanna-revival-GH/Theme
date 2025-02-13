@@ -79,7 +79,15 @@
 </div>
 
 {%- if section.settings.divider -%}</div>{%- endif -%}
-
+{% style %}
+  .collapsible-trigger {
+  font-size: 1.3em;
+}
+.rte.collapsible-content__inner--faq {
+  padding-left: 42px;
+  padding-bottom: 30px;
+}
+{% endstyle %}
 {% schema %}
 {
   "name": "t:sections.faq.name",
