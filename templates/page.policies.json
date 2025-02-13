@@ -11,7 +11,10 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false
+      }
     },
     "parallax-hero-ababd59b": {
       "type": "slideshow",
@@ -54,15 +57,25 @@
         "shipping-fulfillment": {
           "type": "text_block",
           "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
             "title": "Shipping & Fulfillment",
-            "text": "<p><strong>Shipping and Processing Time</strong></p><p>Hosanna Revival currently ships all orders from our warehouse located in Cincinnati, OH. Our small shipping team works hard to process your order quickly! Our typical turnaround time is 1-3 business days. In busy seasons our processing time can vary from 4-7 business days. We do not process orders on holidays or weekends. We appreciate your patience as we continue to grow as a small business.</p><p>All shipping estimates are calculated at checkout & depends on the shipping method you select. USPS Media Mail arrives within 2-4 weeks. Our fastest method is FedEx Express, which will deliver within 1-3 business days. Once the package leaves our warehouse we have no control over the delivery process. </p>"
+            "text": "<p><strong>Shipping and Processing Time</strong></p><p>Hosanna Revival currently ships all orders from our warehouse located in Cincinnati, OH. Our small shipping team works hard to process your order quickly! Our typical turnaround time is 1-3 business days. In busy seasons our processing time can vary from 4-7 business days. We do not process orders on holidays or weekends. We appreciate your patience as we continue to grow as a small business.</p><p>All shipping estimates are calculated at checkout & depends on the shipping method you select. USPS Media Mail arrives within 2-4 weeks. Our fastest method is FedEx Express, which will deliver within 1-3 business days. Once the package leaves our warehouse we have no control over the delivery process. </p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "missing-packages-warranty": {
           "type": "text_block",
           "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
             "title": "Missing Packages / Warranty",
-            "text": "<p><strong>Lost/Missing Packages</strong></p><p>If you have a package that was marked as delivered but you have not yet received it, no worries! Sometimes carriers will mark an order/package as delivered before it actually arrives. We completely understand how confusing this can be. Please check all possible entrances on your property, check with neighbors, and contact your local carrier to see if they have any more information regarding delivery before contacting us. If you cannot find your order after 48 hours, please reach out to support@hosannarevival.com so we can further assist!</p>"
+            "text": "<p><strong>Lost/Missing Packages</strong></p><p>If you have a package that was marked as delivered but you have not yet received it, no worries! Sometimes carriers will mark an order/package as delivered before it actually arrives. We completely understand how confusing this can be. Please check all possible entrances on your property, check with neighbors, and contact your local carrier to see if they have any more information regarding delivery before contacting us. If you cannot find your order after 48 hours, please reach out to support@hosannarevival.com so we can further assist!</p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
@@ -72,29 +85,34 @@
       ],
       "settings": {
         "title": "FAQs and Customer Support",
-        "align_text": "left"
+        "align_text": "left",
+        "divider": false
       }
     },
-    "rich-text-d363dbca": {
-      "type": "rich-text",
+    "faq_jCNdBy": {
+      "type": "faq",
+      "blocks": {
+        "question_daxULp": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_dkwCBc": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_daxULp",
+        "question_dkwCBc"
+      ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 21,
-        "space_below": 21
-      }
-    },
-    "rich-text-61782c78": {
-      "type": "rich-text",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "title": "FAQs"
       }
     }
   },
@@ -102,7 +120,6 @@
     "main",
     "parallax-hero-ababd59b",
     "text-columns-1591994278767",
-    "rich-text-d363dbca",
-    "rich-text-61782c78"
+    "faq_jCNdBy"
   ]
 }
