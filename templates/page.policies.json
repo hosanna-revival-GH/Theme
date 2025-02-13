@@ -85,7 +85,7 @@
         "missing-packages-warranty"
       ],
       "custom_css": [
-        "h2{text-align:center;}"
+        "h2 {text-align: center;}"
       ],
       "settings": {
         "title": "FAQs and Customer Support",
@@ -255,12 +255,46 @@
       "settings": {
         "title": "Frequently Asked Questions"
       }
+    },
+    "rich_text_QXt6BR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U8EC3W": {
+          "type": "heading",
+          "settings": {
+            "title": "Looking for custom bible info?"
+          }
+        },
+        "text_dHxLgQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>If you have questions about custom Bibles, please <a href=\"/pages/custom-hand-painted-bibles\" title=\"Custom Hand-Painted Bibles\">click here<br/></a> for more info. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_U8EC3W",
+        "text_dHxLgQ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
     "parallax-hero-ababd59b",
     "text-columns-1591994278767",
-    "faq_jCNdBy"
+    "faq_jCNdBy",
+    "rich_text_QXt6BR"
   ]
 }
