@@ -169,7 +169,7 @@
         "more_questions": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Send an email to <a href=\"mailto:support@hosannarevival.com\">support@hosannarevival.com</a> and include your order number.</p>"
           }
         }
