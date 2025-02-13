@@ -1,18 +1,20 @@
 <div class="index-section">
   <div class="page-width text-center">
-    <div style="margin: {{ block.settings.space_above }}px auto {{ block.settings.space_below }}px; max-width: {{ block.settings.image_width }}px;">
-      {% if block.settings.image_link != blank %}
-        <a href="{{ block.settings.image_link }}">
-      {% endif %}
-      
-      {% if block.settings.image != blank %}
-        {{ block.settings.image | image_url: width: block.settings.image_width | image_tag: alt: block.settings.image.alt }}
-      {% endif %}
-      
-      {% if block.settings.image_link != blank %}
-        </a>
-      {% endif %}
-    </div>
+    {% for block in section.blocks %}
+      <div style="margin: {{ block.settings.space_above }}px auto {{ block.settings.space_below }}px; max-width: {{ block.settings.image_width }}px;">
+        {% if block.settings.image_link != blank %}
+          <a href="{{ block.settings.image_link }}">
+        {% endif %}
+        
+        {% if block.settings.image != blank %}
+          {{ block.settings.image | img_url: block.settings.image_width | image_tag: alt: block.settings.image.alt }}
+        {% endif %}
+        
+        {% if block.settings.image_link != blank %}
+          </a>
+        {% endif %}
+      </div>
+    {% endfor %}
   </div>
 </div>
 {% schema %}
@@ -64,11 +66,5 @@
       ]
     }
   ],
-  "presets": [
-    {
-      "name": "Default",
-      "category": "Custom Image"
-    }
-  ]
 }
 {% endschema %}
