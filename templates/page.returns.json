@@ -117,10 +117,11 @@
         "column_1",
         "column_2"
       ],
+      "custom_css": [],
       "settings": {
         "title": "",
         "align_text": "center",
-        "divider": false
+        "divider": true
       }
     },
     "rich-text_rich_text_ziAmhM": {
@@ -152,7 +153,7 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
+        "space_above": 35,
         "space_below": 75
       }
     },
