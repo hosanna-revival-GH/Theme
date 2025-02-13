@@ -12,9 +12,98 @@
     "main": {
       "type": "main-page",
       "settings": {}
+    },
+    "single-image-1597333252753": {
+      "type": "single-image",
+      "settings": {}
+    },
+    "custom-html-03f4698a": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_03f4698a": {
+          "type": "liquid",
+          "settings": {
+            "code": "<iframe id='ytplayer' type='text/html' width='1500' height='843.75' src='https://www.youtube.com/embed/eFLRDtmOR0I?modestbranding=1&color=white' frameborder='0' allowfullscreen></iframe>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_03f4698a"
+      ],
+      "settings": {}
+    },
+    "rich-text-1597331381358": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_bg": "#fce7e3",
+        "color_text": "#c66d5c",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich-text-1597333307717": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_bg": "#c5a094",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich-text-1597333405434": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_bg": "#c66d5c",
+        "color_text": "#fce7e3",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "custom-html-1597334520076": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_1597334520076": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class='text-center'><p style='font-size:1.2em;max-width: 800px;margin:0 auto 50px;'>Please note: this form is for printed publication submissions only. If you are interested in contributing to WHEN, the Hosanna Revival Blog, please <a href='https://hosannarevival.blog/submissions/' target='_blank'>submit your ideas here</a>.</p></div><div class='acerill-custom-form' data-form-id='62c92f5a-32af-4df6-98bd-03f78abb18f4'></div><script type='text/javascript' src='https://custom-forms-client.acerill.com/js/custom-forms-v2.js'></script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_1597334520076"
+      ],
+      "settings": {}
+    },
+    "rich-text-1597334531881": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_bg": "#fce7e3",
+        "color_text": "#c66d5c",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "single-image-1597333252753",
+    "custom-html-03f4698a",
+    "rich-text-1597331381358",
+    "rich-text-1597333307717",
+    "rich-text-1597333405434",
+    "custom-html-1597334520076",
+    "rich-text-1597334531881"
   ]
 }
