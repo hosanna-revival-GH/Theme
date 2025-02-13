@@ -12,9 +12,97 @@
     "main": {
       "type": "main-page",
       "settings": {}
+    },
+    "parallax-hero-ababd59b": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pgmdxz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "FAQs + Support",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-042.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_pgmdxz"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": false
+      }
+    },
+    "text-columns-1591994278767": {
+      "type": "text-columns",
+      "blocks": {
+        "shipping-fulfillment": {
+          "type": "text_block",
+          "settings": {
+            "title": "Shipping & Fulfillment",
+            "text": "<p><strong>Shipping and Processing Time</strong></p><p>Hosanna Revival currently ships all orders from our warehouse located in Cincinnati, OH. Our small shipping team works hard to process your order quickly! Our typical turnaround time is 1-3 business days. In busy seasons our processing time can vary from 4-7 business days. We do not process orders on holidays or weekends. We appreciate your patience as we continue to grow as a small business.</p><p>All shipping estimates are calculated at checkout & depends on the shipping method you select. USPS Media Mail arrives within 2-4 weeks. Our fastest method is FedEx Express, which will deliver within 1-3 business days. Once the package leaves our warehouse we have no control over the delivery process. </p>"
+          }
+        },
+        "missing-packages-warranty": {
+          "type": "text_block",
+          "settings": {
+            "title": "Missing Packages / Warranty",
+            "text": "<p><strong>Lost/Missing Packages</strong></p><p>If you have a package that was marked as delivered but you have not yet received it, no worries! Sometimes carriers will mark an order/package as delivered before it actually arrives. We completely understand how confusing this can be. Please check all possible entrances on your property, check with neighbors, and contact your local carrier to see if they have any more information regarding delivery before contacting us. If you cannot find your order after 48 hours, please reach out to support@hosannarevival.com so we can further assist!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "shipping-fulfillment",
+        "missing-packages-warranty"
+      ],
+      "settings": {
+        "title": "FAQs and Customer Support",
+        "align_text": "left"
+      }
+    },
+    "rich-text-d363dbca": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 21,
+        "space_below": 21
+      }
+    },
+    "rich-text-61782c78": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "parallax-hero-ababd59b",
+    "text-columns-1591994278767",
+    "rich-text-d363dbca",
+    "rich-text-61782c78"
   ]
 }
