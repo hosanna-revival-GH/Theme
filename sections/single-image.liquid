@@ -7,7 +7,7 @@
         {% endif %}
         
         {% if block.settings.image != blank %}
-          {{ block.settings.image | img_url: block.settings.image_width | image_tag: alt: block.settings.image.alt }}
+          {{ block.settings.image | image_url: width: block.settings.image_width | image_tag: alt: block.settings.image.alt }}
         {% endif %}
         
         {% if block.settings.image_link != blank %}
