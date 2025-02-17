@@ -72,11 +72,65 @@
         "full_width": true,
         "space_around": false
       }
-    }
+    },
+       "rich_text_p9PnDx": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ARVHzb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>a free, 9-day Holy Week study on how the Old Testament laws reveal the freedom of the cross</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ARVHzb"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 20
+      }
+    },
+    "rich_text_qmmt4H": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ARVHzb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Through this 9-day series written by our guest writer Jill Dreyer, you will explore how the Old Testament laws pave the way for Jesus and the gospel of grace. Learn how God’s promise from Exodus 6:7, “I will claim you as my own people and I will be your God,” is perfectly fulfilled in the life, death, and resurrection of Christ. </p><p>We welcome you to join us on this journey through Scripture to allow your heart to ponder Christ’s resurrection. Sign up to receive the 9-day email series above!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ARVHzb"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 20,
+        "space_below": 20
+      }
+    },
   },
   "order": [
     "main",
     "slideshow_HDzQtt",
-    "17398168521c601f70"
+    "17398168521c601f70",
+    "rich_text_p9PnDx",
+    "rich_text_qmmt4H",
   ]
 }
