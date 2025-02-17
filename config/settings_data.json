@@ -97,6 +97,45 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
+      },
+      "13549935337288218858": {
+        "type": "shopify://apps/labeler-product-labels/blocks/app-embed/38a5b8ec-f58a-4fa4-8faa-69ddd0f10a60",
+        "disabled": false,
+        "settings": {}
+      },
+      "14019014016809704581": {
+        "type": "shopify://apps/sendbird-ai-chatbot/blocks/sendbird_ai_chatbot/b03eb8ba-9162-4761-90d8-4ea6e597ce98",
+        "disabled": false,
+        "settings": {}
+      },
+      "10605408327587305396": {
+        "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
+        "disabled": false,
+        "settings": {
+          "version": "v3"
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
+      },
+      "15493114679298500990": {
+        "type": "shopify://apps/gift-card-hero-all-in-one/blocks/app-embed/57babc6a-ae2b-46cf-b565-dd8395b0276b",
+        "disabled": false,
+        "settings": {}
+      },
+      "14952540001915115444": {
+        "type": "shopify://apps/upcart-cart-drawer/blocks/app-embed/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
+        "disabled": false,
+        "settings": {}
+      },
+      "5460929749692845798": {
+        "type": "shopify://apps/shopacado-discounts/blocks/enable/5950831a-4e4e-40a4-82b0-674110b50a14",
+        "disabled": false,
+        "settings": {
+          "theme_id": ""
+        }
       }
     }
   },
