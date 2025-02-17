@@ -1,38 +1,20 @@
-  {%- if link.active or link.child_active -%}
-    {%- assign sub_collection_links = link.links -%}
-    {%- for sub_link in link.links -%}
-      {%- if sub_link.url contains '/collections/' -%}
-        {%- assign lang_code_string = request.locale.iso_code | prepend: '/' -%}
-        {%- assign sub_handle = sub_link.url | remove: '/collections/' | remove: lang_code_string -%}
-        <li {% if sub_link.current %}class="tag--active"{% endif %}>
-          <a href="{{ sub_link.url }}" class="no-ajax">
-            {{ sub_link.title }}
-            {%- if block.settings.enable_count and collections[sub_handle].products_count != blank -%}
-              &mdash; {{ collections[sub_handle].products_count }}
-            {%- endif -%}
-          </a>
-
-          {%- if block.settings.enable_subsubcollections and sub_link.levels > 0 -%}
-            <ul class="no-bullets tag-list">
-              {%- for sub_sub_link in sub_link.links -%}
-                {%- if sub_sub_link.url contains '/collections/' -%}
-                  {%- assign lang_code_string = request.locale.iso_code | prepend: '/' -%}
-                  {%- assign sub_sub_handle = sub_sub_link.url | remove: '/collections/' | remove: lang_code_string -%}
-                  <li {% if sub_sub_link.current %}class="tag--active"{% endif %}>
-                    <a href="{{ sub_sub_link.url }}" class="no-ajax">
-                      {{ sub_sub_link.title }}
-                      {%- if block.settings.enable_count and collections[sub_sub_handle].products_count != blank -%}
-                        &mdash; {{ collections[sub_sub_handle].products_count }}
-                      {%- endif -%}
-                    </a>
-                  </li>
-                {%- endif -%}
-              {%- endfor -%}
+{% if linklists.shop %}
+  <div class="collection-sidebar small--hide">
+    <ul class="no-bullets tag-list tag-list--active-tags">
+      {% for link in linklists.shop.links %}
+        <li class="tag">
+          <a href="{{ link.url }}">{{ link.title }}</a>
+          {% if link.links %}
+            <ul>
+              {% for child_link in link.links %}
+                <li><a href="{{ child_link.url }}">{{ child_link.title }}</a></li>
+              {% endfor %}
             </ul>
-          {%- endif -%}
+          {% endif %}
         </li>
-      {%- endif -%}
-    {%- endfor -%}
-
-  {%- endif -%}
-
+      {% endfor %}
+    </ul>
+  </div>
+{% else %}
+  <p>Shop menu not found.</p>
+{% endif %}
