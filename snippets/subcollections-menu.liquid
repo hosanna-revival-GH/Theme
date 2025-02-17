@@ -1,5 +1,4 @@
 {% if linklists.shop %}
-  <div class="collection-sidebar small--hide">
     <ul class="no-bullets tag-list tag-list--active-tags">
       {% for link in linklists.shop.links %}
         <li class="tag">
@@ -14,7 +13,4 @@
         </li>
       {% endfor %}
     </ul>
-  </div>
-{% else %}
-  <p>Shop menu not found.</p>
 {% endif %}
