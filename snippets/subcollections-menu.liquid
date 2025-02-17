@@ -1,4 +1,3 @@
-{%- unless list_printed -%}
   {%- if link.active or link.child_active -%}
     {%- assign sub_collection_links = link.links -%}
     {%- for sub_link in link.links -%}
@@ -35,6 +34,5 @@
       {%- endif -%}
     {%- endfor -%}
 
-    {%- assign list_printed = true -%}
   {%- endif -%}
-{%- endunless -%}
+
