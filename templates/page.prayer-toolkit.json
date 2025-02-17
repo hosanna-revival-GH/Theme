@@ -12,9 +12,389 @@
     "main": {
       "type": "main-page",
       "settings": {}
+    },
+    "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c": {
+      "type": "slideshow",
+      "blocks": {
+        "image_1": {
+          "type": "image",
+          "settings": {
+            "title": "Prayer\nToolkit",
+            "subheading": "A Simple Guide to Prayer",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-001.jpg",
+            "parallax_direction": "top"
+          }
+        }
+      },
+      "block_order": [
+        "image_1"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "parallax": true
+      }
+    },
+    "bda355ba-be8d-42d7-b144-275b6cefb6a3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_1": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. Perhaps you have struggled with understanding <em>why</em> we pray. You may wonder, <em>Does God always hear every prayer? Does prayer change God’s mind? What’s the point of praying if God knows everything? </em>Or maybe you fully understand why you pray, but have a hard time with a consistent prayer life.</p><p>Wherever you are, this guide is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline. Let’s get started!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_1",
+        "text_1"
+      ],
+      "settings": {}
+    },
+    "9b3ada5d-6035-4418-bf90-53300bb2b25d": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Download the prayer toolkit",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
+        "button_size": "medium",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 30
+      }
+    },
+    "07e5961c-213e-4f7e-bf19-720f8caf8ef5": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_2": {
+          "type": "heading",
+          "settings": {
+            "title": "a note from Katie"
+          }
+        },
+        "text_2": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>If I were sitting next to you as you tackle the giant topic of prayer, I would want you to know a few things.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_2",
+        "text_2"
+      ],
+      "settings": {}
+    },
+    "b1eb2f2c-9c90-4ac9-837a-4a2f90d0c987": {
+      "type": "rich-text",
+      "blocks": {
+        "text_3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>First, I would tell you that I am overjoyed you are trying to make change in your prayer life. It’s so easy to settle into “good enough” when something is hard, confusing, or unfamiliar. </p><p>Second, I would tell you that communing with the God of the universe through prayer is one of the most important things you will do to grow your faith, and strengthen your relationship with God. No relationship thrives on weak, inconsistent, and inauthentic communication. Why would we expect our relationship with God to be any different? </p><p>As you commit to improving your discipline of prayer by one small step or a massive overhaul, I pray that you will feel strengthened. Know that God wants this change for you even more than you do. Prayer is modeled for us all over the Bible as a necessary but beautiful gift from God- and your commitment to commune with him consistently and passionately will draw you near to the Lord, leading to only more goodness and glory.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3"
+      ],
+      "settings": {}
+    },
+    "0d4a5024-bc93-479e-858c-334f510bf9c0": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>“Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.”<br/><em>—Hebrews 4:16—</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_4"
+      ],
+      "settings": {}
+    },
+    "b8f496ca-7e30-4276-90dc-9541ba4ba935": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3": {
+          "type": "heading",
+          "settings": {
+            "title": "Table of Contents"
+          }
+        },
+        "text_5": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>1<br/>What is Prayer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3",
+        "text_5"
+      ],
+      "settings": {}
+    },
+    "74a4730b-11fc-4a1b-935a-b3ba96823cd0": {
+      "type": "rich-text",
+      "blocks": {
+        "text_6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>What It Is and What It Is Not</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_6"
+      ],
+      "settings": {}
+    },
+    "cb2b5582-88de-407f-990f-a9982fce3d50": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>2<br/>Why Pray?</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_7"
+      ],
+      "settings": {}
+    },
+    "fdadad96-e1f5-4450-81a6-1172fafe6fd1": {
+      "type": "rich-text",
+      "blocks": {
+        "text_8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Finding Purpose in Prayer</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_8"
+      ],
+      "settings": {}
+    },
+    "6ff663f5-0dd2-4729-85b0-459150a361e6": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>3<br/>Prayer Struggles</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9"
+      ],
+      "settings": {}
+    },
+    "4ac6196a-90f9-4d22-aeb4-b615e6b4fefb": {
+      "type": "rich-text",
+      "blocks": {
+        "text_10": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Questions You Might Have About Prayer</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_10"
+      ],
+      "settings": {}
+    },
+    "fe2f4c32-6b3b-407b-a93f-3bb756bbcd7a": {
+      "type": "rich-text",
+      "blocks": {
+        "text_11": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>4<br/>How to Pray</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_11"
+      ],
+      "settings": {}
+    },
+    "7abb9e77-11cf-4889-8959-151dcb0492c2": {
+      "type": "rich-text",
+      "blocks": {
+        "text_12": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Before You Pray and What to Pray</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_12"
+      ],
+      "settings": {}
+    },
+    "60b813cf-755c-4ec7-8292-4f8237d5b95e": {
+      "type": "rich-text",
+      "blocks": {
+        "text_13": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>5<br/>After You Pray</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_13"
+      ],
+      "settings": {}
+    },
+    "4429ee2b-51e8-4181-bde8-176a5bb3d34c": {
+      "type": "rich-text",
+      "blocks": {
+        "text_14": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>What Happens After You've Finished Praying</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_14"
+      ],
+      "settings": {}
+    },
+    "a3aeddc0-ddbe-44e0-80c9-2b7324eb5962": {
+      "type": "rich-text",
+      "blocks": {
+        "text_15": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>6<br/>Take it Farther</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_15"
+      ],
+      "settings": {}
+    },
+    "a316dc0f-f1bb-41e6-8030-005d3cec1fdc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_16": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Top Resources on Prayer</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_16"
+      ],
+      "settings": {}
+    },
+    "aa32d56c-7ec3-46f3-9335-fb83ac36118d": {
+      "type": "rich-text",
+      "blocks": {
+        "text_17": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>7<br/>Download the Toolkit</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_17"
+      ],
+      "settings": {}
+    },
+    "f8ccf54b-703e-4099-8ccb-be2d8689c3b9": {
+      "type": "rich-text",
+      "blocks": {
+        "text_18": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Your Free Downloadable Prayer Toolkit</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_18"
+      ],
+      "settings": {}
+    },
+    "0ccffc62-0e9b-4cc5-b1f5-cd1ed705a0c1": {
+      "type": "rich-text",
+      "blocks": {
+        "text_19": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Top Resources on Prayer</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_19"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c",
+    "bda355ba-be8d-42d7-b144-275b6cefb6a3",
+    "9b3ada5d-6035-4418-bf90-53300bb2b25d",
+    "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
+    "b1eb2f2c-9c90-4ac9-837a-4a2f90d0c987",
+    "0d4a5024-bc93-479e-858c-334f510bf9c0",
+    "b8f496ca-7e30-4276-90dc-9541ba4ba935",
+    "74a4730b-11fc-4a1b-935a-b3ba96823cd0",
+    "cb2b5582-88de-407f-990f-a9982fce3d50",
+    "fdadad96-e1f5-4450-81a6-1172fafe6fd1",
+    "6ff663f5-0dd2-4729-85b0-459150a361e6",
+    "4ac6196a-90f9-4d22-aeb4-b615e6b4fefb",
+    "fe2f4c32-6b3b-407b-a93f-3bb756bbcd7a",
+    "7abb9e77-11cf-4889-8959-151dcb0492c2",
+    "60b813cf-755c-4ec7-8292-4f8237d5b95e",
+    "4429ee2b-51e8-4181-bde8-176a5bb3d34c",
+    "a3aeddc0-ddbe-44e0-80c9-2b7324eb5962",
+    "a316dc0f-f1bb-41e6-8030-005d3cec1fdc",
+    "aa32d56c-7ec3-46f3-9335-fb83ac36118d",
+    "f8ccf54b-703e-4099-8ccb-be2d8689c3b9",
+    "0ccffc62-0e9b-4cc5-b1f5-cd1ed705a0c1"
   ]
 }
