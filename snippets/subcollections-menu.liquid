@@ -1,29 +1,26 @@
 {% assign shop_linklist = linklists.hosanna-revival-shop %}
+{{ shop_linklist | json }}
 {% if shop_linklist %}
   <div class="subcollections-menu">
     <ul>
       {% for link in shop_linklist.links %}
-        {% if link.url contains '/collections/' %}
-          <li {% if link.url == request.path %}class="active"{% endif %}>
-            <a href="{{ link.url }}">{{ link.title }}</a>
-            {% if link.links %}
-              <ul>
-                {% for child_link in link.links %}
-                  {% if child_link.url contains '/collections/' %}
-                    <li {% if child_link.url == request.path %}class="active"{% endif %}>
-                      <a href="{{ child_link.url }}">{{ child_link.title }}</a>
-                    </li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-            {% else %}
-              <!-- Debug: No child links found for {{ link.title }} -->
-            {% endif %}
-          </li>
-        {% endif %}
+        <li {% if link.url == request.path or link.active %}class="active"{% endif %}>
+          <a href="{{ link.url }}">{{ link.title }}</a>
+          {% if link.links.size > 0 %}
+            <ul>
+              {% for child_link in link.links %}
+                {% if child_link.url contains '/collections/' %}
+                  <li {% if child_link.url == request.path or child_link.active %}class="active"{% endif %}>
+                    <a href="{{ child_link.url }}">{{ child_link.title }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
       {% endfor %}
     </ul>
   </div>
 {% else %}
-  <!-- Debug: shop_linklist not found -->
+  <!-- Debug: 'shop' linklist not found -->
 {% endif %}
