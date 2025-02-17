@@ -1,4 +1,4 @@
-{{  link.active }}-{% if link.active or link.child_active %} 
+{{  link.active | json }}-{% if link.active or link.child_active %} 
   {% assign sub_collection_links = link.links %}
   <ul class="no-bullets tag-list">
     {% for sub_link in sub_collection_links %}
