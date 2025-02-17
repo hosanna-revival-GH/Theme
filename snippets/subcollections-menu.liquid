@@ -1,46 +1,51 @@
 {% assign current_url = request.path %}
 {% assign current_handle = current_url | split: '/' | last %}
 {% assign parent_found = false %}
+{% assign rendered_handles = '' %}
 
 <div class="collection-sidebar small--hide">
   <ul class="no-bullets tag-list tag-list--active-tags">
     {% for link in linklists.main-menu.links %}
-      {% assign is_current_parent = false %}
+      {% assign link_handle = link.url | split: '/' | last %}
       {% if link.url contains current_handle or link.child_active %}
-        {% assign is_current_parent = true %}
         {% assign parent_found = true %}
       {% endif %}
       
-      {% if parent_found %}
-        {% comment %}Render the current top-level link if it's the parent{% endcomment %}
-        {% if is_current_parent %}
-          <li class="tag {% if link.url == current_url %}active{% endif %}">
-            <a href="{{ link.url }}" class="no-ajax" style="{% if link.url == current_url %}font-weight: bold;{% endif %}">
-              {{ link.title }}
-            </a>
-          </li>
-        {% endif %}
+      {% if parent_found and rendered_handles contains link_handle == false %}
+        {% assign rendered_handles = rendered_handles | append: link_handle | append: ',' %}
+        <li class="tag {% if link.url == current_url %}active{% endif %}">
+          <a href="{{ link.url }}" class="no-ajax" style="{% if link.url == current_url %}font-weight: bold;{% endif %}">
+            {{ link.title }}
+          </a>
+        </li>
         
-        {% comment %}Render children of the current parent{% endcomment %}
-        {% if link.links != blank and is_current_parent %}
+        {% if link.links != blank %}
           <ul class="no-bullets tag-list">
             {% for child_link in link.links %}
-              <li class="tag {% if child_link.url == current_url %}active{% endif %}">
-                <a href="{{ child_link.url }}" class="no-ajax" style="{% if child_link.url == current_url %}font-weight: bold;{% endif %}">
-                  {{ child_link.title }}
-                </a>
-                {% if child_link.links != blank %}
-                  <ul class="no-bullets tag-list">
-                    {% for grandchild_link in child_link.links %}
-                      <li class="tag {% if grandchild_link.url == current_url %}active{% endif %}">
-                        <a href="{{ grandchild_link.url }}" class="no-ajax" style="{% if grandchild_link.url == current_url %}font-weight: bold;{% endif %}">
-                          {{ grandchild_link.title }}
-                        </a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              </li>
+              {% assign child_handle = child_link.url | split: '/' | last %}
+              {% if rendered_handles contains child_handle == false %}
+                {% assign rendered_handles = rendered_handles | append: child_handle | append: ',' %}
+                <li class="tag {% if child_link.url == current_url %}active{% endif %}">
+                  <a href="{{ child_link.url }}" class="no-ajax" style="{% if child_link.url == current_url %}font-weight: bold;{% endif %}">
+                    {{ child_link.title }}
+                  </a>
+                  {% if child_link.links != blank %}
+                    <ul class="no-bullets tag-list">
+                      {% for grandchild_link in child_link.links %}
+                        {% assign grandchild_handle = grandchild_link.url | split: '/' | last %}
+                        {% if rendered_handles contains grandchild_handle == false %}
+                          {% assign rendered_handles = rendered_handles | append: grandchild_handle | append: ',' %}
+                          <li class="tag {% if grandchild_link.url == current_url %}active{% endif %}">
+                            <a href="{{ grandchild_link.url }}" class="no-ajax" style="{% if grandchild_link.url == current_url %}font-weight: bold;{% endif %}">
+                              {{ grandchild_link.title }}
+                            </a>
+                          </li>
+                        {% endif %}
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+                </li>
+              {% endif %}
             {% endfor %}
           </ul>
         {% endif %}
