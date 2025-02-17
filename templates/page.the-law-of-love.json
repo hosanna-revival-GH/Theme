@@ -73,9 +73,79 @@
         "space_around": false
       }
     },
-       "rich_text_p9PnDx": {
+    "text_and_image_6c4xbf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Law-of-Love-Holy-Week-Study.jpg",
+        "subtitle": "Free PDF",
+        "title": "Download the Full Study",
+        "text": "<p>Would you prefer to print out the study rather than receive it daily over email? Want to study with a group and provide the print-out for your community? Then download the full study below. We're cheering you on as you study at your own pace.</p>",
+        "button_label": "Download the PDF",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/The-Law-of-Love-Holy-Week-Study-Hosanna-Revival.pdf",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_xkgxP7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Law-of-Love-Lock-Screen-Day-1-Hosanna-Revival.jpg",
+        "subtitle": "Tiny Intentional Tools",
+        "title": "Free Lock Screens",
+        "text": "<p>Would you love a tiny reminder of truth to take with you every day? Our Law of Love lock screens are the perfect way to remember what you learn in this study throughout the day. Select your favorite or download them all below!</p>",
+        "button_label": "Explore the Lock Screens",
+        "button_link": "shopify://blogs/lock-screens/the-law-of-love-lock-screens",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_nmpwCG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Jill-Dreyer-Headshot-2024.png",
+        "subtitle": "Meet the Author",
+        "title": "About Jill Dreyer",
+        "text": "<p>Jill lives in Cincinnati with her husband, John, and daughter, Adelaide. She loves the Lord, gardening, and lattes. Writing is a relatively new endeavor in her life, but she hopes the Lord will continue to inspire words in her heart. Some of her favorite things include mornings with her daughter, coffee dates with friends, long walks and talks, and traveling with her husband. Read more of her work on our blog <em>WHEN</em>.</p>",
+        "button_label": "Read her work",
+        "button_link": "https://hosannarevival.blog/author/jill-dreyer/",
+        "layout": "left",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Vydcpa": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Improved",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "Optional button",
+        "button_link": "",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_p9PnDx": {
       "type": "rich-text",
       "blocks": {
+        "heading_LgMrbJ": {
+          "type": "heading",
+          "settings": {
+            "title": "The Law of Love: A Holy Week Study"
+          }
+        },
         "text_ARVHzb": {
           "type": "text",
           "settings": {
@@ -85,6 +155,7 @@
         }
       },
       "block_order": [
+        "heading_LgMrbJ",
         "text_ARVHzb"
       ],
       "settings": {
@@ -124,13 +195,17 @@
         "space_above": 20,
         "space_below": 20
       }
-    },
+    }
   },
   "order": [
     "main",
     "slideshow_HDzQtt",
     "17398168521c601f70",
-    "rich_text_p9PnDx",
-    "rich_text_qmmt4H",
+              "rich_text_p9PnDx",
+          "rich_text_qmmt4H",
+          "text_and_image_6c4xbf",
+          "text_and_image_xkgxP7",
+          "text_and_image_nmpwCG",
+          "text_and_image_Vydcpa",
   ]
 }
