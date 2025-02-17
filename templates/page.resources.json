@@ -270,33 +270,57 @@
         "lazyload_images": true
       }
     },
-        "f1879c68-6ab4-486f-ac66-4de42d233767": {
+    "f1879c68-6ab4-486f-ac66-4de42d233767": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/HR-ComeToTheTable-RE-sm.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "a holiday email series",
         "title": "Come to the Table: Lessons Learned from Mealtimes with Jesus",
         "text": "<p><em>Come to the Table</em> is a 9-day email series that will consider eight different mealtimes with Jesus recorded in the Gospel of Luke and will challenge and encourage you to remember and be grateful for the God who welcomes all to his table.</p>",
         "button_label": "Sign Up Today",
         "button_link": "shopify://pages/come-to-the-table",
-        "layout": "right"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "text_and_image_B4p3Ej": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/When-the-Holidays-Are-Hard-Holiday-Email-Series-Hosanna-Revival-SQ.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "A Holiday Email Series",
         "title": "When the Holidays Are Hard",
         "text": "<p>Christmas is the most wonderful time of the year... or is it? For you, it may be more accurate to say this time of year feels more dreadful and dark than merry and bright. More crazy than cozy. And you’re not alone. <em>When the Holidays Are Hard</em> is a 9-day email series that will acknowledge some of the challenges we face in our relationships with others during this season. Each day you will receive a short, topical study containing practical, biblical wisdom from writers we love. We pray this series will hold your hand as you walk into the weary days ahead. </p>",
         "button_label": "Sign Up Today",
         "button_link": "shopify://pages/when-the-holidays-are-hard",
-        "layout": "left"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "rich_text_6MKzkQ": {
       "type": "rich-text",
       "blocks": {
+        "heading_nqbh3J": {
+          "type": "heading",
+          "settings": {
+            "title": "Creative Series"
+          }
+        },
         "text_ARVHzb": {
           "type": "text",
           "settings": {
@@ -306,6 +330,7 @@
         }
       },
       "block_order": [
+        "heading_nqbh3J",
         "text_ARVHzb"
       ],
       "settings": {
@@ -324,29 +349,53 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/Create-Through-Scripture-Dwelling-Place-Email-Series-Hosanna-Revival-SQ.png",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "A Creative Email Series",
         "title": "Create Through Scripture: A Dwelling Place",
         "text": "<p>You’re invited to engage with Scripture in a new and beautiful way through intentional creativity! Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 84</em>. Each week we will introduce a new section of Psalm 84 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration. We pray that this series fuels you to to creatively connect with God through his Word.</p>",
         "button_label": "Sign Up Today",
         "button_link": "shopify://pages/dwelling-place",
-        "layout": "left"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "c4701f6d-4c30-40bb-b56b-0ce241aa0a67": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/Pleasant-Places-Psalm-16-Hosanna-Revival-1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "A Creative Email Series",
         "title": "Pleasant Places: An Invitation to Create through Psalm 16",
         "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for the 4-week journey <em>Pleasant Places: An invitation to create through Psalm 16. </em>Sign up for the free email series, invite a friend, and prepare to create.</p>",
         "button_label": "Sign up",
         "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
-        "layout": "right"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
-"eb1ed871-41ce-4970-8e1e-297bf7c9bf94": {
+    "eb1ed871-41ce-4970-8e1e-297bf7c9bf94": {
       "type": "rich-text",
       "blocks": {
+        "heading_TNACPC": {
+          "type": "heading",
+          "settings": {
+            "title": "Holy Week Devotionals"
+          }
+        },
         "text_ARVHzb": {
           "type": "text",
           "settings": {
@@ -356,6 +405,7 @@
         }
       },
       "block_order": [
+        "heading_TNACPC",
         "text_ARVHzb"
       ],
       "settings": {
@@ -374,65 +424,116 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/Law-of-Love-Holy-Week-Study.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "A Holy Week Email Series",
         "title": "The Law of Love",
         "text": "<p>If you desire to understand the significance of the Old Testament laws, this study is for you. Over 9 days, prepare your heart to celebrate Christ's resurrection through tracing Christ's fulfillment of these laws through his life, death, and resurrection.</p>",
         "button_label": "Sign Up Here",
         "button_link": "shopify://pages/the-law-of-love",
-        "layout": "left"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "6f2fbd9e-5b49-4ccc-a381-5923f6db891b": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/Return-to-Me-SQ-A.png",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "2022 HOLY WEEK DEVOTIONAL",
         "title": "Return to Me",
         "text": "<p>Journey with guest author <a href=\"https://brittleeallen.com/\" target=\"_blank\" title=\"https://brittleeallen.com/\">Brittany Lee Allen</a> to celebrate Christ's resurrection by delving into the topic of repentance. This devotional is a free, week-long email series that you can study at any point in the year. Learn more by clicking the link.</p>",
         "button_label": "Study Repentance",
         "button_link": "https://hosannarevival.blog/return-to-me-holy-week-2022/",
-        "layout": "right"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "c36f87ae-55a5-446e-9a7b-b0a8fc17e85c": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/raised-with-christ-text.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "2021 Holy Week Devotional",
         "title": "Raised with Christ",
         "text": "<p>This Holy Week devotinal meditates on a different point of our union with Christ each day, from being made alive in Christ to being glorified with Christ—and everything in-between.</p>",
         "button_label": "Download PDF",
         "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/HosannaRevival-HolyWeek-Devotional-WillBurrows.pdf?v=1616695632",
-        "layout": "left"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "d9fef651-cc0c-4a72-8e0d-9fcea74120ab": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/holy-week-2020.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "2020 Holy Week Devotional",
         "title": "Hosanna Holy Week Devotional",
         "text": "<p>Commit to the 20-30 minutes this study will take each day for Scripture reading, meditation, and reflection, and let the Lord reveal himself to you. In the middle of all of this, we pray you remember  the Lord is with you—and he has never left.</p>",
         "button_label": "Download PDF",
         "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/holyweekdevotional_updated.pdf?v=1586099619",
-        "layout": "right"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "5d6f71ed-87df-4e1a-9756-c9d599c1c17e": {
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/jahs-hero_7cefb35f-baf3-44d2-b782-cb4941ab0826.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "2019 Holy Week Devotional",
         "title": "Just as He Said",
         "text": "<p>This study is called “Just as He said.” In Matthew 28, after the tomb is left empty, the angel says, “He is risen, just as he said.” The Bible is full of promises. We are working to learn them, and believe him.</p>",
         "button_label": "Download PDF",
         "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Holy_Week_2019_PDF.pdf?v=1555358892",
-        "layout": "left"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "044c0ab9-0c6f-400a-832e-426b0d772a1c": {
       "type": "rich-text",
       "blocks": {
+        "heading_pmDXXB": {
+          "type": "heading",
+          "settings": {
+            "title": "LOCKSCREENS"
+          }
+        },
         "text_ARVHzb": {
           "type": "text",
           "settings": {
@@ -442,6 +543,7 @@
         }
       },
       "block_order": [
+        "heading_pmDXXB",
         "text_ARVHzb"
       ],
       "settings": {
@@ -460,17 +562,32 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify://shop_images/lockscreens.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
         "subtitle": "Hosanna Revival",
         "title": "Lockscreens",
         "text": "<p>We are so excited to have free downloadable lock screens for you! We hope you will use these lock screens in two ways: First, as a regular reminder of truth. And second, as a Scripture memorization tool.</p>",
         "button_label": "View All",
         "button_link": "shopify://blogs/lock-screens",
-        "layout": "left"
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "79659a6a-b971-4648-ac78-fb8a8d600061": {
       "type": "rich-text",
       "blocks": {
+        "heading_MtDTqm": {
+          "type": "heading",
+          "settings": {
+            "title": "A Space for your Questions"
+          }
+        },
         "text_ARVHzb": {
           "type": "text",
           "settings": {
@@ -480,6 +597,7 @@
         }
       },
       "block_order": [
+        "heading_MtDTqm",
         "text_ARVHzb"
       ],
       "settings": {
@@ -493,7 +611,7 @@
         "space_above": 75,
         "space_below": 75
       }
-    },
+    }
   },
   "order": [
     "main",
