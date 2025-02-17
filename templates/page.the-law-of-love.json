@@ -200,7 +200,7 @@
       "settings": {
         "button_text": "Explore all Free Studies",
         "button_link": "shopify://pages/free-resources",
-        "button_size": "large",
+        "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 30
