@@ -33,7 +33,7 @@
     </header>
 
     <div class="grid grid--uniform">
-{%- assign number_of_columns = blog.metafields.custom.columns.value | default: 4 -%}
+{%- assign number_of_columns = blog.metafields.custom.columns.value -%}
 {%- case number_of_columns -%}
   {%- when '1' -%}
     {%- assign grid_item_width = 'medium-up--one-full' -%}
@@ -48,7 +48,7 @@
 {%- endcase -%}
 
 {%- for article in blog.articles -%}
-  {%- render 'article-grid-item', article: article, grid_item_width: grid_item_width, per_row: number_of_columns, image_size: section.settings.blog_image_size -%}
+  {%- render 'article-grid-item', article: article, grid_item_width: grid_item_width, per_row: number_of_columns | default: 4, image_size: section.settings.blog_image_size -%}
 {%- endfor -%}
     </div>
 
