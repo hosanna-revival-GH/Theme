@@ -33,7 +33,7 @@
     </header>
 
     <div class="grid grid--uniform">
-{%- assign number_of_columns = blog.metafields.custom.columns.value -%}
+{%- assign number_of_columns = blog.metafields.custom.columns.value -%} {{ number_of_columns }}
 {%- case number_of_columns -%}
   {%- when '1' -%}
     {%- assign grid_item_width = 'medium-up--one-full' -%}
