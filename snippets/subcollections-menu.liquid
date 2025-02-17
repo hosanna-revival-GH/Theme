@@ -1,35 +1,33 @@
-  <ul>
-    {%- for link in linklists.main-menu.links -%}
-      <li>
-        <a href="{{ link.url }}" {% if link.active %}aria-current="page"{% endif %}>
+  <ul class="no-bullets tag-list tag-list--active-tags">
+    {% for link in linklists.main-menu.links %}
+      <li class="tag">
+        <a href="{{ link.url }}" class="no-ajax" {% if link.active %}aria-current="page"{% endif %}>
           {{ link.title }}
         </a>
 
-        {%- if link.links != blank -%}
-          <ul>
-            {%- for child_link in link.links -%}
-              <li>
-                <a href="{{ child_link.url }}" {% if child_link.active %}aria-current="page"{% endif %}>
+        {% if link.links != blank %}
+          <ul class="no-bullets tag-list">
+            {% for child_link in link.links %}
+              <li class="tag">
+                <a href="{{ child_link.url }}" class="no-ajax" {% if child_link.active %}aria-current="page"{% endif %}>
                   {{ child_link.title }}
                 </a>
 
-                {%- if child_link.links != blank -%}
-                  <ul>
-                    {%- for grandchild_link in child_link.links -%}
-                      <li>
-                        <a href="{{ grandchild_link.url }}" {% if grandchild_link.active %}aria-current="page"{% endif %}>
+                {% if child_link.links != blank %}
+                  <ul class="no-bullets tag-list">
+                    {% for grandchild_link in child_link.links %}
+                      <li class="tag">
+                        <a href="{{ grandchild_link.url }}" class="no-ajax" {% if grandchild_link.active %}aria-current="page"{% endif %}>
                           {{ grandchild_link.title }}
                         </a>
                       </li>
-                    {%- endfor -%}
+                    {% endfor %}
                   </ul>
-                {%- endif -%}
-
+                {% endif %}
               </li>
-            {%- endfor -%}
+            {% endfor %}
           </ul>
-        {%- endif -%}
-
+        {% endif %}
       </li>
-    {%- endfor -%}
+    {% endfor %}
   </ul>
