@@ -1,6 +1,87 @@
+<div class="index-section">
+  <div class="page-width text-{{ section.settings.alignment }}">
+    <div style="margin: {{ section.settings.space_above }}px auto {{ section.settings.space_below }}px;">
+      <a href="{{ section.settings.button_link }}" class="btn btn--{{ section.settings.button_size }}">
+        {{ section.settings.button_text }}
+      </a>
+    </div>
+  </div>
+</div>
+
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "Custom Button",
+  "settings": [
+    {
+      "type": "text",
+      "id": "button_text",
+      "label": "Button Text",
+      "default": "Click Here"
+    },
+    {
+      "type": "url",
+      "id": "button_link",
+      "label": "Button Link",
+      "default": "/"
+    },
+    {
+      "type": "select",
+      "id": "button_size",
+      "label": "Button Size",
+      "options": [
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "large",
+          "label": "Large"
+        }
+      ],
+      "default": "medium"
+    },
+    {
+      "type": "select",
+      "id": "alignment",
+      "label": "Text Alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "number",
+      "id": "space_above",
+      "label": "Space Above (px)",
+      "default": 20
+    },
+    {
+      "type": "number",
+      "id": "space_below",
+      "label": "Space Below (px)",
+      "default": 20
+    }
+  ],
+  "presets": [
+    {
+      "name": "Custom Button",
+      "category": "Button"
+    }
+  ]
+}
 {% endschema %}
