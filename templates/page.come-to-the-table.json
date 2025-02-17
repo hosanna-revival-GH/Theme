@@ -66,17 +66,261 @@
         "klaviyo_email_marketing_sms_form_embed_block_UcNigR"
       ],
       "custom_css": [
-        ".klaviyo-form-XtktgT {background-color: #F7F0E8;}"
+        ".klaviyo-form-XtktgT {background-color: #f7f0e8;}"
       ],
       "settings": {
         "full_width": true,
         "space_around": false
+      }
+    },
+    "rich_text_HecG4J": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VwhwCE": {
+          "type": "heading",
+          "settings": {
+            "title": "You're Invited to \"Come to the Table\""
+          }
+        },
+        "text_dqhLM3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>a free 9-day holiday devotional email series on lessons learned from mealtimes with Jesus</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VwhwCE",
+        "text_dqhLM3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 20
+      }
+    },
+    "rich_text_88Gmja": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bEEWnt": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>For most of us, approaching the holiday season means anticipating mealtimes with family and friends. Sometimes that anticipation is met with excitement and joy, and sometimes we anticipate less-than-exciting exchanges over dinner. </p><p>Through this 9-day series, author Kayla Carthel invites you to consider the people with whom Jesus shared meals—and how his interactions might transform how you view yourself and those gathering around you this holiday season.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_bEEWnt"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 20,
+        "space_below": 75
+      }
+    },
+    "rich_text_kLcpLJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YQzqaz": {
+          "type": "heading",
+          "settings": {
+            "title": "A Note from Kayla Carthell"
+          }
+        },
+        "text_chyMpy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>author of <em>Come to the Table</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YQzqaz",
+        "text_chyMpy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 20,
+        "space_below": 75
+      }
+    },
+    "text_and_image_mN3wTJ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Come-to-the-Table-Outdoor-Dinner-Party-Hosanna-Revival-021.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>As we approach this holiday season, we anticipate the things that inevitably come with it: gathering with friends and family, exchanging gifts and stories, and of course, the food. Whether you’re a host or a guest, whether the table is made up of two people or twenty, or whether you’ll be eating off of paper plates or whipping out the fine china, we can all agree that sharing a meal with loved ones is a major part of the season. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JGewQG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Come-to-the-Table-Outdoor-Dinner-Party-Hosanna-Revival-040.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Some of us may be excited about these meals, while others of us may not. You may be looking forward to your after dinner pie and coffee with Grandma Margaret or dreading a political discussion with Uncle Mark. Regardless of who you will find yourself at a table with this Thanksgiving or Christmas, I invite you to look at the people with whom Jesus shared his meals and how that should transform how we view ourselves and others. Jesus ate with both the tax collector and the Pharisee—the sinner and the zealous religious observer. Jesus’ table is for everyone—it truly is one of acceptance and inclusion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_CYDgVP": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Come-to-the-Table-Outdoor-Dinner-Party-Hosanna-Revival-196.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>While everyone was welcome at Jesus’ table, his messages to each group are very different. He preaches to the sinners that they matter, they can be forgiven, and they have a place at the table. He reminds the Pharisees that a life that truly follows after the heart of God is a life that looks like caring for his people—not just following his rules.</p><p>My hope as we come together with our loved ones around the table is that we take the time to look toward the ultimate table of thanksgiving—Jesus' table. I pray that this holiday season, as we look down the table for the next thing to fill our stomachs, let us remember to take time to fix our gaze on the Ultimate Sustainer—the one who fills our empty hearts.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_QPGWdE": {
+      "type": "rich-text",
+      "blocks": {
+        "text_en4qQ9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>As we read through eight different mealtimes in the Gospel of Luke, let us remember and be grateful for the God who welcomes all to his table—the table where we eat and are fully satisfied, where we drink and are no longer thirsty, and where God lavishes us in his unending grace and mercy forever and ever.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_en4qQ9"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 20,
+        "space_below": 20
+      }
+    },
+    "single_button_pTUcUx": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Sign Up Above",
+        "button_link": "shopify://pages/come-to-the-table",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 20,
+        "space_below": 20
+      }
+    },
+    "text_and_image_zFaxGn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/HR-ComeToTheTable-RE-sm.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free Download",
+        "title": "Download the PDF",
+        "text": "<p>Want to skip the email series? Looking to study this with a group or at your own pace? Download the free PDF of the whole study here!</p>",
+        "button_label": "Download Now",
+        "button_link": "https://hosannarevival.com/cometothetablepdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EXtmKG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Kayla_Carthel.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Kayla Carthel",
+        "text": "<p>Kayla is a dog mom, future counselor, lover of all iced coffees, and devoted daughter of God. You can typically find her twirling in flowy dresses, listening to true crime documentaries, belting the <em>Hamilton</em> soundtrack, and redecorating the house for the millionth time (much to the consternation of her husband).</p>",
+        "button_label": "Read More from Kayla",
+        "button_link": "https://hosannarevival.blog/author/kayla-carthel/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     }
   },
   "order": [
     "main",
     "slideshow_zirACC",
-    "1739818666290018e1"
+    "1739818666290018e1",
+    "rich_text_HecG4J",
+    "rich_text_88Gmja",
+    "rich_text_kLcpLJ",
+    "text_and_image_mN3wTJ",
+    "text_and_image_JGewQG",
+    "text_and_image_CYDgVP",
+    "rich_text_QPGWdE",
+    "single_button_pTUcUx",
+    "text_and_image_zFaxGn",
+    "text_and_image_EXtmKG"
   ]
 }
