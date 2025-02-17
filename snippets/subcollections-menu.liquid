@@ -1,36 +1,29 @@
-{{  link.active | json }}-{% if link.active or link.child_active %} 
-  {% assign sub_collection_links = link.links %}
-  <ul class="no-bullets tag-list">
-    {% for sub_link in sub_collection_links %}
-      {% if sub_link.url contains '/collections/' %}
-        {% assign lang_code_string = '/' | append: request.locale.iso_code %}
-        {% assign sub_handle = sub_link.url | remove: '/collections/' | remove: lang_code_string %}
-        <li {% if sub_link.current %}class="tag--active"{% endif %}>
-          <a href="{{ sub_link.url }}" class="no-ajax">
-            {{ sub_link.title }}
-            {% if block.settings.enable_count and collections[sub_handle].products_count != blank %}
-              &mdash; {{ collections[sub_handle].products_count }}
+{% assign shop_linklist = linklists.hosanna-revival-shop %}
+{% if shop_linklist %}
+  <div class="subcollections-menu">
+    <ul>
+      {% for link in shop_linklist.links %}
+        {% if link.url contains '/collections/' %}
+          <li {% if link.url == request.path %}class="active"{% endif %}>
+            <a href="{{ link.url }}">{{ link.title }}</a>
+            {% if link.links %}
+              <ul>
+                {% for child_link in link.links %}
+                  {% if child_link.url contains '/collections/' %}
+                    <li {% if child_link.url == request.path %}class="active"{% endif %}>
+                      <a href="{{ child_link.url }}">{{ child_link.title }}</a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            {% else %}
+              <!-- Debug: No child links found for {{ link.title }} -->
             {% endif %}
-          </a>
-          {% if block.settings.enable_subsubcollections and sub_link.links.size > 0 %}
-            <ul class="no-bullets tag-list">
-              {% for sub_sub_link in sub_link.links %}
-                {% if sub_sub_link.url contains '/collections/' %}
-                  {% assign sub_sub_handle = sub_sub_link.url | remove: '/collections/' | remove: lang_code_string %}
-                  <li {% if sub_sub_link.current %}class="tag--active"{% endif %}>
-                    <a href="{{ sub_sub_link.url }}" class="no-ajax">
-                      {{ sub_sub_link.title }}
-                      {% if block.settings.enable_count and collections[sub_sub_handle].products_count != blank %}
-                        &mdash; {{ collections[sub_sub_handle].products_count }}
-                      {% endif %}
-                    </a>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+{% else %}
+  <!-- Debug: shop_linklist not found -->
 {% endif %}
