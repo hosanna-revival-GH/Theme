@@ -11,10 +11,276 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false
+      }
+    },
+    "slideshow_9RcKVi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xTH3qR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Free Resources",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-006.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xTH3qR"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_wXk4Ga": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AV6M7r": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This mission extends to free, content-rich resources intended to point you to Scripture.</p><p><em>We pray these resources will meet you at the right place as you seek to know Jesus and grow to love his Word. Explore these tools below!</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_AV6M7r"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_CxTEHi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LgMrbJ": {
+          "type": "heading",
+          "settings": {
+            "title": "Featured Resources"
+          }
+        },
+        "text_FRhrFe": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>intentional tools for this season</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LgMrbJ",
+        "text_FRhrFe"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_and_image_crcx4e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Bible-Toolkit-Hosanna-Revival-Cover-01_1080x_png.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introductory Guide",
+        "title": "Bible Tool Kit",
+        "text": "<p>Are you new to reading the Bible? If so, this guide is for you! Through this Bible Toolkit, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let's dive in!</p>",
+        "button_label": "Explore Toolkit",
+        "button_link": "shopify://pages/bible-toolkit",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yyJzPF": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introductory Guide",
+        "title": "Prayer Toolkit",
+        "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. Wherever you are, this guide is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline. Let’s get started!</p>",
+        "button_label": "Explore Toolkit",
+        "button_link": "shopify://pages/prayer-toolkit",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_937ThN": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/WHEN-site.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Hosanna Revival Publishing",
+        "title": "WHEN: Life’s Questions, Scripture’s Answers",
+        "text": "<p><em>WHEN</em> is a branch of <a href=\"/pages/publishing\" target=\"_blank\" title=\"Publishing\">Hosanna Revival Publishing</a> that partners with writers from our community to hold wild and weighty topics up to the light of Scripture. Find the article that relates to your question or heartache in this season.</p>",
+        "button_label": "Begin Reading",
+        "button_link": "https://hosannarevival.blog/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_YXVYKW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7NexdR": {
+          "type": "heading",
+          "settings": {
+            "title": "Study Resources"
+          }
+        },
+        "text_ARVHzb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Tools to equip you to know and love God’s Word</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7NexdR",
+        "text_ARVHzb"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_and_image_pFFz7W": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/John-Reading-Plan-Hosanna-Revival_e5ecf57a-e0d4-4d3f-b1b4-ad2292ffcaf8.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Reading Plan",
+        "title": "Gospel of John",
+        "text": "<p>If you are reading the Word for the first time, we suggest you start with John, a book at the beginning of the New Testament that details the life of Jesus. To get you started, here is a reading plan of the book of John. Our hope is that this guide will help you ask good questions and look at Scripture a little bit deeper.</p>",
+        "button_label": "Download PDF",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival.pdf?v=1625250384",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_ziBT9g": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/matthewGuide-1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Reading Plan",
+        "title": "A Guide to Matthew",
+        "text": "<p>At the end of this 9-week journey, you will have read Matthew's entire account of the life of Jesus and his message of the gospel.</p>",
+        "button_label": "Download PDF",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/HosannaRevival_MatthewGuide-compressed.pdf?v=1616699331",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_rjG3ag": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Sojourn Devotional",
+        "title": "We Are (not) Home",
+        "text": "<p>This is a study for the sojourner. Over 14 days, study the sojourns of old as we bring to the surface the great paradox we live in: <em>we are (not) home.</em> Written by the men and women of the Hosanna Revival team, this study is for all who wish to seek truth in their sojourning.</p>",
+        "button_label": "Read Now",
+        "button_link": "shopify://blogs/sojourn-devotional",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_9RcKVi",
+    "rich_text_wXk4Ga",
+    "rich_text_CxTEHi",
+    "text_and_image_crcx4e",
+    "text_and_image_yyJzPF",
+    "text_and_image_937ThN",
+    "rich_text_YXVYKW",
+    "text_and_image_pFFz7W",
+    "text_and_image_ziBT9g",
+    "text_and_image_rjG3ag"
   ]
 }
