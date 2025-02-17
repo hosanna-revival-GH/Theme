@@ -57,6 +57,7 @@
       {%- render 'breadcrumbs' -%}
 
       <header class="section-header">
+                    {{ blog.handle }}
         {%- if section.settings.blog_show_date or article.tags.size > 0 or articles.comments_count > 0 -%}
           <div class="article__date">
             {%- if section.settings.blog_show_tags and article.tags.size > 0 -%}
