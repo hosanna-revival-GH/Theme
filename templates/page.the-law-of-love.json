@@ -194,6 +194,17 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "single_button_xDyYt9": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Explore all Free Studies",
+        "button_link": "shopify://pages/free-resources",
+        "button_size": "large",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
     }
   },
   "order": [
@@ -204,6 +215,7 @@
     "rich_text_qmmt4H",
     "text_and_image_6c4xbf",
     "text_and_image_xkgxP7",
-    "text_and_image_nmpwCG"
+    "text_and_image_nmpwCG",
+    "single_button_xDyYt9"
   ]
 }
