@@ -252,6 +252,7 @@
     "text_and_image_rjG3ag": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify://shop_images/nothome.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Sojourn Devotional",
