@@ -35,17 +35,17 @@
     <div class="grid grid--uniform">
 {%- assign number_of_columns = blog.metafields.custom.columns.value -%} 
 {%- case number_of_columns -%}
-  {%- when '1' -%}
+  {%- when 1 -%}
     {%- assign grid_item_width = 'medium-up--one-full' -%}
-  {%- when '2' -%}
+  {%- when 2 -%}
     {%- assign grid_item_width = 'medium-up--one-half' -%}
-  {%- when '3' -%}
+  {%- when 3 -%}
     {%- assign grid_item_width = 'medium-up--one-third' -%}
-  {%- when '4' -%}
+  {%- when 4 -%}
     {%- assign grid_item_width = 'medium-up--one-quarter' -%}
   {%- else -%}
     {%- assign grid_item_width = 'medium-up--one-quarter' -%}
-{%- endcase -%} {{ number_of_columns }}
+{%- endcase -%} 
 
 {%- for article in blog.articles -%}
   {%- render 'article-grid-item', article: article, grid_item_width: grid_item_width, per_row: number_of_columns | default: 4, image_size: section.settings.blog_image_size -%}
