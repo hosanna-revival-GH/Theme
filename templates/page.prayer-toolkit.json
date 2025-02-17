@@ -137,237 +137,110 @@
         "text_5": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
             "text": "<p>1<br/>What is Prayer</p>"
+          }
+        },
+        "text_6": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>What It Is and What It Is Not</em></p>"
+          }
+        },
+        "text_7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2<br/>Why Pray?</p>"
+          }
+        },
+        "text_8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Finding Purpose in Prayer</em></p>"
+          }
+        },
+        "text_9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>3<br/>Prayer Struggles</p>"
+          }
+        },
+        "text_10": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Questions You Might Have About Prayer</em></p>"
+          }
+        },
+        "text_11": {
+          "type": "text",
+          "settings": {
+            "text": "<p>4<br/>How to Pray</p>"
+          }
+        },
+        "text_12": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Before You Pray and What to Pray</em></p>"
+          }
+        },
+        "text_13": {
+          "type": "text",
+          "settings": {
+            "text": "<p>5<br/>After You Pray</p>"
+          }
+        },
+        "text_14": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>What Happens After You've Finished Praying</em></p>"
+          }
+        },
+        "text_15": {
+          "type": "text",
+          "settings": {
+            "text": "<p>6<br/>Take it Farther</p>"
+          }
+        },
+        "text_16": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Top Resources on Prayer</em></p>"
+          }
+        },
+        "text_17": {
+          "type": "text",
+          "settings": {
+            "text": "<p>7<br/>Download the Toolkit</p>"
+          }
+        },
+        "text_18": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Your Free Downloadable Prayer Toolkit</em></p>"
+          }
+        },
+        "text_19": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Top Resources on Prayer</em></p>"
           }
         }
       },
       "block_order": [
         "heading_3",
-        "text_5"
-      ],
-      "settings": {}
-    },
-    "74a4730b-11fc-4a1b-935a-b3ba96823cd0": {
-      "type": "rich-text",
-      "blocks": {
-        "text_6": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>What It Is and What It Is Not</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_6"
-      ],
-      "settings": {}
-    },
-    "cb2b5582-88de-407f-990f-a9982fce3d50": {
-      "type": "rich-text",
-      "blocks": {
-        "text_7": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>2<br/>Why Pray?</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_7"
-      ],
-      "settings": {}
-    },
-    "fdadad96-e1f5-4450-81a6-1172fafe6fd1": {
-      "type": "rich-text",
-      "blocks": {
-        "text_8": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>Finding Purpose in Prayer</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_8"
-      ],
-      "settings": {}
-    },
-    "6ff663f5-0dd2-4729-85b0-459150a361e6": {
-      "type": "rich-text",
-      "blocks": {
-        "text_9": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>3<br/>Prayer Struggles</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_9"
-      ],
-      "settings": {}
-    },
-    "4ac6196a-90f9-4d22-aeb4-b615e6b4fefb": {
-      "type": "rich-text",
-      "blocks": {
-        "text_10": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>Questions You Might Have About Prayer</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_10"
-      ],
-      "settings": {}
-    },
-    "fe2f4c32-6b3b-407b-a93f-3bb756bbcd7a": {
-      "type": "rich-text",
-      "blocks": {
-        "text_11": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>4<br/>How to Pray</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_11"
-      ],
-      "settings": {}
-    },
-    "7abb9e77-11cf-4889-8959-151dcb0492c2": {
-      "type": "rich-text",
-      "blocks": {
-        "text_12": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>Before You Pray and What to Pray</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_12"
-      ],
-      "settings": {}
-    },
-    "60b813cf-755c-4ec7-8292-4f8237d5b95e": {
-      "type": "rich-text",
-      "blocks": {
-        "text_13": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>5<br/>After You Pray</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_13"
-      ],
-      "settings": {}
-    },
-    "4429ee2b-51e8-4181-bde8-176a5bb3d34c": {
-      "type": "rich-text",
-      "blocks": {
-        "text_14": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>What Happens After You've Finished Praying</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_14"
-      ],
-      "settings": {}
-    },
-    "a3aeddc0-ddbe-44e0-80c9-2b7324eb5962": {
-      "type": "rich-text",
-      "blocks": {
-        "text_15": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>6<br/>Take it Farther</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_15"
-      ],
-      "settings": {}
-    },
-    "a316dc0f-f1bb-41e6-8030-005d3cec1fdc": {
-      "type": "rich-text",
-      "blocks": {
-        "text_16": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>Top Resources on Prayer</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_16"
-      ],
-      "settings": {}
-    },
-    "aa32d56c-7ec3-46f3-9335-fb83ac36118d": {
-      "type": "rich-text",
-      "blocks": {
-        "text_17": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>7<br/>Download the Toolkit</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_17"
-      ],
-      "settings": {}
-    },
-    "f8ccf54b-703e-4099-8ccb-be2d8689c3b9": {
-      "type": "rich-text",
-      "blocks": {
-        "text_18": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>Your Free Downloadable Prayer Toolkit</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_18"
-      ],
-      "settings": {}
-    },
-    "0ccffc62-0e9b-4cc5-b1f5-cd1ed705a0c1": {
-      "type": "rich-text",
-      "blocks": {
-        "text_19": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>Top Resources on Prayer</em></p>"
-          }
-        }
-      },
-      "block_order": [
+        "text_5",
+        "text_6",
+        "text_7",
+        "text_8",
+        "text_9",
+        "text_10",
+        "text_11",
+        "text_12",
+        "text_13",
+        "text_14",
+        "text_15",
+        "text_16",
+        "text_17",
+        "text_18",
         "text_19"
       ],
       "settings": {}
@@ -381,20 +254,6 @@
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
     "b1eb2f2c-9c90-4ac9-837a-4a2f90d0c987",
     "0d4a5024-bc93-479e-858c-334f510bf9c0",
-    "b8f496ca-7e30-4276-90dc-9541ba4ba935",
-    "74a4730b-11fc-4a1b-935a-b3ba96823cd0",
-    "cb2b5582-88de-407f-990f-a9982fce3d50",
-    "fdadad96-e1f5-4450-81a6-1172fafe6fd1",
-    "6ff663f5-0dd2-4729-85b0-459150a361e6",
-    "4ac6196a-90f9-4d22-aeb4-b615e6b4fefb",
-    "fe2f4c32-6b3b-407b-a93f-3bb756bbcd7a",
-    "7abb9e77-11cf-4889-8959-151dcb0492c2",
-    "60b813cf-755c-4ec7-8292-4f8237d5b95e",
-    "4429ee2b-51e8-4181-bde8-176a5bb3d34c",
-    "a3aeddc0-ddbe-44e0-80c9-2b7324eb5962",
-    "a316dc0f-f1bb-41e6-8030-005d3cec1fdc",
-    "aa32d56c-7ec3-46f3-9335-fb83ac36118d",
-    "f8ccf54b-703e-4099-8ccb-be2d8689c3b9",
-    "0ccffc62-0e9b-4cc5-b1f5-cd1ed705a0c1"
+    "b8f496ca-7e30-4276-90dc-9541ba4ba935"
   ]
 }
