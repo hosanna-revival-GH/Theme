@@ -11,7 +11,11 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false
+      }
     },
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c": {
       "type": "slideshow",
@@ -19,12 +23,19 @@
         "image_1": {
           "type": "image",
           "settings": {
+            "top_subheading": "",
             "title": "Prayer\nToolkit",
+            "title_size": 80,
             "subheading": "A Simple Guide to Prayer",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-001.jpg",
-            "parallax_direction": "top"
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
@@ -33,7 +44,12 @@
       ],
       "settings": {
         "section_height": "natural",
-        "parallax": true
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "bda355ba-be8d-42d7-b144-275b6cefb6a3": {
@@ -57,7 +73,17 @@
         "heading_1",
         "text_1"
       ],
-      "settings": {}
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     },
     "9b3ada5d-6035-4418-bf90-53300bb2b25d": {
       "type": "single-button",
@@ -85,34 +111,15 @@
             "enlarge_text": true,
             "text": "<p>If I were sitting next to you as you tackle the giant topic of prayer, I would want you to know a few things.</p>"
           }
-        }
-      },
-      "block_order": [
-        "heading_2",
-        "text_2"
-      ],
-      "settings": {}
-    },
-    "b1eb2f2c-9c90-4ac9-837a-4a2f90d0c987": {
-      "type": "rich-text",
-      "blocks": {
-        "text_3": {
+        },
+        "text_i6ajke": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
             "text": "<p>First, I would tell you that I am overjoyed you are trying to make change in your prayer life. It’s so easy to settle into “good enough” when something is hard, confusing, or unfamiliar. </p><p>Second, I would tell you that communing with the God of the universe through prayer is one of the most important things you will do to grow your faith, and strengthen your relationship with God. No relationship thrives on weak, inconsistent, and inauthentic communication. Why would we expect our relationship with God to be any different? </p><p>As you commit to improving your discipline of prayer by one small step or a massive overhaul, I pray that you will feel strengthened. Know that God wants this change for you even more than you do. Prayer is modeled for us all over the Bible as a necessary but beautiful gift from God- and your commitment to commune with him consistently and passionately will draw you near to the Lord, leading to only more goodness and glory.</p>"
           }
-        }
-      },
-      "block_order": [
-        "text_3"
-      ],
-      "settings": {}
-    },
-    "0d4a5024-bc93-479e-858c-334f510bf9c0": {
-      "type": "rich-text",
-      "blocks": {
-        "text_4": {
+        },
+        "text_phhEMR": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
@@ -121,9 +128,22 @@
         }
       },
       "block_order": [
-        "text_4"
+        "heading_2",
+        "text_2",
+        "text_i6ajke",
+        "text_phhEMR"
       ],
-      "settings": {}
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#949276",
+        "color_text": "#ffffff",
+        "space_above": 15,
+        "space_below": 15
+      }
     },
     "b8f496ca-7e30-4276-90dc-9541ba4ba935": {
       "type": "rich-text",
@@ -137,90 +157,105 @@
         "text_5": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>1<br/>What is Prayer</p>"
           }
         },
         "text_6": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>What It Is and What It Is Not</em></p>"
           }
         },
         "text_7": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>2<br/>Why Pray?</p>"
           }
         },
         "text_8": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>Finding Purpose in Prayer</em></p>"
           }
         },
         "text_9": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>3<br/>Prayer Struggles</p>"
           }
         },
         "text_10": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>Questions You Might Have About Prayer</em></p>"
           }
         },
         "text_11": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>4<br/>How to Pray</p>"
           }
         },
         "text_12": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>Before You Pray and What to Pray</em></p>"
           }
         },
         "text_13": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>5<br/>After You Pray</p>"
           }
         },
         "text_14": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>What Happens After You've Finished Praying</em></p>"
           }
         },
         "text_15": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>6<br/>Take it Farther</p>"
           }
         },
         "text_16": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>Top Resources on Prayer</em></p>"
           }
         },
         "text_17": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
             "text": "<p>7<br/>Download the Toolkit</p>"
           }
         },
         "text_18": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>Your Free Downloadable Prayer Toolkit</em></p>"
           }
         },
         "text_19": {
           "type": "text",
           "settings": {
+            "enlarge_text": false,
             "text": "<p><em>Top Resources on Prayer</em></p>"
           }
         }
@@ -243,7 +278,17 @@
         "text_18",
         "text_19"
       ],
-      "settings": {}
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -252,8 +297,6 @@
     "bda355ba-be8d-42d7-b144-275b6cefb6a3",
     "9b3ada5d-6035-4418-bf90-53300bb2b25d",
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
-    "b1eb2f2c-9c90-4ac9-837a-4a2f90d0c987",
-    "0d4a5024-bc93-479e-858c-334f510bf9c0",
     "b8f496ca-7e30-4276-90dc-9541ba4ba935"
   ]
 }
