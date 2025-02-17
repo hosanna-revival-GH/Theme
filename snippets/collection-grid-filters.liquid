@@ -34,6 +34,7 @@
         </div>
 
         {%- assign animation_row = animation_row | plus: 1 -%}
+                  HERE ->
         <div class="drawer__scrollable appear-animation appear-delay-{{ animation_row }}">
           {%- render 'collection-grid-filters-form', location: 'SidebarDrawer', filters: collection.filters, collapsed: collapsed, enable_color_swatches: enable_color_swatches -%}
         </div>
