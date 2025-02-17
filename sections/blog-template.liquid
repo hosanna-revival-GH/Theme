@@ -1,4 +1,4 @@
-{%- paginate blog.articles by 21 -%}
+{%- paginate blog.articles by 24 -%}
 
 <div data-section-id="{{ section.id }}" data-section-type="blog">
   <div class="page-width page-content">
@@ -17,6 +17,10 @@
         {%- endif -%}
       </h1>
 
+      {% if blog.metafields.custom.blog_description and blog.metafields.custom.blog_description != blank %} 
+        <p>{{ blog.metafields.custom.blog_description.value }}</p>
+      {% endif %}
+  
       {%- if section.settings.blog_show_tag_filter and blog.tags.size > 0 -%}
         <select id="BlogTagFilter">
           <option value="/blogs/{{ blog.handle }}">All</option>
@@ -30,7 +34,7 @@
 
     <div class="grid grid--uniform">
       {%- for article in blog.articles -%}
-        {%- render 'article-grid-item', article: article, grid_item_width: 'medium-up--one-third', per_row: '3', image_size: section.settings.blog_image_size -%}
+        {%- render 'article-grid-item', article: article, grid_item_width: 'medium-up--one-quarter', per_row: '4', image_size: section.settings.blog_image_size -%}
       {%- endfor -%}
     </div>
 
