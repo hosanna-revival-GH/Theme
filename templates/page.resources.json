@@ -127,7 +127,7 @@
         "image_width": "50",
         "layout": "left",
         "divider": false,
-        "top_padding": true,
+        "top_padding": false,
         "bottom_padding": true,
         "lazyload_images": true
       }
