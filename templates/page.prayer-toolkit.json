@@ -49,7 +49,7 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "bda355ba-be8d-42d7-b144-275b6cefb6a3": {
