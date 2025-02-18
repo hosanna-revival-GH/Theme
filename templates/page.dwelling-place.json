@@ -266,7 +266,7 @@
         "text_HBGXke"
       ],
       "custom_css": [
-        "a{color:#F7F0E8;}"
+        "a {color: #f7f0e8;}"
       ],
       "settings": {
         "align_text": "center",
@@ -278,6 +278,123 @@
         "color_text": "#f7f0e8",
         "space_above": 75,
         "space_below": 75
+      }
+    },
+    "rich_text_rxTPJK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xnJixW": {
+          "type": "heading",
+          "settings": {
+            "title": "Featured Artists"
+          }
+        },
+        "text_NcLQbg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Each week, we invite a talented artist to respond to the focal passage from their area of expertise. Meet them below!</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xnJixW",
+        "text_NcLQbg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_and_image_CaV7DQ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Caroline-Lunne.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "An Invitation to Create",
+        "title": "Caroline Lunne",
+        "text": "<p>Caroline is a writer sharing what she likes about life online. She lives in Charleston, SC, is building a marketing agency, and calls creativity her love language.</p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/carolinelunne",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_GXDFxW": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Hannah-Beimborn_ecc3ae80-042f-4a01-958d-a15a27f3d391.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week One Artist",
+        "title": "Hannah Beimborn",
+        "text": "<p>Hannah is an artist who specializes in landscape paintings, using gouache and watercolor as her primary mediums.</p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/hannahbeimborn",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_HzLzQp": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Alicia-Burrows_3be2d5f1-a546-4cd3-b9e7-5ca1d9c9ec79.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Two Artist",
+        "title": "Alicia Burrows",
+        "text": "<p>Alicia is a wedding photographer and fiber artist turned stay-at-home mom who is discovering that motherhood is a moment-by-moment opportunity to exercise creativity and imagination in a practical and fulfilling way through cooking, baking, decorating, homeschooling, and everything in between. </p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/aliciarburrows/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aNjVJg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Alisha-Cooke_2e440e32-fe26-499d-9bf1-67742db33333.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Three Artist",
+        "title": "Alisha Cooke: Ma Ma Osa",
+        "text": "<p>Alisha is the owner and designer of Ma Ma Osa, a small business that offers digital products like sewing education and sewing patterns as well as physical products from time to time. </p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/ma.ma.osa/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     }
   },
@@ -291,6 +408,11 @@
     "text_columns_HHy3iV",
     "text_and_image_M9yW33",
     "text_and_image_pCX9nw",
-    "rich_text_E9q7Jf"
+    "rich_text_E9q7Jf",
+    "rich_text_rxTPJK",
+    "text_and_image_CaV7DQ",
+    "text_and_image_GXDFxW",
+    "text_and_image_HzLzQp",
+    "text_and_image_aNjVJg"
   ]
 }
