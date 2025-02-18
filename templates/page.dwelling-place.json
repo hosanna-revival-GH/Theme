@@ -219,7 +219,7 @@
         "layout": "left",
         "divider": false,
         "top_padding": true,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
@@ -310,7 +310,7 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "text_and_image_CaV7DQ": {
@@ -330,7 +330,7 @@
         "layout": "left",
         "divider": false,
         "top_padding": true,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
@@ -351,7 +351,7 @@
         "layout": "right",
         "divider": false,
         "top_padding": true,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
@@ -372,7 +372,7 @@
         "layout": "left",
         "divider": false,
         "top_padding": true,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
@@ -393,7 +393,7 @@
         "layout": "right",
         "divider": false,
         "top_padding": true,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
