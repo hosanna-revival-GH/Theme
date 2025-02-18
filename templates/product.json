@@ -127,6 +127,22 @@
     "collection-return": {
       "type": "collection-return",
       "settings": {}
+    },
+    "1739850095b5b19c44": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_DD84df": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_DD84df"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -134,6 +150,7 @@
     "sub",
     "product-recommendations",
     "recently-viewed",
-    "collection-return"
+    "collection-return",
+    "1739850095b5b19c44"
   ]
 }
