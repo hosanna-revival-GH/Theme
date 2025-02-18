@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "404": {
@@ -319,7 +328,7 @@
         "one": "Low stock - {{ count }} item left",
         "other": "Low stock - {{ count }} items left"
       },
-      "sold_out": "Sold Out",
+      "sold_out": "Coming soon",
       "unavailable": "Unavailable",
       "quantity": "Quantity",
       "add_to_cart": "Add to cart",
