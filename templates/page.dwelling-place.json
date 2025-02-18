@@ -11,10 +11,286 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false
+      }
+    },
+    "slideshow_cfYJNP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_idLezh": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "A Dwelling Place",
+            "title_size": 72,
+            "subheading": "A Journey to Create Through Psalm 84",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Dwelling-Place-Create-Through-Scripture-Stamp-Header-4.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_idLezh"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "1739855578e0d58267": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_rDtwqN": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "SU3jtp"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_rDtwqN"
+      ],
+      "custom_css": [
+        ".klaviyo-form-SU3jtp {background-color: #f8f2eb;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "hero_video_3bHn36": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/ce63a08946784e6b939ad80a8b760fdc.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "100vh"
+      }
+    },
+    "rich_text_gJqpCX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9nfE8V": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>an invitation to create</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9nfE8V"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "rich_text_ecpTEx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FW69K9": {
+          "type": "heading",
+          "settings": {
+            "title": "A Dwelling Place"
+          }
+        },
+        "text_y6UaBL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 84</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FW69K9",
+        "text_y6UaBL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 15,
+        "space_below": 75
+      }
+    },
+    "text_columns_HHy3iV": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_aTjydi": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-tubes-two-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "WHAT",
+            "text": "<p><em>a creative journey through Psalm 84 over email and Instagram</em></p><p>Each week we will introduce a new section of Psalm 84 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_cnBzqE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/stamp-flower-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Who",
+            "text": "<p><em>for creatives and non-creatives alike</em></p><p>This journey was intentionally created to engage all levels of creativity and intended to stretch your inspiration, imagination, perception, and medium.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_PPU4PR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-palette-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "When",
+            "text": "<p><em>the journey begins today</em></p><p>Join the journey by signing up for the email series. We encourage you to work at your own pace and keep the main goal in mind: to creatively connect with God through his Word.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_aTjydi",
+        "text_block_cnBzqE",
+        "text_block_PPU4PR"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_and_image_M9yW33": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-153_eb7b6bfd-d193-4f71-ad3e-9d2c7e1de43b.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "About the Journey",
+        "title": "How It Works Each Week",
+        "text": "<p><strong>Day 1: Receive the prompts</strong> | You can begin creating now! Take some time to meditate on the week’s passage and create at your own pace.</p><p><strong>Day 3: Artist Highlight</strong> | Stir your inspiration by hearing from an artist on her response to the passage and consider the Scripture in a new light.</p><p><strong>Day 5: Community Feature</strong> | If you’ve finished your response and posted or shared it with us, you have a chance of being featured! Use these features as a way of meditating on the passage even further.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_pCX9nw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-047_996b629c-d323-4c90-9620-67bab6912d10.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featured Intentional Tools",
+        "title": "Artist Sketchbook and Notebooks",
+        "text": "<p>Need tools to begin creating? While we encourage a range of both traditional and non-traditional mediums through our prompts and artist features, you are welcome to stock up on our paintable kraft-cover notebooks—<em>Hosanna Blanks</em>—or our leather-bound sketchbook as tools for your journey.</p>",
+        "button_label": "Shop Artist Tools",
+        "button_link": "shopify://pages/art-resources",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_E9q7Jf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WmaVb3": {
+          "type": "heading",
+          "settings": {
+            "title": "#CreateThroughScripture"
+          }
+        },
+        "text_HBGXke": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Follow along on Instagram @<a href=\"https://www.instagram.com/hosannarevival\" target=\"_blank\" title=\"Hosanna Revival's Instagram\">HosannaRevival</a> and share how you’re engaging with Scripture through creativity with the hashtag <a href=\"https://www.instagram.com/explore/tags/createthroughscripture/\" target=\"_blank\" title=\"https://www.instagram.com/explore/tags/createthroughscripture/\">#CreateThroughScripture</a>. We can’t wait to see what you create!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WmaVb3",
+        "text_HBGXke"
+      ],
+      "custom_css": [
+        "a{color:#F7F0E8;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#bd6549",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_cfYJNP",
+    "1739855578e0d58267",
+    "hero_video_3bHn36",
+    "rich_text_gJqpCX",
+    "rich_text_ecpTEx",
+    "text_columns_HHy3iV",
+    "text_and_image_M9yW33",
+    "text_and_image_pCX9nw",
+    "rich_text_E9q7Jf"
   ]
 }
