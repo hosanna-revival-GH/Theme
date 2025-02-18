@@ -432,12 +432,12 @@
     "slideshow_WRxtQf": {
       "type": "slideshow",
       "blocks": {
-        "image_nKRbVJ": {
+        "image_FzCpkd": {
           "type": "image",
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 72,
+            "title_size": 80,
             "subheading": "",
             "link": "https://www.bible.com/bible/116/PSA.84.NLT",
             "link_text": "Begin Creating",
@@ -452,7 +452,7 @@
         }
       },
       "block_order": [
-        "image_nKRbVJ"
+        "image_FzCpkd"
       ],
       "settings": {
         "section_height": "450px",
