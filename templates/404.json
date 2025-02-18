@@ -1,1 +1,121 @@
-{"sections":{"main":{"type":"main-404","settings":{}},"featured-collection":{"type":"featured-collection","settings":{"title":"Popular picks"}}},"order":["main","featured-collection"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {}
+    },
+    "rich_text_Ww6iWw": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4QAB7n": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Psst—we couldn’t find what you’re looking for...</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_4QAB7n"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "rich_text_gTLffy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Jz6kNb": {
+          "type": "heading",
+          "settings": {
+            "title": "But just ask Frankie in the Chat Bubble"
+          }
+        },
+        "text_tiRe66": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our floor manager Frankie would be delighted to assist you in finding the perfect beautiful and intentional tool  to excite you to engage in Scripture. Just click the chat icon on the bottom right of this screen and let him know what you’re looking for.</p>"
+          }
+        },
+        "text_QbCwd4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>In the meantime, you can visit our </em><a href=\"https://hosannarevival.com/\" title=\"https://hosannarevival.com/\"><em>homepage</em></a><em>, </em><a href=\"/collections/hosanna-revival-shop\" title=\"Hosanna Revival Shop\"><em>online shop</em></a><em>, or </em><a href=\"/blogs/lock-screens\" title=\"Lock Screens\"><em>lock screens</em></a><em> for a tiny free tool for today. We’re cheering you on as you engage in Scripture!</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Jz6kNb",
+        "text_tiRe66",
+        "text_QbCwd4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 15,
+        "space_below": 75
+      }
+    },
+    "background_image_text_Ti4HaY": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Introducing",
+        "title": "The 2024 Winter Collection",
+        "text": "<p>Whether you are drawn to the serene landscape of our Dublin design or the powerful simplicity of our Jerusalem design, we pray that you are anchored in the truth that God is your Good Shepherd as you find your rest in him.</p>",
+        "button_label": "Explore the Collection",
+        "button_link": "shopify://collections/winter-2024-collection",
+        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-103.jpg",
+        "layout": "right",
+        "height": 650,
+        "framed": false,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "View our latest collection",
+        "home_featured_products": "winter-2024-collection",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_Ww6iWw",
+    "rich_text_gTLffy",
+    "background_image_text_Ti4HaY",
+    "featured-collection"
+  ]
+}
