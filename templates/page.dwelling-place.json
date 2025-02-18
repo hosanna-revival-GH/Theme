@@ -463,6 +463,58 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "rich_text_GbJNRy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ezWABf": {
+          "type": "heading",
+          "settings": {
+            "title": "Pleasant Places"
+          }
+        },
+        "text_mHehn8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>a journey to create through Psalm 16</em></p>"
+          }
+        },
+        "text_8ALqLW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Loving this series? Journey through Psalm 16 with us through the 4-week series <em>Pleasant Places</em>! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ezWABf",
+        "text_mHehn8",
+        "text_8ALqLW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "single_button_QXzNxr": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Create Pleasant Places",
+        "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 20,
+        "space_below": 20
+      }
     }
   },
   "order": [
@@ -483,6 +535,8 @@
     "text_and_image_aNjVJg",
     "text_and_image_LqPU4R",
     "single_button_Ex6nbT",
-    "slideshow_WRxtQf"
+    "slideshow_WRxtQf",
+    "rich_text_GbJNRy",
+    "single_button_QXzNxr"
   ]
 }
