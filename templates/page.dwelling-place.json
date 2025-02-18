@@ -396,6 +396,73 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_LqPU4R": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Patsy-Shaw_6fec3f78-2fa7-4ab4-9b79-491ca0c73edf.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Four Artist",
+        "title": "Patsy Shaw",
+        "text": "<p>Patsy is a painter and printmaker, making art that is rooted in Biblical truth so Christians can enjoy beautiful artwork that leads to more joy in God.</p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/shawmuchart/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_Ex6nbT": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "See what you created",
+        "button_link": "https://www.instagram.com/explore/tags/createthroughscripture/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 20,
+        "space_below": 20
+      }
+    },
+    "slideshow_WRxtQf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nKRbVJ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "https://www.bible.com/bible/116/PSA.84.NLT",
+            "link_text": "Begin Creating",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-045B.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_nKRbVJ"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -413,6 +480,9 @@
     "text_and_image_CaV7DQ",
     "text_and_image_GXDFxW",
     "text_and_image_HzLzQp",
-    "text_and_image_aNjVJg"
+    "text_and_image_aNjVJg",
+    "text_and_image_LqPU4R",
+    "single_button_Ex6nbT",
+    "slideshow_WRxtQf"
   ]
 }
