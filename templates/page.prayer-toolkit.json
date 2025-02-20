@@ -82,7 +82,7 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
-        "space_below": 75
+        "space_below": 15
       }
     },
     "9b3ada5d-6035-4418-bf90-53300bb2b25d": {
@@ -141,8 +141,8 @@
         "css-class": "",
         "color_bg": "#949276",
         "color_text": "#ffffff",
-        "space_above": 15,
-        "space_below": 15
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "b8f496ca-7e30-4276-90dc-9541ba4ba935": {
