@@ -802,7 +802,7 @@
         "text_h8hp7q": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p><em>Prayer Struggle #1</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
@@ -925,6 +925,25 @@
             "block_bottom_space": 30
           }
         },
+        "rich_text_C8wVrg": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p>In the blur of busy schedules and packed calendars, our prayer lives can look a bit like rollercoasters. There’s no time to rest, and ultimately, no time to pray. When we’re tired and burnt out, intentional, meaningful, purposeful prayers feel unobtainable—yet another item on the checklist. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
         "faq-block-001": {
           "type": "faq",
           "settings": {
@@ -936,6 +955,7 @@
       "block_order": [
         "hero-block-001",
         "rich-text-block-001",
+        "rich_text_C8wVrg",
         "faq-block-001"
       ],
       "settings": {}
