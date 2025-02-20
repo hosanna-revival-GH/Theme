@@ -1,6 +1,125 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
+<div class="combined-content-section" data-section-id="{{ section.id }}">
+  {% for block in section.blocks %}
+    {% case block.type %}
+      {% when 'hero' %}
+        <div class="hero-section" style="background-image: url('{{ block.settings.image | img_url: 'master' }}');">
+          <div class="hero-content">
+            <h1>{{ block.settings.title }}</h1>
+            <p>{{ block.settings.subheading }}</p>
+          </div>
+        </div>
+
+      {% when 'rich_text' %}
+        <div class="rich-text-section">
+          <div class="page-width">
+            {{ block.settings.content }}
+          </div>
+        </div>
+
+      {% when 'faq' %}
+        <div class="faq-section">
+          <div class="page-width">
+            <details>
+              <summary>{{ block.settings.question }}</summary>
+              <p>{{ block.settings.answer }}</p>
+            </details>
+          </div>
+        </div>
+    {% endcase %}
+  {% endfor %}
+</div>
+
+<style>
+  .hero-section {
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
   }
+  .hero-content h1 {
+    font-size: 2em;
+  }
+  .rich-text-section {
+    padding: 20px 0;
+  }
+  .faq-section details {
+    margin: 10px 0;
+  }
+  .faq-section summary {
+    font-weight: bold;
+    cursor: pointer;
+  }
+</style>
+
+{% schema %}
+{
+  "name": "Combined Content",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Combined Content Section"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "name": "Hero Block",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Hero Image"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Title Here"
+        },
+        {
+          "type": "textarea",
+          "id": "subheading",
+          "label": "Subheading",
+          "default": "Subheading Here"
+        }
+      ]
+    },
+    {
+      "type": "rich_text",
+      "name": "Rich Text Block",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "content",
+          "label": "Content",
+          "default": "<p>Your rich text here</p>"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "name": "FAQ Block",
+      "settings": [
+        {
+          "type": "text",
+          "id": "question",
+          "label": "Question",
+          "default": "What is your question?"
+        },
+        {
+          "type": "richtext",
+          "id": "answer",
+          "label": "Answer",
+          "default": "<p>The answer to the question.</p>"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Default",
+      "category": "Custom"
+    }
+  ]
+}
 {% endschema %}
