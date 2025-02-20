@@ -94,8 +94,8 @@
         "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
         "button_size": "medium",
         "alignment": "center",
-        "space_above": 0,
-        "space_below": 30
+        "space_above": 45,
+        "space_below": 45
       }
     },
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5": {
@@ -335,8 +335,8 @@
         "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
         "button_size": "large",
         "alignment": "center",
-        "space_above": 20,
-        "space_below": 20
+        "space_above": 0,
+        "space_below": 45
       }
     }
   },
