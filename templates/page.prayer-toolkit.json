@@ -565,7 +565,9 @@
         "question_iVdR4H"
       ],
       "settings": {
-        "title": ""
+        "title": "",
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "slideshow_V8dgkY": {
@@ -685,7 +687,9 @@
         "question_TaRnTH"
       ],
       "settings": {
-        "title": ""
+        "title": "",
+        "space_above": 75,
+        "space_below": 0
       }
     },
     "rich_text_Fb4tBq": {
@@ -715,6 +719,139 @@
         "space_above": 0,
         "space_below": 75
       }
+    },
+    "slideshow_eRaCAm": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mFNfDa": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Prayer Struggles",
+            "title_size": 72,
+            "subheading": "Questions You Might Have About Prayer",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Prayer-Toolkit-Model-Moodboard-009.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_mFNfDa"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_F36xrC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VcAr7a": {
+          "type": "heading",
+          "settings": {
+            "title": "Prayer Struggles"
+          }
+        },
+        "text_UFADWB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Every Christian has seasons of struggle in their prayer life, whether they are brand-new to following Jesus or they have been following Jesus for years. Sometimes we walk through dry spells or we feel like God is no longer hearing our prayers. Maybe you feel like you just don’t know <em>what</em> to pray anymore. There’s not enough space here to answer every single struggle we may encounter in our prayer lives, we hope the answers below will encourage and challenge you as you grow in prayer.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_VcAr7a",
+        "text_UFADWB"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_UTQT88": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_39dXik": {
+          "type": "heading",
+          "settings": {
+            "title": "What if I don’t know what to pray?"
+          }
+        },
+        "text_h8hp7q": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Prayer Struggle #1</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_39dXik",
+        "text_h8hp7q"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#949276",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_pDCk9F": {
+      "type": "rich-text",
+      "blocks": {
+        "text_wmNcA4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Sometimes we simply have no words. Maybe you are completely overwhelmed by your life circumstances and you don’t even know where to begin. Perhaps you have a desire to pray, but don't know the “right words” to pray. In times like these, God can feel distant and prayer can feel an unfinished “task” hanging over your head. If that sounds like you, hear this encouragement: God understands and wants to be your strength.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_wmNcA4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -735,6 +872,10 @@
     "slideshow_V8dgkY",
     "rich_text_EbC3zk",
     "faq_rcnnei",
-    "rich_text_Fb4tBq"
+    "rich_text_Fb4tBq",
+    "slideshow_eRaCAm",
+    "rich_text_F36xrC",
+    "rich_text_UTQT88",
+    "rich_text_pDCk9F"
   ]
 }
