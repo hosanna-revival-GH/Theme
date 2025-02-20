@@ -567,6 +567,154 @@
       "settings": {
         "title": ""
       }
+    },
+    "slideshow_V8dgkY": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xjQ7Tq": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Why Pray?",
+            "title_size": 72,
+            "subheading": "Finding Purpose in Prayer",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-004b.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xjQ7Tq"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_EbC3zk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hYwAmk": {
+          "type": "heading",
+          "settings": {
+            "title": "Why Pray?"
+          }
+        },
+        "text_rbKWAC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Regardless of where you are on your journey with Jesus, finding purpose in prayer is a common struggle. <em>Why</em> do we pray? In this section, we hope to teach you the value of consistent prayer and provide fresh perspective and motivation to your prayer time.</p><p>This list is not exhaustive, but we hope the following answers will serve to help you understand <em>why</em> we pray.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_hYwAmk",
+        "text_rbKWAC"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#949276",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "faq_rcnnei": {
+      "type": "faq",
+      "blocks": {
+        "question_7GMLYF": {
+          "type": "question",
+          "settings": {
+            "title": "1. To Pursue Intimacy with God",
+            "text": "<p>We often think of prayer as a good way to get what we want from God. A closer look at Scripture, however, reveals that as we grow in the Lord, we understand that prayer is not so much about getting something <em>from</em> God, but rather getting more <em>of</em> God. Prayer is communion with God! It is an intimate time of communing with our Father in heaven. When you think of a best friend or even a really good friend, you probably think of someone you speak to often. For some of us, it’s someone we speak to every single day, and that makes sense—you can’t be close to someone you never speak to. God is our Father, and he loves to hear from his children.</p><p>In Psalm 141:2 the psalmist writes, “Let my prayer be counted as incense before you.” In Revelation 5:8 and Revelation 8:5, we see that God truly does keep every prayer of his children in bowls—they are a sweet-smelling incense to him. Billions of prayers, prayed throughout every century since the dawn of time are kept and treasured by God our Father. </p><p>If you feel distant from God, or are uncomfortable speaking to him with such closeness, start small. Pray simple prayers (use the tips included at the end of this toolkit). Read his Word to learn more about his character and his loving heart for you. He wants to hear from you, and the more you speak to him, the more you will grow to love and trust him.</p>"
+          }
+        },
+        "question_WtaAwV": {
+          "type": "question",
+          "settings": {
+            "title": "2. To Learn of God’s Character",
+            "text": "<p>As you begin to cultivate the spiritual discipline of prayer and grow in your intimacy with God, you will inevitably learn more of him and his character. As you spend time with God in prayer and in his Word, the Holy Spirit will faithfully reveal to you more about God and his character. John Piper once said, “God is always doing 10,000 things in your life, and you may be aware of three of them.” </p><p>When you pray consistently, you will be more perceptive of God moving in your life. If you have prayed for opportunities to share Jesus with a friend who doesn’t know him, you will be more likely to notice when God answers those prayers than if you hadn’t prayed. God may have given you those opportunities before, but because you’re praying about it, you’ll be more aware of God’s answers to those prayers. If you never took your requests to God in prayer, you might miss God’s movement in your life—even though he is certainly moving! It’s too easy for us to forget God’s loving heart for us and that he is working all things together for his glory and our good. </p><p>Trusting God with your prayers also deepens your trust, as you will see God prove himself faithful time and time again. God has always been faithful, but when we’re not spending time in prayer, we may miss his kind acts of faithfulness in our lives. God is faithful to provide for our needs and to answer our prayers. As you see more and more of God’s faithfulness, your faith will grow, your trust will be strengthened, and your heart will become grateful, responding in praise to our good and faithful God.</p>"
+          }
+        },
+        "question_yarFDX": {
+          "type": "question",
+          "settings": {
+            "title": "3. To Play Our Part in God's Ordinary Means",
+            "text": "<p>God has chosen to bring about his extraordinary purposes through ordinary means. We pray because we know that God is powerful and has ordained prayer as an ordinary means by which he works his extraordinary purposes. In other words, we pray because we trust God and his promises. God ordains the ends, but he does not leave the means to those ends to chance. Think of a friend who does not know Jesus. In order for that person to accept the gracious gift of salvation, a miracle is required. Their heart must be softened. Their eyes must be opened. They must be brought from death to life—salvation is no ordinary thing! And yet, God has chosen to bring about such an amazing miracle by ordinary means: the preaching of his Word, personal evangelism, prayer, etc. We pray, trusting that God can and will use something as ordinary as prayer to achieve his purposes. </p>"
+          }
+        },
+        "question_ziFqqA": {
+          "type": "question",
+          "settings": {
+            "title": "4. To Experience Revival",
+            "text": "<p>As you rely on the Spirit’s power to respond to God in obedience, your relationship with God will grow. You will learn more of his character and learn to trust him more. Ultimately, that will lead you to <em>revival</em>. No one can spend meaningful, fruitful time with God and walk away unchanged. Prayer brings revival. Not in and of itself, but when God wants to revive his people, he brings it about through ordinary means—like prayer. Revival doesn’t fall from heaven like rain or lightning bolts; it comes though ordinary things like faithfully reading God’s Word and prayer. </p><p>Even if your prayers feel too big and out of reach, pray them anyway. Pray big, bold prayers. Pray until God answers or the Spirit of God points your heart in another direction. Pray with faith and expectation, trusting that if you pray in Jesus’ name (John 14:13)  according to God’s will (1 John 5:14), he <em>will</em> hear you, and he <em>will</em> answer you in his perfect time.</p>"
+          }
+        },
+        "question_TaRnTH": {
+          "type": "question",
+          "settings": {
+            "title": "5. To Obey God and His Word",
+            "text": "<p>If you’ve been a Christian for any length of time, you know there are seasons when you simply don’t “feel” like praying. In those times, Scripture has many words of encouragement and exhortation—and commands. It’s not a mind-blowing answer, but it is an important one: we pray because God has commanded us through his Word to pray. Praying is an act of obedience and submission to God and his Word. </p><p>In 1 Thessalonians 5:17, Paul wrote that we should “pray without ceasing.” In Philippians 4:16, the Bible says that we should “not be anxious about anything,” but rather, in every situation, “let [our] requests be made known to God” through prayer. There are so many more Scriptures we could point to, but the simple point is this: sometimes, we pray simply to obey.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_7GMLYF",
+        "question_WtaAwV",
+        "question_yarFDX",
+        "question_ziFqqA",
+        "question_TaRnTH"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "rich_text_Fb4tBq": {
+      "type": "rich-text",
+      "blocks": {
+        "text_HPFPAm": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>As you see more and more of God’s faithfulness, your faith will grow, your trust will be strengthened, and your heart will become grateful, responding in praise to our good and faithful God.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_HPFPAm"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -583,6 +731,10 @@
     "text_and_image_WxVcft",
     "text_and_image_JAUTmt",
     "rich_text_DAiUt4",
-    "faq_8t8Te3"
+    "faq_8t8Te3",
+    "slideshow_V8dgkY",
+    "rich_text_EbC3zk",
+    "faq_rcnnei",
+    "rich_text_Fb4tBq"
   ]
 }
