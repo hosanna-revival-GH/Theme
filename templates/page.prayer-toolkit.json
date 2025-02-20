@@ -897,12 +897,19 @@
           "settings": {
             "image": "shopify://shop_images/Prayer-Toolkit-Model-Moodboard-009.jpg",
             "title": "Hero Title",
-            "subheading": "Hero Subheading"
+            "subheading": "Hero Subheading",
+            "link": "",
+            "link_text": "",
+            "color_accent": "",
+            "text_align": "center",
+            "title_size": 72,
+            "parallax": false
           }
         },
         "rich-text-block-001": {
           "type": "rich_text",
           "settings": {
+            "heading": "",
             "content": "<p>Your rich text here</p>"
           }
         },
