@@ -17,14 +17,16 @@
         </div>
 
       {% when 'rich_text' %}
-        <div class="rich-text-section">
-          <div class="page-width">
-            {% if block.settings.heading != blank %}
-              <h2>{{ block.settings.heading }}</h2>
-            {% endif %}
-            {{ block.settings.content }}
-          </div>
-        </div>
+<div class="rich-text-section" {% if block.settings.css-id != blank %}id="{{ block.settings.css-id }}"{% endif %} class="{{ block.settings.css-class }}" style="text-align: {{ block.settings.align_text }}; background-color: {{ block.settings.color_bg }}; color: {{ block.settings.color_text }}; padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
+  <div class="page-width{% if block.settings.narrow_column %} page-width--narrow{% endif %}">
+    {% if block.settings.heading != blank %}
+      <h2 style="margin-bottom: {{ block.settings.block_bottom_space }}px;">{{ block.settings.heading }}</h2>
+    {% endif %}
+    <div style="{% if block.settings.align_text_block != 'inherit' %}text-align: {{ block.settings.align_text_block }};{% endif %}{% if block.settings.enlarge_text %} font-size: larger;{% endif %}">
+      {{ block.settings.content }}
+    </div>
+  </div>
+</div>
 
       {% when 'faq' %}
         <div class="faq-section">
