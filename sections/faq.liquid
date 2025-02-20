@@ -87,7 +87,10 @@
   padding-left: 42px;
   padding-bottom: 30px;
 }
-
+  #shopify-section-{{ section.id }}{
+    padding-top:{{ section.settings.space_above }}px;
+    padding-bottom:{{ section.settings.space_below }}px;
+  }
 {% endstyle %}
 {% schema %}
 {
@@ -99,7 +102,25 @@
       "id": "title",
       "label": "t:sections.faq.settings.title.label",
       "default": "FAQs"
-    }
+    },
+          {
+            "type": "range",
+            "id": "space_above",
+            "label": "Top padding",
+            "default": 0,
+            "min": 0,
+            "max": 75,
+            "unit": "px"
+          },
+          {
+            "type": "range",
+            "id": "space_below",
+            "label": "Bottom padding",
+            "default": 0,
+            "min": 0,
+            "max": 75,
+            "unit": "px"
+          } 
   ],
   "blocks": [
     {
