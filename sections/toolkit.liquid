@@ -1,5 +1,5 @@
 <!-- Combined Content Section Output -->
-<div class="combined-content-section" data-section-id="{{ section.id }}">
+<div class="combined-content-section" id="toolkit-{{ section.id }}">
 
   {% for block in section.blocks %}
     {% case block.type %}
@@ -68,6 +68,10 @@
   }
   .faq-section summary {
     font-weight: bold;
+  }
+  #toolkit-{{ section.id }} {
+    padding-top: {{ section.settings.space_above }};
+     padding-bottom: {{ section.settings.space_below }};
   }
 </style>
 
