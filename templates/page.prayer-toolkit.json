@@ -888,6 +888,38 @@
         "space_above": 0,
         "space_below": 0
       }
+    },
+    "combined-content-section": {
+      "type": "toolkit",
+      "blocks": {
+        "hero-block-001": {
+          "type": "hero",
+          "settings": {
+            "image": "shopify://shop_images/Prayer-Toolkit-Model-Moodboard-009.jpg",
+            "title": "Hero Title",
+            "subheading": "Hero Subheading"
+          }
+        },
+        "rich-text-block-001": {
+          "type": "rich_text",
+          "settings": {
+            "content": "<p>Your rich text here</p>"
+          }
+        },
+        "faq-block-001": {
+          "type": "faq",
+          "settings": {
+            "question": "What is your question?",
+            "answer": "<p>The answer to the question.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "hero-block-001",
+        "rich-text-block-001",
+        "faq-block-001"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -913,6 +945,7 @@
     "rich_text_F36xrC",
     "rich_text_UTQT88",
     "rich_text_pDCk9F",
-    "faq_NMWjeN"
+    "faq_NMWjeN",
+    "combined-content-section"
   ]
 }
