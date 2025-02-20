@@ -909,7 +909,20 @@
         "rich-text-block-001": {
           "type": "rich_text",
           "settings": {
-            "heading": "What if I don’t have time to pray?"
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#949276",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "What if I don’t have time to pray?",
+            "enlarge_text": false,
+            "text": "<p><em>Prayer Struggle #2</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "faq-block-001": {
