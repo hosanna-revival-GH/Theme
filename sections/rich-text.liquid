@@ -10,7 +10,7 @@
 {% endstyle %}
   <div {% unless section.settings.css-id == blank %} id="{{ section.settings.css-id }}" {% endunless %} class="{{ section.settings.css-class }} page-width text-{{ section.settings.align_text }}{% if section.settings.narrow_column %} page-width--narrow{% endif %}">
   {%- for block in section.blocks -%}
-    <div class="theme-block" {{ block.shopify_attributes }} {% if block.settings.block_bottom_space != 30 %} style="margin-bottom:{{ block.settings.block_bottom_space }};"{% endif -%}>
+    <div class="theme-block" {{ block.shopify_attributes }} {% if block.settings.block_bottom_space != 30 %} style="margin-bottom:{{ block.settings.block_bottom_space }}px;"{% endif -%}>
       {%- case block.type -%}
         {%- when 'heading' -%}
           <h2 class="h2">{{ block.settings.title | escape }}</h2>
