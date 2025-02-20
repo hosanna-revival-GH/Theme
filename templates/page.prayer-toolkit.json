@@ -506,6 +506,67 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "faq_8t8Te3": {
+      "type": "faq",
+      "blocks": {
+        "rich_text_3nmRen": {
+          "type": "rich-text",
+          "settings": {
+            "title": "LIE: Prayer is a Magic Formula",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "question_9K6rtq": {
+          "type": "question",
+          "settings": {
+            "title": "TRUTH...",
+            "text": "<p><strong>TRUTH: True prayer is in agreement with God's will.</strong></p><p>If we’re not careful with how we handle Scripture, we can take things out of context and twist their true meanings. For example, in John 14:14, Jesus said, “If you ask me anything in my name, I will do it.” That’s a big, bold promise of Jesus, and all Christians should believe it with their whole heart. However, we have to be careful not to forget about the rest of the Bible. This verse does not mean to promise that Jesus will <em>always</em> give you <em>everything</em> you want just because you asked for it. The Scriptures say much more about prayer that we must also consider when we’re making our requests known to God. You cannot pray “in Jesus’ name” <em>against</em> the will of God. Jesus is God. He is not divided against himself. This is why John (who wrote John 14:14) <em>also</em> wrote 1 John 5:15, which says, “And this is the confidence that we have toward him, that if we ask anything <strong>according to his will</strong> he hears us.” Praying in Jesus’ name means we pray for things that will honor and glorify Jesus—true prayer is in agreement with God’s will.</p>"
+          }
+        },
+        "rich_text_QJ3xqp": {
+          "type": "rich-text",
+          "settings": {
+            "title": "LIE: Prayer is a bargaining tool",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "question_YJAjAK": {
+          "type": "question",
+          "settings": {
+            "title": "TRUTH...",
+            "text": "<p><strong>TRUTH: Prayer cannot manipulate God—he is the sovereign King of the universe.</strong></p><p>While I don’t think many of us have ever intentionally tried to manipulate God, our prayers can sometimes venture into this territory. Have you ever prayed something like, “God, if you do this for me, I will ________________”? There are times when genuine prayers—prayed in Jesus’ name and for the glory of God—are prayed like this.</p><p>In 1 Samuel, we meet a woman named Hannah, who had no children. She prayed fervently for years that God would give her a son. She promised God that if he gave her a son, she would “give him to the LORD all the days of his life” (1 Samuel 1:11). God heard Hannah’s prayers and granted her a son. The first chapter of 1 Samuel ends with the famous verse, “For this child I prayed, and the LORD has granted me my petition that I made to him” (1 Samuel 1:27). </p><p>Sometimes, however, we use prayers like this in selfish ways that do not honor or glorify Christ. To use a silly example: if you procrastinated all week for a test, then pray, “God if you help me pass this test, I will study next time” when you <em>know</em> you’re not going to try any harder next time, you’re probably going to fail your test—and it won’t be on God. Prayer cannot manipulate God—he is the sovereign king of the universe.</p>"
+          }
+        },
+        "rich_text_ynTEJL": {
+          "type": "rich-text",
+          "settings": {
+            "title": "LIE: Prayer is Worthless",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "question_iVdR4H": {
+          "type": "question",
+          "settings": {
+            "title": "TRUTH...",
+            "text": "<p><strong>TRUTH: It is a matter of the heart...nothing is too insignificant.</strong></p><p>You may be thinking, “Well, if God won’t help me ace a test, what good is prayer?” Prayer is never worthless—it’s a matter of the heart. If you desire to glorify God with your life, the desires you have will be aligned with his heart (Psalm 37:4). No prayer is too small when prayed in genuine faith, even a prayer for a test. Whether you’re seeking God’s help for a new job, an apartment, a relationship…nothing is too insignificant. Prayer is never worthless.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_3nmRen",
+        "question_9K6rtq",
+        "rich_text_QJ3xqp",
+        "question_YJAjAK",
+        "rich_text_ynTEJL",
+        "question_iVdR4H"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
     }
   },
   "order": [
@@ -521,6 +582,7 @@
     "text_and_image_AyJgJ3",
     "text_and_image_WxVcft",
     "text_and_image_JAUTmt",
-    "rich_text_DAiUt4"
+    "rich_text_DAiUt4",
+    "faq_8t8Te3"
   ]
 }
