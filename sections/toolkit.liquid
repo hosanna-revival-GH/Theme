@@ -7,7 +7,7 @@
         <div class="slideshow-wrapper" data-section-id="{{ section.id }}" data-section-type="slideshow-section" {% if block.settings.parallax %}data-parallax="true"{% endif %}>
           <div class="hero-section" style="background-image: url('{{ block.settings.image | img_url: 'master' }}');">
             <div class="hero-content" style="text-align: {{ block.settings.text_align }};">
-              <h2 style="font-size: {{ block.settings.title_size }}px;">{{ block.settings.title }}</h2>
+              <h2 class="h1 hero__title" style="font-size: {{ block.settings.title_size }}px;">{{ block.settings.title }}</h2>
               <p>{{ block.settings.subheading }}</p>
               {% if block.settings.link != blank %}
                 <a href="{{ block.settings.link }}" class="btn" style="background-color: {{ block.settings.color_accent }};">{{ block.settings.link_text }}</a>
