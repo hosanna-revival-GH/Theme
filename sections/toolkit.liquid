@@ -4,15 +4,15 @@
   {% for block in section.blocks %}
     {% case block.type %}
       {% when 'hero' %}
-        <div class="hero-section" style="background-image: url('{{ block.settings.image | img_url: 'master' }}');">
-          <div class="hero-content" style="text-align: {{ block.settings.text_align }};">
-            <h2 style="font-size: {{ block.settings.title_size }}px;">{{ block.settings.title }}</h2>
-            <p>{{ block.settings.subheading }}</p>
-            {% if block.settings.link != blank %}
-              <a href="{{ block.settings.link }}" class="btn" style="background-color: {{ block.settings.color_accent }};">{{ block.settings.link_text }}</a>
-            {% endif %}
-          </div>
+      <div class="hero-slide" style="background-image: url('{{ block.settings.image | img_url: 'master' }}');">
+        <div class="hero-content" style="text-align: {{ block.settings.text_align }};">
+          <h2 style="font-size: {{ block.settings.title_size }}px;">{{ block.settings.title }}</h2>
+          <p>{{ block.settings.subheading }}</p>
+          {% if block.settings.link != blank %}
+            <a href="{{ block.settings.link }}" class="btn" style="background-color: {{ block.settings.color_accent }};">{{ block.settings.link_text }}</a>
+          {% endif %}
         </div>
+      </div>
 
       {% when 'rich_text' %}
         <div class="rich-text-section">
