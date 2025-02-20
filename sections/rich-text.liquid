@@ -23,7 +23,9 @@
             {%- endif -%}
           </div>
         {%- when 'text' -%}
-          <div class="rte" style="{%- if block.settings.align_text_block != "inherit" %}text-align:{{ block.settings.align_text_block }};{% endif -%}">
+          <div class="rte" style="{%- if block.settings.align_text_block != "inherit" %}text-align:{{ block.settings.align_text_block }};{% endif -%}
+            padding-top:{{ block.settings.space_above_block }}px; padding-bottom:{{ block.settings.space_below_block }}px;
+            ">
             {%- if block.settings.text != blank -%}
               {%- if block.settings.enlarge_text %}<div class="enlarge-text">{% endif -%}
               {{ block.settings.text }}
