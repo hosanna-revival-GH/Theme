@@ -168,7 +168,7 @@
             "enlarge_text": true,
             "text": "<p>1<br/>What is Prayer</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 0
+            "block_bottom_space": 5
           }
         },
         "text_6": {
@@ -186,7 +186,7 @@
             "enlarge_text": true,
             "text": "<p>2<br/>Why Pray?</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 0
+            "block_bottom_space": 5
           }
         },
         "text_8": {
@@ -204,7 +204,7 @@
             "enlarge_text": true,
             "text": "<p>3<br/>Prayer Struggles</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 0
+            "block_bottom_space": 5
           }
         },
         "text_10": {
@@ -222,7 +222,7 @@
             "enlarge_text": true,
             "text": "<p>4<br/>How to Pray</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 0
+            "block_bottom_space": 5
           }
         },
         "text_12": {
@@ -240,7 +240,7 @@
             "enlarge_text": true,
             "text": "<p>5<br/>After You Pray</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 0
+            "block_bottom_space": 5
           }
         },
         "text_14": {
@@ -258,7 +258,7 @@
             "enlarge_text": true,
             "text": "<p>6<br/>Take it Farther</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 0
+            "block_bottom_space": 5
           }
         },
         "text_16": {
@@ -276,7 +276,7 @@
             "enlarge_text": true,
             "text": "<p>7<br/>Download the Toolkit</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 0
+            "block_bottom_space": 5
           }
         },
         "text_18": {
