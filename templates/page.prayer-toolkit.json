@@ -842,7 +842,7 @@
         "text_wmNcA4"
       ],
       "settings": {
-        "align_text": "center",
+        "align_text": "left",
         "narrow_column": true,
         "divider": false,
         "css-id": "",
@@ -850,7 +850,43 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
-        "space_below": 75
+        "space_below": 35
+      }
+    },
+    "faq_NMWjeN": {
+      "type": "faq",
+      "blocks": {
+        "question_k8Bw4q": {
+          "type": "question",
+          "settings": {
+            "title": "Remember The Holy Spirit’s Intercession",
+            "text": "<p>When believers in Rome were facing persecution and suffering during the first century, Paul wrote to encourage them. In Romans 8:26, Paul told them that “the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.” In other words, when we are so weak that we don’t even have words to pray, the Holy Spirit intercedes <em>for</em> us. He <em>prays</em> for you. What a comforting thought!</p>"
+          }
+        },
+        "question_kwCezx": {
+          "type": "question",
+          "settings": {
+            "title": "Pray Simple Prayers",
+            "text": "<p>Just before teaching his disciples how to pray in Matthew 6, Jesus said this: “And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words.” Sometimes we may have the desire to pray, but we feel like our request is too small—like we shouldn’t bother God with such things. We feel like prayers should be more “meaningful;” prayed with eloquence and poise. Jesus lovingly reminds us it’s not all about the style or length of our prayers. One of the most sincere, heart-felt prayers in all of Scripture only contained three words: “Lord, save me!” (Matthew 14:30).</p><p>You have the freedom to pray simply. You don’t need an impressive vocabulary to pray fervent, effectual prayers. You also don’t need massive, life-changing events or heartbreaking trials. God cares about the smallest, minute moments of your life, and he wants to hear from you.</p><p>Start small—begin your day with a prayer, thanking God for a new day and asking him to bless you as you move about your day. Maybe it will be something small, like hitting all green lights so you’re not late to a meeting. But because you prayed over your day, you will be mindful to think of God when those things happen. You will be able to recognize small joys as gracious gifts from a loving Father, and you will be able to take a moment to offer up a prayer of thanksgiving—continuing to build a habit of constant prayer.</p>"
+          }
+        },
+        "question_HMzVYK": {
+          "type": "question",
+          "settings": {
+            "title": "Pray the Psalms",
+            "text": "<p>The Bible also contains its very own book of prayer: the Psalms. The Psalms teach us to pray through imitating the psalmist (and his God-breathed prayers) and responding to God. True prayer is always a response to God’s revelation; as he reveals things to us (about his nature, about our sin, about the world), we respond in prayer.</p><p>The Psalms are also deeply personal and honest. As we read through the psalter, we will find prayers that may cause us to think, “Am I allowed to pray that?” We like things to be authentic, but we like them to be neat and pretty. Anything too “raw” or real tends to make us uncomfortable, but the various writers of the Psalms don’t make any attempt to hide their emotions. They vividly and honestly express the deepest feelings of their hearts, and we can, too.</p><p>The Psalms also provide important boundaries; they cause us to deal with God as he is—as he has revealed himself to us in his Word—not as we wish he was. The Psalms are prayers and songs, but they are God’s own words. The Psalms help us learn more about God and how we can address and trust him in a vast array of circumstances.</p><p><em>Be sure to check out the “How to Pray” section for more helpful tips on how to pray the Psalms.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_k8Bw4q",
+        "question_kwCezx",
+        "question_HMzVYK"
+      ],
+      "settings": {
+        "title": "",
+        "space_above": 0,
+        "space_below": 0
       }
     }
   },
@@ -876,6 +912,7 @@
     "slideshow_eRaCAm",
     "rich_text_F36xrC",
     "rich_text_UTQT88",
-    "rich_text_pDCk9F"
+    "rich_text_pDCk9F",
+    "faq_NMWjeN"
   ]
 }
