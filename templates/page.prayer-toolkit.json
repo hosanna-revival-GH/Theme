@@ -936,19 +936,42 @@
             "color_bg": "#ffffff",
             "color_text": "#000000",
             "space_above": 75,
-            "space_below": 75,
+            "space_below": 35,
             "heading": "",
             "enlarge_text": true,
             "text": "<p>In the blur of busy schedules and packed calendars, our prayer lives can look a bit like rollercoasters. There’s no time to rest, and ultimately, no time to pray. When we’re tired and burnt out, intentional, meaningful, purposeful prayers feel unobtainable—yet another item on the checklist. </p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "block_bottom_space": 0
           }
         },
         "faq-block-001": {
           "type": "faq",
           "settings": {
-            "question": "What is your question?",
-            "answer": "<p>The answer to the question.</p>"
+            "question": "Make Prayer a Priority",
+            "answer": "<p>Prayer is vitally important in the Christian life. It is communication with God our Father, empowered by the Spirit of God, prayed in the name of Jesus. Like anything else in life, however, prayer will not become a priority in our lives on its own. We order our calendars and schedules, giving preference to those things which we deem most important. If time with God in prayer is not given a place of priority in your life, it’s safe to say prayer is not viewed as a priority.</p><p>Our schedules reveal what our hearts treasure most. John Bunyan wrote, “You can do more than pray after you have prayed, but you cannot do more than pray until you have prayed.” In other words, you <em>always</em> have time to pray—but something else may be in its rightful place. Prayer is not merely a “checklist” item or a blocked-out time on the calendar, but taking a good look at your schedule and task lists can help you discern what items have been given a place of priority that they may not deserve.</p><p>Begin your day with Jesus—and watch what a difference it makes!</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_yhMYkW": {
+          "type": "faq",
+          "settings": {
+            "question": "Good vs. Best",
+            "answer": "<p>When we think of choosing something over prayer, it may be easy to think of “bad vs good.” In other words, we often think of “bad” things pulling our attention away from “good things.” However, most often, it’s not bad vs good we have to worry about: it’s good vs best. Children are a blessing from the Lord, but God never intended them to be placed above him. Our children—wonderful, good gifts—can become idols if we place them above God. Or maybe it’s a job. Maybe God has placed you in an excellent company with a wonderful work environment doing what you love, and you devote your time and energy there above time spent with God. Vocation can be a good, God-glorifying thing, but it can also become an idol.</p><p>As you examine the way your time is spent, don’t simply look for “bad” things; look for <em>good</em> things that have taken the place of the <em>best</em> thing: time with God.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_HnVVq6": {
+          "type": "faq",
+          "settings": {
+            "question": "Remember: Prayer is Time with God",
+            "answer": "<p>If you have a strong relationship with your dad, you probably speak to him often. Conversely, if you have a bad or broken relationship with your dad, you probably don’t speak to him often. This can become a cycle—for better or for worse. The more you avoid time with God in prayer, the less you will desire time with God in prayer. It will become easier to silence the gentle prodding of the Holy Spirit. However, when you devote time to prayer, you <em>commune</em> with God. You learn of him and his heart for you. The more you pray, the more you will desire that sweet time of communion with your heavenly Father.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
           }
         }
       },
@@ -956,7 +979,9 @@
         "hero-block-001",
         "rich-text-block-001",
         "rich_text_C8wVrg",
-        "faq-block-001"
+        "faq-block-001",
+        "faq_yhMYkW",
+        "faq_HnVVq6"
       ],
       "settings": {}
     }
