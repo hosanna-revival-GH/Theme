@@ -1,53 +1,65 @@
+<!-- Combined Content Section -->
 <div class="combined-content-section" data-section-id="{{ section.id }}">
-  {% for block in section.blocks %}
-    {% case block.type %}
-      {% when 'hero' %}
-        <div class="hero-section" style="background-image: url('{{ block.settings.image | img_url: 'master' }}');">
+
+  <!-- Slideshow -->
+  <div class="slideshow-wrapper" data-section-id="{{ section.id }}" data-section-type="slideshow-section">
+    {% for block in section.blocks %}
+      {% if block.type == 'hero' %}
+        <div class="hero-slide" style="background-image: url('{{ block.settings.image | img_url: 'master' }}');">
           <div class="hero-content">
-            <h1>{{ block.settings.title }}</h1>
+            <h2>{{ block.settings.title }}</h2>
             <p>{{ block.settings.subheading }}</p>
           </div>
         </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 
-      {% when 'rich_text' %}
-        <div class="rich-text-section">
-          <div class="page-width">
-            {{ block.settings.content }}
-          </div>
+  <!-- Rich Text -->
+  {% for block in section.blocks %}
+    {% if block.type == 'rich_text' %}
+      <div class="rich-text-section">
+        <div class="page-width">
+          {{ block.settings.content }}
         </div>
-
-      {% when 'faq' %}
-        <div class="faq-section">
-          <div class="page-width">
-            <details>
-              <summary>{{ block.settings.question }}</summary>
-              <p>{{ block.settings.answer }}</p>
-            </details>
-          </div>
-        </div>
-    {% endcase %}
+      </div>
+    {% endif %}
   {% endfor %}
+
+  <!-- FAQ -->
+  <div class="faq-section">
+    <div class="page-width">
+      {% for block in section.blocks %}
+        {% if block.type == 'faq' %}
+          <details>
+            <summary>{{ block.settings.question }}</summary>
+            <p>{{ block.settings.answer }}</p>
+          </details>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
 </div>
 
+<!-- Styles -->
 <style>
-  .hero-section {
+  .hero-slide {
     color: #fff;
     text-align: center;
     background-size: cover;
     background-position: center;
-  }
-  .hero-content h1 {
-    font-size: 2em;
+    padding: 50px 0;
   }
   .rich-text-section {
     padding: 20px 0;
   }
   .faq-section details {
     margin: 10px 0;
+    cursor: pointer;
   }
   .faq-section summary {
     font-weight: bold;
-    cursor: pointer;
   }
 </style>
 
