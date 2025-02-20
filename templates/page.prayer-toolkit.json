@@ -873,7 +873,7 @@
             "answer": "<p>The Bible also contains its very own book of prayer: the Psalms. The Psalms teach us to pray through imitating the psalmist (and his God-breathed prayers) and responding to God. True prayer is always a response to God’s revelation; as he reveals things to us (about his nature, about our sin, about the world), we respond in prayer.</p><p>The Psalms are also deeply personal and honest. As we read through the psalter, we will find prayers that may cause us to think, “Am I allowed to pray that?” We like things to be authentic, but we like them to be neat and pretty. Anything too “raw” or real tends to make us uncomfortable, but the various writers of the Psalms don’t make any attempt to hide their emotions. They vividly and honestly express the deepest feelings of their hearts, and we can, too.</p><p>The Psalms also provide important boundaries; they cause us to deal with God as he is—as he has revealed himself to us in his Word—not as we wish he was. The Psalms are prayers and songs, but they are God’s own words. The Psalms help us learn more about God and how we can address and trust him in a vast array of circumstances.</p><p><em>Be sure to check out the “How to Pray” section for more helpful tips on how to pray the Psalms.</em></p>",
             "align_text": "left",
             "space_above": 0,
-            "space_below": 0
+            "space_below": 75
           }
         },
         "rich-text-block-001": {
@@ -958,7 +958,10 @@
         "faq_yhMYkW",
         "faq_HnVVq6"
       ],
-      "settings": {}
+      "settings": {
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
