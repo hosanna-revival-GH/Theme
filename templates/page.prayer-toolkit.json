@@ -327,6 +327,17 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "single_button_c6DLNw": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Download the prayer toolkit",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
+        "button_size": "large",
+        "alignment": "center",
+        "space_above": 20,
+        "space_below": 20
+      }
     }
   },
   "order": [
@@ -335,6 +346,7 @@
     "bda355ba-be8d-42d7-b144-275b6cefb6a3",
     "9b3ada5d-6035-4418-bf90-53300bb2b25d",
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
-    "b8f496ca-7e30-4276-90dc-9541ba4ba935"
+    "b8f496ca-7e30-4276-90dc-9541ba4ba935",
+    "single_button_c6DLNw"
   ]
 }
