@@ -66,7 +66,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. Perhaps you have struggled with understanding <em>why</em> we pray. You may wonder, <em>Does God always hear every prayer? Does prayer change God’s mind? What’s the point of praying if God knows everything? </em>Or maybe you fully understand why you pray, but have a hard time with a consistent prayer life.</p><p>Wherever you are, this guide is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline. Let’s get started!</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -111,7 +112,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>If I were sitting next to you as you tackle the giant topic of prayer, I would want you to know a few things.</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_i6ajke": {
@@ -119,7 +121,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p>First, I would tell you that I am overjoyed you are trying to make change in your prayer life. It’s so easy to settle into “good enough” when something is hard, confusing, or unfamiliar. </p><p>Second, I would tell you that communing with the God of the universe through prayer is one of the most important things you will do to grow your faith, and strengthen your relationship with God. No relationship thrives on weak, inconsistent, and inauthentic communication. Why would we expect our relationship with God to be any different? </p><p>As you commit to improving your discipline of prayer by one small step or a massive overhaul, I pray that you will feel strengthened. Know that God wants this change for you even more than you do. Prayer is modeled for us all over the Bible as a necessary but beautiful gift from God- and your commitment to commune with him consistently and passionately will draw you near to the Lord, leading to only more goodness and glory.</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_phhEMR": {
@@ -127,7 +130,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>“Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.”<br/><em>—Hebrews 4:16—</em></p>",
-            "align_text_block": "center"
+            "align_text_block": "center",
+            "block_bottom_space": 30
           }
         }
       },
@@ -163,7 +167,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>1<br/>What is Prayer</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
           }
         },
         "text_6": {
@@ -171,7 +176,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>What It Is and What It Is Not</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_7": {
@@ -179,7 +185,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>2<br/>Why Pray?</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
           }
         },
         "text_8": {
@@ -187,7 +194,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>Finding Purpose in Prayer</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_9": {
@@ -195,7 +203,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>3<br/>Prayer Struggles</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
           }
         },
         "text_10": {
@@ -203,7 +212,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>Questions You Might Have About Prayer</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_11": {
@@ -211,7 +221,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>4<br/>How to Pray</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
           }
         },
         "text_12": {
@@ -219,7 +230,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>Before You Pray and What to Pray</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_13": {
@@ -227,7 +239,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>5<br/>After You Pray</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
           }
         },
         "text_14": {
@@ -235,7 +248,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>What Happens After You've Finished Praying</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_15": {
@@ -243,7 +257,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>6<br/>Take it Farther</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
           }
         },
         "text_16": {
@@ -251,7 +266,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>Top Resources on Prayer</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_17": {
@@ -259,7 +275,8 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>7<br/>Download the Toolkit</p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
           }
         },
         "text_18": {
@@ -267,7 +284,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>Your Free Downloadable Prayer Toolkit</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_19": {
@@ -275,7 +293,8 @@
           "settings": {
             "enlarge_text": false,
             "text": "<p><em>Top Resources on Prayer</em></p>",
-            "align_text_block": "inherit"
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
