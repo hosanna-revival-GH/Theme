@@ -28,7 +28,7 @@
             "title_size": 80,
             "subheading": "A Simple Guide to Prayer",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -909,8 +909,7 @@
         "rich-text-block-001": {
           "type": "rich_text",
           "settings": {
-            "heading": "",
-            "content": "<p>Your rich text here</p>"
+            "heading": "What if I don’t have time to pray?"
           }
         },
         "faq-block-001": {
