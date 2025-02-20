@@ -25,7 +25,7 @@
         {%- when 'text' -%}
           <div class="rte">
             {%- if block.settings.text != blank -%}
-              {%- if block.settings.enlarge_text %}<div class="enlarge-text" style="text-align:{{ block.settings.align_text_block }};">{% endif -%}
+              {%- if block.settings.enlarge_text %}<div class="enlarge-text" {%- if block.settings.align_text_block != "inherit" %}style="text-align:{{ block.settings.align_text_block }};"{% endif -%}>{% endif -%}
               {{ block.settings.text }}
               {%- if block.settings.enlarge_text %}</div>{% endif -%}
             {%- else -%}
@@ -157,7 +157,7 @@
       "type": "select",
       "id": "align_text_block",
       "label": "t:sections.rich-text.settings.align_text.label",
-      "default": "left",
+      "default": "inherit",
       "options": [
         {
           "value": "left",
@@ -170,6 +170,10 @@
         {
           "value": "right",
           "label": "t:sections.rich-text.settings.align_text.options.right.label"
+        },
+        {
+          "value": "inherit",
+          "label": "Inherit"
         }
       ]
     },
