@@ -28,15 +28,18 @@
   </div>
 </div>
 
-      {% when 'faq' %}
-        <div class="faq-section">
-          <div class="page-width">
-            <details>
-              <summary>{{ block.settings.question }}</summary>
-              <p>{{ block.settings.answer }}</p>
-            </details>
-          </div>
-        </div>
+{% when 'faq' %}
+  <div class="faq-section" style="text-align: {{ block.settings.align_text }}; padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
+    <div class="page-width page-width--narrow">
+      <details>
+        <summary>
+          {{ block.settings.question }}
+          {%- render 'collapsible-icons-alt', no_circle: true -%}
+        </summary>
+        <p>{{ block.settings.answer }}</p>
+      </details>
+    </div>
+  </div>
     {% endcase %}
   {% endfor %}
 
@@ -269,22 +272,62 @@
     }
   ]
 },
+{
+  "type": "faq",
+  "name": "FAQ Block",
+  "settings": [
     {
-      "type": "faq",
-      "name": "FAQ Block",
-      "settings": [
+      "type": "text",
+      "id": "question",
+      "label": "Question",
+      "default": "Frequently asked question"
+    },
+    {
+      "type": "richtext",
+      "id": "answer",
+      "label": "Answer",
+      "default": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+    },
+    {
+      "type": "select",
+      "id": "align_text",
+      "label": "Text alignment",
+      "default": "left",
+      "options": [
         {
-          "type": "text",
-          "id": "question",
-          "label": "Question"
+          "value": "left",
+          "label": "Left"
         },
         {
-          "type": "richtext",
-          "id": "answer",
-          "label": "Answer"
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
         }
       ]
+    },
+    {
+      "type": "range",
+      "id": "space_above",
+      "label": "Top padding",
+      "default": 0,
+      "min": 0,
+      "max": 75,
+      "unit": "px"
+    },
+    {
+      "type": "range",
+      "id": "space_below",
+      "label": "Bottom padding",
+      "default": 0,
+      "min": 0,
+      "max": 75,
+      "unit": "px"
     }
+  ]
+}
   ],
   "presets": [
     {
