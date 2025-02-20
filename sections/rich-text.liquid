@@ -10,7 +10,7 @@
 {% endstyle %}
   <div {% unless section.settings.css-id == blank %} id="{{ section.settings.css-id }}" {% endunless %} class="{{ section.settings.css-class }} page-width text-{{ section.settings.align_text }}{% if section.settings.narrow_column %} page-width--narrow{% endif %}">
   {%- for block in section.blocks -%}
-    <div class="theme-block" {{ block.shopify_attributes }}>
+    <div class="theme-block" {{ block.shopify_attributes }} {% if block.settings.block_bottom_space != 30 %} style="margin-bottom:{{ block.settings.block_bottom_space }};"{% endif -%}>
       {%- case block.type -%}
         {%- when 'heading' -%}
           <h2 class="h2">{{ block.settings.title | escape }}</h2>
@@ -23,9 +23,7 @@
             {%- endif -%}
           </div>
         {%- when 'text' -%}
-          <div class="rte" style="{%- if block.settings.align_text_block != "inherit" %}text-align:{{ block.settings.align_text_block }};{% endif -%}
-            padding-top:{{ block.settings.space_above_block }}px; padding-bottom:{{ block.settings.space_below_block }}px;
-            ">
+          <div class="rte" style="{%- if block.settings.align_text_block != "inherit" %}text-align:{{ block.settings.align_text_block }};{% endif -%}">
             {%- if block.settings.text != blank -%}
               {%- if block.settings.enlarge_text %}<div class="enlarge-text">{% endif -%}
               {{ block.settings.text }}
@@ -179,24 +177,12 @@
         }
       ]
     },
-      {
-            "type": "range",
-            "id": "space_above_block",
-            "label": "Top padding",
-            "default": 5,
-            "min": 0,
-            "max": 75,
-            "unit": "px"
-          },
-          {
-            "type": "range",
-            "id": "space_below_block",
-            "label": "Bottom padding",
-            "default": 5,
-            "min": 0,
-            "max": 75,
-            "unit": "px"
-          }   
+    {
+          "type": "number",
+          "id": "block_bottom_space",
+          "label": "Block bottom spacing",
+          "default": 30
+        }
       ]
     },
     {
