@@ -29,17 +29,21 @@
 </div>
 
 {% when 'faq' %}
-  <div class="faq-section" style="text-align: {{ block.settings.align_text }}; padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
-    <div class="page-width page-width--narrow">
-      <details>
-        <summary>
-          {{ block.settings.question }}
-          {%- render 'collapsible-icons-alt', no_circle: true -%}
-        </summary>
-        <p>{{ block.settings.answer }}</p>
-      </details>
+    <div class="faq-section" style="padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
+    <div class="page-width">
+      <button type="button" class="collapsible-trigger collapsible-trigger--inline collapsible--auto-height text-left" aria-controls="FAQ-content-{{ block.id }}" aria-expanded="false">
+        <span class="collapsible-trigger__icon collapsible-trigger__icon--circle collapsible-trigger__icon--open" role="presentation">
+         {%- render 'collapsible-icons-alt', no_circle: true -%}
+        </span>
+        <span>{{ block.settings.question }}</span>
+      </button>
+      <div id="FAQ-content-{{ block.id }}" class="collapsible-content collapsible-content--all">
+        <div class="collapsible-content__inner collapsible-content__inner--faq rte">
+          {{ block.settings.answer }}
+        </div>
+      </div>
     </div>
-  </div>
+  </div>    
     {% endcase %}
   {% endfor %}
 
