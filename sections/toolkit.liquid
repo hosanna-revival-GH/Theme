@@ -1,4 +1,33 @@
+<div class="combined-content-section" data-section-id="{{ section.id }}">
+  {% for block in section.blocks %}
+    {% case block.type %}
+      {% when 'hero' %}
+        <div class="hero-section" style="background-image: url('{{ block.settings.image | img_url: 'master' }}');">
+          <div class="hero-content">
+            <h1>{{ block.settings.title }}</h1>
+            <p>{{ block.settings.subheading }}</p>
+          </div>
+        </div>
 
+      {% when 'rich_text' %}
+        <div class="rich-text-section">
+          <div class="page-width">
+            {{ block.settings.content }}
+          </div>
+        </div>
+
+      {% when 'faq' %}
+        <div class="faq-section">
+          <div class="page-width">
+            <details>
+              <summary>{{ block.settings.question }}</summary>
+              <p>{{ block.settings.answer }}</p>
+            </details>
+          </div>
+        </div>
+    {% endcase %}
+  {% endfor %}
+</div>
 
 <style>
   .hero-section {
