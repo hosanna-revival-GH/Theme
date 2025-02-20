@@ -22,7 +22,7 @@
     {% if block.settings.heading != blank %}
       <h2 style="margin-bottom: {{ block.settings.block_bottom_space }}px;">{{ block.settings.heading }}</h2>
     {% endif %}
-    <div style="{% if block.settings.align_text_block != 'inherit' %}text-align: {{ block.settings.align_text_block }};{% endif %}{% if block.settings.enlarge_text %} font-size: larger;{% endif %}">
+    <div class="{% if block.settings.enlarge_text %} enlarge-text{% endif %}" style="{% if block.settings.align_text_block != 'inherit' %}text-align: {{ block.settings.align_text_block }};{% endif %}">
       {{ block.settings.text }}
     </div>
   </div>
