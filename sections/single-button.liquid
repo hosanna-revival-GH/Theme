@@ -1,4 +1,4 @@
-<div class="index-section">
+<div class="index-section-no-margin">
   <div class="page-width text-{{ section.settings.alignment }}">
     <div style="margin: {{ section.settings.space_above }}px auto {{ section.settings.space_below }}px;">
       <a href="{{ section.settings.button_link }}" class="btn btn--{{ section.settings.button_size }}">
@@ -72,7 +72,7 @@
       "type": "number",
       "id": "space_above",
       "label": "Space Above (px)",
-      "default": 20
+      "default": 30
     },
     {
       "type": "number",
@@ -84,7 +84,6 @@
   "presets": [
     {
       "name": "Custom Button",
-      "category": "Button"
     }
   ]
 }
