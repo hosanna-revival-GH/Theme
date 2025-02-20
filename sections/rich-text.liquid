@@ -23,9 +23,9 @@
             {%- endif -%}
           </div>
         {%- when 'text' -%}
-          <div class="rte">
+          <div class="rte" style="{%- if block.settings.align_text_block != "inherit" %}text-align:{{ block.settings.align_text_block }};{% endif -%}">
             {%- if block.settings.text != blank -%}
-              {%- if block.settings.enlarge_text %}<div class="enlarge-text" {%- if block.settings.align_text_block != "inherit" %}style="text-align:{{ block.settings.align_text_block }};"{% endif -%}>{% endif -%}
+              {%- if block.settings.enlarge_text %}<div class="enlarge-text">{% endif -%}
               {{ block.settings.text }}
               {%- if block.settings.enlarge_text %}</div>{% endif -%}
             {%- else -%}
@@ -177,6 +177,24 @@
         }
       ]
     },
+      {
+            "type": "range",
+            "id": "space_above_block",
+            "label": "Top padding",
+            "default": 5,
+            "min": 0,
+            "max": 75,
+            "unit": "px"
+          },
+          {
+            "type": "range",
+            "id": "space_below_block",
+            "label": "Bottom padding",
+            "default": 5,
+            "min": 0,
+            "max": 75,
+            "unit": "px"
+          }   
       ]
     },
     {
