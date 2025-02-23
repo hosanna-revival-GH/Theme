@@ -41,7 +41,18 @@
         </div>
       </div>
     </div>
-  </div>    
+  </div>
+
+  {% when 'single-button' %}
+  <div class="index-section-no-margin">
+    <div class="page-width text-{{ block.settings.alignment }}">
+      <div style="margin: {{ block.settings.space_above }}px auto {{ block.settings.space_below }}px;">
+        <a href="{{ block.settings.button_link }}" class="btn btn--{{ block.settings.button_size }}">
+          {{ block.settings.button_text }}
+        </a>
+      </div>
+    </div>
+  </div>      
     {% endcase %}
   {% endfor %}
 
@@ -352,7 +363,81 @@
       "unit": "px"
     }
   ]
-}
+},
+    {
+  "name": "Custom Button",
+  "type": "single-button",
+  "settings": [
+    {
+      "type": "text",
+      "id": "button_text",
+      "label": "Button Text",
+      "default": "Click Here"
+    },
+    {
+      "type": "url",
+      "id": "button_link",
+      "label": "Button Link",
+      "default": "/"
+    },
+    {
+      "type": "select",
+      "id": "button_size",
+      "label": "Button Size",
+      "options": [
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "large",
+          "label": "Large"
+        },
+        {
+          "value": "huge",
+          "label": "Huge"
+        }        
+      ],
+      "default": "medium"
+    },
+    {
+      "type": "select",
+      "id": "alignment",
+      "label": "Text Alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "number",
+      "id": "space_above",
+      "label": "Space Above (px)",
+      "default": 30
+    },
+    {
+      "type": "number",
+      "id": "space_below",
+      "label": "Space Below (px)",
+      "default": 20
+    }
+  ],
+  }
   ],
   "presets": [
     {
