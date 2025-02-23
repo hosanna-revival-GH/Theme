@@ -924,173 +924,176 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "text_and_image_y9BbJR": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-S-038_1080x_jpg.webp",
+            "image_width": 50,
+            "subtitle": "The Story of the Bible",
+            "title": "Old Testament",
+            "text": "<p><strong>The Beginning: </strong>The story of the Bible begins with God, then his Creation. God, man, and all the animals lived together in perfect harmony and peace. But when Adam and Eve sinned, it all came crashing down. Adam and Eve were created holy and perfectly happy in God’s creation, but that perfect harmony with God was destroyed and the earth was cursed as a result of their sin. </p><p><strong>The Account of Israel: </strong>The story of Israel is a fairly similar narrative. God saves Abraham’s descendants from Egyptian slavery and exile and leads them into a lush, green land he promised to Abraham hundreds of years earlier. But just like Adam, the children of Israel rebelled against God and were exiled from the Promised Land. </p><p><strong>How it Ends:</strong> The Old Testament ends with the children of Israel—Abraham’s descendants—returning to the Promised Land, but it is no longer the paradise it once was. They are still in exile under foreign rule. There is conflict and pain. The weight of the curse still remained, but so did the promise of God to send a Savior—the Messiah—to break this curse and put an end to suffering once and for all. But the question remained: when and how would God fulfill this long-awaited promise?</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_6GbaGL": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-S-055_1080x_jpg.webp",
+            "image_width": 50,
+            "subtitle": "The Story of the Bible",
+            "title": "New Testament",
+            "text": "<p><strong>The Beginning</strong>: After 400 years of silence, Israel is still in exile under the Romans. They are eagerly awaiting the promised Messiah, foretold by prophets of old. They longed for him, believing that when he came he would set all things right. And he would—but not the way they thought he would. </p><p><strong>The Account of Jesus</strong>: Jesus did not overthrow the government and become their king. Instead, he had come for a much greater purpose: to break the curse of sin. Jesus came to live a perfect life and die in the place of sinners, reconciling them back to God—bringing us back to the garden paradise where we can once again have perfect harmony and peace with God. </p><p><strong>How it Ends</strong>: The New Testament ends with the promise of a future in a new heaven and a new earth. No more sin, no more curse, no more sickness, no more death. God will make all things new and will once again dwell with his people.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "rich_text_BrTzp6": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Deep Dive into the Bible",
+            "enlarge_text": true,
+            "text": "<p>There is much more than what we feature here. In our free downloadable PDF guide, we’ll dive even deeper into sections and individual books! <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104\" target=\"_blank\" title=\"Hosanna Revival Bible Toolkit PDF\"><em>Download and print the guide here!</em></a></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
-        "rich_text_X9KaE4"
+        "rich_text_X9KaE4",
+        "text_and_image_y9BbJR",
+        "text_and_image_6GbaGL",
+        "rich_text_BrTzp6"
       ],
       "settings": {
         "space_above": 0,
         "space_below": 0
       }
     },
-    "text_columns_LEt89R": {
-      "type": "text-columns",
+    "slideshow_pTbpEF": {
+      "type": "slideshow",
       "blocks": {
-        "text_block_wDpYbr": {
-          "type": "text_block",
+        "image_DLfrrX": {
+          "type": "image",
           "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Prayer-Tim-Keller.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Prayer: Experiencing Awe and Intimacy with God",
-            "text": "<p><em>Tim Keller</em></p><p>For the one wanting to learn both the both theological and practical foundations of prayer</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://www.amazon.com/Prayer-Experiencing-Awe-Intimacy-God/dp/0143108581/"
-          }
-        },
-        "text_block_tFCfCx": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Praying-The-Bible.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Praying the Bible",
-            "text": "<p><em>Donald Whitney</em></p><p>For the one wanting a simple and straightforward guide on how to pray Scripture</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://www.amazon.com/Praying-Bible-Donald-S-Whitney/dp/1433547848"
-          }
-        },
-        "text_block_gwVn4i": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/A-Praying-Life.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "A Praying Life: Connecting with God in a Distracting World",
-            "text": "<p><em>Paul E. Miller</em></p><p>For the one wanting a practical and honest guide to real prayer in the midst of real life</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://www.amazon.com/Praying-Life-Connecting-Distracting-World/dp/1631466836"
-          }
-        },
-        "text_block_BXCeBt": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Pray-Like-This.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Pray Like This",
-            "text": "<p><em>Katie Noble</em></p><p>For the one wanting to mine the riches of the Lord's Prayer in this 8-week devotional</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://hosannarevival.com/products/devotional-pray-like-this"
-          }
-        },
-        "text_block_BKwNcQ": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Every-Moment-Holy.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Every Moment Holy",
-            "text": "<p><em>Douglas McKelvey</em></p><p>For the one wanting beautiful guided prayers on a wealth of topics. Choose from Volumes I & II.</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://www.everymomentholy.com/"
-          }
-        },
-        "text_block_nLbFHn": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/The-Life-of-Prayer.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "The Life of Prayer",
-            "text": "<p><em>Edith Schaeffer</em></p><p>For the one wanting to be encouraged by the reality of the power of prayer in our everyday lives</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://www.amazon.com/Life-Prayer-Edith-Schaeffer/dp/0891076492"
-          }
-        },
-        "text_block_9UqNkz": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Pray-the-Word-David-Platt.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Pray the Word",
-            "text": "<p>—<em>a podcast</em>—</p><p>For the one wanting to pray through the Scriptures alongside David Platt</p>",
-            "button_label": "Choose This Tool",
-            "button_link": ""
-          }
-        },
-        "text_block_RMQXQW": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Echo-Prayer-App_86b715a6-a7df-4b8e-bfba-4c61a3952b07.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Echo",
-            "text": "<p>—<em>an app</em>—</p><p>For the one wanting an app to encourage daily prayer</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://new.echoprayer.com/"
-          }
-        },
-        "text_block_gwrMCh": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Prayer-Lockscreens.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "The Lord's Prayer Lock Screens",
-            "text": "<p>—<em>Scripture Lock Screens</em>—</p><p>For the one wanting a daily reminder of the Lord’s Prayer on their phone</p>",
-            "button_label": "Choose This Tool",
-            "button_link": "https://hosannarevival.com/blogs/lock-screens"
+            "top_subheading": "",
+            "title": "Reading the Bible",
+            "title_size": 80,
+            "subheading": "A Quick Guide to Ways to Read, Before You Read, and While You Read",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-010_1728x_af5b7414-be8f-48aa-8267-05f63d441392.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "text_block_wDpYbr",
-        "text_block_tFCfCx",
-        "text_block_gwVn4i",
-        "text_block_BXCeBt",
-        "text_block_BKwNcQ",
-        "text_block_nLbFHn",
-        "text_block_9UqNkz",
-        "text_block_RMQXQW",
-        "text_block_gwrMCh"
+        "image_DLfrrX"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_7JBgdJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pWn4Rp": {
+          "type": "heading",
+          "settings": {
+            "title": "Ways to Read the Bible"
+          }
+        },
+        "text_trRnb7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Bible reading typically happens in one of two ways, explained below.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_pWn4Rp",
+        "text_trRnb7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_tdX6ie": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_hTaADB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-P-043_1080x_jpg.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Chronological",
+            "text": "<p>Choose a book of the Bible and read through it from beginning to end. It is helpful to find study questions or commentary as you take this bare-bones approach.</p>",
+            "button_label": "Start in John",
+            "button_link": "https://hosannarevival.com/pages/study-of-john"
+          }
+        },
+        "text_block_yhzPw4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-P-022b_1080x_jpg.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Guided Study",
+            "text": "<p>Follow along with a Bible study that points out different Scriptures for you to read each day. Bible studies typically include commentary and references that relate to a specific topic or guide you through a book.</p>",
+            "button_label": "Find a Study",
+            "button_link": "https://hosannarevival.com/collections/devotionals"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hTaADB",
+        "text_block_yhzPw4"
       ],
       "settings": {
         "title": "",
         "align_text": "center",
         "divider": false
-      }
-    },
-    "text_and_image_FY9hkn": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Download Our",
-        "title": "Prayer Toolkit",
-        "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. </p><p>Wherever you are, this free downloadable PDF is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline.</p>",
-        "button_label": "Download PDF",
-        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     }
   },
@@ -1115,7 +1118,8 @@
     "rich_text_h93XC7",
     "slideshow_Acrct4",
     "combined-content-section-3",
-    "text_columns_LEt89R",
-    "text_and_image_FY9hkn"
+    "slideshow_pTbpEF",
+    "rich_text_7JBgdJ",
+    "text_columns_tdX6ie"
   ]
 }
