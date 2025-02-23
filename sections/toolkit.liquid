@@ -17,7 +17,7 @@
         </div>
 
       {% when 'rich_text' %}
-<div class="rich-text-section" {% if block.settings.css-id != blank %}id="{{ block.settings.css-id }}"{% endif %} class="{{ block.settings.css-class }}" style="text-align: {{ block.settings.align_text }}; background-color: {{ block.settings.color_bg }}; color: {{ block.settings.color_text }}; padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
+<div class="rich-text-section {{ block.settings.css-class }}" {% if block.settings.css-id != blank %}id="{{ block.settings.css-id }}"{% endif %} style="text-align: {{ block.settings.align_text }}; background-color: {{ block.settings.color_bg }}; color: {{ block.settings.color_text }}; padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
   <div class="page-width{% if block.settings.narrow_column %} page-width--narrow{% endif %} rte">
     {% if block.settings.heading != blank %}
       <h2 style="margin-bottom: {{ block.settings.block_bottom_space }}px;">{{ block.settings.heading }}</h2>
@@ -261,6 +261,9 @@
   .feature-row--50 .feature-row__item.feature-row__images {
     max-width: 500px;
 }
+  .smaller-heading h2{
+    
+  }
 </style>
 
 {% schema %}
