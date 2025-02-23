@@ -1656,17 +1656,136 @@
             "button_label": "Choose This Tool",
             "button_link": "https://www.amazon.com/Praying-Life-Connecting-Distracting-World/dp/1631466836"
           }
+        },
+        "text_block_BXCeBt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Pray-Like-This.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Pray Like This",
+            "text": "<p><em>Katie Noble</em></p><p>For the one wanting to mine the riches of the Lord's Prayer in this 8-week devotional</p>",
+            "button_label": "Choose This Tool",
+            "button_link": "https://hosannarevival.com/products/devotional-pray-like-this"
+          }
+        },
+        "text_block_BKwNcQ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Every-Moment-Holy.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Every Moment Holy",
+            "text": "<p><em>Douglas McKelvey</em></p><p>For the one wanting beautiful guided prayers on a wealth of topics. Choose from Volumes I & II.</p>",
+            "button_label": "Choose This Tool",
+            "button_link": "https://www.everymomentholy.com/"
+          }
+        },
+        "text_block_nLbFHn": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/The-Life-of-Prayer.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Life of Prayer",
+            "text": "<p><em>Edith Schaeffer</em></p><p>For the one wanting to be encouraged by the reality of the power of prayer in our everyday lives</p>",
+            "button_label": "Choose This Tool",
+            "button_link": "https://www.amazon.com/Life-Prayer-Edith-Schaeffer/dp/0891076492"
+          }
+        },
+        "text_block_9UqNkz": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Pray-the-Word-David-Platt.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Pray the Word",
+            "text": "<p>—<em>a podcast</em>—</p><p>For the one wanting to pray through the Scriptures alongside David Platt</p>",
+            "button_label": "Choose This Tool",
+            "button_link": ""
+          }
+        },
+        "text_block_RMQXQW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Echo-Prayer-App_86b715a6-a7df-4b8e-bfba-4c61a3952b07.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Echo",
+            "text": "<p>—<em>an app</em>—</p><p>For the one wanting an app to encourage daily prayer</p>",
+            "button_label": "Choose This Tool",
+            "button_link": "https://new.echoprayer.com/"
+          }
+        },
+        "text_block_gwrMCh": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Prayer-Lockscreens.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Lord's Prayer Lock Screens",
+            "text": "<p>—<em>Scripture Lock Screens</em>—</p><p>For the one wanting a daily reminder of the Lord’s Prayer on their phone</p>",
+            "button_label": "Choose This Tool",
+            "button_link": "https://hosannarevival.com/blogs/lock-screens"
+          }
         }
       },
       "block_order": [
         "text_block_wDpYbr",
         "text_block_tFCfCx",
-        "text_block_gwVn4i"
+        "text_block_gwVn4i",
+        "text_block_BXCeBt",
+        "text_block_BKwNcQ",
+        "text_block_nLbFHn",
+        "text_block_9UqNkz",
+        "text_block_RMQXQW",
+        "text_block_gwrMCh"
       ],
       "settings": {
         "title": "",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "slideshow_Acrct4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_a6fgWH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Download the \nPrayer Toolkit",
+            "title_size": 80,
+            "subheading": "Your Free Downloadable PDF",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-010.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_a6fgWH"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -1694,6 +1813,7 @@
     "combined-content-section-4",
     "slideshow_HqwRQg",
     "combined-content-section-5",
-    "text_columns_LEt89R"
+    "text_columns_LEt89R",
+    "slideshow_Acrct4"
   ]
 }
