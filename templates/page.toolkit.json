@@ -1290,6 +1290,10 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "combined-content-section-9": {
+      "type": "toolkit",
+      "settings": {}
     }
   },
   "order": [
@@ -1315,6 +1319,7 @@
     "slideshow_pmMrYq",
     "combined-content-section-6",
     "contact_form_L6WKGa",
-    "slideshow_jETKkB"
+    "slideshow_jETKkB",
+    "combined-content-section-9"
   ]
 }
