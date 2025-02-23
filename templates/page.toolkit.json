@@ -69,6 +69,7 @@
         "single_button_HAKBqL": {
           "type": "single-button",
           "settings": {
+            "secondary": false,
             "button_text": "Download the Bible Toolkit PDF",
             "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
             "button_size": "medium",
@@ -156,6 +157,7 @@
         "single_button_R4hYYF": {
           "type": "single-button",
           "settings": {
+            "secondary": false,
             "button_text": "Download the Bible Toolkit PDF",
             "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
             "button_size": "medium",
@@ -1364,6 +1366,7 @@
         "single_button_jdd4aE": {
           "type": "single-button",
           "settings": {
+            "secondary": true,
             "button_text": "Start Reading",
             "button_link": "https://hosannarevival.blog/",
             "button_size": "medium",
