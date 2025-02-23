@@ -61,58 +61,7 @@
 
 <div class="index-section">
   <div class="page-width feature-row-wrapper feature-row--{{ block.settings.image_width }}">
-    <div class="feature-row">
-      {% if block.settings.layout == 'right' %}
-        <div class="feature-row__item feature-row__images aos-init aos-animate" data-aos="">
-          {% if block.settings.image2 != blank %}
-            <div class="feature-row__second-image">
-              <div class="image-wrap loaded" style="height: 0; padding-bottom: 125.0%;">
-                   {%- liquid
-                    if block.settings.image2 == blank
-                      assign sizeVariable = block.settings.image_width | append: 'vw'
-                      assign fallback = '100vw'
-                    else
-                      assign sizeVariable = 'calc(0.4 * 50vw)'
-                      assign fallback = '40vw'
-                    endif
-
-                    assign imageWidth = block.settings.image_width | times: 1
-                    if imageWidth >= 50
-                      assign loading = block.settings.lazyload_images
-                    else
-                      assign loading = true
-                    endif
-                  -%}
-                  {%- render 'image-element',
-                    img: block.settings.image,
-                    widths: '180, 360, 540, 750, 900, 1080',
-                    loading: loading,
-                    sizeVariable: sizeVariable,
-                    fallback: fallback,
-                    classes: 'feature-row__image',
-                  -%}
-              </div>
-            </div>
-          {% endif %}
-        </div>
-      {% endif %}
-
-      <div class="feature-row__item feature-row__text feature-row__text--{{ block.settings.layout }} text-{{ block.settings.align_text }} aos-init aos-animate" data-aos="">
-        {% if block.settings.subtitle != blank %}
-          <div class="h5 subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ block.settings.subtitle }}</div>
-        {% endif %}
-        {% if block.settings.title != blank %}
-          <h2 class="h3">{{ block.settings.title | escape }}</h2>
-        {% endif %}
-        {% if block.settings.text != blank %}
-          <div class="rte">{{ block.settings.text }}</div>
-        {% endif %}
-        {% if block.settings.button_label != blank %}
-          <a href="{{ block.settings.button_link }}" class="btn">{{ block.settings.button_label }}</a>
-        {% endif %}
-      </div>
-
-      {% if block.settings.layout == 'left' %}
+    {%- capture image_layout -%}
         <div class="feature-row__item feature-row__images aos-init aos-animate" data-aos="">
           {% if block.settings.image != blank %}
             <div class="feature-row__first-image">
@@ -144,8 +93,38 @@
               </div>
             </div>
           {% endif %}
+           {%- if block.settings.image == blank -%}
+            <div class="placeholder-image-wrap">
+              <div class="image-wrap">
+                {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+              </div>
+            </div>
+          {%- endif -%}
         </div>
-      {% endif %}
+      {% endcapture %}
+    <div class="feature-row">
+      {%- if block.settings.layout == 'left' -%}
+        {{ image_layout }}
+      {%- endif -%}
+
+      <div class="feature-row__item feature-row__text feature-row__text--{{ block.settings.layout }} text-{{ block.settings.align_text }} aos-init aos-animate" data-aos="">
+        {% if block.settings.subtitle != blank %}
+          <div class="h5 subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ block.settings.subtitle }}</div>
+        {% endif %}
+        {% if block.settings.title != blank %}
+          <h2 class="h3">{{ block.settings.title | escape }}</h2>
+        {% endif %}
+        {% if block.settings.text != blank %}
+          <div class="rte">{{ block.settings.text }}</div>
+        {% endif %}
+        {% if block.settings.button_label != blank %}
+          <a href="{{ block.settings.button_link }}" class="btn">{{ block.settings.button_label }}</a>
+        {% endif %}
+      </div>
+
+      {%- if section.settings.layout == 'right' -%}
+        {{ image_layout }}
+      {%- endif -%}
     </div>
   </div>
 </div>
@@ -560,11 +539,6 @@
       "type": "image_picker",
       "id": "image",
       "label": "Image"
-    },
-    {
-      "type": "image_picker",
-      "id": "image2",
-      "label": "Secondary Image"
     },
     {
       "type": "range",
