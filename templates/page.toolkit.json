@@ -413,44 +413,28 @@
         "lazyload_images": true
       }
     },
-    "rich_text_Xdwdzn": {
-      "type": "rich-text",
+    "combined-content-section-2": {
+      "type": "toolkit",
       "blocks": {
-        "heading_AL9hPm": {
-          "type": "heading",
+        "rich_text_mm76PX": {
+          "type": "rich_text",
           "settings": {
-            "title": "What is the Bible"
-          }
-        },
-        "text_CAKmm9": {
-          "type": "text",
-          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "What is the Bible",
             "enlarge_text": true,
             "text": "<p>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
-        }
-      },
-      "block_order": [
-        "heading_AL9hPm",
-        "text_CAKmm9"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b5933a",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "combined-content-section-2": {
-      "type": "toolkit",
-      "blocks": {
+        },
         "rich_text_bwpV3p": {
           "type": "rich_text",
           "settings": {
@@ -510,6 +494,7 @@
         }
       },
       "block_order": [
+        "rich_text_mm76PX",
         "rich_text_bwpV3p",
         "rich_text_Gti4w6",
         "rich_text_iMEBcc"
@@ -1098,7 +1083,168 @@
     },
     "combined-content-section-4": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "rich_text_c4CVH9": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Suggested Place to Start",
+            "enlarge_text": true,
+            "text": "<p>If you are reading the Word for the first time, we suggest you start with John, a book at the beginning of the New Testament that details the life of Jesus. To get you started, <a href=\"https://hosannarevival.com/pages/study-of-john\" target=\"_blank\" title=\"Hosanna Revival John Reading Plan\">here is a reading plan of the book of John</a>. Our hope is that this guide will help you ask good questions and look at Scripture a little bit deeper.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_Qfx8b8": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Before You Read the Bible",
+            "enlarge_text": false,
+            "text": "<p><strong>Have a Plan</strong>: Having a plan to work through a specific book of the Bible encourages routine and consistency. Knowing exactly where you’re headed before you begin helps build structure and discipline into your daily time with God.</p><p><strong>Schedule a Time</strong>: Start your day with reading the Word if you can! Choose a specific time to help build consistency into your daily rhythms, and note that time in your reminders, calendar, or planner.</p><p><strong>Set the Scene: </strong>Prepare your environment to provide a space to focus. Remember, this does not have to be perfect! What is most important is that you show up before the Lord.</p><p>- Put your phone on airplane mode to eliminate distractions</p><p>- Set a timer if you have a time limit</p><p>- Find a consistent, distraction-free reading space </p><p>- Don’t get caught up with aesthetics. Our time with God does not have to be Instagram worthy—God’s presence is everywhere!</p><p><strong>Start with Prayer: </strong><em>Always begin with prayer. </em>When you open the Bible, ask God to teach you exactly what you need through his Word. Ask him to calm your mind and give you focus and attention to hear what he has to say. Pray that your time reading the Word would spark worship in your heart. </p><p></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_btkiHV": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Open Your Bible",
+            "enlarge_text": true,
+            "text": "<p>—pause to open your Bible right now—</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_kAXfLx": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 0,
+            "heading": "While You Read the Bible",
+            "enlarge_text": true,
+            "text": "<p>The Bible tells us to dwell on the Word. Jesus himself says in John 15:5, “Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.” Here are some practical ways to abide in Jesus as you read Scripture.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_aX97yH": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 35,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": false,
+            "text": "<p><strong>Journal Alongside Scripture </strong><br/><em>Journaling alongside the Word looks different for everyone, but here are some ways to begin.<br/>Before</em>: Lay your joys and concerns before Jesus by journaling initial thoughts or prayers.<br/><em>During</em>: Copy down meaningful verses  in a journal or directly in your Bible while you read.<br/><em>After</em>: Summarize what you just read and any application you’re taking with you.</p><p><strong>Memorize Scripture</strong><br/><em>Choose a core verse or phrase from your reading to memorize. </em></p><p><strong>Pray Scripture<br/></strong><em>Turn Scripture into a guide for prayer by praying the words over yourself or someone else. </em></p><p><strong>Supplement Scripture<br/></strong><em>Look up materials online to reference alongside your reading. </em><a href=\"https://www.studylight.org/commentary.html\" target=\"_blank\" title=\"https://www.studylight.org/commentary.html\"><em>Use StudyLight to access dozens of commentaries on any given verse.</em></a></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_gbWTed": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Start Reading",
+            "enlarge_text": true,
+            "text": "<p>—pause and actually read Scripture right here, right now—</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_c4CVH9",
+        "rich_text_Qfx8b8",
+        "rich_text_btkiHV",
+        "rich_text_kAXfLx",
+        "rich_text_aX97yH",
+        "rich_text_gbWTed"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "slideshow_Ni3WAk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Vig7Rf": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "After You Read the Bible",
+            "title_size": 72,
+            "subheading": "Finding Community",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Vig7Rf"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -1108,7 +1254,6 @@
     "b8f496ca-7e30-4276-90dc-9541ba4ba935",
     "single_button_c6DLNw",
     "slideshow_WAW3ad",
-    "rich_text_Xdwdzn",
     "combined-content-section-2",
     "slideshow_V8dgkY",
     "rich_text_EbC3zk",
@@ -1125,6 +1270,7 @@
     "slideshow_pTbpEF",
     "rich_text_7JBgdJ",
     "text_columns_tdX6ie",
-    "combined-content-section-4"
+    "combined-content-section-4",
+    "slideshow_Ni3WAk"
   ]
 }
