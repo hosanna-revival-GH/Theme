@@ -1293,7 +1293,148 @@
     },
     "combined-content-section-9": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "rich_text_FfHxYj": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p>You did it! You’re diving into the life-giving words of Scripture and getting to know the person of Jesus. As you continue this journey, we would like to supply you with resources and tools that are helpful for reading your Bible and navigating what it means to live life with Jesus as Lord. Below are some of our favorites.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_W4mBxQ": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 0,
+            "heading": "Recommended Resources",
+            "enlarge_text": false,
+            "text": "",
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
+          }
+        },
+        "single_image_UVrRTQ": {
+          "type": "single_image",
+          "settings": {
+            "image": "shopify://shop_images/WHEN-from-Hosanna-Revival.png",
+            "image_link": "",
+            "image_width": 650,
+            "space_above": 50,
+            "space_below": 50
+          }
+        },
+        "rich_text_Pf6Gbf": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 0,
+            "space_below": 0,
+            "heading": "WHEN Articles",
+            "enlarge_text": false,
+            "text": "<p><em>from Hosanna Revival</em></p><p>for the one searching for Scripture's truth in response to common questions</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 25
+          }
+        },
+        "single_button_jdd4aE": {
+          "type": "single-button",
+          "settings": {
+            "button_text": "Start Reading",
+            "button_link": "https://hosannarevival.blog/",
+            "button_size": "medium",
+            "alignment": "center",
+            "space_above": 30,
+            "space_below": 20
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_FfHxYj",
+        "rich_text_W4mBxQ",
+        "single_image_UVrRTQ",
+        "rich_text_Pf6Gbf",
+        "single_button_jdd4aE"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "text_columns_J9GKDy": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_qztLMz": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_DQhXrg": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_jBgAHf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_qztLMz",
+        "text_block_DQhXrg",
+        "text_block_jBgAHf"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -1320,6 +1461,7 @@
     "combined-content-section-6",
     "contact_form_L6WKGa",
     "slideshow_jETKkB",
-    "combined-content-section-9"
+    "combined-content-section-9",
+    "text_columns_J9GKDy"
   ]
 }
