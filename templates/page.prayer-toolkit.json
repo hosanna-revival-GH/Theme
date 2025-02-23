@@ -1199,6 +1199,59 @@
             "space_above": 75,
             "space_below": 75
           }
+        },
+        "rich_text_c8YUhB": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 35,
+            "heading": "The Lord’s Prayer",
+            "enlarge_text": true,
+            "text": "<p>The Lord’s Prayer is a wonderful prayer to pray verbatim or commit to memory, but it can also act as a guide to remind us what prayer is. A common way to think of this prayer structure is the acronym ACTS.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_Jp6Rdp": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 0,
+            "space_below": 0,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p><em>A = Adoration<br/>C = Confession<br/>T = Thanksgiving<br/>S = Supplication</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_and_image_expjkA": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-022.jpg",
+            "image_width": 50,
+            "subtitle": "The Lord's Prayer",
+            "title": "Adoration",
+            "text": "<p>While the Lord’s Prayer does not include these elements in this order, it does contain each one. It begins with adoration: “Our Father in heaven, hallowed be your name.” True prayer hallows God’s name and desires that others would also hallow his name. To hallow something is to honor it as holy. It is a recognition of who God is. In your own time of prayer, this might look like praising God for his kindness and mercy towards you or for giving you a new day. It might simply be telling God that you love him! Adoration to God can be expressed in many different ways, but one thing remains the same: God is the focus. We pray not to or though anyone else, but to God alone (Father, Son, and Holy Spirit).</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
         }
       },
       "block_order": [
@@ -1208,7 +1261,10 @@
         "faq_yEEa9M",
         "faq_KEafGL",
         "rich_text_WJVYPa",
-        "single_image_UBnwB8"
+        "single_image_UBnwB8",
+        "rich_text_c8YUhB",
+        "rich_text_Jp6Rdp",
+        "text_and_image_expjkA"
       ],
       "settings": {
         "space_above": 0,
