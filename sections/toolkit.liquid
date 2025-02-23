@@ -59,42 +59,46 @@
 
 {% if block_settings.divider %}<div class="section--divider"></div>{% endif %}
 
-<div class="index-section{% unless block_settings.top_padding %} no-top-padding{% endunless %}{% unless block_settings.bottom_padding %} no-bottom-padding{% endunless %}">
-  <div class="page-width">
-    <div class="feature-row feature-row--{{ block_settings.layout }} text-{{ block_settings.align_text }}">
+{% assign block_settings = block.settings %}
+
+<div class="index-section">
+  <div class="page-width feature-row-wrapper feature-row--{{ block_settings.image_width }}">
+    <div class="feature-row">
       {% if block_settings.layout == 'right' %}
-        <div class="feature-row__text">
-          {% if block_settings.title != blank %}
-            <h2>{{ block_settings.title }}</h2>
-          {% endif %}
-          {% if block_settings.text != blank %}
-            <div class="rte">{{ block_settings.text }}</div>
-          {% endif %}
-          {% if block_settings.button_label != blank %}
-            <a href="{{ block_settings.button_link }}" class="btn">{{ block_settings.button_label }}</a>
+        <div class="feature-row__item feature-row__images aos-init aos-animate" data-aos="">
+          {% if block_settings.image2 != blank %}
+            <div class="feature-row__second-image">
+              <div class="image-wrap loaded" style="height: 0; padding-bottom: 125.0%;">
+                {% render 'image-element', img: block_settings.image2, class: 'feature-row__image', width: '1080', height: '1350' %}
+              </div>
+            </div>
           {% endif %}
         </div>
       {% endif %}
 
-      <div class="feature-row__image">
-        {% if block_settings.image != blank %}
-          {% render 'image-element', img: block_settings.image, classes: 'feature-row__primary-image' %}
+      <div class="feature-row__item feature-row__text feature-row__text--{{ block_settings.layout }} text-{{ block_settings.align_text }} aos-init aos-animate" data-aos="">
+        {% if block_settings.subtitle != blank %}
+          <div class="h5 subheading">{{ block_settings.subtitle }}</div>
         {% endif %}
-        {% if block_settings.image2 != blank %}
-          {% render 'image-element', img: block_settings.image2, classes: 'feature-row__secondary-image' %}
+        {% if block_settings.title != blank %}
+          <h2 class="h3">{{ block_settings.title | escape }}</h2>
+        {% endif %}
+        {% if block_settings.text != blank %}
+          <div class="rte">{{ block_settings.text }}</div>
+        {% endif %}
+        {% if block_settings.button_label != blank %}
+          <a href="{{ block_settings.button_link }}" class="btn">{{ block_settings.button_label }}</a>
         {% endif %}
       </div>
 
       {% if block_settings.layout == 'left' %}
-        <div class="feature-row__text">
-          {% if block_settings.title != blank %}
-            <h2>{{ block_settings.title }}</h2>
-          {% endif %}
-          {% if block_settings.text != blank %}
-            <div class="rte">{{ block_settings.text }}</div>
-          {% endif %}
-          {% if block_settings.button_label != blank %}
-            <a href="{{ block_settings.button_link }}" class="btn">{{ block_settings.button_label }}</a>
+        <div class="feature-row__item feature-row__images aos-init aos-animate" data-aos="">
+          {% if block_settings.image != blank %}
+            <div class="feature-row__first-image">
+              <div class="image-wrap loaded" style="height: 0; padding-bottom: 125.0%;">
+                {% render 'image-element', img: block_settings.image, class: 'feature-row__image', width: '1080', height: '1350' %}
+              </div>
+            </div>
           {% endif %}
         </div>
       {% endif %}
@@ -488,7 +492,7 @@
     }
   ],
   },
-    {
+{
   "type": "text_and_image",
   "name": "Text and Image Block",
   "settings": [
@@ -517,6 +521,15 @@
       "type": "image_picker",
       "id": "image2",
       "label": "Secondary Image"
+    },
+    {
+      "type": "range",
+      "id": "image_width",
+      "label": "Image Width",
+      "min": 25,
+      "max": 100,
+      "default": 50,
+      "unit": "%"
     },
     {
       "type": "text",
@@ -557,24 +570,6 @@
         }
       ],
       "default": "left"
-    },
-    {
-      "type": "checkbox",
-      "id": "divider",
-      "label": "Show Divider",
-      "default": false
-    },
-    {
-      "type": "checkbox",
-      "id": "top_padding",
-      "label": "Top Padding",
-      "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "bottom_padding",
-      "label": "Bottom Padding",
-      "default": true
     }
   ]
 }
