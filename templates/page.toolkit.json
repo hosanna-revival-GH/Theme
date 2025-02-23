@@ -419,7 +419,7 @@
             "answer": "<p>Sometimes, the Bible seems like an unclimbable mountain of 66 books divided into 1,189 chapters. We can discourage ourselves by thinking we have to read a certain amount every time we open it, or that we have to read through the Bible at least once every year. Those aren’t bad things—spiritual discipline is very important in the life of the Christian. In fact, a simple 15 minutes of daily reading will get you through the whole Bible in a year. However, even though that’s a small time commitment, many us still find ourselves saying we “don’t have enough time.” If we’re honest with ourselves, however, we would probably admit that we don’t actually need more time; we simply need to better prioritize the time we have.</p><p>If we truly believe God is who he says he is and that the Bible truly is God’s Word, we will rearrange our priorities around God, rather than giving him what’s left. Below you will find many practical tips for diving into the Word of God that can spur you on to make space for God's Word.</p><p><em>Check out our WHEN article \"</em><a href=\"https://hosannarevival.blog/when-reading-the-bible-isnt-a-priority/\" target=\"_blank\" title=\"When Reading the Bible is Hard to Prioritize, an article by Hosanna Revival\"><em>When Reading the Bible is Hard to Prioritize</em></a><em>\"</em></p>",
             "align_text": "left",
             "space_above": 0,
-            "space_below": 0
+            "space_below": 75
           }
         }
       },
@@ -433,7 +433,8 @@
         "question_pfXcjn"
       ],
       "custom_css": [
-        ".collapsible-trigger {font-size: 1.3em;}"
+        ".collapsible-trigger {font-size: 1.3em;}",
+        ".rte.collapsible-content__inner--faq {padding-left: 42px; padding-bottom: 30px;}"
       ],
       "settings": {
         "space_above": 0,
