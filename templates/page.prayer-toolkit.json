@@ -1071,7 +1071,42 @@
       ],
       "settings": {
         "space_above": 0,
-        "space_below": 75
+        "space_below": 0
+      }
+    },
+    "slideshow_3K4YqU": {
+      "type": "slideshow",
+      "blocks": {
+        "image_38BMeH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "How to Pray",
+            "title_size": 72,
+            "subheading": "Before You Pray and What to Pray",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-014.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_38BMeH"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -1092,6 +1127,7 @@
     "rich_text_Fb4tBq",
     "slideshow_eRaCAm",
     "rich_text_F36xrC",
-    "combined-content-section"
+    "combined-content-section",
+    "slideshow_3K4YqU"
   ]
 }
