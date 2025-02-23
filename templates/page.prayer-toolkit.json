@@ -17,10 +17,6 @@
         "page_content_enable": false
       }
     },
-    "combined-content-section-1": {
-      "type": "toolkit",
-      "settings": {}
-    },
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c": {
       "type": "slideshow",
       "blocks": {
@@ -56,50 +52,47 @@
         "lazyload_images": false
       }
     },
-    "bda355ba-be8d-42d7-b144-275b6cefb6a3": {
-      "type": "rich-text",
+    "combined-content-section-1": {
+      "type": "toolkit",
       "blocks": {
-        "heading_1": {
-          "type": "heading",
+        "rich_text_pXFcWB": {
+          "type": "rich_text",
           "settings": {
-            "title": ""
-          }
-        },
-        "text_1": {
-          "type": "text",
-          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
             "enlarge_text": true,
             "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. Perhaps you have struggled with understanding <em>why</em> we pray. You may wonder, <em>Does God always hear every prayer? Does prayer change God’s mind? What’s the point of praying if God knows everything? </em>Or maybe you fully understand why you pray, but have a hard time with a consistent prayer life.</p><p>Wherever you are, this guide is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline. Let’s get started!</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "block_bottom_space": 20
+          }
+        },
+        "single_button_HAKBqL": {
+          "type": "single-button",
+          "settings": {
+            "button_text": "Download the prayer toolkit",
+            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
+            "button_size": "medium",
+            "alignment": "center",
+            "space_above": 0,
+            "space_below": 10
           }
         }
       },
       "block_order": [
-        "heading_1",
-        "text_1"
+        "rich_text_pXFcWB",
+        "single_button_HAKBqL"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 15
-      }
-    },
-    "9b3ada5d-6035-4418-bf90-53300bb2b25d": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Download the prayer toolkit",
-        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
-        "button_size": "medium",
-        "alignment": "center",
-        "space_above": 45,
-        "space_below": 45
+        "space_above": 0,
+        "space_below": 75
       }
     },
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5": {
@@ -797,21 +790,6 @@
     "combined-content-section": {
       "type": "toolkit",
       "blocks": {
-        "hero-block-001": {
-          "type": "hero",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Prayer-Toolkit-Model-Moodboard-009.jpg",
-            "title": "Hero Title",
-            "subheading": "Hero Subheading",
-            "link": "",
-            "link_text": "",
-            "color_accent": "",
-            "text_align": "center",
-            "title_size": 72,
-            "parallax": false
-          }
-        },
         "rich_text_mzdpqG": {
           "type": "rich_text",
           "settings": {
@@ -950,7 +928,6 @@
         }
       },
       "block_order": [
-        "hero-block-001",
         "rich_text_mzdpqG",
         "rich_text_9YYb77",
         "faq_fWrN3G",
@@ -970,10 +947,8 @@
   },
   "order": [
     "main",
-    "combined-content-section-1",
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c",
-    "bda355ba-be8d-42d7-b144-275b6cefb6a3",
-    "9b3ada5d-6035-4418-bf90-53300bb2b25d",
+    "combined-content-section-1",
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
     "b8f496ca-7e30-4276-90dc-9541ba4ba935",
     "single_button_c6DLNw",
