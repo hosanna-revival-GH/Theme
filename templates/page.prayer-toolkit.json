@@ -801,12 +801,12 @@
             "color_bg": "#ffffff",
             "color_text": "#000000",
             "space_above": 75,
-            "space_below": 75,
+            "space_below": 35,
             "heading": "",
             "enlarge_text": true,
             "text": "<p>Sometimes we simply have no words. Maybe you are completely overwhelmed by your life circumstances and you don’t even know where to begin. Perhaps you have a desire to pray, but don't know the “right words” to pray. In times like these, God can feel distant and prayer can feel an unfinished “task” hanging over your head. If that sounds like you, hear this encouragement: God understands and wants to be your strength.</p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "block_bottom_space": 0
           }
         },
         "faq_fWrN3G": {
