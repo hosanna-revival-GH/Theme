@@ -101,9 +101,6 @@
 
       <div class="feature-row__item feature-row__text feature-row__text--{{ block_settings.layout }} text-{{ block_settings.align_text }} aos-init aos-animate" data-aos="">
         {% if block_settings.subtitle != blank %}
-          <div class="h5 subheading">{{ block_settings.subtitle }}</div>
-        {% endif %}
-        {% if block_settings.subtitle != blank %}
           <div class="h5 subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ block.settings.subtitle }}</div>
         {% endif %}
         {% if block_settings.title != blank %}
