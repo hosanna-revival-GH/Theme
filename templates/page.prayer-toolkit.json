@@ -1779,6 +1779,27 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "text_and_image_FY9hkn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Download Our",
+        "title": "Prayer Toolkit",
+        "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. </p><p>Wherever you are, this free downloadable PDF is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline.</p>",
+        "button_label": "Download PDF",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Prayer-Toolkit-Hosanna-Revival.pdf?v=1633964122",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -1805,6 +1826,7 @@
     "slideshow_HqwRQg",
     "combined-content-section-5",
     "text_columns_LEt89R",
-    "slideshow_Acrct4"
+    "slideshow_Acrct4",
+    "text_and_image_FY9hkn"
   ]
 }
