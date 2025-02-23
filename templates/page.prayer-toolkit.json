@@ -1111,7 +1111,98 @@
     },
     "combined-content-section-3": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "rich_text_YNUea8": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#949276",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Before You Pray",
+            "enlarge_text": true,
+            "text": "<p>Prayer is a matter of the heart. Therefore, it can happen anywhere, any time. You can pray while standing in line at the BMV or while you’re driving in your car. You can pray while you’re jogging or as you drift off to sleep. However, when setting aside a specific time and place for prayer, there are a few practical things you can do to help “set the mood” and keep your mind and heart focused on God. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "faq_TB3AXc": {
+          "type": "faq",
+          "settings": {
+            "question": "Silence Distraction",
+            "answer": "<p>How many times have you intended to pray only to find yourself scrolling Instagram a few minutes later? We are so easily distracted on our own, but any time we intend to commune with God, the enemy ramps up the distractions. Be intentional about silencing as many distractions as you can. Turn off the TV. Put your phone on airplane mode. Close the door. Small things like this can help greatly to silence the things that may easily distract you from intentional, focused prayer.</p>",
+            "align_text": "left",
+            "space_above": 75,
+            "space_below": 0
+          }
+        },
+        "faq_YzgQF3": {
+          "type": "faq",
+          "settings": {
+            "question": "Find a Quiet Space",
+            "answer": "<p>If you have been following Jesus for a while, you may have heard the term “prayer closet.” This term comes from Matthew 6 just before the Lord’s Prayer. Jesus told his disciples, “when you pray, go into your room and shut the door and pray to your Father who is in secret.” This doesn’t necessarily mean that you should have a secret, designated closet or room in your house that is only to be used for prayer. But it does help us understand an important truth: pray in a quiet, private place.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_yEEa9M": {
+          "type": "faq",
+          "settings": {
+            "question": "Make a List",
+            "answer": "<p>One of the most helpful ways to pray intentional prayers is to create a list beforehand. Make a list of the people in your life with urgent, specific needs. Make a list of the friends and family who do not know Jesus. Make a list of your own needs and desires. Bring that list with you into your prayer time to help you stay on track, praying intentionally over each and every person or item on that list.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_KEafGL": {
+          "type": "faq",
+          "settings": {
+            "question": "Set the Mood",
+            "answer": "<p>This may seem silly, but we all know the things that help us focus. Maybe it’s playing soft, instrumental music. Maybe it’s lighting a candle or diffusing your favorite essential oil. Whatever it is for you, create a comfortable, distraction-free environment that is conducive to calm and focus your mind on prayer.</p><p>We understand that finding quiet places of solitude can be difficult during various seasons of life. Whether it’s working long hours, raising small children, or whatever it may be, quiet places and times of solitude can seem like an impossible dream. If that sounds like you, be encouraged: your time of prayer doesn’t have to be perfect. Seek space wherever you can find it. The Lord hears the cries of our hearts even when they’re lifted to him while the kids are eating breakfast, as you drift to sleep after working a 12-hour shift, or while you’re driving in the car. Jesus doesn’t want perfection—he wants <em>you</em>.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 75
+          }
+        },
+        "rich_text_WJVYPa": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#949276",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "What to Pray",
+            "enlarge_text": true,
+            "text": "<p>We’ve covered many different topics related to prayer, but now we come to the  ultra-practical topic: <em>how</em> to pray. A quick Google search will return about 8 billion results, but we believe the best example comes from Jesus himself in the Lord’s Prayer.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_YNUea8",
+        "faq_TB3AXc",
+        "faq_YzgQF3",
+        "faq_yEEa9M",
+        "faq_KEafGL",
+        "rich_text_WJVYPa"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 0
+      }
     }
   },
   "order": [
