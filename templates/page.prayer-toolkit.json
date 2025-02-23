@@ -1189,6 +1189,16 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "single_image_UBnwB8": {
+          "type": "single_image",
+          "settings": {
+            "image": "shopify://shop_images/The-Lords-Prayer-Handwriting-Hosanna-Revival.png",
+            "image_link": "",
+            "image_width": 800,
+            "space_above": 75,
+            "space_below": 75
+          }
         }
       },
       "block_order": [
@@ -1197,7 +1207,8 @@
         "faq_YzgQF3",
         "faq_yEEa9M",
         "faq_KEafGL",
-        "rich_text_WJVYPa"
+        "rich_text_WJVYPa",
+        "single_image_UBnwB8"
       ],
       "settings": {
         "space_above": 0,
