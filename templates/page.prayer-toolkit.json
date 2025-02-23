@@ -52,10 +52,6 @@
         "lazyload_images": false
       }
     },
-    "combined-content-section-2": {
-      "type": "toolkit",
-      "settings": {}
-    },
     "combined-content-section-1": {
       "type": "toolkit",
       "blocks": {
@@ -471,6 +467,33 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "combined-content-section-2": {
+      "type": "toolkit",
+      "blocks": {
+        "text_and_image_xjTRbw": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-019_2a19f694-916a-452e-9522-a8c4cd567d7a.jpg",
+            "image_width": 50,
+            "subtitle": "Prayer Is...",
+            "title": "Communicating with God",
+            "text": "<p>Prayer is coming before our Father in heaven (Matthew 6:9-13), expressing our heart’s deepest needs to him. In a sense, prayer is a recognition and confession of our dependence on God. </p><p>The Bible describes prayer as sweet-smelling incense offered to God (Psalm 141:2; Revelation 8:3-4). In the Scripture, prayer is often a cry to God for help (Psalm 34:6, 17). It is casting all your cares and anxieties on God, knowing that he cares for you deeply (1 Peter 5:7). In short, prayer is making your needs known to God—<em>all</em> your needs—regardless of how big or small they may seem.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        }
+      },
+      "block_order": [
+        "text_and_image_xjTRbw"
+      ],
+      "settings": {
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "rich_text_DAiUt4": {
@@ -1101,7 +1124,6 @@
   "order": [
     "main",
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c",
-    "combined-content-section-2",
     "combined-content-section-1",
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
     "b8f496ca-7e30-4276-90dc-9541ba4ba935",
@@ -1111,6 +1133,7 @@
     "text_and_image_AyJgJ3",
     "text_and_image_WxVcft",
     "text_and_image_JAUTmt",
+    "combined-content-section-2",
     "rich_text_DAiUt4",
     "faq_8t8Te3",
     "slideshow_V8dgkY",
