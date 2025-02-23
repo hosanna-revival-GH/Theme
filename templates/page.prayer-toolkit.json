@@ -1572,26 +1572,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    },
-    "text_and_image_Ar7LmC": {
-      "type": "text-and-image",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -1616,7 +1596,6 @@
     "combined-content-section-3",
     "slideshow_QEGdn9",
     "combined-content-section-4",
-    "slideshow_HqwRQg",
-    "text_and_image_Ar7LmC"
+    "slideshow_HqwRQg"
   ]
 }
