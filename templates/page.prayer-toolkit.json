@@ -1575,7 +1575,45 @@
     },
     "combined-content-section-5": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "text_and_image_8qjeYX": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/5-Year-Prayer-Journal-One-Thing-I-Ask-Hosanna-Revival-Toolkit-1.jpg",
+            "image_width": 50,
+            "subtitle": "Track 5 Years of Prayers with the",
+            "title": "\"One Thing I Ask\" Prayer Journal",
+            "text": "<p>This keepsake journal was designed to help you remember the faithfulness of God as you journal your prayers. It contains 366 unprompted daily spreads with five entries per day to document your prayers over five years. Each date offers 7 lines per day where you can summarize your prayers into short phrases, or jot them down as bullet points. Over the next five years, this journal will become an active record of the movement of God in your life.</p><p></p>",
+            "button_link": "https://hosannarevival.com/collections/one-thing-i-ask",
+            "button_label": "Choose My Journal",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "testimonials_KpkHWd": {
+          "type": "testimonials",
+          "settings": {
+            "title": "",
+            "align_text": "center",
+            "round_images": false,
+            "testimonial_1": "<p>\"Creating a bulleted list of my prayer requests keeps me on track during my daily prayer time.\"</p>",
+            "image1_width": 300,
+            "author_1": "Alyssa R. —",
+            "testimonial_2": "<p>\"This has reignited in me a desire to pray and has helped me to find joy and consistency in prayer.\" </p>",
+            "image2_width": 300,
+            "author_2": "Alexa G. —"
+          }
+        }
+      },
+      "block_order": [
+        "text_and_image_8qjeYX",
+        "testimonials_KpkHWd"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
