@@ -1409,36 +1409,6 @@
             "align_text": "left",
             "lazyload_images": true
           }
-        },
-        "faq_LVGpRf": {
-          "type": "faq",
-          "settings": {
-            "question": "Trust His Timing",
-            "answer": "<p>God’s timing is perfect. He knows the end from the beginning, and he knows exactly how—and when—to answer your prayers. Psalm 37:7 says, “Be still before the LORD and wait patiently for him.” God is always moving and always working all things for our good and his glory. Trust in the Lord and wait patiently for him; stand firm and see the salvation of the Lord (Exodus 14:13).</p>",
-            "align_text": "left",
-            "space_above": 75,
-            "space_below": 0
-          }
-        },
-        "faq_VkCjgX": {
-          "type": "faq",
-          "settings": {
-            "question": "Walk in Obedience",
-            "answer": "<p>St. Augustine once said, “Pray as though everything depended on God. Work as though everything depended on you.” Now, we have to be wise here. Augustine is not suggesting that we pray that God saves our unbelieving friends, then acting as though their salvation depends on us. Rather, we should not ask God to save our unbelieving friends and then never tell them about Jesus. If we truly believe God will answer our prayers, our actions will prove that faith. As the true but cheesy saying goes, “Hope is praying for rain; faith is carrying an umbrella.” Pray big, bold prayers, then live expectantly, walking in obedience to his will.</p>",
-            "align_text": "left",
-            "space_above": 0,
-            "space_below": 0
-          }
-        },
-        "faq_pnWhEa": {
-          "type": "faq",
-          "settings": {
-            "question": "Listen for God",
-            "answer": "<p>Prayer is communing with God. In part, that means we talk to God. But communion is two-way; God also speaks to us. After you pray, be attentive to  the voice of God.</p><p><strong>Read his Word.</strong> Quiet yourself and wait for him to speak. It may be he wants to share something more with you, or give you further insight into a situation. He may want to tell you that his grace is sufficient for you, reminding you that his strength is made perfect in your weakness. Don’t just talk to God—he desires  to talk to you, too.</p><p><strong>Share prayer requests with wise, trusted friends.</strong> God often speaks through other believers who know his Word. Trusted friends who love Jesus and walk with him daily can speak words of wisdom, encouragement, and even correction when needed.  </p>",
-            "align_text": "left",
-            "space_above": 0,
-            "space_below": 75
-          }
         }
       },
       "block_order": [
@@ -1462,10 +1432,7 @@
         "faq_Hy4zFW",
         "faq_Cd8f4L",
         "rich_text_QECX8e",
-        "text_and_image_4NatM8",
-        "faq_LVGpRf",
-        "faq_VkCjgX",
-        "faq_pnWhEa"
+        "text_and_image_4NatM8"
       ],
       "settings": {
         "space_above": 0,
@@ -1506,6 +1473,47 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "combined-content-section-4": {
+      "type": "toolkit",
+      "blocks": {
+        "faq_LVGpRf": {
+          "type": "faq",
+          "settings": {
+            "question": "Trust His Timing",
+            "answer": "<p>God’s timing is perfect. He knows the end from the beginning, and he knows exactly how—and when—to answer your prayers. Psalm 37:7 says, “Be still before the LORD and wait patiently for him.” God is always moving and always working all things for our good and his glory. Trust in the Lord and wait patiently for him; stand firm and see the salvation of the Lord (Exodus 14:13).</p>",
+            "align_text": "left",
+            "space_above": 75,
+            "space_below": 0
+          }
+        },
+        "faq_VkCjgX": {
+          "type": "faq",
+          "settings": {
+            "question": "Walk in Obedience",
+            "answer": "<p>St. Augustine once said, “Pray as though everything depended on God. Work as though everything depended on you.” Now, we have to be wise here. Augustine is not suggesting that we pray that God saves our unbelieving friends, then acting as though their salvation depends on us. Rather, we should not ask God to save our unbelieving friends and then never tell them about Jesus. If we truly believe God will answer our prayers, our actions will prove that faith. As the true but cheesy saying goes, “Hope is praying for rain; faith is carrying an umbrella.” Pray big, bold prayers, then live expectantly, walking in obedience to his will.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_pnWhEa": {
+          "type": "faq",
+          "settings": {
+            "question": "Listen for God",
+            "answer": "<p>Prayer is communing with God. In part, that means we talk to God. But communion is two-way; God also speaks to us. After you pray, be attentive to  the voice of God.</p><p><strong>Read his Word.</strong> Quiet yourself and wait for him to speak. It may be he wants to share something more with you, or give you further insight into a situation. He may want to tell you that his grace is sufficient for you, reminding you that his strength is made perfect in your weakness. Don’t just talk to God—he desires  to talk to you, too.</p><p><strong>Share prayer requests with wise, trusted friends.</strong> God often speaks through other believers who know his Word. Trusted friends who love Jesus and walk with him daily can speak words of wisdom, encouragement, and even correction when needed.  </p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 75
+          }
+        }
+      },
+      "block_order": [
+        "faq_LVGpRf",
+        "faq_VkCjgX",
+        "faq_pnWhEa"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -1528,6 +1536,7 @@
     "combined-content-section",
     "slideshow_3K4YqU",
     "combined-content-section-3",
-    "slideshow_HqwRQg"
+    "slideshow_HqwRQg",
+    "combined-content-section-4"
   ]
 }
