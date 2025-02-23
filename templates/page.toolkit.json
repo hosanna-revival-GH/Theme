@@ -1349,7 +1349,7 @@
             "narrow_column": true,
             "divider": false,
             "css-id": "",
-            "css-class": "",
+            "css-class": "smaller-heading",
             "color_bg": "#ffffff",
             "color_text": "#000000",
             "space_above": 0,
