@@ -1061,6 +1061,10 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "combined-content-section-3": {
+      "type": "toolkit",
+      "settings": {}
     }
   },
   "order": [
@@ -1084,6 +1088,7 @@
     "rich_text_h93XC7",
     "slideshow_Acrct4",
     "text_columns_LEt89R",
-    "text_and_image_FY9hkn"
+    "text_and_image_FY9hkn",
+    "combined-content-section-3"
   ]
 }
