@@ -122,7 +122,30 @@
           {% if block_settings.image != blank %}
             <div class="feature-row__first-image">
               <div class="image-wrap loaded" style="height: 0; padding-bottom: 125.0%;">
-                {% render 'image-element', img: block_settings.image, class: 'feature-row__image', width: '1080', height: '1350' %}
+                                   {%- liquid
+                    if block.settings.image2 == blank
+                      assign sizeVariable = block.settings.image_width | append: 'vw'
+                      assign fallback = '100vw'
+                    else
+                      assign sizeVariable = 'calc(0.4 * 50vw)'
+                      assign fallback = '40vw'
+                    endif
+
+                    assign imageWidth = block.settings.image_width | times: 1
+                    if imageWidth >= 50
+                      assign loading = block.settings.lazyload_images
+                    else
+                      assign loading = true
+                    endif
+                  -%}
+                  {%- render 'image-element',
+                    img: block.settings.image,
+                    widths: '180, 360, 540, 750, 900, 1080',
+                    loading: loading,
+                    sizeVariable: sizeVariable,
+                    fallback: fallback,
+                    classes: 'feature-row__image',
+                  -%}
               </div>
             </div>
           {% endif %}
