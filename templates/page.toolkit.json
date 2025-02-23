@@ -1168,7 +1168,103 @@
     },
     "combined-content-section-6": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "rich_text_BUYREK": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "WHAT IF I FIND MYSELF IN A RUT OR DRY SPELL?",
+            "enlarge_text": true,
+            "text": "<p>Even if you follow these steps, reading the Bible may not always be easy. The reality of life on earth is that ruts and dry spells can threaten to interrupt our time with Jesus, but pushing past these moments to stay rooted in the Word of God is worth it. Below are some specific ways to do this.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_JgecCx": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Quick Tips to Pushing Past a Rut",
+            "enlarge_text": false,
+            "text": "<p><strong>Lean into Community:</strong> Text a friend who knows Jesus or reach out to someone at church to meet up. Sometimes simply hearing someone else’s story will stir excitement in you as you hear how God is working right here and now.</p><p><strong>Find a New Study:</strong> We are big believers in the idea that getting your hands on something new and beautiful stirs your heart to want to jump in, so seek out a fresh perspective from an online study or grab a new devotional to fuel fresh passion!</p><p><strong>Start in the Psalms:</strong> When you are in a rough spot in life or are overwhelmed by long passages of Scripture, the Psalms is the perfect place to start. Read one a day to intentionally point your heart towards the Lord in worship.</p><p><strong>Read our WHEN articles:</strong> We’ve compiled a variety of responses to this topic from writers in our local community. <a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"Hosanna Revival WHEN articles\">Find relevant Scripture and action steps here</a>. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_Tw7KjQ": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "a note",
+            "enlarge_text": true,
+            "text": "<p>If your emotions don’t line up with what you think you should be feeling when reading the Word, remind yourself that the Bible holds THE truth—the good news—for this world. And if it is THE truth, it is fully capable of stirring the best emotions in you, even if you don’t feel them right now. </p><p>So realize that your disengagement or lack of excitement is not a result of the Bible losing any of its power or beauty, but rather simply a reflection of this broken world that clouds the beauty of the truth. </p><p>Give yourself grace for these off days when reading the Word is more of a discipline than a delight. And know that these pages are always always capable of stirring life in you because the words on them are living and active and pointing you to the one who is the Way, the Truth, and Life himself. So take heart and seek his life in these pages.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_Bzt8VR": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 0,
+            "heading": "Submit a Prayer Request",
+            "enlarge_text": true,
+            "text": "<p>As you take these brave and bold steps towards walking out truth, we would love to pray for you! Submit your prayer request below...</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_BUYREK",
+        "rich_text_JgecCx",
+        "rich_text_Tw7KjQ",
+        "rich_text_Bzt8VR"
+      ],
+      "settings": {
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "contact_form_L6WKGa": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
     }
   },
   "order": [
@@ -1195,6 +1291,7 @@
     "slideshow_Ni3WAk",
     "combined-content-section-5",
     "slideshow_pmMrYq",
-    "combined-content-section-6"
+    "combined-content-section-6",
+    "contact_form_L6WKGa"
   ]
 }
