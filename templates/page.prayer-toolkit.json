@@ -1335,6 +1335,110 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "faq_NfXqxp": {
+          "type": "faq",
+          "settings": {
+            "question": "Try to Understand the Psalm You’re Praying",
+            "answer": "<p>The Psalms are a collection of many songs and prayers. They were written at many different times and in many different contexts. Ask yourself, who is the writer of this psalm? What were they going through when they wrote this psalm? Many of the Psalms contain this information above each psalm, but you can also use a commentary like <a href=\"https://www.blueletterbible.org\" target=\"_blank\" title=\"Blue Letter Bible Commentary\">Blue Letter Bible</a> to help provide some helpful information about the psalm.</p>",
+            "align_text": "left",
+            "space_above": 75,
+            "space_below": 0
+          }
+        },
+        "faq_9RQLR7": {
+          "type": "faq",
+          "settings": {
+            "question": "Meditate on the Psalm",
+            "answer": "<p>Read the psalm (or section of the psalm) you intend to pray multiple times through. Read it slowly, chewing on each line and phrase. Does a particular verse resonate with your current life situation? Is there a particular word that sticks out to you or resonates with you? How would your life be different if you believed this psalm with all of your being? How can you apply the truth of this psalm to your life?</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_Hy4zFW": {
+          "type": "faq",
+          "settings": {
+            "question": "Praise God Using the Language of the Psalms",
+            "answer": "<p>Many of the Psalms include statements of worship to God for specific actions or attributes. Some of them may be new to you—maybe you’ve never praised God for the way he makes the “going out of the morning and the evening to shout for joy” (Psalm 65:8). The Psalms teach us a wonderful vocabulary of praise to include in our prayer.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_Cd8f4L": {
+          "type": "faq",
+          "settings": {
+            "question": "Pray!",
+            "answer": "<p>When you’re ready to pray, move slowly through the psalm. Pray it word-for-word or use the words as a guide for your situation. You may not have an army of enemies “encamping against you” (Psalm 27), but you may be facing many different struggles and attacks from the enemy. Pray through each verse you have chosen, and pray that God would give you faith to trust that he not only hears, but will answer you.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 75
+          }
+        },
+        "rich_text_QECX8e": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#949276",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Prayer Journaling",
+            "enlarge_text": true,
+            "text": "<p>One of the best ways to keep track of your prayers—and remember the faithfulness of God in prayer—is to journal them. Be sure to include the date of your prayer so you can look back over the years of God’s faithfulness in answering your prayers.</p><p>As you begin to record and track your prayers through journaling, you will build a record of what you’ve prayed for, when you prayed for it, and how God answered your prayers. Not only will this help build your trust in God, it will help you remember to thank him for prayers that you otherwise may have forgotten you prayed!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_and_image_4NatM8": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/One-Thing-I-Ask-5-Year-Prayer-Journal-Flatlay-Interior-008-1.jpg",
+            "image_width": 50,
+            "subtitle": "Prayer Journal with Our",
+            "title": "One Thing I Ask 5-Year Prayer Journal",
+            "text": "<p>When prayer journaling, you can use a simple notebook or a helpful tool like the <em>One Thing I Ask</em> five-year prayer journal from Hosanna Revival. This keepsake journal contains 366 unprompted daily spreads with five entries per day to document your prayers over five years. Each date offers 7 lines per day where you can summarize your prayers into short phrases, or jot them down as bullet points. Over the next five years, this journal will become an active record of God’s movement in your life. </p>",
+            "button_link": "https://hosannarevival.com/collections/one-thing-i-ask",
+            "button_label": "Choose my Journal",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "faq_LVGpRf": {
+          "type": "faq",
+          "settings": {
+            "question": "Trust His Timing",
+            "answer": "<p>God’s timing is perfect. He knows the end from the beginning, and he knows exactly how—and when—to answer your prayers. Psalm 37:7 says, “Be still before the LORD and wait patiently for him.” God is always moving and always working all things for our good and his glory. Trust in the Lord and wait patiently for him; stand firm and see the salvation of the Lord (Exodus 14:13).</p>",
+            "align_text": "left",
+            "space_above": 75,
+            "space_below": 0
+          }
+        },
+        "faq_VkCjgX": {
+          "type": "faq",
+          "settings": {
+            "question": "Walk in Obedience",
+            "answer": "<p>St. Augustine once said, “Pray as though everything depended on God. Work as though everything depended on you.” Now, we have to be wise here. Augustine is not suggesting that we pray that God saves our unbelieving friends, then acting as though their salvation depends on us. Rather, we should not ask God to save our unbelieving friends and then never tell them about Jesus. If we truly believe God will answer our prayers, our actions will prove that faith. As the true but cheesy saying goes, “Hope is praying for rain; faith is carrying an umbrella.” Pray big, bold prayers, then live expectantly, walking in obedience to his will.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_pnWhEa": {
+          "type": "faq",
+          "settings": {
+            "question": "Listen for God",
+            "answer": "<p>Prayer is communing with God. In part, that means we talk to God. But communion is two-way; God also speaks to us. After you pray, be attentive to  the voice of God.</p><p><strong>Read his Word.</strong> Quiet yourself and wait for him to speak. It may be he wants to share something more with you, or give you further insight into a situation. He may want to tell you that his grace is sufficient for you, reminding you that his strength is made perfect in your weakness. Don’t just talk to God—he desires  to talk to you, too.</p><p><strong>Share prayer requests with wise, trusted friends.</strong> God often speaks through other believers who know his Word. Trusted friends who love Jesus and walk with him daily can speak words of wisdom, encouragement, and even correction when needed.  </p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 75
+          }
         }
       },
       "block_order": [
@@ -1352,11 +1456,55 @@
         "text_and_image_EkCKrT",
         "text_and_image_hH3GJ9",
         "rich_text_x8ygF7",
-        "rich_text_WezrQQ"
+        "rich_text_WezrQQ",
+        "faq_NfXqxp",
+        "faq_9RQLR7",
+        "faq_Hy4zFW",
+        "faq_Cd8f4L",
+        "rich_text_QECX8e",
+        "text_and_image_4NatM8",
+        "faq_LVGpRf",
+        "faq_VkCjgX",
+        "faq_pnWhEa"
       ],
       "settings": {
         "space_above": 0,
         "space_below": 0
+      }
+    },
+    "slideshow_HqwRQg": {
+      "type": "slideshow",
+      "blocks": {
+        "image_8BzzLg": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Resources",
+            "title_size": 80,
+            "subheading": "Top Resources on Prayer",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-009.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_8BzzLg"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -1379,6 +1527,7 @@
     "rich_text_F36xrC",
     "combined-content-section",
     "slideshow_3K4YqU",
-    "combined-content-section-3"
+    "combined-content-section-3",
+    "slideshow_HqwRQg"
   ]
 }
