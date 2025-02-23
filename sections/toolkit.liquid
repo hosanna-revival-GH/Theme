@@ -55,10 +55,9 @@
   </div>
       
   {% when 'text_and_image' %}
-
-{% if block_settings.divider %}<div class="section--divider"></div>{% endif %}
-
+      
 {% assign block_settings = block.settings %}
+{% if block_settings.divider %}<div class="section--divider"></div>{% endif %}
 
 <div class="index-section">
   <div class="page-width feature-row-wrapper feature-row--{{ block_settings.image_width }}">
