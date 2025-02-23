@@ -840,6 +840,69 @@
         "lazyload_images": true
       }
     },
+    "rich_text_h93XC7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_m4Ek8Q": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Now that you’ve got an idea of your preferred translation, you’re ready to open up the Bible! </em>And to be honest, even though this seems simple, sometimes this is the hardest step. Whether the thought of opening this huge book <a href=\"https://hosannarevival.blog/when-you-dont-know-how-to-start-reading-your-bible/\" target=\"_blank\" title=\"When You Don't Know How to Start Reading Your Bible, a Hosanna Revival article\">feels overwhelming</a>, or whether you <a href=\"https://hosannarevival.blog/when-the-bible-doesnt-feel-exciting/\" target=\"_blank\" title=\"When the Bible doesn't feel exciting, a Hosanna Revival article\">simply don’t want to</a>, we can promise that the words inside will change your life. <strong>Remember this: one sentence of God’s Word read over your life has more power than any self-help book or motivational quote.</strong></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_m4Ek8Q"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_Acrct4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_a6fgWH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Navigating the Bible",
+            "title_size": 80,
+            "subheading": "The Continuous Story of a Savior",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Summer-Refresh-Shoot-Hosanna-Reading-Bibles-007.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_a6fgWH"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "text_columns_LEt89R": {
       "type": "text-columns",
       "blocks": {
@@ -978,41 +1041,6 @@
         "divider": false
       }
     },
-    "slideshow_Acrct4": {
-      "type": "slideshow",
-      "blocks": {
-        "image_a6fgWH": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Download the \nPrayer Toolkit",
-            "title_size": 80,
-            "subheading": "Your Free Downloadable PDF",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-010.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_a6fgWH"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "text_and_image_FY9hkn": {
       "type": "text-and-image",
       "settings": {
@@ -1053,8 +1081,9 @@
     "text_columns_Ur37Yz",
     "single_button_V4MdGC",
     "slideshow_3K4YqU",
-    "text_columns_LEt89R",
+    "rich_text_h93XC7",
     "slideshow_Acrct4",
+    "text_columns_LEt89R",
     "text_and_image_FY9hkn"
   ]
 }
