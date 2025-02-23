@@ -55,7 +55,6 @@
   </div>
       
   {% when 'text_and_image' %}
-{% assign block_settings = block.settings %}
 
 {% if block_settings.divider %}<div class="section--divider"></div>{% endif %}
 
@@ -119,7 +118,7 @@
           {% if block_settings.image != blank %}
             <div class="feature-row__first-image">
               <div class="image-wrap loaded" style="height: 0; padding-bottom: 125.0%;">
-                                   {%- liquid
+                   {%- liquid
                     if block.settings.image2 == blank
                       assign sizeVariable = block.settings.image_width | append: 'vw'
                       assign fallback = '100vw'
