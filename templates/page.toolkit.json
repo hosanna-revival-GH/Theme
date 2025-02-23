@@ -74,7 +74,7 @@
             "button_size": "medium",
             "alignment": "center",
             "space_above": 0,
-            "space_below": 10
+            "space_below": 75
           }
         },
         "rich_text_FWgyr9": {
@@ -1010,7 +1010,7 @@
       ],
       "settings": {
         "space_above": 0,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "slideshow_Ni3WAk": {
@@ -1050,7 +1050,121 @@
     },
     "combined-content-section-5": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "rich_text_PiCEz9": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p>We hope we’ve equipped you well to dive into the Word of God on your own. But what happens after you close the pages of this book? After reading the Word, don’t let the words simply stay on the page. Instead, allow God to work in your heart to bring these words to life in your everyday. One of the first steps we encourage is to seek out community.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_CyPCeJ": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 0,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p><em>“And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.” <br/>—Hebrews 10:24-25—</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_and_image_yfjafE": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Summer-Hosanna-5-Year-Prayer-Journal-Bridge-P-020.jpg",
+            "image_width": 50,
+            "subtitle": "After you Read",
+            "title": "Seek Individuals",
+            "text": "<p>We were never meant to do this alone! Find a friend to read the Bible and share life with. This step takes an ounce of courage! Be brave and ask someone to connect you with a person to read with - maybe it’s the friend who gave you a Bible or someone from your local church. Either way, be brave and simply ask. There is someone SO excited to read the Bible with you and share life with you!</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_jGeJtb": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Summer-Hosanna-5-Year-Prayer-Journal-Bridge-P-032.jpg",
+            "image_width": 50,
+            "subtitle": "After you Read",
+            "title": "Seek a Church",
+            "text": "<p>Our ultimate hope is that you get connected in a gospel-centered local church. Being involved in a church means becoming a part of the body of Christ, to serve and love those around you and to cultivate a community that glorifies God. If you don’t already have a home church, look up churches in your area and commit to visiting at least one within the next month. Again, this step takes so much courage. If you are finding it hard to connect, begin this step with prayer. We are confident that God will be faithful to connect you with His children in your area, so seek Him as you seek out others.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_PiCEz9",
+        "rich_text_CyPCeJ",
+        "text_and_image_yfjafE",
+        "text_and_image_jGeJtb"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 5
+      }
+    },
+    "slideshow_pmMrYq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_prqgjY": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "When You Don't Want to Read the Bible",
+            "title_size": 80,
+            "subheading": "Encouragement for the Hard Days, Ruts, and Dry Spells",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-009.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_prqgjY"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -1075,6 +1189,7 @@
     "text_columns_tdX6ie",
     "combined-content-section-4",
     "slideshow_Ni3WAk",
-    "combined-content-section-5"
+    "combined-content-section-5",
+    "slideshow_pmMrYq"
   ]
 }
