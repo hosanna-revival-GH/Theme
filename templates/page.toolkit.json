@@ -432,6 +432,9 @@
         "question_TaRnTH",
         "question_pfXcjn"
       ],
+      "custom_css": [
+        ".collapsible-trigger {font-size: 1.3em;}"
+      ],
       "settings": {
         "space_above": 0,
         "space_below": 0
