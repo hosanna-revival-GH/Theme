@@ -17,6 +17,10 @@
         "page_content_enable": false
       }
     },
+    "combined-content-section-1": {
+      "type": "toolkit",
+      "settings": {}
+    },
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c": {
       "type": "slideshow",
       "blocks": {
@@ -966,6 +970,7 @@
   },
   "order": [
     "main",
+    "combined-content-section-1",
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c",
     "bda355ba-be8d-42d7-b144-275b6cefb6a3",
     "9b3ada5d-6035-4418-bf90-53300bb2b25d",
