@@ -1395,43 +1395,88 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Women-of-the-Word.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "Women in the Word",
+            "text": "<p><em>by Jen Wilkin</em></p><p>for the one wanting to be empowered to study the Bible in depth on her own</p>",
+            "button_label": "Choose this Book",
+            "button_link": "https://www.jenwilkin.net/books-and-studies"
           }
         },
         "text_block_DQhXrg": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/The-Story-Circle-Devotional-Gray-Linen-Minimal-Hosanna-Revival-01_1800x1800_79acf1b0-0c87-46ae-b90c-fb777c1db51f.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "The Story Circle",
+            "text": "<p><em>by Joshua Lenon</em></p><p>for the one who want to know the beauty and wonder of the continuous story God has been telling from the beginning of time</p>",
+            "button_label": "Choose this Book",
+            "button_link": "shopify://products/devotional-the-story-circle"
           }
         },
         "text_block_jBgAHf": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Even-Better-Than-Eden.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "Even Better than Eden",
+            "text": "<p><em>by Nancy Guthrie</em></p><p>for the one wanting a flyover view of 9 themes running throughout Scripture</p>",
+            "button_label": "Choose this Book",
+            "button_link": "https://www.nancyguthrie.com/even-better-than-eden"
+          }
+        },
+        "text_block_tgDRTi": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Help-Me-Teach-the-Bible-2.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Help Me Teach the Bible",
+            "text": "<p><em>—a podcast—<br/>by Nancy Guthrie & TGC</em></p><p>for the one wanting to learn from pastors and teachers on how to pass on truth</p>",
+            "button_label": "Start Listening",
+            "button_link": "https://podcasts.apple.com/us/podcast/help-me-teach-the-bible/id1032089864"
+          }
+        },
+        "text_block_iEfLnE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Journeywomen.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Journeywomen Podcast",
+            "text": "<p><em>—a podcast—<br/>by Hunter Beless</em></p><p>for the one wanting to be encouraged to carry the truth into her everyday</p>",
+            "button_label": "Start Listening",
+            "button_link": "https://podcasts.apple.com/us/podcast/journeywomen/id1244331156"
+          }
+        },
+        "text_block_Npj8kG": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Compelled-Podcast.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Compelled",
+            "text": "<p><em>—a podcast—<br/>by Paul Hastings</em></p><p>for the one wanting to hear the incredible testimonies of others who have come to Christ</p>",
+            "button_label": "start listening",
+            "button_link": "https://www.instagram.com/phyliciamasonheimer/"
           }
         }
       },
       "block_order": [
         "text_block_qztLMz",
         "text_block_DQhXrg",
-        "text_block_jBgAHf"
+        "text_block_jBgAHf",
+        "text_block_tgDRTi",
+        "text_block_iEfLnE",
+        "text_block_Npj8kG"
       ],
       "settings": {
         "title": "",
