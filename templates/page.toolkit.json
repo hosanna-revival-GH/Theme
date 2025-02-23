@@ -476,46 +476,41 @@
         "lazyload_images": true
       }
     },
-    "rich_text_F36xrC": {
-      "type": "rich-text",
+    "combined-content-section-8": {
+      "type": "toolkit",
       "blocks": {
-        "text_UFADWB": {
-          "type": "text",
+        "rich_text_nrL6fq": {
+          "type": "rich_text",
           "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
             "enlarge_text": true,
             "text": "<p>If you don’t already own a Bible, one of the first steps towards diving into Scripture is to choose your translation. The question you need to ask yourself is, “Do I want to prioritize readability or accuracy?” Your answer to this question will land you at a particular place in the spectrum of Bible translations, which we'll dive into below.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
-        }
-      },
-      "block_order": [
-        "text_UFADWB"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b5933a",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "rich_text_EPMTT3": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_9ncnNL": {
-          "type": "heading",
-          "settings": {
-            "title": "How to Choose Your Translation"
-          }
         },
-        "text_FRJMeM": {
-          "type": "text",
+        "rich_text_j3phkA": {
+          "type": "rich_text",
           "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "How to Choose Your Translation",
             "enlarge_text": false,
             "text": "<p>ESV, CSB, NLT—all these names can feel like a jumble of letters, but behind each of them is a specific approach to translating the original texts of the Bible into English that provides a variety of options when choosing your Bible translation. Below are three main points along the spectrum of Bible translations.</p>",
             "align_text_block": "inherit",
@@ -524,19 +519,12 @@
         }
       },
       "block_order": [
-        "heading_9ncnNL",
-        "text_FRJMeM"
+        "rich_text_nrL6fq",
+        "rich_text_j3phkA"
       ],
       "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "text_columns_Ur37Yz": {
@@ -591,17 +579,6 @@
         "title": "",
         "align_text": "center",
         "divider": false
-      }
-    },
-    "single_button_V4MdGC": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Choose My Bible",
-        "button_link": "https://hosannarevival.com/pages/bible-toolkit",
-        "button_size": "medium",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 45
       }
     },
     "slideshow_3K4YqU": {
@@ -1279,30 +1256,39 @@
         "narrow_column": true
       }
     },
-    "combined-content-section-8": {
-      "type": "toolkit",
+    "slideshow_jETKkB": {
+      "type": "slideshow",
       "blocks": {
-        "hero_Ux7n37": {
-          "type": "hero",
+        "image_3kfcBN": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-016.jpg",
+            "top_subheading": "",
             "title": "Take it a Step Farther",
+            "title_size": 72,
             "subheading": "Top Tools and Resources for Diving into Scripture",
             "link": "",
             "link_text": "",
-            "color_accent": "",
-            "text_align": "center",
-            "title_size": 72,
-            "parallax": false
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-016.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "hero_Ux7n37"
+        "image_3kfcBN"
       ],
       "settings": {
-        "space_above": 0,
-        "space_below": 0
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -1314,10 +1300,8 @@
     "slideshow_V8dgkY",
     "combined-content-section-7",
     "slideshow_eRaCAm",
-    "rich_text_F36xrC",
-    "rich_text_EPMTT3",
+    "combined-content-section-8",
     "text_columns_Ur37Yz",
-    "single_button_V4MdGC",
     "slideshow_3K4YqU",
     "rich_text_h93XC7",
     "slideshow_Acrct4",
@@ -1331,6 +1315,6 @@
     "slideshow_pmMrYq",
     "combined-content-section-6",
     "contact_form_L6WKGa",
-    "combined-content-section-8"
+    "slideshow_jETKkB"
   ]
 }
