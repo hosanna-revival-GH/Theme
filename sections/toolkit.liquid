@@ -129,9 +129,9 @@
 </div>
 
   {% when 'single_image' %}
-   <div class="index-section">
+   <div class="index-section" style="margin: {{ block.settings.space_above }}px auto {{ block.settings.space_below }}px;">
   <div class="page-width text-center">
-      <div style="margin: {{ block.settings.space_above }}px auto {{ block.settings.space_below }}px; max-width: {{ block.settings.image_width }}px;">
+      <div style="max-width: {{ block.settings.image_width }}px;">
         {% if block.settings.image_link != blank %}
           <a href="{{ block.settings.image_link }}">
         {% endif %}
