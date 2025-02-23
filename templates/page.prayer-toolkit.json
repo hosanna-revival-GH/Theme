@@ -406,69 +406,6 @@
         "space_below": 75
       }
     },
-    "text_and_image_AyJgJ3": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-019_2a19f694-916a-452e-9522-a8c4cd567d7a.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Prayer Is...",
-        "title": "Communicating with God",
-        "text": "<p>Prayer is coming before our Father in heaven (Matthew 6:9-13), expressing our heart’s deepest needs to him. In a sense, prayer is a recognition and confession of our dependence on God. </p><p>The Bible describes prayer as sweet-smelling incense offered to God (Psalm 141:2; Revelation 8:3-4). In the Scripture, prayer is often a cry to God for help (Psalm 34:6, 17). It is casting all your cares and anxieties on God, knowing that he cares for you deeply (1 Peter 5:7). In short, prayer is making your needs known to God—<em>all</em> your needs—regardless of how big or small they may seem.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_WxVcft": {
-      "type": "text-and-image",
-      "settings": {
-        "image_mask": "none",
-        "image2": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-020.jpg",
-        "image2_mask": "none",
-        "subtitle": "Prayer Is...",
-        "title": "Coming to God in the Name of Christ",
-        "text": "<p>Prayer is a unique privilege for those who have trusted in Jesus. Apart from Jesus, we could never hope to stand before the throne of a holy God, because we are “strangers to the covenants of promise, having no hope and without God in this world” (Ephesians 2:12). In other words, without Jesus, we have no hope of any access to a perfect and holy God. But to those who love Jesus and follow him, we are covered in his righteousness—we bear his name. When we pray in the name of Jesus, we have every access to God. Every wall has been torn down and every barrier has been removed—we get to enter boldly into the holy place of the presence of God (Hebrews 10:19, 4:16)—like a child, completely unafraid to approach their dad.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_JAUTmt": {
-      "type": "text-and-image",
-      "settings": {
-        "image_mask": "none",
-        "image2": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-021.jpg",
-        "image2_mask": "none",
-        "subtitle": "Prayer Is...",
-        "title": "Enabled by the Holy Spirit",
-        "text": "<p>The reason we pray to God as our <em>Father</em> is because the Holy Spirit of God has made us the children of God! We now have the right to call God our Father and to bring our deepest needs and desires to him—in the name of Jesus, by the power of the Holy Spirit. Prayer is a divine, supernatural act in which all three members of the Trinity are involved to allow us to communicate directly with God.</p><p>Prayer is knowing that God’s ear is listening to every heart-cry of his children because Jesus’ work on the cross has made a way for us to come boldly before him, with the Holy Spirit’s breath helping us communicate directly with God—even when we don’t know what to pray.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "combined-content-section-2": {
       "type": "toolkit",
       "blocks": {
@@ -486,28 +423,50 @@
             "align_text": "left",
             "lazyload_images": true
           }
-        }
-      },
-      "block_order": [
-        "text_and_image_xjTRbw"
-      ],
-      "settings": {
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "rich_text_DAiUt4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_A9Jcqw": {
-          "type": "heading",
+        },
+        "text_and_image_rxmcDU": {
+          "type": "text_and_image",
           "settings": {
-            "title": "What Prayer is Not"
+            "layout": "right",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-020.jpg",
+            "image_width": 50,
+            "subtitle": "Prayer Is...",
+            "title": "Coming to God in the Name of Christ",
+            "text": "<p>Prayer is a unique privilege for those who have trusted in Jesus. Apart from Jesus, we could never hope to stand before the throne of a holy God, because we are “strangers to the covenants of promise, having no hope and without God in this world” (Ephesians 2:12). In other words, without Jesus, we have no hope of any access to a perfect and holy God. But to those who love Jesus and follow him, we are covered in his righteousness—we bear his name. When we pray in the name of Jesus, we have every access to God. Every wall has been torn down and every barrier has been removed—we get to enter boldly into the holy place of the presence of God (Hebrews 10:19, 4:16)—like a child, completely unafraid to approach their dad.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
           }
         },
-        "text_KpigKe": {
-          "type": "text",
+        "text_and_image_N8mw6G": {
+          "type": "text_and_image",
           "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-021.jpg",
+            "image_width": 50,
+            "subtitle": "Prayer Is...",
+            "title": "Enabled by the Holy Spirit",
+            "text": "<p>The reason we pray to God as our <em>Father</em> is because the Holy Spirit of God has made us the children of God! We now have the right to call God our Father and to bring our deepest needs and desires to him—in the name of Jesus, by the power of the Holy Spirit. Prayer is a divine, supernatural act in which all three members of the Trinity are involved to allow us to communicate directly with God.</p><p>Prayer is knowing that God’s ear is listening to every heart-cry of his children because Jesus’ work on the cross has made a way for us to come boldly before him, with the Holy Spirit’s breath helping us communicate directly with God—even when we don’t know what to pray.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "rich_text_r4aJXz": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#949276",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "What Prayer is Not",
             "enlarge_text": true,
             "text": "<p>While it’s important to consider what prayer is, it is also important to consider what prayer is not. Because prayer is a gracious gift, we should be careful not to misrepresent or misuse prayer.</p>",
             "align_text_block": "inherit",
@@ -516,19 +475,14 @@
         }
       },
       "block_order": [
-        "heading_A9Jcqw",
-        "text_KpigKe"
+        "text_and_image_xjTRbw",
+        "text_and_image_rxmcDU",
+        "text_and_image_N8mw6G",
+        "rich_text_r4aJXz"
       ],
       "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#949276",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "faq_8t8Te3": {
@@ -1130,11 +1084,7 @@
     "single_button_c6DLNw",
     "slideshow_WAW3ad",
     "rich_text_Xdwdzn",
-    "text_and_image_AyJgJ3",
-    "text_and_image_WxVcft",
-    "text_and_image_JAUTmt",
     "combined-content-section-2",
-    "rich_text_DAiUt4",
     "faq_8t8Te3",
     "slideshow_V8dgkY",
     "rich_text_EbC3zk",
