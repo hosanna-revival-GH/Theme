@@ -1050,6 +1050,20 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "text_and_image_BJmfcb": {
+          "type": "text_and_image",
+          "settings": {
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-026.jpg",
+            "title": "",
+            "text": "<p>Walking through seasons of spiritual drought can be disheartening. Everything can seem like a burden and a chore rather than a joy and a delight, and the weight can feel unbearable. When David was feeling overwhelmed and even forgotten by God, he wrote, “Hope in God; for I shall again praise him.” Why would he turn to the very one he felt had forgotten him? Because he knew where his help came from (Psalm 121). </p><p>In seasons of drought and dryness, we ought not forget our spring of living water (John 4). David learned to not forget in the dark what he had learned in the light. Even when his circumstances told him, “your God has forgotten you,” David reminded himself: God is my hope and salvation. I will praise him.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "divider": false,
+            "top_padding": true,
+            "bottom_padding": true
+          }
         }
       },
       "block_order": [
@@ -1070,7 +1084,8 @@
         "faq_H3pBiV",
         "rich_text_dgdcYm",
         "rich_text_7TQgTB",
-        "rich_text_6qWtjz"
+        "rich_text_6qWtjz",
+        "text_and_image_BJmfcb"
       ],
       "settings": {
         "space_above": 0,
