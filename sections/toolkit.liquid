@@ -104,7 +104,7 @@
           <div class="h5 subheading">{{ block_settings.subtitle }}</div>
         {% endif %}
         {% if block_settings.subtitle != blank %}
-          <div class="feature-row__subtitle">{{ block_settings.subtitle }}</div>
+          <div class="h5 subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ block.settings.subtitle }}</div>
         {% endif %}
         {% if block_settings.title != blank %}
           <h2 class="h3">{{ block_settings.title | escape }}</h2>
