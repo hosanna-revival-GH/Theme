@@ -76,306 +76,107 @@
             "space_above": 0,
             "space_below": 10
           }
-        }
-      },
-      "block_order": [
-        "rich_text_pXFcWB",
-        "single_button_HAKBqL"
-      ],
-      "settings": {
-        "space_above": 0,
-        "space_below": 75
-      }
-    },
-    "07e5961c-213e-4f7e-bf19-720f8caf8ef5": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_2": {
-          "type": "heading",
-          "settings": {
-            "title": "a note from Katie"
-          }
         },
-        "text_2": {
-          "type": "text",
+        "rich_text_FWgyr9": {
+          "type": "rich_text",
           "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 35,
+            "heading": "a note from Katie",
             "enlarge_text": true,
             "text": "<p>If I were sitting next to you right now as you think about reading your Bible, I would want you to know a few things.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         },
-        "text_i6ajke": {
-          "type": "text",
+        "rich_text_RJCqVc": {
+          "type": "rich_text",
           "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 0,
+            "space_below": 35,
+            "heading": "",
             "enlarge_text": false,
             "text": "<p>First, I would tell you that I am overjoyed you would even consider reading the words in this precious book, because they are truly sacred. The Bible is the tangible Word of God—the God who created the universe, sees all things, and knows your name. </p><p>Second, I would tell you that the Bible is the complete and true story of our being and purpose. When you crack this book open, you will find stories full of triumph, wilderness, waiting, and ultimately, a Savior who came in the name of love.</p><p>As you hold a copy of the Bible in your hands, I pray that you will feel that love radiating out of its pages. Please know the words inside this book and the simple act of reading them will change your life. The echoes of God’s glory will reach the ends of the earth because of the work he is doing in you.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         },
-        "text_phhEMR": {
-          "type": "text",
+        "rich_text_bGg8Fh": {
+          "type": "rich_text",
           "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 0,
+            "space_below": 75,
+            "heading": "",
             "enlarge_text": true,
             "text": "<p><em>“You will seek me and find me if you seek me with all your heart”<br/>—Jeremiah 29:13—</em></p>",
-            "align_text_block": "center",
+            "align_text_block": "inherit",
             "block_bottom_space": 30
+          }
+        },
+        "rich_text_Tnjna9": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 0,
+            "heading": "Table of Contents",
+            "enlarge_text": true,
+            "text": "<p>1<br/>Intro to the Bible<br/><em>What is it and why read it?</em></p><p>2<br/>Barriers to the Bible<br/><em>Questions you might have before diving into Scripture</em></p><p>3<br/>Bible Translations<br/><em>Which translation should I choose?</em></p><p>4<br/>What’s Inside<br/><em>A few things to note before you read the Bible</em></p><p>5<br/>Navigating the Bible<br/><em>The continuous story of a Savior</em></p><p>6<br/>Reading the Bible<br/><em>A Quick Guide to ways to read, before you read, and while you read</em></p><p>7<br/>After You Read the Bible<br/><em>Finding Community</em></p><p>8<br/>When You Don’t Want to Read the Bible<br/><em>encouragement for the hard days, ruts, and dry spells</em></p><p>9<br/>Take it Farther<br/><em>Top Resources for Diving into Scripture</em></p><p>10<br/>Download the Toolkit<br/><em>the free downloadable PDF toolkit</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "single_button_R4hYYF": {
+          "type": "single-button",
+          "settings": {
+            "button_text": "Download the Bible Toolkit PDF",
+            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
+            "button_size": "medium",
+            "alignment": "center",
+            "space_above": 50,
+            "space_below": 0
           }
         }
       },
       "block_order": [
-        "heading_2",
-        "text_2",
-        "text_i6ajke",
-        "text_phhEMR"
+        "rich_text_pXFcWB",
+        "single_button_HAKBqL",
+        "rich_text_FWgyr9",
+        "rich_text_RJCqVc",
+        "rich_text_bGg8Fh",
+        "rich_text_Tnjna9",
+        "single_button_R4hYYF"
       ],
       "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b5933a",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "b8f496ca-7e30-4276-90dc-9541ba4ba935": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_3": {
-          "type": "heading",
-          "settings": {
-            "title": "Table of Contents"
-          }
-        },
-        "text_5": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>1<br/>Intro to the Bible</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_6": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>What is it and why read it?</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_7": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>2<br/>Barriers to the Bible</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_8": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Questions you might have before diving into Scripture</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_9": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>3<br/>Bible Translations</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_10": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Which translation should I choose?</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_11": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>4<br/>What’s Inside</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_12": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>A few things to note before you read the Bible</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_13": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>5<br/>Navigating the Bible</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_14": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>The continuous story of a Savior</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_15": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>6<br/>Reading the Bible</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_16": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>A Quick Guide to ways to read, before you read, and while you read</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_17": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>7<br/>After You Read the Bible</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_18": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Finding Community</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_dgqBNQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>8<br/>When You Don’t Want to Read the Bible</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_MjdbLP": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>encouragement for the hard days, ruts, and dry spells</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_UfrUjk": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>9<br/>Take it Farther</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_T8yzdz": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Top Resources for Diving into Scripture</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_fzEc8r": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>10<br/>Download the Toolkit</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_19": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>the free downloadable PDF toolkit</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_3",
-        "text_5",
-        "text_6",
-        "text_7",
-        "text_8",
-        "text_9",
-        "text_10",
-        "text_11",
-        "text_12",
-        "text_13",
-        "text_14",
-        "text_15",
-        "text_16",
-        "text_17",
-        "text_18",
-        "text_dgqBNQ",
-        "text_MjdbLP",
-        "text_UfrUjk",
-        "text_T8yzdz",
-        "text_fzEc8r",
-        "text_19"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "single_button_c6DLNw": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Download the Bible Toolkit PDF",
-        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
-        "button_size": "large",
-        "alignment": "center",
         "space_above": 0,
-        "space_below": 45
+        "space_below": 75
       }
     },
     "slideshow_WAW3ad": {
@@ -1228,6 +1029,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-005.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -1250,9 +1052,6 @@
   "order": [
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c",
     "combined-content-section-1",
-    "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
-    "b8f496ca-7e30-4276-90dc-9541ba4ba935",
-    "single_button_c6DLNw",
     "slideshow_WAW3ad",
     "combined-content-section-2",
     "slideshow_V8dgkY",
