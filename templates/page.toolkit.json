@@ -903,6 +903,37 @@
         "lazyload_images": true
       }
     },
+    "combined-content-section-3": {
+      "type": "toolkit",
+      "blocks": {
+        "rich_text_X9KaE4": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b5933a",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p>The Bible is broken into two big sections: the Old Testament (before Jesus’ ministry on Earth) and the New Testament (from Jesus’ life on Earth, and beyond). Together, these sections hold a total of 66 individual books inspired by God and written by more than 40 different individuals throughout history—all telling one complete account of who God is and what he has done. These individual books are broken up into chapters and verses to help locate where exactly you are reading in this grand story. Below is a breakdown of each section of the Bible. <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104\" target=\"_blank\" title=\"Hosanna Revival Bible Toolkit PDF\">Print out our guide here</a> to take alongside you as you learn.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_X9KaE4"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
     "text_columns_LEt89R": {
       "type": "text-columns",
       "blocks": {
@@ -1061,10 +1092,6 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
-    },
-    "combined-content-section-3": {
-      "type": "toolkit",
-      "settings": {}
     }
   },
   "order": [
@@ -1087,8 +1114,8 @@
     "slideshow_3K4YqU",
     "rich_text_h93XC7",
     "slideshow_Acrct4",
+    "combined-content-section-3",
     "text_columns_LEt89R",
-    "text_and_image_FY9hkn",
-    "combined-content-section-3"
+    "text_and_image_FY9hkn"
   ]
 }
