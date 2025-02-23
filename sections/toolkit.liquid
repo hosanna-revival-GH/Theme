@@ -69,7 +69,30 @@
           {% if block_settings.image2 != blank %}
             <div class="feature-row__second-image">
               <div class="image-wrap loaded" style="height: 0; padding-bottom: 125.0%;">
-                {% render 'image-element', img: block_settings.image2, class: 'feature-row__image', width: '1080', height: '1350' %}
+                   {%- liquid
+                    if block.settings.image2 == blank
+                      assign sizeVariable = block.settings.image_width | append: 'vw'
+                      assign fallback = '100vw'
+                    else
+                      assign sizeVariable = 'calc(0.4 * 50vw)'
+                      assign fallback = '40vw'
+                    endif
+
+                    assign imageWidth = block.settings.image_width | times: 1
+                    if imageWidth >= 50
+                      assign loading = block.settings.lazyload_images
+                    else
+                      assign loading = true
+                    endif
+                  -%}
+                  {%- render 'image-element',
+                    img: block.settings.image,
+                    widths: '180, 360, 540, 750, 900, 1080',
+                    loading: loading,
+                    sizeVariable: sizeVariable,
+                    fallback: fallback,
+                    classes: 'feature-row__image',
+                  -%}
               </div>
             </div>
           {% endif %}
@@ -79,6 +102,9 @@
       <div class="feature-row__item feature-row__text feature-row__text--{{ block_settings.layout }} text-{{ block_settings.align_text }} aos-init aos-animate" data-aos="">
         {% if block_settings.subtitle != blank %}
           <div class="h5 subheading">{{ block_settings.subtitle }}</div>
+        {% endif %}
+        {% if block_settings.subtitle != blank %}
+          <div class="feature-row__subtitle">{{ block_settings.subtitle }}</div>
         {% endif %}
         {% if block_settings.title != blank %}
           <h2 class="h3">{{ block_settings.title | escape }}</h2>
@@ -531,6 +557,11 @@
       "default": 50,
       "unit": "%"
     },
+       {
+      "type": "text",
+      "id": "subtitle",
+      "label": "Subtitle"
+    },
     {
       "type": "text",
       "id": "title",
@@ -570,6 +601,13 @@
         }
       ],
       "default": "left"
+    },
+        {
+      "type": "checkbox",
+      "id": "lazyload_images",
+      "label": "t:common.lazyload_images.label",
+      "info": "t:common.lazyload_images.info",
+      "default": true
     }
   ]
 }
