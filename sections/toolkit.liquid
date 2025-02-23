@@ -250,6 +250,12 @@
     padding-top: {{ section.settings.space_above }}px;
      padding-bottom: {{ section.settings.space_below }}px;
   }
+  blockquote cite:before, .rte blockquote cite:before {
+    content: "\2014 ";
+}
+  .testimonials-slider__text cite {
+    font-style: normal;
+}
 </style>
 
 {% schema %}
