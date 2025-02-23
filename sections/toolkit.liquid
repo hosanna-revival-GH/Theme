@@ -52,7 +52,43 @@
         </a>
       </div>
     </div>
-  </div>      
+  </div>
+      
+  {% when 'text_and_image' %}
+  {% assign block_settings = block.settings %}
+  
+  {% if block_settings.divider %}<div class="section--divider"></div>{% endif %}
+
+  <div class="index-section{% unless block_settings.top_padding %} no-top-padding{% endunless %}{% unless block_settings.bottom_padding %} no-bottom-padding{% endunless %}">
+    <div class="page-width feature-row-wrapper feature-row--{{ block_settings.image_width }}">
+      <div class="feature-row__item feature-row__images" data-aos>
+        {% if block_settings.image != blank %}
+          <div class="feature-row__first-image">
+            {% render 'image-element', img: block_settings.image, classes: 'feature-row__image' %}
+          </div>
+        {% endif %}
+        {% if block_settings.image2 != blank %}
+          <div class="feature-row__second-image">
+            {% render 'image-element', img: block_settings.image2, classes: 'feature-row__image' %}
+          </div>
+        {% endif %}
+      </div>
+  
+      <div class="feature-row__item feature-row__text text-{{ block_settings.align_text }}" data-aos>
+        {% if block_settings.title != blank %}
+          <h2>{{ block_settings.title }}</h2>
+        {% endif %}
+        {% if block_settings.text != blank %}
+          <div class="rte">{{ block_settings.text }}</div>
+        {% endif %}
+        {% if block_settings.button_label != blank %}
+          <a href="{{ block_settings.button_link }}" class="btn">{{ block_settings.button_label }}</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+      
     {% endcase %}
   {% endfor %}
 
