@@ -1439,30 +1439,30 @@
         "space_below": 0
       }
     },
-    "slideshow_HqwRQg": {
+    "slideshow_QEGdn9": {
       "type": "slideshow",
       "blocks": {
-        "image_8BzzLg": {
+        "image_UYKL3J": {
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Resources",
-            "title_size": 80,
-            "subheading": "Top Resources on Prayer",
+            "title": "After You Pray",
+            "title_size": 72,
+            "subheading": "What Happens After You've Finished Praying",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-009.jpg",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-017.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "image_8BzzLg"
+        "image_UYKL3J"
       ],
       "settings": {
         "section_height": "natural",
@@ -1477,6 +1477,25 @@
     "combined-content-section-4": {
       "type": "toolkit",
       "blocks": {
+        "rich_text_hj3eDB": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#949276",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "After You Pray",
+            "enlarge_text": true,
+            "text": "<p>We have a tendency to expect God to answer our prayers <em>how</em> we want, <em>when</em> we want. But God doesn’t work that way. God cannot be manipulated to fulfill our desires against his own will. God’s timing is perfect, and he knows the best way to answer our prayers—even when we don’t understand.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
         "faq_LVGpRf": {
           "type": "faq",
           "settings": {
@@ -1504,16 +1523,75 @@
             "answer": "<p>Prayer is communing with God. In part, that means we talk to God. But communion is two-way; God also speaks to us. After you pray, be attentive to  the voice of God.</p><p><strong>Read his Word.</strong> Quiet yourself and wait for him to speak. It may be he wants to share something more with you, or give you further insight into a situation. He may want to tell you that his grace is sufficient for you, reminding you that his strength is made perfect in your weakness. Don’t just talk to God—he desires  to talk to you, too.</p><p><strong>Share prayer requests with wise, trusted friends.</strong> God often speaks through other believers who know his Word. Trusted friends who love Jesus and walk with him daily can speak words of wisdom, encouragement, and even correction when needed.  </p>",
             "align_text": "left",
             "space_above": 0,
-            "space_below": 75
+            "space_below": 0
           }
         }
       },
       "block_order": [
+        "rich_text_hj3eDB",
         "faq_LVGpRf",
         "faq_VkCjgX",
         "faq_pnWhEa"
       ],
-      "settings": {}
+      "settings": {
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "slideshow_HqwRQg": {
+      "type": "slideshow",
+      "blocks": {
+        "image_8BzzLg": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Resources",
+            "title_size": 72,
+            "subheading": "Top Resources on Prayer",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-009.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_8BzzLg"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Ar7LmC": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -1536,7 +1614,9 @@
     "combined-content-section",
     "slideshow_3K4YqU",
     "combined-content-section-3",
+    "slideshow_QEGdn9",
+    "combined-content-section-4",
     "slideshow_HqwRQg",
-    "combined-content-section-4"
+    "text_and_image_Ar7LmC"
   ]
 }
