@@ -1252,6 +1252,89 @@
             "align_text": "left",
             "lazyload_images": true
           }
+        },
+        "text_and_image_Pqhg34": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-023.jpg",
+            "image_width": 50,
+            "subtitle": "The Lord's Prayer",
+            "title": "Confession",
+            "text": "<p>The Lord’s prayer includes space confession of sin: “forgive us our debts, as we also have forgiven our debtors.” As we praise God for who he is, we are reminded of who we are. Because we desire fellowship and communion with God, we confess our sins to him, knowing he hears and forgives (1 John 1:9). This also reminds us to extend that grace and forgiveness to others. Forgiven people forgive people.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_EkCKrT": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-024.jpg",
+            "image_width": 50,
+            "subtitle": "The Lord's Prayer",
+            "title": "Thanksgiving",
+            "text": "<p>Some manuscripts do not contain this doxology, so depending on your Bible translation, it may or may not be included. In those that do, Jesus finishes the prayer by saying, “For thine is the kingdom, and the power, and the glory, for ever.” By closing his prayer this way, Jesus was acknowledging that we pray for (or “because”) God is the king of heaven. Everything belongs to God, and it is in his power alone that prayer is heard and answered. When we pray, we should thank God for his power and provision in our lives. </p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_hH3GJ9": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-025_1a6cbcb0-45a1-453c-b141-1958383ff747.jpg",
+            "image_width": 50,
+            "subtitle": "The Lord's Prayer",
+            "title": "Supplication",
+            "text": "<p>Supplication simply means “asking earnestly.” A careful reading of the Lord’s Prayer reveals seven different petitions of supplication. We pray God would hallow his name. We pray his kingdom would come. We pray his will would be done on earth as is it is in heaven. We pray he would give us our daily bread. We pray he would forgive us our debts. We pray to be spared temptation. We pray to be delivered from evil. </p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "rich_text_x8ygF7": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 0,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p>It is worth noting that of these seven petitions in the Lord’s Prayer, only one of them asks God to provide for physical needs. Three of the petitions ask for God to do things on earth as they are done in heaven. Three of the petitions ask God for help with past, present, and future sin. When we pray, we certainly ought to bring our needs and desires before God, but the Lord’s Prayer reminds us to pray humbly and selflessly. Our prayers shouldn’t be only extensive wish lists. Prayer is an act of worship, and should be God-centered and God-focused.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_WezrQQ": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "left",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#949276",
+            "color_text": "#ffffff",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Praying the Psalms",
+            "enlarge_text": true,
+            "text": "<p>There will be seasons in your life when there are no words to pray. It may be during times of deep, intense pain and suffering or it may be during times of drought, when you feel like God is far from you. In times like these, the Psalms are a wonderful help. If you have never prayed through a psalm, consider these suggestions.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
@@ -1264,7 +1347,12 @@
         "single_image_UBnwB8",
         "rich_text_c8YUhB",
         "rich_text_Jp6Rdp",
-        "text_and_image_expjkA"
+        "text_and_image_expjkA",
+        "text_and_image_Pqhg34",
+        "text_and_image_EkCKrT",
+        "text_and_image_hH3GJ9",
+        "rich_text_x8ygF7",
+        "rich_text_WezrQQ"
       ],
       "settings": {
         "space_above": 0,
