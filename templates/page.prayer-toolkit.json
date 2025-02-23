@@ -1054,14 +1054,16 @@
         "text_and_image_BJmfcb": {
           "type": "text_and_image",
           "settings": {
-            "layout": "left",
+            "layout": "right",
             "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-026.jpg",
             "image_width": 50,
+            "subtitle": "In Your Dry Season,",
             "title": "Drink From the Well",
             "text": "<p>When we’re walking through dry seasons and we can’t seem to build a habit of prayer, go back to the basics. Spend intentional time in the Word, immersing yourself in God’s goodness and mercy to you. Drink deeply of the living water—he will restore your soul (Psalm 23:3). </p><p>Practical tips and tricks cannot restore to you the joy of your salvation. They cannot quench spiritual thirst. They can be wonderful tools, but before you turn to habit-building tips, first turn to Jesus. Be refreshed and restored by his Word. Only then will you be able to build habits that are rooted in love for Christ and not out of obligation or duty.</p>",
             "button_link": "",
             "button_label": "",
-            "align_text": "left"
+            "align_text": "left",
+            "lazyload_images": true
           }
         }
       },
