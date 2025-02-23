@@ -9,14 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "page_title_enable": false,
-        "page_content_enable": false
-      }
-    },
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c": {
       "type": "slideshow",
       "blocks": {
@@ -1790,7 +1782,6 @@
     }
   },
   "order": [
-    "main",
     "005d18a4-a80a-42dc-aab7-7ebdc7bc0f4c",
     "combined-content-section-1",
     "07e5961c-213e-4f7e-bf19-720f8caf8ef5",
