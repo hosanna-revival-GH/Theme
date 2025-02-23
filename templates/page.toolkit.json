@@ -705,6 +705,106 @@
         "space_below": 75
       }
     },
+    "rich_text_EPMTT3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9ncnNL": {
+          "type": "heading",
+          "settings": {
+            "title": "How to Choose Your Translation"
+          }
+        },
+        "text_FRJMeM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>ESV, CSB, NLT—all these names can feel like a jumble of letters, but behind each of them is a specific approach to translating the original texts of the Bible into English that provides a variety of options when choosing your Bible translation. Below are three main points along the spectrum of Bible translations.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9ncnNL",
+        "text_FRJMeM"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_Ur37Yz": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_arDipW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-S-060b_1080x_jpg.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Word-for-Word Accuracy",
+            "text": "<p><strong>Goal:</strong> To carefully translate each word from the original language to the closest equivalent in the English language. </p><p><strong>Pros:</strong> Very literal</p><p><strong>Cons:</strong> A bit more difficult to understand</p><p><strong>Recommended For:</strong> In-depth study and personal development</p><p><strong>Translations in this Category:</strong> NASB, ESV, NET, KJV, NKJV</p><p><strong>ESV Sample Verse:</strong> <em>For in him the whole fullness of deity dwells bodily, and you have been filled in him, who is the head of all rule and authority.</em></p>",
+            "button_label": "Choose my ESV",
+            "button_link": "https://hosannarevival.com/collections/beautiful-bibles/esv"
+          }
+        },
+        "text_block_XRBKXU": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-P-062_1080x_jpg.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "in the middle",
+            "text": "<p><strong>Goal</strong>: To strike a balance between a more literal and paraphrase translation</p><p><strong>Pros</strong>: Easier to understand while still preserving the feel of the original language</p><p><strong>Cons</strong>: Not as identical as the original text</p><p><strong>Recommended For</strong>: A balance between categories</p><p><strong>Translations in this Category:</strong> CSB</p><p><strong>CSB Sample Verse:</strong> <em>For the entire fullness of God’s nature dwells bodily in Christ, and you have been filled by him, who is the head over every ruler and authority. </em></p>",
+            "button_label": "Choose my CSB",
+            "button_link": "https://hosannarevival.com/collections/beautiful-bibles/CSB"
+          }
+        },
+        "text_block_pt7EAT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Summer-Hosanna-Leather-Bible-Case-Picnic-S-006b_1080x_jpg.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Thought-for-Thought Readability",
+            "text": "<p><strong>Goal</strong>: To consider how the original audience would have understood the text, and render the same thought to its current reader</p><p><strong>Pros</strong>: Easier to read </p><p><strong>Cons</strong>: Not always as accurate to the original text</p><p><strong>Recommended For</strong>: Someone new to the Bible, group studies</p><p><strong>Translations in this Category:</strong> NIV, NLT, CEB, NIRV, GNT, MSG</p><p><strong>NLT Sample Verse:</strong> <em>For in Christ lives all the fullness of God in a human body. So you also are complete through your union with Christ, who is the head over every ruler and authority.</em></p>",
+            "button_label": "Choose My NLT",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_arDipW",
+        "text_block_XRBKXU",
+        "text_block_pt7EAT"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_V4MdGC": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose My Bible",
+        "button_link": "https://hosannarevival.com/pages/bible-toolkit",
+        "button_size": "medium",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 45
+      }
+    },
     "slideshow_3K4YqU": {
       "type": "slideshow",
       "blocks": {
@@ -712,16 +812,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "How to Pray",
+            "title": "What's Inside",
             "title_size": 72,
-            "subheading": "Before You Pray and What to Pray",
+            "subheading": "a few things to note before you read the Bible",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-014.jpg",
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-006.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -731,7 +831,7 @@
         "image_38BMeH"
       ],
       "settings": {
-        "section_height": "natural",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
@@ -949,6 +1049,9 @@
     "faq_rcnnei",
     "slideshow_eRaCAm",
     "rich_text_F36xrC",
+    "rich_text_EPMTT3",
+    "text_columns_Ur37Yz",
+    "single_button_V4MdGC",
     "slideshow_3K4YqU",
     "text_columns_LEt89R",
     "slideshow_Acrct4",
