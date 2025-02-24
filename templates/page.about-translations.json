@@ -24,15 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
+            "title": "Translations",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "subheading": "Learn about the different Bible translations offered at Hosanna Revival",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-074.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -42,7 +43,7 @@
         "image_tYkhY8"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
@@ -51,16 +52,52 @@
         "lazyload_images": true
       }
     },
+    "rich_text_nbxkWP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qCe93g": {
+          "type": "heading",
+          "settings": {
+            "title": "Translations"
+          }
+        },
+        "text_NYt7N3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Hosanna Revival Bibles are available in four translations: English Standard Version (ESV), New Living Translation (NLT), Christian Standard Bible (CSB), and the King James Version (KJV). The KJV is a literal translation of the Bible commissioned in 1604 by King James I of England and printed in 1611 and built upon the earliest English translations of the Bible, namely the Bishop’s Bible, Tyndale’s Bible, Coverdale’s, Matthew’s, and the Geneva Bible. The ESV is an “essentially literal” translation (sometimes called “functional equivalence” or “word-for-word”), which attempts to retain as much of the original sentence structure and idioms as possible. The NLT is a “meaning-based” translation (sometimes called “dynamic equivalence” or “thought-for-thought”), a which attempts to render the original meaning of the text in clear, modern English. The CSB attempts to find a balance between functional and dynamic equivalence, balancing the readability of the text with the original meaning.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_qCe93g",
+        "text_NYt7N3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
     "text_and_image_AnYdjG": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-109.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
+        "subtitle": "About",
+        "title": "The ESV Translation",
+        "text": "<p>The English Standard Version (ESV) is an “essentially literal” translation of the Bible in contemporary English. Created by a team of more than 100 leading evangelical scholars and pastors, the ESV Bible emphasizes “word-for-word” accuracy, literary excellence, and depth of meaning. Since its publication in 2001, the ESV Bible has gained wide acceptance and is used by church leaders, numerous denominations and organizations, and millions of individuals around the world.</p><p>The ESV is equally suited for public reading and preaching, for private reading and reflection, for both academic and devotional study, and for Scripture memorization.</p>",
+        "button_label": "Learn More",
+        "button_link": "https://www.esv.org/translation/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -74,13 +111,14 @@
     "text_and_image_Gin4p9": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-084_14e27daa-1731-41dc-a674-8c1a54108e46.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
+        "subtitle": "About",
+        "title": "The KJV Translation",
+        "text": "<p>The King James Version is a translation named after King James I of England who commissioned the new English Bible translation in 1604 A.D. King James authorized the new translation to be read in churches in England and beyond after it was first published in 1611 A.D. Later known as the “Authorized Version” in 1814, the King James Version became a standard among English-speaking Christians. The translation is most noted for its poetic prose that seems to flow with a certain rhythmic quality. </p>",
+        "button_label": "Learn More",
+        "button_link": "https://www.kingjamesbibleonline.org/King-James-Version/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -235,7 +273,7 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
+        "space_above": 0,
         "space_below": 75
       }
     }
@@ -243,6 +281,7 @@
   "order": [
     "main",
     "slideshow_4EVyMd",
+    "rich_text_nbxkWP",
     "text_and_image_AnYdjG",
     "text_and_image_Gin4p9",
     "text_and_image_XzMVER",
