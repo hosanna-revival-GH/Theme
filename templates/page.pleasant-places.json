@@ -72,11 +72,112 @@
         "full_width": true,
         "space_around": false
       }
+    },
+    "rich_text_k9HFaT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_feekfU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>an invitation to create</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_4q3Rfa": {
+          "type": "heading",
+          "settings": {
+            "title": "Pleasant Places"
+          }
+        },
+        "text_RzFdJk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for the 4-week journey <em>Pleasant Places: An invitation to create through Psalm 16</em>. Sign up for the free email series above, invite a friend, and prepare to create.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_feekfU",
+        "heading_4q3Rfa",
+        "text_RzFdJk"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_QHVMnf": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_9cEGYj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-tubes-two_ad5d2f1f-083e-4b61-b43b-8af277dd1470.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "What",
+            "text": "<p><em>a creative journey through Psalm 16<br/></em>Each week we will introduce a new section of Psalm 16 with 3 creative prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_hTykmm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/stamp-flower_445e101b-50c8-4ab0-93fe-e6bc26464404.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Who",
+            "text": "<p><em>for creatives and non-creatives alike<br/></em>This journey was intentionally created to engage all levels of creativity and intended to stretch your inspiration, imagination, perception, and medium. </p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_kqiPWF": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-palette_1685a3b9-8b22-4208-810c-c8a73748451e.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Example tWhen",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_9cEGYj",
+        "text_block_hTykmm",
+        "text_block_kqiPWF"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow_a3yL44",
-    "17403578378bacc56a"
+    "17403578378bacc56a",
+    "rich_text_k9HFaT",
+    "text_columns_QHVMnf"
   ]
 }
