@@ -70,11 +70,124 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "text_and_image_T69bip": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-118.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "Hosanna Sketchbooks",
+        "text": "<p>The Hosanna Revival Sketchbooks were hand-designed by Hosanna Revival and crafted with you in mind: the creative soul gifted with skills and passions from a creative God. You are invited to dive into this sketchbook as a safe space for your creativity to blossom and testify to our Creator. From the gorgeous cover design to the heavy-weight paper, each element of this sketchbook has been carefully chosen to allow your imagination to take flight once your medium of choice hits the page. All levels of artistry are welcome here—use this space for everything from stretching your skills to creating beautiful pieces to bless friends and family. We who follow Jesus are called to “not conform to the pattern of this world, but be transformed by the renewing of your mind,” so see each page as a fresh chance to renew your mind through focusing on the source of your creativity as you let your imagination run wild!</p><p>These sketchbooks are 8.5\" x 11\" in size, contain 160 pages of 60lb or 160gsm paper, perforated edges to easily extract pages, a ribbon for holding your place, and a pocket to keep loose pages close! </p>",
+        "button_label": "buy now",
+        "button_link": "https://hosannarevival.com/collections/sketchbooks",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_columns_pdExEG": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_VjVWBB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_4_34233811-1e64-411e-8581-025f8fd2b417.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Designer",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Buy now",
+            "button_link": "https://hosannarevival.com/collections/sketchbooks"
+          }
+        },
+        "text_block_r8Ga76": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_5.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Artist",
+            "text": "<p>Hosanna Revival Sketchbooks also serve as a space for artists to plan out preliminary works, sketch out initial ideas before committing to a larger piece, or simply to keep art-making a daily practice. Our sketchbooks can retain a range of different mediums including (but not limited to), graphite, watercolor, pen/ink, gouache, and more! </p>",
+            "button_label": "Buy Now",
+            "button_link": "https://hosannarevival.com/collections/sketchbooks"
+          }
+        },
+        "text_block_mENaM4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_6_d1d2f1fd-91ab-419a-8e99-02bdfa91e078.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Dreamer",
+            "text": "<p>Designed with the creative soul in mind, these sketchbooks are great for anyone trying to explore new creative outlets and concepts. Whether you're new to art-making, trying to refine your skill-set, or you're a professional artist, these sketchbooks are great for all skill levels and creative interests!  </p>",
+            "button_label": "Buy Now",
+            "button_link": "https://hosannarevival.com/collections/sketchbooks"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_VjVWBB",
+        "text_block_r8Ga76",
+        "text_block_mENaM4"
+      ],
+      "settings": {
+        "title": "WHO ARE THESE FOR?",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_aQ9KYD": {
+      "type": "slideshow",
+      "blocks": {
+        "image_7fULfL": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Hosanna Blanks",
+            "title_size": 64,
+            "subheading": "Paintable Journals",
+            "link": "shopify://products/hosanna-blanks-paintable-notebook",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sketchbook-Flatlay-Hosanna-Blanks-Artist-Supplies-003.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_7fULfL"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "hero_video_pTMUwU",
-    "slideshow_KmT3ey"
+    "slideshow_KmT3ey",
+    "text_and_image_T69bip",
+    "text_columns_pdExEG",
+    "slideshow_aQ9KYD"
   ]
 }
