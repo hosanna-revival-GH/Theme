@@ -58,6 +58,9 @@
       "block_order": [
         "image_k3YWn8"
       ],
+      "custom_css": [
+        ".hero__text-wrap {top: -100%;}"
+      ],
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
