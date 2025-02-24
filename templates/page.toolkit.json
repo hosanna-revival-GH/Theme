@@ -1487,6 +1487,9 @@
         "hero_W48Rgh",
         "text_and_image_YyePqd"
       ],
+      "custom_css": [
+        ".image-wrap.loaded {padding-bottom: 100% !important;}"
+      ],
       "settings": {
         "space_above": 0,
         "space_below": 0
