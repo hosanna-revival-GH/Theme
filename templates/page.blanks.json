@@ -178,6 +178,130 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "text_and_image_NWxWtM": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/kfung.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "Hosanna Blanks: Paintable Journals",
+        "text": "<p>For years we sold hand-painted journals in our shop. Finding a quality, low cost, hardback journal made of material that can hold paint without cracking or chipping has been nearly impossible! Last year we set out to manufacture a high quality, blank journal for creatives like us to work their magic on, and we're so happy to introduce our brand-new Hosanna Blanks — our paintable journal!<br/><br/></p><p>What beautiful things will you dream up?</p>",
+        "button_label": "Buy Now",
+        "button_link": "shopify://products/hosanna-blanks-paintable-notebook",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_columns_VxiX9U": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_ejQ3Rj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Blanks-Painted-04_3535632b-8a89-4870-9536-d64a26422f4b.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "You",
+            "text": "<p>If you’re someone who’d love to get your hands on some of these for a creative outlet, these are for you! These are sold for individual sale <a href=\"https://hosannarevival.com/products/hosanna-blanks-paintable-journal\" title=\"https://hosannarevival.com/products/hosanna-blanks-paintable-journal\">in our shop</a>. If you’re new to designing journals, scroll down for some of our favorite materials!</p>",
+            "button_label": "buy now",
+            "button_link": "shopify://products/hosanna-blanks-paintable-notebook"
+          }
+        },
+        "text_block_ifgr67": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Blanks-Painted-05.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Artists",
+            "text": "<p>Because we’ve fought for years to find a great journal like this, we loved the idea of providing a high quality journal for other artists to buy at low costs to design and sell in their own shop.  The interior cover has a space labeled “designed by:” for you to leave your business stamp or signature. You can see tiered pricing in our shop—the price decreases the more you buy!</p>",
+            "button_label": "buy now",
+            "button_link": "shopify://products/hosanna-blanks-paintable-notebook"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_ejQ3Rj",
+        "text_block_ifgr67"
+      ],
+      "settings": {
+        "title": "Who are these for?",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_hzmBLJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rd6hej": {
+          "type": "heading",
+          "settings": {
+            "title": "How-to & FAQs"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rd6hej"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 35
+      }
+    },
+    "text_columns_Hqpyxq": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_HGddVf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Helpful Tips & Tricks",
+            "text": "<p>If you're new to designing journals, here are some helpful recommendations!</p><p><strong>Painting<br/></strong>You can use painters tape to protect the inside cover of your journal while you work. That will help keep the inside clean!</p><p>It is not necessary to “gesso” your journal before painting. If you’re using a lighter color for the background, you might have to paint two coats before you get to your design. </p><p>When you paint the “creases” of your journal, make sure to not let paint glob in the crease. Use your brush to lightly brush excess paint out of the crease.</p><p><strong>Paints<br/></strong>Any kind of paint will work on blanks, but <a href=\"https://www.amazon.com/DecoArt-DECDASK-354-Americana-Value-Acrylic/dp/B01M25WL02/\" title=\"https://www.amazon.com/DecoArt-DECDASK-354-Americana-Value-Acrylic/dp/B01M25WL02/\">DecoArt Americana acrylic paints</a> are our favorite brand.</p><p><strong>Brushes</strong><br/>Any brushes will work on blanks, but a set <a href=\"https://www.amazon.com/Artlicious-Purpose-Acrylic-Watercolor-Paints/dp/B072BM21NV/\" title=\"https://www.amazon.com/Artlicious-Purpose-Acrylic-Watercolor-Paints/dp/B072BM21NV/\">like this</a> should be more than enough! Look for a set that has one big flat brush, one medium pointy brush, and one tiny pointy brush.</p><p><strong>Finishing your Journal<br/></strong>When you’re done with your journal, dried acrylic paint is not at risk to smear or rub off. If you chose to add words with one of the pens above to your journal, that IS at risk to rub off or fade over time. We would then recommend “sealing” your journal in some way! There are many options, but we use <a href=\"https://www.michaels.com/krylon-matte-finish/10520205.html\" title=\"https://www.michaels.com/krylon-matte-finish/10520205.html\">Krylon Matte Finish</a>.</p><p><em>* If you mess up on your journal, a few coats of paint should cover it up and give you the opportunity to start over! Remember to NOT do a second or third layer of paint in the “crease” of the journal, then it would be at risk to start to crack! </em></p>",
+            "button_label": "Buy the Journal",
+            "button_link": "shopify://products/hosanna-blanks-paintable-notebook"
+          }
+        },
+        "text_block_BQrEhD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Writing",
+            "text": "<p>To add some words to your journal, here are some pens we like to use:</p><p><strong>Gold Markers</strong><br/><a href=\"https://www.amazon.com/Sakura-Pen-Touch-Marker-fine-gold/dp/B00DUGYIH2/\" title=\"https://www.amazon.com/Sakura-Pen-Touch-Marker-fine-gold/dp/B00DUGYIH2/\">Sakura Pen-Touch Paint Marker 1.0mm Fine Point Metallic Gold</a></p><p><strong>White Markers</strong><br/><a href=\"https://www.amazon.com/Sakura-Pen-Touch-Marker-extra-white/dp/B00DUGYIQI/\" title=\"https://www.amazon.com/Sakura-Pen-Touch-Marker-extra-white/dp/B00DUGYIQI/\">Sakura Pen-Touch Paint Marker .7mm, Permanent Ink Extra Fine Point White</a><br/><a href=\"https://www.amazon.com/Sakura-Gelly-Classic-White-31031/dp/B07869BY4L/\" title=\"https://www.amazon.com/Sakura-Gelly-Classic-White-31031/dp/B07869BY4L/\">Sakura Gelly Roll Classic Pen Bold 10 White</a></p><p><strong>Black Markers</strong><br/><a href=\"https://www.amazon.com/Tombow-82038-Fudenosuke-Brush-Hard-Black/dp/B077BC5G99/\" title=\"https://www.amazon.com/Tombow-82038-Fudenosuke-Brush-Hard-Black/dp/B077BC5G99/\">Tombow 82038-Fudenosuke Brush Pen, Hard Tip, Black</a></p><p><strong>Black & Colored Pens</strong><br/>When taking notes in a journaling Bible, or for writing on your journal's pages, we love the thinnest gel pen we can find!  These won't bleed through your pages, but there may be slight impressions on the back of the page, so don't write too hard or do any shading with these pens.</p><p><a href=\"https://www.amazon.com/PILOT-Premium-Refillable-Retractable-31276/dp/B0058NN8NA\" title=\"https://www.amazon.com/PILOT-Premium-Refillable-Retractable-31276/dp/B0058NN8NA\">PILOT G2 Premium Refillable & Retractable Rolling Ball Gel Pens, Ultra Fine Point</a></p>",
+            "button_label": "buy the journal",
+            "button_link": "shopify://products/hosanna-blanks-paintable-notebook"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HGddVf",
+        "text_block_BQrEhD"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -186,6 +310,10 @@
     "slideshow_KmT3ey",
     "text_and_image_T69bip",
     "text_columns_pdExEG",
-    "slideshow_aQ9KYD"
+    "slideshow_aQ9KYD",
+    "text_and_image_NWxWtM",
+    "text_columns_VxiX9U",
+    "rich_text_hzmBLJ",
+    "text_columns_Hqpyxq"
   ]
 }
