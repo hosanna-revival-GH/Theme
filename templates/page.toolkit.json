@@ -1450,7 +1450,47 @@
     },
     "combined-content-section-10": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "hero_W48Rgh": {
+          "type": "hero",
+          "settings": {
+            "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-003.jpg",
+            "title": "Download the Bible Toolkit",
+            "subheading": "the free downloadable toolkit PDF",
+            "link": "",
+            "link_text": "",
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 72,
+            "parallax": true,
+            "section_height": "450px",
+            "mobile_height": "auto"
+          }
+        },
+        "text_and_image_YyePqd": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Bible-Toolkit-Hosanna-Revival-Cover-01_1080x_png.webp",
+            "image_width": 50,
+            "subtitle": "Free Download",
+            "title": "The Bible Toolkit PDF",
+            "text": "<p>Download our PDF version of the Bible Toolkit to take with you as you study God's Word! We pray this tool leads to know Jesus in a deeper way than ever before.</p>",
+            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
+            "button_label": "download pdf",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        }
+      },
+      "block_order": [
+        "hero_W48Rgh",
+        "text_and_image_YyePqd"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 0
+      }
     }
   },
   "order": [
