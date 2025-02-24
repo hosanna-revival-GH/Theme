@@ -1307,7 +1307,7 @@
             "color_accent": "",
             "text_align": "left",
             "title_size": 72,
-            "parallax": false,
+            "parallax": true,
             "section_height": "450px",
             "mobile_height": "auto"
           }
