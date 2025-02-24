@@ -1123,44 +1123,25 @@
         "space_below": 5
       }
     },
-    "slideshow_pmMrYq": {
-      "type": "slideshow",
-      "blocks": {
-        "image_prqgjY": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "When You Don't Want to Read the Bible",
-            "title_size": 80,
-            "subheading": "Encouragement for the Hard Days, Ruts, and Dry Spells",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-009.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_prqgjY"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "combined-content-section-6": {
       "type": "toolkit",
       "blocks": {
+        "hero_W9aeFQ": {
+          "type": "hero",
+          "settings": {
+            "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-009.jpg",
+            "title": "When You Don't Want to Read the Bible",
+            "subheading": "Encouragement for the Hard Days, Ruts, and Dry Spells",
+            "link": "",
+            "link_text": "",
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 72,
+            "parallax": true,
+            "section_height": "450px",
+            "mobile_height": "auto"
+          }
+        },
         "rich_text_BUYREK": {
           "type": "rich_text",
           "settings": {
@@ -1239,6 +1220,7 @@
         }
       },
       "block_order": [
+        "hero_W9aeFQ",
         "rich_text_BUYREK",
         "rich_text_JgecCx",
         "rich_text_Tw7KjQ",
@@ -1256,41 +1238,6 @@
         "text": "",
         "show_phone": false,
         "narrow_column": true
-      }
-    },
-    "slideshow_jETKkB": {
-      "type": "slideshow",
-      "blocks": {
-        "image_3kfcBN": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Take it a Step Farther",
-            "title_size": 72,
-            "subheading": "Top Tools and Resources for Diving into Scripture",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-016.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_3kfcBN"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
       }
     },
     "combined-content-section-9": {
@@ -1522,10 +1469,8 @@
     "combined-content-section-4",
     "slideshow_Ni3WAk",
     "combined-content-section-5",
-    "slideshow_pmMrYq",
     "combined-content-section-6",
     "contact_form_L6WKGa",
-    "slideshow_jETKkB",
     "combined-content-section-9",
     "text_columns_J9GKDy"
   ]
