@@ -32,10 +32,46 @@
         "section_height": "650px",
         "mobile_height": "auto"
       }
+    },
+    "slideshow_KmT3ey": {
+      "type": "slideshow",
+      "blocks": {
+        "image_k3YWn8": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "HOSANNA SKETCHBOOKS",
+            "title_size": 80,
+            "subheading": "A space for sketching, dreaming, and beauty becoming.",
+            "link": "https://hosannarevival.com/collections/sketchbooks",
+            "link_text": "Buy now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sketchbook-Flatlay-Artist-Supplies-Hosanna-Revival-002.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_k3YWn8"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "hero_video_pTMUwU"
+    "hero_video_pTMUwU",
+    "slideshow_KmT3ey"
   ]
 }
