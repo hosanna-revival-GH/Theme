@@ -132,11 +132,12 @@
     "text_and_image_XzMVER": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-096.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "subtitle": "About",
+        "title": "The CSB Translation",
+        "text": "<p>The Christian Standard Bible was translated using optimal equivalence, focused on being faithful to the original languages without sacrificing readability. The CSB text has been proven to optimize both readability and clarity, while maintaining linguistic precision, making it an excellent translation for reading, study, and preaching.</p><p>The goal of the translation committee of the Christian Standard Bible was for the modern reader to hear the Word of God in their “mother tongue,” just as the original audience would have. Rather than taking each word and finding the most accurate English equivalent, they attempted to translate the Bible on a ‘meaning-for-meaning” basis. The result is a Bible translation with excellent readability that remains faithful to the text of Scripture.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -152,11 +153,12 @@
     "text_and_image_eUTAck": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-084_14e27daa-1731-41dc-a674-8c1a54108e46.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "subtitle": "About",
+        "title": "The NLT Translation",
+        "text": "<p>The New Living Translation combines the latest biblical scholarship with a clear, dynamic writing style that communicates God’s Word powerfully to all who hear and read it. It renders the message of the original texts of Scripture into clear, contemporary English that was written to be read aloud. With a focus on clarity, The New Living Translation invites readers to go deeper into the biblical text to discover God’s story for their lives and the world.</p><p>The New Living Translation uses the meaning-based translation model. In meaning-based translations, the translators start with a source-language text and dig beneath the surface to discover its meaning. The translators then search for the best ways to re-express that meaning using words and phrases from the language into which the text is being translated.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -175,14 +177,14 @@
         "heading_gQHTHQ": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Choosing a Translation"
           }
         },
         "text_ykKUM7": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>One of the questions we often receive here at Hosanna Revival is, “What are the differences between the Bible translations you offer?” Sometimes, what people <em>really</em> want to know is, “Which Bible translation is best?” The truth is, there’s no one right answer to that question. In fact, we think a better question is, “Which Bible translation is best for me?” Before we can answer that question, we need to understand a little bit more about how the Bible is translated. There are two main translation philosophies when it comes to translating the Bible:</p><p><strong>1. Word-for-Word translation</strong> (also known as “essentially literal” or “formal equivalence”)<br/><strong>2. Thought-for-Thought translation</strong> (also known as “functional equivalence,” or “dynamic equivalence,” or “meaning-based”)</p><p>In recent years, some Bible translations have attempted to fall somewhere between these two philosophies, forming a “natural equivalence” or “optimal equivalence” translation philosophy. In addition to these three translation philosophies, some have chosen a different method altogether, resulting in a paraphrased retelling of Scripture.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -200,8 +202,8 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "advanced_content_9t4Mdb": {
@@ -210,6 +212,7 @@
         "image_ikWpte": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Translation-Graph_4ae9c26b-2819-44d6-a38c-98e83da91033_jpg.webp",
             "link": "",
             "width": "100%",
             "alignment": "center"
@@ -220,7 +223,7 @@
         "image_ikWpte"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": true,
         "lazyload_images": true
       }
@@ -231,14 +234,14 @@
         "heading_4zm4VR": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Our Translations"
           }
         },
         "text_8amaAK": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Hosanna Revival Bibles are available in four translations: English Standard Version (ESV), King James Version (KJV) New Living Translation (NLT), and Christian Standard Bible (CSB). The KJV is a literal translation, and the ESV is an “essentially literal” translation (sometimes called “functional equivalence” or “word-for-word”), which attempt to retain as much of the original sentence structure and idioms as possible. The NLT is a “meaning-based” translation (sometimes called “dynamic equivalence” or “thought-for-thought”), a which attempts to render the original meaning of the text in clear, modern English. The CSB attempts to find a balance between functional and dynamic equivalence, balancing the readability of the text with the original meaning.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -246,14 +249,14 @@
         "heading_PE8edc": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Other Translations"
           }
         },
         "text_UKpTUH": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>If you’re looking for a Catholic Bible (particularly a Catholic journaling Bible), you might be interested in <a href=\"https://blessedisshe.net/product/the-catholic-journaling-bible/\" target=\"_blank\">this one</a>. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
