@@ -132,9 +132,9 @@
 
               <div class="hero__image-wrapper{% unless hero_text %} hero__image-wrapper--no-overlay{% endunless %}">
 
-                {%- if section.settings.parallax -%}
+                {%- if block.settings.parallax -%}
                   <parallax-image class="parallax-container">
-                    <div class="parallax-image" data-movement="15%" data-parallax-image data-angle="{{ block.settings.parallax_direction }}">
+                    <div class="parallax-image" data-movement="15%" data-parallax-image data-angle="top">
                 {%- endif -%}
 
                   {%- if block.settings.image != blank -%}
@@ -187,7 +187,7 @@
                     {%- endif -%}
                   {%- endif -%}
 
-                {%- if section.settings.parallax -%}
+                {%- if block.settings.parallax -%}
                     </div>
                   </parallax-image>
                 {%- endif -%}
