@@ -139,6 +139,12 @@
                     opacity: {{ block.settings.overlay_opacity | divided_by: 100.0 }};
                   }
                 {% endif %}
+
+                {% if block.settings.link != blank %}
+                  .hero__text-wrap {
+                      top: -100%;
+                    }
+                  {% endif %}
               {%- endstyle -%}
 
               {%- liquid
