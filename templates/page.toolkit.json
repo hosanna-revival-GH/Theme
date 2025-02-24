@@ -1296,6 +1296,22 @@
     "combined-content-section-9": {
       "type": "toolkit",
       "blocks": {
+        "hero_z7jAxd": {
+          "type": "hero",
+          "settings": {
+            "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-016.jpg",
+            "title": "Take it a Step Farther",
+            "subheading": "Top Tools and Resources for Diving into Scripture",
+            "link": "",
+            "link_text": "",
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 72,
+            "parallax": false,
+            "section_height": "450px",
+            "mobile_height": "auto"
+          }
+        },
         "rich_text_FfHxYj": {
           "type": "rich_text",
           "settings": {
@@ -1377,6 +1393,7 @@
         }
       },
       "block_order": [
+        "hero_z7jAxd",
         "rich_text_FfHxYj",
         "rich_text_W4mBxQ",
         "single_image_UVrRTQ",
