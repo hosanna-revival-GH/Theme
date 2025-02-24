@@ -143,7 +143,7 @@
             "image_width": 200,
             "title": "Who",
             "text": "<p><em>for creatives and non-creatives alike<br/></em>This journey was intentionally created to engage all levels of creativity and intended to stretch your inspiration, imagination, perception, and medium. </p>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -154,9 +154,9 @@
             "image": "shopify://shop_images/paint-palette_1685a3b9-8b22-4208-810c-c8a73748451e.png",
             "image_mask": "none",
             "image_width": 200,
-            "title": "Example tWhen",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "title": "When",
+            "text": "<p><em>the journey begins October 2</em><br/>Join the journey by signing up for the email series today. We encourage you to work at your own pace and keep the main goal in mind: to connect with God through his Word.</p>",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -171,6 +171,62 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "text_and_image_antLfd": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Pleasant-Places-Psalm-16-Hosanna-Revival-1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free PDF Download",
+        "title": "Pleasant Places",
+        "text": "<p>We suggest signing up for the email series since it’s paced week by week and full of beautiful visuals and inspiration to guide your process, but if you are looking to do this with a group and would like a PDF download of the weekly prompts, you’re in the right place! Download the free series below.</p>",
+        "button_label": "Download Now",
+        "button_link": "https://hosannarevival.com/pleasantplacespdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_fKdapU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8jhcVX": {
+          "type": "heading",
+          "settings": {
+            "title": "#MyPleasantPlaces"
+          }
+        },
+        "text_B8fhjc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Follow us on Instagram @<a href=\"https://instagram.com/hosannarevival\" target=\"_blank\" title=\"https://instagram.com/hosannarevival\"><em>HosannaRevival</em></a> and share how you’re engaging with Scripture through creativity with the hashtag #MyPleasantPlaces.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_8jhcVX",
+        "text_B8fhjc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f7f0e8",
+        "color_text": "#55666e",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -178,6 +234,8 @@
     "slideshow_a3yL44",
     "17403578378bacc56a",
     "rich_text_k9HFaT",
-    "text_columns_QHVMnf"
+    "text_columns_QHVMnf",
+    "text_and_image_antLfd",
+    "rich_text_fKdapU"
   ]
 }
