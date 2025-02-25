@@ -37,31 +37,29 @@
         "lazyload_images": true
       }
     },
-    "custom-html-block": {
-      "type": "advanced-content",
+    "17404588475d9c058b": {
+      "type": "apps",
       "blocks": {
-        "liquid_DTg4mE": {
-          "type": "liquid",
+        "acerill_form_builder_custom_form_gbcjci": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
           "settings": {
-            "code": "<div class=\"acerill-custom-form\" data-form-id=\"831777bc-bd42-45b7-97f3-4ba686c39973\"></div><script type=\"text/javascript\" src=\"https://custom-forms-client.acerill.com/js/custom-forms-v2.js\"></script>",
-            "width": "100%",
-            "alignment": "center"
+            "formId": "831777bc-bd42-45b7-97f3-4ba686c39973",
+            "behavior": "standard"
           }
         }
       },
       "block_order": [
-        "liquid_DTg4mE"
+        "acerill_form_builder_custom_form_gbcjci"
       ],
       "settings": {
         "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
+        "space_around": true
       }
     }
   },
   "order": [
     "main",
     "text-and-image-1591974140841",
-    "custom-html-block"
+    "17404588475d9c058b"
   ]
 }
