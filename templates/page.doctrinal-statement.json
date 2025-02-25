@@ -11,13 +11,264 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_6jixk4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_HaWxTp": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Doctrinal Statement",
+            "title_size": 72,
+            "subheading": "What We Believe",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/21-02-don_t-know-where-to-start-reading-in-your-Bible-LydiaSupinger-2-scaled.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_HaWxTp"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_aWKdDm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hQGBAi": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We believe that the Bible is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages.</p><p>                      </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_hQGBAi"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_c9dFwU": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_Aqt7GE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Bible",
+            "text": "<p>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true written Word of God. The Bible is the revelation of God’s truth and is infallible and authoritative in all matters of faith and practice.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3rDiQK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Triune God",
+            "text": "<p>We believe in the Holy Trinity. There is one God, who exists eternally in three persons: the Father, the Son, and the Holy Spirit.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_br6X6k": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Salvation",
+            "text": "<p>We believe that all people are sinners and totally unable to save themselves from God’s displeasure, apart from his saving grace.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Aqt7GE",
+        "text_block_3rDiQK",
+        "text_block_br6X6k"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "text_columns_tULMNm": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_wKVQ79": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Jesus Christ",
+            "text": "<p>We believe that Jesus Christ is the eternal Son of God, who through his perfect life and sacrificial death atoned for the sins of all who will trust in him, alone, for salvation.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_ayDp7N": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Holy Spirit",
+            "text": "<p>We believe that the Holy Spirit indwells God’s people and gives them the strength and wisdom to trust Christ and follow him.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_7MBTiG": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Last Things",
+            "text": "<p>We believe that Jesus will return, bodily and visibly, to judge all mankind and to receive his people to himself.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_wKVQ79",
+        "text_block_ayDp7N",
+        "text_block_7MBTiG"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "rich_text_ViLMzH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_a6RXd9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>These statements are only a summary of what we believe about essential Christian doctrines. We also affirm the historic ecumenical creeds of the church (linked below).</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_a6RXd9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "text_columns_nAXpYL": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_ALGyYF": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Apostles’ Creed",
+            "text": "",
+            "button_label": "Read",
+            "button_link": "shopify://pages/apostles-creed"
+          }
+        },
+        "text_block_7wAQXe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Nicene Creed",
+            "text": "",
+            "button_label": "Read",
+            "button_link": "shopify://pages/nicene-creed"
+          }
+        },
+        "text_block_HkfJrT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Athanasian Creed",
+            "text": "",
+            "button_label": "Read",
+            "button_link": "shopify://pages/athanasian-creed"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_ALGyYF",
+        "text_block_7wAQXe",
+        "text_block_HkfJrT"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_6jixk4",
+    "rich_text_aWKdDm",
+    "text_columns_c9dFwU",
+    "text_columns_tULMNm",
+    "rich_text_ViLMzH",
+    "text_columns_nAXpYL"
   ]
 }
