@@ -65,9 +65,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>The Hosanna Revival Affiliate Program exists as a way to partner with influential women who love to share the mission of Hosanna Revival. We work to excite women about engaging in Scripture by creating beautiful and intentional tools for their lives. We’re seeking women who truly care about their audience knowing Christ, and use their platform to encourage them with truth! </p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>The Hosanna Revival Affiliate Program exists as a way to partner with influential women who love to share the mission of Hosanna Revival. We work to excite women about engaging in Scripture by creating beautiful and intentional tools for their lives. We’re seeking women who truly care about their audience knowing Christ, and use their platform to encourage them with truth! </p>"
           }
         }
       },

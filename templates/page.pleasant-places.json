@@ -80,9 +80,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>an invitation to create</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p><em>an invitation to create</em></p>"
           }
         },
         "heading_4q3Rfa": {
@@ -95,9 +93,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for the 4-week journey <em>Pleasant Places: An invitation to create through Psalm 16</em>. Sign up for the free email series above, invite a friend, and prepare to create.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for the 4-week journey <em>Pleasant Places: An invitation to create through Psalm 16</em>. Sign up for the free email series above, invite a friend, and prepare to create.</p>"
           }
         }
       },
@@ -206,9 +202,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Follow us on Instagram @<a href=\"https://instagram.com/hosannarevival\" target=\"_blank\" title=\"https://instagram.com/hosannarevival\"><em>HosannaRevival</em></a> and share how you’re engaging with Scripture through creativity with the hashtag #MyPleasantPlaces.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>Follow us on Instagram @<a href=\"https://instagram.com/hosannarevival\" target=\"_blank\" title=\"https://instagram.com/hosannarevival\"><em>HosannaRevival</em></a> and share how you’re engaging with Scripture through creativity with the hashtag #MyPleasantPlaces.</p>"
           }
         }
       },

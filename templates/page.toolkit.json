@@ -625,9 +625,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Now that you’ve got an idea of your preferred translation, you’re ready to open up the Bible! </em>And to be honest, even though this seems simple, sometimes this is the hardest step. Whether the thought of opening this huge book <a href=\"https://hosannarevival.blog/when-you-dont-know-how-to-start-reading-your-bible/\" target=\"_blank\" title=\"When You Don't Know How to Start Reading Your Bible, a Hosanna Revival article\">feels overwhelming</a>, or whether you <a href=\"https://hosannarevival.blog/when-the-bible-doesnt-feel-exciting/\" target=\"_blank\" title=\"When the Bible doesn't feel exciting, a Hosanna Revival article\">simply don’t want to</a>, we can promise that the words inside will change your life. <strong>Remember this: one sentence of God’s Word read over your life has more power than any self-help book or motivational quote.</strong></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p><em>Now that you’ve got an idea of your preferred translation, you’re ready to open up the Bible! </em>And to be honest, even though this seems simple, sometimes this is the hardest step. Whether the thought of opening this huge book <a href=\"https://hosannarevival.blog/when-you-dont-know-how-to-start-reading-your-bible/\" target=\"_blank\" title=\"When You Don't Know How to Start Reading Your Bible, a Hosanna Revival article\">feels overwhelming</a>, or whether you <a href=\"https://hosannarevival.blog/when-the-bible-doesnt-feel-exciting/\" target=\"_blank\" title=\"When the Bible doesn't feel exciting, a Hosanna Revival article\">simply don’t want to</a>, we can promise that the words inside will change your life. <strong>Remember this: one sentence of God’s Word read over your life has more power than any self-help book or motivational quote.</strong></p>"
           }
         }
       },
@@ -812,9 +810,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Bible reading typically happens in one of two ways, explained below.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>Bible reading typically happens in one of two ways, explained below.</p>"
           }
         }
       },

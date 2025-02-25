@@ -65,9 +65,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Hosanna Revival Bibles are available in four translations: English Standard Version (ESV), New Living Translation (NLT), Christian Standard Bible (CSB), and the King James Version (KJV). The KJV is a literal translation of the Bible commissioned in 1604 by King James I of England and printed in 1611 and built upon the earliest English translations of the Bible, namely the Bishop’s Bible, Tyndale’s Bible, Coverdale’s, Matthew’s, and the Geneva Bible. The ESV is an “essentially literal” translation (sometimes called “functional equivalence” or “word-for-word”), which attempts to retain as much of the original sentence structure and idioms as possible. The NLT is a “meaning-based” translation (sometimes called “dynamic equivalence” or “thought-for-thought”), a which attempts to render the original meaning of the text in clear, modern English. The CSB attempts to find a balance between functional and dynamic equivalence, balancing the readability of the text with the original meaning.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>Hosanna Revival Bibles are available in four translations: English Standard Version (ESV), New Living Translation (NLT), Christian Standard Bible (CSB), and the King James Version (KJV). The KJV is a literal translation of the Bible commissioned in 1604 by King James I of England and printed in 1611 and built upon the earliest English translations of the Bible, namely the Bishop’s Bible, Tyndale’s Bible, Coverdale’s, Matthew’s, and the Geneva Bible. The ESV is an “essentially literal” translation (sometimes called “functional equivalence” or “word-for-word”), which attempts to retain as much of the original sentence structure and idioms as possible. The NLT is a “meaning-based” translation (sometimes called “dynamic equivalence” or “thought-for-thought”), a which attempts to render the original meaning of the text in clear, modern English. The CSB attempts to find a balance between functional and dynamic equivalence, balancing the readability of the text with the original meaning.</p>"
           }
         }
       },
@@ -184,9 +182,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>One of the questions we often receive here at Hosanna Revival is, “What are the differences between the Bible translations you offer?” Sometimes, what people <em>really</em> want to know is, “Which Bible translation is best?” The truth is, there’s no one right answer to that question. In fact, we think a better question is, “Which Bible translation is best for me?” Before we can answer that question, we need to understand a little bit more about how the Bible is translated. There are two main translation philosophies when it comes to translating the Bible:</p><p><strong>1. Word-for-Word translation</strong> (also known as “essentially literal” or “formal equivalence”)<br/><strong>2. Thought-for-Thought translation</strong> (also known as “functional equivalence,” or “dynamic equivalence,” or “meaning-based”)</p><p>In recent years, some Bible translations have attempted to fall somewhere between these two philosophies, forming a “natural equivalence” or “optimal equivalence” translation philosophy. In addition to these three translation philosophies, some have chosen a different method altogether, resulting in a paraphrased retelling of Scripture.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>One of the questions we often receive here at Hosanna Revival is, “What are the differences between the Bible translations you offer?” Sometimes, what people <em>really</em> want to know is, “Which Bible translation is best?” The truth is, there’s no one right answer to that question. In fact, we think a better question is, “Which Bible translation is best for me?” Before we can answer that question, we need to understand a little bit more about how the Bible is translated. There are two main translation philosophies when it comes to translating the Bible:</p><p><strong>1. Word-for-Word translation</strong> (also known as “essentially literal” or “formal equivalence”)<br/><strong>2. Thought-for-Thought translation</strong> (also known as “functional equivalence,” or “dynamic equivalence,” or “meaning-based”)</p><p>In recent years, some Bible translations have attempted to fall somewhere between these two philosophies, forming a “natural equivalence” or “optimal equivalence” translation philosophy. In addition to these three translation philosophies, some have chosen a different method altogether, resulting in a paraphrased retelling of Scripture.</p>"
           }
         }
       },
@@ -241,9 +237,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Hosanna Revival Bibles are available in four translations: English Standard Version (ESV), King James Version (KJV) New Living Translation (NLT), and Christian Standard Bible (CSB). The KJV is a literal translation, and the ESV is an “essentially literal” translation (sometimes called “functional equivalence” or “word-for-word”), which attempt to retain as much of the original sentence structure and idioms as possible. The NLT is a “meaning-based” translation (sometimes called “dynamic equivalence” or “thought-for-thought”), a which attempts to render the original meaning of the text in clear, modern English. The CSB attempts to find a balance between functional and dynamic equivalence, balancing the readability of the text with the original meaning.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>Hosanna Revival Bibles are available in four translations: English Standard Version (ESV), King James Version (KJV) New Living Translation (NLT), and Christian Standard Bible (CSB). The KJV is a literal translation, and the ESV is an “essentially literal” translation (sometimes called “functional equivalence” or “word-for-word”), which attempt to retain as much of the original sentence structure and idioms as possible. The NLT is a “meaning-based” translation (sometimes called “dynamic equivalence” or “thought-for-thought”), a which attempts to render the original meaning of the text in clear, modern English. The CSB attempts to find a balance between functional and dynamic equivalence, balancing the readability of the text with the original meaning.</p>"
           }
         },
         "heading_PE8edc": {
@@ -256,9 +250,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>If you’re looking for a Catholic Bible (particularly a Catholic journaling Bible), you might be interested in <a href=\"https://blessedisshe.net/product/the-catholic-journaling-bible/\" target=\"_blank\">this one</a>. </p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>If you’re looking for a Catholic Bible (particularly a Catholic journaling Bible), you might be interested in <a href=\"https://blessedisshe.net/product/the-catholic-journaling-bible/\" target=\"_blank\">this one</a>. </p>"
           }
         }
       },

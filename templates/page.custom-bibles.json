@@ -65,9 +65,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Custom hand-painted Bibles are the product that started Hosanna Revival. As we have grown, our artist and founder, Katie, spends her time designing new products, leading our team, and growing the company. She no longer has the capacity to accept custom hand-painted orders at regular intervals. However, because custom work is near and dear to her heart, we have created a custom design submission process! Anyone interested in a custom hand-painted Bible can submit their design idea using the form below. We will review the submissions periodically and select custom projects that are a good fit for our brand and design capacity. We love to review your ideas and see your creativity!</p><p><em>*If you are in a rush, we wouldn't recommend this process and encourage you to find another artist on Etsy or consider our beautiful printed Bibles in our shop.</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>Custom hand-painted Bibles are the product that started Hosanna Revival. As we have grown, our artist and founder, Katie, spends her time designing new products, leading our team, and growing the company. She no longer has the capacity to accept custom hand-painted orders at regular intervals. However, because custom work is near and dear to her heart, we have created a custom design submission process! Anyone interested in a custom hand-painted Bible can submit their design idea using the form below. We will review the submissions periodically and select custom projects that are a good fit for our brand and design capacity. We love to review your ideas and see your creativity!</p><p><em>*If you are in a rush, we wouldn't recommend this process and encourage you to find another artist on Etsy or consider our beautiful printed Bibles in our shop.</em></p>"
           }
         }
       },
@@ -100,9 +98,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Because we receive so many messages and questions about hand-painted Bibles, we’ve compiled a list of our most-asked questions as well as some helpful information about our hand-painted Bible design request process.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "text": "<p>Because we receive so many messages and questions about hand-painted Bibles, we’ve compiled a list of our most-asked questions as well as some helpful information about our hand-painted Bible design request process.</p>"
           }
         }
       },
@@ -177,9 +173,7 @@
         "question_9a9cNT"
       ],
       "settings": {
-        "title": "",
-        "space_above": 0,
-        "space_below": 0
+        "title": ""
       }
     },
     "174045949336af68ae": {
