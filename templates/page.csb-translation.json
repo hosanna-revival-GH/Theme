@@ -11,13 +11,93 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "featured_video_P9ycHY": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https://player.vimeo.com/video/212979979?title=0&byline=0&portrait=0",
+        "divider": false
+      }
+    },
+    "rich_text_iKH8eT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RVwJeP": {
+          "type": "heading",
+          "settings": {
+            "title": "The CSB Translation"
+          }
+        },
+        "text_La9QPn": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The Christian Standard Bible was translated using optimal equivalence, focused on being faithful to the original languages without sacrificing readability. The CSB text has been proven to optimize both readability and clarity, while maintaining linguistic precision, making it an excellent translation for reading, study, and preaching. The CSB text is a complete revision of the HCSB, first published 20 years by a team of more than 100 scholars from 17 denominations who shared a common vision to create an English translation of the Bible that was meticulously faithful and exceptionally clear to understand. Twenty years later, that text has been fully revised to provide a new generation of readers with a translation that is even more clear and even more faithful—the CSB.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_8jVdJ3": {
+          "type": "heading",
+          "settings": {
+            "title": "Meaning for Meaning"
+          }
+        },
+        "text_TwQDUh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The goal of the translation committee of the Christian Standard Bible was for the modern reader to hear the Word of God in their \"mother tongue,\" just as the original audience would have. Rather than taking each word and finding the most accurate English equivalent, they attempted to translate the Bible on a \"meaning-for-meaning\" basis. The result is a Bible translation with excellent readability that remains faithful to the text of Scripture.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_7M6zbw": {
+          "type": "heading",
+          "settings": {
+            "title": "Translation Philosphy"
+          }
+        },
+        "text_3kW6gm": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The CSB follows a translation philosophy called “optimal equivalence.” The term conveys a commitment to both “formal equivalence” (which recognizes the importance of the form of the original language text—that is, the words used and the grammatical and rhetorical structures) and “functional equivalence” (which recognizes the importance of conveying the original message and intent in natural English readily understood by modern readers).<br/><br/>While recognizing that no translation is perfect, we are committed to making every effort to accomplish both of the two essentials of translation:1. To leave no aspect of the original language text unaccounted for in translation. <br/>2. To render the text using natural English that is as easily comprehended as possible (see Hab 2:2; 1 Cor 14:8–9).</p><p>The first goal is the most difficult, especially given our commitment to the second. Some formal features such as puns can usually not be captured in the translation itself but must be explained in translation notes (of which the CSB has more than most translations). Nevertheless, we have done our best to render the original biblical text in every detail as fully and as clearly as possible. This twofold commitment expresses our understanding of biblical accuracy, which is often mistakenly equated with literalness. A literal translation that is difficult to understand or even misleading to modern readers is not accurate.</p><p>On one hand, the CSB provides a highly accurate text for sermon preparation and serious study, translated from the biblical languages by scholars who love God’s Word. On the other hand, it doesn’t compromise readability and clarity for those who may be less familiar with the traditional (and sometimes difficult) vocabulary retained in some translations.</p><p>Research shows the CSB is both highly literal to the original languages and highly readable, achieving an optimal blend of the two (charts provided by CSBible.com)</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_RVwJeP",
+        "text_La9QPn",
+        "heading_8jVdJ3",
+        "text_TwQDUh",
+        "heading_7M6zbw",
+        "text_3kW6gm"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_video_P9ycHY",
+    "rich_text_iKH8eT"
   ]
 }
