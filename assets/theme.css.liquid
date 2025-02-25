@@ -13489,6 +13489,68 @@ body#careers.template-blog [data-section-type="blog"] a:hover {
 #UpcartPopup .upcart-checkout-button {
     text-transform: uppercase;
 }
+/*** HIDE HEADER AND FOOTER ON WHOLESALE TERMS POPUP ***/
+#wholesale-terms-amp-conditions-hosanna-revival #shopify-section-header,
+#wholesale-terms-amp-conditions-hosanna-revival #shopify-section-footer-promotions,
+#wholesale-terms-amp-conditions-hosanna-revival #shopify-section-footer {
+  display: none;
+}
+
+.cart--alert-banner {
+  width: 100%;
+  padding: 15px;
+  background: #990038;
+  color: white;
+  font-family: $type_proxima_stack;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+
+/*** Judge.Me Reviews Tweaks: Hide Profile Pic and buyer badge ***/
+.jdgm-rev__icon {display: none !important;}
+.jdgm-rev__icon::after, .jdgm-rev__buyer-badge {display: none !important;}
+.jdgm-rev__icon::after, .jdgm-rev__verification-badge-img {display: none !important;}
+
+
+/*** BFCM 2024 - CHANGE SURPRISE TAB TO BE RED for CHRISTMAS ***/
+
+a[href="/pages/the-christmas-story"] {
+    color: #a52a2a;
+}
+
+a[href="/pages/the-christmas-story"]:hover {
+    color: #90322b;
+}
+
+a.mobile-nav__link[href="/pages/the-christmas-story"] {
+    color: #a52a2a;
+}
+
+a.mobile-nav__link[href="/pages/the-christmas-story"]:hover {
+    color: #90322b;
+}
+
+.site-nav__link--underline[href="/pages/the-christmas-story"]:after {
+  border-bottom-color: #90322b;
+}
+
+
+.grid-product__tag--sale {
+  background-color: #903631; 
+}
+
+/*** Judge.Me Reviews Tweak: Add margin to the left and right on mobile. ***/
+div.jdgm-rev-widg {
+  margin: 24px;
+}
+
+/*** Remove spacing above embedded Klaviyo forms specifically on the Connect page. ***/
+.rte>div {
+  margin-bottom: 0px;
+}
 /*
 #create-through-scripture-dwelling-place .feature-row__first-image .image-wrap.loaded {
     max-width: 500px;
