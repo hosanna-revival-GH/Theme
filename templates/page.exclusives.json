@@ -198,6 +198,111 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "text_columns_fHWpM8": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_xFY4eb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Exclusive-Bible-Collection-Hosanna-Revival--3.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "LEMON NOTETAKING BIBLE",
+            "text": "<p>A beautifully intricate lemon branch is placed on this <strong>CSB Notetaking Bible</strong>. We’re in love with the gold foil that laces the lemons on this Bible, giving it a glorious glow when the sunlight hits. </p>",
+            "button_label": "SHOP ON LIFEWAY",
+            "button_link": "https://www.lifeway.com/en/product/csb-notetaking-bible-hosanna-revival-edition-lemons-cloth-over-board-P005831549"
+          }
+        },
+        "text_block_QWV8MD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Exclusive-Bible-Collection-Hosanna-Revival--2.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "LAKE NOTETAKING BIBLE",
+            "text": "<p>This lake landscape has the radiant colors of a sunset reflected upon the waters. We love the vibrant colors painted across the sky of this <strong>CSB Notetaking Bible</strong>. </p>",
+            "button_label": "SHOP ON LIFEWAY",
+            "button_link": "https://www.lifeway.com/en/product/csb-notetaking-bible-hosanna-revival-edition-lake-cloth-over-board-P005831546"
+          }
+        },
+        "text_block_nPrcHi": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Exclusive-Bible-Collection-Hosanna-Revival--7.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "DAHLIA NOTETAKING BIBLE",
+            "text": "<p>These beautiful orange and red dahlia bouquets pop against the black background of this<strong> CSB Notetaking Bible</strong>.</p>",
+            "button_label": "SHOP ON LIFEWAY",
+            "button_link": "https://www.lifeway.com/en/product/csb-notetaking-bible-hosanna-revival-edition-dahlias-cloth-over-board-P005831547"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_xFY4eb",
+        "text_block_QWV8MD",
+        "text_block_nPrcHi"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_columns_6Bdhyx": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_NtWtqQ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Exclusive-Bible-Collection-Hosanna-Revival--8.jpg",
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "BLUSH NOTETAKING BIBLE",
+            "text": "<p>The soft blush pink tones of this bible are shown through beautiful florals. We love the delicate frame surrounding the rose-gold foiled “Holy Bible.” This bible is available in both <strong>CSB large print and KJV</strong>. </p>",
+            "button_label": "SHOP ON LIFEWAY",
+            "button_link": "https://www.lifeway.com/en/product/csb-notetaking-bible-large-print-hosanna-revival-edition-blush-cloth-over-board-P005842486"
+          }
+        },
+        "text_block_cibP38": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Exclusive-Bible-Collection-Hosanna-Revival.jpg",
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "LAVENDER NOTETAKING BIBLE",
+            "text": "<p>Offered in both <strong>CSB Large Print and KJV</strong>, this beautiful purple lavender background is overlaid with gorgeous white and peach painted flowers, delicately topped off with gold foil. </p>",
+            "button_label": "SHOP ON LIFEWAY",
+            "button_link": "https://www.lifeway.com/en/product/kjv-notetaking-bible-large-print-hosanna-revival-edition-lavender-peach-cloth-over-board-P005842517"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_NtWtqQ",
+        "text_block_cibP38"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_e744gE": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "shop hosanna revival bibles",
+        "button_link": "shopify://collections/beautiful-bibles",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
     }
   },
   "order": [
@@ -206,6 +311,9 @@
     "rich_text_YMz7hG",
     "slideshow_9p8mnD",
     "text_columns_7x3rVP",
-    "slideshow_yqHeBr"
+    "slideshow_yqHeBr",
+    "text_columns_fHWpM8",
+    "text_columns_6Bdhyx",
+    "single_button_e744gE"
   ]
 }
