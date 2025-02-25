@@ -135,6 +135,7 @@ Arguments
             {%- capture image_classes -%}
               image-style--{{ image_style }}
             {%- endcapture -%}
+             <a href="{{ product.url | within: collection }}" class="grid-product__link">
             {%- render 'image-element',
               img: second_image,
               classes: image_classes,
@@ -143,6 +144,7 @@ Arguments
               fallback: fallback,
               widths: '360, 540, 720, 1000',
             -%}
+             </a>
           </div>
         {%- endif -%}
 
