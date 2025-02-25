@@ -12,8 +12,8 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "page_title_enable": false,
-        "page_content_enable": false
+        "page_title_enable": true,
+        "page_content_enable": true
       }
     }
   },
