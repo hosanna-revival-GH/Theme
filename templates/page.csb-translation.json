@@ -91,18 +91,98 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "image_iKH8eT": {
       "type": "single-image",
-      "settings": {}
+      "blocks": {
+        "image_block_4UYP8i": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/csb-graph.jpg",
+            "image_link": "",
+            "image_width": 790,
+            "space_above": 0,
+            "space_below": 80
+          }
+        }
+      },
+      "block_order": [
+        "image_block_4UYP8i"
+      ],
+      "settings": {
+        "section_title": "Featured Images"
+      }
+    },
+    "rich_text_YgBA33": {
+      "type": "rich-text",
+      "blocks": {
+        "text_gUEkDk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The good news of the gospel and the truth of God’s Word are meant to be shared. A translation that is both highly literal and highly readable opens the door for every believer to share the Bible not only with those who have read it for a lifetime, but also with those reading the Bible for the first time. Learn more about the quantitative evaluation of the Christian Standard Bible <a href=\"https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf\" target=\"_blank\" title=\"https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf\">here</a>.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_EekVqT": {
+          "type": "heading",
+          "settings": {
+            "title": "Endorsements"
+          }
+        },
+        "text_8CRrRp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The Christian Standard Bible provides a clear trustworthy translation of the Holy Scriptures in a style that the reader can clearly hear the voice of God in print speaking to their soul.”<br/><strong>Tony Evans</strong>, Senior Pastor, Oak Cliff Bible Fellowship, Dallas, TX<br/></p><p>“I've been using the CSB in sermons consistently for over a year. I love how it handles many difficult passages exceptionally well while also being exceptionally readable. Accuracy and readability—a great combo.”<br/><strong>J.D. Greear</strong>, Pastor, The Summit Church, Durham, NC<br/><br/>“As a pastor, I want a Bible translation that is trustworthy for preaching and study but accessible enough for my people to read and understand for themselves. For this reason, I’m delighted to commend to you the Christian Standard Bible.”<br/><strong>Alistair Begg</strong>, Senior Pastor, Parkside Church, Chagrin Falls, OH</p><p>“As I travel around the country teaching the Bible to women, I encourage them to draw on the promises of God as their main source and sustenance for life. The Christian Standard Bible lines up perfectly with my core ministry goals—theological soundness and accessibility for the everyday person.”<br/><strong>Lisa Harper</strong>, Bible teacher and author</p><p>“I am deeply grateful for the Christian Standard Bible, because it is rigorously faithful to the original languages without sacrificing clear readability. This translation will help believers and non-believers around the world be able to read, understand, memorize, obey, and proclaim God’s Word.”<br/><strong>David Platt</strong>, Pastor and author, <em>Radical</em> and <em>Counter Culture</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_QAQCPH": {
+          "type": "heading",
+          "settings": {
+            "title": "Resources"
+          }
+        },
+        "text_XiLNfz": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Read the CSB online for free at <a href=\"https://read.csbible.com/\" target=\"_blank\" title=\"https://read.csbible.com/\">read.CSBible.com</a>.</p><p>For more information about the CSB translation, visit <a href=\"https://csbible.com/about-the-csb/\" target=\"_blank\" title=\"https://csbible.com/about-the-csb/\">https://csbible.com/about-the-csb/</a>.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_gUEkDk",
+        "heading_EekVqT",
+        "text_8CRrRp",
+        "heading_QAQCPH",
+        "text_XiLNfz"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
     "featured_video_P9ycHY",
     "rich_text_iKH8eT",
-    "image_iKH8eT"
+    "image_iKH8eT",
+    "rich_text_YgBA33"
   ]
 }
