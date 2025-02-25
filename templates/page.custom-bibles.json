@@ -11,13 +11,203 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_MEhH4x": {
+      "type": "slideshow",
+      "blocks": {
+        "image_g8WaXP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Custom Request",
+            "title_size": 72,
+            "subheading": "Fully-Custom Hand-Painted Bibles",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/hero-custom.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_g8WaXP"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_CQDJrD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9Pi4TR": {
+          "type": "heading",
+          "settings": {
+            "title": "Fully-Custom Bibles"
+          }
+        },
+        "text_yR7YwD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Custom hand-painted Bibles are the product that started Hosanna Revival. As we have grown, our artist and founder, Katie, spends her time designing new products, leading our team, and growing the company. She no longer has the capacity to accept custom hand-painted orders at regular intervals. However, because custom work is near and dear to her heart, we have created a custom design submission process! Anyone interested in a custom hand-painted Bible can submit their design idea using the form below. We will review the submissions periodically and select custom projects that are a good fit for our brand and design capacity. We love to review your ideas and see your creativity!</p><p><em>*If you are in a rush, we wouldn't recommend this process and encourage you to find another artist on Etsy or consider our beautiful printed Bibles in our shop.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9Pi4TR",
+        "text_yR7YwD"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_ygwyXm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tjGbU8": {
+          "type": "heading",
+          "settings": {
+            "title": "Frequently Asked Questions"
+          }
+        },
+        "text_ifYLh3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Because we receive so many messages and questions about hand-painted Bibles, we’ve compiled a list of our most-asked questions as well as some helpful information about our hand-painted Bible design request process.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_tjGbU8",
+        "text_ifYLh3"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "faq_xJyfa6": {
+      "type": "faq",
+      "blocks": {
+        "question_hXCdWp": {
+          "type": "question",
+          "settings": {
+            "title": "Do you take fully-custom Bible orders?",
+            "text": "<p>Short answer: No. But because our artist, Katie, loves custom work, we have created this design submission request form. Our team reviews each submission and will select a few Bible design ideas from time to time that are a good fit for our brand and design capacity.</p>"
+          }
+        },
+        "question_LXA43T": {
+          "type": "question",
+          "settings": {
+            "title": "How do I submit my design idea?",
+            "text": "<p>Please fill out the form below!</p>"
+          }
+        },
+        "question_nf6xMN": {
+          "type": "question",
+          "settings": {
+            "title": "How do I know if my design is selected or not selected?",
+            "text": "<p>You will receive an email response letting you know if we will move forward with your custom order or if your request has not been accepted.</p>"
+          }
+        },
+        "question_Pae6zD": {
+          "type": "question",
+          "settings": {
+            "title": "Why wasn’t my design selected?",
+            "text": "<p>We get an enormous amount of requests for custom Bible designs, and we simply cannot accept them all. We select designs that fit our current capacity and reflect our brand well. You can also check your design against the following lists to see things we are and aren't looking for.</p>"
+          }
+        },
+        "question_zw8mWE": {
+          "type": "question",
+          "settings": {
+            "title": "What types of designs are you looking for?",
+            "text": "<p>- Cohesive color schemes and scenes<br/>- Beautiful, natural landscapes (scenery as you would find in nature)<br/>- Floral arrangements</p>"
+          }
+        },
+        "question_9a9cNT": {
+          "type": "question",
+          "settings": {
+            "title": "What are some things you’re NOT looking for?",
+            "text": "<p>- Animals and/or humans<br/>- Other logos and/or brands<br/>- Man-made objects (structures, statues, etc)<br/>- Copyrighted or trademarked material (example: Disney castle or characters)<br/>- Different designs on front and back (Bible is painted as one piece of art)<br/>- Combination of complex landscape/sky images<br/>- Wedding venues or other buildings/structures<br/>- Text exceeding posted character limit</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_hXCdWp",
+        "question_LXA43T",
+        "question_nf6xMN",
+        "question_Pae6zD",
+        "question_zw8mWE",
+        "question_9a9cNT"
+      ],
+      "settings": {
+        "title": "",
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "174045949336af68ae": {
+      "type": "apps",
+      "blocks": {
+        "acerill_form_builder_custom_form_RgLQJx": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "8e03aaaf-73c2-4763-906d-f93fdbc68956",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "acerill_form_builder_custom_form_RgLQJx"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_MEhH4x",
+    "rich_text_CQDJrD",
+    "rich_text_ygwyXm",
+    "faq_xJyfa6",
+    "174045949336af68ae"
   ]
 }
