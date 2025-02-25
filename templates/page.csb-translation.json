@@ -93,11 +93,16 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "image_iKH8eT": {
+      "type": "single-image",
+      "settings": {}
     }
   },
   "order": [
     "main",
     "featured_video_P9ycHY",
-    "rich_text_iKH8eT"
+    "rich_text_iKH8eT",
+    "image_iKH8eT"
   ]
 }
