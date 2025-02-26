@@ -287,15 +287,15 @@
             "title": "BONUS CONTENT",
             "title_size": 72,
             "subheading": "For \"God Our Home\"",
-             "link": "https://www.instagram.com/katie.noble/",
+            "link": "https://www.instagram.com/katie.noble/",
             "link_text": "Optional button",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
             "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-355.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
@@ -312,56 +312,115 @@
         "lazyload_images": true
       }
     },
-             "85eae3f3-17a5-4f53-88da-5cdeb31d135b": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/GOH-Landing-Page-Photos-05.png",
-              "image_width": "50",
-              "subtitle": "Bonus Content",
-              "title": "God Our Home Leader Guide",
-              "text": "<p>Are you a Bible Study leader looking for extra content to guide your group? Download the FREE<em> God Our Home</em> Leader Guide here.</p>",
-              "button_label": "Download Here",
-              "button_link": "https://hosannarevival.com/god-our-home-leader-guide",
-              "layout": "left"
-            }
-          },
-          "300b442e-c30a-43b8-aef7-784a2c15a66b": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/GOH-Landing-Page-Photos-06.png",
-              "image_width":  "50",
-              "subtitle": "MEET THE AUTHOR",
-              "title": "Katie Noble",
-              "text": "<p>Katie Noble is the founder and lead writer of Goodness Co. and the author of Pray Like This: Christ’s Guide to Praying the Scriptures, a devotional on the Lord’s Prayer published by Hosanna Revival. She lives and writes in central Ohio with her husband, David, and three children.</p>",
-              "button_label": "FOLLOW KATIE HERE",
-              "button_link": "https://www.instagram.com/katie.noble/",
-              "layout": "right"
-            }
-          },
-          "fa90acba-9c86-4dbf-915e-68c375d60143": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/GOH-Landing-Page-Photos-07.png",
-              "image_width": "50",
-              "subtitle": "MEET THE AUTHOR",
-              "title": "Katie's Story",
-              "text": "<p>I’ve never felt more alone than I did in the summer of 2020. We’d just moved to a new city in the thick of the pandemic. I spent those months unpacking boxes of familiar things into an unfamiliar house, carting two young sons to unfamiliar playgrounds with unfamiliar faces—half covered by masks—we weren’t allowed to get to know. We’d left a solid church, a rich community, and our families without the chance to say goodbye in order that we might bring the Gospel to a city a few hours north. I longed to go home that first year—begging God to make a way for us to go back to where we felt safe and comfortable.</p><p>Early one morning, as I read and cried in our living room, God pulled back the curtain on his purposes for me in this season of upheaval. “You’ve gotten to know the <em>things</em> of my Kingdom,” he whispered, “but I brought you here that you might finally get to know<em> me</em>.”</p><p>I’d had the rhythms, schedule, and intellectual understanding of any “good Christian”—I had the answers and the resume. But those are all circumstances, not a relationship. When our world turned on its side, I wanted a change of <em>circumstance</em>—the way I’d always experienced him<em>.</em> Instead, God gave me a change of awareness: a new sense of intimate knowledge of the God who’d brought us here in the first place.</p><p>Life in our new home has grown and flourished under God’s care. We’ve learned to love this place and these people. But our place and people are no match for the certainty of peace and belonging that come from being with the God who created, sees, and provides for us. He has become my home, and it’s made all the difference. I pray that in studying the gospel of John through <em>God Our Home</em>, you might also find the home you’re longing for.<br/></p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "362b51ae-2645-4f20-913e-add26fcf5641": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "BUY NOW",
-              "button_link": "https://hosannarevival.com/products/god-our-home",
-              "button_size": "huge"
-            }
-          },
+    "85eae3f3-17a5-4f53-88da-5cdeb31d135b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-05.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Bonus Content",
+        "title": "God Our Home Leader Guide",
+        "text": "<p>Are you a Bible Study leader looking for extra content to guide your group? Download the FREE<em> God Our Home</em> Leader Guide here.</p>",
+        "button_label": "Download Here",
+        "button_link": "https://hosannarevival.com/god-our-home-leader-guide",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "300b442e-c30a-43b8-aef7-784a2c15a66b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-06.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "MEET THE AUTHOR",
+        "title": "Katie Noble",
+        "text": "<p>Katie Noble is the founder and lead writer of Goodness Co. and the author of Pray Like This: Christ’s Guide to Praying the Scriptures, a devotional on the Lord’s Prayer published by Hosanna Revival. She lives and writes in central Ohio with her husband, David, and three children.</p>",
+        "button_label": "FOLLOW KATIE HERE",
+        "button_link": "https://www.instagram.com/katie.noble/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fa90acba-9c86-4dbf-915e-68c375d60143": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-07.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "MEET THE AUTHOR",
+        "title": "Katie's Story",
+        "text": "<p>I’ve never felt more alone than I did in the summer of 2020. We’d just moved to a new city in the thick of the pandemic. I spent those months unpacking boxes of familiar things into an unfamiliar house, carting two young sons to unfamiliar playgrounds with unfamiliar faces—half covered by masks—we weren’t allowed to get to know. We’d left a solid church, a rich community, and our families without the chance to say goodbye in order that we might bring the Gospel to a city a few hours north. I longed to go home that first year—begging God to make a way for us to go back to where we felt safe and comfortable.</p><p>Early one morning, as I read and cried in our living room, God pulled back the curtain on his purposes for me in this season of upheaval. “You’ve gotten to know the <em>things</em> of my Kingdom,” he whispered, “but I brought you here that you might finally get to know<em> me</em>.”</p><p>I’d had the rhythms, schedule, and intellectual understanding of any “good Christian”—I had the answers and the resume. But those are all circumstances, not a relationship. When our world turned on its side, I wanted a change of <em>circumstance</em>—the way I’d always experienced him<em>.</em> Instead, God gave me a change of awareness: a new sense of intimate knowledge of the God who’d brought us here in the first place.</p><p>Life in our new home has grown and flourished under God’s care. We’ve learned to love this place and these people. But our place and people are no match for the certainty of peace and belonging that come from being with the God who created, sees, and provides for us. He has become my home, and it’s made all the difference. I pray that in studying the gospel of John through <em>God Our Home</em>, you might also find the home you’re longing for.<br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "362b51ae-2645-4f20-913e-add26fcf5641": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "slideshow_hEcbWD": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dQpKfN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/products/god-our-home",
+            "link_text": "SHOP GOD OUR HOME",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-368.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_dQpKfN"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -381,6 +440,7 @@
     "85eae3f3-17a5-4f53-88da-5cdeb31d135b",
     "300b442e-c30a-43b8-aef7-784a2c15a66b",
     "fa90acba-9c86-4dbf-915e-68c375d60143",
-    "362b51ae-2645-4f20-913e-add26fcf5641"
+    "362b51ae-2645-4f20-913e-add26fcf5641",
+    "slideshow_hEcbWD"
   ]
 }
