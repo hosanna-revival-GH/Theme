@@ -679,16 +679,17 @@
         "image_wbQiyj": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
+            "top_subheading": "\"God's Word Brings Revival. We've seen it time and time again and we don't think he's done yet.\"",
+            "title": "",
             "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-006.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -698,7 +699,7 @@
         "image_wbQiyj"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
