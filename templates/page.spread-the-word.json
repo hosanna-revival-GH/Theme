@@ -585,12 +585,54 @@
             "button_label": "Find your Compact Bible",
             "button_link": ""
           }
+        },
+        "text_block_pwfnwC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-064.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Journaling Bibles",
+            "text": "<p>Purchase a journaling Bible and share how you like to fill in the margins</p>",
+            "button_label": "Shop Journaling Bibles",
+            "button_link": ""
+          }
+        },
+        "text_block_VtPtY8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-234.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "5-Year Prayer Journals",
+            "text": "<p>Get a prayer journal, pray for each other and share when God answers!</p>",
+            "button_label": "Begin a 5-year Prayer Journal",
+            "button_link": ""
+          }
+        },
+        "text_block_RGi8Rt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Sonora-ESV-Study-Bible-Softcover-Neutral-Cream-Floral-Deboss-Hosanna-Revival-Styled-02.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Study Bibles",
+            "text": "<p>Pursue deep study with a friend and share what stuck out to you with a Study Bible.</p>",
+            "button_label": "Explore study Bibles",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "text_block_wXjXJB",
         "text_block_PfBJ7L",
-        "text_block_bkxPii"
+        "text_block_bkxPii",
+        "text_block_pwfnwC",
+        "text_block_VtPtY8",
+        "text_block_RGi8Rt"
       ],
       "settings": {
         "title": "",
