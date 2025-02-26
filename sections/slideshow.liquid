@@ -141,9 +141,9 @@
                 {% endif %}
 
                 {% if block.settings.link != blank %}
-                  .slideshow-wrapper .hero__text-wrap {
-                      top: -100%;
-                    }
+                .index-section--hero:not(:first-child) .slideshow-wrapper .hero__text-wrap {
+                    top: -100%;
+                }
                   {% endif %}
               {%- endstyle -%}
 
