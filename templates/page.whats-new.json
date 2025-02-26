@@ -56,8 +56,30 @@
     "single_button_z78Gx6": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
+        "button_text": "they're back!",
+        "button_link": "shopify://collections/nlt-compact-bibles",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "single_button_KDXcyH": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Your new compact bible",
+        "button_link": "shopify://collections/nlt-compact-bibles",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "single_button_eFchhW": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "2025 PLANNERS",
+        "button_link": "shopify://collections/planners",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -68,6 +90,8 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
-    "single_button_z78Gx6"
+    "single_button_z78Gx6",
+    "single_button_KDXcyH",
+    "single_button_eFchhW"
   ]
 }
