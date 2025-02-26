@@ -14,7 +14,8 @@
             <a href="{{ block.settings.link }}">
           {% endif %}
           {%- if block.settings.image != blank -%}
-            {{ block.settings.image | image_url: width: block.settings.image_width | image_tag: class: 'photoswipe__image js-photoswipe__zoom', alt: block.settings.caption, data-photoswipe-src:block.settings.image, data-photoswipe-width:block.settings.image_width, data-photoswipe-height:"2046" }}
+            {% assign image_url = block.settings.image | image_url: width: block.settings.image_width %}
+            {{ block.settings.image | image_url: width: block.settings.image_width | image_tag: class: 'photoswipe__image js-photoswipe__zoom', alt: block.settings.caption, data-photoswipe-src:image_url, data-photoswipe-width:block.settings.image_width, data-photoswipe-height:"2046" }}
           {%- else -%}
             {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
           {%- endif %}
