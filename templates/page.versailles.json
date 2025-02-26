@@ -143,15 +143,17 @@
           "type": "image",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-371.jpg",
             "image_width": 650,
             "caption": "Image Caption",
             "link": ""
           }
         },
-        "image_xwinkm": {
+        "image_jV3r4c": {
           "type": "image",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-373.jpg",
             "image_width": 650,
             "caption": "Image Caption",
             "link": ""
@@ -161,6 +163,7 @@
           "type": "image",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-374.jpg",
             "image_width": 650,
             "caption": "Image Caption",
             "link": ""
@@ -169,7 +172,7 @@
       },
       "block_order": [
         "image_pACLjc",
-        "image_xwinkm",
+        "image_jV3r4c",
         "image_WJRyJx"
       ],
       "settings": {
