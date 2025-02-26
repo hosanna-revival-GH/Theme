@@ -262,17 +262,68 @@
         "divider": false
       }
     },
-              "7586ae78-add1-4e82-8e3e-0b44d9c045bf": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Choose His Gift",
-              "button_link": "shopify://collections/gifts-for-men",
-              "button_size": "huge"
-            }
-          },
+    "7586ae78-add1-4e82-8e3e-0b44d9c045bf": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose His Gift",
+        "button_link": "shopify://collections/gifts-for-men",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "text_columns_abCtgD": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_3XEcjR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_wVKG6E": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_8zNKRj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3XEcjR",
+        "text_block_wVKG6E",
+        "text_block_8zNKRj"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -285,6 +336,7 @@
     "2e1f6d7b-f835-474a-b76c-8792620f64eb",
     "f0612e38-6b5d-4d6a-b9d4-d83c444b76ad",
     "featured_collection_aQtdUx",
-     "7586ae78-add1-4e82-8e3e-0b44d9c045bf"
+    "7586ae78-add1-4e82-8e3e-0b44d9c045bf",
+    "text_columns_abCtgD"
   ]
 }
