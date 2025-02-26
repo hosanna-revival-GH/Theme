@@ -87,82 +87,88 @@
         "space_below": 75
       }
     },
-    "text_columns_FdDd96": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_VAwKkd": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_7dXp8U": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_NnatEH": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_nMz38N": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_zNp8kU": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_zKpXRq": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"text_columns_FdDd96": {
+  "type": "text-columns",
+  "blocks": {
+    "text_block_VAwKkd": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "GIFTS FOR HER",
+        "text": "",
+        "button_label": "SHOP",
+        "button_link": "shopify://collections/for-women",
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0180.jpg"
+      }
+    },
+    "text_block_7dXp8U": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "GIFTS FOR HIM",
+        "text": "",
+        "button_label": "SHOP",
+        "button_link": "shopify://collections/gifts-for-men",
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0266_c97bd5b0-ffa6-4032-8212-a116a2e18b3e.jpg"
+      }
+    },
+    "text_block_NnatEH": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "STOCKING STUFFERS",
+        "text": "",
+        "button_label": "SHOP",
+        "button_link": "shopify://collections/stocking-stuffers",
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Stocking-Stuffers-2024-Hosanna-Revival-1107.jpg"
+      }
+    },
+    "text_block_nMz38N": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "GIFTS UNDER $25",
+        "text": "",
+        "button_label": "shop",
+        "button_link": "shopify://collections/by-price",
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0444.jpg"
+      }
+    },
+    "text_block_zNp8kU": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "GIFTS UNDER $50",
+        "text": "",
+        "button_label": "shop",
+        "button_link": "shopify://collections/under-60",
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0417.jpg"
+      }
+    },
+    "text_block_zKpXRq": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "GIFTS UNDER $75",
+        "text": "",
+        "button_label": "shop",
+        "button_link": "shopify://collections/under-100",
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0370.jpg"
+      }
+    }
+  },
       "block_order": [
         "text_block_VAwKkd",
         "text_block_7dXp8U",
