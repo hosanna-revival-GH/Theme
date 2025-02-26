@@ -11,13 +11,255 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_iabHkF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LXFrTT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Hosanna Revival",
+            "title_size": 72,
+            "subheading": "Your Home for Beautiful Bibles",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-029_2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LXFrTT"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_74ApkJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BDYxVP": {
+          "type": "heading",
+          "settings": {
+            "title": "Your Home for Beautiful Bibles"
+          }
+        },
+        "text_3tE7dF": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Are you ready to revive your excitement? Choose your beautiful Bible today.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BDYxVP",
+        "text_3tE7dF"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_i4xjyV": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_hNtrF7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_rHmcLA": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_99nyTq": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hNtrF7",
+        "text_block_rHmcLA",
+        "text_block_99nyTq"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_9XywkN": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 20,
+        "space_below": 50
+      }
+    },
+    "text_columns_k6KCcU": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_UwnqeW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_9DHrke": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_N8qwEp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_UwnqeW",
+        "text_block_9DHrke",
+        "text_block_N8qwEp"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "hero_video_JLJ3hy": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/d6b2acb5c1a84fefa9501ed69e9dc95f.mp4",
+        "overlay_opacity": 0,
+        "section_height": "550px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_mwmFBC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tVhYBU": {
+          "type": "heading",
+          "settings": {
+            "title": "How to Choose Your Bible"
+          }
+        },
+        "text_WrWQHg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Because when it’s beautiful<br/>it becomes personal</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_tVhYBU",
+        "text_WrWQHg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_iabHkF",
+    "rich_text_74ApkJ",
+    "text_columns_i4xjyV",
+    "single_button_9XywkN",
+    "text_columns_k6KCcU",
+    "hero_video_JLJ3hy",
+    "rich_text_mwmFBC"
   ]
 }
