@@ -108,45 +108,120 @@
         "space_below": 45
       }
     },
-              "text_and_image_NBNbtF": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/BE-Landing-01.png",
-              "image_width": "50",
-              "subtitle": "beyond egypt",
-              "title": "This Study is for you if...",
-              "text": "<p>- You are feeling distant from God<br/>- Struggle to see God throughout your daily moments <br/>- You desire a deeper understand of God's Word and how to practically apply rich theology in everyday life</p>",
-              "button_label": "choose this tool",
-              "button_link": "https://hosannarevival.com/products/beyond-egypt",
-              "layout": "left"
-            }
-          },
-          "text_and_image_tXMLeh": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/BE-Landing-02.png",
-              "image_width": "50",
-              "subtitle": "The Details",
-              "title": "Beyond Egypt",
-              "text": "<p><strong>Topic: I</strong>nductive Bible study on Exodus for those who desire to deeply understand God’s Word and want to learn how to apply that knowledge to their daily life. <strong><br/>Length of Study: </strong>7 weeks<strong><br/>Focal Scripture: </strong>Exodus</p><p>“The story of God reminds us our behavior does not determine if God keeps his promises; he keeps his promise to us because he is God and that’s what he does.”<br/> — <em>Kari Minter, author</em></p>",
-              "button_label": "choose this tool",
-              "button_link": "https://hosannarevival.com/products/beyond-egypt",
-              "layout": "right"
-            }
-          },
-          "text_and_image_tEtfry": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/BE-Landing-03.png",
-              "image_width": "50",
-              "subtitle": "Peek Inside",
-              "title": "The Structure",
-              "text": "<p><strong>Structure: </strong>7 week inductive Bible Study<strong><br/>Elements: </strong> The initial four days of each week reveal the character of God with an in-depth exploration of Exodus and how it points to Christ. On the fifth day, you will focus on actualizing your theological understanding through practical spiritual exercises. Kari's goal is to equip you to tread confidently “beyond Egypt” in the profound freedom given to us in Christ.</p>",
-              "button_label": "choose this tool",
-              "button_link": "https://hosannarevival.com/products/beyond-egypt",
-              "layout": "left"
-            }
-          },
+    "text_and_image_NBNbtF": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/BE-Landing-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "beyond egypt",
+        "title": "This Study is for you if...",
+        "text": "<p>- You are feeling distant from God<br/>- Struggle to see God throughout your daily moments <br/>- You desire a deeper understand of God's Word and how to practically apply rich theology in everyday life</p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/beyond-egypt",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_tXMLeh": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/BE-Landing-02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Details",
+        "title": "Beyond Egypt",
+        "text": "<p><strong>Topic: I</strong>nductive Bible study on Exodus for those who desire to deeply understand God’s Word and want to learn how to apply that knowledge to their daily life. <strong><br/>Length of Study: </strong>7 weeks<strong><br/>Focal Scripture: </strong>Exodus</p><p>“The story of God reminds us our behavior does not determine if God keeps his promises; he keeps his promise to us because he is God and that’s what he does.”<br/> — <em>Kari Minter, author</em></p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/beyond-egypt",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_tEtfry": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/BE-Landing-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Peek Inside",
+        "title": "The Structure",
+        "text": "<p><strong>Structure: </strong>7 week inductive Bible Study<strong><br/>Elements: </strong> The initial four days of each week reveal the character of God with an in-depth exploration of Exodus and how it points to Christ. On the fifth day, you will focus on actualizing your theological understanding through practical spiritual exercises. Kari's goal is to equip you to tread confidently “beyond Egypt” in the profound freedom given to us in Christ.</p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/beyond-egypt",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_columns_aW86M6": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_x9HrWy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_jcHpkD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_amcaUb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_x9HrWy",
+        "text_block_jcHpkD",
+        "text_block_amcaUb"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -154,7 +229,8 @@
     "rich_text_QdhBhr",
     "single_button_LhGj48",
     "text_and_image_NBNbtF",
-     "text_and_image_tXMLeh",
-     "text_and_image_tEtfry"
+    "text_and_image_tXMLeh",
+    "text_and_image_tEtfry",
+    "text_columns_aW86M6"
   ]
 }
