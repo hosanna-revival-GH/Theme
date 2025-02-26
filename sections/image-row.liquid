@@ -1,3 +1,10 @@
+<div
+  data-subsection
+  data-section-id="{{ section.id }}"
+  {% if section.settings.enable_zoom %}
+    data-section-type="photoswipe"
+    data-zoom="true"
+  {% endif %}>
 <div class="image-row image-row--gutters">
   {% for block in section.blocks %}
     {% if block.settings.enable_image %}
@@ -19,6 +26,7 @@
     {% endif %}
   {% endfor %}
 </div>
+  </div>
 {% style %}
   {% assign number_rows = 100.0 | divided_by: section.blocks.size %}
 .image-row {
