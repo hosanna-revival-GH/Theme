@@ -65,6 +65,12 @@
   display: block; /* Removes bottom space under the image */
   height:100%;
 }
+  [data-zoom=true] .image-wrap-row .js-photoswipe__zoom{
+    cursor:zoom-in;
+  }
+  [data-zoom=true] .image-wrap-row a .js-photoswipe__zoom{
+    cursor:pointer;
+  }
 {% endstyle %}
 {% schema %}
 {
