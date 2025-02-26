@@ -146,7 +146,46 @@
         "section_height": "650px",
         "mobile_height": "auto"
       }
-    }
+    },
+             "da746f0b-4260-46bb-84ef-1971c4d26396": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
+              "image_width": "50",
+              "subtitle": "GOD OUR HOME",
+              "title": "This Devotional is for you if...",
+              "text": "<p>- You are longing for a sense of rootedness that stretches beyond earthly security<br/>- You are a disciple feeling disenchanted and a little lost<br/>- You are ready to stop making excuses and get to the bottom of their distrust of Jesus</p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "https://hosannarevival.com/products/god-our-home",
+              "layout": "left"
+            }
+          },
+          "98fc1525-b2f7-4d80-98e1-0c04723131b9": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/GOH-Landing-Page-Photos-02.png",
+              "image_width": "50",
+              "subtitle": "THE DETAILS",
+              "title": "God Our Home",
+              "text": "<p><strong>Topic: </strong>The reality of God's nearness<strong><br/>Length of Study: </strong>10-week Bible Study<strong><br/>Focal Scripture: </strong>The Gospel of John</p><p>\"Our spiritual yearning for home exists because we were built by the hands of God to find our belonging in the heavenly home and the holy community prepared for us before the beginning of time.\"<em> </em>(16)</p><p><em>—Katie Noble, author </em></p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "https://hosannarevival.com/products/god-our-home",
+              "layout": "right"
+            }
+          },
+          "fd8a4a54-1a72-4127-9d56-c56d54a85284": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/GOH-Landing-Page-Photos-03.png",
+              "image_width": "50",
+              "subtitle": "PEEK INSIDE",
+              "title": "The Devotional Structure",
+              "text": "<p><strong>Structure: </strong>10 week study<strong><br/>Elements: </strong><em>God Our Home</em> features section introductions, daily Scripture readings and reflection questions, weekly section reflections, and major discourse pauses to dive deeper into the Scripture. </p>",
+              "button_label": "choose this tool",
+              "button_link": "https://hosannarevival.com/products/god-our-home",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -155,6 +194,9 @@
     "single_button_fjg6yG",
     "featured_collection_HKyeNU",
     "single_button_N7wpJC",
-    "hero_video_VAdaCG"
+    "hero_video_VAdaCG",
+    "da746f0b-4260-46bb-84ef-1971c4d26396",
+     "98fc1525-b2f7-4d80-98e1-0c04723131b9",
+    "fd8a4a54-1a72-4127-9d56-c56d54a85284"
   ]
 }
