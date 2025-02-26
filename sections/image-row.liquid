@@ -14,7 +14,7 @@
             <a href="{{ block.settings.link }}">
           {% endif %}
           {%- if block.settings.image != blank -%}
-            {{ block.settings.image | image_url: width: block.settings.image_width | image_tag: class: 'photoswipe__image js-photoswipe__zoom', alt: block.settings.caption }}
+            {{ block.settings.image | image_url: width: block.settings.image_width | image_tag: class: 'photoswipe__image js-photoswipe__zoom', alt: block.settings.caption, data-photoswipe-src:'//hosannarevival.com/cdn/shop/files/A-Hosanna-Revival-Christmas-Gift-Intentionally-371_1600x1600.jpg?v=1731683251', data-photoswipe-width:'1729', data-photoswipe-height:"2046" }}
           {%- else -%}
             {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
           {%- endif %}
