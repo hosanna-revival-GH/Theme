@@ -388,7 +388,7 @@
         "collection_kaFU3z": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "study-bibles",
             "title": "Study Bibles",
             "focal_point": "center center"
           }
@@ -589,7 +589,7 @@
             "title": "Notebooks",
             "text": "<p> Take notes on what God is teaching you and share with your friend!</p>",
             "button_label": "Shop Notebooks",
-            "button_link": ""
+            "button_link": "shopify://collections/notebooks"
           }
         },
         "text_block_PfBJ7L": {
@@ -602,7 +602,7 @@
             "title": "Devotionals",
             "text": "<p>Walk through a devotional together and meet to discuss what you’re learning.</p>",
             "button_label": "Choose a devotional",
-            "button_link": ""
+            "button_link": "shopify://collections/devotionals"
           }
         },
         "text_block_bkxPii": {
@@ -615,7 +615,7 @@
             "title": "Compact Bibles",
             "text": "<p>Get an NLT Compact Bible and find fun places to read the Word together!</p>",
             "button_label": "Find your Compact Bible",
-            "button_link": ""
+            "button_link": "shopify://collections/nlt-compact-bibles"
           }
         },
         "text_block_pwfnwC": {
@@ -628,7 +628,7 @@
             "title": "Journaling Bibles",
             "text": "<p>Purchase a journaling Bible and share how you like to fill in the margins</p>",
             "button_label": "Shop Journaling Bibles",
-            "button_link": ""
+            "button_link": "shopify://collections/beautiful-bibles"
           }
         },
         "text_block_VtPtY8": {
@@ -641,7 +641,7 @@
             "title": "5-Year Prayer Journals",
             "text": "<p>Get a prayer journal, pray for each other and share when God answers!</p>",
             "button_label": "Begin a 5-year Prayer Journal",
-            "button_link": ""
+            "button_link": "shopify://collections/one-thing-i-ask"
           }
         },
         "text_block_RGi8Rt": {
