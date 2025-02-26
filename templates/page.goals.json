@@ -557,7 +557,18 @@
         "align_text": "center",
         "divider": false
       }
-    }
+    },
+              "aa5100eb-6e99-4c1a-a77d-661eb481f3f5": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Explore all free resources",
+              "button_link": "shopify://pages/free-resources",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -575,6 +586,7 @@
     "text_columns_fTaGrd",
     "20f0d95b-c9cc-48bc-a131-82db7e164d79",
     "rich_text_JWDjwP",
-    "text_columns_Amc9N4"
+    "text_columns_Amc9N4",
+    "aa5100eb-6e99-4c1a-a77d-661eb481f3f5"
   ]
 }
