@@ -98,12 +98,223 @@
         "view_all": true,
         "divider": false
       }
-    }
+    },
+             "text_and_image_Tc6pLe": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-09_1.jpg",
+              "image_width": "50",
+              "subtitle": "By SarahRuth Owens",
+              "title": "The Everyday Banquet",
+              "text": "<p><strong>Topic: Family Discipleship</strong><br/><strong>Type of Study: </strong>Devotional <br/><strong>Length of Study: </strong>52 Weeks<br/><strong>Focal Scripture:</strong> Multiple passages <br/><strong>Structure:</strong> 52 Weekly entries divided into 4 seasons with 4 recipes and 4 hymns per season. </p><p><em>The Everyday Banquet </em>invites families to interrupt their daily busyness and return to the table of discipleship. Together, families will prepare meals, engage in discussion, read God’s Word, and worship. While practicing these rhythms, families will be given the tools to naturally discuss God together as they cultivate the ancient practice of a “sabbath meal” around the table.</p>",
+              "button_label": "Join the banquet",
+              "button_link": "shopify://pages/everyday-banquet",
+              "layout": "right"
+            }
+          },
+          "text_and_image_bCxN9a": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/IWAR-Landing-Page-01.png",
+              "image_width": "50",
+              "subtitle": "by Paige Stitt Mcbride",
+              "title": "In Weeping and Rejoicing",
+              "text": "<p><strong>Topic: Emotional Wellness </strong><br/><strong>Type of Study:</strong> Book <br/><strong>Length of Study:</strong> 8 chapters <br/><strong>Focal Scripture</strong>: multiple passages</p><p><em>In Weeping and Rejoicing</em> breaks down a biblical understanding of emotions and offers readers a practical way forward in their emotional struggles. </p>",
+              "button_label": "Choose this tool",
+              "button_link": "shopify://pages/in-weeping-and-rejoicing",
+              "layout": "left"
+            }
+          },
+          "text_and_image_rPawVp": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/BE-Landing-02.png",
+              "image_width": "50",
+              "subtitle": "BY KARI MINTER",
+              "title": "Beyond Egypt",
+              "text": "<p><strong>Topic: Freedom and obedience</strong><br/><strong>Type of Study: </strong>Bible Study<strong><br/>Length of Study:</strong> 7 weeks<strong><br/>Focal Scripture: </strong>Exodus</p><p><em>Beyond Egypt</em> is an inductive Bible study on Exodus for those who desire to deeply understand God’s Word and want to learn how to apply that knowledge to their daily life. </p>",
+              "button_label": "choose this tool",
+              "button_link": "shopify://pages/beyond-egypt",
+              "layout": "right"
+            }
+          },
+          "4bec0d40-1318-4161-87fb-2498589cd535": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
+              "image_width": "50",
+              "subtitle": "BY KATIE NOBLE",
+              "title": "God Our Home",
+              "text": "<p><strong>Topic: Rootedness</strong><br/><strong>Type of Study: </strong>Bible Study<strong><br/>Length of Study: </strong>10<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>The Gospel of John</p><p><em>God Our Home</em> is a 10-part Bible study on the Gospel of John for the one longing for a sense of rootedness that stretches beyond earthly security.</p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "https://hosannarevival.com/pages/god-our-home",
+              "layout": "left"
+            }
+          },
+          "4653de44-9af4-4c49-bea6-347f6c9b80a7": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_2a171484-e948-4f19-a517-75718acd87b5.png",
+              "image_width": "50",
+              "subtitle": "by Alicia Hamilton",
+              "title": "Eternity In Our Hearts",
+              "text": "<p><strong>Topic: Purpose and the meaning of life</strong><br/><strong>Type of Study: </strong>Bible Study<strong><br/>Length of Study: </strong>7<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>The Book of Ecclesiastes</p><p><em>Eternity in Our Hearts</em> leads readers to discover the literary masterpiece, timeless truths, upside-down kingdom wisdom, and eternal perspective of Ecclesiastes. </p><p></p>",
+              "button_label": "choose this tool",
+              "button_link": "shopify://pages/eternity-in-our-hearts",
+              "layout": "right"
+            }
+          },
+          "9ec6d794-b421-41d2-8332-7076d55dfbe0": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/SFH-Library-03.png",
+              "image_width": "50",
+              "subtitle": "by Ness Cannon",
+              "title": "Start From Here",
+              "text": "<p><strong>Topic: God’s Character</strong><br/><strong>Type of Study: </strong>Devotional<strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages</p><p><em>Start From Here</em> is a 6-week devotional for those who feel distant from God and want to begin an honest journey to finding Jesus in a new way.</p><p></p>",
+              "button_label": "Choose This Tool",
+              "button_link": "shopify://pages/start-from-here",
+              "layout": "left"
+            }
+          },
+          "2fcd114d-417b-466e-9775-0479cfef8b3c": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/UnfoldLibraryImages_02.png",
+              "image_width": "50",
+              "subtitle": "by Liesl Lamprecht",
+              "title": "Unfold",
+              "text": "<p><strong>Topic: Repentance</strong><br/><strong>Length of Study: </strong>6 weeks<br/><strong>Type of Study: </strong>Devotional<br/><strong>Focal Scripture: </strong>Multiple passages<br/><strong>Structure: </strong>Daily entries per week with 3 sections: Reflect, Repent, and Rejoice </p><p>“Search me, O God, and know my heart! . . . And see if there be any grievous way in me, and lead me in the way everlasting!” (Psalm 139:23-24). If you are ready to align the posture of your heart with these words of David, then we encourage you to pick up a copy of <em>Unfold</em>. Readers will be invited into a time of deep introspection in the Word as they discover (or rediscover) the light of Christ.</p><p></p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "shopify://pages/unfold-devotional",
+              "layout": "right"
+            }
+          },
+          "3c65e0e5-8468-47e5-a894-04f8b7fbbbb7": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/storycircle_photo_540x_3026036c-8652-40bb-8a83-108298814e4e.png",
+              "image_width": "50",
+              "subtitle": "by paige stitt-mcbride",
+              "title": "Beauty Not Beheld",
+              "text": "<p><strong>Topic: Beauty and Identity</strong><br/><strong>Type of Study: </strong>Book<br/><strong>Length of Study: </strong>6 weeks <br/><strong>Focal Scripture: </strong>Multiple passages<br/><strong>Structure: </strong>6 daily entries per week, reflection questions</p><p><em>Beauty Not Beheld</em> is a 6-week book for those who want to learn to see themselves and the world through the eyes of God. Each week provides six studies contrasting a common sentiment in society with a biblical truth. After reading the given passage of Scripture and commentary, readers are given reflection questions to verbalize and apply what they are learning.</p><p></p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "shopify://pages/beauty-not-beheld-devotional",
+              "layout": "left"
+            }
+          },
+          "e670311d-a86a-4a77-8af4-e0c1e8c89db9": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/storycircle_photo.png",
+              "image_width": "50",
+              "subtitle": "BY JOSHUA LENON",
+              "title": "The Story Circle",
+              "text": "<p><strong>Topic: The beauty and continuity of the Biblical story</strong><br/><strong>Type of Study: </strong>Book<br/><strong>Length of Study: </strong>6 weeks<br/><strong>Focal Scripture: </strong>Multiple passages<br/><strong>Structure: </strong>1 main weekly reading divided into sections, weekly reflection questions </p><p></p><p><em>The Story Circle </em>is a 6-part study that will draw your mind and imagination into God's beautiful story that has been unfolding since the very dawn of time. </p><p></p>",
+              "button_label": "Explore this Tool",
+              "button_link": "shopify://pages/the-story-circle-devotional",
+              "layout": "right"
+            }
+          },
+          "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/God-of-Forever-Devo-Pg-001.jpg",
+              "image_width": "50",
+              "subtitle": "by Haylee J. Williams",
+              "title": "God of Forever",
+              "text": "<p><strong>Topic: The character of God<br/>Type of Study: </strong>Bible Study<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Multiple passages<br/><strong>Structure</strong>: 5 daily entries per week, questions, weekly introduction</p><p><em>God of Forever</em> is an 8-week study where author Haylee Williams provides an introductory study of the God of Scripture through an emphasis on studying the Word and seeing the magnificence of God from Genesis to Revelation. </p><p></p>",
+              "button_label": "Explore this Tool",
+              "button_link": "shopify://pages/god-of-forever-devotional",
+              "layout": "left"
+            }
+          },
+          "076f66e3-006f-408d-aa70-c3f928ac15bb": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-131.jpg",
+              "image_width": "50",
+              "subtitle": "By Haley Crabtree",
+              "title": "Rooted to Rise",
+              "text": "<p><strong>Topic: Growing in Christ for high school girls<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 10 weeks<br/><strong>Focal Scripture</strong>: Multiple passages<br/><strong>Structure</strong>: 7 daily entries per week, questions, guided prayer, weekly introduction</p><p><em>Rooted to Rise</em> is for any high school girl who desires to grow in her faith. Through the practice of reading God’s Word, journaling, and spending intentional time in prayer, this devotional will help establish daily rhythms with the Lord.</p><p></p>",
+              "button_label": "Explore this Tool",
+              "button_link": "shopify://pages/rooted-to-rise",
+              "layout": "right"
+            }
+          },
+          "84809a14-9439-4977-96cc-d3e02c9555de": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Yet-Devo-Pg-002.jpg",
+              "image_width": "50",
+              "subtitle": "by Erica Boden",
+              "title": "YET: The Promise in Habakkuk for Those in Transition",
+              "text": "<p><strong>Topic: Seasons of transition<br/>Type of Study: </strong>Bible Study<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: Habakkuk<br/><strong>Structure</strong>: 7 daily entries per week, questions</p><p><em>YET</em> is a 6-week devotional for people in seasons of transition who are walking through the in-between. This tool will encourage you that God is available daily, active in your life, and longing to hear your voice. </p><p></p>",
+              "button_label": "Explore this Tool",
+              "button_link": "shopify://pages/yet-devotional",
+              "layout": "left"
+            }
+          },
+          "25184cd1-0b17-4ee9-9002-8893cfd688a0": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Songs-for-the-Suffering-Devo-Pg-001.jpg",
+              "image_width": "50",
+              "subtitle": "By Julia Allspaw",
+              "title": "Songs for the Suffering",
+              "text": "<p><strong>Topic: Suffering and grief<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: Multiple passages<br/><strong>Structure</strong>: 1 main weekly reading, questions, end-of-chapter summary, journaling margins</p><p>In <em>Songs for the Suffering,</em> you will journey through the questions, fears, and doubts that come when suffering strikes and discover how the Word of God doesn’t ignore your pain, but rather, invites you to come to the table <em>with</em> it. </p><p></p>",
+              "button_label": "Explore this Tool",
+              "button_link": "shopify://pages/songs-for-the-suffering",
+              "layout": "right"
+            }
+          },
+          "baa00edd-f647-46b5-9af6-b1a133454696": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/I-Am-Not-In-Charge-Devo-Pg-001.jpg",
+              "image_width": "50",
+              "subtitle": "By Ness Cannon",
+              "title": "I Am Not in Charge",
+              "text": "<p><strong>Topic: Control<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Jesus' ministry in the gospels<br/><strong>Structure</strong>: 1 main weekly reading, questions, action steps</p><p><em>I Am Not in Charge</em> is an 8-week devotional where author Ness Cannon shows us— through her own story, Scripture, and thought-provoking questions—how to take baby steps toward peace and connection through accepting what we can—and can't—control.</p><p></p>",
+              "button_label": "Explore this Tool",
+              "button_link": "shopify://pages/i-am-not-in-charge",
+              "layout": "left"
+            }
+          },
+          "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-01.png",
+              "image_width": "50",
+              "subtitle": "By Katie Noble",
+              "title": "Pray Like This",
+              "text": "<p><strong>Topic: Prayer<br/>Type of Study: </strong>Devotioinal<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Matthew 6:9-13<br/><strong>Structure</strong>: Daily entries, questions, guided prayer, weekly introduction</p><p>This 8-week study traverses through the depths of the Lord’s Prayer, drawing us nearer to the foot of the cross while shaping the way we pray and commune with God.</p><p></p>",
+              "button_label": "Explore this Tool",
+              "button_link": "shopify://pages/pray-like-this",
+              "layout": "right"
+            }
+          },
+
   },
   "order": [
     "main",
     "slideshow_jcqhbB",
     "rich_text_HqDrRF",
-    "featured_collection_J8jTm7"
+    "featured_collection_J8jTm7",
+             "text_and_image_Tc6pLe",
+          "text_and_image_bCxN9a",
+          "text_and_image_rPawVp",
+          "4bec0d40-1318-4161-87fb-2498589cd535",
+          "4653de44-9af4-4c49-bea6-347f6c9b80a7",
+          "9ec6d794-b421-41d2-8332-7076d55dfbe0",
+          "2fcd114d-417b-466e-9775-0479cfef8b3c",
+          "3c65e0e5-8468-47e5-a894-04f8b7fbbbb7",
+          "e670311d-a86a-4a77-8af4-e0c1e8c89db9",
+          "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5",
+          "076f66e3-006f-408d-aa70-c3f928ac15bb",
+          "84809a14-9439-4977-96cc-d3e02c9555de",
+          "25184cd1-0b17-4ee9-9002-8893cfd688a0",
+          "baa00edd-f647-46b5-9af6-b1a133454696",
+          "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
   ]
 }
