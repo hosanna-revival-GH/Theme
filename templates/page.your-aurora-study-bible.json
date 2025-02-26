@@ -141,11 +141,18 @@
       }
     }
   },
-  "settings": {
-    "title": "",
-    "align_text": "center"
-  }
-},
+      "block_order": [
+        "text_block_3qnQfQ",
+        "text_block_3dT6an",
+        "text_block_cQgqeG",
+
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
   },
   "order": [
     "main",
