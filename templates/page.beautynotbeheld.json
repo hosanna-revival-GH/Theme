@@ -371,6 +371,29 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "single_button_B9cgYL": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BACK TO DEVOTIONAL LIBRARY",
+        "button_link": "shopify://pages/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 60,
+        "space_below": 60
+      }
+    },
+    "featured_collection_weicCe": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop all devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -389,6 +412,8 @@
     "text_and_image_WYLz86",
     "text_and_image_fVfCNW",
     "single_button_zCQMdG",
-    "slideshow_NUMjKP"
+    "slideshow_NUMjKP",
+    "single_button_B9cgYL",
+    "featured_collection_weicCe"
   ]
 }
