@@ -291,7 +291,57 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+             "text_and_image_EJQrVe": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/BE-Landing-08.png",
+              "image_width":"50",
+              "subtitle": "Study Tools",
+              "title": "New to the Bible?",
+              "text": "<p>Are you new to reading the Bible? If you’re picking up this devotional yet feel unable to navigate God’s Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
+              "button_label": "Browse bible Toolkit",
+              "button_link": "shopify://pages/bible-toolkit",
+              "layout": "left"
+            }
+          },
+          "text_and_image_hk3nYA": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/BE-Landing-09.png",
+              "image_width":"50",
+              "subtitle": "Meet The Author",
+              "title": "Kari Minter",
+              "text": "<p>Kari Minter is a pastor’s wife, an author, and a Bible teacher who is passionate about  helping people cultivate a deeper walk with God. With over a decade of experience teaching in public schools and a Masters in Theological Studies, Kari is known for her deep theological insight delivered in a helpful and practical way. When she is not writing and teaching, you can find her supporting her three teenagers, planning outdoor adventures, or reading a good book.</p>",
+              "button_label": "Follow Kari",
+              "button_link": "https://www.instagram.com/kari.minter1/",
+              "layout": "right"
+            }
+          },
+          "text_and_image_KRY7Um": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/BE-Landing-10.png",
+              "image_width": "50",
+              "subtitle": "Meet the Author",
+              "title": "Kari's Story",
+              "text": "<p>Studying God’s Word has always been easier for me than applying it. As an English teacher, I could jump into the Bible and find the connections, understand the context, look through the original language, and overall feel like an incredible Bible scholar. But slowing down enough to let God’s Word transform my heart proved to be a bit harder. The “big” things were easy: don’t steal, don’t murder, don’t lie. It was the smaller moments of learning to let God engage in my every moment that was difficult. Somewhere along the path of having three kids in three years and life feeling out of control, I realized having an intellectual relationship with God wasn’t enough. Learning how not to simply read God’s Word for intellectual understanding, but discovering the joy that comes from allowing God to engage my knowledge in my small and large moments in life changed everything. <em>Beyond Egypt</em> is written from my experience. Through this 7-week journey, you will dive deep into the text of Exodus, but emerge with a new set of practices to let it inform your everyday life. </p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "single_button_RwWipy": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "buy now",
+              "button_link": "",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -304,6 +354,11 @@
     "text_columns_aW86M6",
     "text_and_image_km7nLn",
     "single_button_jTPXWf",
-    "slideshow_wWW3qU"
+    "slideshow_wWW3qU",
+     "text_and_image_EJQrVe",
+     "text_and_image_hk3nYA",
+    "text_and_image_KRY7Um",
+    "single_button_RwWipy",
+    
   ]
 }
