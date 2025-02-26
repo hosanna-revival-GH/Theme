@@ -160,7 +160,62 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 75
+      }
+    },
+    "image_row_kpXgDq": {
+      "type": "image-row",
+      "blocks": {
+        "image_XTND64": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-084_14e27daa-1731-41dc-a674-8c1a54108e46.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://products/nlt-notetaking-bible-marlo-theme"
+          }
+        },
+        "image_zcB3Fr": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-028.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://products/nlt-notetaking-bible-marlo-theme"
+          }
+        },
+        "image_xaGiC6": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-362.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://products/nlt-notetaking-bible-marlo-theme"
+          }
+        },
+        "image_mefxwU": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-366.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://products/nlt-notetaking-bible-marlo-theme"
+          }
+        }
+      },
+      "block_order": [
+        "image_XTND64",
+        "image_zcB3Fr",
+        "image_xaGiC6",
+        "image_mefxwU"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center"
       }
     },
     "rich_text_teWN4h": {
@@ -169,14 +224,14 @@
         "heading_7DNHkX": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "WHY YOU WILL LOVE MARLO"
           }
         },
         "text_MwKDL4": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": false,
+            "text": "<p><em>According to our friends who already own this beautiful Bible...</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -205,11 +260,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
             "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>I debated buying this Bible for so long, and I'm so glad I finally ordered it! It's absolutely beautiful and makes taking notes about His Word even more enjoyable, especially with all the space in the margins. <em>—Taylor</em></p>",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -217,11 +273,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
             "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>Such a beautiful Bible. Love the NLT version, and I absolutely love the simplicity in the design. There is plenty of room for journaling, and this is such a wonderful Bible for yourself or as a gift for someone. <em>—Kay</em></p>",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -229,11 +286,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
             "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>I've been looking for a couple of years now for the right Bible. Enter the Marlo in NLT, and I'm absolutely in love. An easily-understood translation, plenty of space for note-taking, a fair size font, and still relatively compact. <em>—Jacque</em></p>",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -252,164 +310,12 @@
     "single_button_6AzfY8": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
+        "button_text": "SHOP MARLO",
+        "button_link": "shopify://products/nlt-notetaking-bible-marlo-theme",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
-      }
-    },
-    "image_row_kpXgDq": {
-      "type": "image-row",
-      "blocks": {
-        "image_XTND64": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-084_14e27daa-1731-41dc-a674-8c1a54108e46.jpg",
-              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
-          }
-        },
-        "image_zcB3Fr": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-028.jpg",
-              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
-          }
-        },
-        "image_xaGiC6": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-362.jpg",
-              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
-          }
-        },
-        "image_mefxwU": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-366.jpg",
-              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
-          }
-        }
-      },
-      "block_order": [
-        "image_XTND64",
-        "image_zcB3Fr",
-        "image_xaGiC6",
-        "image_mefxwU"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center"
-      }
-    },
-    "rich_text_D3ExpL": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_WkReBk": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text_69RJmY": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_WkReBk",
-        "text_69RJmY"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
         "space_below": 75
-      }
-    },
-    "text_columns_6m9f8A": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_PPRBdY": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_JmPgMa": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_BhGrmE": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_PPRBdY",
-        "text_block_JmPgMa",
-        "text_block_BhGrmE"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "single_button_WpWcRa": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20
       }
     }
   },
@@ -423,9 +329,6 @@
     "image_row_kpXgDq",
     "rich_text_teWN4h",
     "text_columns_K4Bjic",
-    "single_button_6AzfY8",
-    "rich_text_D3ExpL",
-    "text_columns_6m9f8A",
-    "single_button_WpWcRa"
+    "single_button_6AzfY8"
   ]
 }
