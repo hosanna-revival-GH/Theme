@@ -306,8 +306,8 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 40
       }
     },
     "featured_collections_VJLYiB": {
@@ -543,6 +543,57 @@
         "space_above": 0,
         "space_below": 0
       }
+    },
+    "text_columns_NEyPwE": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_wXjXJB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebooks",
+            "text": "<p> Take notes on what God is teaching you and share with your friend! </p>",
+            "button_label": "Shop Notebooks",
+            "button_link": ""
+          }
+        },
+        "text_block_PfBJ7L": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_bkxPii": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_wXjXJB",
+        "text_block_PfBJ7L",
+        "text_block_bkxPii"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -556,6 +607,7 @@
     "rich_text_tMHfQV",
     "rich_text_itMj6x",
     "featured_collections_VJLYiB",
-    "faq_ME8cjJ"
+    "faq_ME8cjJ",
+    "text_columns_NEyPwE"
   ]
 }
