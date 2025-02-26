@@ -400,6 +400,27 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "single_button_xVkKCY": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "back to devotional library",
+        "button_link": "shopify://pages/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "featured_collection_tTpNN8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SHOP ALL STUDIES",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true
+      }
     }
   },
   "order": [
@@ -418,6 +439,8 @@
     "text_and_image_hk3nYA",
     "text_and_image_KRY7Um",
     "single_button_RwWipy",
-    "slideshow_AizUeW"
+    "slideshow_AizUeW",
+    "single_button_xVkKCY",
+    "featured_collection_tTpNN8"
   ]
 }
