@@ -342,6 +342,102 @@
         "space_below": 75
       }
     },
+    "text_columns_NEyPwE": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_wXjXJB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebooks",
+            "text": "<p> Take notes on what God is teaching you and share with your friend!</p>",
+            "button_label": "Shop Notebooks",
+            "button_link": "shopify://collections/notebooks"
+          }
+        },
+        "text_block_PfBJ7L": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Devotionals",
+            "text": "<p>Walk through a devotional together and meet to discuss what you’re learning.</p>",
+            "button_label": "Choose a devotional",
+            "button_link": "shopify://collections/devotionals"
+          }
+        },
+        "text_block_bkxPii": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-441_98b83812-eb41-4c43-a197-f1c41353e6af.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Compact Bibles",
+            "text": "<p>Get an NLT Compact Bible and find fun places to read the Word together!</p>",
+            "button_label": "Find your Compact Bible",
+            "button_link": "shopify://collections/nlt-compact-bibles"
+          }
+        },
+        "text_block_pwfnwC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-064.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Journaling Bibles",
+            "text": "<p>Purchase a journaling Bible and share how you like to fill in the margins</p>",
+            "button_label": "Shop Journaling Bibles",
+            "button_link": "shopify://collections/beautiful-bibles"
+          }
+        },
+        "text_block_VtPtY8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-234.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "5-Year Prayer Journals",
+            "text": "<p>Get a prayer journal, pray for each other and share when God answers!</p>",
+            "button_label": "Begin a 5-year Prayer Journal",
+            "button_link": "shopify://collections/one-thing-i-ask"
+          }
+        },
+        "text_block_RGi8Rt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Sonora-ESV-Study-Bible-Softcover-Neutral-Cream-Floral-Deboss-Hosanna-Revival-Styled-02.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Study Bibles",
+            "text": "<p>Pursue deep study with a friend and share what stuck out to you with a Study Bible.</p>",
+            "button_label": "Explore study Bibles",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_wXjXJB",
+        "text_block_PfBJ7L",
+        "text_block_bkxPii",
+        "text_block_pwfnwC",
+        "text_block_VtPtY8",
+        "text_block_RGi8Rt"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "featured_collections_VJLYiB": {
       "type": "featured-collections",
       "blocks": {
@@ -577,100 +673,38 @@
         "space_below": 0
       }
     },
-    "text_columns_NEyPwE": {
-      "type": "text-columns",
+    "slideshow_QM68we": {
+      "type": "slideshow",
       "blocks": {
-        "text_block_wXjXJB": {
-          "type": "text_block",
+        "image_wbQiyj": {
+          "type": "image",
           "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Notebooks",
-            "text": "<p> Take notes on what God is teaching you and share with your friend!</p>",
-            "button_label": "Shop Notebooks",
-            "button_link": "shopify://collections/notebooks"
-          }
-        },
-        "text_block_PfBJ7L": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Devotionals",
-            "text": "<p>Walk through a devotional together and meet to discuss what you’re learning.</p>",
-            "button_label": "Choose a devotional",
-            "button_link": "shopify://collections/devotionals"
-          }
-        },
-        "text_block_bkxPii": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-441_98b83812-eb41-4c43-a197-f1c41353e6af.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "Compact Bibles",
-            "text": "<p>Get an NLT Compact Bible and find fun places to read the Word together!</p>",
-            "button_label": "Find your Compact Bible",
-            "button_link": "shopify://collections/nlt-compact-bibles"
-          }
-        },
-        "text_block_pwfnwC": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-064.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Journaling Bibles",
-            "text": "<p>Purchase a journaling Bible and share how you like to fill in the margins</p>",
-            "button_label": "Shop Journaling Bibles",
-            "button_link": "shopify://collections/beautiful-bibles"
-          }
-        },
-        "text_block_VtPtY8": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-234.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "5-Year Prayer Journals",
-            "text": "<p>Get a prayer journal, pray for each other and share when God answers!</p>",
-            "button_label": "Begin a 5-year Prayer Journal",
-            "button_link": "shopify://collections/one-thing-i-ask"
-          }
-        },
-        "text_block_RGi8Rt": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Sonora-ESV-Study-Bible-Softcover-Neutral-Cream-Floral-Deboss-Hosanna-Revival-Styled-02.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Study Bibles",
-            "text": "<p>Pursue deep study with a friend and share what stuck out to you with a Study Bible.</p>",
-            "button_label": "Explore study Bibles",
-            "button_link": ""
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "text_block_wXjXJB",
-        "text_block_PfBJ7L",
-        "text_block_bkxPii",
-        "text_block_pwfnwC",
-        "text_block_VtPtY8",
-        "text_block_RGi8Rt"
+        "image_wbQiyj"
       ],
       "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -687,6 +721,7 @@
     "rich_text_tMHfQV",
     "text_columns_NEyPwE",
     "featured_collections_VJLYiB",
-    "faq_ME8cjJ"
+    "faq_ME8cjJ",
+    "slideshow_QM68we"
   ]
 }
