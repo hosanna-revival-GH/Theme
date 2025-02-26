@@ -154,7 +154,46 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+             "9f2ac8e3-ec5c-49c0-ae7c-e9a4c899b082": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_562e278a-1613-4599-8c04-78adec18f82c.png",
+              "image_width": "50",
+              "subtitle": "ETERNITY IN OUR HEARTS",
+              "title": "This Devotional is for you if...",
+              "text": "<p>-You want to live a rich, meaningful life. <br/>- You want to understand the confusing or challenging parts of the Bible. <br/>- You want to dwell with God in a way you never have before. </p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts",
+              "layout": "left"
+            }
+          },
+          "fe51c019-c2e2-41e1-930d-62687ca98552": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_2a171484-e948-4f19-a517-75718acd87b5.png",
+              "image_width": "50",
+              "subtitle": "THE DETAILS",
+              "title": "Eternity In Our Hearts",
+              "text": "<p><strong>Topic: </strong>Purpose and the meaning of life <strong><br/>Length of Study: </strong>7-week study<strong><br/>Focal Scripture: </strong>The book of Ecclesiastes </p><p>\"The more we see the impermanence of this life and the futility of activities under the sun, the more we will long for eternity. As Ecclesiastes unfolds, the Preacher laments the futility of living for this life, and as we realize that we were made to live for so much more, we will desire things eternal. We will desire God.\" (34) </p><p><em>—Alicia Hamilton, author </em></p>",
+              "button_label": "choose this tool",
+              "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts",
+              "layout": "right"
+            }
+          },
+          "710edc46-8a0b-4030-8a29-881a48dd8f75": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_2_c47df9cd-badf-4ebd-9d0c-335c6fe3ff56.png",
+              "image_width":"50",
+              "subtitle": "PEEK INSIDE",
+              "title": "The Devotional Structure",
+              "text": "<p><strong>Structure: </strong>7 week study<strong><br/>Elements: </strong>As Alicia guides us through the book of Ecclesiastes, there will be<strong> </strong>daily reflections on the passage that answer questions we may have, connect the passage to other parts of God's Word, and apply the passage to our daily lives.  </p>",
+              "button_label": "choose this tool",
+              "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -162,6 +201,9 @@
     "rich_text_rbGEpN",
     "featured_collection_3XpQCc",
     "single_button_zDGrJh",
-    "slideshow_rQUjBz"
+    "slideshow_rQUjBz",
+    "9f2ac8e3-ec5c-49c0-ae7c-e9a4c899b082",
+    "fe51c019-c2e2-41e1-930d-62687ca98552",
+    "710edc46-8a0b-4030-8a29-881a48dd8f75"
   ]
 }
