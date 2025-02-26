@@ -11,13 +11,99 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_jcqhbB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WbLbY9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Hosanna Devotionals",
+            "title_size": 80,
+            "subheading": "by our community, for our community",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Rooted-to-Rise-All-Hosanna-Devotionals-005.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_WbLbY9"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_HqDrRF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xbizRg": {
+          "type": "heading",
+          "settings": {
+            "title": "Introducing our Devotionals"
+          }
+        },
+        "text_jDGKbX": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Each of our devotionals is written by a talented writer in the Hosanna Revival community and intended to point you to Jesus, give you practical applications for the Christian life, and stand firmly on the Word of God.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_xbizRg",
+        "text_jDGKbX"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_J8jTm7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 3,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_jcqhbB",
+    "rich_text_HqDrRF",
+    "featured_collection_J8jTm7"
   ]
 }
