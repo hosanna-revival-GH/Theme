@@ -11,13 +11,261 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_63E9Kk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_NxKF6x": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_NxKF6x"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_44Kk9t": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fbhYYc": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_XCyc7p": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_fbhYYc",
+        "text_XCyc7p"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_yQVkh8": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 20
+      }
+    },
+    "text_columns_aU8YNd": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_EcLYaJ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_DznHnP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_aRKXka": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_EcLYaJ",
+        "text_block_DznHnP",
+        "text_block_aRKXka"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_iCHwYF": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "rich_text_teWN4h": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7DNHkX": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_MwKDL4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_7DNHkX",
+        "text_MwKDL4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_K4Bjic": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_w69MfA": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_HEb37U": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_6zkQ7B": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_w69MfA",
+        "text_block_HEb37U",
+        "text_block_6zkQ7B"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_6AzfY8": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_63E9Kk",
+    "rich_text_44Kk9t",
+    "single_button_yQVkh8",
+    "text_columns_aU8YNd",
+    "single_button_iCHwYF",
+    "rich_text_teWN4h",
+    "text_columns_K4Bjic",
+    "single_button_6AzfY8"
   ]
 }
