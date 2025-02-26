@@ -341,6 +341,60 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "text_columns_niCYLr": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_cpW7qj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebooks",
+            "text": "<p>Take notes on what God is teaching you and share with your friend!</p>",
+            "button_label": "Choose your new notebook",
+            "button_link": "shopify://collections/notebooks"
+          }
+        },
+        "text_block_G4JpyE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Devotionals",
+            "text": "<p>Walk through a devotional together and discuss what you’re learning!</p>",
+            "button_label": "Choose your new devotional",
+            "button_link": "shopify://collections/devotionals"
+          }
+        },
+        "text_block_GKPyKJ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-52.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Bibles",
+            "text": "<p>Study a chapter of the Bible with a friend and share was revealed through Scripture! </p>",
+            "button_label": "Choose your new Bible",
+            "button_link": "shopify://collections/beautiful-bibles"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_cpW7qj",
+        "text_block_G4JpyE",
+        "text_block_GKPyKJ"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -355,6 +409,7 @@
     "rich_text_4XjhGb",
     "text_columns_ETAMMR",
     "rich_text_GBtTJW",
-    "slideshow_kxUQy8"
+    "slideshow_kxUQy8",
+    "text_columns_niCYLr"
   ]
 }
