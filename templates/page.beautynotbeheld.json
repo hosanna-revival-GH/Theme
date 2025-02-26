@@ -130,44 +130,47 @@
           },
     "text_columns_mGVk8i": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_Vqbi34": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_RCGEWc": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_eiUjXp": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_Vqbi34": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_2_copy_5.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": "shopify://products/devotional-beauty-not-beheld"
+    }
+  },
+  "text_block_RCGEWc": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_2_copy_6.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_eiUjXp": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_2_copy_7.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
         "text_block_Vqbi34",
         "text_block_RCGEWc",
@@ -185,10 +188,14 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
+          "image": "shopify://shop_images/Artboard_2_copy_8_e8cf8e17-43c1-4da7-9334-8f84223a43dc.png",
+
+
+              "title": "From The Introduction",
+              "text": "<p>\"The common thread is clear: Largely, culture’s response to the conundrum of poor self-image is exhorting women to forget other people’s opinions and standards and create their own. In other words, culture wants to remind women, “<em>Beauty is in the eye of the beholder!</em> So don’t let some beholders get you down, <em>you</em> are the true and only important beholder!” This sentiment sounds empowering at first glance, but the results don’t corroborate. Since this study in 2016, the number of voices chanting womens’ empowerment have grown, and yet so has the number of women who hate the way they look and even hate themselves. Maybe it's time women turn to the Scriptures for their answers instead of their favorite celebrities.\"<br/><br/><em>- Paige Stitt McBride, author</em></p>",
+              "button_label": "",
+              "button_link": "",
+
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
