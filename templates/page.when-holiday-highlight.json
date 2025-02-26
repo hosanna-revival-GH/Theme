@@ -11,13 +11,86 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_YrYgcg": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tBrRwd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "WHEN",
+            "title_size": 72,
+            "subheading": "Life’s Questions, Scripture’s Answers",
+            "link": "https://hosannarevival.blog/category/holiday-highlight/",
+            "link_text": "Begin Reading",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0069_1ab160db-aadd-4ef6-b4ec-8381d1141d3b.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_tBrRwd"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_LY43jM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RmGJ47": {
+          "type": "heading",
+          "settings": {
+            "title": "When the Holidays are Hard..."
+          }
+        },
+        "text_mb9AwM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_RmGJ47",
+        "text_mb9AwM"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_YrYgcg",
+    "rich_text_LY43jM"
   ]
 }
