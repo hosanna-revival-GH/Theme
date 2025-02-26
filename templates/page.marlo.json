@@ -255,6 +255,57 @@
         "space_above": 30,
         "space_below": 20
       }
+    },
+    "image_row_kpXgDq": {
+      "type": "image-row",
+      "blocks": {
+        "image_XTND64": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_zcB3Fr": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_xaGiC6": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_mefxwU": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XTND64",
+        "image_zcB3Fr",
+        "image_xaGiC6",
+        "image_mefxwU"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center"
+      }
     }
   },
   "order": [
@@ -266,6 +317,7 @@
     "single_button_iCHwYF",
     "rich_text_teWN4h",
     "text_columns_K4Bjic",
-    "single_button_6AzfY8"
+    "single_button_6AzfY8",
+    "image_row_kpXgDq"
   ]
 }
