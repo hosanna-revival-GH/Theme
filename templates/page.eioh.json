@@ -433,6 +433,64 @@
         "space_above": 10,
         "space_below": 75
       }
+    },
+    "slideshow_FBXMKc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xa9jEY": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/products/eternity-in-our-hearts",
+            "link_text": "Shop Eternity In Our Hearts",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/EIOH-Landing-Page-Photos.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xa9jEY"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "single_button_NNArtp": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BACK TO DEVOTIONAL LIBRARY",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 50,
+        "space_below": 50
+      }
+    },
+    "featured_collection_8nHYWX": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop all devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -453,6 +511,9 @@
     "1878f40c-32d4-4c45-8acf-386958d1dc30",
     "bccf5f27-3a76-4011-a24c-8bde4bcef2cc",
     "92505bae-3007-4ab8-813e-03cb86544478",
-    "2d1fdb12-1748-4201-9f92-f077718e7cea"
+    "2d1fdb12-1748-4201-9f92-f077718e7cea",
+    "slideshow_FBXMKc",
+    "single_button_NNArtp",
+    "featured_collection_8nHYWX"
   ]
 }
