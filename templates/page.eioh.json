@@ -271,7 +271,31 @@
         "align_text": "center",
         "divider": false
       }
-    }
+    },
+              "c36b5d0c-84d1-4c28-93ae-e38917ea5633": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_6_dcb4888d-f54a-4239-ba21-104c359fed10.png",
+              "image_width": "50",
+              "subtitle": "Eternity In our hearts",
+              "title": "From The Introduction",
+              "text": "<p>\"Part of the beauty of Ecclesiastes is that it asks all the questions we want to but might be too scared to ask. It expresses all the frustrations we want to but perhaps don’t feel like we should. Ecclesiastes is important because it lets us know that God can handle our big questions, our depression, our frustration, and our hopelessness.\"</p><p><em>—Alicia Hamilton, author</em></p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+          "0b43e111-aa82-4463-9592-b50ebcf9c63c": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "buy now",
+              "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -283,6 +307,8 @@
     "9f2ac8e3-ec5c-49c0-ae7c-e9a4c899b082",
     "fe51c019-c2e2-41e1-930d-62687ca98552",
     "710edc46-8a0b-4030-8a29-881a48dd8f75",
-    "text_columns_7KqKFV"
+    "text_columns_7KqKFV",
+    "c36b5d0c-84d1-4c28-93ae-e38917ea5633",
+    "0b43e111-aa82-4463-9592-b50ebcf9c63c"
   ]
 }
