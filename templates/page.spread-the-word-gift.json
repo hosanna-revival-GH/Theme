@@ -357,7 +357,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Refer someone in your life!</p>",
+            "text": "<p><em>Consider someone to refer in your life!</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -373,10 +373,10 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "color_bg": "#789ec8",
+        "color_text": "#ffffff",
+        "space_above": 50,
+        "space_below": 50
       }
     },
     "slideshow_kxUQy8": {
