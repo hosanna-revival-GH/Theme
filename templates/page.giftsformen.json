@@ -261,7 +261,18 @@
         "view_all": false,
         "divider": false
       }
-    }
+    },
+              "7586ae78-add1-4e82-8e3e-0b44d9c045bf": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Choose His Gift",
+              "button_link": "shopify://collections/gifts-for-men",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -273,6 +284,7 @@
     "8cb27c62-76d4-4998-9276-df32e00ef3d7",
     "2e1f6d7b-f835-474a-b76c-8792620f64eb",
     "f0612e38-6b5d-4d6a-b9d4-d83c444b76ad",
-    "featured_collection_aQtdUx"
+    "featured_collection_aQtdUx",
+     "7586ae78-add1-4e82-8e3e-0b44d9c045bf"
   ]
 }
