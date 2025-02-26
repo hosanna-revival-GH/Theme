@@ -243,48 +243,48 @@
     },
     "text_columns_PBRg9G": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_UbDmgG": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_wKNxC9": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_VXGGat": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-1.jpg",
+      "image_width": 650,
+      "title": "Repentance",
+      "text": "<p>“No one escapes the sovereign rule of the Sovereign One. Jesus’ call to repent is a call to all to bow down before the only one who deserves all praise…” </p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/return-to-me-holy-week-2022/"
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-2.jpg",
+      "image_width": 650,
+      "title": "Surrender",
+      "text": "<p>“I think we tend to make the idea of surrender a ‘one and done’ sort of conversation…but I don’t think this is how surrender works...”</p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-you-dont-know-how-to-surrender-to-god/"
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-3.jpg",
+      "image_width": 650,
+      "title": "Hospitality",
+      "text": "<p>“As we read through these eight different mealtimes in the gospel of Luke, let us remember and be grateful for the God who welcomes all to his table…”</p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/come-to-the-table/"
+    }
+  }
+},
       "block_order": [
-        "text_block_UbDmgG",
-        "text_block_wKNxC9",
-        "text_block_VXGGat"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
