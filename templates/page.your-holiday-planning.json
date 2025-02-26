@@ -243,44 +243,48 @@
     },
     "image_row_MVyBNq": {
       "type": "image-row",
-      "blocks": {
-        "image_hBznUG": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_r84nTf": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_6JbqB3": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_QrwP9N": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+ "blocks": {
+  "image_hBznUG": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-48.jpg",
+      "image_width": 650,
+      "caption": "Beautiful Organizational Planners",
+      "link": ""
+    }
+  },
+  "image_r84nTf": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-42_4daa5519-7134-4926-8c0e-86fa1af0d87b.jpg",
+      "image_width": 650,
+      "caption": "Stay Organized and Inspired",
+      "link": ""
+    }
+  },
+  "image_6JbqB3": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-49.jpg",
+      "image_width": 650,
+      "caption": "Plan Your Days with Purpose",
+      "link": ""
+    }
+  },
+  "image_QrwP9N": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-79.jpg",
+      "image_width": 650,
+      "caption": "Elegant and Functional Design",
+      "link": ""
+    }
+  }
+},
       "block_order": [
         "image_hBznUG",
         "image_r84nTf",
