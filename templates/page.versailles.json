@@ -11,13 +11,179 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_Bw9jnA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_FmkJfB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "The Versailles Bible",
+            "title_size": 60,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-375.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_FmkJfB"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_anHaTD": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4hqAdE": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The Versailles Bible is one of our most cherished designs. Its deep blue cover, accented with gold foil, exudes a sense of royalty. Delicately embossed florals on the front and back further enhance the timeless elegance of this beautiful Bible. We pray that his Bible excites you to engage in Scripture, and blesses your time with the Lord. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_4hqAdE"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#393f4e",
+        "color_text": "#e8e8e1",
+        "space_above": 50,
+        "space_below": 50
+      }
+    },
+    "rich_text_hdKwTM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8hC98G": {
+          "type": "heading",
+          "settings": {
+            "title": "“He has planted eternity in the human heart”"
+          }
+        },
+        "text_mFtCyH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The back of this Bible showcases the beautiful verse from Ecclesiastes 3:11. This verse is a unique reminder that we were created with a deep longing for something beyond ourselves<em><strong>—something eternal.</strong></em> That longing is perfectly fulfilled in our relationship with Jesus.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_8hC98G",
+        "text_mFtCyH"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#e8e8e1",
+        "color_text": "#2c303b",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_and_image_XgcBp3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Hosanna-Revival-Leather-Bibles-Restocked-49.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The beauty and heart behind",
+        "title": "The Versailles Bible",
+        "text": "<p>Versailles, France is home to the gorgeous and stunning Versailles Palace.The palace features beautiful, awe-inspiring gardens that stretch away towards the horizon from the Water Parterre. This gorgeous Bible features a single gold flower with a floral print pressed into the cover, and is paired with a reminder from Scripture that “He has planted eternity in the human heart” (<a href=\"https://ref.ly/Eccles%203.11;esv?t=biblia\" target=\"_blank\">Ecclesiastes 3:11</a>). </p><p>The Versailles NLT Notetaking Bible is a precious tool designed to draw you into the Bible where we know you will discover a fresh, renewed understanding of the eternal God, whom you were created to worship and adore for all eternity.</p>",
+        "button_label": "Shop the versailles Bible",
+        "button_link": "shopify://products/nlt-notetaking-bible-versailles-theme",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "image_row_RAyUVp": {
+      "type": "image-row",
+      "blocks": {
+        "image_pACLjc": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_xwinkm": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_WJRyJx": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pACLjc",
+        "image_xwinkm",
+        "image_WJRyJx"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_Bw9jnA",
+    "rich_text_anHaTD",
+    "rich_text_hdKwTM",
+    "text_and_image_XgcBp3",
+    "image_row_RAyUVp"
   ]
 }
