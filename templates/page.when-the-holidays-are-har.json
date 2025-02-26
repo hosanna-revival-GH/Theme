@@ -255,133 +255,250 @@
         "space_below": 75
       }
     },
- "text_and_image_hC948e_1": {
-    "type": "text-and-image",
-    "settings": {
-      "image": "shopify://shop_images/1-Alicia-Hamilton-Writer-Headshot-2.png",
-      "subtitle": "Day One",
-      "title": "Alicia Hamilton",
-      "text": "<p>Alicia Hamilton and her husband, Jack, are planted in beautiful New Hampshire where she spends her days ministering to college, high school, and middle school students. She is passionate about discipleship in the local church, biblical literacy, and chai lattes. Alicia writes about God’s beauty, Scripture’s intricacy, and Jesus’s care in suffering at <a href=\"http://aliciahamilton.substack.com\">AliciaHamilton.Substack.com</a> and on Instagram @<a href=\"https://www.instagram.com/alicia.lynn.hamilton/\">Alicia.Lynn.Hamilton</a>. </p>",
-      "button_label": "Read her WHEN Articles",
-      "button_link": "https://hosannarevival.blog/author/alicia-hamilton/",
-      "layout": "left"
+    "text_and_image_hC948e_1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/1-Alicia-Hamilton-Writer-Headshot-2.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day One",
+        "title": "Alicia Hamilton",
+        "text": "<p>Alicia Hamilton and her husband, Jack, are planted in beautiful New Hampshire where she spends her days ministering to college, high school, and middle school students. She is passionate about discipleship in the local church, biblical literacy, and chai lattes. Alicia writes about God’s beauty, Scripture’s intricacy, and Jesus’s care in suffering at <a href=\"http://aliciahamilton.substack.com\">AliciaHamilton.Substack.com</a> and on Instagram @<a href=\"https://www.instagram.com/alicia.lynn.hamilton/\">Alicia.Lynn.Hamilton</a>. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/alicia-hamilton/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2-Kelly-Odonohoe-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Two",
+        "title": "Kelly O'Donohoe",
+        "text": "<p>Kelly is a follower of Jesus, wife to Scott, mom of 5, keeper of plants, and lover of both stories and spreadsheets. She leads women’s discipleship at her local church in Hamilton, Ohio alongside some of her favorite people. Kelly’s natural curiosity makes her an eager learner, and she’s passionate about sharing the truth of the Scriptures with others. When she’s not working, studying biblical Hebrew, or volunteering for her kids’ school, you can probably find Kelly eating chips and watching reruns of Frasier. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/kelly-odonohoe/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/3-Hannah-Jessen-Conway-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Three",
+        "title": "Hannah Jessen Conway",
+        "text": "<p>Hannah Jessen Conway intentionally pursues themes of faith, motherhood, and mental health in her writing. She works in nonprofit marketing and published her first children’s book in the fall of 2024, inspired by the birth of her deaf son. She’s a Jesus follower, wife to her college sweetheart, and mama of two boys. You can usually find her cheering on the Tar Heels, enjoying the North Carolina sunshine, or writing in a local coffee shop. Read more of her work at <a href=\"http://hjconway.com\">HJConway.com</a>. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/hannah-jessen-conway/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/4-Kayla-Carthel-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Four",
+        "title": "Kayla Carthel",
+        "text": "<p>Kayla Carthel is a dog mom, future counselor, lover of all iced coffees, and devoted daughter of God. You can typically find her twirling in flowy dresses, listening to true crime documentaries, belting the <em>Hamilton</em> soundtrack, and redecorating the house for the millionth time (much to the consternation of her husband).</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/kayla-carthel/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/5-Amanda-Devlin-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Five",
+        "title": "Amanda Devlin",
+        "text": "<p>Amanda is a professional cellist and writer living in sunny California. She has three beautiful kids and is blessed to be married to her best friend. You can find her most days chauffeuring her kids around town, meeting with friends for coffee, or visiting her favorite place: the beach. </p>",
+        "button_label": "Read her WHEN Article",
+        "button_link": "https://hosannarevival.blog/author/amanda-devlin/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/6-Candace-Echols-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Six",
+        "title": "Candace Echols",
+        "text": "<p>Candace and her husband Jim enjoy raising their five children in Tennessee. Candace also writes a weekly column for the Daily Memphian and for publications like The Gospel Coalition and Risen Motherhood. She dreams of having her own writing cottage in Oxford someday (England is the dream, but Mississippi's not bad either). You can find Candace on Instagram @CandaceEcholsWrites or on her website at CandaceEchols.com.</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/candace-echols/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/7-Leah-Jolly-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Seven",
+        "title": "Leah Jolly",
+        "text": "<p>Leah Jolly is a graduate of Wheaton College where she studied international relations and Spanish. She lives in the Grand Rapids area with her husband, Logan, and is pursuing her MDiv at Calvin Theological Seminary. She attends Harvest OPC in Wyoming, Michigan. You can connect with Leah on Substack.</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/leah-jolly/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/8-Ela-Alvarado-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Eight",
+        "title": "Ela Alvarado",
+        "text": "<p>Long before Ela knew storytelling could be a vehicle for gospel-fueled transformation, she was crafting stories with hopeful endings. Her journey took a drastic turn when she went to Taylor University and encountered hope in God. He was the ultimate hope she was searching for amidst her stories. With that knowledge came new layers of storytelling—photography, baking, videography, and more. She now enjoys studying the Word of her personal God and sharing what he is teaching her through the art of writing. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/ela-alvarado/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/9-Lauren-Bowerman-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Nine",
+        "title": "Lauren Bowerman",
+        "text": "<p>Lauren Bowerman is a writer, the wife of Matthew, and the mother of Charlotte and a baby boy on the way. She has been privileged to call many cities, states, and countries home, and it is this nomadic lifestyle that cultivated in her a love for people, cultures, and missions. She has received her Masters in Christian and Intercultural Studies from Southeastern Baptist Theological Seminary. She is particularly passionate about writing on the intersection between suffering and faith, specifically in her experiences with depression, doubt, and infertility. Read her work on Substack and our blog WHEN.</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/lauren-bowerman/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_E8HgXw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BpJqhG": {
+          "type": "heading",
+          "settings": {
+            "title": "Looking for more free resources?"
+          }
+        },
+        "text_6dEPDy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Check out our full library <a href=\"/pages/free-resources\" title=\"Free Resources\"><em>here</em></a>!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BpJqhG",
+        "text_6dEPDy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#46382c",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
-  },
-  "text_and_image_hC948e_2": {
-    "type": "text-and-image",
-    "settings": {
-      "image": "shopify://shop_images/2-Kelly-Odonohoe-Writer-Headshot.jpg",
-      "subtitle": "Day Two",
-      "title": "Kelly O'Donohoe",
-      "text": "<p>Kelly is a follower of Jesus, wife to Scott, mom of 5, keeper of plants, and lover of both stories and spreadsheets. She leads women’s discipleship at her local church in Hamilton, Ohio alongside some of her favorite people. Kelly’s natural curiosity makes her an eager learner, and she’s passionate about sharing the truth of the Scriptures with others. When she’s not working, studying biblical Hebrew, or volunteering for her kids’ school, you can probably find Kelly eating chips and watching reruns of Frasier. </p>",
-      "button_label": "Read her WHEN Articles",
-      "button_link": "https://hosannarevival.blog/author/kelly-odonohoe/",
-      "layout": "right"
-    }
-  },
-  "text_and_image_hC948e_3": {
-    "type": "text-and-image",
-    "settings": {
-      "image": "shopify://shop_images/3-Hannah-Jessen-Conway-Writer-Headshot.jpg",
-      "subtitle": "Day Three",
-      "title": "Hannah Jessen Conway",
-      "text": "<p>Hannah Jessen Conway intentionally pursues themes of faith, motherhood, and mental health in her writing. She works in nonprofit marketing and published her first children’s book in the fall of 2024, inspired by the birth of her deaf son. She’s a Jesus follower, wife to her college sweetheart, and mama of two boys. You can usually find her cheering on the Tar Heels, enjoying the North Carolina sunshine, or writing in a local coffee shop. Read more of her work at <a href=\"http://hjconway.com\">HJConway.com</a>. </p>",
-      "button_label": "Read her WHEN Articles",
-      "button_link": "https://hosannarevival.blog/author/hannah-jessen-conway/",
-      "layout": "left"
-    }
-  },
-"text_and_image_hC948e_4": {
-  "type": "text-and-image",
-  "settings": {
-    "image": "shopify://shop_images/4-Kayla-Carthel-Writer-Headshot.jpg",
-    "subtitle": "Day Four",
-    "title": "Kayla Carthel",
-    "text": "<p>Kayla Carthel is a dog mom, future counselor, lover of all iced coffees, and devoted daughter of God. You can typically find her twirling in flowy dresses, listening to true crime documentaries, belting the <em>Hamilton</em> soundtrack, and redecorating the house for the millionth time (much to the consternation of her husband).</p>",
-    "button_label": "Read her WHEN Articles",
-    "button_link": "https://hosannarevival.blog/author/kayla-carthel/",
-    "layout": "right"
-  }
-},
-"text_and_image_hC948e_5": {
-  "type": "text-and-image",
-  "settings": {
-    "image": "shopify://shop_images/5-Amanda-Devlin-Writer-Headshot.jpg",
-    "subtitle": "Day Five",
-    "title": "Amanda Devlin",
-    "text": "<p>Amanda is a professional cellist and writer living in sunny California. She has three beautiful kids and is blessed to be married to her best friend. You can find her most days chauffeuring her kids around town, meeting with friends for coffee, or visiting her favorite place: the beach. </p>",
-    "button_label": "Read her WHEN Article",
-    "button_link": "https://hosannarevival.blog/author/amanda-devlin/",
-    "layout": "left"
-  }
-},
-"text_and_image_hC948e_6": {
-  "type": "text-and-image",
-  "settings": {
-    "image": "shopify://shop_images/6-Candace-Echols-Writer-Headshot.jpg",
-    "subtitle": "Day Six",
-    "title": "Candace Echols",
-    "text": "<p>Candace and her husband Jim enjoy raising their five children in Tennessee. Candace also writes a weekly column for the Daily Memphian and for publications like The Gospel Coalition and Risen Motherhood. She dreams of having her own writing cottage in Oxford someday (England is the dream, but Mississippi's not bad either). You can find Candace on Instagram @CandaceEcholsWrites or on her website at CandaceEchols.com.</p>",
-    "button_label": "Read her WHEN Articles",
-    "button_link": "https://hosannarevival.blog/author/candace-echols/",
-    "layout": "right"
-  }
-},
-"text_and_image_hC948e_7": {
-  "type": "text-and-image",
-  "settings": {
-    "image": "shopify://shop_images/7-Leah-Jolly-Writer-Headshot.jpg",
-    "subtitle": "Day Seven",
-    "title": "Leah Jolly",
-    "text": "<p>Leah Jolly is a graduate of Wheaton College where she studied international relations and Spanish. She lives in the Grand Rapids area with her husband, Logan, and is pursuing her MDiv at Calvin Theological Seminary. She attends Harvest OPC in Wyoming, Michigan. You can connect with Leah on Substack.</p>",
-    "button_label": "Read her WHEN Articles",
-    "button_link": "https://hosannarevival.blog/author/leah-jolly/",
-    "layout": "left"
-  }
-},
-"text_and_image_hC948e_8": {
-  "type": "text-and-image",
-  "settings": {
-    "image": "shopify://shop_images/8-Ela-Alvarado-Writer-Headshot.jpg",
-    "subtitle": "Day Eight",
-    "title": "Ela Alvarado",
-    "text": "<p>Long before Ela knew storytelling could be a vehicle for gospel-fueled transformation, she was crafting stories with hopeful endings. Her journey took a drastic turn when she went to Taylor University and encountered hope in God. He was the ultimate hope she was searching for amidst her stories. With that knowledge came new layers of storytelling—photography, baking, videography, and more. She now enjoys studying the Word of her personal God and sharing what he is teaching her through the art of writing. </p>",
-    "button_label": "Read her WHEN Articles",
-    "button_link": "https://hosannarevival.blog/author/ela-alvarado/",
-    "layout": "right"
-  }
-},
-"text_and_image_hC948e_9": {
-  "type": "text-and-image",
-  "settings": {
-    "image": "shopify://shop_images/9-Lauren-Bowerman-Writer-Headshot.jpg",
-    "subtitle": "Day Nine",
-    "title": "Lauren Bowerman",
-    "text": "<p>Lauren Bowerman is a writer, the wife of Matthew, and the mother of Charlotte and a baby boy on the way. She has been privileged to call many cities, states, and countries home, and it is this nomadic lifestyle that cultivated in her a love for people, cultures, and missions. She has received her Masters in Christian and Intercultural Studies from Southeastern Baptist Theological Seminary. She is particularly passionate about writing on the intersection between suffering and faith, specifically in her experiences with depression, doubt, and infertility. Read her work on Substack and our blog WHEN.</p>",
-    "button_label": "Read her WHEN Articles",
-    "button_link": "https://hosannarevival.blog/author/lauren-bowerman/",
-    "layout": "left"
-  }
-}
   },
   "order": [
-  "main",
-  "slideshow_RMbHtX",
-  "1740555518048a608e",
-  "rich_text_btRiYb",
-  "rich_text_MfQYez",
-  "rich_text_ctMnBW",
-  "rich_text_nEE3HM",
+    "main",
+    "slideshow_RMbHtX",
+    "1740555518048a608e",
+    "rich_text_btRiYb",
+    "rich_text_MfQYez",
+    "rich_text_ctMnBW",
+    "rich_text_nEE3HM",
     "text_and_image_hC948e",
-  "rich_text_zQkKNQ",
-  "text_and_image_hC948e_1",
-  "text_and_image_hC948e_2",
-  "text_and_image_hC948e_3",
-  "text_and_image_hC948e_4",
-  "text_and_image_hC948e_5",
-  "text_and_image_hC948e_6",
-  "text_and_image_hC948e_7",
-  "text_and_image_hC948e_8",
-  "text_and_image_hC948e_9",
+    "rich_text_zQkKNQ",
+    "text_and_image_hC948e_1",
+    "text_and_image_hC948e_2",
+    "text_and_image_hC948e_3",
+    "text_and_image_hC948e_4",
+    "text_and_image_hC948e_5",
+    "text_and_image_hC948e_6",
+    "text_and_image_hC948e_7",
+    "text_and_image_hC948e_8",
+    "text_and_image_hC948e_9",
+    "rich_text_E8HgXw"
   ]
 }
