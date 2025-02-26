@@ -89,44 +89,47 @@
     },
     "text_columns_i4xjyV": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_hNtrF7": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_rHmcLA": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_99nyTq": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_hNtrF7": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/beautiful-bible-cover-hosanna-revival.png",
+      "image_mask": "none",
+      "image_width": 200,
+      "title": "40+ Beautiful Designs",
+      "text": "<p>Whether you gravitate towards minimalist designs, a floral flourish, or vast landscapes, our beautiful covers are intentionally designed to lead you to the beauty within.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_rHmcLA": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/beautiful-bible-open-hosanna-revival.png",
+      "image_mask": "none",
+      "image_width": 200,
+      "title": "Spacious Journaling Margins",
+      "text": "<p>All of our Journaling and Notetaking Bibles include ample space to take notes, annotate Scripture, and dive deeper into the Word.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_99nyTq": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/beautiful-bible-painting-hosanna-revival.png",
+      "image_mask": "none",
+      "image_width": 200,
+      "title": "Hand-Painted Artwork",
+      "text": "<p>Each Hosanna Revival design is originally hand-painted by our founder, Katie, and then carefully recreated to be printed onto our Bibles.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
         "text_block_hNtrF7",
         "text_block_rHmcLA",
@@ -151,44 +154,44 @@
     },
     "text_columns_k6KCcU": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_UwnqeW": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_9DHrke": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_N8qwEp": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_UwnqeW": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "Absolutely Stunning",
+      "text": "<p>This is the most beautiful Bible I've ever owned. I'm getting back into reading the Word for the first time in years, and I feel so excited and happy every time I take out my Bible.<br/><em>Karley</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_9DHrke": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "My Most Favorite Bible",
+      "text": "<p>This business is like no other. Their mission is to “excite women about engaging in Scripture by creating beautiful and intentional tools for their lives,” and that is exactly the experience I've had with this brand.<br/><em>Allyson</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_N8qwEp": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "Worth the Wait",
+      "text": "<p>This Bible is everything I was hoping for. I’ve received so many questions & compliments on it & I’m always delighted to share where I purchased it from :)<br/><em>Vanessa</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
         "text_block_UwnqeW",
         "text_block_9DHrke",
@@ -390,44 +393,48 @@
     },
     "image_row_itVeJY": {
       "type": "image-row",
-      "blocks": {
-        "image_BgbwxH": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_aADLqT": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_LaYLtF": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_UKfGrY": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_BgbwxH": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-199.jpg",
+      "image_width": 650,
+      "caption": "Winter Collection 2024 - Styled",
+      "link": ""
+    }
+  },
+  "image_aADLqT": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-550.jpg",
+      "image_width": 650,
+      "caption": "Winter Collection 2024 - Notebook Styled",
+      "link": ""
+    }
+  },
+  "image_LaYLtF": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-287.jpg",
+      "image_width": 650,
+      "caption": "Winter Collection 2024 - Beautiful Bibles",
+      "link": ""
+    }
+  },
+  "image_UKfGrY": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-167.jpg",
+      "image_width": 650,
+      "caption": "Winter Collection 2024 - Hosanna Revival",
+      "link": ""
+    }
+  }
+},
       "block_order": [
         "image_BgbwxH",
         "image_aADLqT",
