@@ -269,7 +269,8 @@
             "enable_image": true,
             "image_width": 650,
             "caption": "Image Caption",
-            "link": ""
+              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-084_14e27daa-1731-41dc-a674-8c1a54108e46.jpg",
+              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
           }
         },
         "image_zcB3Fr": {
@@ -278,7 +279,8 @@
             "enable_image": true,
             "image_width": 650,
             "caption": "Image Caption",
-            "link": ""
+              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Flatlay-Hosanna-Revival-028.jpg",
+              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
           }
         },
         "image_xaGiC6": {
@@ -287,7 +289,8 @@
             "enable_image": true,
             "image_width": 650,
             "caption": "Image Caption",
-            "link": ""
+              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-362.jpg",
+              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
           }
         },
         "image_mefxwU": {
@@ -296,7 +299,8 @@
             "enable_image": true,
             "image_width": 650,
             "caption": "Image Caption",
-            "link": ""
+              "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-366.jpg",
+              "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
           }
         }
       },
