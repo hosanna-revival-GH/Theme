@@ -57,14 +57,14 @@
         "heading_3xx6tx": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Dear intentional gifter,"
           }
         },
         "text_r4DDtW": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+             "text": "<p>This Christmas, we invite you to share the beauty of truth with those around you through gifting intentionally. Whether it’s through choosing each tool with the recipient in mind or wrapping the gift in a beautiful new way, each gift you give is an opportunity to deeply encourage your friend or family member. Welcome to our best tips to gift intentionally...</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -88,48 +88,51 @@
     },
     "text_columns_PJLMDH": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_G3xnPK": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_MfHpHC": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_LWKaKA": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/beautiful-bible-painting-hosanna-revival.png",
+      "image_mask": "none",
+      "image_width": 200,
+      "title": "Add a handmade touch",
+      "text": "<p>See gift-giving as an opportunity for creativity. Whether it’s in a tiny detail of how you wrap it or the gift itself, dream up how to add a handmade element to your gift.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Icon-OTIA-Gift-Box-540x.png",
+      "image_mask": "none",
+      "image_width": 200,
+      "title": "Wrap it with intention",
+      "text": "<p>Choose a fresh new way to wrap your gifts that infuses the gift with beauty and personality. Slip in an extra little element like a photo or <a href=\"/collections/stickers\" target=\"_blank\" title=\"Stickers\">sticker</a> to bring a smile to their face.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/beautiful-bible-open-hosanna-revival.png",
+      "image_mask": "none",
+      "image_width": 200,
+      "title": "Write a Gift Note",
+      "text": "<p>Writing an intentional note is a simple way to make someone feel seen and cared for. Shipping straight to your recipient’s house? Leave a little gift note at checkout!</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_G3xnPK",
-        "text_block_MfHpHC",
-        "text_block_LWKaKA"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
@@ -140,12 +143,11 @@
     "single_button_km8d7e": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
-        "button_size": "medium",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Select Gifts",
+              "button_link": "shopify://collections",
+              "button_size": "huge"
       }
     },
     "rich_text_BBka3J": {
@@ -154,14 +156,14 @@
         "heading_CbejMW": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Choose a Beautiful Bible"
           }
         },
         "text_JDAaTd": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+              "text": "<p><em>Unsure of where to start? Our </em><a href=\"/products/mystery-bible\" target=\"_blank\" title=\"Mystery Bible\"><em><strong>Mystery Bible</strong></em></a><em><strong> </strong></em><em>could be a great fit for you!</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -198,12 +200,12 @@
     "single_button_9JQyrG": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
-        "button_size": "medium",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Choose a Bible",
+              "button_link": "shopify://collections/beautiful-bibles",
+              "button_size": "huge"
       }
     },
     "rich_text_N6qbhj": {
@@ -212,14 +214,14 @@
         "heading_fCiJbm": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Gift-Wrapping Inspiration",
           }
         },
         "text_d7fQh3": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><em>from tucking in little notes and photos into the ribbon to choosing a new pattern or fabric for gift wrap, there are a million creative ways to gift intentionally</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -243,44 +245,48 @@
     },
     "image_row_WkcAdA": {
       "type": "image-row",
-      "blocks": {
-        "image_FDyVya": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_EgGtgm": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_w8MzHJ": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_P8dtkM": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_FDyVya": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0006.jpg",
+      "image_width": 650,
+      "caption": "Beautiful Bible Gift Under The Tree",
+      "link": ""
+    }
+  },
+  "image_EgGtgm": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Tree-Gift-Intentionally-346.jpg",
+      "image_width": 650,
+      "caption": "Hosanna Revival Christmas Tree Gift",
+      "link": ""
+    }
+  },
+  "image_w8MzHJ": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0531.jpg",
+      "image_width": 650,
+      "caption": "Christian Gift Under The Tree",
+      "link": ""
+    }
+  },
+  "image_P8dtkM": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-131.jpg",
+      "image_width": 650,
+      "caption": "Intentional Christmas Gift from Hosanna Revival",
+      "link": ""
+    }
+  }
+},
       "block_order": [
         "image_FDyVya",
         "image_EgGtgm",
@@ -296,44 +302,48 @@
     },
     "image_row_TbwtcA": {
       "type": "image-row",
-      "blocks": {
-        "image_ViPiih": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_cUD7yV": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_F3y3WX": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_xRNhYt": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_ViPiih": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0010.jpg",
+      "image_width": 650,
+      "caption": "Christian Gift Under The Tree 2024",
+      "link": ""
+    }
+  },
+  "image_cUD7yV": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0442_525f25ac-4803-48bb-b94f-fc6bd7906597.jpg",
+      "image_width": 650,
+      "caption": "Aesthetic Christian Christmas Gifts",
+      "link": ""
+    }
+  },
+  "image_F3y3WX": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-126.jpg",
+      "image_width": 650,
+      "caption": "Intentional Christmas Gift from Hosanna Revival",
+      "link": ""
+    }
+  },
+  "image_xRNhYt": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0922.jpg",
+      "image_width": 650,
+      "caption": "Beautiful Bible - Christmas 2024",
+      "link": ""
+    }
+  }
+},
       "block_order": [
         "image_ViPiih",
         "image_cUD7yV",
@@ -353,14 +363,14 @@
         "heading_KrkXxy": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Looking for our most giftable tools?",
           }
         },
         "text_CG9jnM": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><em>Start here...</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -384,48 +394,48 @@
     },
     "text_columns_yp7QQX": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_RM7HLd": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_xgx7xt": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_R7LQhT": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0570.jpg",
+      "image_width": 650,
+      "title": "The 5-Year Prayer Journal",
+      "text": "<p>With a keepsake box and gorgeous cover designs, our 5-Year Prayer journal makes the perfect heirloom gift for the one looking to deepen their life of prayer.</p>",
+      "button_label": "Shop Prayer Journals",
+      "button_link": "shopify://pages/prayer-journal"
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0574.png",
+      "image_width": 650,
+      "title": "Intentional Devotionals",
+      "text": "<p>With over a dozen topics and book studies to choose from, our devotional library provides unique Bible studies for each season.</p>",
+      "button_label": "Shop Devotionals",
+      "button_link": "shopify://pages/devotionals"
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0578.jpg",
+      "image_width": 650,
+      "title": "Beautiful Notebooks",
+      "text": "<p>These tools are easy to slip alongside a bigger gift, or you can grab a bunch to give to friends! For your creative friends, consider gifting <a href=\"/pages/art-resources\" target=\"_blank\" title=\"Hosanna Blanks\">Hosanna Blanks</a>.</p>",
+      "button_label": "Shop Notebooks",
+      "button_link": "shopify://collections/notebooks"
+    }
+  }
+},
       "block_order": [
-        "text_block_RM7HLd",
-        "text_block_xgx7xt",
-        "text_block_R7LQhT"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
