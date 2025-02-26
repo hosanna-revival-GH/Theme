@@ -11,13 +11,129 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "featured_video_QrAbXW": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https://www.youtube.com/watch?v=XvjY4wvJDnI",
+        "divider": false
+      }
+    },
+    "rich_text_FkAwJT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8UABN6": {
+          "type": "heading",
+          "settings": {
+            "title": "The NLT Translation"
+          }
+        },
+        "text_Cjab8f": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The New Living Translation is a clear and trusted English translation of the Bible. It conveys the precise meaning of the original languages in a flowing, effortless writing style that promotes comfortable and meaningful reading. It combines the latest biblical scholarship with a clear, dynamic writing style that communicates God’s Word powerfully to all who hear and read it and renders the message of the original texts of Scripture into clear, contemporary English that was written to be read aloud. With a focus on clarity, The New Living Translation invites readers to go deeper into the biblical text to discover God’s story for their lives and the world.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_RT6Mzg": {
+          "type": "heading",
+          "settings": {
+            "title": "Meaning for Meaning"
+          }
+        },
+        "text_wxh36n": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>In meaning-based translations, the translators start with a source-language text and dig beneath the surface to discover its meaning. The translators then search for the best ways to re-express that meaning using words and phrases from the language into which the text is being translated.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_jTj3km": {
+          "type": "heading",
+          "settings": {
+            "title": "Translation Philosphy"
+          }
+        },
+        "text_6CmBER": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>To produce an accurate translation of the Bible into contemporary English, the translation team needed the skills necessary to enter into the thought patterns of the ancient authors and then to render their ideas, connotations, and effects into clear, contemporary English. To begin this process, qualified biblical scholars were needed to interpret the meaning of the original text and to check it against our base English translation. In order to guard against personal and theological biases, the scholars needed to represent a diverse group of evangelicals who would employ the best exegetical tools. Then to work alongside the scholars, skilled English stylists were needed to shape the text into clear, contemporary English.</p><p>With these concerns in mind, the Bible Translation Committee recruited teams of scholars that represented a broad spectrum of denominations, theological perspectives, and backgrounds within the worldwide evangelical community. Each book of the Bible was assigned to three different scholars with proven expertise in the book or group of books to be reviewed. Each of these scholars made a thorough review of a base translation and submitted suggested revisions to the appropriate Senior Translator. The Senior Translator then reviewed and summarized these suggestions and proposed a first-draft revision of the base text. This draft served as the basis for several additional phases of exegetical and stylistic committee review. Then the Bible Translation Committee jointly reviewed and approved every verse of the final translation.</p><p>Throughout the translation and editing process, the Senior Translators and their scholar teams were given a chance to review the editing done by the team of stylists. This ensured that exegetical errors would not be introduced late in the process and that the entire Bible Translation Committee was happy with the final result. By choosing a team of qualified scholars and skilled stylists and by setting up a process that allowed their interaction throughout the process, the New Living Translation has been refined to preserve the essential formal elements of the original biblical texts, while also creating a clear, understandable English text.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_8UABN6",
+        "text_Cjab8f",
+        "heading_RT6Mzg",
+        "text_wxh36n",
+        "heading_jTj3km",
+        "text_6CmBER"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "rich_text_yAdm47": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YfqMrF": {
+          "type": "heading",
+          "settings": {
+            "title": "Endorsements"
+          }
+        },
+        "text_Dh9FzT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The NLT was put together by a dream team of scholars and linguists and gives us a Bible that is thoroughly reliable and eminently readable. It allows the Scriptures to speak with fresh vitality.”<br/><strong>John Ortberg</strong>, Pastor, Menlo Park Presbyterian, Menlo Park, CA</p><p>“Studying and teaching from the New Living Translation second edition provides refreshing insights from a translation with high credibility. I recommend it to both Christ followers taking their first steps of faith and seasoned veterans on their spiritual journey.”<br/><strong>Gene Appel</strong>, Senior Pastor, Eastside Christian Church, Fullerton, CA</p><p>“Using the New Living Translation in sermon  preparation helps to generate ‘aha’s! from the congregation. Where there may be obscurity, it can help turn the light on in the hearts and minds of listeners.”<br/><strong>Arthur Jackson</strong>, Judson Baptist Church, Oak Park, IL</p><p>“I’m thrilled with the NLT...The attention to accuracy while being understandable makes the NLT the <br/>perfect choice for all churches called to grow people in Christ and reach people far from God.”<br/><strong>Brad Mitchell</strong>, Trinity Church, Lansing, MI</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_YfqMrF",
+        "text_Dh9FzT"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_video_QrAbXW",
+    "rich_text_FkAwJT",
+    "rich_text_yAdm47"
   ]
 }
