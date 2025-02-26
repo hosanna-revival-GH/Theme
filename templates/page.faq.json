@@ -1,1 +1,120 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"faq":{"type":"faq","blocks":{"faq-0":{"type":"rich-text","settings":{"title":"Shipping","text":""}},"faq-1":{"type":"question","settings":{}},"faq-2":{"type":"question","settings":{}},"faq-3":{"type":"rich-text","settings":{"title":"Returns","text":""}},"faq-4":{"type":"question","settings":{}}},"block_order":["faq-0","faq-1","faq-2","faq-3","faq-4"],"settings":{"title":""}}},"order":["main","faq"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "faq": {
+      "type": "faq",
+"blocks": {
+  "question_WJGJLd": {
+    "type": "question",
+    "settings": {
+      "title": "What versions are your Bibles?",
+      "text": "<p>Our Bible designs are available in the English Standard Version (ESV) and Christian Standard Bible (CSB). <a href=\"https://www.youtube.com/watch?v=jkWQ2ry3meI\" title=\"https://www.youtube.com/watch?v=jkWQ2ry3meI\">Watch this video</a> to learn more about the translations we offer.</p>"
+    }
+  },
+  "question_Xpif3c": {
+    "type": "question",
+    "settings": {
+      "title": "What is the difference between a printed Bible and a painted Bible?",
+      "text": "<p>Our printed Bibles are a finished product, ready to ship. They don't have any customization options. Our hand-painted Bibles are either semi-custom, where you choose the words/lyrics/Scripture to place on a finished design, or fully custom, where you work directly with our artist, Katie, to create the Bible you've been dreaming up! <a href=\"https://www.youtube.com/watch?v=rY41CpOYmik\" title=\"https://www.youtube.com/watch?v=rY41CpOYmik\">Watch this video</a> to learn more.</p>"
+    }
+  },
+  "question_YZi8Kd": {
+    "type": "question",
+    "settings": {
+      "title": "What is your refund and return policy?",
+      "text": "<p>Generally, our return policy states that anything undamaged and unopened can be returned and refunded if requested within 15 days of receipt. Orders that have not yet shipped can be canceled and refunded; just send us an email. Read our full return policy <a href=\"https://hosannarevival.com/pages/help\" title=\"Help\">here</a>.</p>"
+    }
+  },
+  "question_Uv9Wkd": {
+    "type": "question",
+    "settings": {
+      "title": "How long will it take to receive my order?",
+      "text": "<p>It depends on whether your order is custom or not, as well as your distance from Cincinnati. Here’s a general estimate on our order deliveries:<br>- Stickers (2-6 Business Days)<br>- Painted Journals (Finished: 2-6 Business Days, Semi-custom: 8-14 Business Days)<br>- Bibles (Printed: 2-6 Business Days)<br>- Semi-Custom Hand-Painted Bibles (One month after ordering)<br>- Custom Hand-Painted Bibles (<a href=\"https://hosannarevival.com/pages/custom-hand-painted-bibles\" title=\"Custom Hand-Painted Bibles\">click here for more info</a>)<br>- Art Prints, Pins, Buttons (2-6 Business Days)<br><em>Please note: International orders typically arrive 10-14 business days after purchase.</em></p>"
+    }
+  },
+  "question_Lm3Qnd": {
+    "type": "question",
+    "settings": {
+      "title": "Do you ship internationally?",
+      "text": "<p>We do! Shipments typically arrive 10-14 business days after you place your order, but depending on your country, customs may hold them longer. Read more about shipping times <a href=\"https://hosannarevival.com/pages/help\" title=\"Help\">here</a>.</p>"
+    }
+  },
+  "question_Mk8J2d": {
+    "type": "question",
+    "settings": {
+      "title": "What pen should I use to write in my Bible?",
+      "text": "<p>The pages are durable and many pens will work just fine- these are two of our favorites: our favorite black pens to use are <a href=\"https://www.amazon.com/Pilot-Retractable-Premium-Roller-31277/dp/B0058NN5OW/\" title=\"https://www.amazon.com/Pilot-Retractable-Premium-Roller-31277/dp/B0058NN5OW/\">Pilot G2 pens</a>. For color, we love <a href=\"https://www.amazon.com/Pigma-Micron-Bible-Note-Pen/dp/B007MHE992/ref=sr_1_3?keywords=micron+01&qid=1578933427&s=office-products&sr=1-3\" title=\"https://www.amazon.com/Pigma-Micron-Bible-Note-Pen/dp/B007MHE992/ref=sr_1_3?keywords=micron+01&qid=1578933427&s=office-products&sr=1-3\">Micron Fine Liners</a>.</p>"
+    }
+  },
+  "question_Ob3Dk9": {
+    "type": "question",
+    "settings": {
+      "title": "Are there discounts for bulk orders?",
+      "text": "<p>Yes! If you are looking for larger quantities to resell in your shop or to sell at an event, fill out our <a href=\"https://hosannarevival.com/pages/wholesale-application\" title=\"Wholesale Application\">Wholesale Application</a>. We would love to talk about working together! If you are looking for medium quantities for a small group or Bible study, check out our <a href=\"https://hosannarevival.com/collections/bundles\" title=\"Bundles\">discounted bundles</a>.</p>"
+    }
+  },
+  "question_Pc4Fg7": {
+    "type": "question",
+    "settings": {
+      "title": "Do you offer other discounts/sales?",
+      "text": "<p>From time to time we offer promotions that align with holidays or milestones. We will post them on our Instagram. We offer additional discounts, promotions, and early access to those who sign up for our monthly newsletter.</p>"
+    }
+  },
+  "question_Qd2Hn8": {
+    "type": "question",
+    "settings": {
+      "title": "Do you offer price adjustments?",
+      "text": "<p>From time to time we offer discounts and sales. We are unable to make price adjustments for products purchased before or after the sale/discount period.</p>"
+    }
+  },
+  "question_Rs5Tf9": {
+    "type": "question",
+    "settings": {
+      "title": "Are your stickers waterproof?",
+      "text": "<p>Yes! Our stickers are made from a highly durable transparent vinyl with a matte finish. Our stickers are 3 millimeters thick. They will do just fine on the back of your car or on your water bottle.</p>"
+    }
+  },
+  "question_Sj6Kg0": {
+    "type": "question",
+    "settings": {
+      "title": "Can Bible designs and translations be switched?",
+      "text": "<p>No; at this time, our designs are specific to each publisher, so they cannot be switched between translations.</p>"
+    }
+  }
+},
+      "block_order": [
+        "question_WJGJLd",
+        "question_Xpif3c",
+    "question_YZi8Kd",
+          "question_Uv9Wkd",
+          "question_Lm3Qnd",
+         "question_Mk8J2d",
+        "question_Ob3Dk9",
+          "question_Pc4Fg7",
+          "question_Qd2Hn8",
+          "question_Rs5Tf9",
+          "question_Sj6Kg0"
+      ],
+      "settings": {
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq"
+  ]
+}
