@@ -224,7 +224,31 @@
         "align_text": "center",
         "divider": false
       }
-    }
+    },
+              "text_and_image_km7nLn": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/BE-Landing-07.png",
+              "image_width": "50",
+              "subtitle": "beyond egypt",
+              "title": "From the Introduction",
+              "text": "<p>“Man continually struggles to follow God, yet God, in his kindness, continues to pave a way for a relationship with him to flourish.” <br/><em>—Kari Minter, author<br/></em></p>",
+              "button_label": "choose this tool",
+              "button_link": "https://hosannarevival.com/products/beyond-egypt",
+              "layout": "right"
+            }
+          },
+          "single_button_jTPXWf": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "buy now",
+              "button_link": "https://hosannarevival.com/products/beyond-egypt",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -234,6 +258,8 @@
     "text_and_image_NBNbtF",
     "text_and_image_tXMLeh",
     "text_and_image_tEtfry",
-    "text_columns_aW86M6"
+    "text_columns_aW86M6",
+    "text_and_image_km7nLn",
+    "single_button_jTPXWf",
   ]
 }
