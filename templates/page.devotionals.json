@@ -436,59 +436,71 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 0,
-        "space_below": 0
+        "space_below": 25
       }
     },
     "faq_7pWgCb": {
       "type": "faq",
-"blocks": {
-  "question_WJGJLd": {
-    "type": "question",
-    "settings": {
-      "title": "How do I choose which devotional is right for me?",
-      "text": "<p>Each of our devotionals covers a specific topic or passage of Scripture in light of the Word of God. Use the topic summaries above to see which topic relates to how you are seeking to grow in Christ in this specific season. We also encourage you to watch our devotional trailers, read about the author, and browse the in-depth pages linked below each description to learn more as you make your choice.</p><p>Don't see your topic addressed? We are continually working on new devotionals behind the scenes, so even if the topic on your mind hasn't yet been addressed, be on the lookout for future releases. Also, we run an online publication titled <em>WHEN</em> where we invite writers from our community to shed the light of Scripture on specific topics in shorter, more digestible pieces. <a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"WHEN, a Hosanna Revival Publication\">Check out <em>WHEN</em> to see if your topic is addressed here</a>!</p>"
-    }
-  },
-  "question_Xpif3c": {
-    "type": "question",
-    "settings": {
-      "title": "What are Hosanna Revival devotionals?",
-      "text": "<p>Hosanna Revival devotionals are topical Bible studies broken up into weekly readings that cover a specific focus or passage of Scripture and contain interactive elements such as questions and space to journal. These beautiful tools are created to help you engage more deeply with Jesus and his Word.</p><p>Each of our devotionals is unique in structure. Some have each week broken up into daily sections while others contain simply a single long section per week. Within these weeks you can find interactive elements unique to each devotional such as journaling margins, note pages, fill-in-the-blank, and more!</p><p>These tools are perfect for individual spiritual growth as well as within a community. While our devotionals are not designed with a designated leader guide, we encourage our community to study these tools alongside your local church group or with a friend and use the questions and Scripture covered each week to guide discussion.</p>"
-    }
-  },
-  "question_YZi8Kd": {
-    "type": "question",
-    "settings": {
-      "title": "Who writes Hosanna Revival devotionals?",
-      "text": "<p>Our devotionals are each written by a member of our Hosanna Revival community. We work side-by-side with authors and aspiring authors to create beautiful, high-quality devotional content. As authors pitch their devotional ideas to us, we prayerfully consider each one as we seek to identify our next author. What you see here on this page is a beautiful testament to God using the incredible gifts of one's words and experiences to direct our eyes to Scripture!</p><p>If you are looking to pitch an idea for our next devotional, <a href=\"https://hosannarevival.com/pages/publishing\" target=\"_blank\" title=\"https://hosannarevival.com/pages/publishing\">head to our Publishing page</a>.</p>"
-    }
-  },
-  "question_Uv9Wkd": {
-    "type": "question",
-    "settings": {
-      "title": "How are Hosanna Revival devotionals created?",
-      "text": "<p>Each of our devotionals is uniquely designed by our in-house team to pair the content of the study with beautiful visuals that direct your eyes toward Scripture.</p><p>To break the process down, our team first identifies our author from community submissions. Next, the author crafts the full manuscript. Once the devotional content is completed, our incredible editing team works closely with this author to refine the manuscript. Meanwhile, our design team works with our lead product designer, Katie Guiliano, to uniquely design the visuals of the devotional around the content. Once we pair the beautiful visuals with the words, we send the final study to print and, come launch day, the devotional makes its way into your hands!</p><p>You can learn more about our incredible team that makes this all possible <a href=\"/pages/about\" target=\"_blank\" title=\"About Us\">here on our About Page</a>.</p>"
-    }
-  },
-  "question_Lm3Qnd": {
-    "type": "question",
-    "settings": {
-      "title": "Can I study this devotional with a group?",
-      "text": "<p><strong>Did you know if you buy 10 or more of a devotional, you automatically get a $5 discount per copy?</strong> We want to make it easy for you to study these within the context of community and are cheering you on!</p><p>While our devotionals are not designed with a designated leader guide, we encourage you to study these tools alongside your local church group or with a friend and use the questions and Scripture covered each week to guide discussion.</p>"
-    }
-  }
-},
+      "blocks": {
+        "question_WJGJLd": {
+          "type": "question",
+          "settings": {
+            "title": "How do I choose which devotional is right for me?",
+            "text": "<p>Each of our devotionals covers a specific topic or passage of Scripture in light of the Word of God. Use the topic summaries above to see which topic relates to how you are seeking to grow in Christ in this specific season. We also encourage you to watch our devotional trailers, read about the author, and browse the in-depth pages linked below each description to learn more as you make your choice.</p><p>Don't see your topic addressed? We are continually working on new devotionals behind the scenes, so even if the topic on your mind hasn't yet been addressed, be on the lookout for future releases. Also, we run an online publication titled <em>WHEN</em> where we invite writers from our community to shed the light of Scripture on specific topics in shorter, more digestible pieces. <a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"WHEN, a Hosanna Revival Publication\">Check out <em>WHEN</em> to see if your topic is addressed here</a>!</p>"
+          }
+        },
+        "question_Xpif3c": {
+          "type": "question",
+          "settings": {
+            "title": "What are Hosanna Revival devotionals?",
+            "text": "<p>Hosanna Revival devotionals are topical Bible studies broken up into weekly readings that cover a specific focus or passage of Scripture and contain interactive elements such as questions and space to journal. These beautiful tools are created to help you engage more deeply with Jesus and his Word.</p><p>Each of our devotionals is unique in structure. Some have each week broken up into daily sections while others contain simply a single long section per week. Within these weeks you can find interactive elements unique to each devotional such as journaling margins, note pages, fill-in-the-blank, and more!</p><p>These tools are perfect for individual spiritual growth as well as within a community. While our devotionals are not designed with a designated leader guide, we encourage our community to study these tools alongside your local church group or with a friend and use the questions and Scripture covered each week to guide discussion.</p>"
+          }
+        },
+        "question_YZi8Kd": {
+          "type": "question",
+          "settings": {
+            "title": "Who writes Hosanna Revival devotionals?",
+            "text": "<p>Our devotionals are each written by a member of our Hosanna Revival community. We work side-by-side with authors and aspiring authors to create beautiful, high-quality devotional content. As authors pitch their devotional ideas to us, we prayerfully consider each one as we seek to identify our next author. What you see here on this page is a beautiful testament to God using the incredible gifts of one's words and experiences to direct our eyes to Scripture!</p><p>If you are looking to pitch an idea for our next devotional, <a href=\"https://hosannarevival.com/pages/publishing\" target=\"_blank\" title=\"https://hosannarevival.com/pages/publishing\">head to our Publishing page</a>.</p>"
+          }
+        },
+        "question_Uv9Wkd": {
+          "type": "question",
+          "settings": {
+            "title": "How are Hosanna Revival devotionals created?",
+            "text": "<p>Each of our devotionals is uniquely designed by our in-house team to pair the content of the study with beautiful visuals that direct your eyes toward Scripture.</p><p>To break the process down, our team first identifies our author from community submissions. Next, the author crafts the full manuscript. Once the devotional content is completed, our incredible editing team works closely with this author to refine the manuscript. Meanwhile, our design team works with our lead product designer, Katie Guiliano, to uniquely design the visuals of the devotional around the content. Once we pair the beautiful visuals with the words, we send the final study to print and, come launch day, the devotional makes its way into your hands!</p><p>You can learn more about our incredible team that makes this all possible <a href=\"/pages/about\" target=\"_blank\" title=\"About Us\">here on our About Page</a>.</p>"
+          }
+        },
+        "question_Lm3Qnd": {
+          "type": "question",
+          "settings": {
+            "title": "Can I study this devotional with a group?",
+            "text": "<p><strong>Did you know if you buy 10 or more of a devotional, you automatically get a $5 discount per copy?</strong> We want to make it easy for you to study these within the context of community and are cheering you on!</p><p>While our devotionals are not designed with a designated leader guide, we encourage you to study these tools alongside your local church group or with a friend and use the questions and Scripture covered each week to guide discussion.</p>"
+          }
+        }
+      },
       "block_order": [
         "question_WJGJLd",
         "question_Xpif3c",
         "question_YZi8Kd",
         "question_Uv9Wkd",
-         "question_Lm3Qnd"
+        "question_Lm3Qnd"
       ],
       "settings": {
         "title": "",
         "space_above": 0,
         "space_below": 0
+      }
+    },
+    "featured_collection_xCqkjM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop All Devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     }
   },
@@ -513,6 +525,7 @@
     "baa00edd-f647-46b5-9af6-b1a133454696",
     "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
     "rich_text_BnUh4E",
-    "faq_7pWgCb"
+    "faq_7pWgCb",
+    "featured_collection_xCqkjM"
   ]
 }
