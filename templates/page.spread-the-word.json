@@ -551,6 +551,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Notebooks",
@@ -563,11 +564,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Devotionals",
-            "text": "<p>Walk through a devotional together and meet once weekly to discuss what you’re learning.</p>",
-            "button_label": "Optional button",
+            "text": "<p>Walk through a devotional together and meet to discuss what you’re learning.</p>",
+            "button_label": "Choose a devotional",
             "button_link": ""
           }
         },
@@ -575,11 +577,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_mask": "none",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-441_98b83812-eb41-4c43-a197-f1c41353e6af.jpg",
+            "image_mask": "square",
             "image_width": 650,
             "title": "Compact Bibles",
             "text": "<p>Get an NLT Compact Bible and find fun places to read the Word together!</p>",
-            "button_label": "Optional button",
+            "button_label": "Find your Compact Bible",
             "button_link": ""
           }
         }
