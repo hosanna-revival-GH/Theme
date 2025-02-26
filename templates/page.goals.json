@@ -11,13 +11,122 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_ptjrnd": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yPEHyE": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Set Your Goal",
+            "title_size": 80,
+            "subheading": "How will you grow spiritually in this season?",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-042.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_yPEHyE"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_z48LYt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WTkNyG": {
+          "type": "heading",
+          "settings": {
+            "title": "How will you grow spiritually this year?"
+          }
+        },
+        "text_afVt6E": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>With new seasons comes new rhythms and a fresh start! We are here to equip you with intentional tools to excite you to engage in God's Word. Start here to set your goal.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_WTkNyG",
+        "text_afVt6E"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#6b6e40",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_pAcpTr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rGY8Pr": {
+          "type": "heading",
+          "settings": {
+            "title": "Set Your Goal"
+          }
+        },
+        "text_CeCDcA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Begin with the ideas below to set your intentional goal to grow spiritually this year. What gets you excited to engage in Scripture?</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_rGY8Pr",
+        "text_CeCDcA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_ptjrnd",
+    "rich_text_z48LYt",
+    "rich_text_pAcpTr"
   ]
 }
