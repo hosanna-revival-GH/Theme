@@ -11,13 +11,36 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "text_and_image_LTyHqF": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/KJV-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "HOSANNA SURVEY",
+        "title": "BEAUTIFUL KJV BIBLES?",
+        "text": "<p>Our ministry, Hosanna Revival, exists to excite women about engaging with God by creating beautiful and intentional tools for their lives.</p><p>We have designed and distributed over 100,000 beautiful Bibles in 80+ different designs in 5 different translations, but due to publishing restrictions we have no Bibles in the King James Version. </p><p>At last, this could change! We are overjoyed to have the opportunity to finally add beautiful KJV Bibles to our shop, but we can't do it without your help! We need to collect responses to this survey from 750 different KJV readers! If you have been looking for a quality, beautifully-designed KJV Bible for you or someone you love, please take 5 minutes to answer the following questions, and share this survey with any female KJV readers you know! We would LOVE to design KJV Bibles for 2023 and hope you will help us make that a reality!</p><p>If this dream becomes a reality, we will email all survey participants a coupon for 25% off these beautiful Bibles once they are available!</p><p>Fill out the survey here by the end of July! </p>",
+        "button_label": "TAKE THE SURVEY HERE",
+        "button_link": "https://forms.gle/gHGvZM3s7MaJFd6T6",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "text_and_image_LTyHqF"
   ]
 }
