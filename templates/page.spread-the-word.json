@@ -136,8 +136,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_bg": "#789ec8",
+        "color_text": "#ffffff",
         "space_above": 75,
         "space_below": 75
       }
@@ -175,6 +175,31 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
+      }
+    },
+    "rich_text_LjtCqL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hqJ7Rc": {
+          "type": "heading",
+          "settings": {
+            "title": "WHy spread the word?"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hqJ7Rc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 40,
+        "space_below": 0
       }
     },
     "text_and_image_RLEFtk": {
@@ -217,6 +242,31 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "rich_text_itMj6x": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bhwAV4": {
+          "type": "heading",
+          "settings": {
+            "title": "How will you spread the Word?"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bhwAV4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 40
       }
     },
     "rich_text_tMHfQV": {
@@ -283,31 +333,6 @@
         "color_text": "#f4efe6",
         "space_above": 75,
         "space_below": 75
-      }
-    },
-    "rich_text_itMj6x": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_bhwAV4": {
-          "type": "heading",
-          "settings": {
-            "title": "How will you spread the Word?"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bhwAV4"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 40
       }
     },
     "featured_collections_VJLYiB": {
@@ -647,10 +672,11 @@
     "text_columns_YCpTWi",
     "rich_text_aQiknw",
     "slideshow_KCP8Bn",
+    "rich_text_LjtCqL",
     "text_and_image_RLEFtk",
     "text_and_image_jfeUAV",
-    "rich_text_tMHfQV",
     "rich_text_itMj6x",
+    "rich_text_tMHfQV",
     "featured_collections_VJLYiB",
     "faq_ME8cjJ",
     "text_columns_NEyPwE"
