@@ -20,6 +20,7 @@
   {% endfor %}
 </div>
 {% style %}
+  {% assign number_rows = 100 | divided_by: section.blocks.size %}
 .image-row {
   display: flex;
   flex-wrap: wrap;
@@ -30,8 +31,8 @@
 }
 
 .image-row__item {
-  flex: 0 0 calc(25% - 1%); /* Each item takes up 25% of the container width minus 1% margin */
-  max-width: calc(25% - 1%); /* Each item takes up 25% of the container width minus 1% margin */
+  flex: 0 0 calc({{ number_rows }}% - 1%); /* Each item takes up 25% of the container width minus 1% margin */
+  max-width: calc({{ number_rows }}% - 1%); /* Each item takes up 25% of the container width minus 1% margin */
   margin: 0.5%; /* 1% total space between items */
   box-sizing: border-box;
 }
