@@ -19,7 +19,23 @@
     {% endif %}
   {% endfor %}
 </div>
+{% style %}
+  .image-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Adjusts spacing between images */
+  margin-left: -15px; /* Adjusts for gutter */
+  margin-right: -15px; /* Adjusts for gutter */
+}
 
+.image-row__image {
+  flex: 0 0 25%; /* Each image takes up 25% of the container width */
+  max-width: 25%; /* Each image takes up 25% of the container width */
+  padding-left: 15px; /* Gutter */
+  padding-right: 15px; /* Gutter */
+  box-sizing: border-box;
+}
+{% endstyle %}
 {% schema %}
 {
   "name": "Image gallery",
