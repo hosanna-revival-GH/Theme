@@ -107,12 +107,151 @@
         "space_above": 0,
         "space_below": 20
       }
-    }
+    },
+        "text_columns_7BPEfW": {
+      "type": "text-columns",
+      "blocks": {
+   "text_block_3qnQfQ": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Artboard_1_copy_5_85226551-e618-41cf-9ab1-034f0cd2e7a1.png",
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "https://hosannarevival.blog/when-you-dont-want-to-live-anymore/"
+      }
+    },
+    "text_block_3dT6an": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Artboard_1_copy_6_ca384102-1d10-4bc7-97ea-0f80dbd3db6f.png",
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "https://hosannarevival.blog/when-you-feel-depressed-and-hopeless/"
+      }
+    },
+    "text_block_cQgqeG": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Artboard_1_copy_7_f6e69024-29c3-48c5-9321-24e97adf016e.png",
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "https://hosannarevival.blog/when-you-cant-stop-believing-lies-about-yourself/"
+      }
+    },
+"text_block_QpNfRm": {
+  "type": "text_block",
+  "settings": {
+    "enable_image": true,
+    "image": "shopify://shop_images/Artboard_1_copy_8_584a9bbd-e7af-42b0-b164-c6e07b557304.png",
+    "image_mask": "none",
+    "image_width": 650,
+    "title": "",
+    "text": "",
+    "button_label": "",
+    "button_link": "https://hosannarevival.blog/when-youre-paralyzed-by-anxiety/"
+  }
+},
+"text_block_WpnViq": {
+  "type": "text_block",
+  "settings": {
+    "enable_image": true,
+    "image": "shopify://shop_images/Artboard_1_copy_9_b7472252-b9c5-4cd6-9cbc-36941255416a.png",
+    "image_mask": "none",
+    "image_width": 650,
+    "title": "",
+    "text": "",
+    "button_label": "",
+    "button_link": "https://hosannarevival.blog/when-the-suffering-never-seems-to-end/"
+  }
+},
+"text_block_b7XQLj": {
+  "type": "text_block",
+  "settings": {
+    "enable_image": true,
+    "image": "shopify://shop_images/Artboard_1_copy_10_bd60e969-69ea-4eee-9b05-53c9c988724d.png",
+    "image_mask": "none",
+    "image_width": 650,
+    "title": "",
+    "text": "",
+    "button_label": "",
+    "button_link": "https://hosannarevival.blog/when-god-doesnt-heal-your-depression/"
+  }
+},
+"text_block_irNYQP": {
+  "type": "text_block",
+  "settings": {
+    "enable_image": true,
+    "image": "shopify://shop_images/Artboard_1_copy_13.png",
+    "image_mask": "none",
+    "image_width": 650,
+    "title": "",
+    "text": "",
+    "button_label": "",
+    "button_link": ""
+  }
+},
+"text_block_yiyt8r": {
+  "type": "text_block",
+  "settings": {
+    "enable_image": true,
+    "image": "shopify://shop_images/Artboard_1_copy_11.png",
+    "image_mask": "none",
+    "image_width": 650,
+    "title": "",
+    "text": "",
+    "button_label": "",
+    "button_link": "https://hosannarevival.blog/when-you-find-yourself-in-a-therapists-waiting-room/"
+  }
+},
+"text_block_9H4LyU": {
+  "type": "text_block",
+  "settings": {
+    "enable_image": true,
+    "image": "shopify://shop_images/Artboard_1_copy_12.png",
+    "image_mask": "none",
+    "image_width": 650,
+    "title": "",
+    "text": "",
+    "button_label": "",
+    "button_link": "https://hosannarevival.blog/when-panic-attacks-threaten-to-steal-your-joy/"
+  }
+},        
+      },
+      "block_order": [
+        "text_block_3qnQfQ",
+        "text_block_3dT6an",
+        "text_block_cQgqeG",
+        "text_block_QpNfRm",
+        "text_block_WpnViq",
+        "text_block_b7XQLj",
+        "text_block_irNYQP",
+        "text_block_yiyt8r",
+        "text_block_9H4LyU"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
   },
   "order": [
     "main",
     "slideshow_bMfRaw",
     "rich_text_kWciaN",
-    "single_button_fGdWWH"
+    "single_button_fGdWWH",
+    "text_columns_7BPEfW"
   ]
 }
