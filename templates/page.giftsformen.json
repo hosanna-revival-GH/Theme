@@ -269,54 +269,57 @@
         "button_link": "shopify://collections/gifts-for-men",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 0,
         "space_below": 30
       }
     },
     "text_columns_abCtgD": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "for my brother",
-      "text": "<p>I bought this Bible for my younger brother. I wanted to get him something beautiful but not \"girly\". I appreciated that I could find something simple and understated without being plain and boring.<br/><em>—Mara—</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "for my boyfriend",
-      "text": "<p>I really wanted to get a special one for my boyfriend who wanted to take his relationship with the Lord seriously. I decided a great first step was to give him a physical Bible instead of him just reading on a phone so I went searching for one that was less feminine and he absolutely loved it!<br/><em>—Jess—</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "for my husband",
-      "text": "<p>Bought this for my husband! He’s always complained that it’s hard to find nice-looking journaling Bibles for guys! Was SO excited when I saw this one as it’s not specifically feminine and he will love it!!<br/>—<em>Amanda—</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "for my brother",
+            "text": "<p>I bought this Bible for my younger brother. I wanted to get him something beautiful but not \"girly\". I appreciated that I could find something simple and understated without being plain and boring.<br/><em>—Mara—</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "for my boyfriend",
+            "text": "<p>I really wanted to get a special one for my boyfriend who wanted to take his relationship with the Lord seriously. I decided a great first step was to give him a physical Bible instead of him just reading on a phone so I went searching for one that was less feminine and he absolutely loved it!<br/><em>—Jess—</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "for my husband",
+            "text": "<p>Bought this for my husband! He’s always complained that it’s hard to find nice-looking journaling Bibles for guys! Was SO excited when I saw this one as it’s not specifically feminine and he will love it!!<br/>—<em>Amanda—</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
         "text_block_3"
       ],
       "settings": {
-        "title": "",
+        "title": "Hear from the Gift-Givers",
         "align_text": "center",
         "divider": false
       }
