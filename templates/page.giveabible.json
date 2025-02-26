@@ -11,13 +11,196 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_QdFXA6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_VJkt9g": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "GIVE A BIBLE",
+            "title_size": 72,
+            "subheading": "Introducing Give a Bible: Our Bible Donation Initiative",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-029_2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_VJkt9g"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_yzYjRK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_B69bjC": {
+          "type": "heading",
+          "settings": {
+            "title": "Give a Bible: Our Bible  donation initiative"
+          }
+        },
+        "text_qGnrUU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Cover the cost to donate a Bible for only $9.99</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_34Ui9b": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We are excited to provide you with the opportunity to cover the cost of donating a beautiful Hosanna Revival Bible to a selection of local and international partners through our <em>Give a Bible </em>initiative. Our heart is to excite people about Scripture by creating beautiful and intentional tools for their lives, and we want you to be able to join in on this mission! For just $9.99, you can cover the cost of donating one of our Bibles to our ministry partners featured below. We are so grateful for your generosity that enables us to send beautiful Bibles around the world!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_B69bjC",
+        "text_qGnrUU",
+        "text_34Ui9b"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_f7FULJ": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_jWb9gp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_rmAAkf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_UXzaWW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_jWb9gp",
+        "text_block_rmAAkf",
+        "text_block_UXzaWW"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_aEmAiK": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "GIVE A BIBLE",
+        "button_link": "https://hosannarevival.com/products/give-a-bible",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "rich_text_JKfTHm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cygKVE": {
+          "type": "heading",
+          "settings": {
+            "title": "WHERE WE'RE GIVING"
+          }
+        },
+        "text_8PiLQX": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We're so excited to partner with local, national, and international non-profits to send our beautiful Bibles. Take a look below at all of our current partnerships and where these Bibles are headed.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_cygKVE",
+        "text_8PiLQX"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 45,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_QdFXA6",
+    "rich_text_yzYjRK",
+    "text_columns_f7FULJ",
+    "single_button_aEmAiK",
+    "rich_text_JKfTHm"
   ]
 }
