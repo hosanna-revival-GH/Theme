@@ -114,12 +114,96 @@
         "space_above": 0,
         "space_below": 75
       }
+    },
+      "text_and_image_hC948e_1": {
+    "type": "text-and-image",
+    "settings": {
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-88.jpg",
+      "image_width": "50",
+      "subtitle": "1",
+      "title": "Make some space",
+      "text": "<p>Sometimes all you need is a little blank space to be able to gain the clarity you need for an intentional holiday season. This space begins with making time. Even if you feel like you have no time, stepping away for 10 minutes to sort out your plans can actually open up more time than just powering through and getting things done. Next, this space can be found in the simple tool of a blank page. Here you can sort out the tangled to-do’s in your brain and gain fresh vision.</p>",
+      "button_label": "",
+      "button_link": "",
+      "layout": "right"
     }
+  },
+  "text_and_image_hC948e_2": {
+    "type": "text-and-image",
+    "settings": {
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-52_e7bd39ed-3dbd-499b-a5b3-bcfad50b1219.jpg",
+      "image_width": "50",
+      "subtitle": "2",
+      "title": "Write it all down",
+      "text": "<p>In whatever way makes sense for your brain, write out everything on your mind. This can take the form of checklists, brainstorm maps, doodles—whatever flows easiest for you! At this point in the process, don’t let yourself do any work other than unloading your brain onto the page. The next steps will help you sort it all out, but for now, simply gain a sense of what is on your plate by noting it down physically.</p>",
+      "button_label": "",
+      "button_link": "",
+      "layout": "left"
+    }
+  },
+  "text_and_image_hC948e_3": {
+    "type": "text-and-image",
+    "settings": {
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-50.jpg",
+      "image_width": "50",
+      "subtitle": "3",
+      "title": "Cast the big vision",
+      "text": "<p>Once you’ve written everything out, begin with a big-picture perspective. What is on your plate? Are there smaller tasks that are technically under one big task? How many big tasks do you have? Do any come out as priorities above others? Take note of how many priorities you currently have and consider your limits. What comes out on top? </p>",
+      "button_label": "",
+      "button_link": "",
+      "layout": "right"
+    }
+  },
+  "text_and_image_hC948e_4": {
+    "type": "text-and-image",
+    "settings": {
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-77_ca14450a-6169-4ddb-96b6-72b96e44ff18.jpg",
+      "image_width": "50",
+      "subtitle": "4",
+      "title": "Set your why",
+      "text": "<p>Step back from the little to-do’s to evaluate why you’re rushing around in the first place. Do you want everyone to feel deeply loved this Christmas? Do you want to host the perfect holiday party? Write these things down. Take a moment to consider your motivations. Are there any unhealthy thought patterns you can leave behind? Remind yourself of the truth of what matters in this season and write it down. </p>",
+      "button_label": "",
+      "button_link": "",
+      "layout": "left"
+    }
+  },
+  "text_and_image_hC948e_5": {
+    "type": "text-and-image",
+    "settings": {
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-45_3561b1a5-f749-43b2-b637-a346d14f7e41.jpg",
+      "image_width": "50",
+      "subtitle": "5",
+      "title": "Note your next action step",
+      "text": "<p>Assess the timeline for these tasks. Is everything an immediate need, or can some tasks wait until tomorrow, next week, or next month? Sometimes getting a task out of your brain and onto paper can help you realize it doesn’t need to be done now. Once you’ve put it in a place you can remember, there’s more space for the more immediate to-dos. Create a smaller, tangible list of to-dos for the days ahead that reflects more accurately what you need to do.</p>",
+      "button_label": "",
+      "button_link": "",
+      "layout": "right"
+    }
+  },
+  "text_and_image_hC948e_6": {
+    "type": "text-and-image",
+    "settings": {
+      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-37.jpg",
+      "image_width": "50",
+      "subtitle": "6",
+      "title": "Step back into the season",
+      "text": "<p>Once you’ve taken this space to vision-cast and sort out the tangible details, you’re ready to step back into the day ahead of you. Whenever you feel the overwhelm threatening to overcome you again, find a new sheet of paper and start fresh. Remind yourself of the truth that this is not about what you can do but about what God can do. Whether you hand him much or little to work with, he can bring beautiful things out of the days ahead. </p>",
+      "button_label": "",
+      "button_link": "",
+      "layout": "left"
+    }
+  },
   },
   "order": [
     "main",
     "slideshow_qjXzbQ",
     "rich_text_fhfDEw",
-    "rich_text_rJyM3E"
+    "rich_text_rJyM3E",
+      "text_and_image_hC948e_1",
+  "text_and_image_hC948e_2",
+  "text_and_image_hC948e_3",
+  "text_and_image_hC948e_4",
+  "text_and_image_hC948e_5",
+  "text_and_image_hC948e_6"
   ]
 }
