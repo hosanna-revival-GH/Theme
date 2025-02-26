@@ -24,8 +24,10 @@
 .image-row {
   display: flex;
   flex-wrap: wrap;
-  padding-left: 15px; /* Padding on the left of the container */
-  padding-right: 15px; /* Padding on the right of the container */
+  {% if section.settings.enable_spacing %}
+  padding-left: 15px; 
+  padding-right: 15px; 
+    {% endif %}
   margin-left: -0.5%; /* Adjust for negative margin on items */
   margin-right: -0.5%; /* Adjust for negative margin on items */
 }
@@ -73,7 +75,19 @@
           "label": "Centered"
         }
       ]
-    }
+    },
+    {
+          "type": "checkbox",
+          "id": "enable_spacing",
+          "label": "Spacing",
+          "default": true
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_zoom",
+          "label": "Zoom",
+          "default": false
+        },
   ],
   "blocks": [
     {
