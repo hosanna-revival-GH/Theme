@@ -89,66 +89,45 @@
         "space_below": 35
       }
     },
-    "text_and_image_D9UHF6": {
-      "type": "text-and-image",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_GBRmLB": {
-      "type": "text-and-image",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_nQnbek": {
-      "type": "text-and-image",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
+           "3b7bac63-4b13-4b95-8466-c74fc608da86": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_610c344f-9f6c-4d8c-b806-8ae1f467ebac.png",
+              "image_width": "50",
+              "subtitle": "BEAUTY NOT BEHELD",
+              "title": "This Devotional is for you if...",
+              "text": "<p>- You have found that  the promises of self-love culture usually disappoint. <br/>- You struggle to understand how the gospel could truly be a remedy for your insecurities.<br/>- You doubt the Scriptures’ relevance to the problems you face everyday.</p>",
+              "button_label": "choose this tool",
+              "button_link": "shopify://products/devotional-beauty-not-beheld",
+              "layout": "left"
+            }
+          },
+          "cef8988f-1c95-4dc4-9b86-98738fde8ef5": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_2_4f983b5b-c78d-4e2e-8932-ed9bcb10c851.png",
+              "image_width": "50",
+              "subtitle": "THE DETAILS",
+              "title": "Beauty Not Beheld",
+              "text": "<p><strong>Topic: </strong>intends to<strong> </strong>equip believers to discern the subtle lies about identity and beauty that permeate our current cultural climate and replace them with biblical truths about who we are and who we were made to be. <strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>“We have turned the gospel into a self-esteem project instead of an atonement project. And we have done this by convincing ourselves that our deepest problem as a human being is a lack of self-love, self-confidence, self-appreciation, self-care, self-this, and self-that”</p><p><em>- Paige Stitt McBride, author</em></p><p></p>",
+              "button_label": "choose this tool",
+              "button_link": "shopify://products/devotional-beauty-not-beheld",
+              "layout": "right"
+            }
+          },
+          "deeebd8d-f04b-44e9-80d6-4d0d5e1236d7": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_3_906a7e5d-83cc-4ef4-b0da-034d60ebe0fe.png",
+              "image_width":"50",
+              "subtitle": "PEEK INSIDE",
+              "title": "The Devotional Structure",
+              "text": "<p><strong>Structure: </strong>6 week study<strong><br/>Elements: </strong> Each week provides six studies contrasting a common sentiment in society with a biblical truth. After reading the given passage of Scripture and commentary, readers are given reflection questions to verbalize and apply what they are learning.</p><p></p><p></p>",
+              "button_label": "choose this tool",
+              "button_link": "shopify://products/devotional-beauty-not-beheld",
+              "layout": "left"
+            }
+          },
     "text_columns_mGVk8i": {
       "type": "text-columns",
       "blocks": {
@@ -401,9 +380,9 @@
     "hero_video_yqUX7D",
     "rich_text_k9xULk",
     "single_button_zURCik",
-    "text_and_image_D9UHF6",
-    "text_and_image_GBRmLB",
-    "text_and_image_nQnbek",
+    "3b7bac63-4b13-4b95-8466-c74fc608da86",
+    "cef8988f-1c95-4dc4-9b86-98738fde8ef5",
+     "deeebd8d-f04b-44e9-80d6-4d0d5e1236d7",
     "text_columns_mGVk8i",
     "text_and_image_nyrbMb",
     "single_button_XH7UMM",
