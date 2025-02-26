@@ -20,7 +20,7 @@
   {% endfor %}
 </div>
 {% style %}
-  {% assign number_rows = 100 | divided_by: section.blocks.size %}
+  {% assign number_rows = 100.0 | divided_by: section.blocks.size %}
 .image-row {
   display: flex;
   flex-wrap: wrap;
