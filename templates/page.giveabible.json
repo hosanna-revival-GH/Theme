@@ -99,41 +99,44 @@
     },
     "text_columns_f7FULJ": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "",
-      "text": "<h2>1</h2><p>Fill your cart with the beautiful and intentional tools you want to purchase for yourself from our shop, then navigate to checkout.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "",
-      "text": "<h2>2</h2><p>Toggle the <em>Give a Bible</em> button on at checkout. A $9.99 charge covering the costs of donating a Bible will be added to your order.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "",
-      "text": "<h2>3</h2><p>Thanks to your generosity, we will set aside one of our beautiful Bibles to send to our donation partners.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<h2>1</h2><p>Fill your cart with the beautiful and intentional tools you want to purchase for yourself from our shop, then navigate to checkout.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<h2>2</h2><p>Toggle the <em>Give a Bible</em> button on at checkout. A $9.99 charge covering the costs of donating a Bible will be added to your order.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<h2>3</h2><p>Thanks to your generosity, we will set aside one of our beautiful Bibles to send to our donation partners.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
@@ -191,177 +194,305 @@
         "space_below": 75
       }
     },
-              "9a51c368-4f34-46d2-8d33-93193d8a531a": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Full_logo_large_-_color_1.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "Love One",
-              "text": "<p><strong>Location: </strong>Brentwood, TN<strong><br/>Mission: </strong>We exist to transform the lives of children and families in Uganda through life-saving medical care, family preservation and sharing the love of Jesus. </p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://www.loveoneinternational.org/core-values/",
-              "layout": "right"
-            }
-          },
-          "403ce5a5-a366-47dd-86fb-5006650ee54b": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artwork-12-3x-8_2.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "Young Life",
-              "text": "<p><strong>Location:</strong> Colorado Springs, CO (nationwide and international) <br/><strong>Mission: </strong>Young Life is a Christian ministry that reaches out to middle school, high school, and college students in all 50 of the United States and in more than 100 countries around the world. Young Life's mission is to introduce adolescents to Jesus Christ and help them grow in their faith.</p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://younglife.org/",
-              "layout": "left"
-            }
-          },
-          "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/FINALGBB_FULL-03.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "God Behind Bars",
-              "text": "<p><strong>Location: </strong>Nevada<br/><strong>Mission: </strong>By inviting God into prison and showing His love in tangible ways, God Behind Bars is restoring lives, building faith, fighting addictions, reconnecting families, and giving thousands of inmates hope for the future.</p>",
-              "button_label": "Learn More Here",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "ea2a9dab-8399-49bd-aa27-05cf0101993d": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/shlogoblack2x.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "Scarlet Hope",
-              "text": "<p><strong>Location: </strong>Kentucky (8 locations nationwide)<br/><strong>Mission:</strong> Scarlet Hope exists to share the hope and love of Jesus with women in the adult entertainment industry. Their vision is to see women in the adult entertainment industry all over the world engaged with the Gospel of Jesus Christ, teaching them they are loved by the Creator of the universe and were made in His image while equipping and empowering them to change their lives through gospel-centered community and resources.</p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://scarlethope.org/about/",
-              "layout": "left"
-            }
-          },
-          "dbc8ea1f-ddbb-4205-8115-da2327f750d3": {
-            "type": "text-and-image",
-            "disabled": true,
-            "settings": {
-              "image_width": "50",
-              "subtitle": "",
-              "title": "The 4/7",
-              "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission:</strong> Through a relationship with Christian community, ​The Four-Seven is committed to equipping the lives of the incarcerated and their families with tools and resources that lead to transformation.</p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://www.thefourseven.org/",
-              "layout": "right"
-            }
-          },
-          "2d4443b2-b026-4883-abd8-68cf2d767caf": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/EVE_Logo_NEW_weve_been_there.jpg",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "The Eve Center",
-              "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission:</strong> The Eve Center is a community of women devoted to promoting hope, healing, and growth for women through Biblical, no cost, safe and confidential peer counseling and training. </p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://evecenter.org/",
-              "layout": "right"
-            }
-          },
-          "3f271f8c-0764-4d79-8656-17aabbbf9016": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/BLOC_Ministries.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "Bloc Ministries",
-              "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission: </strong>Bloc Ministries is a faith-based non-profit that focuses on healthy, personal relationships and activities that help to build hope, purpose, and vital life skills. Their mission is to build connections and safe spaces for students, families and adults to thrive and succeed in spite of difficult circumstances. </p>",
-              "button_label": "Learn More Here",
-              "button_link": "http://www.onebloc.org/",
-              "layout": "left"
-            }
-          },
-          "13241240-9631-451f-af9c-a3f33ac609c2": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/20_Rescue_Her_Logo_blue_79e28390-48a2-4342-8ea6-127cb79fe181.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "Rescue Her",
-              "text": "<p><strong>Location: </strong>Euless, TX<br/><strong>Mission: </strong>The vision of Rescue Her is to empower survivors of sex trafficking to live in freedom. Our mission is to raise awareness, assist with rescues, and restore. We raise awareness through speaking events, educational resources, and awareness campaigns. We assist with rescues of victims through crisis response and collaboration with law enforcement. We offer restorative services to survivors through our long-term Empower Program.</p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://www.rescueher.org/",
-              "layout": "right"
-            }
-          },
-          "7153e79b-eb25-425a-9032-815690b0c535": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/back2back-logo-wh.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "Back2Back Ministries",
-              "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission: </strong>Back2Back Ministries is an international Christian non-profit organization dedicated to being a voice for orphans. They exist to love and care for orphaned and vulnerable children, by meeting their spiritual, physical, educational, emotional and social needs that they might overcome their life circumstances and break free from the cycle of generational poverty.</p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://back2back.org/",
-              "layout": "left"
-            }
-          },
-          "a26056e0-883c-46a4-8404-a165bca14eb3": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/A21_SupportingLogo_A_White.png",
-              "image_width": "40",
-              "subtitle": "",
-              "title": "A21",
-              "text": "<p><strong>Location: </strong>Fort Worth, TX<br/><strong>Mission: </strong>In 2008, a few ordinary people set out to do the impossible... abolish slavery everywhere, forever. To see a world where women are no longer sold for sex. Where men are no longer sold for labor. Where children are no longer taken from their families and exploited. A world where every single person is <em>free.</em></p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://www.a21.org/content/get-to-know-us/grd33s",
-              "layout": "right"
-            }
-          },
-          "3d0c272a-1e4a-477d-a79d-42a43f62d8cf": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/LovePackages_logo.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "Love Packages",
-              "text": "<p><strong>Location: </strong>Decatur, AL<strong><br/>Mission: </strong>Love Packages is a non-denominational, not-for-profit ministry that equips pastors, missionaries, evangelists, and teachers all over the world with free bibles and Christian literature. Everything we send is donated from individuals, ministries, and publishers in the U.S.</p>",
-              "button_label": "Learn More Here",
-              "button_link": "https://lovepackages.org/about-us-2/",
-              "layout": "left"
-            }
-          },
-          "444e1ed3-523d-4065-a37f-6e5deebf4b3f": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/1.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "The Glow Mission",
-              "text": "<p><strong>Location: </strong>Kannapolis, NC<br/><strong>Mission:</strong> As GLOW stands for “Go Love Others Well,” the scope of GLOW’s work has expanded to include care for widows and needy elderly in Ukraine, and now encompasses the vision to restore hope by restoring homes damaged and destroyed during the war and caring for refugees. GLOW continues to work with our orphan grads, giving them opportunities to “give back” and love well as they have been loved.</p>",
-              "button_label": "Learn More here",
-              "button_link": "https://glowmission.org/about-us/",
-              "layout": "right"
-            }
-          },
-          "55401b2d-65ef-489e-b538-fceb204e053e": {
-            "type": "single-button",
-            "disabled": true,
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "GIVE A BIBLE HERE",
-              "button_link": "",
-              "button_size": "huge"
-            }
-          },
-
-
-
+    "9a51c368-4f34-46d2-8d33-93193d8a531a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Full_logo_large_-_color_1.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Love One",
+        "text": "<p><strong>Location: </strong>Brentwood, TN<strong><br/>Mission: </strong>We exist to transform the lives of children and families in Uganda through life-saving medical care, family preservation and sharing the love of Jesus. </p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://www.loveoneinternational.org/core-values/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "403ce5a5-a366-47dd-86fb-5006650ee54b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artwork-12-3x-8_2.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Young Life",
+        "text": "<p><strong>Location:</strong> Colorado Springs, CO (nationwide and international) <br/><strong>Mission: </strong>Young Life is a Christian ministry that reaches out to middle school, high school, and college students in all 50 of the United States and in more than 100 countries around the world. Young Life's mission is to introduce adolescents to Jesus Christ and help them grow in their faith.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://younglife.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/FINALGBB_FULL-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "God Behind Bars",
+        "text": "<p><strong>Location: </strong>Nevada<br/><strong>Mission: </strong>By inviting God into prison and showing His love in tangible ways, God Behind Bars is restoring lives, building faith, fighting addictions, reconnecting families, and giving thousands of inmates hope for the future.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ea2a9dab-8399-49bd-aa27-05cf0101993d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/shlogoblack2x.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Scarlet Hope",
+        "text": "<p><strong>Location: </strong>Kentucky (8 locations nationwide)<br/><strong>Mission:</strong> Scarlet Hope exists to share the hope and love of Jesus with women in the adult entertainment industry. Their vision is to see women in the adult entertainment industry all over the world engaged with the Gospel of Jesus Christ, teaching them they are loved by the Creator of the universe and were made in His image while equipping and empowering them to change their lives through gospel-centered community and resources.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://scarlethope.org/about/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "dbc8ea1f-ddbb-4205-8115-da2327f750d3": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The 4/7",
+        "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission:</strong> Through a relationship with Christian community, ​The Four-Seven is committed to equipping the lives of the incarcerated and their families with tools and resources that lead to transformation.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://www.thefourseven.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2d4443b2-b026-4883-abd8-68cf2d767caf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/EVE_Logo_NEW_weve_been_there.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The Eve Center",
+        "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission:</strong> The Eve Center is a community of women devoted to promoting hope, healing, and growth for women through Biblical, no cost, safe and confidential peer counseling and training. </p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://evecenter.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3f271f8c-0764-4d79-8656-17aabbbf9016": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/BLOC_Ministries.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Bloc Ministries",
+        "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission: </strong>Bloc Ministries is a faith-based non-profit that focuses on healthy, personal relationships and activities that help to build hope, purpose, and vital life skills. Their mission is to build connections and safe spaces for students, families and adults to thrive and succeed in spite of difficult circumstances. </p>",
+        "button_label": "Learn More Here",
+        "button_link": "http://www.onebloc.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "13241240-9631-451f-af9c-a3f33ac609c2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/20_Rescue_Her_Logo_blue_79e28390-48a2-4342-8ea6-127cb79fe181.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Rescue Her",
+        "text": "<p><strong>Location: </strong>Euless, TX<br/><strong>Mission: </strong>The vision of Rescue Her is to empower survivors of sex trafficking to live in freedom. Our mission is to raise awareness, assist with rescues, and restore. We raise awareness through speaking events, educational resources, and awareness campaigns. We assist with rescues of victims through crisis response and collaboration with law enforcement. We offer restorative services to survivors through our long-term Empower Program.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://www.rescueher.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "7153e79b-eb25-425a-9032-815690b0c535": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/back2back-logo-wh.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Back2Back Ministries",
+        "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission: </strong>Back2Back Ministries is an international Christian non-profit organization dedicated to being a voice for orphans. They exist to love and care for orphaned and vulnerable children, by meeting their spiritual, physical, educational, emotional and social needs that they might overcome their life circumstances and break free from the cycle of generational poverty.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://back2back.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "a26056e0-883c-46a4-8404-a165bca14eb3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/A21_SupportingLogo_A_White.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "A21",
+        "text": "<p><strong>Location: </strong>Fort Worth, TX<br/><strong>Mission: </strong>In 2008, a few ordinary people set out to do the impossible... abolish slavery everywhere, forever. To see a world where women are no longer sold for sex. Where men are no longer sold for labor. Where children are no longer taken from their families and exploited. A world where every single person is <em>free.</em></p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://www.a21.org/content/get-to-know-us/grd33s",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3d0c272a-1e4a-477d-a79d-42a43f62d8cf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/LovePackages_logo.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Love Packages",
+        "text": "<p><strong>Location: </strong>Decatur, AL<strong><br/>Mission: </strong>Love Packages is a non-denominational, not-for-profit ministry that equips pastors, missionaries, evangelists, and teachers all over the world with free bibles and Christian literature. Everything we send is donated from individuals, ministries, and publishers in the U.S.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://lovepackages.org/about-us-2/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "444e1ed3-523d-4065-a37f-6e5deebf4b3f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/1.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The Glow Mission",
+        "text": "<p><strong>Location: </strong>Kannapolis, NC<br/><strong>Mission:</strong> As GLOW stands for “Go Love Others Well,” the scope of GLOW’s work has expanded to include care for widows and needy elderly in Ukraine, and now encompasses the vision to restore hope by restoring homes damaged and destroyed during the war and caring for refugees. GLOW continues to work with our orphan grads, giving them opportunities to “give back” and love well as they have been loved.</p>",
+        "button_label": "Learn More here",
+        "button_link": "https://glowmission.org/about-us/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "55401b2d-65ef-489e-b538-fceb204e053e": {
+      "type": "single-button",
+      "disabled": true,
+      "settings": {
+        "button_text": "GIVE A BIBLE HERE",
+        "button_link": "",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "rich_text_xmhqjE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CLrR3F": {
+          "type": "heading",
+          "settings": {
+            "title": "WANT TO BE A MINISTRY PARTNER?"
+          }
+        },
+        "text_3zrFjG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We are always looking for new ministries to send our beautiful Bibles. If you are involved with an organization that has a need for beautiful Bibles, we’d love to hear from you. Email us at <a href=\"mailto:donations@hosannarevival.com\" target=\"_blank\">donations@hosannarevival.com </a>(make sure to include your tax ID, and a brief explanation of your ministry’s mission)</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_CLrR3F",
+        "text_3zrFjG"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
+    }
   },
   "order": [
     "main",
@@ -370,18 +501,19 @@
     "text_columns_f7FULJ",
     "single_button_aEmAiK",
     "rich_text_JKfTHm",
-             "9a51c368-4f34-46d2-8d33-93193d8a531a",
-          "403ce5a5-a366-47dd-86fb-5006650ee54b",
-          "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe",
-          "ea2a9dab-8399-49bd-aa27-05cf0101993d",
-          "dbc8ea1f-ddbb-4205-8115-da2327f750d3",
-          "2d4443b2-b026-4883-abd8-68cf2d767caf",
-          "3f271f8c-0764-4d79-8656-17aabbbf9016",
-          "13241240-9631-451f-af9c-a3f33ac609c2",
-          "7153e79b-eb25-425a-9032-815690b0c535",
-          "a26056e0-883c-46a4-8404-a165bca14eb3",
-          "3d0c272a-1e4a-477d-a79d-42a43f62d8cf",
-          "444e1ed3-523d-4065-a37f-6e5deebf4b3f",
-          "55401b2d-65ef-489e-b538-fceb204e053e",
+    "9a51c368-4f34-46d2-8d33-93193d8a531a",
+    "403ce5a5-a366-47dd-86fb-5006650ee54b",
+    "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe",
+    "ea2a9dab-8399-49bd-aa27-05cf0101993d",
+    "dbc8ea1f-ddbb-4205-8115-da2327f750d3",
+    "2d4443b2-b026-4883-abd8-68cf2d767caf",
+    "3f271f8c-0764-4d79-8656-17aabbbf9016",
+    "13241240-9631-451f-af9c-a3f33ac609c2",
+    "7153e79b-eb25-425a-9032-815690b0c535",
+    "a26056e0-883c-46a4-8404-a165bca14eb3",
+    "3d0c272a-1e4a-477d-a79d-42a43f62d8cf",
+    "444e1ed3-523d-4065-a37f-6e5deebf4b3f",
+    "55401b2d-65ef-489e-b538-fceb204e053e",
+    "rich_text_xmhqjE"
   ]
 }
