@@ -179,7 +179,7 @@
         "title": "",
         "align_text": "center",
         "enable_spacing": false,
-        "enable_zoom": false
+        "enable_zoom": true
       }
     }
   },
