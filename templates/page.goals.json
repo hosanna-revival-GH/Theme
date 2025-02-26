@@ -509,48 +509,48 @@
     },
     "text_columns_Amc9N4": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_MVAfKh": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_jBpPXL": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_q9NxwP": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Bible-Toolkit-Hosanna-Revival-Cover-01_1080x_png.webp",
+      "image_width": 650,
+      "title": "Navigate your Bible",
+      "text": "<p>If you're not sure where to open to in your Bible, start with this free guide!</p>",
+      "button_label": "Explore the Bible Toolkit",
+      "button_link": "shopify://pages/bible-toolkit"
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/WHEN-site_1080x_jpg.webp",
+      "image_width": 650,
+      "title": "Be equipped for a specific struggle",
+      "text": "<p>Whether you're walking through suffering or struggling with sin, our blog <em>WHEN</em> provides dozens of articles to point you towards Scripture and practical next steps.</p>",
+      "button_label": "Start Reading",
+      "button_link": "https://hosannarevival.blog/"
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
+      "image_width": 650,
+      "title": "Learn how to pray",
+      "text": "<p>Talking with God is one of the best ways you can walk through your day, so start with this simple guide to prayer.</p>",
+      "button_label": "Explore the Prayer Toolkit",
+      "button_link": "shopify://pages/prayer-toolkit"
+    }
+  }
+},
       "block_order": [
-        "text_block_MVAfKh",
-        "text_block_jBpPXL",
-        "text_block_q9NxwP"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
