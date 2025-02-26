@@ -11,13 +11,50 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_FEtMzD": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nh3FMG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "BEYOND EGYPT",
+            "title_size": 80,
+            "subheading": "Learning to Walk in the Freedom of the Exodus",
+            "link": "https://hosannarevival.com/beyond-egypt-week-one",
+            "link_text": "DOWNLOAD WEEK ONE PREVIEW HERE",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beyond-Egypt-Bible-Study-Kari-Minter-LEPhotoDesign-Hosanna-Revival-080.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_nh3FMG"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_FEtMzD"
   ]
 }
