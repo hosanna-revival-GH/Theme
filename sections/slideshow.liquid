@@ -141,7 +141,7 @@
                 {% endif %}
 
                 {% if block.settings.link != blank %}
-                .index-section--hero:not(:first-child) .slideshow-wrapper .hero__text-wrap {
+               .index-section--hero:not(:first-child) .slideshow-wrapper:has(a) .hero__text-wrap {
                     top: -100%;
                 }
                   {% endif %}
