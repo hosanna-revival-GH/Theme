@@ -173,48 +173,51 @@
     },
     "text_columns_aW86M6": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_x9HrWy": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_jcHpkD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_amcaUb": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_Vqbi34": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/BE-Landing-04.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_RCGEWc": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/BE-Landing-05.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_eiUjXp": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/BE-Landing-06.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_x9HrWy",
-        "text_block_jcHpkD",
-        "text_block_amcaUb"
+        "text_block_Vqbi34",
+        "text_block_RCGEWc",
+        "text_block_eiUjXp"
       ],
       "settings": {
         "title": "",
