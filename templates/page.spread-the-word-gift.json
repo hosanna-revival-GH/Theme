@@ -243,10 +243,20 @@
           "settings": {
             "title": "Explore our free resources"
           }
+        },
+        "text_mFkPJa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Interested in learning more about how to read the Bible, pray, or approach certain topics with a biblical perspective? Take a look at these free resources.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
-        "heading_AdGGzw"
+        "heading_AdGGzw",
+        "text_mFkPJa"
       ],
       "settings": {
         "align_text": "center",
@@ -280,12 +290,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/WHEN-from-Hosanna-Revival.png",
+            "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "",
-            "text": "<p>Find an article on a practical, everyday topic that points you to Scripture</p>",
-            "button_label": "Find an article",
+            "text": "<p>Learn the power of prayer and where to start when it's hard to pray</p>",
+            "button_label": "Learn more about prayer",
             "button_link": ""
           }
         },
@@ -293,12 +303,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
+            "image": "shopify://shop_images/WHEN-site_1080x_jpg.webp",
             "image_mask": "none",
             "image_width": 650,
             "title": "",
-            "text": "<p>Learn the power of prayer and where to start when it's hard to pray</p>",
-            "button_label": "Read the Toolkit",
+            "text": "<p>Find an article on a practical, everyday topic that points you to Scripture</p>",
+            "button_label": "Find an article",
             "button_link": ""
           }
         }
