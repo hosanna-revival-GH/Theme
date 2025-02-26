@@ -112,7 +112,84 @@
             "text": "",
             "align_text": "left"
           }
-        }
+        },
+         "question_WJGJLd1": {
+    "type": "question",
+    "settings": {
+      "title": "I had a Bible in my cart, but it wouldn’t let me check out. Why doesn’t my cart “save” my Bible?",
+      "text": "<p>Because the demand for our products on restock nights is so high, many customers are adding the items to their carts at the exact same time. Our website will sell the product to the first person to complete the checkout process. Unfortunately, this means that adding the item to your cart does not automatically secure the purchase. It is secured once you successfully checkout.</p>"
+    }
+  },
+  "question_Xpif3c1": {
+    "type": "question",
+    "settings": {
+      "title": "Can I send you my Bible to paint?",
+      "text": "<p>Unfortunately, we only sell the Bibles we have on hand, and do not accept send-in Bibles. Without knowing what kind of cover our artist will be working with, we can’t trust and promote the integrity of our product. We have found from experience that most Bibles do not accept paint well. We don’t want to accept an order if we can’t promise that the painted Bible will not chip, wear, or fall apart. We have fine-tuned our processes to make sure that the Bibles we sell will withstand wear and tear and remain beautiful.</p>"
+    }
+  },
+  "question_YZi8Kd1": {
+    "type": "question",
+    "settings": {
+      "title": "When is the next fully-custom restock?",
+      "text": "<p>We no longer accept orders for fully-custom hand-painted Bibles. We now have a design submission process for fully-custom hand-painted Bibles. <a href=\"https://hosannarevival.com/pages/custom-hand-painted-bibles\" title=\"Custom Hand-Painted Bibles\">Click here to learn more.</a></p>"
+    }
+  },
+  "question_Uv9Wkd1": {
+    "type": "question",
+    "settings": {
+      "title": "Do you design fully-custom journals?",
+      "text": "<p>We do not offer fully custom journals. However, we do accept semi-custom journal orders on the first of each month at 8:00 pm EST. You can read more about semi-custom journals <a href=\"https://hosannarevival.com/pages/hand-painted-restock\" title=\"Hand-Painted Bibles & Hand-Painted Journals\">here</a>.</p>"
+    }
+  },
+  "question_Lm3Qnd1": {
+    "type": "question",
+    "settings": {
+      "title": "What does \"semi-custom\" mean?",
+      "text": "<p>Semi-custom means the Bible or journal is already painted, but does not yet have words added to it. After you purchase the product, you will submit the request for the words to be added to your item.</p>"
+    }
+  },
+  "question_Mk8J2d1": {
+    "type": "question",
+    "settings": {
+      "title": "How do I tell you what I want on my Bible?",
+      "text": "<p>After you purchase a semi-custom Bible or journal, you can reply to the order confirmation email that is automatically sent to you. (It may say \"no-reply email\", but don’t worry; we still get them!).</p>"
+    }
+  },
+  "question_Ob3Dk91": {
+    "type": "question",
+    "settings": {
+      "title": "What can I be thinking about before I submit my request?",
+      "text": "<p>Text options: cursive, print, or a combination of the two. Text color options: gold, white, or black. On semi-custom Bibles, 3-14 words will look best. You can request more, but depending on design, and font style, the artwork might look more cramped. On semi-custom journals, the back side of your journal will remain blank. We suggest choosing 3-16 words for the front side.</p>"
+    }
+  },
+  "question_Pc4Fg71": {
+    "type": "question",
+    "settings": {
+      "title": "How long will it take to receive my Bible?",
+      "text": "<p>Due to the nature of custom and personalized items, production and shipping time varies per project. During the design process, our team will communicate with you on the approximate shipping time for your journal or Bible. For more information on processing time and shipping, <a href=\"https://hosannarevival.com/pages/help\" title=\"Help\">click here</a>.</p>"
+    }
+  },
+  "question_Qd2Hn81": {
+    "type": "question",
+    "settings": {
+      "title": "I don't see any answers for Fully-Custom Hand-Painted Bibles—why not?",
+      "text": "<p>We don't accept orders for fully-custom Bibles, but you can submit design ideas <a href=\"https://hosannarevival.com/pages/custom-hand-painted-bibles\" title=\"Custom Hand-Painted Bibles\">here</a>. We have created a separate set of Frequently Asked Questions on our <a href=\"https://hosannarevival.com/pages/custom-hand-painted-bibles\" title=\"Custom Hand-Painted Bibles\">Custom Bible Submission</a> page for all things related to our new fully-custom hand-painted Bible process.</p>"
+    }
+  },
+  "question_Rs5Tf91": {
+    "type": "question",
+    "settings": {
+      "title": "Are your stickers waterproof?",
+      "text": "<p>Yes! Our stickers are made from a highly durable transparent vinyl with a matte finish. Our stickers are 3 millimeters thick. They will do just fine on the back of your car or on your water bottle.</p>"
+    }
+  },
+  "question_Sj6Kg01": {
+    "type": "question",
+    "settings": {
+      "title": "Can Bible designs and translations be switched?",
+      "text": "<p>No; at this time, our designs are specific to each publisher, so they cannot be switched between translations.</p>"
+    }
+  }
       },
       "block_order": [
         "rich_text_UGmDKb",
@@ -127,7 +204,18 @@
         "question_Qd2Hn8",
         "question_Rs5Tf9",
         "question_Sj6Kg0",
-        "rich_text_Tiw36L"
+        "rich_text_Tiw36L",
+          "question_WJGJLd1",
+  "question_Xpif3c1",
+  "question_YZi8Kd1",
+  "question_Uv9Wkd1",
+  "question_Lm3Qnd1",
+  "question_Mk8J2d1",
+  "question_Ob3Dk91",
+  "question_Pc4Fg71",
+  "question_Qd2Hn81",
+  "question_Rs5Tf91",
+  "question_Sj6Kg01"
       ],
       "settings": {
         "title": "",
