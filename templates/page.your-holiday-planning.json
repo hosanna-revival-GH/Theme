@@ -335,47 +335,47 @@
     },
     "text_columns_YtBDyK": {
       "type": "text-columns",
-"blocks": {
-  "text_block_WBgGTV": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-77_b327dfb1-73b8-40f2-b8a2-668a390c58bb.jpg",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "Month-at-a-Glance Page",
-      "text": "<p><em>to cast big vision for the month ahead</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_xEretN": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-31_9bb3fb54-34df-4f4d-957e-83599ecae904.jpg",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "Weekly Spread",
-      "text": "<p><em>to sort out all your action steps into the days ahead</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_bgQctE": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-43.jpg",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "Notes Pages",
-      "text": "<p><em>to find the space you need to plan intentionally</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_WBgGTV": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-77_b327dfb1-73b8-40f2-b8a2-668a390c58bb.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Month-at-a-Glance Page",
+            "text": "<p><em>to cast big vision for the month ahead</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_xEretN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-31_9bb3fb54-34df-4f4d-957e-83599ecae904.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Weekly Spread",
+            "text": "<p><em>to sort out all your action steps into the days ahead</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_bgQctE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-43.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notes Pages",
+            "text": "<p><em>to find the space you need to plan intentionally</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_WBgGTV",
         "text_block_xEretN",
@@ -385,6 +385,80 @@
         "title": "",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "rich_text_YPnYBy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ay6Kgx": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>From planning your Thanksgiving table spread to Christmas gift lists, our planners are designed to hold your hopes and dreams for the season ahead. We’re cheering on your most intentional holiday yet!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_ay6Kgx"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_nXycMr": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose your planner",
+        "button_link": "shopify://collections/planners",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 45
+      }
+    },
+    "slideshow_Cnrdhi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_M4fQHU": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-02_3b00296a-0509-4ad2-a32d-ce3650f3cccb.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_M4fQHU"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -401,6 +475,9 @@
     "text_and_image_hC948e_6",
     "image_row_MVyBNq",
     "rich_text_pPEkEJ",
-    "text_columns_YtBDyK"
+    "text_columns_YtBDyK",
+    "rich_text_YPnYBy",
+    "single_button_nXycMr",
+    "slideshow_Cnrdhi"
   ]
 }
