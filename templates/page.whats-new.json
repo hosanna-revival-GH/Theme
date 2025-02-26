@@ -11,13 +11,63 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_xWCjYr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Bnm8Li": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/heres-whats-new_143ca2e2-df89-447b-8267-56a82036ff81.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Bnm8Li"
+      ],
+      "custom_css": [],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "single_button_z78Gx6": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_xWCjYr",
+    "single_button_z78Gx6"
   ]
 }
