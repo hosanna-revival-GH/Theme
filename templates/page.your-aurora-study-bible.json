@@ -231,6 +231,106 @@
         "enable_spacing": false,
         "enable_zoom": false
       }
+    },
+    "rich_text_CxBzKq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_c3DRAX": {
+          "type": "heading",
+          "settings": {
+            "title": "why you will love aurora"
+          }
+        },
+        "text_TaP8nz": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>According to our friends who already own this beautiful Bible... </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_c3DRAX",
+        "text_TaP8nz"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_mt7JdP": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_pWYJEQ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p><em>Absolutely Perfect</em><br/>I’ve been wanting a study Bible for a long time—one that would be my permanent Bible if that makes sense. THIS is the one! It has so many amazing notes and maps, and it’s absolutely gorgeous. (Totally my self-gift for my wedding) <br/>—<em>Martha</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_jqKfqc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p><em>Context Central</em><br/>This is my first study Bible and I am loving it. I’ve been wanting to press in and have a better understanding of context when reading scripture and this Bible provides that and more than I could have imagined. It truly is a beautiful study tool when reading scripture. 10/10, would recommend! —<em>K.B.</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_KTchXx": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p><em>Breathtaking</em><br/>This study Bible is truly the most beautiful Bible! I gifted it to my good friend for her birthday and she was elated to receive it! So glad to have been able to give her a beautiful tool to encourage her in her walk with Christ. —<em>Char</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_pWYJEQ",
+        "text_block_jqKfqc",
+        "text_block_KTchXx"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_39Tgcj": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "shop aurora",
+        "button_link": "shopify://products/esv-study-bible-aurora-theme",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -241,6 +341,9 @@
     "text_columns_7BPEfW",
     "featured_collection_gjEhMX",
     "single_button_UytCxC",
-    "image_row_QWX8PQ"
+    "image_row_QWX8PQ",
+    "rich_text_CxBzKq",
+    "text_columns_mt7JdP",
+    "single_button_39Tgcj"
   ]
 }
