@@ -51,10 +51,24 @@
         "autoplay_speed": 5,
         "lazyload_images": false
       }
-    }
+    },
+              "1593181262347": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/models.jpg",
+              "image_width": "50",
+              "subtitle": "Hosanna Revival",
+              "title": "Casting Call",
+              "text": "<p>Hosanna Revival is seeking some gals who are interested in modeling for upcoming Hosanna Revival photo shoots! If you are located in the Cincinnati area of Ohio and would love to volunteer to model for photo shoots for some upcoming product releases, we'd love to have you!&nbsp;Just sign up below! &nbsp;We'll add your name to our list, and we'll reach out with dates and photo shoot&nbsp;details as needed.</p>\n<p><strong>If you are under 18, click the button below to download our model release. A model release signed by a parent/legal guardian is required.</strong></p>",
+              "button_label": "Download Model Release",
+              "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/HosannaRevival_modelrelease.pdf?v=1593183219",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
-    "slideshow_P4QC9k"
+    "slideshow_P4QC9k",
+    "1593181262347",
   ]
 }
