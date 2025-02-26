@@ -144,12 +144,145 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "featured_collection_nPPKkj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Get $10 off a new notebook",
+        "home_featured_products": "notebooks",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_yddw8g": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Get $10 off a new devotional",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_XgxVeP": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Get $10 off a new Bible",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_Yq7zC4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore our entire collection",
+        "home_featured_products": "hosanna-revival-shop",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_4XjhGb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AdGGzw": {
+          "type": "heading",
+          "settings": {
+            "title": "Explore our free resources"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AdGGzw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_ETAMMR": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_BjTqMP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Bible-Toolkit-Hosanna-Revival-Cover-01_1080x_png.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Learn where to begin when opening the Bible</p>",
+            "button_label": "Explore the toolkit",
+            "button_link": "shopify://pages/bible-toolkit"
+          }
+        },
+        "text_block_9aapUr": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-from-Hosanna-Revival.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Find an article on a practical, everyday topic that points you to Scripture</p>",
+            "button_label": "Find an article",
+            "button_link": ""
+          }
+        },
+        "text_block_zRYdxm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Learn the power of prayer and where to start when it's hard to pray</p>",
+            "button_label": "Read the Toolkit",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_BjTqMP",
+        "text_block_9aapUr",
+        "text_block_zRYdxm"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "rich_text_dFRJE8",
     "rich_text_6e7iwm",
-    "rich_text_K9b8pU"
+    "rich_text_K9b8pU",
+    "featured_collection_nPPKkj",
+    "featured_collection_yddw8g",
+    "featured_collection_XgxVeP",
+    "featured_collection_Yq7zC4",
+    "rich_text_4XjhGb",
+    "text_columns_ETAMMR"
   ]
 }
