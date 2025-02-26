@@ -11,13 +11,98 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_8R9GUc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ywwmU4": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "AURORA",
+            "title_size": 80,
+            "subheading": "Meet our best-selling ESV Study Bible",
+            "link": "shopify://products/esv-study-bible-aurora-theme",
+            "link_text": "SHOP AURORA",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0040.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ywwmU4"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_rHk6E4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jLJ9z4": {
+          "type": "heading",
+          "settings": {
+            "title": "You have good taste"
+          }
+        },
+        "text_FAdhqh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to Hosanna Revival, your home for beautiful Bibles. Our mission is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Explore the features in our best-selling Aurora Bible below.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_jLJ9z4",
+        "text_FAdhqh"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_wkQNyp": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "shop aurora",
+        "button_link": "shopify://products/esv-study-bible-aurora-theme",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 45
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_8R9GUc",
+    "rich_text_rHk6E4",
+    "single_button_wkQNyp"
   ]
 }
