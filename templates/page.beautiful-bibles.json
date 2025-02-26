@@ -250,7 +250,46 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+              "1302cc00-c3ae-4b93-b263-749581b44c40": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-332.jpg",
+              "image_width":"50",
+              "subtitle": "1",
+              "title": "Which type of Bible will help you connect with the Word of God?",
+              "text": "<p>How do you want to interact with God’s Word? What features are a priority for you? Do you want a...</p><ul><li>Study Bible: Study notes below the text for deeper understanding.</li><li>Journaling Bible: Spacious margins to notate alongside the text. </li><li>Large Print Bible: Larger font size for easy readability. </li></ul><p></p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "98042961-1fe1-4b65-a6bc-a133e5dc5bf9": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-038.jpg",
+              "image_width":"50",
+              "subtitle": "2",
+              "title": "Which translation fits your goals?",
+              "text": "<p>Translations sit on a spectrum based on how literally each word was translated from the original text. </p><ul><li><strong>Word-for-Word Translations (ESV, KJV):</strong> Translated directly from ancient text, maintaining sentence structure and phrasing. More scholarly and good for deep study.</li><li><strong>Thought-for-Thought Translations (CSB, NLT):</strong> Translated in a way to capture the original meaning in a way that is familiar to a more contemporary audience. More readable and good for easy understanding.  </li></ul><p><a href=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\" target=\"_blank\" title=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\"><em>More on Translations</em></a></p>",
+              "button_label": "",
+              "button_link": "https://hosannarevival.blog/when-youre-choosing-your-bible-translation/",
+              "layout": "right"
+            }
+          },
+          "8cdb6ebc-fd73-4134-856b-fcd33db193cd": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-354.jpg",
+              "image_width": "50",
+              "subtitle": "3",
+              "title": "Which cover design excites you to discover the beauty of God’s Word?",
+              "text": "<p>Each of our 40+ designs is originally hand-painted by our founder, Katie, and carefully recreated for our printed Bibles and paired with a passage of Scripture to point you to truth. Select the cover that will excite you to open your Bible up to read the Word of God every day.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -260,6 +299,9 @@
     "single_button_9XywkN",
     "text_columns_k6KCcU",
     "hero_video_JLJ3hy",
-    "rich_text_mwmFBC"
+    "rich_text_mwmFBC",
+    "1302cc00-c3ae-4b93-b263-749581b44c40",
+    "98042961-1fe1-4b65-a6bc-a133e5dc5bf9",
+    "8cdb6ebc-fd73-4134-856b-fcd33db193cd"
   ]
 }
