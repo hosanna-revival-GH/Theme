@@ -51,10 +51,46 @@
         "autoplay_speed": 5,
         "lazyload_images": false
       }
+    },
+    "rich_text_cmXenc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_byP7M3": {
+          "type": "heading",
+          "settings": {
+            "title": "Bibles to equip him to engage in Scripture"
+          }
+        },
+        "text_DgJJXx": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We create tools to excite you and your loved ones about engaging in Scripture. Give the gift of Scripture to the man in your life to revive his excitement about engaging in God’s Word.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_byP7M3",
+        "text_DgJJXx"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_9j8RT3"
+    "slideshow_9j8RT3",
+    "rich_text_cmXenc"
   ]
 }
