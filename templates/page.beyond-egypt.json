@@ -51,10 +51,68 @@
         "autoplay_speed": 5,
         "lazyload_images": false
       }
+    },
+    "rich_text_QdhBhr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_g6Rtde": {
+          "type": "heading",
+          "settings": {
+            "title": "BEYOND EGYPT"
+          }
+        },
+        "text_HPXeGQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Beyond Egypt</em> is a 7-week inductive Bible study on Exodus for those who desire to be transformed through the study of God’s Word.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_a8UQWT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>If you are feeling distant from God, struggle to see connections between the Old Testament and the New Testament, or simply desire to grow more in your love and understanding of God’s Word, <em>Beyond Egypt</em> was written for you. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_g6Rtde",
+        "text_HPXeGQ",
+        "text_a8UQWT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_LhGj48": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/beyond-egypt",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 45
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_FEtMzD"
+    "slideshow_FEtMzD",
+    "rich_text_QdhBhr",
+    "single_button_LhGj48"
   ]
 }
