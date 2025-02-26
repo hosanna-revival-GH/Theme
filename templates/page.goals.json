@@ -558,17 +558,33 @@
         "divider": false
       }
     },
-              "aa5100eb-6e99-4c1a-a77d-661eb481f3f5": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Explore all free resources",
-              "button_link": "shopify://pages/free-resources",
-              "button_size": "huge"
-            }
-          },
+    "aa5100eb-6e99-4c1a-a77d-661eb481f3f5": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Explore all free resources",
+        "button_link": "shopify://pages/free-resources",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "hero_video_wdfpE4": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Begin Today",
+        "title_size": 80,
+        "subheading": "We're cheering you on as you grow spiritually!",
+        "link_text": "P.S. A little bonus tool",
+        "link": "shopify://blogs/lock-screens",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=FaQb_WP-of0",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "auto"
+      }
+    }
   },
   "order": [
     "main",
@@ -587,6 +603,7 @@
     "20f0d95b-c9cc-48bc-a131-82db7e164d79",
     "rich_text_JWDjwP",
     "text_columns_Amc9N4",
-    "aa5100eb-6e99-4c1a-a77d-661eb481f3f5"
+    "aa5100eb-6e99-4c1a-a77d-661eb481f3f5",
+    "hero_video_wdfpE4"
   ]
 }
