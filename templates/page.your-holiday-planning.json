@@ -11,13 +11,115 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_qjXzbQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EANNJc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Your Holiday Planning",
+            "title_size": 72,
+            "subheading": "from our desk to yours",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-38_f5ecbe7c-fdd4-46b3-a869-a9bc9f53a9cc.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_EANNJc"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_fhfDEw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bUtVf6": {
+          "type": "heading",
+          "settings": {
+            "title": "How to Plan Well"
+          }
+        },
+        "text_Rh4KWg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>for your most intentional holiday season yet</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_bUtVf6",
+        "text_Rh4KWg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 25
+      }
+    },
+    "rich_text_rJyM3E": {
+      "type": "rich-text",
+      "blocks": {
+        "text_kgdh8W": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>As the holidays approach, plans pile up. If you’re feeling overwhelmed and stressed, these tips are for you. Sometimes all you need is a little blank space found in a page and a few uninterrupted minutes of time to gain the clarity you need for your most intentional holiday season yet. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_kgdh8W"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_qjXzbQ",
+    "rich_text_fhfDEw",
+    "rich_text_rJyM3E"
   ]
 }
