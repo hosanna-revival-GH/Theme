@@ -9,92 +9,84 @@
  */
 {
   "sections": {
+    "slideshow_iEDRpe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_iJwgqW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Desktop-01_bafca0fe-7b3c-4ab0-b730-9741b6172e00.png",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-01.png",
+            "parallax_direction": "left",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_iJwgqW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "slideshow_qBC6Gk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GwyCWR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Desktop-02.png",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_GwyCWR"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
-      }
-    },
-    "rich_text_dFRJE8": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_TBHNc8": {
-          "type": "heading",
-          "settings": {
-            "title": "Welcome to Hosanna Revival"
-          }
-        },
-        "text_nCAM4g": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Your home for beautiful Bibles</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_nnMNMU": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We exist to excite you to engage in Scripture by creating <br/>beautiful and intentional tools for your life.</p>",
-            "align_text_block": "center",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_TBHNc8",
-        "text_nCAM4g",
-        "text_nnMNMU"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#789ec8",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "rich_text_6e7iwm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_g9HPPx": {
-          "type": "heading",
-          "settings": {
-            "title": "You've got a good friend!"
-          }
-        },
-        "text_ybiinX": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Get $10 off your first purchase when you <br/>use your referral discount code sent from your friend!</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_g9HPPx",
-        "text_ybiinX"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#d17c9e",
-        "space_above": 75,
-        "space_below": 75
       }
     },
     "rich_text_K9b8pU": {
@@ -126,12 +118,22 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
+        },
+        "text_TTRnh3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>How will you use your referral?</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
         "text_bJXihJ",
         "text_UwKmAx",
-        "text_wdxM3C"
+        "text_wdxM3C",
+        "text_TTRnh3"
       ],
       "settings": {
         "align_text": "center",
@@ -141,8 +143,8 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 20,
+        "space_below": 20
       }
     },
     "text_columns_niCYLr": {
@@ -396,9 +398,9 @@
     }
   },
   "order": [
+    "slideshow_iEDRpe",
+    "slideshow_qBC6Gk",
     "main",
-    "rich_text_dFRJE8",
-    "rich_text_6e7iwm",
     "rich_text_K9b8pU",
     "text_columns_niCYLr",
     "featured_collection_nPPKkj",
