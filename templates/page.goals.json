@@ -506,6 +506,57 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "text_columns_Amc9N4": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_MVAfKh": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_jBpPXL": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_q9NxwP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_MVAfKh",
+        "text_block_jBpPXL",
+        "text_block_q9NxwP"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -523,6 +574,7 @@
     "text_columns_JqC3bT",
     "text_columns_fTaGrd",
     "20f0d95b-c9cc-48bc-a131-82db7e164d79",
-    "rich_text_JWDjwP"
+    "rich_text_JWDjwP",
+    "text_columns_Amc9N4"
   ]
 }
