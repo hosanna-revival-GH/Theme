@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Dear Friend,</p>",
+            "text": "<p><em>Dear Friend,</em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -118,8 +118,29 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
-        },
-        "text_TTRnh3": {
+        }
+      },
+      "block_order": [
+        "text_bJXihJ",
+        "text_UwKmAx",
+        "text_wdxM3C"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "rich_text_9c9xjY": {
+      "type": "rich-text",
+      "blocks": {
+        "text_fUYcND": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
@@ -130,10 +151,7 @@
         }
       },
       "block_order": [
-        "text_bJXihJ",
-        "text_UwKmAx",
-        "text_wdxM3C",
-        "text_TTRnh3"
+        "text_fUYcND"
       ],
       "settings": {
         "align_text": "center",
@@ -141,10 +159,10 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 20,
-        "space_below": 20
+        "color_bg": "#789ec8",
+        "color_text": "#ffffff",
+        "space_above": 30,
+        "space_below": 30
       }
     },
     "text_columns_niCYLr": {
@@ -402,6 +420,7 @@
     "slideshow_qBC6Gk",
     "main",
     "rich_text_K9b8pU",
+    "rich_text_9c9xjY",
     "text_columns_niCYLr",
     "featured_collection_nPPKkj",
     "featured_collection_yddw8g",
