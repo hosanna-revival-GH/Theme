@@ -11,13 +11,384 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "hero_video_yqUX7D": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Available Now",
+        "link": "shopify://pages/beauty-not-beheld-devotional",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://youtu.be/nU-s_O-kM4Y",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_k9xULk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_y8wViX": {
+          "type": "heading",
+          "settings": {
+            "title": "BEAUTY NOT BEHELD"
+          }
+        },
+        "text_BWUUad": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Beauty Not Beheld</em> is a 6-week book where author Paige Stitt McBride guides readers through the lies about identity and beauty that creep into minds through our culture and the truths that will set us free. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_iDw3jW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Beauty Not Beheld: A Daily Guard Against the Lies of Self-Love Culture</em>, by Paige Stitt McBride. This book is intended to equip believers to discern the subtle lies about identity and beauty that permeate our current cultural climate and replace them with biblical truths about who we are and who we were made to be. In an effort to speak the truth in love, <em>Beauty Not Beheld</em> will gently push readers to expose our culture’s distortion of the central message of the gospel in the self-love movement and instead embrace the true gospel that will set us free and lead to a thriving sense of self. Each week focuses on a different aspect of our true, biblical identity, whether that be our brokenness, our redemption, or even our physical selves. <br/><br/>Each week provides six studies contrasting a common sentiment in society with a biblical truth. After reading the given passage of Scripture and commentary, readers are given reflection questions to verbalize and apply what they are learning. May we all learn to truly see ourselves and the world through the eyes of God! </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_y8wViX",
+        "text_BWUUad",
+        "text_iDw3jW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_zURCik": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "shopify://products/devotional-beauty-not-beheld",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 35
+      }
+    },
+    "text_and_image_D9UHF6": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_GBRmLB": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_nQnbek": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_columns_mGVk8i": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_Vqbi34": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_RCGEWc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_eiUjXp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Vqbi34",
+        "text_block_RCGEWc",
+        "text_block_eiUjXp"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_and_image_nyrbMb": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_XH7UMM": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "buy now",
+        "button_link": "shopify://products/devotional-beauty-not-beheld",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "slideshow_i6zVQJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jdnnqB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "BONUS CONTENT",
+            "title_size": 80,
+            "subheading": "For \"Beauty Not Beheld\"",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beauty-Not-Beheld-Devotional-Hosanna-Revival-Floral-Nest-183.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_jdnnqB"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_WbGJat": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_WYLz86": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_fVfCNW": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_zCQMdG": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "shopify://products/devotional-beauty-not-beheld",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "slideshow_NUMjKP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_7eXp6H": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/products/devotional-beauty-not-beheld",
+            "link_text": "Shop Beauty Not Beheld",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Artboard_13.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_7eXp6H"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_video_yqUX7D",
+    "rich_text_k9xULk",
+    "single_button_zURCik",
+    "text_and_image_D9UHF6",
+    "text_and_image_GBRmLB",
+    "text_and_image_nQnbek",
+    "text_columns_mGVk8i",
+    "text_and_image_nyrbMb",
+    "single_button_XH7UMM",
+    "slideshow_i6zVQJ",
+    "text_and_image_WbGJat",
+    "text_and_image_WYLz86",
+    "text_and_image_fVfCNW",
+    "single_button_zCQMdG",
+    "slideshow_NUMjKP"
   ]
 }
