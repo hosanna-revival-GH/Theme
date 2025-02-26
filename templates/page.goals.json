@@ -301,48 +301,48 @@
     },
     "text_columns_YDhJ8b": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_p363Yp": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_VRp89M": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_7gDc7X": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-4.jpg",
+      "image_width": 650,
+      "title": "New to Jesus",
+      "text": "<p>“In our human nature, we often base love on how people treat us. But that is not the way of God, and as you begin your relationship with him it is important that you understand that...” </p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-youre-beginning-your-walk-with-christ/"
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-5.jpg",
+      "image_width": 650,
+      "title": "Spiritual Drought",
+      "text": "<p>“We have all walked through this desert before, when we feel ‘spiritually dry,’ as if we have been confined to an endless desert, and our spiritual lives and faith feel dry and lifeless…”</p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-you-feel-spiritually-dry/"
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-6.jpg",
+      "image_width": 650,
+      "title": "Deconstruction",
+      "text": "<p>“Like a sudden, invisible, and unwanted force that collides deep inside of your soul; the faith inside of you that once felt so strong begins to pull apart…”</p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-youre-deconstructing-your-faith/"
+    }
+  }
+},
       "block_order": [
-        "text_block_p363Yp",
-        "text_block_VRp89M",
-        "text_block_7gDc7X"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
@@ -352,48 +352,48 @@
     },
     "text_columns_JqC3bT": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_8EwL3L": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_RpEyFg": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_DWnfTQ": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-7.jpg",
+      "image_width": 650,
+      "title": "Anxiety",
+      "text": "<p>“Can you recall a time when you literally froze in fear? Maybe it was discovering a threatening animal, running into a past love, encountering an intruder, or standing in front of a crowd...”</p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-youre-paralyzed-by-anxiety/"
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-8.jpg",
+      "image_width": 650,
+      "title": "Suicide",
+      "text": "<p>“I wish I could write a how-to book on ‘How To Go About Your Day When You Kind Of Want to Die Sometimes,’ but I can’t...” </p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-you-dont-want-to-live-anymore/"
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-9.jpg",
+      "image_width": 650,
+      "title": "Work",
+      "text": "<p>“Our world tethers so much value to the work that we do in our careers and jobs. It’s one of the first questions we ask the people we meet…”</p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-you-hate-your-job/"
+    }
+  }
+},
       "block_order": [
-        "text_block_8EwL3L",
-        "text_block_RpEyFg",
-        "text_block_DWnfTQ"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
@@ -403,55 +403,66 @@
     },
     "text_columns_fTaGrd": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_zHHAEX": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_WCCRUE": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_gnrmMY": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-10.jpg",
+      "image_width": 650,
+      "title": "Motherhood",
+      "text": "<p>“In late 2019, I was waiting in the lobby of my OBGYN’s office. I was there for my annual checkup, though, after a painfully long time trying to get pregnant…” </p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-you-want-to-be-a-mom/"
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-11.jpg",
+      "image_width": 650,
+      "title": "Singleness",
+      "text": "<p>“Like running up a dormant Hawaiian volcano in July at 3 p.m., singleness has been viewed as the hilliest and hottest marathon: something to endure, something to get through on the way to marriage...” </p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-youre-single/"
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Hosanna-Revival-WHEN-Article-12.jpg",
+      "image_width": 650,
+      "title": "Friendship",
+      "text": "<p>“Whether you feel like you have a lot of friends or only a few, friendship in today’s world is muddled by the role social media plays in our lives...”</p>",
+      "button_label": "Read Now",
+      "button_link": "https://hosannarevival.blog/when-you-dont-know-who-your-friends-are/"
+    }
+  }
+},
       "block_order": [
-        "text_block_zHHAEX",
-        "text_block_WCCRUE",
-        "text_block_gnrmMY"
+         "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
         "align_text": "center",
         "divider": false
       }
-    }
+    },
+              "20f0d95b-c9cc-48bc-a131-82db7e164d79": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Begin Reading",
+              "button_link": "https://hosannarevival.blog",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -466,6 +477,7 @@
     "text_columns_PBRg9G",
     "text_columns_YDhJ8b",
     "text_columns_JqC3bT",
-    "text_columns_fTaGrd"
+    "text_columns_fTaGrd",
+    "20f0d95b-c9cc-48bc-a131-82db7e164d79"
   ]
 }
