@@ -220,48 +220,51 @@
     },
     "text_columns_7KqKFV": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_qc48UL": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_pVUCrV": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_UqnAHF": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_Vqbi34": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_2_copy_3_f6f22ff5-af81-4702-a7b8-382d4f1edb39.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts"
+    }
+  },
+  "text_block_RCGEWc": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_2_copy_4_016417ff-f537-4470-ac4f-661856812752.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_eiUjXp": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_2_copy_5_a6971629-2435-460c-8bea-2a25cd5feb66.png",
+      "image_mask": "none",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_qc48UL",
-        "text_block_pVUCrV",
-        "text_block_UqnAHF"
+        "text_block_Vqbi34",
+        "text_block_RCGEWc",
+        "text_block_eiUjXp"
       ],
       "settings": {
         "title": "",
