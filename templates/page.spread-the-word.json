@@ -402,6 +402,7 @@
         "collection_4W9E6B",
         "collection_kaFU3z"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "divider": false,
@@ -684,8 +685,8 @@
     "text_and_image_jfeUAV",
     "rich_text_itMj6x",
     "rich_text_tMHfQV",
+    "text_columns_NEyPwE",
     "featured_collections_VJLYiB",
-    "faq_ME8cjJ",
-    "text_columns_NEyPwE"
+    "faq_ME8cjJ"
   ]
 }
