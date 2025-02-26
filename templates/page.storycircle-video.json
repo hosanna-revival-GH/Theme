@@ -11,13 +11,152 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_fr7ehV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ebHYiG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "The Story Circle",
+            "title_size": 72,
+            "subheading": "the Bible in 4 minutes, from author Josh Lenon",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/The-Story-Circle-Devotional-Josh-Lenon-Portrait-Hosanna-Revival-127.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ebHYiG"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "hero_video_TkrB3m": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Watch before you Read",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/C2pxTVdg2Rg",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_YrJKKh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9amy6m": {
+          "type": "heading",
+          "settings": {
+            "title": "my story — Joshua Lenon"
+          }
+        },
+        "text_Hp7VYc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>I was the classic churched kid who grew up with all of this stuff and could tell you all about Peter and Abraham, the Exodus and the virgin birth. I “knew” all the right answers to the questions in Sunday School. The problem was I didn’t care about any of it, and I certainly didn’t know how any of it fit together. </p><p>I knew the Bible like someone knows the index of a book. I could tell you all of the facts, but I couldn't tell you how the story all fit together. I was like the Star Wars nerd who knew the name of every planet in the galaxy, the speed and weapons of every ship, and what the buttons did on Darth Vader’s suit. But I had never actually watched the movie, and had no clue what the storyline actually was. </p><p>Learning to read the Bible as one whole story transformed my entire life and gave me an understanding of the good news that Jesus has come to bring to a very broken world. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9amy6m",
+        "text_Hp7VYc"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_rVNCUA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_erGr3L": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/the-story-circle-devotional",
+            "link_text": "Learn More",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/The-Story-Circle-Devotional-Josh-Lenon-Hosanna-Revival-Coffeeshop-051.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_erGr3L"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_rJ7xXx": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "our devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_fr7ehV",
+    "hero_video_TkrB3m",
+    "rich_text_YrJKKh",
+    "slideshow_rVNCUA",
+    "featured_collection_rJ7xXx"
   ]
 }
