@@ -181,6 +181,53 @@
         "enable_spacing": false,
         "enable_zoom": true
       }
+    },
+    "featured_collection_rPPPcT": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore some of our other best sellers",
+        "home_featured_products": "best-sellers",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "slideshow_dgR7hh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_TCyTdU": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://products/nlt-notetaking-bible-versailles-theme",
+            "link_text": "Shop the Versailles Bible",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-070.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_TCyTdU"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -189,6 +236,8 @@
     "rich_text_anHaTD",
     "rich_text_hdKwTM",
     "text_and_image_XgcBp3",
-    "image_row_RAyUVp"
+    "image_row_RAyUVp",
+    "featured_collection_rPPPcT",
+    "slideshow_dgR7hh"
   ]
 }
