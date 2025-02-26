@@ -173,47 +173,47 @@
     },
     "text_columns_aW86M6": {
       "type": "text-columns",
-"blocks": {
-  "text_block_Vqbi34": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/BE-Landing-04.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_RCGEWc": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/BE-Landing-05.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_eiUjXp": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/BE-Landing-06.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_Vqbi34": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/BE-Landing-04.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_RCGEWc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/BE-Landing-05.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_eiUjXp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/BE-Landing-06.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_Vqbi34",
         "text_block_RCGEWc",
@@ -225,30 +225,73 @@
         "divider": false
       }
     },
-              "text_and_image_km7nLn": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/BE-Landing-07.png",
-              "image_width": "50",
-              "subtitle": "beyond egypt",
-              "title": "From the Introduction",
-              "text": "<p>“Man continually struggles to follow God, yet God, in his kindness, continues to pave a way for a relationship with him to flourish.” <br/><em>—Kari Minter, author<br/></em></p>",
-              "button_label": "choose this tool",
-              "button_link": "https://hosannarevival.com/products/beyond-egypt",
-              "layout": "right"
-            }
-          },
-          "single_button_jTPXWf": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "buy now",
-              "button_link": "https://hosannarevival.com/products/beyond-egypt",
-              "button_size": "huge"
-            }
-          },
+    "text_and_image_km7nLn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/BE-Landing-07.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "beyond egypt",
+        "title": "From the Introduction",
+        "text": "<p>“Man continually struggles to follow God, yet God, in his kindness, continues to pave a way for a relationship with him to flourish.” <br/><em>—Kari Minter, author<br/></em></p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/beyond-egypt",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_jTPXWf": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "buy now",
+        "button_link": "https://hosannarevival.com/products/beyond-egypt",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "slideshow_wWW3qU": {
+      "type": "slideshow",
+      "blocks": {
+        "image_azEHBG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "BONUS CONTENT",
+            "title_size": 72,
+            "subheading": "for \"Beyond Egypt\"",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beyond-Egypt-Bible-Study-Kari-Minter-LEPhotoDesign-Hosanna-Revival-034.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_azEHBG"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -261,5 +304,6 @@
     "text_columns_aW86M6",
     "text_and_image_km7nLn",
     "single_button_jTPXWf",
+    "slideshow_wWW3qU"
   ]
 }
