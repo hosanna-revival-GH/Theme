@@ -271,6 +271,76 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_GBtTJW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_atfGgx": {
+          "type": "heading",
+          "settings": {
+            "title": "Wanto to join in on spreading the word?"
+          }
+        },
+        "text_BikkxB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Refer someone in your life!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_atfGgx",
+        "text_BikkxB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_kxUQy8": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nU3bYN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "\"God's Word brings revival. We've seen it time and time again and we don't think he's done yet.\"",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-006.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_nU3bYN"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -283,6 +353,8 @@
     "featured_collection_XgxVeP",
     "featured_collection_Yq7zC4",
     "rich_text_4XjhGb",
-    "text_columns_ETAMMR"
+    "text_columns_ETAMMR",
+    "rich_text_GBtTJW",
+    "slideshow_kxUQy8"
   ]
 }
