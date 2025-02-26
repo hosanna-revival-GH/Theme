@@ -89,88 +89,112 @@
         "space_below": 35
       }
     },
-           "3b7bac63-4b13-4b95-8466-c74fc608da86": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artboard_2_copy_610c344f-9f6c-4d8c-b806-8ae1f467ebac.png",
-              "image_width": "50",
-              "subtitle": "BEAUTY NOT BEHELD",
-              "title": "This Devotional is for you if...",
-              "text": "<p>- You have found that  the promises of self-love culture usually disappoint. <br/>- You struggle to understand how the gospel could truly be a remedy for your insecurities.<br/>- You doubt the Scriptures’ relevance to the problems you face everyday.</p>",
-              "button_label": "choose this tool",
-              "button_link": "shopify://products/devotional-beauty-not-beheld",
-              "layout": "left"
-            }
-          },
-          "cef8988f-1c95-4dc4-9b86-98738fde8ef5": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artboard_2_copy_2_4f983b5b-c78d-4e2e-8932-ed9bcb10c851.png",
-              "image_width": "50",
-              "subtitle": "THE DETAILS",
-              "title": "Beauty Not Beheld",
-              "text": "<p><strong>Topic: </strong>intends to<strong> </strong>equip believers to discern the subtle lies about identity and beauty that permeate our current cultural climate and replace them with biblical truths about who we are and who we were made to be. <strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>“We have turned the gospel into a self-esteem project instead of an atonement project. And we have done this by convincing ourselves that our deepest problem as a human being is a lack of self-love, self-confidence, self-appreciation, self-care, self-this, and self-that”</p><p><em>- Paige Stitt McBride, author</em></p><p></p>",
-              "button_label": "choose this tool",
-              "button_link": "shopify://products/devotional-beauty-not-beheld",
-              "layout": "right"
-            }
-          },
-          "deeebd8d-f04b-44e9-80d6-4d0d5e1236d7": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artboard_2_copy_3_906a7e5d-83cc-4ef4-b0da-034d60ebe0fe.png",
-              "image_width":"50",
-              "subtitle": "PEEK INSIDE",
-              "title": "The Devotional Structure",
-              "text": "<p><strong>Structure: </strong>6 week study<strong><br/>Elements: </strong> Each week provides six studies contrasting a common sentiment in society with a biblical truth. After reading the given passage of Scripture and commentary, readers are given reflection questions to verbalize and apply what they are learning.</p><p></p><p></p>",
-              "button_label": "choose this tool",
-              "button_link": "shopify://products/devotional-beauty-not-beheld",
-              "layout": "left"
-            }
-          },
+    "3b7bac63-4b13-4b95-8466-c74fc608da86": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_610c344f-9f6c-4d8c-b806-8ae1f467ebac.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "BEAUTY NOT BEHELD",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You have found that  the promises of self-love culture usually disappoint. <br/>- You struggle to understand how the gospel could truly be a remedy for your insecurities.<br/>- You doubt the Scriptures’ relevance to the problems you face everyday.</p>",
+        "button_label": "choose this tool",
+        "button_link": "shopify://products/devotional-beauty-not-beheld",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "cef8988f-1c95-4dc4-9b86-98738fde8ef5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_2_4f983b5b-c78d-4e2e-8932-ed9bcb10c851.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "THE DETAILS",
+        "title": "Beauty Not Beheld",
+        "text": "<p><strong>Topic: </strong>intends to<strong> </strong>equip believers to discern the subtle lies about identity and beauty that permeate our current cultural climate and replace them with biblical truths about who we are and who we were made to be. <strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>“We have turned the gospel into a self-esteem project instead of an atonement project. And we have done this by convincing ourselves that our deepest problem as a human being is a lack of self-love, self-confidence, self-appreciation, self-care, self-this, and self-that”</p><p><em>- Paige Stitt McBride, author</em></p><p></p>",
+        "button_label": "choose this tool",
+        "button_link": "shopify://products/devotional-beauty-not-beheld",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "deeebd8d-f04b-44e9-80d6-4d0d5e1236d7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_3_906a7e5d-83cc-4ef4-b0da-034d60ebe0fe.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "PEEK INSIDE",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure: </strong>6 week study<strong><br/>Elements: </strong> Each week provides six studies contrasting a common sentiment in society with a biblical truth. After reading the given passage of Scripture and commentary, readers are given reflection questions to verbalize and apply what they are learning.</p><p></p><p></p>",
+        "button_label": "choose this tool",
+        "button_link": "shopify://products/devotional-beauty-not-beheld",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "text_columns_mGVk8i": {
       "type": "text-columns",
-"blocks": {
-  "text_block_Vqbi34": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_2_copy_5.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": "shopify://products/devotional-beauty-not-beheld"
-    }
-  },
-  "text_block_RCGEWc": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_2_copy_6.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_eiUjXp": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_2_copy_7.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_Vqbi34": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_2_copy_5.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://products/devotional-beauty-not-beheld"
+          }
+        },
+        "text_block_RCGEWc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_2_copy_6.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_eiUjXp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_2_copy_7.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_Vqbi34",
         "text_block_RCGEWc",
@@ -185,17 +209,14 @@
     "text_and_image_nyrbMb": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_8_e8cf8e17-43c1-4da7-9334-8f84223a43dc.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-          "image": "shopify://shop_images/Artboard_2_copy_8_e8cf8e17-43c1-4da7-9334-8f84223a43dc.png",
-
-
-              "title": "From The Introduction",
-              "text": "<p>\"The common thread is clear: Largely, culture’s response to the conundrum of poor self-image is exhorting women to forget other people’s opinions and standards and create their own. In other words, culture wants to remind women, “<em>Beauty is in the eye of the beholder!</em> So don’t let some beholders get you down, <em>you</em> are the true and only important beholder!” This sentiment sounds empowering at first glance, but the results don’t corroborate. Since this study in 2016, the number of voices chanting womens’ empowerment have grown, and yet so has the number of women who hate the way they look and even hate themselves. Maybe it's time women turn to the Scriptures for their answers instead of their favorite celebrities.\"<br/><br/><em>- Paige Stitt McBride, author</em></p>",
-              "button_label": "",
-              "button_link": "",
-
+        "title": "From The Introduction",
+        "text": "<p>\"The common thread is clear: Largely, culture’s response to the conundrum of poor self-image is exhorting women to forget other people’s opinions and standards and create their own. In other words, culture wants to remind women, “<em>Beauty is in the eye of the beholder!</em> So don’t let some beholders get you down, <em>you</em> are the true and only important beholder!” This sentiment sounds empowering at first glance, but the results don’t corroborate. Since this study in 2016, the number of voices chanting womens’ empowerment have grown, and yet so has the number of women who hate the way they look and even hate themselves. Maybe it's time women turn to the Scriptures for their answers instead of their favorite celebrities.\"<br/><br/><em>- Paige Stitt McBride, author</em></p>",
+        "button_label": "",
+        "button_link": "",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -252,45 +273,69 @@
         "lazyload_images": true
       }
     },
-          "c22e5661-6b95-417c-8494-68791bee4a1d": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artboard_2_copy_11.png",
-              "image_width": "50",
-              "subtitle": "Study Tools",
-              "title": "New to the Bible?",
-              "text": "<p>Are you new to reading the Bible? If you’re picking up this devotional yet feel unable to navigate God’s Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
-              "button_label": "browse bible toolkit",
-              "button_link": "shopify://pages/bible-toolkit",
-              "layout": "left"
-            }
-          },
-          "e6d311a7-069d-4c9a-bfca-2f8b9a957f08": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artboard_2_copy_9_9896eff6-58e6-4434-ae01-0ca6d6ad0565.png",
-              "image_width": "50",
-              "subtitle": "meet the author",
-              "title": "Paige Stitt McBride",
-              "text": "<p>Paige is a newlywed, part-time seminary student at Reformed Theological Seminary and lover of all things discipleship. She spends her days working at her local church in Sharon, Pennsylvania while teaching dance lessons. And best of all, she is expecting her first child with her husband, Brett, come January 2023! She is passionate about helping women engage thoughtfully and carefully with the Scriptures while also helping them define and embrace its teaching within our particular cultural setting. <em>Beauty Not Beheld: A Daily Guard Against the Lies of Self-Love Culture</em> is her first published work.</p>",
-              "button_label": "follow paige",
-              "button_link": "https://www.instagram.com/_paigemcbride/",
-              "layout": "right"
-            }
-          },
-          "ac2f3ab1-4a83-4cb1-9d6a-f4a715cb5f5f": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artboard_2_copy_10.png",
-              "image_width":"50",
-              "subtitle": "Meet the Author",
-              "title": "Paige's Story",
-              "text": "<p>Growing up as a competitive dancer, I was no stranger to beautiful girls and perfect bodies, not to add the hours of staring at them next to mine in the mirror every night. Susceptible to the traps of pride, I began to buy the lie that immodesty and sexualizing myself were worth feeling empowered and noticed. After many years reflecting on some of my mistakes and victories, <em>Beauty Not Beheld</em> is a careful trek through the Scriptures that has allowed me to lay out more systematically the core truths that have shaped my identity and body-image and set me free from the insecurity and disappointment of the world’s remedies. </p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },  
+    "c22e5661-6b95-417c-8494-68791bee4a1d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_11.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Study Tools",
+        "title": "New to the Bible?",
+        "text": "<p>Are you new to reading the Bible? If you’re picking up this devotional yet feel unable to navigate God’s Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
+        "button_label": "browse bible toolkit",
+        "button_link": "shopify://pages/bible-toolkit",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e6d311a7-069d-4c9a-bfca-2f8b9a957f08": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_9_9896eff6-58e6-4434-ae01-0ca6d6ad0565.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "meet the author",
+        "title": "Paige Stitt McBride",
+        "text": "<p>Paige is a newlywed, part-time seminary student at Reformed Theological Seminary and lover of all things discipleship. She spends her days working at her local church in Sharon, Pennsylvania while teaching dance lessons. And best of all, she is expecting her first child with her husband, Brett, come January 2023! She is passionate about helping women engage thoughtfully and carefully with the Scriptures while also helping them define and embrace its teaching within our particular cultural setting. <em>Beauty Not Beheld: A Daily Guard Against the Lies of Self-Love Culture</em> is her first published work.</p>",
+        "button_label": "follow paige",
+        "button_link": "https://www.instagram.com/_paigemcbride/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ac2f3ab1-4a83-4cb1-9d6a-f4a715cb5f5f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_10.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Paige's Story",
+        "text": "<p>Growing up as a competitive dancer, I was no stranger to beautiful girls and perfect bodies, not to add the hours of staring at them next to mine in the mirror every night. Susceptible to the traps of pride, I began to buy the lie that immodesty and sexualizing myself were worth feeling empowered and noticed. After many years reflecting on some of my mistakes and victories, <em>Beauty Not Beheld</em> is a careful trek through the Scriptures that has allowed me to lay out more systematically the core truths that have shaped my identity and body-image and set me free from the insecurity and disappointment of the world’s remedies. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "single_button_zCQMdG": {
       "type": "single-button",
       "settings": {
@@ -299,7 +344,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 50
       }
     },
     "slideshow_NUMjKP": {
@@ -368,13 +413,13 @@
     "single_button_zURCik",
     "3b7bac63-4b13-4b95-8466-c74fc608da86",
     "cef8988f-1c95-4dc4-9b86-98738fde8ef5",
-     "deeebd8d-f04b-44e9-80d6-4d0d5e1236d7",
+    "deeebd8d-f04b-44e9-80d6-4d0d5e1236d7",
     "text_columns_mGVk8i",
     "text_and_image_nyrbMb",
     "single_button_XH7UMM",
     "slideshow_i6zVQJ",
-   "c22e5661-6b95-417c-8494-68791bee4a1d",
-   "e6d311a7-069d-4c9a-bfca-2f8b9a957f08",
+    "c22e5661-6b95-417c-8494-68791bee4a1d",
+    "e6d311a7-069d-4c9a-bfca-2f8b9a957f08",
     "ac2f3ab1-4a83-4cb1-9d6a-f4a715cb5f5f",
     "single_button_zCQMdG",
     "slideshow_NUMjKP",
