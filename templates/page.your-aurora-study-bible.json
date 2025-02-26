@@ -97,12 +97,61 @@
         "space_above": 0,
         "space_below": 45
       }
+    },
+    "text_columns_7BPEfW": {
+  "type": "text-columns",
+  "blocks": {
+    "text_block_3qnQfQ": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Artboard_1_copy_2_caa49cc1-0400-4ddd-a791-1214c1b5dd8c.png",
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "ESV STUDY BIBLE TRANSLATION",
+        "text": "<p>Nearly a hundred individuals from nine different countries contributed to this incredible work, and the result is nothing less than amazing. With beautiful full-color maps, charts, articles and more, this study Bible has been designed to help you understand the Bible in a deeper way.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "text_block_3dT6an": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Artboard_1_copy_1fd0c58d-8fe5-4278-9feb-713f932fe583.png",
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "beautiful design",
+        "text": "<p>Our Aurora Bible, known for its minimal design and rich leather-like material, features pressed floral artwork, and <a href=\"https://biblia.com/bible/esv/Josh%201.8\" target=\"_blank\">Joshua 1:8</a>, which says, “This book of the law shall not depart from your mouth, but you shall meditate on it day and night.”</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "text_block_cQgqeG": {
+      "type": "text_block",
+      "settings": {
+        "enable_image": true,
+        "image": "shopify://shop_images/Artboard_1_33ae78b5-3138-4161-ba4c-a363ce7381eb.png",
+        "image_mask": "none",
+        "image_width": 650,
+        "title": "BUNDLE UP",
+        "text": "<p>The Aurora design is also featured on a Hosanna Revival Notebook. Bundle the ESV Study Bible and its companion notebook for the perfect gift this holiday season. </p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
+  },
+  "settings": {
+    "title": "",
+    "align_text": "center"
+  }
+},
   },
   "order": [
     "main",
     "slideshow_8R9GUc",
     "rich_text_rHk6E4",
-    "single_button_wkQNyp"
+    "single_button_wkQNyp",
+    "text_columns_7BPEfW"
   ]
 }
