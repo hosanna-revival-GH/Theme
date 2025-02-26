@@ -11,13 +11,150 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_RCfNgF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ij9NXK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "GOD OUR HOME",
+            "title_size": 80,
+            "subheading": "A 10 Week Study Through the Gospel of John",
+            "link": "https://hosannarevival.com/god-our-home-week-one",
+            "link_text": "download week one preview here",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-005.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ij9NXK"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_KYdJtQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MpP3q7": {
+          "type": "heading",
+          "settings": {
+            "title": "God Our home"
+          }
+        },
+        "text_TEj6rB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>God Our Home</em> is a 10-part Bible study on the Gospel of John for the one longing for a sense of rootedness that stretches beyond earthly security</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_6CEPzT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Intellectually, we know that God is our “firm foundation” and the “rock upon which we stand”—but what does that look like on any given Tuesday, in our apartment with friends, in the preschool pickup line, or at the breakfast table with a parent? In our newest Bible study, <em>God Our Home</em>, you will learn what it means to build your life on the truth and in the presence of God.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_MpP3q7",
+        "text_TEj6rB",
+        "text_6CEPzT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_fjg6yG": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Preview Week One",
+        "button_link": "https://hosannarevival.com/god-our-home-week-one",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "featured_collection_HKyeNU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "katie-noble-collection",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "single_button_N7wpJC": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "hero_video_VAdaCG": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "AVAILABLE NOW",
+        "link": "https://hosannarevival.com/products/god-our-home",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c820e13e96a744889b2f0ce550bff9b9.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_RCfNgF",
+    "rich_text_KYdJtQ",
+    "single_button_fjg6yG",
+    "featured_collection_HKyeNU",
+    "single_button_N7wpJC",
+    "hero_video_VAdaCG"
   ]
 }
