@@ -244,7 +244,31 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+             "97a3c888-87e7-4e19-8b87-8bb3485410c8": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/GOH-Landing-Page-Photos-04.png",
+              "image_width": "50",
+              "subtitle": "GOD OUR HOME",
+              "title": "From The Introduction",
+              "text": "<p>\"The deep rest found exclusively in the presence and provision of God is available to us today, even if we find ourselves wandering and afraid. There is no amount of effort, moral performance, or financial or social status that will bring us closer to our home in God. It is fully accessible for you and for me, right now, as we are, by the abundant grace and mercy offered by the life, death, and resurrection of Christ.\" (16)</p><p>- <em>Katie Noble</em>, author</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+          "ec723e1a-242d-4e25-893f-aa7c6662c78f": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "BUY NOW",
+              "button_link": "https://hosannarevival.com/products/god-our-home",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -257,6 +281,8 @@
     "da746f0b-4260-46bb-84ef-1971c4d26396",
     "98fc1525-b2f7-4d80-98e1-0c04723131b9",
     "fd8a4a54-1a72-4127-9d56-c56d54a85284",
-    "slideshow_bm4bgQ"
+    "slideshow_bm4bgQ",
+    "97a3c888-87e7-4e19-8b87-8bb3485410c8",
+     "ec723e1a-242d-4e25-893f-aa7c6662c78f"
   ]
 }
