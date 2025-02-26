@@ -554,7 +554,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Notebooks",
-            "text": "<p> Take notes on what God is teaching you and share with your friend! </p>",
+            "text": "<p> Take notes on what God is teaching you and share with your friend!</p>",
             "button_label": "Shop Notebooks",
             "button_link": ""
           }
@@ -565,8 +565,8 @@
             "enable_image": true,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "title": "Devotionals",
+            "text": "<p>Walk through a devotional together and meet once weekly to discuss what you’re learning.</p>",
             "button_label": "Optional button",
             "button_link": ""
           }
