@@ -28,10 +28,17 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "heading_rWtPdE": {
+          "type": "heading",
+          "settings": {
+            "title": "Here's how it works:"
+          }
         }
       },
       "block_order": [
-        "text_hYb3Mg"
+        "text_hYb3Mg",
+        "heading_rWtPdE"
       ],
       "settings": {
         "align_text": "center",
@@ -42,7 +49,7 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
-        "space_below": 75
+        "space_below": 30
       }
     },
     "text_columns_YCpTWi": {
@@ -105,7 +112,7 @@
         "heading_XYCJ8L": {
           "type": "heading",
           "settings": {
-            "title": "Don't just refer a friend- Follow up!"
+            "title": "Now that you've referred a friend, it's time to follow up"
           }
         },
         "text_BfwGUm": {
