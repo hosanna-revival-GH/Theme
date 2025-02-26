@@ -84,6 +84,103 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
+        "space_below": 35
+      }
+    },
+    "single_button_LePr9x": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Gift Intentionally",
+        "button_link": "shopify://collections/gifts-for-men",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 50
+      }
+    },
+    "text_columns_aB36MJ": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_4hPNM8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_9BXDYc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_qVLfw9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_4hPNM8",
+        "text_block_9BXDYc",
+        "text_block_qVLfw9"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_MixWFF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4kWJFr": {
+          "type": "heading",
+          "settings": {
+            "title": "Tools Designed to Excite"
+          }
+        },
+        "text_ymKCKj": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>hear from the men in our community</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_4kWJFr",
+        "text_ymKCKj"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
         "space_below": 75
       }
     }
@@ -91,6 +188,9 @@
   "order": [
     "main",
     "slideshow_9j8RT3",
-    "rich_text_cmXenc"
+    "rich_text_cmXenc",
+    "single_button_LePr9x",
+    "text_columns_aB36MJ",
+    "rich_text_MixWFF"
   ]
 }
