@@ -33,9 +33,13 @@
 }
 
 .image-row__item {
-  flex: 0 0 calc({{ number_rows }}% - 1%); /* Each item takes up 25% of the container width minus 1% margin */
-  max-width: calc({{ number_rows }}% - 1%); /* Each item takes up 25% of the container width minus 1% margin */
-  margin: 0.5%; /* 1% total space between items */
+  flex: 0 0 calc({{ number_rows }}% {% unless section.settings.enable_spacing %}- 1%{% endunless %}); /* Each item takes up 25% of the container width minus 1% margin */
+  max-width: calc({{ number_rows }}% {% unless section.settings.enable_spacing %}- 1%{% endunless %}); /* Each item takes up 25% of the container width minus 1% margin */
+  {% if section.settings.enable_spacing %}
+  margin: 0.5%; 
+    {% else %}
+     margin: 0%; 
+     {% endif %}
   box-sizing: border-box;
 }
 
