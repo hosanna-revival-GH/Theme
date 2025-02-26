@@ -337,7 +337,70 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+            "c10c1d86-2fc9-4701-a69d-6f30a8352d64": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_7_391754be-e0e7-41fc-a8a3-6a01927d3d8e.png",
+              "image_width": "50",
+              "subtitle": "BONUS CONTENT",
+              "title": "Leader Guide",
+              "text": "<p>Are you a Bible Study leader looking for extra content to guide your group? Download the FREE<em> Eternity In Our Hearts</em> Leader Guide here. </p><p>This guide provides discussion questions from the text, group activities, and weekly topics to help you lead participants through this study.</p>",
+              "button_label": "Download Here",
+              "button_link": "shopify://products/eternity-in-our-hearts-leader-guide",
+              "layout": "left"
+            }
+          },
+          "1878f40c-32d4-4c45-8acf-386958d1dc30": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_8_28a4466a-b414-441c-ada6-5e047c2506c4.png",
+              "image_width":"50",
+              "subtitle": "study tools",
+              "title": "Ecclesiastes Scripture Notebook",
+              "text": "<p>Looking for a study companion? Shop the matching Ecclesiastes Scripture Notebook to journal alongside as you study! Available now for $6.90. </p>",
+              "button_label": "shop the bundle",
+              "button_link": "https://hosannarevival.com/products/ecclesiastes-scripture-journal",
+              "layout": "right"
+            }
+          },
+          "bccf5f27-3a76-4011-a24c-8bde4bcef2cc": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_9_0c9399c4-ed46-4823-92e3-8737114b00c6.png",
+              "image_width": "50",
+              "subtitle": "Meet the author",
+              "title": "Alicia Hamilton",
+              "text": "<p>Alicia Hamilton and her husband, Jack, are planted in beautiful New Hampshire where she spends her days ministering to college, high school, and middle school students. She gets excited about nature, good literature, and people. She is passionate about biblical literacy and helping people \"taste and see that the LORD is good\" (Psalm 34:8 NIV).</p>",
+              "button_label": "Follow Alicia Here",
+              "button_link": "https://instagram.com/alicia.lynn.hamilton?igshid=MzRlODBiNWFlZA==",
+              "layout": "left"
+            }
+          },
+          "92505bae-3007-4ab8-813e-03cb86544478": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Artboard_2_copy_10_e2883df4-a21c-4f20-ad22-f01532c7857a.png",
+              "image_width": "50",
+              "subtitle": "meet the author",
+              "title": "Alicia's Story",
+              "text": "<p>I studied Ecclesiastes the summer before my health fell apart, and it was God’s protection and preparation. That fall when my illness worsened to a breaking point, I remembered the words of Ecclesiastes and took courage, for health is vapor—only the Lord is steady. Then in the spring, when I had to let go of so many things I loved in order to rest, I remembered the Preacher’s words that pleasures and accomplishments are “a striving after wind” (Ecclesiastes 2:11 ESV). God prepared my heart for these big changes by bringing me through a book that one might find confusing or depressing but actually holds great hope. </p><p>Ecclesiastes has been a love letter and lifeline from the Lord. It reminds me that God mourns with me. That his plan for my life can’t be “messed up” by the brokenness of the world. That success and productivity as the world sees them can’t touch a life well lived in the kingdom of God. And that when it all boils down, <em>enjoying God is the most meaningful thing I will ever do</em>, because God is the best thing. He is my home, my hope, and my healing. Rich life begins, ends, and finds its meaning in him. What better place to be?</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+          "2d1fdb12-1748-4201-9f92-f077718e7cea": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "buy now",
+              "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -352,6 +415,11 @@
     "text_columns_7KqKFV",
     "c36b5d0c-84d1-4c28-93ae-e38917ea5633",
     "0b43e111-aa82-4463-9592-b50ebcf9c63c",
-    "slideshow_r6pQrw"
+    "slideshow_r6pQrw",
+    "c10c1d86-2fc9-4701-a69d-6f30a8352d64",
+    "1878f40c-32d4-4c45-8acf-386958d1dc30",
+     "bccf5f27-3a76-4011-a24c-8bde4bcef2cc",
+    "92505bae-3007-4ab8-813e-03cb86544478",
+    "2d1fdb12-1748-4201-9f92-f077718e7cea",
   ]
 }
