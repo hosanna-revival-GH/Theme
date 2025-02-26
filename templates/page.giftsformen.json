@@ -11,13 +11,50 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_9j8RT3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_q7pdGe": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gifts for Men",
+            "title_size": 80,
+            "subheading": "Revive his excitement to engage in God's Word",
+            "link": "shopify://collections/gifts-for-men",
+            "link_text": "Gifts for Him",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Fathers-Day-Bible-for-Men-Hosanna-Revival-003.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_q7pdGe"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_9j8RT3"
   ]
 }
