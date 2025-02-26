@@ -182,45 +182,40 @@
           "type": "image",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Artboard_1_copy_6_7a06ce97-3753-4a17-8f27-0d102cb494bd.png",
             "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "caption": "ESV Study Bible Aurora Theme",
+            "link": "shopify://products/esv-study-bible-aurora-theme"
           }
         },
         "image_BPJLNx": {
           "type": "image",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Artboard_1_copy_3_7e09be6d-4d5d-44b0-b959-7c224eff4add.png",
             "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "caption": "ESV Study Bible Aurora Theme",
+            "link": "shopify://products/esv-study-bible-aurora-theme"
           }
         },
         "image_amq476": {
           "type": "image",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Artboard_1_copy_5_dcab771b-cdcb-446b-a02c-42c64811abf9.png",
             "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "caption": "ESV Study Bible Aurora Theme",
+            "link": "shopify://products/esv-study-bible-aurora-theme"
           }
         },
         "image_dh4BWp": {
           "type": "image",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Artboard_1_copy_4_521eff73-2d33-4876-9817-eec251e67728.png",
             "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_q3aK49": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "caption": "ESV Study Bible Aurora Theme",
+            "link": "shopify://products/esv-study-bible-aurora-theme"
           }
         }
       },
@@ -228,8 +223,7 @@
         "image_zAJtYc",
         "image_BPJLNx",
         "image_amq476",
-        "image_dh4BWp",
-        "image_q3aK49"
+        "image_dh4BWp"
       ],
       "settings": {
         "title": "",
