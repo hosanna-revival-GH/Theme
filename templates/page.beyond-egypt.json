@@ -254,7 +254,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
       }
     },
     "slideshow_wWW3qU": {
@@ -363,7 +363,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
       }
     },
     "slideshow_AizUeW": {
@@ -408,18 +408,20 @@
         "button_link": "shopify://pages/devotionals",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
-        "space_below": 30
+        "space_above": 50,
+        "space_below": 25
       }
     },
     "featured_collection_tTpNN8": {
       "type": "featured-collection",
       "settings": {
         "title": "SHOP ALL STUDIES",
+        "home_featured_products": "devotionals",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
-        "view_all": true
+        "view_all": true,
+        "divider": false
       }
     }
   },
