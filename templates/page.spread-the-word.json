@@ -142,6 +142,83 @@
         "space_below": 75
       }
     },
+    "slideshow_KCP8Bn": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nBzJRR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-017.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_nBzJRR"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_RLEFtk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-092_1.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "1",
+        "title": "EVANGELISM",
+        "text": "<p>We have the incredible opportunity to share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written over our lives to share and point others to Jesus. God’s Word is the best tool to offer. It’s the beginning of understanding who God is and how he can change your life!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jfeUAV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-072.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "2",
+        "title": "DISCIPLESHIP",
+        "text": "<p>One of the most beautiful relationships we can step into is a discipleship relationship with someone we care about. Learning to love the Lord and pursue his voice alongside someone else creates a friendship that is built upon something steadfast and eternal. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_tMHfQV": {
       "type": "rich-text",
       "blocks": {
@@ -195,6 +272,7 @@
         "text_K8aLex",
         "text_Di3NJW"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -298,6 +376,173 @@
         "per_row": 3,
         "enable_gutter": false
       }
+    },
+    "faq_ME8cjJ": {
+      "type": "faq",
+      "blocks": {
+        "question_MbQkNy": {
+          "type": "question",
+          "settings": {
+            "title": "Who can participate in the referral program?",
+            "text": "<p>Anyone can refer a friend! However, the friend must be someone who has never purchased from Hosanna Revival before.</p>"
+          }
+        },
+        "question_yiqLQB": {
+          "type": "question",
+          "settings": {
+            "title": "How do I refer a friend?",
+            "text": "<p>After you input your email above, you can refer a friend either by inputting their email into the portal to send them your unique referral link directly from this page, or you can copy and paste your referral link and send it to them outside of this page, whether that’s over text, by word of mouth, or any other way.</p>"
+          }
+        },
+        "question_QAFbTU": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a limit to how many friends I can refer?",
+            "text": "<p>Nope! Invite as many friends as you’d like. You’re inviting someone to invest in a beautiful tool to point them to Christ, so be intentional about whom you invite and consider how you can extend the invitation to grow together. We’re so excited to see how God moves through the beauty of his Word at work in the people you know.</p>"
+          }
+        },
+        "question_MWiadG": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need an account to refer a friend?",
+            "text": "<p>When you input your email address, you are automatically enrolled into our <em>Spread the Word</em> Referral Program. Your email address acts as your “account” identifier so we can provide you with your unique referral link, but you do not need a password. </p>"
+          }
+        },
+        "question_8RKypM": {
+          "type": "question",
+          "settings": {
+            "title": "How can I see how many referrals I've made?",
+            "text": "<p>Any time you want to access the stats of how many referrals you’ve made, just click the “My Stats” button beneath the form on this page and input your email address to send your current stats over email immediately. It’s that simple!</p>"
+          }
+        },
+        "rich_text_kGmFPr": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<p>Referral Rewards</p>",
+            "align_text": "left"
+          }
+        },
+        "question_emK7np": {
+          "type": "question",
+          "settings": {
+            "title": "What rewards do I get for referring a friend?",
+            "text": "<p>You will receive a unique code for $10 off your next purchase. This will come by email once your friend has successfully made a purchase using your referral link.</p>"
+          }
+        },
+        "question_gPABbc": {
+          "type": "question",
+          "settings": {
+            "title": "When will I receive my referral reward?",
+            "text": "<p>You will receive your reward when your referred friend has successfully made a purchase using your referral link and their order has been confirmed. This special code will arrive to the email you originally input to join the program.</p>"
+          }
+        },
+        "question_ytk8aW": {
+          "type": "question",
+          "settings": {
+            "title": "Can I combine my referral reward with other discounts?",
+            "text": "<p>You can only use one code per order. Feel free to use your referral code at any time, please note - if we are running a sale you cannot use your referral code in combination with a promo code</p>"
+          }
+        },
+        "question_BrKj3P": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use multiple $10 rewards on one purchase?",
+            "text": "<p>No, referral rewards cannot be combined. Only one $10 discount can be used per order.</p>"
+          }
+        },
+        "rich_text_dDPdVK": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<p>Friend's Experience</p>",
+            "align_text": "left"
+          }
+        },
+        "question_Vrt9Qa": {
+          "type": "question",
+          "settings": {
+            "title": "What does my friend get when I refer them?",
+            "text": "<p>Your friend will receive an email informing them that you have sent them a discount code. Within the email they will see their referral reward code and a link to purchase. If you referred them simply through sending your unique link, they will be directed to a page where they can sign up</p>"
+          }
+        },
+        "question_yDMiK9": {
+          "type": "question",
+          "settings": {
+            "title": "How does my friend claim their discount?",
+            "text": "<p>For a referred friend to claim their discount, they have to use their unique code when checking out a product, or they can click the link within the email for the code to automatically populate in their cart.</p>"
+          }
+        },
+        "question_LhwiTc": {
+          "type": "question",
+          "settings": {
+            "title": "Can my friend use the referral code on any purchase?",
+            "text": "<p>Yes. Your friend can use their code on any purchase as long as it’s their FIRST purchase from Hosanna Revival. </p>"
+          }
+        },
+        "question_HwpXJj": {
+          "type": "question",
+          "settings": {
+            "title": "Does my friend’s code expire?",
+            "text": "<p>Yes, your friend’s code expires after 1 month.</p>"
+          }
+        },
+        "rich_text_L3ighc": {
+          "type": "rich-text",
+          "settings": {
+            "title": "",
+            "text": "<p>Technical and Troubleshooting</p>",
+            "align_text": "left"
+          }
+        },
+        "question_BQQBMT": {
+          "type": "question",
+          "settings": {
+            "title": "My referral link/code isn’t working. What should I do?",
+            "text": "<p>Double-check that your friend is a new customer and that they clicked your referral link before purchasing. If issues persist, contact support@hosannarevival.com.</p>"
+          }
+        },
+        "question_VAbyRn": {
+          "type": "question",
+          "settings": {
+            "title": "I referred a friend, but I didn’t get my reward. What happened?",
+            "text": "<p>You will only get your reward once your friend makes their first purchase through HosannaRevival.com and their order has been confirmed.</p>"
+          }
+        },
+        "question_DhyqTb": {
+          "type": "question",
+          "settings": {
+            "title": "Can I refer someone who has already made a purchase?",
+            "text": "<p>No. You cannot refer a friend who has already made a purchase from Hosanna Revival, but they are welcome to refer friends who are new to us and be a part of spreading the Word too!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_MbQkNy",
+        "question_yiqLQB",
+        "question_QAFbTU",
+        "question_MWiadG",
+        "question_8RKypM",
+        "rich_text_kGmFPr",
+        "question_emK7np",
+        "question_gPABbc",
+        "question_ytk8aW",
+        "question_BrKj3P",
+        "rich_text_dDPdVK",
+        "question_Vrt9Qa",
+        "question_yDMiK9",
+        "question_LhwiTc",
+        "question_HwpXJj",
+        "rich_text_L3ighc",
+        "question_BQQBMT",
+        "question_VAbyRn",
+        "question_DhyqTb"
+      ],
+      "settings": {
+        "title": "FREQUENTLY ASKED QUESTIONS",
+        "space_above": 0,
+        "space_below": 0
+      }
     }
   },
   "order": [
@@ -305,8 +550,12 @@
     "rich_text_7dpjVx",
     "text_columns_YCpTWi",
     "rich_text_aQiknw",
+    "slideshow_KCP8Bn",
+    "text_and_image_RLEFtk",
+    "text_and_image_jfeUAV",
     "rich_text_tMHfQV",
     "rich_text_itMj6x",
-    "featured_collections_VJLYiB"
+    "featured_collections_VJLYiB",
+    "faq_ME8cjJ"
   ]
 }
