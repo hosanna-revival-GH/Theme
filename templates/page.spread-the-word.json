@@ -577,8 +577,8 @@
             "enable_image": true,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "title": "Compact Bibles",
+            "text": "<p>Get an NLT Compact Bible and find fun places to read the Word together!</p>",
             "button_label": "Optional button",
             "button_link": ""
           }
