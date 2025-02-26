@@ -65,7 +65,16 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>In the holiday season when there is pressure to mark every moment with celebration and joy, the deeper struggles we encounter can feel pushed to the side. Whether you find your heart longing for rest in the midst of overwhelm or solace from loss or loneliness, our <a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"https://hosannarevival.blog/\"><em>WHEN</em> blog</a> is a safe space to land.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_NmK86k": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>WHEN</em> is our online space where life’s questions meet Scripture’s answers. Through collaborating with gifted writers across our community, we at Hosanna Revival have crafted a space where your wild and weighty questions are held up to the light of Scripture and then paired with application questions and Scripture reading to carry with you. This year, we’ve compiled a collection of articles for the holiday season and pray they will meet you right where you’re at.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -73,7 +82,8 @@
       },
       "block_order": [
         "heading_RmGJ47",
-        "text_mb9AwM"
+        "text_mb9AwM",
+        "text_NmK86k"
       ],
       "settings": {
         "align_text": "center",
@@ -86,11 +96,174 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "single_button_HgDJKd": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Browse Articles",
+        "button_link": "https://hosannarevival.blog/category/holiday-highlight/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 35
+      }
+    },
+    "text_columns_7BPEfW": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_3qnQfQ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-the-holidays-are-hard/"
+          }
+        },
+        "text_block_3dT6an": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-2.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-youre-single/"
+          }
+        },
+        "text_block_cQgqeG": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-3.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-god-meets-you-in-a-hospital-room/"
+          }
+        },
+        "text_block_QpNfRm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-4.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-giving-thanks-doesnt-come-naturally/"
+          }
+        },
+        "text_block_WpnViq": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-5.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-advent-loses-its-focus/"
+          }
+        },
+        "text_block_b7XQLj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-6.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-giving-thanks-doesnt-come-naturally/"
+          }
+        },
+        "text_block_irNYQP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-10.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-you-need-hospitality/"
+          }
+        },
+        "text_block_yiyt8r": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-7.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-loneliness-lingers/"
+          }
+        },
+        "text_block_9H4LyU": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-Holiday-Highlight-Hosanna-Revival-9.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.blog/when-you-need-a-spiritual-reset/"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3qnQfQ",
+        "text_block_3dT6an",
+        "text_block_cQgqeG",
+        "text_block_QpNfRm",
+        "text_block_WpnViq",
+        "text_block_b7XQLj",
+        "text_block_irNYQP",
+        "text_block_yiyt8r",
+        "text_block_9H4LyU"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_hKUHDU": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin Reading",
+        "button_link": "https://hosannarevival.blog/category/holiday-highlight/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 50
+      }
     }
   },
   "order": [
     "main",
     "slideshow_YrYgcg",
-    "rich_text_LY43jM"
+    "rich_text_LY43jM",
+    "single_button_HgDJKd",
+    "text_columns_7BPEfW",
+    "single_button_hKUHDU"
   ]
 }
