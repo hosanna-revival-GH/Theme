@@ -85,6 +85,72 @@
         "space_above": 30,
         "space_below": 20
       }
+    },
+    "single_button_RAWt9g": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Prayer Journals",
+        "button_link": "shopify://collections/one-thing-i-ask",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "single_button_WA3rcU": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose Your Beautiful Bible",
+        "button_link": "shopify://collections/beautiful-bibles",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "single_button_N8Brir": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Read our latest \"WHEN\" article",
+        "button_link": "https://hosannarevival.blog",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "single_button_Hb3fCE": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Free Bible Toolkit",
+        "button_link": "shopify://pages/bible-toolkit",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "single_button_W8edVB": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Free Prayer Toolkit",
+        "button_link": "shopify://pages/prayer-toolkit",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "single_button_hTfmBz": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Free Lock Screens",
+        "button_link": "shopify://blogs/lock-screens",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
     }
   },
   "order": [
@@ -92,6 +158,12 @@
     "slideshow_xWCjYr",
     "single_button_z78Gx6",
     "single_button_KDXcyH",
-    "single_button_eFchhW"
+    "single_button_eFchhW",
+    "single_button_RAWt9g",
+    "single_button_WA3rcU",
+    "single_button_N8Brir",
+    "single_button_Hb3fCE",
+    "single_button_W8edVB",
+    "single_button_hTfmBz"
   ]
 }
