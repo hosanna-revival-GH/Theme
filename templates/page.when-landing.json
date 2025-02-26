@@ -11,13 +11,108 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_bMfRaw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_HDLW3U": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "when",
+            "title_size": 80,
+            "subheading": "Life's Questions, Scripture's Answers",
+            "link": "https://hosannarevival.blog/",
+            "link_text": "Browse when",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/EmileeCarptener_204.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_HDLW3U"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_kWciaN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9aM8X9": {
+          "type": "heading",
+          "settings": {
+            "title": "when"
+          }
+        },
+        "text_D6cMVG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>WHEN is our online space where life's questions meet Scripture's answers.  Through collaborating with gifted writers across our community, we at Hosanna Revival have crafted a space where your wild and weighty questions are held up to the light of Scripture, and then paired with application questions and scripture reading to carry with you. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_Tm49Hb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>The Lord is close to the brokenhearted—take his hand and find hope.</em></p><p>For Mental Health Awareness month, we've gathered a curated collection of articles focusing on questions centered around mental health. Browse our highlighted articles below or explore more from WHEN. Keep in mind, each author is sharing from their experience, and not every article is one-size-fits-all. </p><p><em>If your hopelessness has overcome you, we don’t want you to walk through this alone. Text or call 988 for mental health support.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9aM8X9",
+        "text_D6cMVG",
+        "text_Tm49Hb"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_fGdWWH": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BROWSE WHEN",
+        "button_link": "https://hosannarevival.blog/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 20
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_bMfRaw",
+    "rich_text_kWciaN",
+    "single_button_fGdWWH"
   ]
 }
