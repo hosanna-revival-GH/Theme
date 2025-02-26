@@ -24,15 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
+            "title": "MARLO",
+            "title_size": 72,
+            "subheading": "Meet our best-selling NLT Notetaking Bible",
+            "link": "shopify://products/nlt-notetaking-bible-marlo-theme",
+            "link_text": "shop marlo",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-116.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -42,7 +43,7 @@
         "image_NxKF6x"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "750px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
@@ -57,14 +58,14 @@
         "heading_fbhYYc": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "YOU HAVE GOOD TASTE"
           }
         },
         "text_XCyc7p": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Welcome to Hosanna Revival, your home for beautiful Bibles. Our mission is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Explore the features in our best-selling Marlo Bible below.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -89,8 +90,8 @@
     "single_button_yQVkh8": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
+        "button_text": "SHOP MARLO",
+        "button_link": "shopify://products/nlt-notetaking-bible-marlo-theme",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
