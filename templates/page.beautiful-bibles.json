@@ -251,45 +251,212 @@
         "space_below": 75
       }
     },
-              "1302cc00-c3ae-4b93-b263-749581b44c40": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-332.jpg",
-              "image_width":"50",
-              "subtitle": "1",
-              "title": "Which type of Bible will help you connect with the Word of God?",
-              "text": "<p>How do you want to interact with God’s Word? What features are a priority for you? Do you want a...</p><ul><li>Study Bible: Study notes below the text for deeper understanding.</li><li>Journaling Bible: Spacious margins to notate alongside the text. </li><li>Large Print Bible: Larger font size for easy readability. </li></ul><p></p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "98042961-1fe1-4b65-a6bc-a133e5dc5bf9": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-038.jpg",
-              "image_width":"50",
-              "subtitle": "2",
-              "title": "Which translation fits your goals?",
-              "text": "<p>Translations sit on a spectrum based on how literally each word was translated from the original text. </p><ul><li><strong>Word-for-Word Translations (ESV, KJV):</strong> Translated directly from ancient text, maintaining sentence structure and phrasing. More scholarly and good for deep study.</li><li><strong>Thought-for-Thought Translations (CSB, NLT):</strong> Translated in a way to capture the original meaning in a way that is familiar to a more contemporary audience. More readable and good for easy understanding.  </li></ul><p><a href=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\" target=\"_blank\" title=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\"><em>More on Translations</em></a></p>",
-              "button_label": "",
-              "button_link": "https://hosannarevival.blog/when-youre-choosing-your-bible-translation/",
-              "layout": "right"
-            }
-          },
-          "8cdb6ebc-fd73-4134-856b-fcd33db193cd": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-354.jpg",
-              "image_width": "50",
-              "subtitle": "3",
-              "title": "Which cover design excites you to discover the beauty of God’s Word?",
-              "text": "<p>Each of our 40+ designs is originally hand-painted by our founder, Katie, and carefully recreated for our printed Bibles and paired with a passage of Scripture to point you to truth. Select the cover that will excite you to open your Bible up to read the Word of God every day.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
+    "1302cc00-c3ae-4b93-b263-749581b44c40": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-332.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "1",
+        "title": "Which type of Bible will help you connect with the Word of God?",
+        "text": "<p>How do you want to interact with God’s Word? What features are a priority for you? Do you want a...</p><ul><li>Study Bible: Study notes below the text for deeper understanding.</li><li>Journaling Bible: Spacious margins to notate alongside the text. </li><li>Large Print Bible: Larger font size for easy readability. </li></ul><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "98042961-1fe1-4b65-a6bc-a133e5dc5bf9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-038.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "2",
+        "title": "Which translation fits your goals?",
+        "text": "<p>Translations sit on a spectrum based on how literally each word was translated from the original text. </p><ul><li><strong>Word-for-Word Translations (ESV, KJV):</strong> Translated directly from ancient text, maintaining sentence structure and phrasing. More scholarly and good for deep study.</li><li><strong>Thought-for-Thought Translations (CSB, NLT):</strong> Translated in a way to capture the original meaning in a way that is familiar to a more contemporary audience. More readable and good for easy understanding.  </li></ul><p><a href=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\" target=\"_blank\" title=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\"><em>More on Translations</em></a></p>",
+        "button_label": "",
+        "button_link": "https://hosannarevival.blog/when-youre-choosing-your-bible-translation/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "8cdb6ebc-fd73-4134-856b-fcd33db193cd": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-354.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "3",
+        "title": "Which cover design excites you to discover the beauty of God’s Word?",
+        "text": "<p>Each of our 40+ designs is originally hand-painted by our founder, Katie, and carefully recreated for our printed Bibles and paired with a passage of Scripture to point you to truth. Select the cover that will excite you to open your Bible up to read the Word of God every day.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_c4mjRj": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose Your Beautiful Bible",
+        "button_link": "shopify://collections/beautiful-bibles",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 45
+      }
+    },
+    "featured_collection_qVY3U8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Start Here",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "text_columns_9FFLhf": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_MnnDdB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_wkHHKx": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_wMxGjk": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_MnnDdB",
+        "text_block_wkHHKx",
+        "text_block_wMxGjk"
+      ],
+      "settings": {
+        "title": "As seen on",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "image_row_itVeJY": {
+      "type": "image-row",
+      "blocks": {
+        "image_BgbwxH": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_aADLqT": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_LaYLtF": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_UKfGrY": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BgbwxH",
+        "image_aADLqT",
+        "image_LaYLtF",
+        "image_UKfGrY"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    },
+    "hero_video_e8Gt3Y": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Choose Beauty",
+        "link": "shopify://collections/beautiful-bibles",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c29ced4fde914ffeb23e2e3dad02e193.mp4",
+        "overlay_opacity": 0,
+        "section_height": "550px",
+        "mobile_height": "auto"
+      }
+    }
   },
   "order": [
     "main",
@@ -302,6 +469,11 @@
     "rich_text_mwmFBC",
     "1302cc00-c3ae-4b93-b263-749581b44c40",
     "98042961-1fe1-4b65-a6bc-a133e5dc5bf9",
-    "8cdb6ebc-fd73-4134-856b-fcd33db193cd"
+    "8cdb6ebc-fd73-4134-856b-fcd33db193cd",
+    "single_button_c4mjRj",
+    "featured_collection_qVY3U8",
+    "text_columns_9FFLhf",
+    "image_row_itVeJY",
+    "hero_video_e8Gt3Y"
   ]
 }
