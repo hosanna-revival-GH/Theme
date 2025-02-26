@@ -105,39 +105,39 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-360.jpg",
             "image_mask": "none",
             "image_width": 650,
-              "title": "NLT TRANSLATION",
-              "text": "<p>The New Living Translation is a <em>thought for thought</em> translation, making for easy readability and immersive storytelling.</p>",
+            "title": "NLT TRANSLATION",
+            "text": "<p>The New Living Translation is a <em>thought for thought</em> translation, making for easy readability and immersive storytelling.</p>",
             "button_label": "Optional button",
-            "button_link": "",
-            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-360.jpg",
+            "button_link": ""
           }
         },
         "text_block_DznHnP": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-372.jpg",
             "image_mask": "none",
             "image_width": 650,
-              "title": "NOTETAKING MARGINS",
-              "text": "<p>Featuring our custom Hosanna Revival typeset, the Marlo Bible contains spacious journaling columns for easy annotation and deep study. </p>",
+            "title": "NOTETAKING MARGINS",
+            "text": "<p>Featuring our custom Hosanna Revival typeset, the Marlo Bible contains spacious journaling columns for easy annotation and deep study. </p>",
             "button_label": "Optional button",
-            "button_link": "",
-            "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-372.jpg",
+            "button_link": ""
           }
         },
         "text_block_aRKXka": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-348.jpg",
             "image_mask": "none",
             "image_width": 650,
-              "title": "MINIMAL DESIGN",
-              "text": "<p>Our Marlo Bible, known for its minimal design and soft suede-like material, features a delicate wildflower bouquet and Psalm 46:10: \"Be still and know that I am God.\"</p>",
+            "title": "MINIMAL DESIGN",
+            "text": "<p>Our Marlo Bible, known for its minimal design and soft suede-like material, features a delicate wildflower bouquet and Psalm 46:10: \"Be still and know that I am God.\"</p>",
             "button_label": "Optional button",
-            "button_link": "",
-            "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-348.jpg",
+            "button_link": ""
           }
         }
       },
@@ -155,8 +155,8 @@
     "single_button_iCHwYF": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
+        "button_text": "SHOP MARLO",
+        "button_link": "shopify://products/nlt-notetaking-bible-marlo-theme",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -416,10 +416,10 @@
     "single_button_yQVkh8",
     "text_columns_aU8YNd",
     "single_button_iCHwYF",
+    "image_row_kpXgDq",
     "rich_text_teWN4h",
     "text_columns_K4Bjic",
     "single_button_6AzfY8",
-    "image_row_kpXgDq",
     "rich_text_D3ExpL",
     "text_columns_6m9f8A",
     "single_button_WpWcRa"
