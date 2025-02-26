@@ -121,12 +121,68 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+              "ba438b9b-815e-4636-adf0-891f4c89751c": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-331.jpg",
+              "image_width": "50",
+              "subtitle": "GOAL",
+              "title": "Read through a book of the Bible",
+              "text": "<p>Ideas to help you reach this goal:</p><ul><li>Take notes in the margins of <a href=\"/collections/beautiful-bibles\" target=\"_blank\" title=\"Beautiful Bibles\">your Bible</a> to help you understand the text.</li><li><a href=\"/collections/notebooks\" target=\"_blank\" title=\"Notebooks\">Journal</a> your thoughts and reflections after each chapter.</li><li>Invite a friend to read with you. Come up with a question about the text each time you text, call, or meet to review the passage.</li><li>Not sure where to start? Explore our <a href=\"/pages/bible-toolkit\" target=\"_blank\" title=\"Bible Toolkit\">Bible Toolkit</a> or devotional <a href=\"/products/devotional-the-story-circle\" target=\"_blank\" title=\"The Story Circle by Joshua Lenon\">The Story Circle</a>.</li></ul>",
+              "button_label": "Choose Your Bible",
+              "button_link": "shopify://collections/beautiful-bibles",
+              "layout": "left"
+            }
+          },
+          "38dda7e7-65ca-455e-b96a-b58c4cb455fd": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-392B.jpg",
+              "image_width": "50",
+              "subtitle": "Goal",
+              "title": "Pray consistently",
+              "text": "<p>Ideas to help you reach this goal:</p><ul><li>Take walks outside with the specific intention of praying during your walk.</li><li>Choose a Psalm each morning to pray through. Let Scripture guide your words.</li><li>Phone a friend to pray out loud together.</li><li>Refresh your desire to pray by going back to the basics through reading Scripture passages on prayer or exploring our <a href=\"/pages/prayer-toolkit\" target=\"_blank\" title=\"Prayer Toolkit\">Prayer Toolkit</a>.</li><li>Write down your prayers in a <a href=\"/collections/notebooks\" target=\"_blank\" title=\"Notebooks\">notebook</a> or our <a href=\"/collections/one-thing-i-ask\" target=\"_blank\" title=\"One Thing I Ask\">5-Year Prayer Journal</a>. Recording them will help you begin to see the faithfulness of God's hand in your life.</li></ul>",
+              "button_label": "Choose Your Prayer Journal",
+              "button_link": "shopify://collections/one-thing-i-ask",
+              "layout": "right"
+            }
+          },
+          "098c8883-5581-46d3-9d7d-09c786350303": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-598B.jpg",
+              "image_width": "50",
+              "subtitle": "Goal",
+              "title": "Begin a Bible study",
+              "text": "<p>Ideas to help you reach this goal:</p><ul><li>Start by <a href=\"/pages/devotionals\" target=\"_blank\" title=\"Devotionals\">choosing a topic</a> or passage of Scripture that relates to what God is teaching you in this season.</li><li>If you're studying with a group, set a consistent time and space and consider even setting up a group chat to connect and share encouragement. If you need leader guides, check out our <a href=\"/pages/devotionals\" title=\"Devotionals\">devotionals</a>.</li></ul>",
+              "button_label": "Choose your study",
+              "button_link": "shopify://pages/devotionals",
+              "layout": "left"
+            }
+          },
+          "1e129ad3-9fc6-4175-a8a2-3e684828a1b5": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-047_996b629c-d323-4c90-9620-67bab6912d10.jpg",
+              "image_width": "50",
+              "subtitle": "Goal",
+              "title": "Create intentionally",
+              "text": "<ul><li>Set aside time to dream and create. Allow yourself to choose a <a href=\"/pages/art-resources\" title=\"Hosanna Blanks\">new tool</a> or medium to spark your inspiration. Invite a friend into the process.</li><li>Allow Scripture to guide your creativity. Choose a passage to focus on and create something inspired by that passage. Try <a href=\"/pages/an-invitation-to-create-pleasant-places\" title=\"An Invitation to Create — Pleasant Places\">this series</a> if you'd like prompts and guidance in this process.</li></ul>",
+              "button_label": "Sign up for the Free Email Series",
+              "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
+              "layout": "right"
+            }
+          },
   },
   "order": [
     "main",
     "slideshow_ptjrnd",
     "rich_text_z48LYt",
-    "rich_text_pAcpTr"
+    "rich_text_pAcpTr",
+              "ba438b9b-815e-4636-adf0-891f4c89751c",
+          "38dda7e7-65ca-455e-b96a-b58c4cb455fd",
+          "098c8883-5581-46d3-9d7d-09c786350303",
+          "1e129ad3-9fc6-4175-a8a2-3e684828a1b5",
   ]
 }
