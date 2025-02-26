@@ -117,7 +117,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 45
+        "space_below": 50
       }
     },
     "slideshow_rQUjBz": {
@@ -220,47 +220,47 @@
     },
     "text_columns_7KqKFV": {
       "type": "text-columns",
- "blocks": {
-  "text_block_Vqbi34": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_2_copy_3_f6f22ff5-af81-4702-a7b8-382d4f1edb39.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts"
-    }
-  },
-  "text_block_RCGEWc": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_2_copy_4_016417ff-f537-4470-ac4f-661856812752.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_eiUjXp": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_2_copy_5_a6971629-2435-460c-8bea-2a25cd5feb66.png",
-      "image_mask": "none",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_Vqbi34": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_2_copy_3_f6f22ff5-af81-4702-a7b8-382d4f1edb39.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts"
+          }
+        },
+        "text_block_RCGEWc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_2_copy_4_016417ff-f537-4470-ac4f-661856812752.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_eiUjXp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_2_copy_5_a6971629-2435-460c-8bea-2a25cd5feb66.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_Vqbi34",
         "text_block_RCGEWc",
@@ -272,30 +272,72 @@
         "divider": false
       }
     },
-              "c36b5d0c-84d1-4c28-93ae-e38917ea5633": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Artboard_2_copy_6_dcb4888d-f54a-4239-ba21-104c359fed10.png",
-              "image_width": "50",
-              "subtitle": "Eternity In our hearts",
-              "title": "From The Introduction",
-              "text": "<p>\"Part of the beauty of Ecclesiastes is that it asks all the questions we want to but might be too scared to ask. It expresses all the frustrations we want to but perhaps don’t feel like we should. Ecclesiastes is important because it lets us know that God can handle our big questions, our depression, our frustration, and our hopelessness.\"</p><p><em>—Alicia Hamilton, author</em></p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "0b43e111-aa82-4463-9592-b50ebcf9c63c": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "buy now",
-              "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts",
-              "button_size": "huge"
-            }
-          },
+    "c36b5d0c-84d1-4c28-93ae-e38917ea5633": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_6_dcb4888d-f54a-4239-ba21-104c359fed10.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Eternity In our hearts",
+        "title": "From The Introduction",
+        "text": "<p>\"Part of the beauty of Ecclesiastes is that it asks all the questions we want to but might be too scared to ask. It expresses all the frustrations we want to but perhaps don’t feel like we should. Ecclesiastes is important because it lets us know that God can handle our big questions, our depression, our frustration, and our hopelessness.\"</p><p><em>—Alicia Hamilton, author</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "0b43e111-aa82-4463-9592-b50ebcf9c63c": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "buy now",
+        "button_link": "https://hosannarevival.com/products/eternity-in-our-hearts",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 10,
+        "space_below": 50
+      }
+    },
+    "slideshow_r6pQrw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_diYqFp": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "bonus content",
+            "title_size": 72,
+            "subheading": "for \"Eternity In Our Hearts\"",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_diYqFp"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -309,6 +351,7 @@
     "710edc46-8a0b-4030-8a29-881a48dd8f75",
     "text_columns_7KqKFV",
     "c36b5d0c-84d1-4c28-93ae-e38917ea5633",
-    "0b43e111-aa82-4463-9592-b50ebcf9c63c"
+    "0b43e111-aa82-4463-9592-b50ebcf9c63c",
+    "slideshow_r6pQrw"
   ]
 }
