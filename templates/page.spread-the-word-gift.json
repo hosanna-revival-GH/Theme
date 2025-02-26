@@ -145,12 +145,66 @@
         "space_below": 75
       }
     },
+    "text_columns_niCYLr": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_cpW7qj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebooks",
+            "text": "<p>Take notes on what God is teaching you and share with your friend!</p>",
+            "button_label": "Choose your new notebook",
+            "button_link": "shopify://collections/notebooks"
+          }
+        },
+        "text_block_G4JpyE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Devotionals",
+            "text": "<p>Walk through a devotional together and discuss what you’re learning!</p>",
+            "button_label": "Choose your new devotional",
+            "button_link": "shopify://collections/devotionals"
+          }
+        },
+        "text_block_GKPyKJ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-52.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Bibles",
+            "text": "<p>Study a chapter of the Bible with a friend and share was revealed through Scripture! </p>",
+            "button_label": "Choose your new Bible",
+            "button_link": "shopify://collections/beautiful-bibles"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_cpW7qj",
+        "text_block_G4JpyE",
+        "text_block_GKPyKJ"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "featured_collection_nPPKkj": {
       "type": "featured-collection",
       "settings": {
-        "title": "Get $10 off a new notebook",
-        "home_featured_products": "notebooks",
-        "per_row": 5,
+        "title": "Get $10 off a 5-Year Prayer journal",
+        "home_featured_products": "one-thing-i-ask",
+        "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
@@ -160,21 +214,9 @@
     "featured_collection_yddw8g": {
       "type": "featured-collection",
       "settings": {
-        "title": "Get $10 off a new devotional",
-        "home_featured_products": "devotionals",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_XgxVeP": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Get $10 off a new Bible",
-        "home_featured_products": "beautiful-bibles",
-        "per_row": 5,
+        "title": "Get $10 off a compact bible",
+        "home_featured_products": "nlt-compact-bibles",
+        "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
@@ -184,7 +226,7 @@
     "featured_collection_Yq7zC4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Explore our entire collection",
+        "title": "Shop our entire collection",
         "home_featured_products": "hosanna-revival-shop",
         "per_row": 5,
         "rows": 1,
@@ -341,60 +383,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    },
-    "text_columns_niCYLr": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_cpW7qj": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Notebooks",
-            "text": "<p>Take notes on what God is teaching you and share with your friend!</p>",
-            "button_label": "Choose your new notebook",
-            "button_link": "shopify://collections/notebooks"
-          }
-        },
-        "text_block_G4JpyE": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Devotionals",
-            "text": "<p>Walk through a devotional together and discuss what you’re learning!</p>",
-            "button_label": "Choose your new devotional",
-            "button_link": "shopify://collections/devotionals"
-          }
-        },
-        "text_block_GKPyKJ": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-52.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Bibles",
-            "text": "<p>Study a chapter of the Bible with a friend and share was revealed through Scripture! </p>",
-            "button_label": "Choose your new Bible",
-            "button_link": "shopify://collections/beautiful-bibles"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_cpW7qj",
-        "text_block_G4JpyE",
-        "text_block_GKPyKJ"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -402,14 +390,13 @@
     "rich_text_dFRJE8",
     "rich_text_6e7iwm",
     "rich_text_K9b8pU",
+    "text_columns_niCYLr",
     "featured_collection_nPPKkj",
     "featured_collection_yddw8g",
-    "featured_collection_XgxVeP",
     "featured_collection_Yq7zC4",
     "rich_text_4XjhGb",
     "text_columns_ETAMMR",
     "rich_text_GBtTJW",
-    "slideshow_kxUQy8",
-    "text_columns_niCYLr"
+    "slideshow_kxUQy8"
   ]
 }
