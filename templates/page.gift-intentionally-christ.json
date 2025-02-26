@@ -11,13 +11,478 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_WEntwg": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aHeRAi": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aHeRAi"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_Rjp9BA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3xx6tx": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_r4DDtW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_3xx6tx",
+        "text_r4DDtW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_PJLMDH": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_G3xnPK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_MfHpHC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_LWKaKA": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_G3xnPK",
+        "text_block_MfHpHC",
+        "text_block_LWKaKA"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_km8d7e": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "medium",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "rich_text_BBka3J": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CbejMW": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_JDAaTd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_CbejMW",
+        "text_JDAaTd"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_HHTLGm": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "single_button_9JQyrG": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "medium",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "rich_text_N6qbhj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fCiJbm": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_d7fQh3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_fCiJbm",
+        "text_d7fQh3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "image_row_WkcAdA": {
+      "type": "image-row",
+      "blocks": {
+        "image_FDyVya": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_EgGtgm": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_w8MzHJ": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_P8dtkM": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FDyVya",
+        "image_EgGtgm",
+        "image_w8MzHJ",
+        "image_P8dtkM"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    },
+    "image_row_TbwtcA": {
+      "type": "image-row",
+      "blocks": {
+        "image_ViPiih": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_cUD7yV": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_F3y3WX": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_xRNhYt": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ViPiih",
+        "image_cUD7yV",
+        "image_F3y3WX",
+        "image_xRNhYt"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    },
+    "rich_text_7HfJmb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KrkXxy": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_CG9jnM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_KrkXxy",
+        "text_CG9jnM"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_yp7QQX": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_RM7HLd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_xgx7xt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_R7LQhT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_RM7HLd",
+        "text_block_xgx7xt",
+        "text_block_R7LQhT"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_7qJryk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_t7hbbK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0559_80de332f-edbc-41dd-b808-161c5f273d74.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_t7hbbK"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_WEntwg",
+    "rich_text_Rjp9BA",
+    "text_columns_PJLMDH",
+    "single_button_km8d7e",
+    "rich_text_BBka3J",
+    "featured_collection_HHTLGm",
+    "single_button_9JQyrG",
+    "rich_text_N6qbhj",
+    "image_row_WkcAdA",
+    "image_row_TbwtcA",
+    "rich_text_7HfJmb",
+    "text_columns_yp7QQX",
+    "slideshow_7qJryk"
   ]
 }
