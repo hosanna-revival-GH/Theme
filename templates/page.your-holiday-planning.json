@@ -243,48 +243,48 @@
     },
     "image_row_MVyBNq": {
       "type": "image-row",
- "blocks": {
-  "image_hBznUG": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-48.jpg",
-      "image_width": 650,
-      "caption": "Beautiful Organizational Planners",
-      "link": ""
-    }
-  },
-  "image_r84nTf": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-42_4daa5519-7134-4926-8c0e-86fa1af0d87b.jpg",
-      "image_width": 650,
-      "caption": "Stay Organized and Inspired",
-      "link": ""
-    }
-  },
-  "image_6JbqB3": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-49.jpg",
-      "image_width": 650,
-      "caption": "Plan Your Days with Purpose",
-      "link": ""
-    }
-  },
-  "image_QrwP9N": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-79.jpg",
-      "image_width": 650,
-      "caption": "Elegant and Functional Design",
-      "link": ""
-    }
-  }
-},
+      "blocks": {
+        "image_hBznUG": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-48.jpg",
+            "image_width": 650,
+            "caption": "Beautiful Organizational Planners",
+            "link": ""
+          }
+        },
+        "image_r84nTf": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-42_4daa5519-7134-4926-8c0e-86fa1af0d87b.jpg",
+            "image_width": 650,
+            "caption": "Stay Organized and Inspired",
+            "link": ""
+          }
+        },
+        "image_6JbqB3": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-49.jpg",
+            "image_width": 650,
+            "caption": "Plan Your Days with Purpose",
+            "link": ""
+          }
+        },
+        "image_QrwP9N": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Planner-Price-Drop-Beautiful-Organizational-Planners-Hosanna-Revival-79.jpg",
+            "image_width": 650,
+            "caption": "Elegant and Functional Design",
+            "link": ""
+          }
+        }
+      },
       "block_order": [
         "image_hBznUG",
         "image_r84nTf",
@@ -295,7 +295,93 @@
         "title": "",
         "align_text": "center",
         "enable_spacing": true,
-        "enable_zoom": false
+        "enable_zoom": true
+      }
+    },
+    "rich_text_pPEkEJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_98mXHQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Our best tool to plan intentionally for the holidays</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_yRb8y7": {
+          "type": "heading",
+          "settings": {
+            "title": "The Hosanna Revival Planner"
+          }
+        }
+      },
+      "block_order": [
+        "text_98mXHQ",
+        "heading_yRb8y7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_YtBDyK": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_WBgGTV": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_xEretN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_bgQctE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_WBgGTV",
+        "text_block_xEretN",
+        "text_block_bgQctE"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
@@ -310,6 +396,8 @@
     "text_and_image_hC948e_4",
     "text_and_image_hC948e_5",
     "text_and_image_hC948e_6",
-    "image_row_MVyBNq"
+    "image_row_MVyBNq",
+    "rich_text_pPEkEJ",
+    "text_columns_YtBDyK"
   ]
 }
