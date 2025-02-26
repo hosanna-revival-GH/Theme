@@ -52,23 +52,51 @@
         "lazyload_images": false
       }
     },
-              "1593181262347": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/models.jpg",
-              "image_width": "50",
-              "subtitle": "Hosanna Revival",
-              "title": "Casting Call",
-              "text": "<p>Hosanna Revival is seeking some gals who are interested in modeling for upcoming Hosanna Revival photo shoots! If you are located in the Cincinnati area of Ohio and would love to volunteer to model for photo shoots for some upcoming product releases, we'd love to have you!&nbsp;Just sign up below! &nbsp;We'll add your name to our list, and we'll reach out with dates and photo shoot&nbsp;details as needed.</p>\n<p><strong>If you are under 18, click the button below to download our model release. A model release signed by a parent/legal guardian is required.</strong></p>",
-              "button_label": "Download Model Release",
-              "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/HosannaRevival_modelrelease.pdf?v=1593183219",
-              "layout": "left"
-            }
-          },
+    "1593181262347": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/models.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Hosanna Revival",
+        "title": "Casting Call",
+        "text": "<p>Hosanna Revival is seeking some gals who are interested in modeling for upcoming Hosanna Revival photo shoots! If you are located in the Cincinnati area of Ohio and would love to volunteer to model for photo shoots for some upcoming product releases, we'd love to have you!&nbsp;Just sign up below! &nbsp;We'll add your name to our list, and we'll reach out with dates and photo shoot&nbsp;details as needed.</p>\n<p><strong>If you are under 18, click the button below to download our model release. A model release signed by a parent/legal guardian is required.</strong></p>",
+        "button_label": "Download Model Release",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/HosannaRevival_modelrelease.pdf?v=1593183219",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "17406013805e28d2bb": {
+      "type": "apps",
+      "blocks": {
+        "acerill_form_builder_custom_form_RF9TBp": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "ee97b2cf-5b48-415a-9127-a15e4c4e9342",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "acerill_form_builder_custom_form_RF9TBp"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
   },
   "order": [
     "main",
     "slideshow_P4QC9k",
     "1593181262347",
+    "17406013805e28d2bb"
   ]
 }
