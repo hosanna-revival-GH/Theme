@@ -9,7 +9,7 @@
   {% for block in section.blocks %}
     {% if block.settings.enable_image %}
       <div class="image-row__item aos-init aos-animate">
-        <div class="image-wrap" 
+        <div class="image-wrap-row" 
             {% if section.settings.enable_zoom %}
     data-section-type="photoswipe"
     data-zoom="true"
@@ -55,7 +55,7 @@
   box-sizing: border-box;
 }
 
-.image-wrap {
+.image-wrap-row {
   width: 100%; /* Ensures the image wrapper takes up the full width of its parent */
   overflow: hidden; /* Ensures no overflow of content */
   position: relative; /* For positioning inner elements */
