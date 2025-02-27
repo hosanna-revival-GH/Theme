@@ -76,6 +76,7 @@
     "social_tiktok_link": "https://www.tiktok.com/@hosannarevival",
     "social_youtube_link": "https://www.youtube.com/@HosannaRevival",
     "favicon": "shopify://shop_images/ring-logo-2x_c99b3db3-eb61-478e-b491-a9567c17c8ee.jpg",
+    "show_breadcrumbs": false,
     "breadcrumb": false,
     "checkout_accent_color": "#111111",
     "checkout_body_background_color": "#ffffff",

@@ -367,6 +367,7 @@
         "question_7GMLYF": {
           "type": "faq",
           "settings": {
+            "css-class": "",
             "question": "How is the Bible different from the Qur'an or other holy books?",
             "answer": "<p>The Bible was written over a period of about 1,500 years by more than 40 different men of diverse backgrounds. Among this diverse group of writers are kings (David and Solomon), a military general (Joshua), a fisherman (Peter), and even a tent maker (Paul). Some of the books of the Bible were written from prison cells, the wilderness, exile, palaces, and more. There are books of historical narrative, poetry, letters, and eyewitness accounts of Jesus’ time on earth. All of this alone makes the Bible a unique book. </p><p>But what truly sets the Bible apart from all other books—including other holy books—is that it has one ultimate author: God. Peter wrote in 2 Peter 1:21, “For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.” Every book of the Bible—though written by many different people in many different places over a long period of time—tells one perfectly unified story because its author is God himself. Every word of the Bible is “breathed out” by God (2 Timothy 3:16) and is therefore holy, without error, and perfectly true.</p>",
             "align_text": "left",
@@ -377,6 +378,7 @@
         "question_WtaAwV": {
           "type": "faq",
           "settings": {
+            "css-class": "",
             "question": "Why did you say above that the Bible has 66 books and not 73 like the Catholic Bible?",
             "answer": "<p>The doctrine of which books actually belong in the Bible is called canonicity. We could spend hours diving into this doctrine, but in this Bible Toolkit, we’ll offer a simple answer that we hope will get to the heart of the issue. In his earthly ministry, Jesus <em>affirmed</em> the Old Testament and <em>authorized</em> his apostles to write the New Testament. We believe in the absolute authority of Jesus, and we therefore affirm what he affirmed. </p><p>A study of the four gospel accounts in Scripture reveals Jesus affirmed the whole of the Old Testament (Matthew 5:17-18). He affirmed it as a reliable record of history (cf. Matthew 10:15; 19:3-5; 12:40; 24:38-39) and prophetic accuracy (Matthew 26:54). He affirmed it as sufficient (Luke 16:31), unified (Luke 24:27,44), without error (Matthew 22:29; John 17:17), infallible (John 10:35), and authoritative (Matthew 21:13, 16, 42). History also shows that first century Jews did not consider the Apocryphal writings to be canonical Scripture, and neither did Jesus. He never affirmed or even cited the Apocryphal writings. </p><p></p><p><em>For more information on this topic, see </em><a href=\"https://blog.tms.edu/why-these-66-books\" target=\"_blank\" title=\"https://blog.tms.edu/why-these-66-books\"><em>this article</em></a><em>.</em></p>",
             "align_text": "left",
@@ -387,6 +389,7 @@
         "question_yarFDX": {
           "type": "faq",
           "settings": {
+            "css-class": "",
             "question": "Isn't the Bible boring?",
             "answer": "<p>The Bible—God’s written words to us—is the primary way in which he has chosen to reveal himself to us. It is literally God’s letter to us. Imagine the feeling of receiving a letter in the mail from someone you love dearly. Are you excited to open and read it? Or does it evoke feelings of boredom? Our view of Scripture is directly related to our view of God. When our minds and hearts are aligned with the reality that God is our loving Father who desires to commune with us through his Word, it comes alive! </p><p>A couple practical ways of engaging with Scripture: read a modern translation that you understand well and journal as you read. As you journal, try to answer the following questions:</p><p>1. What does this text reveal about God?</p><p>2. How am I to live in light of that?</p><p></p><p><em>Check out our WHEN article \"</em><a href=\"https://hosannarevival.blog/when-the-bible-doesnt-feel-exciting/\" target=\"_blank\" title=\"When the Bible Doesn't Feel Exciting, a Hosanna Revival Article\"><em>When the Bible Doesn't Feel Exciting</em></a><em>\"</em></p>",
             "align_text": "left",
@@ -397,6 +400,7 @@
         "question_ziFqqA": {
           "type": "faq",
           "settings": {
+            "css-class": "",
             "question": "What if I think some of the Bible is true, but not all of it?",
             "answer": "<p>For many, many years, secular non-scholars have tried to spread a misconception about the authenticity and truthfulness of Scripture. However, this is simply not true. Of all the manuscripts available to us, the margin of error is less than 1%, and even then, the discrepancies do not in any way give any confusion to the meaning of the text or change the doctrine of Scripture. As a matter of fact, as more manuscripts of Bible texts are discovered, they continue to prove the accuracy of Scripture over and over again. The author of Proverbs is absolutely correct when he says, “Every word of God is true” (Proverbs 30:5).</p>",
             "align_text": "left",
@@ -407,6 +411,7 @@
         "question_TaRnTH": {
           "type": "faq",
           "settings": {
+            "css-class": "",
             "question": "What if I find the Bible to be too complex or hard to understand?",
             "answer": "<p>The Bible is a complex book containing deep, rich truths. But it is not unknowable. In fact, one way the Holy Spirit of God ministers to us is opening our eyes to understand the beauty and truth in the Word of God. God does not withhold good from his children, and that includes the Holy Spirit (Ephesians 1:13). If you belong to Jesus, the Holy Spirit lives in you, and will “guide you into all truth” (John 16:13). There are hard things in Scripture, but we’re never meant to understand them all on our own. A couple tips:</p><p>Find a friend to study the Bible with. </p><p>A study Bible is a great help in understanding difficult passages.</p><p>Pray! Psalm 119:18 is a wonderful prayer for each time you open the Bible: “Open my eyes, that I may behold wondrous things out of your law.”</p><p>The Holy Spirit of God authored the Bible. He is willing and ready to help you understand it.</p><p></p><p><em>For a highly literal translation, we recommend </em><a href=\"https://hosannarevival.com/collections/beautiful-bibles/esv\" target=\"_blank\" title=\"https://hosannarevival.com/collections/beautiful-bibles/esv\"><em>the ESV</em></a><em>. For something a little easier to read without sacrificing accuracy, we recommend </em><a href=\"https://hosannarevival.com/collections/beautiful-bibles/csb\" target=\"_blank\" title=\"https://hosannarevival.com/collections/beautiful-bibles/csb\"><em>the CSB</em></a><em>.</em></p>",
             "align_text": "left",
@@ -417,6 +422,7 @@
         "question_pfXcjn": {
           "type": "faq",
           "settings": {
+            "css-class": "",
             "question": "What if I don't have time to read the Bible?",
             "answer": "<p>Sometimes, the Bible seems like an unclimbable mountain of 66 books divided into 1,189 chapters. We can discourage ourselves by thinking we have to read a certain amount every time we open it, or that we have to read through the Bible at least once every year. Those aren’t bad things—spiritual discipline is very important in the life of the Christian. In fact, a simple 15 minutes of daily reading will get you through the whole Bible in a year. However, even though that’s a small time commitment, many us still find ourselves saying we “don’t have enough time.” If we’re honest with ourselves, however, we would probably admit that we don’t actually need more time; we simply need to better prioritize the time we have.</p><p>If we truly believe God is who he says he is and that the Bible truly is God’s Word, we will rearrange our priorities around God, rather than giving him what’s left. Below you will find many practical tips for diving into the Word of God that can spur you on to make space for God's Word.</p><p><em>Check out our WHEN article \"</em><a href=\"https://hosannarevival.blog/when-reading-the-bible-isnt-a-priority/\" target=\"_blank\" title=\"When Reading the Bible is Hard to Prioritize, an article by Hosanna Revival\"><em>When Reading the Bible is Hard to Prioritize</em></a><em>\"</em></p>",
             "align_text": "left",
@@ -511,7 +517,7 @@
             "color_bg": "#ffffff",
             "color_text": "#000000",
             "space_above": 75,
-            "space_below": 75,
+            "space_below": 5,
             "heading": "How to Choose Your Translation",
             "enlarge_text": false,
             "text": "<p>ESV, CSB, NLT—all these names can feel like a jumble of letters, but behind each of them is a specific approach to translating the original texts of the Bible into English that provides a variety of options when choosing your Bible translation. Below are three main points along the spectrum of Bible translations.</p>",
