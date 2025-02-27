@@ -166,39 +166,39 @@
     },
     "image_row_QnUHRN": {
       "type": "image-row",
-      "blocks": {
-        "image_YNxrzi": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_Pj7HXE": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_UXJ3Jm": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+ "blocks": {
+  "image_1": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Beautiful-Bibles-Hosanna-Revival.jpg",
+      "caption": "",
+      "link": "shopify://pages/beautiful-bibles"
+    }
+  },
+  "image_2": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/5-Year-Prayer-Journal-Hosanna-Revival.jpg",
+      "caption": "",
+      "link": "shopify://pages/your-one-thing-i-ask-journal"
+    }
+  },
+  "image_3": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/The-Hosanna-Revival-Planner.jpg",
+      "caption": "",
+      "link": "shopify://pages/planners"
+    }
+  },
+},
       "block_order": [
-        "image_YNxrzi",
-        "image_Pj7HXE",
-        "image_UXJ3Jm"
+        "image_1",
+        "image_2",
+        "image_3"
       ],
       "settings": {
         "title": "",
@@ -209,39 +209,39 @@
     },
     "image_row_ktNm49": {
       "type": "image-row",
-      "blocks": {
-        "image_iRMArf": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_dEzYaJ": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_pbaBP3": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_1": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Devotional-Library-Hosanna-Revival.jpg",
+      "caption": "Devotional Library",
+      "link": "shopify://pages/devotionals"
+    }
+  },
+  "image_2": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Intentional-Notebooks-Hosanna-Revival.jpg",
+      "caption": "Intentional Notebooks",
+      "link": "shopify://collections/notebooks"
+    }
+  },
+  "image_3": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Tiny-Tools-Accessories-Hosanna-Revival.jpg",
+      "caption": "Tiny Tools & Accessories",
+      "link": "shopify://collections/accessories"
+    }
+  },
+},
       "block_order": [
-        "image_iRMArf",
-        "image_dEzYaJ",
-        "image_pbaBP3"
+        "image_1",
+        "image_2",
+        "image_3"
       ],
       "settings": {
         "title": "",
@@ -249,7 +249,83 @@
         "enable_spacing": true,
         "enable_zoom": false
       }
-    }
+    },
+             "45a991d4-3f0a-4d3a-906e-9fdfd62cb826": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0484.jpg",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "A Beautiful Bible",
+              "text": "<p><em>For the one who…</em></p><ul><li>Is new to God’s Word and about to experience it’s beauty for the first time</li><li>Has lost her desire to read the Bible but longs to feel that again</li><li>Wants Scripture to feel personal to her</li></ul><p></p>",
+              "button_label": "Choose for my Wishlist",
+              "button_link": "shopify://pages/beautiful-bibles",
+              "layout": "left"
+            }
+          },
+          "762700ca-0df8-49aa-9d74-ce790794a71a": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1112.jpg",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "The Five-Year Prayer Journal",
+              "text": "<p><em>For the one who…</em></p><ul><li>Is looking to reignite her prayer life</li><li>Desires to keep a record of God’s faithfulness</li><li>Would cherish an heirloom tool that lasts for years</li></ul><p></p>",
+              "button_label": "Choose for My Wishlist",
+              "button_link": "shopify://pages/your-one-thing-i-ask-journal",
+              "layout": "right"
+            }
+          },
+          "cc2f3b54-507f-43f0-b1b4-3d4432ac586c": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/2024-Academic-Planner-Beautiful-Floral-Studio-Hosanna-Revival-626.jpg",
+              "image_width":"50",
+              "subtitle": "",
+              "title": "The Hosanna Revival Planner",
+              "text": "<p><em>For the one who…</em></p><ul><li>Is feeling behind on her to-dos and needs a physical space to sort them out</li><li>Love organization and making tons of checklists</li><li>Already has a planner but need a fresh start</li></ul><p></p>",
+              "button_label": "Choose for My Wishlist",
+              "button_link": "shopify://pages/planners",
+              "layout": "left"
+            }
+          },
+          "1822eac3-5c30-46c8-aa39-59b5df5e5dd4": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1184.jpg",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "A Hosanna Revival Devotional",
+              "text": "<p><em>For the one who…</em></p><ul><li>Is struggling with something specific in this season</li><li>Needs a small, bite-sized breakdown of Scripture</li><li>Wants to study through a specific book of Scripture</li></ul><p></p>",
+              "button_label": "Choose for My Wishlist",
+              "button_link": "shopify://pages/devotionals",
+              "layout": "right"
+            }
+          },
+          "6ea162b1-faee-4694-9c6c-a18eeb5e470c": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0017.jpg",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "Gifts Under $50",
+              "text": "<p><em>For the one who…</em></p><ul><li>Needs a tiny reminder of truth</li><li>Wants to share something small with many friends</li><li>Already has everything Hosanna Revival-themed</li></ul><p></p>",
+              "button_label": "Choose for My Wishlist",
+              "button_link": "shopify://collections/accessories",
+              "layout": "left"
+            }
+          },
+          "c5b3e24f-210b-42f2-82e4-5a07cba36016": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Build My Wishlist",
+              "button_link": "shopify://collections",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -259,6 +335,12 @@
     "80f23223-23ee-4ff3-8d27-6d83897d36a9",
     "rich_text_kWjiWa",
     "image_row_QnUHRN",
-    "image_row_ktNm49"
+    "image_row_ktNm49",
+     "45a991d4-3f0a-4d3a-906e-9fdfd62cb826",
+    "762700ca-0df8-49aa-9d74-ce790794a71a",
+     "cc2f3b54-507f-43f0-b1b4-3d4432ac586c",
+    "1822eac3-5c30-46c8-aa39-59b5df5e5dd4",
+    "6ea162b1-faee-4694-9c6c-a18eeb5e470c",
+     "c5b3e24f-210b-42f2-82e4-5a07cba36016"
   ]
 }
