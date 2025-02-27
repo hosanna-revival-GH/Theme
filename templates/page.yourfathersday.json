@@ -11,13 +11,86 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_9h4HYL": {
+      "type": "slideshow",
+      "blocks": {
+        "image_39QpcX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "FATHER'S DAY",
+            "title_size": 72,
+            "subheading": "Your gifts for men",
+            "link": "shopify://collections/gifts-for-men",
+            "link_text": "Shop gifts for men",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/FD-landingpage.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_39QpcX"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_xgdjGx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6wxUHV": {
+          "type": "heading",
+          "settings": {
+            "title": "YOUR HOME FOR BEAUTIFUL BIBLES"
+          }
+        },
+        "text_xQNFVE": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We create tools to excite you and your loved ones about engaging in Scripture. This Father's Day, give the gift of Scripture to the father in your life to revive his excitement about engaging in God’s Word</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_6wxUHV",
+        "text_xQNFVE"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_9h4HYL",
+    "rich_text_xgdjGx"
   ]
 }
