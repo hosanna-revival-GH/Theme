@@ -704,6 +704,10 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "combined-content-section-2": {
+      "type": "toolkit",
+      "settings": {}
     }
   },
   "order": [
@@ -725,6 +729,7 @@
     "slideshow_ALxDL6",
     "rich_text_rKMDce",
     "combined-content-section-1",
-    "text_columns_jCgwVL"
+    "text_columns_jCgwVL",
+    "combined-content-section-2"
   ]
 }
