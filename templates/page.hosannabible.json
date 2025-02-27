@@ -89,48 +89,48 @@
     },
     "text_columns_tpTUE6": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_GUF6xj": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_NPjqTA": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_tmRikH": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/marloicon.png",
+      "image_width": 200,
+      "title": "40+ beautiful designs",
+      "text": "<p>Whether you're a minimalist, a floral gal, or a landscape-lover, our beautiful covers are intentionally designed to lead you to the beauty within. </p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/MarloOpen.png",
+      "image_width": 200,
+      "title": "spacious journaling margins",
+      "text": "<p>Apart from our Study Bibles, all of our Bibles include ample space to take notes, annotate Scripture, and dive deeper into the Word. </p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/PaintingIcon.png",
+      "image_width": 200,
+      "title": "featuring hand-painted artwork",
+      "text": "<p>Each Hosanna Revival design is originally hand-painted by our founder, Katie, and then carefully recreated to be printed onto our Bibles. </p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_GUF6xj",
-        "text_block_NPjqTA",
-        "text_block_tmRikH"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
@@ -200,8 +200,8 @@
     "single_button_yNcDNy": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
+        "button_text": "SHOP BIBLES",
+        "button_link": "shopify://collections/beautiful-bibles",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
@@ -210,48 +210,48 @@
     },
     "text_columns_g849BT": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_WbEqmR": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_GwU7Qk": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_ckVBeE": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>Absolutely Stunning<br/>This is the most beautiful Bible I've ever owned. I'm getting back into reading the Word for the first time in years, and I feel so excited and happy every time I take out my Bible.<br/><em>- Karley</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>My Most Favorite Bible I’ve Ever Owned<br/>This business is like no other. Their mission is to “excite women about engaging in Scripture by creating beautiful and intentional tools for their lives,” and that is exactly the experience I've had with this brand.<br/><em>- Allyson</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>Worth the Wait<br/>This Bible is everything I was hoping for. I’ve received so many questions & compliments on it & I’m always delighted to share where I purchased it from :)<br/><em>- Vanessa</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_WbEqmR",
-        "text_block_GwU7Qk",
-        "text_block_ckVBeE"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "What People Are Saying:",
