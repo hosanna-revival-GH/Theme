@@ -86,11 +86,39 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+             "55af2c4f-aa33-4c8a-af3c-14c4fc228f16": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0441.jpg",
+              "image_width": "50",
+              "subtitle": "What type of gifter are you?",
+              "title": "You’re an intentional gifter if...",
+              "text": "<ul><li>You think carefully about what to gift to whom</li><li>You have a passion for gathering meaningful gifts</li><li>You have an eye for beauty</li></ul><p>If you love pouring intention into your gifts, then this wishlist is for you! Build your list for yourself or a friend.</p>",
+              "button_label": "Tips to Gift Intentionally",
+              "button_link": "shopify://pages/gift-intentionally-christmas",
+              "layout": "left"
+            }
+          },
+          "80f23223-23ee-4ff3-8d27-6d83897d36a9": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/My-Hosanna-Revival-Wishlist-2023.png",
+              "image_width": "50",
+              "subtitle": "Let's make this fun",
+              "title": "Build Your Wishlist",
+              "text": "<p>To make this fun, we made a little wishlist for you to fill out. Download this free graphic to post on Instagram and tag your dream intentional gifts (and tag us too!). We can't wait to see what you dream up!</p>",
+              "button_label": "Download the Wishlist",
+              "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/My-Hosanna-Revival-Wishlist-2023.png?v=1699496200",
+              "layout": "right"
+            }
+          },
   },
   "order": [
     "main",
     "slideshow_DiDgF9",
-    "rich_text_47pm94"
+    "rich_text_47pm94",
+    "55af2c4f-aa33-4c8a-af3c-14c4fc228f16",
+    "80f23223-23ee-4ff3-8d27-6d83897d36a9"
   ]
 }
