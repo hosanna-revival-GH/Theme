@@ -11,13 +11,108 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_kfpH4J": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aN6ifr": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Rooted to Rise",
+            "title_size": 80,
+            "subheading": "A Devotional about Growing in Christ for High School Girls",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-001.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aN6ifr"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_gC6JHb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4mtfdM": {
+          "type": "heading",
+          "settings": {
+            "title": "Learning to Live Boldly as you grow in your faith"
+          }
+        },
+        "text_UncMQr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Rooted to Rise</em> is for any high school girl who desires to grow in their faith. Through the practice of reading God’s Word, journaling, and spending intentional time in prayer, this devotional will help establish daily rhythms with the Lord.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_FDrG9R": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Written by Haley Crabtree, this 10-week study will help guide high school girls on how to live boldly as they grow in their faith. From identity to social media, and gossip to waiting patiently, high schoolers around the world can come together to realize they are “in this together”. And, not only are they in this together, God is with them in this rollercoaster of a season. He is always with us and desires for every high school girl to draw near to him. May <em>Rooted to Rise</em> be a catalyst to the act of meeting with Jesus daily.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_4mtfdM",
+        "text_UncMQr",
+        "text_FDrG9R"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_MNazNh": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=41540615438514&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 30
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_kfpH4J",
+    "rich_text_gC6JHb",
+    "single_button_MNazNh"
   ]
 }
