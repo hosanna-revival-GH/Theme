@@ -941,48 +941,45 @@
     },
     "text_columns_r8JV6r": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_pxKfAt": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_pjfrhn": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_dQJgzz": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_10": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "My FAVORITE planner!",
+      "text": "<p>Each month has a beautiful bible verse to help motivate you and inspire you!!! A sweet reminder that the Lord is with us daily!<br/><em>— Ashley —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_11": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "A Planner I Actually Want to Use",
+      "text": "<p>The Scripture, writing prompts at the beginning of each month, and banner word for the week have grown my passion for Scripture. I feel calmer writing in this planner because of the Scripture aspects.<br/><em>— Hannah —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_12": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Best Planner Ever",
+      "text": "<p>I usually feel overwhelmed looking at my schedule but the planner has helped so much and allowed me to dwell on truth, beauty, and good with the added verses.<br/><em>— Emily —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_pxKfAt",
-        "text_block_pjfrhn",
-        "text_block_dQJgzz"
+        "text_block_10",
+        "text_block_11",
+        "text_block_12"
       ],
       "settings": {
         "title": "",
