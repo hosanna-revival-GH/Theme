@@ -524,44 +524,47 @@
     },
     "text_columns_BQGmdg": {
       "type": "text-columns",
-"blocks": {
-  "text_block_40": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-006.jpg",
-      "image_width": 650,
-      "title": "To the One Suffering",
-      "text": "<p>If you are walking through a season of suffering right now—this is for YOU.</p>",
-      "button_label": "Watch this Video",
-      "button_link": "https://www.instagram.com/tv/CN2wKzMBuwy/"
-    }
-  },
-  "text_block_41": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-004.jpg",
-      "image_width": 650,
-      "title": "To the one walking alongside the suffering",
-      "text": "<p>Whether you have a friend struggling with infertility, a family member with a scary diagnosis, or a loved one struggling with anxiety, walking with the suffering is a profound work...</p>",
-      "button_label": "Watch This Video",
-      "button_link": "https://www.instagram.com/tv/COK_mTeB0Gq/"
-    }
-  },
-  "text_block_42": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-005.jpg",
-      "image_width": 650,
-      "title": "Why \"songs\" for the suffering",
-      "text": "<p>When you think about your suffering, the last thing that comes to mind would be a “song”.</p>",
-      "button_label": "Watch This Video",
-      "button_link": "https://www.instagram.com/tv/COS45PzhTim/"
-    }
-  }
-},
+      "blocks": {
+        "text_block_40": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-006.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "To the One Suffering",
+            "text": "<p>If you are walking through a season of suffering right now—this is for YOU.</p>",
+            "button_label": "Watch this Video",
+            "button_link": "https://www.instagram.com/tv/CN2wKzMBuwy/"
+          }
+        },
+        "text_block_41": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-004.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "To the one walking alongside the suffering",
+            "text": "<p>Whether you have a friend struggling with infertility, a family member with a scary diagnosis, or a loved one struggling with anxiety, walking with the suffering is a profound work...</p>",
+            "button_label": "Watch This Video",
+            "button_link": "https://www.instagram.com/tv/COK_mTeB0Gq/"
+          }
+        },
+        "text_block_42": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-005.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Why \"songs\" for the suffering",
+            "text": "<p>When you think about your suffering, the last thing that comes to mind would be a “song”.</p>",
+            "button_label": "Watch This Video",
+            "button_link": "https://www.instagram.com/tv/COS45PzhTim/"
+          }
+        }
+      },
       "block_order": [
         "text_block_40",
         "text_block_41",
@@ -575,44 +578,47 @@
     },
     "text_columns_zRBtLr": {
       "type": "text-columns",
- "blocks": {
-  "text_block_43": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-033.jpg",
-      "image_width": 650,
-      "title": "How to Use this Devotional",
-      "text": "<p>This one minute video shows the author Julia’s intention for this study and a little peek at the inside of this beautiful tool.</p>",
-      "button_label": "watch this video",
-      "button_link": "https://www.instagram.com/tv/COBQs1ZhZsL/"
-    }
-  },
-  "text_block_44": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/SFTS-Group-Study.jpg",
-      "image_width": 650,
-      "title": "Is this a Group Study?",
-      "text": "<p>If you’re suffering or walking through suffering with someone near to you—this study will be a safe and slow space to work through your pain—alongside of someone you love.</p>",
-      "button_label": "watch this video",
-      "button_link": "https://www.instagram.com/tv/COkb4yjBdKw/"
-    }
-  },
-  "text_block_45": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-026.jpg",
-      "image_width": 650,
-      "title": "WHEN",
-      "text": "<p>If you have questions about how to hold your specific experience of suffering up to the light of Scripture, browse our online publication <em>WHEN</em>. These brief articles gently touch upon a diverse range of topics and provide further guidance.</p>",
-      "button_label": "Browse WHEN",
-      "button_link": "https://hosannarevival.blog/"
-    }
-  }
-},
+      "blocks": {
+        "text_block_43": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-033.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "How to Use this Devotional",
+            "text": "<p>This one minute video shows the author Julia’s intention for this study and a little peek at the inside of this beautiful tool.</p>",
+            "button_label": "watch this video",
+            "button_link": "https://www.instagram.com/tv/COBQs1ZhZsL/"
+          }
+        },
+        "text_block_44": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFTS-Group-Study.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Is this a Group Study?",
+            "text": "<p>If you’re suffering or walking through suffering with someone near to you—this study will be a safe and slow space to work through your pain—alongside of someone you love.</p>",
+            "button_label": "watch this video",
+            "button_link": "https://www.instagram.com/tv/COkb4yjBdKw/"
+          }
+        },
+        "text_block_45": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-026.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "WHEN",
+            "text": "<p>If you have questions about how to hold your specific experience of suffering up to the light of Scripture, browse our online publication <em>WHEN</em>. These brief articles gently touch upon a diverse range of topics and provide further guidance.</p>",
+            "button_label": "Browse WHEN",
+            "button_link": "https://hosannarevival.blog/"
+          }
+        }
+      },
       "block_order": [
         "text_block_43",
         "text_block_44",
@@ -622,6 +628,41 @@
         "title": "",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "slideshow_z6NbVJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GCMeWN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-007_6b8f2f98-02bc-42b3-9dcc-82a594d8b85d.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_GCMeWN"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -643,6 +684,7 @@
     "slideshow_BYN9tp",
     "rich_text_x8FDHK",
     "text_columns_BQGmdg",
-    "text_columns_zRBtLr"
+    "text_columns_zRBtLr",
+    "slideshow_z6NbVJ"
   ]
 }
