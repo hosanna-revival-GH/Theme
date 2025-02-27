@@ -24,15 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "title": "How to gift a loaded bible",
+            "title_size": 72,
+            "subheading": "Fill a beautiful Bible to gift intentionally",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0453.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -57,14 +58,14 @@
         "heading_AVxkdU": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "HOW TO GIFT A LOADED BIBLE"
           }
         },
         "text_tBkahq": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><em>Gift a beautiful Bible with thought, prayer, and a few tips taped within</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -73,7 +74,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Opening the Bible can be overwhelming. If you are gifting a Bible to a friend or family member who isn’t familiar with its stories or how to read it, a loaded Bible can be the perfect way to bridge that gap and equip them to feel more comfortable and encouraged to read their new Bible—God’s Word will accomplish the rest! </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -93,111 +94,255 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "text_and_image_7RzYAg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-002.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "1",
+        "title": "Mark the Table of Contents",
+        "text": "<p>Mark the table of contents with washi tape or a bookmark. It will be helpful for a new reader to quickly be able to find that important page.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_qLRQaC": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-005.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "2",
+        "title": "Insert a reading plan",
+        "text": "<p>Find a short reading plan that you like and slip it in the Bible. It’s good to have a guide and somewhere to start! If you need suggestions, <a href=\"https://hosannarevival.com/pages/free-resources\">start here</a>.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_7EQzkV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-007.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "3",
+        "title": "Add reference verses",
+        "text": "<p>Take note of reference verses for specific topics—like stress, anxiety, praise, etc.—and mark them in the back of the Bible.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_iDTc3p": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-011.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "4",
+        "title": "Mark your favorite passages",
+        "text": "<p>Mark a few verses—on separate paper—in the Bible margins. The key tip is to do it on sticky notes or a different piece of paper and tape it in so that you can leave all of the actual journaling to the future owner. This gives them the freedom to underline and discover Scripture for themselves!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_XCFCRj": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-015.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "5",
+        "title": "Write a sweet note",
+        "text": "<p>Write a thoughtful note on the inside cover! Encouragement in the faith from a friend goes such a long way. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_3mCDH6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-016.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "6",
+        "title": "Pray over the Bible",
+        "text": "<p>Pray that God’s Word would accomplish its purpose in their heart. Truly God delights to answer this prayer!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_CkMPEM": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-001.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "7",
+        "title": "Gift the Loaded Bible",
+        "text": "<p>Last of all, gift the finished loaded Bible! We hope this encourages you to set aside some extra time to intentionally equip the people in your life to draw near to Scripture. We’re cheering you on as you gift!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_4xqbCp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9FtmMW": {
+          "type": "heading",
+          "settings": {
+            "title": "Perfect additions to Your Loaded Bible"
+          }
+        },
+        "text_RHyEaW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Add even more intentionality to your  Loaded Bible with these beautiful tools</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9FtmMW",
+        "text_RHyEaW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
         "space_below": 75
       }
     },
-     "text_and_image_7RzYAg": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-002.jpg",
-              "image_width": "50",
-              "subtitle": "1",
-              "title": "Mark the Table of Contents",
-              "text": "<p>Mark the table of contents with washi tape or a bookmark. It will be helpful for a new reader to quickly be able to find that important page.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "text_and_image_qLRQaC": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-005.jpg",
-              "image_width": "50",
-              "subtitle": "2",
-              "title": "Insert a reading plan",
-              "text": "<p>Find a short reading plan that you like and slip it in the Bible. It’s good to have a guide and somewhere to start! If you need suggestions, <a href=\"https://hosannarevival.com/pages/free-resources\">start here</a>.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_7EQzkV": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-007.jpg",
-              "image_width": "50",
-              "subtitle": "3",
-              "title": "Add reference verses",
-              "text": "<p>Take note of reference verses for specific topics—like stress, anxiety, praise, etc.—and mark them in the back of the Bible.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "text_and_image_iDTc3p": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-011.jpg",
-              "image_width": "50",
-              "subtitle": "4",
-              "title": "Mark your favorite passages",
-              "text": "<p>Mark a few verses—on separate paper—in the Bible margins. The key tip is to do it on sticky notes or a different piece of paper and tape it in so that you can leave all of the actual journaling to the future owner. This gives them the freedom to underline and discover Scripture for themselves!</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_XCFCRj": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-015.jpg",
-              "image_width": "50",
-              "subtitle": "5",
-              "title": "Write a sweet note",
-              "text": "<p>Write a thoughtful note on the inside cover! Encouragement in the faith from a friend goes such a long way. </p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "text_and_image_3mCDH6": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-016.jpg",
-              "image_width": "50",
-              "subtitle": "6",
-              "title": "Pray over the Bible",
-              "text": "<p>Pray that God’s Word would accomplish its purpose in their heart. Truly God delights to answer this prayer!</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_CkMPEM": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-001.jpg",
-              "image_width": "50",
-              "subtitle": "7",
-              "title": "Gift the Loaded Bible",
-              "text": "<p>Last of all, gift the finished loaded Bible! We hope this encourages you to set aside some extra time to intentionally equip the people in your life to draw near to Scripture. We’re cheering you on as you gift!</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
+    "rich_text_rVnGnm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zkLMGQ": {
+          "type": "heading",
+          "settings": {
+            "title": "1"
           }
+        },
+        "text_G3AQjg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Choose the beautiful Bible <br/>you will gift.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_zkLMGQ",
+        "text_G3AQjg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#e8e8e1",
+        "color_text": "#475a41",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_XpDB3a": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".section-header {margin-top: 35px;}"
+      ],
+      "settings": {
+        "title": "Beautiful Bibles",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
     "slideshow_pUm69E",
     "rich_text_8NfbGA",
-                  "text_and_image_7RzYAg",
-          "text_and_image_qLRQaC",
-          "text_and_image_7EQzkV",
-          "text_and_image_iDTc3p",
-          "text_and_image_XCFCRj",
-          "text_and_image_3mCDH6",
-          "text_and_image_CkMPEM",
+    "text_and_image_7RzYAg",
+    "text_and_image_qLRQaC",
+    "text_and_image_7EQzkV",
+    "text_and_image_iDTc3p",
+    "text_and_image_XCFCRj",
+    "text_and_image_3mCDH6",
+    "text_and_image_CkMPEM",
+    "rich_text_4xqbCp",
+    "rich_text_rVnGnm",
+    "featured_collection_XpDB3a"
   ]
 }
