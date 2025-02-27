@@ -219,41 +219,44 @@
     },
     "text_columns_3JVi6a": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "BEAUTIFUL DEVOTIONAL",
-      "text": "<p>\"It is a wonderful blend of engaging storytelling, time for reflection, and incorporation of scripture. I recommend this devotional to everyone.\"</p><p>—Katie—</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "GREAT EYE-OPENER",
-      "text": "<p>\"Reading through the chapters I realized I had been holding onto a lot more than I thought I had been in my everyday life. I would recommend buying this and really dive in deep to what you aren't surrendering over to the Lord.\"</p><p>—Cynthia Hope—</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "LOVED IT",
-      "text": "<p>\"This devotional is amazing. I purchased one for myself & my best friend, we read them separately but discuss what we've learned & how we responded to the questions.\"</p><p>—Tanya—</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "BEAUTIFUL DEVOTIONAL",
+            "text": "<p>\"It is a wonderful blend of engaging storytelling, time for reflection, and incorporation of scripture. I recommend this devotional to everyone.\"</p><p>—Katie—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "GREAT EYE-OPENER",
+            "text": "<p>\"Reading through the chapters I realized I had been holding onto a lot more than I thought I had been in my everyday life. I would recommend buying this and really dive in deep to what you aren't surrendering over to the Lord.\"</p><p>—Cynthia Hope—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "LOVED IT",
+            "text": "<p>\"This devotional is amazing. I purchased one for myself & my best friend, we read them separately but discuss what we've learned & how we responded to the questions.\"</p><p>—Tanya—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
@@ -265,30 +268,89 @@
         "divider": false
       }
     },
-            "9fe31f40-0589-42b9-9cc7-57a462938eae": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Parking-Garage-Snow-P-032_bd64f852-63b0-4784-9ce9-2d7ff51e012e.jpg",
-              "image_width": "50",
-              "subtitle": "Sneak Peek",
-              "title": "A Note from author Ness Cannon",
-              "text": "<p>“You brave and beautiful humans, I’m so glad you are here with me. I want you to know that I’ve thought about you, prayed for you, and sweated it out trying to honor you with this little devotional. </p><p>When I was a kid, I loved to swing at the playground. And when I thought I couldn’t go any higher, I’d count to three and jump off. Letting go meant I didn’t have the safety of the swing anymore. Letting go meant I wasn’t in control. But letting go also meant I was really flying. </p><p>Jesus understands letting go; he can lead us there. Let's loosen our grip on the swing. One, two, three, let's jump...”</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "6574595d-89d7-4182-b563-6ddb8cbc74bf": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Buy Now",
-              "button_link": "https://hosannarevival.com/cart/add?id=38018507899058&quantity=1",
-              "button_size": "huge"
-            }
-          },
+    "9fe31f40-0589-42b9-9cc7-57a462938eae": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Parking-Garage-Snow-P-032_bd64f852-63b0-4784-9ce9-2d7ff51e012e.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Sneak Peek",
+        "title": "A Note from author Ness Cannon",
+        "text": "<p>“You brave and beautiful humans, I’m so glad you are here with me. I want you to know that I’ve thought about you, prayed for you, and sweated it out trying to honor you with this little devotional. </p><p>When I was a kid, I loved to swing at the playground. And when I thought I couldn’t go any higher, I’d count to three and jump off. Letting go meant I didn’t have the safety of the swing anymore. Letting go meant I wasn’t in control. But letting go also meant I was really flying. </p><p>Jesus understands letting go; he can lead us there. Let's loosen our grip on the swing. One, two, three, let's jump...”</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "6574595d-89d7-4182-b563-6ddb8cbc74bf": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=38018507899058&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "hero_video_j7kMJ8": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bonus Content",
+        "title_size": 80,
+        "subheading": "For \"I Am Not In Charge\" with author Ness Cannon",
+        "link_text": "Watch this Video",
+        "link": "https://youtu.be/rwIUU3HcqMA",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-left",
+        "video_url": "https://youtu.be/rwIUU3HcqMA",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_m87qYP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jtWBNE": {
+          "type": "heading",
+          "settings": {
+            "title": "This Devotional is for people who…"
+          }
+        },
+        "text_b7RCUT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>(Extended version by author Ness Cannon)</em></p><p>1. Feel guilty after they take a nap.</p><p>2. Think naps are a spiritual practice. </p><p>3. Don’t know how to say no because they just want to help EVERY HUMAN ALIVE.</p><p>4. Have a ten-year-plan for their lives. </p><p>5. Don’t have a 10-minute-plan for their lives.</p><p>6. Cry in the shower. </p><p>7. Think people who cry in the shower are babies.</p><p>8. Can’t let go of that one negative comment.</p><p>9. Think that they are mostly, always, correct.</p><p>10. Feel pressure when they change their bio. </p><p>11. Answer e-mails at 9 pm.</p><p>12. Die a little on the inside when they get an A-</p><p>13. Have 20 unanswered texts on their phone.</p><p>14. Hate looking weak. Ever. </p><p>15. Are a little bit of a perfectionist. Or have more than 3 monogrammed items. (Which may be the same thing?)</p><p>16. Think that God wishes they were doing more. </p><p>17. Wishes that everybody else was doing as much as they are doing.</p><p>18. Have doubts in their faith and feel alone.</p><p>19. Have a hard time prioritizing rest. </p><p>20. Feel like their life is out of control.</p><p>21. Have laminated chore charts.</p><p>22. Secretly judge others without laminated chore charts. </p><p>23. Want practical ways to take steps with Jesus towards self-compassion, connection with others, vulnerability and embracing their own story. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_jtWBNE",
+        "text_b7RCUT"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    }
   },
   "order": [
     "main",
@@ -301,6 +363,8 @@
     "image_row_ffqCkj",
     "text_columns_3JVi6a",
     "9fe31f40-0589-42b9-9cc7-57a462938eae",
-    "6574595d-89d7-4182-b563-6ddb8cbc74bf"
+    "6574595d-89d7-4182-b563-6ddb8cbc74bf",
+    "hero_video_j7kMJ8",
+    "rich_text_m87qYP"
   ]
 }
