@@ -97,56 +97,123 @@
         "space_below": 75
       }
     },
-            "d323dae4-0151-4591-a390-ed81279f6838": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 0,
-              "space_below": 30,
-              "button_text": "Buy Now",
-              "button_link": "https://hosannarevival.com/cart/add?id=38018507899058&quantity=1",
-              "button_size": "huge"
-            }
-          },
-          "e6741a26-db3d-41a5-8601-d5f1eac51e47": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Girls-Individual-P-007.jpg",
-              "image_width": "50",
-              "subtitle": "I AM NOT IN CHARGE",
-              "title": "This Devotional is for you if...",
-              "text": "<p>- You really like to be in charge of things.<br/>- You find it hard to let go.<br/>- You get angry or crushed when things seem to spiral out of control and tend to tighten your grip even more.</p><p><em>If these words resonate, this devotional is for you.</em></p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-i-am-not-in-charge",
-              "layout": "left"
-            }
-          },
-          "7fbf46ab-f942-4287-89c4-ff64de369802": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-021.jpg",
-              "image_width": "50",
-              "subtitle": "THE DETAILS",
-              "title": "I Am Not in Charge",
-              "text": "<p><strong>Topic</strong>: control<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Jesus’ ministry in the gospels</p><p>“Letting go of control isn’t easy, but I’m hoping this journey will help you take steps closer to Jesus as we follow the path he blazed through the Bible to freedom.”<br/><em>—Author Ness Cannon</em></p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-i-am-not-in-charge",
-              "layout": "right"
-            }
-          },
-          "a268fa86-bc02-4a20-8c13-b49973967a0a": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-017.jpg",
-              "image_width": "50",
-              "subtitle": "PEEK INSIDE",
-              "title": "The Devotional Structure",
-              "text": "<p><strong>Structure</strong>: 1 main weekly reading<br/><strong>Elements</strong>: questions, action steps</p><p>Ness interweaves personal stories with Scripture passages into an engaging weekly reading. Each week includes guided questions interspersed throughout the text and end-of-week action steps to help you reflect on what you've read and learned. </p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-i-am-not-in-charge",
-              "layout": "left"
-            }
-          },
+    "d323dae4-0151-4591-a390-ed81279f6838": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=38018507899058&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 30
+      }
+    },
+    "e6741a26-db3d-41a5-8601-d5f1eac51e47": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Girls-Individual-P-007.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "I AM NOT IN CHARGE",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You really like to be in charge of things.<br/>- You find it hard to let go.<br/>- You get angry or crushed when things seem to spiral out of control and tend to tighten your grip even more.</p><p><em>If these words resonate, this devotional is for you.</em></p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-i-am-not-in-charge",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "7fbf46ab-f942-4287-89c4-ff64de369802": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-021.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "THE DETAILS",
+        "title": "I Am Not in Charge",
+        "text": "<p><strong>Topic</strong>: control<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Jesus’ ministry in the gospels</p><p>“Letting go of control isn’t easy, but I’m hoping this journey will help you take steps closer to Jesus as we follow the path he blazed through the Bible to freedom.”<br/><em>—Author Ness Cannon</em></p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-i-am-not-in-charge",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "a268fa86-bc02-4a20-8c13-b49973967a0a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-017.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "PEEK INSIDE",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure</strong>: 1 main weekly reading<br/><strong>Elements</strong>: questions, action steps</p><p>Ness interweaves personal stories with Scripture passages into an engaging weekly reading. Each week includes guided questions interspersed throughout the text and end-of-week action steps to help you reflect on what you've read and learned. </p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-i-am-not-in-charge",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "image_row_ffqCkj": {
+      "type": "image-row",
+      "blocks": {
+        "image_T7HCqm": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_jCaGfE": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_b7fpGR": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_T7HCqm",
+        "image_jCaGfE",
+        "image_b7fpGR"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    }
   },
   "order": [
     "main",
@@ -154,7 +221,8 @@
     "rich_text_DDY8Fa",
     "d323dae4-0151-4591-a390-ed81279f6838",
     "e6741a26-db3d-41a5-8601-d5f1eac51e47",
-      "7fbf46ab-f942-4287-89c4-ff64de369802",
-    "a268fa86-bc02-4a20-8c13-b49973967a0a"
+    "7fbf46ab-f942-4287-89c4-ff64de369802",
+    "a268fa86-bc02-4a20-8c13-b49973967a0a",
+    "image_row_ffqCkj"
   ]
 }
