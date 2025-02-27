@@ -320,7 +320,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
       }
     },
     "slideshow_NEtP87": {
@@ -329,17 +329,17 @@
         "image_TYeAyb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-473.jpg",
             "top_subheading": "",
             "title": "",
             "title_size": 80,
             "subheading": "",
-              "link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
-              "link_text": "shop in weeping and rejoicing",
+            "link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+            "link_text": "shop in weeping and rejoicing",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-473.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -358,17 +358,29 @@
         "lazyload_images": true
       }
     },
-              "single_button_dwk6Cy": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "BACK TO DEVOTIONAL LIBRARY",
-              "button_link": "shopify://pages/devotionals",
-              "button_size": "huge"
-            }
-          },
+    "single_button_dwk6Cy": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BACK TO DEVOTIONAL LIBRARY",
+        "button_link": "shopify://pages/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 60,
+        "space_below": 60
+      }
+    },
+    "featured_collection_wb8PnE": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "shop all devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -385,6 +397,7 @@
     "text_and_image_TnnR6t",
     "single_button_3gmwY3",
     "slideshow_NEtP87",
-    "single_button_dwk6Cy"
+    "single_button_dwk6Cy",
+    "featured_collection_wb8PnE"
   ]
 }
