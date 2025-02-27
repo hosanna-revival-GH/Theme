@@ -329,33 +329,41 @@
         "divider": false
       }
     },
-             "text_and_image_UKwh4Y": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-098.jpg",
-              "image_width": "50",
-              "subtitle": "Can't decide which Bible to buy?",
-              "title": "Choose the Mystery Bible",
-              "text": "<p>With this mystery Bible, we want to offer you the ability to gift our high-quality Bibles at a steep discount. Do you have a friend in mind who would love a beautiful Loaded Bible? Or one who is a new believer and has never owned a Bible of her own? Or maybe you want to stock up on beautiful copies of God’s Word to prepare a loaded Bible to gift to a stranger you encounter? We encourage you to pray and ask God who this Bible would be perfect for. You can start with someone in mind or wait until you receive the mystery Bible to decide. Happy gifting!</p><p><br/></p>",
-              "button_label": "Shop the Mystery Bible",
-              "button_link": "shopify://products/mystery-bible",
-              "layout": "left"
-            }
-          },
-        "rich_text_rVnGnm1": {
+    "text_and_image_UKwh4Y": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-098.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Can't decide which Bible to buy?",
+        "title": "Choose the Mystery Bible",
+        "text": "<p>With this mystery Bible, we want to offer you the ability to gift our high-quality Bibles at a steep discount. Do you have a friend in mind who would love a beautiful Loaded Bible? Or one who is a new believer and has never owned a Bible of her own? Or maybe you want to stock up on beautiful copies of God’s Word to prepare a loaded Bible to gift to a stranger you encounter? We encourage you to pray and ask God who this Bible would be perfect for. You can start with someone in mind or wait until you receive the mystery Bible to decide. Happy gifting!</p><p><br/></p>",
+        "button_label": "Shop the Mystery Bible",
+        "button_link": "shopify://products/mystery-bible",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_rVnGnm1": {
       "type": "rich-text",
       "blocks": {
         "heading_zkLMGQ": {
           "type": "heading",
           "settings": {
-            "title": "1"
+            "title": "2"
           }
         },
         "text_G3AQjg": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Choose the beautiful Bible <br/>you will gift.</em></p>",
+            "text": "<p><em>Decorate the Loaded Bible <br/>with the perfect stickers.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -377,20 +385,35 @@
         "space_below": 75
       }
     },
-          "rich_text_rVnGnm2": {
+    "featured_collection_qQTzVR": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".section-header {margin-top: 35px;}"
+      ],
+      "settings": {
+        "title": "Stickers",
+        "home_featured_products": "stickers",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_rVnGnm2": {
       "type": "rich-text",
       "blocks": {
         "heading_zkLMGQ": {
           "type": "heading",
           "settings": {
-            "title": "1"
+            "title": "3"
           }
         },
         "text_G3AQjg": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Choose the beautiful Bible <br/>you will gift.</em></p>",
+            "text": "<p><em>Write or print out a reading plan or free resource <br/>as a guide for your friend to use.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -412,32 +435,94 @@
         "space_below": 75
       }
     },
-              "text_and_image_DKmH9i": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-581.jpg",
-              "image_width": "50",
-              "subtitle": "Free Resource",
-              "title": "Bible Toolkit",
-              "text": "<p>Our Bible Toolkit, walks through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after the cover is closed. </p>",
-              "button_label": "Download the Bible Toolkit",
-              "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
-              "layout": "right"
-            }
-          },
-          "text_and_image_77h7Hk": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-470.jpg",
-              "image_width": "50",
-              "subtitle": "Free Resource",
-              "title": "Study of John Reading Plan",
-              "text": "<p>If your friend is new to reading the Word, we suggest they start with John, a book at the beginning of the New Testament that details the life of Jesus. Our hope is that this guide will help them ask good questions and look at Scripture a little bit deeper.</p>",
-              "button_label": "Download the reading Plan",
-              "button_link": "shopify://pages/study-of-john",
-              "layout": "left"
-            }
-          },
+    "text_and_image_DKmH9i": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-581.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free Resource",
+        "title": "Bible Toolkit",
+        "text": "<p>Our Bible Toolkit, walks through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after the cover is closed. </p>",
+        "button_label": "Download the Bible Toolkit",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_77h7Hk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-470.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free Resource",
+        "title": "Study of John Reading Plan",
+        "text": "<p>If your friend is new to reading the Word, we suggest they start with John, a book at the beginning of the New Testament that details the life of Jesus. Our hope is that this guide will help them ask good questions and look at Scripture a little bit deeper.</p>",
+        "button_label": "Download the reading Plan",
+        "button_link": "shopify://pages/study-of-john",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_RDMriA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_E9PEDV": {
+          "type": "heading",
+          "settings": {
+            "title": "Interested In more free content?"
+          }
+        },
+        "text_BMdam7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Find more free content to share with the one you're gifting to!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_E9PEDV",
+        "text_BMdam7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_a7DVcz": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click here to find more",
+        "button_link": "shopify://pages/free-resources",
+        "button_size": "medium",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    }
   },
   "order": [
     "main",
@@ -455,8 +540,11 @@
     "featured_collection_XpDB3a",
     "text_and_image_UKwh4Y",
     "rich_text_rVnGnm1",
+    "featured_collection_qQTzVR",
     "rich_text_rVnGnm2",
-     "text_and_image_DKmH9i",
-    "text_and_image_77h7Hk"
+    "text_and_image_DKmH9i",
+    "text_and_image_77h7Hk",
+    "rich_text_RDMriA",
+    "single_button_a7DVcz"
   ]
 }
