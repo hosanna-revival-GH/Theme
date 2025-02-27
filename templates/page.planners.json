@@ -623,41 +623,44 @@
     },
     "text_columns_jCgwVL": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Perfect!",
-      "text": "<p>So easy to use and has more than enough room to write monthly or daily style with other added bonuses.<br/><em>— Aly —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "My Favorite Layout",
-      "text": "<p>It’s not “too” organized where I feel like I’m trying to fit my life into someone else’s schedule, but it’s organized enough where I can keep up with my dates, tasks, and responsibilities.<br/><em>— Madison —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Finally!",
-      "text": "<p>The paper feels great and is not cheap. Amazing craftsmanship and quality for the price!<br/><em>— Jara —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Perfect!",
+            "text": "<p>So easy to use and has more than enough room to write monthly or daily style with other added bonuses.<br/><em>— Aly —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "My Favorite Layout",
+            "text": "<p>It’s not “too” organized where I feel like I’m trying to fit my life into someone else’s schedule, but it’s organized enough where I can keep up with my dates, tasks, and responsibilities.<br/><em>— Madison —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Finally!",
+            "text": "<p>The paper feels great and is not cheap. Amazing craftsmanship and quality for the price!<br/><em>— Jara —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
@@ -667,6 +670,41 @@
         "title": "",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "rich_text_E8WyA7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_M37jLx": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_6N6EG9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_M37jLx",
+        "text_6N6EG9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
       }
     }
   },
@@ -694,6 +732,7 @@
     "ca1e833b-dac5-4489-b06f-fe6a22c00c64",
     "a8361a42-7030-47aa-9ec8-ba37b865b732",
     "ea217336-3d9d-43b8-8b09-f5098a1576be",
-    "text_columns_jCgwVL"
+    "text_columns_jCgwVL",
+    "rich_text_E8WyA7"
   ]
 }
