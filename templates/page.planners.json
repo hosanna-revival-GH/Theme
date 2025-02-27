@@ -877,7 +877,167 @@
     },
     "combined-content-section-4": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "rich_text_AxEJiA": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#6b6e40",
+            "color_text": "#e8e8e1",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Scripture to Guide Your Day",
+            "enlarge_text": true,
+            "text": "<p>Our heart is to create beautiful and intentional tools that excite you to engage in Scripture! What if a new and beautiful planner filled with intentional touches of Scripture would excite you to open up your Bible this year?</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_and_image_KARch8": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-047B.jpg",
+            "image_width": 50,
+            "subtitle": "Scripture-Centered Feature",
+            "title": "Monthly Scripture",
+            "text": "<p>Each month, meditate on a single verse in your monthly intro and calendar spreads. You can doodle around it, take notes, or whatever else you’d prefer to take this verse to heart.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_XhMAaj": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-31.jpg",
+            "image_width": 50,
+            "subtitle": "Scripture-Centered Feature",
+            "title": "A Word for Your Week",
+            "text": "<p>Write down a word of encouragement, an encouraging phrase, or a brief verse from Scripture to focus on each week.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "single_button_fej7hj": {
+          "type": "single-button",
+          "settings": {
+            "secondary": false,
+            "button_text": "Begin Today",
+            "button_link": "shopify://collections/planners",
+            "button_size": "huge",
+            "alignment": "center",
+            "space_above": 0,
+            "space_below": 75
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_AxEJiA",
+        "text_and_image_KARch8",
+        "text_and_image_XhMAaj",
+        "single_button_fej7hj"
+      ],
+      "custom_css": [
+        ".feature-row {max-height: 500px;}"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "text_columns_r8JV6r": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_pxKfAt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_pjfrhn": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_dQJgzz": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_pxKfAt",
+        "text_block_pjfrhn",
+        "text_block_dQJgzz"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_xNtC8h": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LaE4bG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LaE4bG"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -900,6 +1060,8 @@
     "combined-content-section-2",
     "text_columns_JDTgYc",
     "slideshow_6XEVGJ",
-    "combined-content-section-4"
+    "combined-content-section-4",
+    "text_columns_r8JV6r",
+    "slideshow_xNtC8h"
   ]
 }
