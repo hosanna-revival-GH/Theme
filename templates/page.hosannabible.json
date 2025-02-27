@@ -141,8 +141,8 @@
     "single_button_4aqxdi": {
       "type": "single-button",
       "settings": {
-        "button_text": "Click Here",
-        "button_link": "/",
+        "button_text": "SHOP BIBLES",
+        "button_link": "shopify://collections/beautiful-bibles",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
