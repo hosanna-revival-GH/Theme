@@ -674,7 +674,104 @@
     },
     "combined-content-section-1": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "text_and_image_VJHGEN": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_mrQPta": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_BgnQJ4": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_HqW4gB": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_GhmBin": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_AHtFA7": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        }
+      },
+      "block_order": [
+        "text_and_image_VJHGEN",
+        "text_and_image_mrQPta",
+        "text_and_image_BgnQJ4",
+        "text_and_image_HqW4gB",
+        "text_and_image_GhmBin",
+        "text_and_image_AHtFA7"
+      ],
+      "settings": {
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
