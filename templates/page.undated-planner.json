@@ -313,97 +313,111 @@
     "combined-content-section-1": {
       "type": "toolkit",
       "blocks": {
-           "text_and_image_jcRr4x": {
-            "type": "text_and_image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-09.jpg",
-              "image_width": 50,
-              "subtitle": "1",
-              "title": "Open the beautiful Marlo cover.",
-              "text": "<p>We believe beauty can spark a fresh start when you need it most. That’s why we’ve paired our best selling Marlo cover design with the following functional features to stir your excitement to open the front cover and plan your most intentional year yet. This soft leather-like cover was inspired by the dreamy shores of Marlo, an Australian beach town—a perfect place to quiet your soul and meditate on the goodness of God.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "text_and_image_LC3d9F": {
-            "type": "text_and_image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-70.jpg",
-              "image_width": 50,
-              "subtitle": "2",
-              "title": "Set up your monthly “Intro” spread — your fresh start!",
-              "text": "<p>Mark the month you’re beginning in using the sticker sheet in the back or your own handwriting. Each month, meditate on the featured Scripture to remind yourself of the Lord’s guidance throughout your days.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_jDz6Uc": {
-            "type": "text_and_image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-71.jpg",
-              "image_width": 50,
-              "subtitle": "3",
-              "title": "Clear your brain for the weeks ahead using the “Month at a Glance” spread.",
-              "text": "<p>Use this spread to collect your thoughts and set your focus before heading into the month ahead. Return to it when you need to drop a note or sort tasks and topics into weeks.</p><p><em><strong>To the Left:</strong></em> Brain dump all your lists, tasks, and brainstorms for the month and use the “This Month my goals are…” prompt to mark down your resolutions, goals, or priorities.</p><p><em><strong>To the Right:</strong></em> Sort out weekly events, meal plans, or even prayers into this this <em>Week at a Glance</em> page.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "text_and_image_fK7WJj": {
-            "type": "text_and_image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-72.jpg",
-              "image_width": 50,
-              "subtitle": "4",
-              "title": "Fill in the calendar box dates.",
-              "text": "<p>Organize your events and timelines all in one monthly spread and jot down extra notes to the side. If you’re batch filling out the dates in your planner, use a pencil or triple-check your work. And if you mess up, don’t stress—there’s no need for perfection as you plan out your days. </p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_9kHEx7": {
-            "type": "text_and_image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-60.jpg",
-              "image_width": 50,
-              "subtitle": "5",
-              "title": "Begin planning out your busy and beautiful life in the weekly spread.",
-              "text": "<p>Fill your week with beautiful and intentional tasks as you plan out your days in our signature horizontal layout. Use these special features for extra intentionality:</p><p><em><strong>— Week-at-a-Glance Box:</strong></em> Note down whatever helps you plan best!<br/><em><strong>— A Word for Your Week: </strong></em>Jot down a word or phrase to guide your days.<br/><em><strong>— Daily Brainstorm Box:</strong></em> Drop events, tasks, doodles—the options are endless!</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "text_and_image_yHkEki": {
-            "type": "text_and_image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-69.jpg",
-              "image_width": 50,
-              "subtitle": "6",
-              "title": "Return to this planner for the next 12 months—or more!",
-              "text": "<p>One of the biggest perks of our Undated Planner is that you get 12 monthly sections to make your own! So whether you miss a month or want to use a whole section for doodles—you get to fill it out in whatever way helps you plan best!</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_9db763": {
-            "type": "text_and_image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-61.jpg",
-              "image_width": 50,
-              "subtitle": "7",
-              "title": "Enjoy these bonus features.",
-              "text": "<p>These bonus features add to the beauty and intentionality within the layout:</p><p>— Use the sticker sheet in the back (or your handwriting) to mark your months.<br/>— Enjoy the delicate floral art for a minimal design. You are welcome to color these designs in, doodle around them, or simply embrace the empty space.<br/>— Use the magnetic bookmark to mark your spot.<br/>— Jot down thoughts in the extra note pages at the end of each month and in a section at the back.<br/>— Record addresses in the contacts section.<br/>— Tuck away mementos in the pocket folder.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
+        "text_and_image_jcRr4x": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-09.jpg",
+            "image_width": 50,
+            "subtitle": "1",
+            "title": "Open the beautiful Marlo cover.",
+            "text": "<p>We believe beauty can spark a fresh start when you need it most. That’s why we’ve paired our best selling Marlo cover design with the following functional features to stir your excitement to open the front cover and plan your most intentional year yet. This soft leather-like cover was inspired by the dreamy shores of Marlo, an Australian beach town—a perfect place to quiet your soul and meditate on the goodness of God.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_LC3d9F": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-70.jpg",
+            "image_width": 50,
+            "subtitle": "2",
+            "title": "Set up your monthly “Intro” spread — your fresh start!",
+            "text": "<p>Mark the month you’re beginning in using the sticker sheet in the back or your own handwriting. Each month, meditate on the featured Scripture to remind yourself of the Lord’s guidance throughout your days.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_jDz6Uc": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-71.jpg",
+            "image_width": 50,
+            "subtitle": "3",
+            "title": "Clear your brain for the weeks ahead using the “Month at a Glance” spread.",
+            "text": "<p>Use this spread to collect your thoughts and set your focus before heading into the month ahead. Return to it when you need to drop a note or sort tasks and topics into weeks.</p><p><em><strong>To the Left:</strong></em> Brain dump all your lists, tasks, and brainstorms for the month and use the “This Month my goals are…” prompt to mark down your resolutions, goals, or priorities.</p><p><em><strong>To the Right:</strong></em> Sort out weekly events, meal plans, or even prayers into this this <em>Week at a Glance</em> page.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_fK7WJj": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-72.jpg",
+            "image_width": 50,
+            "subtitle": "4",
+            "title": "Fill in the calendar box dates.",
+            "text": "<p>Organize your events and timelines all in one monthly spread and jot down extra notes to the side. If you’re batch filling out the dates in your planner, use a pencil or triple-check your work. And if you mess up, don’t stress—there’s no need for perfection as you plan out your days. </p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_9kHEx7": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-60.jpg",
+            "image_width": 50,
+            "subtitle": "5",
+            "title": "Begin planning out your busy and beautiful life in the weekly spread.",
+            "text": "<p>Fill your week with beautiful and intentional tasks as you plan out your days in our signature horizontal layout. Use these special features for extra intentionality:</p><p><em><strong>— Week-at-a-Glance Box:</strong></em> Note down whatever helps you plan best!<br/><em><strong>— A Word for Your Week: </strong></em>Jot down a word or phrase to guide your days.<br/><em><strong>— Daily Brainstorm Box:</strong></em> Drop events, tasks, doodles—the options are endless!</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_yHkEki": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-69.jpg",
+            "image_width": 50,
+            "subtitle": "6",
+            "title": "Return to this planner for the next 12 months—or more!",
+            "text": "<p>One of the biggest perks of our Undated Planner is that you get 12 monthly sections to make your own! So whether you miss a month or want to use a whole section for doodles—you get to fill it out in whatever way helps you plan best!</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "text_and_image_9db763": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-61.jpg",
+            "image_width": 50,
+            "subtitle": "7",
+            "title": "Enjoy these bonus features.",
+            "text": "<p>These bonus features add to the beauty and intentionality within the layout:</p><p>— Use the sticker sheet in the back (or your handwriting) to mark your months.<br/>— Enjoy the delicate floral art for a minimal design. You are welcome to color these designs in, doodle around them, or simply embrace the empty space.<br/>— Use the magnetic bookmark to mark your spot.<br/>— Jot down thoughts in the extra note pages at the end of each month and in a section at the back.<br/>— Record addresses in the contacts section.<br/>— Tuck away mementos in the pocket folder.</p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
         "single_button_8wfQUj": {
           "type": "single-button",
           "settings": {
@@ -437,7 +451,7 @@
     },
     "text_columns_jCgwVL": {
       "type": "text-columns",
-     "blocks": {
+      "blocks": {
         "text_block_1": {
           "type": "text_block",
           "settings": {
@@ -1086,7 +1100,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 60
+        "space_below": 70
       }
     },
     "slideshow_7tMFxX": {
