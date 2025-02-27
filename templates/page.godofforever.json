@@ -413,7 +413,18 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+              "db02f9a6-7a44-47e4-91d8-6bf5704dcc99": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 0,
+              "space_below": 50,
+              "button_text": "Back to Devotional Library",
+              "button_link": "shopify://pages/devotionals",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -431,6 +442,7 @@
     "846f4bc6-7d79-40ee-9b2d-bb89f9dc1440",
     "e80d8391-baa3-4535-8937-f772e0b0f461",
     "e1aebcfc-d5cd-46ba-b2e7-b49e36c5b3e5",
-    "slideshow_kEkcaW"
+    "slideshow_kEkcaW",
+    "db02f9a6-7a44-47e4-91d8-6bf5704dcc99"
   ]
 }
