@@ -19,7 +19,11 @@
         {% unless rendered_handles contains link_handle %}
           {% assign rendered_handles = rendered_handles | append: link_handle | append: ',' %}
 
-          
+              <div
+              id="{{ location }}-{{ forloop.index }}"
+              class="collapsible-content collapsible-content--sidebar{% unless collapsed_state %} is-open{% endunless %}"
+              {% unless collapsed_state %}style="height: auto;"{% endunless %}>
+              <div class="collapsible-content__inner">
           {% if link.links != blank %}
             <ul class="no-bullets tag-list">
               {% for child_link in link.links %}
@@ -50,6 +54,8 @@
               {% endfor %}
             </ul>
           {% endif %}
+        </div>
+          </div>
         {% endunless %}
       {% endif %}
     {% endfor %}
