@@ -351,30 +351,96 @@
         "space_below": 75
       }
     },
-              "9dea2b89-5a77-4727-ad48-68ed71da7b2e": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "This Is Me",
-              "button_link": "shopify://products/devotional-i-am-not-in-charge",
-              "button_size": "huge"
-            }
-          },
-          "0236f78c-4a0e-4e5c-9343-6a4de2eb8783": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Ness-Cannon-Author-Portraits-I-Am-Not-In-Charge-Devotional-052.jpg",
-              "image_width": "50",
-              "subtitle": "Meet the Author",
-              "title": "Ness Cannon",
-              "text": "<p>Ness is a writer, speaker, teacher, wife, mother of 3, small business owner, designer, pug mom, and perpetual student. Her greatest hope is to remind you that you aren’t alone. God has saved a seat for you at His table and you absolutely belong.</p>",
-              "button_label": "Follow Ness",
-              "button_link": "https://www.instagram.com/nesscannonwrites/",
-              "layout": "left"
-            }
-          },
+    "9dea2b89-5a77-4727-ad48-68ed71da7b2e": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "This Is Me",
+        "button_link": "shopify://products/devotional-i-am-not-in-charge",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "0236f78c-4a0e-4e5c-9343-6a4de2eb8783": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Ness-Cannon-Author-Portraits-I-Am-Not-In-Charge-Devotional-052.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Ness Cannon",
+        "text": "<p>Ness is a writer, speaker, teacher, wife, mother of 3, small business owner, designer, pug mom, and perpetual student. Her greatest hope is to remind you that you aren’t alone. God has saved a seat for you at His table and you absolutely belong.</p>",
+        "button_label": "Follow Ness",
+        "button_link": "https://www.instagram.com/nesscannonwrites/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_3j6Wib": {
+      "type": "slideshow",
+      "blocks": {
+        "image_b6CeGt": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/cart/add?id=38018507899058&quantity=1",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/I-Am-Not-In-Charge-Devo-Pg-001.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_b6CeGt"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "single_button_Q9XafV": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Back to Devotional Library",
+        "button_link": "shopify://collections/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "featured_collection_496YTQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop All Devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -391,6 +457,9 @@
     "hero_video_j7kMJ8",
     "rich_text_m87qYP",
     "9dea2b89-5a77-4727-ad48-68ed71da7b2e",
-    "0236f78c-4a0e-4e5c-9343-6a4de2eb8783"
+    "0236f78c-4a0e-4e5c-9343-6a4de2eb8783",
+    "slideshow_3j6Wib",
+    "single_button_Q9XafV",
+    "featured_collection_496YTQ"
   ]
 }
