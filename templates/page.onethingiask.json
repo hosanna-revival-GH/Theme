@@ -305,7 +305,18 @@
         "enable_spacing": true,
         "enable_zoom": false
       }
-    }
+    },
+              "d22d5746-e5a6-4e81-bcf1-d00972fa5dcc": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "SHOP One Thing I Ask",
+              "button_link": "shopify://collections/one-thing-i-ask",
+              "button_size": "huge"
+            }
+          }
   },
   "order": [
     "main",
@@ -316,6 +327,7 @@
     "featured_collection_63YLHm",
     "38d8ba17-467a-4569-bff3-143e24663586",
     "text_columns_fz4mqT",
-    "image_row_t3HaTA"
+    "image_row_t3HaTA",
+    "d22d5746-e5a6-4e81-bcf1-d00972fa5dcc"
   ]
 }
