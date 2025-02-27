@@ -67,7 +67,7 @@
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "minimal",
         "autoplay": false,
         "autoplay_speed": 5,
@@ -180,7 +180,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Bible tabs are an amazing way to make your Bible feel special to you!<br/>Here are some other ways you can personalize your Bible.</p>",
+            "text": "<p>Bible tabs are an amazing way to make your Bible feel special to you! Explore our <a href=\"/pages/loaded-bible\" title=\"Loaded Bible\">Loaded Bible page</a> to learn more about how to personalize your Bible or a Bible you're gifting!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -202,68 +202,40 @@
         "space_below": 75
       }
     },
-    "featured_collection_jXRLYW": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Find your favorite verse as a sticker and input it into your Bible margins",
-        "home_featured_products": "stickers",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "text_columns_dTLWj9": {
-      "type": "text-columns",
+    "slideshow_XPnCda": {
+      "type": "slideshow",
       "blocks": {
-        "text_block_wB37wF": {
-          "type": "text_block",
+        "image_UG8Apr": {
+          "type": "image",
           "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Florence-high-aperture-Sticker-hosanna-revival.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Stickers",
-            "text": "<p>Find your favorite verse as a sticker and input it into your Bible Margins.</p>",
-            "button_label": "Find a sticker you love",
-            "button_link": "shopify://collections/stickers"
-          }
-        },
-        "text_block_wMpbJc": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_6NgJ9A": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Choose your new Bible tabs",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0909.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0909.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "text_block_wB37wF",
-        "text_block_wMpbJc",
-        "text_block_6NgJ9A"
+        "image_UG8Apr"
       ],
       "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -275,7 +247,6 @@
     "rich_text_Ca3w9Q",
     "hero_video_nFV8wD",
     "rich_text_jcF6KM",
-    "featured_collection_jXRLYW",
-    "text_columns_dTLWj9"
+    "slideshow_XPnCda"
   ]
 }
