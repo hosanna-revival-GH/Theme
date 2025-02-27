@@ -335,164 +335,120 @@
     "combined-content-section-3": {
       "type": "toolkit",
       "blocks": {
-        "text_and_image_EfpFza": {
+        "4254f18b-a76d-4a78-96b3-99d6f4b576d8": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Amber-Portrait-Songs-for-the-Suffering-Hosanna-Revival-017.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Amber Granville",
+            "text": "<p>“When I was a sophomore in college I found out that my mom had cancer for the first time. I was leading Younglife and had really started diving into my major at the time, so it hit at a time when things were going well for me. I and my other family members helped to care for my mom during this time. There was a brief respite from the struggle in which she went into remission for about a year. However, in April of 2016 we found out that the cancer had come back...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNdVjXxBSuV/",
+            "button_label": "Read on",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "b379e23f-3839-4406-8c69-679bb9979e01": {
           "type": "text_and_image",
           "settings": {
             "layout": "right",
+            "image": "shopify://shop_images/Brandice-Portrait-Songs-for-the-Suffering-Hosanna-Revival-013.jpg",
             "image_width": 50,
-            "subtitle": "",
-            "title": "",
-            "text": "",
-            "button_link": "",
-            "button_label": "",
+            "subtitle": "The Chorus",
+            "title": "Brandice Rosander",
+            "text": "<p>“I married my husband in 2015 and gained 2 step-daughters that had lost their Mom to cancer years before, which was an unimaginable loss for them and a challenging position for me to step into.  Shortly after our wedding, we went through a very tough year—my dad had a massive heart attack that resulted in him being in the hospital for months...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNaxYZgBsEs/",
+            "button_label": "Read On",
             "align_text": "left",
             "lazyload_images": true
+          }
+        },
+        "12bac305-f31f-46da-ae1c-0ef25f28cf04": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Brauns-Portrait-Songs-for-the-Suffering-Hosanna-Revival-077.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Mindy Braun",
+            "text": "<p>“March 10, 2019 our daughter Marlow Jane was born. We were expecting a healthy, perfect baby. However from the moment my labor started we realized things were not as expected. Marlow was struggling to thrive and was whisked away to the NICU within minutes after birth. No one could nail down what was wrong...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNf0fB-hOnK/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Christine-Portrait-Songs-for-the-Suffering-Hosanna-Revival-015.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Christine Toth",
+            "text": "<p>“When my husband and I began trying for a family we encountered a lot of struggles. I was diagnosed with endometriosis and what we were facing caused some concerns for my doctor. We were referred to an infertility specialist who quickly became not just a part of a story, but a part of our family. Dr. NeeOo Chin worked with us to start our family and, after suffering multiple losses, enduring multiple surgeries, and ultimately not having a baby after a few years, we felt defeated...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNYBC4QBjz1/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "2a4c1c10-3e63-4e2f-93b4-26beb165b204": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Holly-Portrait-Songs-for-the-Suffering-Hosanna-Revival-002.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Holly Gibson",
+            "text": "<p>“On February 20, 2019, our 10 year old daughter, Sable, passed away suddenly from complications of the flu and strep throat. Sable was the youngest of our six kids—a healthy, happy little girl. Sable started feeling sick on a Saturday and I took her to the Little Clinic on Sunday. They told me she was viral but didn’t check for flu or strep. She still wasn’t any better by Tuesday so I took her to the pediatrician where they diagnosed her with flu and strep...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNia5j9hYop/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "bef74641-e7e6-48e2-90a9-a184412bf8a7": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Julia-Portrait-Songs-for-the-Suffering-Hosanna-Revival-P-001.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Julia Allspaw",
+            "text": "<p>“In 2019, I traveled to one of the best hospitals in the country looking for answers to my near constant chronic pain. After getting my first migraine at age 12, I spent years with a crippling diagnosis that had now impacted every part of my life—from work, to relationships, and even the ability to get out of bed. In that same year, I suffered from a miscarriage and shortly after, heard the heartbreaking news of my mother’s cancer returning...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNknQYfhqmM/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "901df118-4ac3-4282-abae-d4bac8b0e6e9": {
+          "type": "single-button",
+          "settings": {
+            "button_text": "Choose this Tool",
+            "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+            "button_size": "huge",
+            "alignment": "center",
+            "space_above": 30,
+            "space_below": 30
           }
         }
       },
       "block_order": [
-        "text_and_image_EfpFza"
+        "4254f18b-a76d-4a78-96b3-99d6f4b576d8",
+        "b379e23f-3839-4406-8c69-679bb9979e01",
+        "12bac305-f31f-46da-ae1c-0ef25f28cf04",
+        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b",
+        "2a4c1c10-3e63-4e2f-93b4-26beb165b204",
+        "bef74641-e7e6-48e2-90a9-a184412bf8a7",
+        "901df118-4ac3-4282-abae-d4bac8b0e6e9"
       ],
       "settings": {
         "space_above": 75,
         "space_below": 75
-      }
-    },
-    "4254f18b-a76d-4a78-96b3-99d6f4b576d8": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Amber-Portrait-Songs-for-the-Suffering-Hosanna-Revival-017.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The Chorus",
-        "title": "Amber Granville",
-        "text": "<p>“When I was a sophomore in college I found out that my mom had cancer for the first time. I was leading Younglife and had really started diving into my major at the time, so it hit at a time when things were going well for me. I and my other family members helped to care for my mom during this time. There was a brief respite from the struggle in which she went into remission for about a year. However, in April of 2016 we found out that the cancer had come back...”</p><p></p>",
-        "button_label": "Read on",
-        "button_link": "https://www.instagram.com/p/CNdVjXxBSuV/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "b379e23f-3839-4406-8c69-679bb9979e01": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Brandice-Portrait-Songs-for-the-Suffering-Hosanna-Revival-013.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The Chorus",
-        "title": "Brandice Rosander",
-        "text": "<p>“I married my husband in 2015 and gained 2 step-daughters that had lost their Mom to cancer years before, which was an unimaginable loss for them and a challenging position for me to step into.  Shortly after our wedding, we went through a very tough year—my dad had a massive heart attack that resulted in him being in the hospital for months...”</p><p></p>",
-        "button_label": "Read On",
-        "button_link": "https://www.instagram.com/p/CNaxYZgBsEs/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "12bac305-f31f-46da-ae1c-0ef25f28cf04": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Brauns-Portrait-Songs-for-the-Suffering-Hosanna-Revival-077.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The Chorus",
-        "title": "Mindy Braun",
-        "text": "<p>“March 10, 2019 our daughter Marlow Jane was born. We were expecting a healthy, perfect baby. However from the moment my labor started we realized things were not as expected. Marlow was struggling to thrive and was whisked away to the NICU within minutes after birth. No one could nail down what was wrong...”</p><p></p>",
-        "button_label": "Read On",
-        "button_link": "https://www.instagram.com/p/CNf0fB-hOnK/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "3054694d-f8e8-461c-b23b-1dbd2e07bd3b": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Christine-Portrait-Songs-for-the-Suffering-Hosanna-Revival-015.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The Chorus",
-        "title": "Christine Toth",
-        "text": "<p>“When my husband and I began trying for a family we encountered a lot of struggles. I was diagnosed with endometriosis and what we were facing caused some concerns for my doctor. We were referred to an infertility specialist who quickly became not just a part of a story, but a part of our family. Dr. NeeOo Chin worked with us to start our family and, after suffering multiple losses, enduring multiple surgeries, and ultimately not having a baby after a few years, we felt defeated...”</p><p></p>",
-        "button_label": "Read On",
-        "button_link": "https://www.instagram.com/p/CNYBC4QBjz1/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "2a4c1c10-3e63-4e2f-93b4-26beb165b204": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Holly-Portrait-Songs-for-the-Suffering-Hosanna-Revival-002.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The Chorus",
-        "title": "Holly Gibson",
-        "text": "<p>“On February 20, 2019, our 10 year old daughter, Sable, passed away suddenly from complications of the flu and strep throat. Sable was the youngest of our six kids—a healthy, happy little girl. Sable started feeling sick on a Saturday and I took her to the Little Clinic on Sunday. They told me she was viral but didn’t check for flu or strep. She still wasn’t any better by Tuesday so I took her to the pediatrician where they diagnosed her with flu and strep...”</p><p></p>",
-        "button_label": "Read On",
-        "button_link": "https://www.instagram.com/p/CNia5j9hYop/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "bef74641-e7e6-48e2-90a9-a184412bf8a7": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Julia-Portrait-Songs-for-the-Suffering-Hosanna-Revival-P-001.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The Chorus",
-        "title": "Julia Allspaw",
-        "text": "<p>“In 2019, I traveled to one of the best hospitals in the country looking for answers to my near constant chronic pain. After getting my first migraine at age 12, I spent years with a crippling diagnosis that had now impacted every part of my life—from work, to relationships, and even the ability to get out of bed. In that same year, I suffered from a miscarriage and shortly after, heard the heartbreaking news of my mother’s cancer returning...”</p><p></p>",
-        "button_label": "Read On",
-        "button_link": "https://www.instagram.com/p/CNknQYfhqmM/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "901df118-4ac3-4282-abae-d4bac8b0e6e9": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Choose this Tool",
-        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 30
       }
     },
     "slideshow_BYN9tp": {
@@ -683,13 +639,6 @@
     "hero_video_EHR8Xy",
     "rich_text_w4KFaR",
     "combined-content-section-3",
-    "4254f18b-a76d-4a78-96b3-99d6f4b576d8",
-    "b379e23f-3839-4406-8c69-679bb9979e01",
-    "12bac305-f31f-46da-ae1c-0ef25f28cf04",
-    "3054694d-f8e8-461c-b23b-1dbd2e07bd3b",
-    "2a4c1c10-3e63-4e2f-93b4-26beb165b204",
-    "bef74641-e7e6-48e2-90a9-a184412bf8a7",
-    "901df118-4ac3-4282-abae-d4bac8b0e6e9",
     "slideshow_BYN9tp",
     "rich_text_x8FDHK",
     "text_columns_BQGmdg",
