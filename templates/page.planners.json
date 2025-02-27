@@ -160,48 +160,45 @@
     },
     "text_columns_EUrVJT": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_6GeBRr": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_hTfUHm": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_TbpfXc": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Perfection",
+      "text": "<p>I am obsessed with this planner! It is gorgeous from outside to inside, every single page filled with detail and beauty. It’s also the most functional and easy to use planner I’ve ever tried.<br/><em>— Sierra —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "I love this planner!",
+      "text": "<p>As a planner snob, I am super picky about the planners I choose. This one has amazing quality, a practical (and beautiful) layout, and contains all the pages I want and need!<br/><em>— Raleigh —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Everyday Encouragement",
+      "text": "<p>I bought one for myself, and loved it so much that I knew my sister needed one too! It’s hard to find planners that are both beautiful and efficient, but this planner has it all.<br/><em>— Payton —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_6GeBRr",
-        "text_block_hTfUHm",
-        "text_block_TbpfXc"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
@@ -280,55 +277,79 @@
     },
     "text_columns_hFdMPw": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_KhrVM7": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_m9pdzt": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_9QqCnD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-280.jpg",
+      "image_width": 650,
+      "title": "Marlo",
+      "text": "<p>This soft leather-like cover was inspired by the dreamy shores of Marlo, an Australian beach town—a perfect place to quiet your soul and meditate on the goodness of God. </p>",
+      "button_label": "Choose Marlo",
+      "button_link": "https://hosannarevival.com/products/2025-12-month-planner-marlo-theme"
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-269.jpg",
+      "image_width": 650,
+      "title": "Coram",
+      "text": "<p>The words <em>Coram Deo</em> mean “in the presence of God”—this is where we all long to be! With rolling flower fields and a spacious sunset, this planner beckons us to return to his presence. </p>",
+      "button_label": "Choose Coram",
+      "button_link": "https://hosannarevival.com/products/2025-12-month-planner-coram-theme"
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-266.jpg",
+      "image_width": 650,
+      "title": "Summerside",
+      "text": "<p>Our Summerside design is inspired by Prince Edward Island where the beloved book series <em>Anne of Green Gables</em> is set, a story that captures the beauty of fresh starts and simple joys. </p>",
+      "button_label": "Choose Summerside",
+      "button_link": "https://hosannarevival.com/products/2025-12-month-planner-summerside-theme"
+    }
+  }
+},
       "block_order": [
-        "text_block_KhrVM7",
-        "text_block_m9pdzt",
-        "text_block_9QqCnD"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
         "align_text": "center",
         "divider": false
       }
-    }
+    },
+            "text_and_image_eMkMnk": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-265B.jpg",
+              "image_width": "50",
+              "subtitle": "New this Year",
+              "title": "The Undated Hosanna Revival Planner",
+              "text": "<p>Our undated planner combines Hosanna Revival’s beautiful Marlo design with intentional and functional features. Start wherever you are and begin building out your plans and dreams with the flexibility of your own timeline. </p>",
+              "button_label": "Start with Undated",
+              "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+              "layout": "left"
+            }
+          },
+          "3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Choose My Cover",
+              "button_link": "shopify://collections/planners",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -341,6 +362,8 @@
     "text_columns_EUrVJT",
     "slideshow_Fh3rUR",
     "rich_text_UG8Wjy",
-    "text_columns_hFdMPw"
+    "text_columns_hFdMPw",
+    "text_and_image_eMkMnk",
+"3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a"
   ]
 }
