@@ -384,7 +384,7 @@
             "button_link": "shopify://collections/planners",
             "button_size": "huge",
             "alignment": "center",
-            "space_above": 0,
+            "space_above": -30,
             "space_below": 75
           }
         }
@@ -941,41 +941,44 @@
     },
     "text_columns_r8JV6r": {
       "type": "text-columns",
-"blocks": {
-  "text_block_10": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "My FAVORITE planner!",
-      "text": "<p>Each month has a beautiful bible verse to help motivate you and inspire you!!! A sweet reminder that the Lord is with us daily!<br/><em>— Ashley —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_11": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "A Planner I Actually Want to Use",
-      "text": "<p>The Scripture, writing prompts at the beginning of each month, and banner word for the week have grown my passion for Scripture. I feel calmer writing in this planner because of the Scripture aspects.<br/><em>— Hannah —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_12": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Best Planner Ever",
-      "text": "<p>I usually feel overwhelmed looking at my schedule but the planner has helped so much and allowed me to dwell on truth, beauty, and good with the added verses.<br/><em>— Emily —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_10": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "My FAVORITE planner!",
+            "text": "<p>Each month has a beautiful bible verse to help motivate you and inspire you!!! A sweet reminder that the Lord is with us daily!<br/><em>— Ashley —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_11": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "A Planner I Actually Want to Use",
+            "text": "<p>The Scripture, writing prompts at the beginning of each month, and banner word for the week have grown my passion for Scripture. I feel calmer writing in this planner because of the Scripture aspects.<br/><em>— Hannah —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_12": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Best Planner Ever",
+            "text": "<p>I usually feel overwhelmed looking at my schedule but the planner has helped so much and allowed me to dwell on truth, beauty, and good with the added verses.<br/><em>— Emily —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_10",
         "text_block_11",
@@ -1145,14 +1148,14 @@
             "narrow_column": true,
             "divider": false,
             "css-id": "",
-            "css-class": "",
+            "css-class": "enlarge-text",
             "color_bg": "#ffffff",
             "color_text": "#000000",
             "space_above": 75,
             "space_below": 75,
-            "heading": "Rich text",
+            "heading": "Planner FAQ",
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><em>If you have a question about our planners, take a peek below for an answer: </em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1160,8 +1163,8 @@
         "faq_FKBRR6": {
           "type": "faq",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "question": "What is new about Hosanna Revival’s 2025 Planner?",
+            "answer": "<p>A few years ago, we went through an in-depth process of gathering feedback to understand your needs as you intentionally plan your days. As a result, we revisit our design each year to make it better than the last. Explore our new features for this year’s planners:</p><ul><li><strong>12-Months:</strong> We wanted to provide you with a more compact annual planner for the first time! Our 2025 Planners run from January 2025 - December 2025.</li><li><strong>Refreshed Interior Layout:</strong> We combined our signature floral and minimalist interiors for a single unified “delicate floral” design available in 3 cover designs and our undated format.</li><li><strong>3 New Cover Designs:</strong> We are so excited to introduce our Marlo, Coram, and Summerside covers! Which one will you choose? </li><li><strong>Our Undated 12-Month Planner:</strong><em><strong> </strong></em>Begin in any season! <a href=\"https://hosannarevival.com/pages/undated-planner\" title=\"The Hosanna Revival Undated Planner\">Explore more here</a>.</li></ul><p>We pray these features serve you well as you intentionally plan your days.</p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -1170,8 +1173,8 @@
         "faq_pypJTz": {
           "type": "faq",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "question": "How do you use the Month-at-a-Glance spread?",
+            "answer": "<p>Our signature Month-at-a-Glance Spread is the perfect place to drop ideas before heading into your month ahead. Or, if you need extra space during the month, you can turn back here to note down anything you want to remember.</p><p><strong>To the Left:</strong> Plan your month as a whole! The blank box is for lists, random notes, drawings, and more, while the lines are for more structured checklists, grocery lists, schedules, prayer requests, etc! If you find yourself thinking, I wish I had space for ______, this page is designed for that! </p><p><strong>To the Right:</strong> Plan your month week-by-week! These blank weekly boxes are where you can put special events, week-specific tasks, priorities, and reminders before you head into your weekly spread. Think of it as a drop list for all your thoughts before or during the month!</p><p>At the end of the day, these sections are designed to be used in whatever way you need to plan your year well.</p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -1180,8 +1183,8 @@
         "faq_YajU4K": {
           "type": "faq",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "question": "What are the daily blank boxes on the weekly spread for?",
+            "answer": "<p>Use these boxes in whichever way serves you best as you plan! Here are a few ideas to fill this box: top 3 priorities for the day, daily events, task dump list, birthdays, a verse of the day, or doodles! The options are endless!</p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -1191,26 +1194,27 @@
           "type": "single-button",
           "settings": {
             "secondary": false,
-            "button_text": "Click Here",
-            "button_link": "/",
+            "button_text": "Begin My Planner",
+            "button_link": "shopify://collections/planners",
             "button_size": "huge",
             "alignment": "center",
-            "space_above": 30,
-            "space_below": 20
+            "space_above": 75,
+            "space_below": 75
           }
         },
         "hero_qmADww": {
           "type": "hero",
           "settings": {
-            "title": "",
-            "subheading": "",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-54.jpg",
+            "title": "Intentional Tools",
+            "subheading": "to pair with our planners",
             "link": "",
             "link_text": "",
             "color_accent": "",
             "text_align": "left",
-            "title_size": 32,
+            "title_size": 72,
             "parallax": false,
-            "section_height": "650px",
+            "section_height": "450px",
             "mobile_height": "auto"
           }
         },
@@ -1222,13 +1226,13 @@
             "divider": false,
             "css-id": "",
             "css-class": "",
-            "color_bg": "#ffffff",
-            "color_text": "#000000",
+            "color_bg": "#6b6e40",
+            "color_text": "#e8e8e1",
             "space_above": 75,
             "space_below": 75,
-            "heading": "Rich text",
+            "heading": "What to Add to your bag",
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Whether you’re prepping for the new year to begin or grabbing a planner for a mid-season refresh, complete your fresh start by pairing your planner with our matching intentional tools.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1248,10 +1252,11 @@
         "hero_e93yCF": {
           "type": "hero",
           "settings": {
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-074.jpg",
             "title": "",
             "subheading": "",
-            "link": "",
-            "link_text": "",
+            "link": "shopify://collections/planners",
+            "link_text": "Begin Today",
             "color_accent": "",
             "text_align": "left",
             "title_size": 32,
