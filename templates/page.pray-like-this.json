@@ -11,13 +11,89 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "hero_video_Yn3Cy8": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Pray Like This",
+        "title_size": 80,
+        "subheading": "a devotional on the Lord's Prayer",
+        "link_text": "Watch the Trailer",
+        "link": "https://www.youtube.com/watch?v=P4uVQzaei0U",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=P4uVQzaei0U",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_9Ppipy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_69QB7E": {
+          "type": "heading",
+          "settings": {
+            "title": "Christ's Guide to Praying the Scriptures"
+          }
+        },
+        "text_cXrdam": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This eight-week study traverses through the depths of the Lord’s Prayer, drawing us nearer to the foot of the cross while shaping the way we pray and commune with God. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_pLErp8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>From an ancient practice to a Sunday school memory verse, the Lord’s Prayer holds some sort of sentiment for many different people. We encourage you to push past any assumptions you hold currently and take this deep dive with us into the depths of the Lord’s Prayer. Let it shape the way you pray, knowing that God has already initiated the conversation. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_69QB7E",
+        "text_cXrdam",
+        "text_pLErp8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_znDCwq": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=32354443558947&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_video_Yn3Cy8",
+    "rich_text_9Ppipy",
+    "single_button_znDCwq"
   ]
 }
