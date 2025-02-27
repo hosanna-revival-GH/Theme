@@ -111,18 +111,22 @@
         "divider": true
       }
     },
-    "rich_text_NxYHzb": {
-      "type": "rich-text",
+    "combined-content-section-3": {
+      "type": "toolkit",
       "blocks": {
-        "heading_9gpxLy": {
-          "type": "heading",
+        "rich_text_QrCWjn": {
+          "type": "rich_text",
           "settings": {
-            "title": "What sets the Hosanna Revival Planner apart?"
-          }
-        },
-        "text_P8EQMm": {
-          "type": "text",
-          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "What sets the Hosanna Revival Planner apart?",
             "enlarge_text": true,
             "text": "<p><em>Our planner design centers around these three core features:</em></p>",
             "align_text_block": "inherit",
@@ -131,17 +135,9 @@
         }
       },
       "block_order": [
-        "heading_9gpxLy",
-        "text_P8EQMm"
+        "rich_text_QrCWjn"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
         "space_above": 0,
         "space_below": 0
       }
@@ -767,6 +763,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/space-2_PNG.png",
+            "image_mask": "none",
             "image_width": 650,
             "title": "",
             "text": "",
@@ -779,6 +776,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/space-3_PNG.png",
+            "image_mask": "none",
             "image_width": 650,
             "title": "",
             "text": "",
@@ -791,6 +789,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/space-4_PNG.png",
+            "image_mask": "none",
             "image_width": 650,
             "title": "",
             "text": "",
@@ -803,6 +802,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/notes-1_PNG.png",
+            "image_mask": "none",
             "image_width": 650,
             "title": "",
             "text": "",
@@ -815,6 +815,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/space-6_PNG.png",
+            "image_mask": "none",
             "image_width": 650,
             "title": "",
             "text": "",
@@ -827,6 +828,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/space-5_PNG.png",
+            "image_mask": "none",
             "image_width": 650,
             "title": "",
             "text": "",
@@ -848,10 +850,6 @@
         "align_text": "center",
         "divider": false
       }
-    },
-    "combined-content-section-3": {
-      "type": "toolkit",
-      "settings": {}
     }
   },
   "order": [
@@ -859,7 +857,7 @@
     "slideshow_Qck9Cx",
     "rich_text_deHdU3",
     "featured_collection_neJ48G",
-    "rich_text_NxYHzb",
+    "combined-content-section-3",
     "text_and_image_fmVtFk",
     "df5bcac4-6902-46b9-a1d5-b670906a711a",
     "rich_text_gkELFb",
@@ -875,7 +873,6 @@
     "combined-content-section-1",
     "text_columns_jCgwVL",
     "combined-content-section-2",
-    "text_columns_JDTgYc",
-    "combined-content-section-3"
+    "text_columns_JDTgYc"
   ]
 }
