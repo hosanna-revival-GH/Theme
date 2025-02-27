@@ -154,35 +154,38 @@
     },
     "image_row_XCqn8B": {
       "type": "image-row",
-"blocks": {
-  "image_1": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/PrayLikeThis-Relaunch-Homepage_7ca720f1-13b5-4a98-bbe5-015a09a948e3.png",
-      "caption": "",
-      "link": "shopify://products/pray-like-this"
-    }
-  },
-  "image_2": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-05.png",
-      "caption": "",
-      "link": "shopify://products/pray-like-this"
-    }
-  },
-  "image_3": {
-    "type": "image",
-    "settings": {
-      "enable_image": false,
-      "image": "",
-      "caption": "",
-      "link": "shopify://products/pray-like-this"
-    }
-  },
-},
+      "blocks": {
+        "image_1": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/PrayLikeThis-Relaunch-Homepage_7ca720f1-13b5-4a98-bbe5-015a09a948e3.png",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/pray-like-this"
+          }
+        },
+        "image_2": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-05.png",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/pray-like-this"
+          }
+        },
+        "image_3": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-06.png",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/pray-like-this"
+          }
+        }
+      },
       "block_order": [
         "image_1",
         "image_2",
@@ -194,6 +197,57 @@
         "enable_spacing": true,
         "enable_zoom": false
       }
+    },
+    "text_columns_EcbRqf": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_BgkHTa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_fNh3pD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_CjfdWf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_BgkHTa",
+        "text_block_fNh3pD",
+        "text_block_CjfdWf"
+      ],
+      "settings": {
+        "title": "Testimonials from the Hosanna Community",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -204,6 +258,7 @@
     "3aab8f55-59c3-41ac-94a0-6477cd199989",
     "eeffe765-5638-475a-9989-e3dd7c5be426",
     "bd763792-5b4c-42e8-8b2d-dc559644f6f0",
-    "image_row_XCqn8B"
+    "image_row_XCqn8B",
+    "text_columns_EcbRqf"
   ]
 }
