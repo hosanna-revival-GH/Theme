@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-The-Word-Desktop-01_bafca0fe-7b3c-4ab0-b730-9741b6172e00.png",
-            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-01.png",
+            "image": "shopify://shop_images/Spread-The-Word-Desktop-01_1.png",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-01_1.png",
             "parallax_direction": "left",
             "overlay_opacity": 0
           }
@@ -61,8 +61,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-The-Word-Desktop-02.png",
-            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-02.png",
+            "image": "shopify://shop_images/Spread-The-Word-Desktop-02_1.png",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-02_1.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
