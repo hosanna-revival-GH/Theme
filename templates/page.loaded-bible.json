@@ -520,7 +520,42 @@
         "button_size": "medium",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 50
+        "space_below": 75
+      }
+    },
+    "rich_text_Pgpzw4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RwFeF6": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Prayer for you"
+          }
+        },
+        "text_gxWQy6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We pray that, as you prepare to gift intentionally with a Loaded Bible, you’ll experience the joy of gifting and God will prepare the recipient’s heart, sparking new excitement for them to engage with Scripture!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_RwFeF6",
+        "text_gxWQy6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#e8e8e1",
+        "color_text": "#475a41",
+        "space_above": 75,
+        "space_below": 75
       }
     }
   },
@@ -545,6 +580,7 @@
     "text_and_image_DKmH9i",
     "text_and_image_77h7Hk",
     "rich_text_RDMriA",
-    "single_button_a7DVcz"
+    "single_button_a7DVcz",
+    "rich_text_Pgpzw4"
   ]
 }
