@@ -88,12 +88,54 @@
         "space_above": 0,
         "space_below": 50
       }
-    }
+    },
+             "1e55a88a-f181-47c6-a766-47d972191b17": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-004.jpg",
+              "image_width":  "50",
+              "subtitle": "God of Forever",
+              "title": "This Devotional is for you if...",
+              "text": "<p>- You are to the faith.<br/>- You desire more biblical study.<br/>- You are needing the refreshing reminder of God’s goodness.</p><p><em>If these words resonate, this devotional is for you.</em></p><p></p>",
+              "button_label": "Begin today",
+              "button_link": "shopify://products/devotional-god-of-forever",
+              "layout": "left"
+            }
+          },
+          "5ea9e051-2505-4a64-95fd-e4dda2b2527e": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/God-of-Forever-Devo-Pg-001.jpg",
+              "image_width": "50",
+              "subtitle": "The Details",
+              "title": "God of Forever",
+              "text": "<p><strong>Topic</strong>: the character of God<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: multiple passages</p><p>“The only person who has the authority to speak about the character of the Lord is God himself. If we desire to know God, we must first consult his Word and allow it to govern our thoughts of him.”<br/><em>—Author Haylee J. Williams</em></p><p></p>",
+              "button_label": "Choose this tool",
+              "button_link": "shopify://products/devotional-god-of-forever",
+              "layout": "right"
+            }
+          },
+          "c2ab696b-ca34-4d70-9102-18848aa46f08": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-014.jpg",
+              "image_width":"50",
+              "subtitle": "Peek Inside",
+              "title": "The Devotional Structure",
+              "text": "<p><strong>Structure</strong>: 5 daily entries per week<br/><strong>Elements</strong>: Weekly introductions, daily reading & scripture, questions throughout</p><p>Each week includes a topic regarding the character and nature of God and focuses on getting in the Word and discovering the truths contained within. Insightful commentary on the passage of the day will help you to digest the deep meaning found from your study of the Word. Thought-provoking, guided questions help you extrapolate meaning and find application for what you are learning. </p><p></p>",
+              "button_label": "Choose this Tool",
+              "button_link": "shopify://products/devotional-god-of-forever",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
     "hero_video_3VRBFJ",
     "rich_text_c6VK9p",
-    "single_button_DzhzPE"
+    "single_button_DzhzPE",
+    "1e55a88a-f181-47c6-a766-47d972191b17",
+    "5ea9e051-2505-4a64-95fd-e4dda2b2527e",
+     "c2ab696b-ca34-4d70-9102-18848aa46f08"
   ]
 }
