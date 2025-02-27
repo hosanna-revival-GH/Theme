@@ -874,6 +874,10 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "combined-content-section-4": {
+      "type": "toolkit",
+      "settings": {}
     }
   },
   "order": [
@@ -895,6 +899,7 @@
     "text_columns_jCgwVL",
     "combined-content-section-2",
     "text_columns_JDTgYc",
-    "slideshow_6XEVGJ"
+    "slideshow_6XEVGJ",
+    "combined-content-section-4"
   ]
 }
