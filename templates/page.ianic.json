@@ -11,13 +11,96 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_b8YEjm": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LBwHmb": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "I Am Not in Charge",
+            "title_size": 72,
+            "subheading": "a devotional on control",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Girls-Bible-Study-W-002.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LBwHmb"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_DDY8Fa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FK9JgE": {
+          "type": "heading",
+          "settings": {
+            "title": "I Am Not In Charge"
+          }
+        },
+        "text_n67mEH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>I Am Not in Charge </em>is an 8-week devotional where author Ness Cannon shows us—through her own story, Scripture, and thought-provoking questions—how to take baby steps toward peace and connection through accepting what we can—and can't—control.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_LUCHMp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Author Ness Cannon wrote <em>I Am Not in Charge</em> for those who wish they had more control over all the moving parts in their lives. A few years ago, a life-changing MS diagnosis set Ness on a journey of confronting her struggle with control and discovering there is freedom in accepting that we are not in charge. In <em>I Am Not in Charge</em>, you, like Ness, will learn how to take practical steps with Jesus towards self-compassion, connection with others, vulnerability, and embracing your own story. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_FK9JgE",
+        "text_n67mEH",
+        "text_LUCHMp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_b8YEjm",
+    "rich_text_DDY8Fa"
   ]
 }
