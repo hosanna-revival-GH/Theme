@@ -95,7 +95,7 @@
         "text_bJXihJ": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
+            "enlarge_text": true,
             "text": "<p><em>Dear Friend,</em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
@@ -113,7 +113,7 @@
         "text_wdxM3C": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
+            "enlarge_text": true,
             "text": "<p><em>Blessings,</em><br/><em>Hosanna Revival </em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
@@ -159,7 +159,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#789ec8",
+        "color_bg": "#b9a038",
         "color_text": "#ffffff",
         "space_above": 30,
         "space_below": 30
@@ -373,7 +373,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#789ec8",
+        "color_bg": "#b9a038",
         "color_text": "#ffffff",
         "space_above": 50,
         "space_below": 50
@@ -407,7 +407,7 @@
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
