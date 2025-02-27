@@ -24,15 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
+            "title": "The Hosanna Revival Planner",
+            "title_size": 72,
+            "subheading": "Plan Your Most Intentional Year Yet",
+            "link": "shopify://collections/planners",
             "link_text": "Optional button",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-095.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -51,8 +52,55 @@
         "lazyload_images": false
       }
     },
+    "rich_text_deHdU3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NYGL3T": {
+          "type": "heading",
+          "settings": {
+            "title": "Welcome to your most intentional year yet"
+          }
+        },
+        "text_97KThQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Dear planner, organizer, and dreamer: Our planners were made for you</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_BPhdka": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Are you on the search for the perfect planner? We gathered 2000+ responses from our community to craft a planner that pairs together the best of beauty and functionality. Welcome to your most intentional year yet! </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_NYGL3T",
+        "text_97KThQ",
+        "text_BPhdka"
+      ],
+      "custom_css": [],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#6b6e40",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "featured_collection_neJ48G": {
       "type": "featured-collection",
+      "custom_css": [],
       "settings": {
         "title": "The Hosanna Revival Planner Collection",
         "home_featured_products": "planners",
@@ -60,7 +108,7 @@
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": false,
-        "divider": false
+        "divider": true
       }
     },
     "rich_text_NxYHzb": {
@@ -69,14 +117,14 @@
         "heading_9gpxLy": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "What sets the Hosanna Revival Planner apart?"
           }
         },
         "text_P8EQMm": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><em>Our planner design centers around these three core features:</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -95,7 +143,7 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 0,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "text_and_image_fmVtFk": {
@@ -152,10 +200,10 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "color_bg": "#6b6e40",
+        "color_text": "#e8e8e1",
+        "space_above": 40,
+        "space_below": 40
       }
     },
     "text_columns_EUrVJT": {
@@ -206,7 +254,7 @@
       "settings": {
         "title": "",
         "align_text": "center",
-        "divider": false
+        "divider": true
       }
     },
     "slideshow_Fh3rUR": {
@@ -216,15 +264,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "title": "Choose Your Cover",
+            "title_size": 72,
+            "subheading": "From three beautiful designs",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-123B.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -249,14 +298,14 @@
         "heading_nDHmhk": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Which design signals your fresh start?"
           }
         },
         "text_AyfQ4r": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>We believe a new and beautiful planner will excite you to open it up and plan your days intentionally. Explore our three beautiful planner designs below.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -272,8 +321,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_bg": "#6b6e40",
+        "color_text": "#e8e8e1",
         "space_above": 75,
         "space_below": 75
       }
@@ -327,9 +376,9 @@
         "text_block_3"
       ],
       "settings": {
-        "title": "",
+        "title": "Choose your Cover Design",
         "align_text": "center",
-        "divider": false
+        "divider": true
       }
     },
     "text_and_image_eMkMnk": {
@@ -422,15 +471,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "title": "Peek Inside the \nPlanner",
+            "title_size": 72,
+            "subheading": "For the perfect blend of function and intentionality",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-268.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -455,14 +505,14 @@
         "heading_wr9yDx": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "Explore our Planner Layout"
           }
         },
         "text_cEw3nD": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>We surveyed 2000+ community members to understand what makes the perfect planner. The biggest request? Space! Space for boxes and lists and priorities and dreams—but in an unprompted way so you can make the most of your intentional days ahead.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -478,72 +528,10 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_bg": "#6b6e40",
+        "color_text": "#e8e8e1",
         "space_above": 75,
         "space_below": 75
-      }
-    },
-    "ea217336-3d9d-43b8-8b09-f5098a1576be": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Begin Planning Today",
-        "button_link": "shopify://collections/planners",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "text_columns_jCgwVL": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Perfect!",
-            "text": "<p>So easy to use and has more than enough room to write monthly or daily style with other added bonuses.<br/><em>— Aly —</em></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "My Favorite Layout",
-            "text": "<p>It’s not “too” organized where I feel like I’m trying to fit my life into someone else’s schedule, but it’s organized enough where I can keep up with my dates, tasks, and responsibilities.<br/><em>— Madison —</em></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Finally!",
-            "text": "<p>The paper feels great and is not cheap. Amazing craftsmanship and quality for the price!<br/><em>— Jara —</em></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_1",
-        "text_block_2",
-        "text_block_3"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
       }
     },
     "combined-content-section-1": {
@@ -638,6 +626,18 @@
             "align_text": "left",
             "lazyload_images": true
           }
+        },
+        "single_button_8wfQUj": {
+          "type": "single-button",
+          "settings": {
+            "secondary": false,
+            "button_text": "Begin Planning Today",
+            "button_link": "shopify://collections/planners",
+            "button_size": "huge",
+            "alignment": "center",
+            "space_above": 0,
+            "space_below": 75
+          }
         }
       },
       "block_order": [
@@ -646,17 +646,70 @@
         "e8bf08e1-5a18-4bcc-b264-e2ad39ed51b4",
         "ac222eef-9d32-4bcb-8cd4-88af644bd194",
         "ca1e833b-dac5-4489-b06f-fe6a22c00c64",
-        "a8361a42-7030-47aa-9ec8-ba37b865b732"
+        "a8361a42-7030-47aa-9ec8-ba37b865b732",
+        "single_button_8wfQUj"
       ],
       "settings": {
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "text_columns_jCgwVL": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Perfect!",
+            "text": "<p>So easy to use and has more than enough room to write monthly or daily style with other added bonuses.<br/><em>— Aly —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "My Favorite Layout",
+            "text": "<p>It’s not “too” organized where I feel like I’m trying to fit my life into someone else’s schedule, but it’s organized enough where I can keep up with my dates, tasks, and responsibilities.<br/><em>— Madison —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Finally!",
+            "text": "<p>The paper feels great and is not cheap. Amazing craftsmanship and quality for the price!<br/><em>— Jara —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
   "order": [
     "main",
     "slideshow_Qck9Cx",
+    "rich_text_deHdU3",
     "featured_collection_neJ48G",
     "rich_text_NxYHzb",
     "text_and_image_fmVtFk",
@@ -671,8 +724,7 @@
     "text_columns_CWekeH",
     "slideshow_ALxDL6",
     "rich_text_rKMDce",
-    "ea217336-3d9d-43b8-8b09-f5098a1576be",
-    "text_columns_jCgwVL",
-    "combined-content-section-1"
+    "combined-content-section-1",
+    "text_columns_jCgwVL"
   ]
 }
