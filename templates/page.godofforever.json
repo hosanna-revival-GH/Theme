@@ -249,30 +249,73 @@
         "divider": false
       }
     },
-            "1b9b5df5-91a7-4e2a-be80-fc5494212b21": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Haylee-J-Williams-Author-Portrait-003.jpg",
-              "image_width": "50",
-              "subtitle": "God of Forever",
-              "title": "From the Introduction",
-              "text": "<p>\"The heart of God is an unfathomable concept. The Bible tells us that “God is love” (1 John 4:8), but culture has twisted this truth to mean something it does not. Consider also how culture claims that God’s character has changed from the Old Testament to the New Testament. Our families, backgrounds, and experiences all play a role in the way we view God. Even our denominational differences give us differing pictures of the heart and mind of God. With all these conflicting opinions and cultural influences, how can we know if we hold a correct view of the character of God? To do so, we must submit all our opinions and beliefs to the God of the Bible...\"</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "e3ab3ef3-fffe-41c6-bb4d-8ca71ed25a26": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Begin Today",
-              "button_link": "https://hosannarevival.com/cart/add?id=41455186968754&quantity=1",
-              "button_size": "huge"
-            }
-          },
+    "1b9b5df5-91a7-4e2a-be80-fc5494212b21": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Haylee-J-Williams-Author-Portrait-003.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "God of Forever",
+        "title": "From the Introduction",
+        "text": "<p>\"The heart of God is an unfathomable concept. The Bible tells us that “God is love” (1 John 4:8), but culture has twisted this truth to mean something it does not. Consider also how culture claims that God’s character has changed from the Old Testament to the New Testament. Our families, backgrounds, and experiences all play a role in the way we view God. Even our denominational differences give us differing pictures of the heart and mind of God. With all these conflicting opinions and cultural influences, how can we know if we hold a correct view of the character of God? To do so, we must submit all our opinions and beliefs to the God of the Bible...\"</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e3ab3ef3-fffe-41c6-bb4d-8ca71ed25a26": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin Today",
+        "button_link": "https://hosannarevival.com/cart/add?id=41455186968754&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "slideshow_LDMLFi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_MRjGfh": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Bonus Content",
+            "title_size": 72,
+            "subheading": "God of Forever",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/God-of-Forever-Launch-Styled-Old-World-001.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_MRjGfh"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -285,6 +328,7 @@
     "image_row_3C7e3X",
     "text_columns_MWaPkd",
     "1b9b5df5-91a7-4e2a-be80-fc5494212b21",
-    "e3ab3ef3-fffe-41c6-bb4d-8ca71ed25a26"
+    "e3ab3ef3-fffe-41c6-bb4d-8ca71ed25a26",
+    "slideshow_LDMLFi"
   ]
 }
