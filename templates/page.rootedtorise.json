@@ -173,36 +173,38 @@
     },
     "image_row_ABKxFF": {
       "type": "image-row",
-"blocks": {
-  "image_29": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-125.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-rooted-to-rise"
-    }
-  },
-  "image_30": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-131.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-rooted-to-rise"
-    }
-  },
-  "image_31": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-121.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-rooted-to-rise"
-    }
-  },
-
-},
+      "blocks": {
+        "image_29": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-125.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-rooted-to-rise"
+          }
+        },
+        "image_30": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-131.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-rooted-to-rise"
+          }
+        },
+        "image_31": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-121.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-rooted-to-rise"
+          }
+        }
+      },
       "block_order": [
         "image_29",
         "image_30",
@@ -215,30 +217,73 @@
         "enable_zoom": false
       }
     },
-            "68368f68-598d-4bd7-87e3-2a3ecaea4253": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-063.jpg",
-              "image_width": "50",
-              "subtitle": "Sneak Peek",
-              "title": "A Note from Author Haley Crabtree",
-              "text": "<p>\"In this devotional, we will talk about some of the issues and topics that you will most likely deal with during these four years. We will also work through how to seek Jesus even when it may seem like no one else around you is seeking him. I pray that by the end of this devotional, you will believe and understand how you have been chosen by our heavenly Father to be his for your whole life. He believes in you, he loves you, and he trusts you to carry out his work during your time on this earth.\"</p>",
-              "button_label": "",
-              "button_link": "shopify://products/devotional-rooted-to-rise",
-              "layout": "left"
-            }
-          },
-          "5ec83575-a6a4-411e-9c18-ff3c10ff6fa6": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Buy Now",
-              "button_link": "https://hosannarevival.com/cart/add?id=41540615438514&quantity=1",
-              "button_size": "huge"
-            }
-          },
+    "68368f68-598d-4bd7-87e3-2a3ecaea4253": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-063.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Sneak Peek",
+        "title": "A Note from Author Haley Crabtree",
+        "text": "<p>\"In this devotional, we will talk about some of the issues and topics that you will most likely deal with during these four years. We will also work through how to seek Jesus even when it may seem like no one else around you is seeking him. I pray that by the end of this devotional, you will believe and understand how you have been chosen by our heavenly Father to be his for your whole life. He believes in you, he loves you, and he trusts you to carry out his work during your time on this earth.\"</p>",
+        "button_label": "",
+        "button_link": "shopify://products/devotional-rooted-to-rise",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5ec83575-a6a4-411e-9c18-ff3c10ff6fa6": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=41540615438514&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "slideshow_tYdk63": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xRrJ6B": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Bonus Content",
+            "title_size": 72,
+            "subheading": "For \"Rooted to Rise\"",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-054.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xRrJ6B"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -250,6 +295,7 @@
     "2966d865-fb56-497b-8e0b-ebf72c85b75c",
     "image_row_ABKxFF",
     "68368f68-598d-4bd7-87e3-2a3ecaea4253",
-    "5ec83575-a6a4-411e-9c18-ff3c10ff6fa6"
+    "5ec83575-a6a4-411e-9c18-ff3c10ff6fa6",
+    "slideshow_tYdk63"
   ]
 }
