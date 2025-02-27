@@ -95,6 +95,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/marloicon.png",
+            "image_mask": "none",
             "image_width": 200,
             "title": "40+ Beautiful Bibles",
             "text": "<p>Whether you're a minimalist, a floral enthusiast, or a landscape-lover, our beautiful covers are intentionally designed to lead you to the beauty within.</p>",
@@ -107,6 +108,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/MarloOpen.png",
+            "image_mask": "none",
             "image_width": 200,
             "title": "Spacious Journaling Margins",
             "text": "<p>Apart from our Study Bibles, all of our Bibles include ample space to take notes, annotate Scripture, and dive deeper into the Word.</p>",
@@ -119,6 +121,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/PaintingIcon.png",
+            "image_mask": "none",
             "image_width": 200,
             "title": "Featuring Hand-Painted Artwork",
             "text": "<p>Each Hosanna Revival design is originally hand-painted by our founder, Katie, and then carefully recreated to be printed onto our Bibles. </p>",
@@ -153,10 +156,12 @@
       "type": "featured-collection",
       "settings": {
         "title": "SHOP GIFTS FOR MEN",
+        "home_featured_products": "gifts-for-men",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
-        "view_all": true
+        "view_all": true,
+        "divider": false
       }
     }
   },
