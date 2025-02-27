@@ -98,30 +98,237 @@
         "space_below": 75
       }
     },
-            "text_and_image_fmVtFk": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-030.jpg",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "The Hosanna Revival Planner is...",
-              "text": "<p><em><strong>A Beautiful Planner:</strong></em><em> </em>We’ve paired intentional visual features with a minimalist touch to stir your excitement to open your planner every day.<br/><br/><em><strong>A Functional Planner:</strong></em><em> </em>With our Month-at-a-Glance spread and weekly brainstorm boxes, explore the perfect mix of structure and flexibility to plan your days intentionally.<br/><br/><em><strong>A Faith-Based Planner:</strong></em><em> </em>In the midst of your days, find encouragement and peace in the Scripture featured throughout each month.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-            "df5bcac4-6902-46b9-a1d5-b670906a711a": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Begin Planning Today",
-              "button_link": "shopify://collections/planners",
-              "button_size": "huge"
-            }
-          },
+    "text_and_image_fmVtFk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-030.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The Hosanna Revival Planner is...",
+        "text": "<p><em><strong>A Beautiful Planner:</strong></em><em> </em>We’ve paired intentional visual features with a minimalist touch to stir your excitement to open your planner every day.<br/><br/><em><strong>A Functional Planner:</strong></em><em> </em>With our Month-at-a-Glance spread and weekly brainstorm boxes, explore the perfect mix of structure and flexibility to plan your days intentionally.<br/><br/><em><strong>A Faith-Based Planner:</strong></em><em> </em>In the midst of your days, find encouragement and peace in the Scripture featured throughout each month.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "df5bcac4-6902-46b9-a1d5-b670906a711a": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin Planning Today",
+        "button_link": "shopify://collections/planners",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "rich_text_gkELFb": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BAFVzh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_BAFVzh"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_EUrVJT": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_6GeBRr": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_hTfUHm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_TbpfXc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_6GeBRr",
+        "text_block_hTfUHm",
+        "text_block_TbpfXc"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_Fh3rUR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_M4xbER": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_M4xbER"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_UG8Wjy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nDHmhk": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_AyfQ4r": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_nDHmhk",
+        "text_AyfQ4r"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_hFdMPw": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_KhrVM7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_m9pdzt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_9QqCnD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_KhrVM7",
+        "text_block_m9pdzt",
+        "text_block_9QqCnD"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -129,6 +336,11 @@
     "featured_collection_neJ48G",
     "rich_text_NxYHzb",
     "text_and_image_fmVtFk",
-    "df5bcac4-6902-46b9-a1d5-b670906a711a"
+    "df5bcac4-6902-46b9-a1d5-b670906a711a",
+    "rich_text_gkELFb",
+    "text_columns_EUrVJT",
+    "slideshow_Fh3rUR",
+    "rich_text_UG8Wjy",
+    "text_columns_hFdMPw"
   ]
 }
