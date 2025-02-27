@@ -11,13 +11,138 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_3kDVXj": {
+      "type": "slideshow",
+      "blocks": {
+        "image_7UgxEG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "HOSANNA REVIVAL",
+            "title_size": 80,
+            "subheading": "Your home for beautiful Bibles",
+            "link": "shopify://collections/beautiful-bibles",
+            "link_text": "SHOP NOW",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-029_2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_7UgxEG"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_Eh3ya3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_P6nfpV": {
+          "type": "heading",
+          "settings": {
+            "title": "YOUR HOME FOR BEAUTIFUL BIBLES"
+          }
+        },
+        "text_wUcFC9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives. Revive your excitement today by choosing your beautiful Bible. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_P6nfpV",
+        "text_wUcFC9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_3YrqyD": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_HAd7K4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_khG4JV": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_D9wETy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HAd7K4",
+        "text_block_khG4JV",
+        "text_block_D9wETy"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_3kDVXj",
+    "rich_text_Eh3ya3",
+    "text_columns_3YrqyD"
   ]
 }
