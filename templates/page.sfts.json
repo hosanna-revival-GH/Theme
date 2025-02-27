@@ -11,13 +11,89 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "hero_video_t6tAei": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "a devotional on suffering and grief",
+        "link_text": "Watch the Trailer",
+        "link": "https://www.youtube.com/watch?v=BUa-74W8kh0",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=BUa-74W8kh0",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_Cia4fh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NXLRhB": {
+          "type": "heading",
+          "settings": {
+            "title": "Songs for the Suffering"
+          }
+        },
+        "text_nYYYYq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In <em>Songs for the Suffering</em>, you will journey through the questions, fears, and doubts that come when suffering strikes, and discover how the Word of God doesn’t ignore your pain, but rather, invites you to come to the table <em>with</em> it. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_bjhAPj": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>In this 6-week study, readers will journey through the scary emotions that come with profound suffering, even the ones we don’t want to admit. This study will give women a safe place to land when they find themselves questioning the reality of God in the midst of their pain, and offer up real hope when “everything happens for a reason” just doesn’t cut it. While Scripture may feel like the last place you want to bring your pain, <em>Songs for the Suffering</em> will show us just how much of a home the Word is for those in darkness.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_NXLRhB",
+        "text_nYYYYq",
+        "text_bjhAPj"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_pyK3zP": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 20
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_video_t6tAei",
+    "rich_text_Cia4fh",
+    "single_button_pyK3zP"
   ]
 }
