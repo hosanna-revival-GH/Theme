@@ -200,53 +200,55 @@
     },
     "text_columns_MWaPkd": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "So Excited",
-      "text": "<p>I have been looking for study that discusses who God is in all his characteristics and this is one that has stuck out the most.</p><p>—Caroline—</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Absolutely Moving",
-      "text": "<p>I get a very powerful craving to dig deeper into my Bible even more! </p><p>—Desiree—</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "New to the Word",
-      "text": "<p>It was so intentionally written to bring you closer to the heart of God. As someone new to the Word, I am beyond grateful for this tool.</p><p>—Mary—</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "So Excited",
+            "text": "<p>I have been looking for study that discusses who God is in all his characteristics and this is one that has stuck out the most.</p><p>—Caroline—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Absolutely Moving",
+            "text": "<p>I get a very powerful craving to dig deeper into my Bible even more! </p><p>—Desiree—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "New to the Word",
+            "text": "<p>It was so intentionally written to bring you closer to the heart of God. As someone new to the Word, I am beyond grateful for this tool.</p><p>—Mary—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
         "text_block_3"
       ],
       "settings": {
-        "title": "",
+        "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
         "align_text": "center",
         "divider": false
       }
-    },
-    
+    }
   },
   "order": [
     "main",
