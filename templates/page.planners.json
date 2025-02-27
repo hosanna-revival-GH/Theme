@@ -97,12 +97,38 @@
         "space_above": 0,
         "space_below": 75
       }
-    }
+    },
+            "text_and_image_fmVtFk": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-030.jpg",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "The Hosanna Revival Planner is...",
+              "text": "<p><em><strong>A Beautiful Planner:</strong></em><em> </em>We’ve paired intentional visual features with a minimalist touch to stir your excitement to open your planner every day.<br/><br/><em><strong>A Functional Planner:</strong></em><em> </em>With our Month-at-a-Glance spread and weekly brainstorm boxes, explore the perfect mix of structure and flexibility to plan your days intentionally.<br/><br/><em><strong>A Faith-Based Planner:</strong></em><em> </em>In the midst of your days, find encouragement and peace in the Scripture featured throughout each month.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+            "df5bcac4-6902-46b9-a1d5-b670906a711a": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Begin Planning Today",
+              "button_link": "shopify://collections/planners",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
     "slideshow_Qck9Cx",
     "featured_collection_neJ48G",
-    "rich_text_NxYHzb"
+    "rich_text_NxYHzb",
+    "text_and_image_fmVtFk",
+    "df5bcac4-6902-46b9-a1d5-b670906a711a"
   ]
 }
