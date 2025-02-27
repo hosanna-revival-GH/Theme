@@ -111,44 +111,47 @@
     },
     "text_columns_pNLQi7": {
       "type": "text-columns",
-"blocks": {
-  "text_block_19": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Icon-OTIA-Praying-Hands-540x.png",
-      "image_width": 200,
-      "title": "Revive your prayer life",
-      "text": "<p>Over 200 5-star reviews across our designs echo the value of this tool in setting a habit of prayer through simplicity of summarizing daily.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_20": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Icon-OTIA-Edinburgh-540x.png",
-      "image_width": 200,
-      "title": "Choose your favorite design",
-      "text": "<p>From simple leather-bound to floral detailing, find the design that will excite you or the recipient to open these pages over the next 5 years.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_21": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Icon-OTIA-Gift-Box-540x.png",
-      "image_width": 200,
-      "title": "The Perfect Heirloom Gift",
-      "text": "<p>Each journal comes in a keepsake box, making it an incredibly intentional gift that can be passed down through the ages.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_19": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Icon-OTIA-Praying-Hands-540x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Revive your prayer life",
+            "text": "<p>Over 200 5-star reviews across our designs echo the value of this tool in setting a habit of prayer through simplicity of summarizing daily.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_20": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Icon-OTIA-Edinburgh-540x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Choose your favorite design",
+            "text": "<p>From simple leather-bound to floral detailing, find the design that will excite you or the recipient to open these pages over the next 5 years.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_21": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Icon-OTIA-Gift-Box-540x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "The Perfect Heirloom Gift",
+            "text": "<p>Each journal comes in a keepsake box, making it an incredibly intentional gift that can be passed down through the ages.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_19",
         "text_block_20",
@@ -159,6 +162,52 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "single_button_piJifD": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose My Journal",
+        "button_link": "shopify://collections/one-thing-i-ask",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "rich_text_JTnNch": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QpFPEn": {
+          "type": "heading",
+          "settings": {
+            "title": "How to Use Your Prayer Journal"
+          }
+        },
+        "text_R3kfpF": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This keepsake journal contains 366 unprompted daily spreads with five entries per day to document your prayers over five years. Each date offers 7 lines per day where you can summarize your prayers into short phrases, or jot them down as bullet points. Over the next five years, this journal will become an active record of the movement of God in your life.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_QpFPEn",
+        "text_R3kfpF"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -166,6 +215,8 @@
     "slideshow_f7djpG",
     "featured_collection_tDGUDy",
     "rich_text_JpYRCB",
-    "text_columns_pNLQi7"
+    "text_columns_pNLQi7",
+    "single_button_piJifD",
+    "rich_text_JTnNch"
   ]
 }
