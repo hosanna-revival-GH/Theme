@@ -11,7 +11,7 @@
         {% assign parent_found = true %}
       {% endif %}
       
-      {% if parent_found %}
+      {% if parent_found %} here
         {% unless rendered_handles contains link_handle %}
           {% assign rendered_handles = rendered_handles | append: link_handle | append: ',' %}
           <li class="tag {% if link.url == current_url %}active{% endif %}">
