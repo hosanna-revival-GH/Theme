@@ -328,7 +328,20 @@
         "view_all": true,
         "divider": false
       }
-    }
+    },
+             "text_and_image_UKwh4Y": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-098.jpg",
+              "image_width": "50",
+              "subtitle": "Can't decide which Bible to buy?",
+              "title": "Choose the Mystery Bible",
+              "text": "<p>With this mystery Bible, we want to offer you the ability to gift our high-quality Bibles at a steep discount. Do you have a friend in mind who would love a beautiful Loaded Bible? Or one who is a new believer and has never owned a Bible of her own? Or maybe you want to stock up on beautiful copies of God’s Word to prepare a loaded Bible to gift to a stranger you encounter? We encourage you to pray and ask God who this Bible would be perfect for. You can start with someone in mind or wait until you receive the mystery Bible to decide. Happy gifting!</p><p><br/></p>",
+              "button_label": "Shop the Mystery Bible",
+              "button_link": "shopify://products/mystery-bible",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -343,6 +356,7 @@
     "text_and_image_CkMPEM",
     "rich_text_4xqbCp",
     "rich_text_rVnGnm",
-    "featured_collection_XpDB3a"
+    "featured_collection_XpDB3a",
+    "text_and_image_UKwh4Y"
   ]
 }
