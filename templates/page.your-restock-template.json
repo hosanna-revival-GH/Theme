@@ -154,35 +154,36 @@
     },
     "text_columns_HjQyw9": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_4xzCcX": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_xFybBk": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_53": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Sierra-Landing-page3.png",
+      "image_width": 650,
+      "title": "ESV SIERRA",
+      "text": "<p>\"In the Sierra Madre region of Mexico, strong and bold dahlias grow freely. As I designed this Bible, I pondered the strength and steadfastness of God's love, and I immediately thought of the dahlia. The beauty of a dahlia is breathtaking, and they grow strong, thick stems with deep roots to support their heavy blooms.\" </p>",
+      "button_label": "SHOP SIERRA",
+      "button_link": "shopify://products/esv-journaling-bible-sierra-theme"
+    }
+  },
+  "text_block_54": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Yorkshire-Landing-page.png",
+      "image_width": 650,
+      "title": "ESV YORKSHIRE",
+      "text": "<p>Light and bright poppies grow abundantly in the fields of Yorkshire, UK. Poppies grow from seed, sprouting very quickly, and produce full and colorful blooms. This beautiful Bible features a free-form bouquet of wild poppies and is paired with a verse from Scripture that perfectly complements the personality of the poppy: \"Where the Spirit of the Lord is, there is freedom\" (<a href=\"https://biblia.com/bible/esv/2%20Cor%203.17\" target=\"_blank\">2 Corinthians 3:17</a>).</p>",
+      "button_label": "Shop Yorkshire",
+      "button_link": "shopify://products/esv-journaling-bible-yorkshire-theme"
+    }
+  },
+
+},
       "block_order": [
-        "text_block_4xzCcX",
-        "text_block_xFybBk"
+        "text_block_53",
+        "text_block_54"
       ],
       "settings": {
         "title": "",
@@ -201,7 +202,69 @@
         "view_all": true,
         "divider": false
       }
+    },
+              "31026833-d61f-45ed-9a9d-2de86fa5502b": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 0,
+              "space_below": 0,
+              "button_text": "shop bibles",
+              "button_link": "",
+              "button_size": "huge"
+            }
+          },
+       "text_columns_HjQyw91": {
+      "type": "text-columns",
+"blocks": {
+  "text_block_56": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>Absolutely Stunning<br/>This is the most beautiful Bible I've ever owned. I'm getting back into reading the Word for the first time in years, and I feel so excited and happy every time I take out my Bible.<br/><em>- Karley</em></p>",
+      "button_label": "",
+      "button_link": ""
     }
+  },
+  "text_block_57": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>My Most Favorite Bible I’ve Ever Owned<br/>This business is like no other. Their mission is to “excite women about engaging in Scripture by creating beautiful and intentional tools for their lives,” and that is exactly the experience I've had with this brand.<br/><em>- Allyson</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_58": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>Worth the Wait<br/>This Bible is everything I was hoping for. I’ve received so many questions & compliments on it & I’m always delighted to share where I purchased it from :)<br/><em>- Vanessa</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
+      "block_order": [
+        "text_block_56",
+        "text_block_57",
+        "text_block_58"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
   },
   "order": [
     "main",
@@ -210,6 +273,8 @@
     "text_columns_3YrqyD",
     "b95e36af-af14-4069-bd0a-d6854c1532ab",
     "text_columns_HjQyw9",
-    "featured_collection_wC3JzL"
+    "featured_collection_wC3JzL",
+    "31026833-d61f-45ed-9a9d-2de86fa5502b",
+"text_columns_HjQyw91"
   ]
 }
