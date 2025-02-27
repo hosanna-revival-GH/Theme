@@ -315,7 +315,46 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+              "846f4bc6-7d79-40ee-9b2d-bb89f9dc1440": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Haylee-J-Williams-Devotional-001.jpg",
+              "image_width": "50",
+              "subtitle": "Study Tools",
+              "title": "New to the Bible?",
+              "text": "<p>Are you new to reading the Bible? If you're picking up this devotional yet feel unable to navigate God's Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let's dive in!</p><p></p>",
+              "button_label": "Browse Bible Toolkit",
+              "button_link": "shopify://pages/bible-toolkit",
+              "layout": "left"
+            }
+          },
+          "e80d8391-baa3-4535-8937-f772e0b0f461": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Haylee-J-Williams-Author-Portrait-001.jpg",
+              "image_width": "50",
+              "subtitle": "Meet the Author",
+              "title": "Haylee J. Williams",
+              "text": "<p>Haylee is a wife, mother of two, and faithful church member. She is also pursuing an M. Div from Midwestern Baptist Theological Seminary. Haylee is most passionate about Bible literacy, discipleship, and helping others grow in their desire and love for God’s Word. <em>God of Forever </em>is Haylee’s first published devotional. You can find more of Haylee on Instagram @hayleejwilliams.</p>",
+              "button_label": "Follow Haylee",
+              "button_link": "https://www.instagram.com/hayleejwilliams/",
+              "layout": "right"
+            }
+          },
+          "e1aebcfc-d5cd-46ba-b2e7-b49e36c5b3e5": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Haylee-J-Williams-Devotional-002.jpg",
+              "image_width": "50",
+              "subtitle": "Meet the Author",
+              "title": "Haylee's Story",
+              "text": "<p>In seasons where life has been very hard—miscarriage, death, divorce, job changes, and even the mundane tumults of this life—the truths contained within this devotional have been the truths Haylee has clung to. When the questions of God’s goodness have arisen, she has found herself turning to the Word to find comfort, joy, and truth. To live the Christian life, we need secure anchors of God’s goodness that hold us near to him. We need more theology, not less. </p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -329,6 +368,9 @@
     "text_columns_MWaPkd",
     "1b9b5df5-91a7-4e2a-be80-fc5494212b21",
     "e3ab3ef3-fffe-41c6-bb4d-8ca71ed25a26",
-    "slideshow_LDMLFi"
+    "slideshow_LDMLFi",
+    "846f4bc6-7d79-40ee-9b2d-bb89f9dc1440",
+    "e80d8391-baa3-4535-8937-f772e0b0f461",
+     "e1aebcfc-d5cd-46ba-b2e7-b49e36c5b3e5"
   ]
 }
