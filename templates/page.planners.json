@@ -825,44 +825,25 @@
         "divider": false
       }
     },
-    "slideshow_6XEVGJ": {
-      "type": "slideshow",
-      "blocks": {
-        "image_rwh4Xj": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "A Faith-Based Planner",
-            "title_size": 72,
-            "subheading": "Explore the Scripture-centered features",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-216B.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_rwh4Xj"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "combined-content-section-4": {
       "type": "toolkit",
       "blocks": {
+        "hero_VATTHV": {
+          "type": "hero",
+          "settings": {
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-216B.jpg",
+            "title": "A Faith-Based Planner",
+            "subheading": "Explore the Scripture-centered features",
+            "link": "",
+            "link_text": "",
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 72,
+            "parallax": true,
+            "section_height": "450px",
+            "mobile_height": "auto"
+          }
+        },
         "rich_text_AxEJiA": {
           "type": "rich_text",
           "settings": {
@@ -926,6 +907,7 @@
         }
       },
       "block_order": [
+        "hero_VATTHV",
         "rich_text_AxEJiA",
         "text_and_image_KARch8",
         "text_and_image_XhMAaj",
@@ -990,53 +972,38 @@
         "divider": false
       }
     },
-    "slideshow_xNtC8h": {
-      "type": "slideshow",
+    "combined-content-section-7": {
+      "type": "toolkit",
       "blocks": {
-        "image_LaE4bG": {
-          "type": "image",
+        "hero_UGAWgB": {
+          "type": "hero",
           "settings": {
-            "top_subheading": "",
-            "title": "A Planner for Every \nSeason",
-            "title_size": 72,
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-183.jpg",
+            "title": "A Planner for Every Season",
             "subheading": "",
             "link": "",
             "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-183.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_LaE4bG"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
-    "rich_text_63TGqA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_3GrYL7": {
-          "type": "heading",
-          "settings": {
-            "title": "Built for You"
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 72,
+            "parallax": false,
+            "section_height": "450px",
+            "mobile_height": "auto"
           }
         },
-        "text_TyzQYJ": {
-          "type": "text",
+        "rich_text_URfwAW": {
+          "type": "rich_text",
           "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#6b6e40",
+            "color_text": "#e8e8e1",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Built for You",
             "enlarge_text": true,
             "text": "<p>We design our planners with all walks of life in mind. Built with both structure and flexibility, our planners are adaptable to your specific needs.</p>",
             "align_text_block": "inherit",
@@ -1045,19 +1012,12 @@
         }
       },
       "block_order": [
-        "heading_3GrYL7",
-        "text_TyzQYJ"
+        "hero_UGAWgB",
+        "rich_text_URfwAW"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#6b6e40",
-        "color_text": "#e8e8e1",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "text_columns_iEWpem": {
@@ -1108,7 +1068,7 @@
       "settings": {
         "title": "",
         "align_text": "center",
-        "divider": true
+        "divider": false
       }
     },
     "single_button_FnXkzE": {
@@ -1236,34 +1196,6 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
-        },
-        "single_button_7H6K7w": {
-          "type": "single-button",
-          "settings": {
-            "secondary": false,
-            "button_text": "Click Here",
-            "button_link": "/",
-            "button_size": "medium",
-            "alignment": "center",
-            "space_above": 30,
-            "space_below": 20
-          }
-        },
-        "hero_e93yCF": {
-          "type": "hero",
-          "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-074.jpg",
-            "title": "",
-            "subheading": "",
-            "link": "shopify://collections/planners",
-            "link_text": "Begin Today",
-            "color_accent": "",
-            "text_align": "left",
-            "title_size": 32,
-            "parallax": false,
-            "section_height": "650px",
-            "mobile_height": "auto"
-          }
         }
       },
       "block_order": [
@@ -1273,18 +1205,109 @@
         "faq_YajU4K",
         "single_button_JyyRWU",
         "hero_qmADww",
-        "rich_text_jT6KfN",
-        "single_button_7H6K7w",
-        "hero_e93yCF"
+        "rich_text_jT6KfN"
       ],
       "settings": {
         "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "text_columns_NQixpN": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_aPxQXA": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_QPQmzD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_mnk66e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_aPxQXA",
+        "text_block_QPQmzD",
+        "text_block_mnk66e"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_8k6T9t": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Shop All",
+        "button_link": "shopify://collections/accessories",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
         "space_below": 75
       }
     },
-    "combined-content-section-7": {
-      "type": "toolkit",
-      "settings": {}
+    "slideshow_7tMFxX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_c3CQt8": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/planners",
+            "link_text": "Begin Today",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-074.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_c3CQt8"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -1303,15 +1326,15 @@
     "text_columns_jCgwVL",
     "combined-content-section-2",
     "text_columns_JDTgYc",
-    "slideshow_6XEVGJ",
     "combined-content-section-4",
     "text_columns_r8JV6r",
-    "slideshow_xNtC8h",
-    "rich_text_63TGqA",
+    "combined-content-section-7",
     "text_columns_iEWpem",
     "single_button_FnXkzE",
     "hero_video_jFMaEt",
     "combined-content-section-6",
-    "combined-content-section-7"
+    "text_columns_NQixpN",
+    "single_button_8k6T9t",
+    "slideshow_7tMFxX"
   ]
 }
