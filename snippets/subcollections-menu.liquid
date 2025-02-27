@@ -11,14 +11,13 @@
         {% assign parent_found = true %}
       {% endif %}
       
-      {% if parent_found %} here
+      {% if parent_found %} 
         {% unless rendered_handles contains link_handle %}
           {% assign rendered_handles = rendered_handles | append: link_handle | append: ',' %}
-          <li class="tag {% if link.url == current_url %}active{% endif %}">
-            <a href="{{ link.url }}" class="no-ajax" style="{% if link.url == current_url %}font-weight: bold;{% endif %}">
-              {{ link.title }}
-            </a>
-          </li>
+          <button type="button" class="collapsible-trigger collapsible-trigger-btn collapsible--auto-height{% unless collapsed_state %} is-open{% endunless %} tag-list__header" aria-controls="{{ location }}-{{ index }}{% if id %}-{{ id }}{% endif %}">
+          {{ link.title }}
+          {% render 'collapsible-icons' %}
+        </button>
           
           {% if link.links != blank %}
             <ul class="no-bullets tag-list">
