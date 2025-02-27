@@ -124,7 +124,7 @@
             "image_mask": "none",
             "image_width": 110,
             "title": "Step 3",
-            "text": "<p>Once they make a purchase, you'll receive your own $10 off code.</p>",
+            "text": "<p>Once they make a purchase, you’ll receive your own $10 off code.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -619,7 +619,7 @@
           "type": "rich-text",
           "settings": {
             "title": "",
-            "text": "<p>Friend's Experience</p>",
+            "text": "<p>Friend’s Experience</p>",
             "align_text": "left"
           }
         },
