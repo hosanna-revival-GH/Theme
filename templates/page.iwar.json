@@ -329,12 +329,13 @@
         "image_TYeAyb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-473.jpg",
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
+            "title": "",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
+            "subheading": "",
+              "link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+              "link_text": "shop in weeping and rejoicing",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -356,7 +357,18 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+              "single_button_dwk6Cy": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "BACK TO DEVOTIONAL LIBRARY",
+              "button_link": "shopify://pages/devotionals",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -372,6 +384,7 @@
     "text_and_image_WGta8f",
     "text_and_image_TnnR6t",
     "single_button_3gmwY3",
-    "slideshow_NEtP87"
+    "slideshow_NEtP87",
+    "single_button_dwk6Cy"
   ]
 }
