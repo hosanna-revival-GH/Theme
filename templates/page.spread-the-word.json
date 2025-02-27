@@ -17,6 +17,41 @@
         "page_content_enable": true
       }
     },
+    "rich_text_7HwPDA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KwhieT": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_3TPWpG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Spread the Word Collective</em> is our referral program that empowers you to easily share God’s Word, fostering discipleship and spiritual growth alongside a friend</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_KwhieT",
+        "text_3TPWpG"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 50,
+        "space_below": 75
+      }
+    },
     "rich_text_7dpjVx": {
       "type": "rich-text",
       "blocks": {
@@ -143,7 +178,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#789ec8",
+        "color_bg": "#b9a038",
         "color_text": "#ffffff",
         "space_above": 75,
         "space_below": 75
@@ -711,6 +746,7 @@
   },
   "order": [
     "main",
+    "rich_text_7HwPDA",
     "rich_text_7dpjVx",
     "text_columns_YCpTWi",
     "rich_text_aQiknw",
