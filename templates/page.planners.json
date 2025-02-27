@@ -1108,7 +1108,7 @@
             "narrow_column": true,
             "divider": false,
             "css-id": "",
-            "css-class": "enlarge-text",
+            "css-class": "",
             "color_bg": "#ffffff",
             "color_text": "#000000",
             "space_above": 75,
@@ -1123,6 +1123,7 @@
         "faq_FKBRR6": {
           "type": "faq",
           "settings": {
+            "css-class": "enlarge-text",
             "question": "What is new about Hosanna Revival’s 2025 Planner?",
             "answer": "<p>A few years ago, we went through an in-depth process of gathering feedback to understand your needs as you intentionally plan your days. As a result, we revisit our design each year to make it better than the last. Explore our new features for this year’s planners:</p><ul><li><strong>12-Months:</strong> We wanted to provide you with a more compact annual planner for the first time! Our 2025 Planners run from January 2025 - December 2025.</li><li><strong>Refreshed Interior Layout:</strong> We combined our signature floral and minimalist interiors for a single unified “delicate floral” design available in 3 cover designs and our undated format.</li><li><strong>3 New Cover Designs:</strong> We are so excited to introduce our Marlo, Coram, and Summerside covers! Which one will you choose? </li><li><strong>Our Undated 12-Month Planner:</strong><em><strong> </strong></em>Begin in any season! <a href=\"https://hosannarevival.com/pages/undated-planner\" title=\"The Hosanna Revival Undated Planner\">Explore more here</a>.</li></ul><p>We pray these features serve you well as you intentionally plan your days.</p>",
             "align_text": "left",
@@ -1133,6 +1134,7 @@
         "faq_pypJTz": {
           "type": "faq",
           "settings": {
+            "css-class": "enlarge-text",
             "question": "How do you use the Month-at-a-Glance spread?",
             "answer": "<p>Our signature Month-at-a-Glance Spread is the perfect place to drop ideas before heading into your month ahead. Or, if you need extra space during the month, you can turn back here to note down anything you want to remember.</p><p><strong>To the Left:</strong> Plan your month as a whole! The blank box is for lists, random notes, drawings, and more, while the lines are for more structured checklists, grocery lists, schedules, prayer requests, etc! If you find yourself thinking, I wish I had space for ______, this page is designed for that! </p><p><strong>To the Right:</strong> Plan your month week-by-week! These blank weekly boxes are where you can put special events, week-specific tasks, priorities, and reminders before you head into your weekly spread. Think of it as a drop list for all your thoughts before or during the month!</p><p>At the end of the day, these sections are designed to be used in whatever way you need to plan your year well.</p>",
             "align_text": "left",
@@ -1143,6 +1145,7 @@
         "faq_YajU4K": {
           "type": "faq",
           "settings": {
+            "css-class": "enlarge-text",
             "question": "What are the daily blank boxes on the weekly spread for?",
             "answer": "<p>Use these boxes in whichever way serves you best as you plan! Here are a few ideas to fill this box: top 3 priorities for the day, daily events, task dump list, birthdays, a verse of the day, or doodles! The options are endless!</p>",
             "align_text": "left",
