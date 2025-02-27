@@ -761,87 +761,87 @@
     },
     "text_columns_JDTgYc": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_W9e8C7": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_TCCC6H": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_htgtXU": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_Vg8njV": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_az9BYb": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_m4UBLq": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/space-2_PNG.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/space-3_PNG.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/space-4_PNG.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+    "text_block_4": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/notes-1_PNG.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_5": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/space-6_PNG.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_6": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/space-5_PNG.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_W9e8C7",
-        "text_block_TCCC6H",
-        "text_block_htgtXU",
-        "text_block_Vg8njV",
-        "text_block_az9BYb",
-        "text_block_m4UBLq"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3",
+        "text_block_4",
+        "text_block_5",
+        "text_block_6"
       ],
       "settings": {
         "title": "",
