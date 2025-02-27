@@ -111,48 +111,48 @@
     },
     "text_columns_pNLQi7": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_CPKBNj": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_AwxaBe": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_CaH7ce": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_19": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Icon-OTIA-Praying-Hands-540x.png",
+      "image_width": 200,
+      "title": "Revive your prayer life",
+      "text": "<p>Over 200 5-star reviews across our designs echo the value of this tool in setting a habit of prayer through simplicity of summarizing daily.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_20": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Icon-OTIA-Edinburgh-540x.png",
+      "image_width": 200,
+      "title": "Choose your favorite design",
+      "text": "<p>From simple leather-bound to floral detailing, find the design that will excite you or the recipient to open these pages over the next 5 years.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_21": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Icon-OTIA-Gift-Box-540x.png",
+      "image_width": 200,
+      "title": "The Perfect Heirloom Gift",
+      "text": "<p>Each journal comes in a keepsake box, making it an incredibly intentional gift that can be passed down through the ages.</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_CPKBNj",
-        "text_block_AwxaBe",
-        "text_block_CaH7ce"
+        "text_block_19",
+        "text_block_20",
+        "text_block_21"
       ],
       "settings": {
         "title": "",
