@@ -154,49 +154,42 @@
     },
     "image_row_3C7e3X": {
       "type": "image-row",
-"blocks": {
-  "image_1": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-043_2efd61a5-98d7-4768-9344-11a60f57cc01.jpg",
-      "caption": "",
-      "link": ""
-    }
-  },
-  "image_2": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-039.jpg",
-      "caption": "",
-      "link": ""
-    }
-  },
-  "image_3": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-045.jpg",
-      "caption": "",
-      "link": ""
-    }
-  },
-  "image_4": {
-    "type": "image",
-    "settings": {
-      "enable_image": false,
-      "image": "",
-      "caption": "",
-      "link": ""
-    }
-  }
-},
+      "blocks": {
+        "image_1": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-043_2efd61a5-98d7-4768-9344-11a60f57cc01.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        },
+        "image_2": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-039.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        },
+        "image_3": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-045.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        }
+      },
       "block_order": [
         "image_1",
         "image_2",
-        "image_3",
-        "image_4"
+        "image_3"
       ],
       "settings": {
         "title": "",
