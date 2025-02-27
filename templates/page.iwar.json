@@ -241,7 +241,6 @@
         "image_CQc4pX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-474.jpg",
             "top_subheading": "",
             "title": "BONUS CONTENT",
             "title_size": 72,
@@ -252,6 +251,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-474.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -270,43 +270,93 @@
         "lazyload_images": true
       }
     },
-              "text_and_image_WGta8f": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/IWAR-Landing-Page-06.png",
-              "image_width": "50",
-              "subtitle": "Meet the Author",
-              "title": "Paige Stitt McBride",
-              "text": "<p>Paige Stitt McBride, wife to Brett and mother to Violet and baby number two on the way, spends her days caring for her family and studying God’s Word for seminary, writing projects, her church, and personal devotion. She is also the author of Beauty Not Beheld. She prays her writing will equip readers to engage with the ancient Scriptures in our modern context to the glory of God.</p>",
-              "button_label": "Follow Paige Here",
-              "button_link": "https://www.instagram.com/_paigemcbride/?hl=en",
-              "layout": "left"
-            }
-          },
-          "text_and_image_TnnR6t": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/IWAR-Landing-Page-07.png",
-              "image_width": "50",
-              "subtitle": "Meet the Author",
-              "title": "Paige's Story",
-              "text": "<p>Growing up in a loving, stable Christian home, it would seem that I had all I needed to flourish. Indeed, in many ways I did. I had a family that pointed me to the gospel of Jesus Christ and to the truth and power of the Scriptures as a source for life, hope, and flourishing. And yet, with all my worldly needs taken care of, I quickly found myself in a cage of emotional narcissism. All I could think about day to day was how I was feeling. And the majority of the time, I wasn’t feeling too good. I found myself heavily burdened by sorrow. The world seemed to be a very dark place to my weary eyes. I knew so many rich and healing biblical truths, but I rarely felt them. </p><p>My battle with depression that began during puberty continues to follow me today. Years of prayers, thoughtful conversations, counseling, and even medicinal treatment have all contributed to my current emotional progress. But it has been my exposure to the richness of God’s Word when it comes to my emotional life that has made all of those other elements effective. More and more, through careful study, patient prayer, and spiritual discipline, I am finding a way to feel the truth rather than simply understand the truth. I hope this book will help others start that very long and often discouraging journey of spiritual-emotional development.</p>",
-              "button_label": "",
-              "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
-              "layout": "right"
-            }
-          },
-          "single_button_3gmwY3": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "buy now",
-              "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
-              "button_size": "huge"
-            }
-          },
+    "text_and_image_WGta8f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/IWAR-Landing-Page-06.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Paige Stitt McBride",
+        "text": "<p>Paige Stitt McBride, wife to Brett and mother to Violet and baby number two on the way, spends her days caring for her family and studying God’s Word for seminary, writing projects, her church, and personal devotion. She is also the author of Beauty Not Beheld. She prays her writing will equip readers to engage with the ancient Scriptures in our modern context to the glory of God.</p>",
+        "button_label": "Follow Paige Here",
+        "button_link": "https://www.instagram.com/_paigemcbride/?hl=en",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_TnnR6t": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/IWAR-Landing-Page-07.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Paige's Story",
+        "text": "<p>Growing up in a loving, stable Christian home, it would seem that I had all I needed to flourish. Indeed, in many ways I did. I had a family that pointed me to the gospel of Jesus Christ and to the truth and power of the Scriptures as a source for life, hope, and flourishing. And yet, with all my worldly needs taken care of, I quickly found myself in a cage of emotional narcissism. All I could think about day to day was how I was feeling. And the majority of the time, I wasn’t feeling too good. I found myself heavily burdened by sorrow. The world seemed to be a very dark place to my weary eyes. I knew so many rich and healing biblical truths, but I rarely felt them. </p><p>My battle with depression that began during puberty continues to follow me today. Years of prayers, thoughtful conversations, counseling, and even medicinal treatment have all contributed to my current emotional progress. But it has been my exposure to the richness of God’s Word when it comes to my emotional life that has made all of those other elements effective. More and more, through careful study, patient prayer, and spiritual discipline, I am finding a way to feel the truth rather than simply understand the truth. I hope this book will help others start that very long and often discouraging journey of spiritual-emotional development.</p>",
+        "button_label": "",
+        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_3gmwY3": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "buy now",
+        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "slideshow_NEtP87": {
+      "type": "slideshow",
+      "blocks": {
+        "image_TYeAyb": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_TYeAyb"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -322,5 +372,6 @@
     "text_and_image_WGta8f",
     "text_and_image_TnnR6t",
     "single_button_3gmwY3",
+    "slideshow_NEtP87"
   ]
 }
