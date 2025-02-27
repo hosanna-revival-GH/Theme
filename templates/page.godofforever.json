@@ -197,6 +197,57 @@
         "enable_spacing": true,
         "enable_zoom": false
       }
+    },
+    "text_columns_MWaPkd": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_kTQCUN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_gPepRL": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_Lc8DPw": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_kTQCUN",
+        "text_block_gPepRL",
+        "text_block_Lc8DPw"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -207,6 +258,7 @@
     "1e55a88a-f181-47c6-a766-47d972191b17",
     "5ea9e051-2505-4a64-95fd-e4dda2b2527e",
     "c2ab696b-ca34-4d70-9102-18848aa46f08",
-    "image_row_3C7e3X"
+    "image_row_3C7e3X",
+    "text_columns_MWaPkd"
   ]
 }
