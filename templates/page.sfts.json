@@ -248,7 +248,31 @@
         "align_text": "center",
         "divider": false
       }
-    }
+    },
+          "26dff4a0-2465-4417-9f19-0bc81213168c": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-031.jpg",
+              "image_width": "50",
+              "subtitle": "Sneak Peek at the introduction",
+              "title": "\"Dear Friends, I am happy— and sad—that you are here...",
+              "text": "<p>Let me explain: If you are here, opening the words to this book, it means that like me, you have suffered. You may be on the road of pain at this very moment, or you may have lived here for years. This may be the tenth book you’ve read on the topic of suffering, or your very first. You, my friend, have landed here because the cards life has dealt to you have been filled with pain and tear filled nights, doubting and questioning and wondering if the God you call Savior was ever real to begin with...\"</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "b4180caf-4c34-41af-87d4-1a8b5ba89ab7": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Buy Now",
+              "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -259,6 +283,8 @@
     "46251244-472e-41e9-aed5-42bc423cc417",
     "ddf6ef08-82bf-4630-b014-2c2df13532e4",
     "image_row_8mdiP7",
-    "text_columns_kAwgKj"
+    "text_columns_kAwgKj",
+     "26dff4a0-2465-4417-9f19-0bc81213168c",
+     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7"
   ]
 }
