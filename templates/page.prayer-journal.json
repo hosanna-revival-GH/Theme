@@ -11,13 +11,161 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_f7djpG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_8y4eUh": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "The Five-Year \nPrayer Journal",
+            "title_size": 72,
+            "subheading": "our signature tool for documenting your life of prayer",
+            "link": "shopify://collections/one-thing-i-ask",
+            "link_text": "Choose Your Journal",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Fall-Flatlay-5-Year-Prayer-Journal-One-Thing-I-Ask-010.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_8y4eUh"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "featured_collection_tDGUDy": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Choose Your Cover Design",
+        "home_featured_products": "one-thing-i-ask",
+        "per_row": 3,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_JpYRCB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yHrC7x": {
+          "type": "heading",
+          "settings": {
+            "title": "One Thing I ask"
+          }
+        },
+        "text_jC7gFB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>The Five-Year Prayer Journal</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_8rXRwX": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to Hosanna Revival’s signature 5-Year Prayer Journal. These beautiful journals make incredible gifts for the people you love or you yourself as you build a consistent habit of prayer. The possibilities are endless, and we can’t wait to see the beautiful and unique ways these prayer journals are used and loved.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_yHrC7x",
+        "text_jC7gFB",
+        "text_8rXRwX"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_pNLQi7": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_CPKBNj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_AwxaBe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_CaH7ce": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_CPKBNj",
+        "text_block_AwxaBe",
+        "text_block_CaH7ce"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_f7djpG",
+    "featured_collection_tDGUDy",
+    "rich_text_JpYRCB",
+    "text_columns_pNLQi7"
   ]
 }
