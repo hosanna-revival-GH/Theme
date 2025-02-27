@@ -11,13 +11,89 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "hero_video_3VRBFJ": {
+      "type": "hero-video",
+      "settings": {
+        "title": "God of Forever",
+        "title_size": 80,
+        "subheading": "A devotional on the character of God",
+        "link_text": "Watch the Trailer",
+        "link": "https://www.youtube.com/watch?v=ODRamFXmATI",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=ODRamFXmATI",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_c6VK9p": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8YWbma": {
+          "type": "heading",
+          "settings": {
+            "title": "God of Forever"
+          }
+        },
+        "text_Ad3Ytf": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>God of Forever</em> is an 8-week devotional where author Haylee Williams provides an introductory study of the God of Scripture through an emphasis on studying the Word and seeing the magnificence of God from Genesis to Revelation.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_HhHQQY": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>God of Forever</em>, a devotional by Haylee Williams, is an eight-week study that draws out the truth of God’s character through the pages of God’s Word. With a primary focus on Scripture, <em>God of Forever</em> is an excellent introduction to the Trinity and to the unchanging constancy of God. Looking closely at the united will and essence of the Father, Son, and Holy Spirit, this devotional seeks to dispel the misunderstandings surrounding the love and omnipotence of our Lord. Our prayer for this devotional is that it helps you to grow in knowledge, worship, and desire for God and his Word. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_8YWbma",
+        "text_Ad3Ytf",
+        "text_HhHQQY"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_DzhzPE": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=41455186968754&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_video_3VRBFJ",
+    "rich_text_c6VK9p",
+    "single_button_DzhzPE"
   ]
 }
