@@ -156,39 +156,40 @@
     },
     "image_row_LiQbUw": {
       "type": "image-row",
-      "blocks": {
-        "image_36mCgD": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_Y86mNY": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_XABtEm": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+  "blocks": {
+  "image_46": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-008.jpg",
+      "caption": "",
+      "link": "shopify://pages/beautiful-bibles"
+    }
+  },
+  "image_47": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-061.jpg",
+      "caption": "",
+      "link": "shopify://pages/devotionals"
+    }
+  },
+  "image_48": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Summer-Picnic-Refresh-Hosanna-Revival-Beautiful-Bibles-071.jpg",
+      "caption": "",
+      "link": "shopify://collections/notebooks"
+    }
+  },
+
+},
       "block_order": [
-        "image_36mCgD",
-        "image_Y86mNY",
-        "image_XABtEm"
+        "image_46",
+        "image_47",
+        "image_48"
       ],
       "settings": {
         "title": "",
