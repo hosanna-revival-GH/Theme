@@ -1281,6 +1281,10 @@
         "space_above": 0,
         "space_below": 75
       }
+    },
+    "combined-content-section-7": {
+      "type": "toolkit",
+      "settings": {}
     }
   },
   "order": [
@@ -1307,6 +1311,7 @@
     "text_columns_iEWpem",
     "single_button_FnXkzE",
     "hero_video_jFMaEt",
-    "combined-content-section-6"
+    "combined-content-section-6",
+    "combined-content-section-7"
   ]
 }
