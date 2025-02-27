@@ -110,44 +110,47 @@
     },
     "text_columns_Ugg789": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/PrayingHandsIcon.png",
-      "image_width": 200,
-      "title": "REVIVE YOUR PRAYER LIFE",
-      "text": "<p>Over 200 5-star reviews across our designs echo the value of this tool in setting a habit of prayer through simplicity of summarizing daily.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/EdinburghIcon.png",
-      "image_width": 200,
-      "title": "Choose Your Favorite Design",
-      "text": "<p>From leather-bound to full floral, find the design that will excite you or the recipient to open these pages over the next 5 years.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/GiftBoxIcon.png",
-      "image_width": 200,
-      "title": "The Perfect Heirloom Gift",
-      "text": "<p>Each journal comes in a keepsake box, making it an incredibly intentional gift that can be passed down through the ages.</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/PrayingHandsIcon.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "REVIVE YOUR PRAYER LIFE",
+            "text": "<p>Over 200 5-star reviews across our designs echo the value of this tool in setting a habit of prayer through simplicity of summarizing daily.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/EdinburghIcon.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Choose Your Favorite Design",
+            "text": "<p>From leather-bound to full floral, find the design that will excite you or the recipient to open these pages over the next 5 years.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/GiftBoxIcon.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "The Perfect Heirloom Gift",
+            "text": "<p>Each journal comes in a keepsake box, making it an incredibly intentional gift that can be passed down through the ages.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
@@ -171,19 +174,131 @@
         "divider": false
       }
     },
-              "38d8ba17-467a-4569-bff3-143e24663586": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/OneThingIAsk-AllsmithAds_landingpageasset.png",
-              "image_width": "50",
-              "subtitle": "HOW TO USE",
-              "title": "Your One Thing I Ask Journal",
-              "text": "<p>Through our One Thing I Ask Prayer Journal, collect 5 years of prayer in seven lines a day, all in one place. Over the next five years, this journal will become an active record of God’s movement in your life as you behold his faithfulness. Start by filling in the year at the top, summarize your prayers below, and then repeat for five years to see God's faithfulness year to year. </p>",
-              "button_label": "SHOP ONE THING I ASK",
-              "button_link": "shopify://collections/one-thing-i-ask",
-              "layout": "right"
-            }
-          },
+    "38d8ba17-467a-4569-bff3-143e24663586": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/OneThingIAsk-AllsmithAds_landingpageasset.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "HOW TO USE",
+        "title": "Your One Thing I Ask Journal",
+        "text": "<p>Through our One Thing I Ask Prayer Journal, collect 5 years of prayer in seven lines a day, all in one place. Over the next five years, this journal will become an active record of God’s movement in your life as you behold his faithfulness. Start by filling in the year at the top, summarize your prayers below, and then repeat for five years to see God's faithfulness year to year. </p>",
+        "button_label": "SHOP ONE THING I ASK",
+        "button_link": "shopify://collections/one-thing-i-ask",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_columns_fz4mqT": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_zF3DyK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_bDyEan": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_jgrx6d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_zF3DyK",
+        "text_block_bDyEan",
+        "text_block_jgrx6d"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "image_row_t3HaTA": {
+      "type": "image-row",
+      "blocks": {
+        "image_n8Ay3g": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_XD3Jzy": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_phaCrY": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_hXLGBW": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_n8Ay3g",
+        "image_XD3Jzy",
+        "image_phaCrY",
+        "image_hXLGBW"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    }
   },
   "order": [
     "main",
@@ -192,6 +307,8 @@
     "single_button_A4iQQ4",
     "text_columns_Ugg789",
     "featured_collection_63YLHm",
-    "38d8ba17-467a-4569-bff3-143e24663586"
+    "38d8ba17-467a-4569-bff3-143e24663586",
+    "text_columns_fz4mqT",
+    "image_row_t3HaTA"
   ]
 }
