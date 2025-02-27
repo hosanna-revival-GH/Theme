@@ -263,7 +263,7 @@
 </div>
 
 {% when 'faq' %}
-    <div class="faq-section" style="padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
+    <div class="{{ block.settings.css-class }} faq-section" style="padding-top: {{ block.settings.space_above }}px; padding-bottom: {{ block.settings.space_below }}px;">
     <div class="page-width page-width--narrow">
       <button type="button" class="collapsible-trigger collapsible-trigger--inline collapsible--auto-height text-left" aria-controls="FAQ-content-{{ block.id }}" aria-expanded="false">
          {%- render 'collapsible-icons-alt', no_circle: true -%}
