@@ -208,7 +208,57 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+              "ba391371-3a7a-4547-9123-836d5e3f355d": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-290.jpg",
+              "image_width":"50",
+              "subtitle": "1",
+              "title": "Flip to the date and fill in the year",
+              "text": "<p>There are 366 date spreads to cover your entire year with 5 entries per spread. Use the ribbon to mark your spot.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "c42897e5-c3d3-48b6-b1f5-b6bd990e84ec": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-301.jpg",
+              "image_width": "50",
+              "subtitle": "2",
+              "title": "Pray out loud or in your head",
+              "text": "<p>Take the time to come before the Lord in prayer by praying out loud, in your head, or writing out your long-form prayer in an accompanying journal. Need a reminder of why we pray? Explore our free<a href=\"/pages/prayer-toolkit\" target=\"_blank\" title=\"Prayer Toolkit\"> Prayer Toolkit</a>!</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+          "69a36dcc-e1ee-42c6-b00c-260b97b8fb4b": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-292.jpg",
+              "image_width": "50",
+              "subtitle": "3",
+              "title": "Summarize your prayers",
+              "text": "<p>In the 7 lines in your prayer journal, bullet point or write out a summary of your prayers for the day. Keep it short and simple — a way to look back and remember how God was working in your heart and life that specific day.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "3bf3c296-a18e-429a-8437-d13bd1551f26": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Choose your design",
+              "button_link": "shopify://collections/one-thing-i-ask",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -217,6 +267,10 @@
     "rich_text_JpYRCB",
     "text_columns_pNLQi7",
     "single_button_piJifD",
-    "rich_text_JTnNch"
+    "rich_text_JTnNch",
+    "ba391371-3a7a-4547-9123-836d5e3f355d",
+    "c42897e5-c3d3-48b6-b1f5-b6bd990e84ec",
+     "69a36dcc-e1ee-42c6-b00c-260b97b8fb4b",
+    "3bf3c296-a18e-429a-8437-d13bd1551f26"
   ]
 }
