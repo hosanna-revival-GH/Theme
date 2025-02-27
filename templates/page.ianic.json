@@ -350,7 +350,31 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+              "9dea2b89-5a77-4727-ad48-68ed71da7b2e": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "This Is Me",
+              "button_link": "shopify://products/devotional-i-am-not-in-charge",
+              "button_size": "huge"
+            }
+          },
+          "0236f78c-4a0e-4e5c-9343-6a4de2eb8783": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Ness-Cannon-Author-Portraits-I-Am-Not-In-Charge-Devotional-052.jpg",
+              "image_width": "50",
+              "subtitle": "Meet the Author",
+              "title": "Ness Cannon",
+              "text": "<p>Ness is a writer, speaker, teacher, wife, mother of 3, small business owner, designer, pug mom, and perpetual student. Her greatest hope is to remind you that you aren’t alone. God has saved a seat for you at His table and you absolutely belong.</p>",
+              "button_label": "Follow Ness",
+              "button_link": "https://www.instagram.com/nesscannonwrites/",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -365,6 +389,8 @@
     "9fe31f40-0589-42b9-9cc7-57a462938eae",
     "6574595d-89d7-4182-b563-6ddb8cbc74bf",
     "hero_video_j7kMJ8",
-    "rich_text_m87qYP"
+    "rich_text_m87qYP",
+    "9dea2b89-5a77-4727-ad48-68ed71da7b2e",
+    "0236f78c-4a0e-4e5c-9343-6a4de2eb8783"
   ]
 }
