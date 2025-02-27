@@ -672,40 +672,9 @@
         "divider": false
       }
     },
-    "rich_text_E8WyA7": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_M37jLx": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text_6N6EG9": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_M37jLx",
-        "text_6N6EG9"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
+    "combined-content-section-1": {
+      "type": "toolkit",
+      "settings": {}
     }
   },
   "order": [
@@ -733,6 +702,6 @@
     "a8361a42-7030-47aa-9ec8-ba37b865b732",
     "ea217336-3d9d-43b8-8b09-f5098a1576be",
     "text_columns_jCgwVL",
-    "rich_text_E8WyA7"
+    "combined-content-section-1"
   ]
 }
