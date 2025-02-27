@@ -16,16 +16,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "The Hosanna Revival Planner",
+            "title": "The Hosanna Revival Undated Planner",
             "title_size": 72,
-            "subheading": "Plan Your Most Intentional Year Yet",
-            "link": "shopify://collections/planners",
-            "link_text": "Begin Today",
+            "subheading": "Welcome to Your Most Intentional Year Yet",
+            "link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+            "link_text": "Start Fresh",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-095.jpg",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-274.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -50,31 +50,21 @@
         "heading_NYGL3T": {
           "type": "heading",
           "settings": {
-            "title": "Welcome to your most intentional year yet"
-          }
-        },
-        "text_97KThQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Dear planner, organizer, and dreamer: Our planners were made for you</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "title": "Experience a fresh start in the middle of your year"
           }
         },
         "text_BPhdka": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Are you on the search for the perfect planner? We gathered 2000+ responses from our community to craft a planner that pairs together the best of beauty and functionality. Welcome to your most intentional year yet! </p>",
-            "align_text_block": "left",
+            "text": "<p>For years we’ve developed our signature Hosanna Revival Planner to pair intentional functional features with the essence of beauty. Our Undated Planner provides our classic design in a flexible format so you can jump straight into organizing your busy and beautiful life.</p>",
+            "align_text_block": "center",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
         "heading_NYGL3T",
-        "text_97KThQ",
         "text_BPhdka"
       ],
       "custom_css": [],
@@ -88,19 +78,6 @@
         "color_text": "#e8e8e1",
         "space_above": 75,
         "space_below": 75
-      }
-    },
-    "featured_collection_neJ48G": {
-      "type": "featured-collection",
-      "custom_css": [],
-      "settings": {
-        "title": "The Hosanna Revival Planner Collection",
-        "home_featured_products": "planners",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": true
       }
     },
     "combined-content-section-3": {
@@ -144,8 +121,8 @@
           "type": "single-button",
           "settings": {
             "secondary": false,
-            "button_text": "Begin Planning Today",
-            "button_link": "shopify://collections/planners",
+            "button_text": "Start Fresh with Undated",
+            "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
             "button_size": "huge",
             "alignment": "center",
             "space_above": 30,
@@ -164,9 +141,9 @@
             "color_text": "#e8e8e1",
             "space_above": 75,
             "space_below": 75,
-            "heading": "",
+            "heading": "Begin Today",
             "enlarge_text": true,
-            "text": "<p>If this is you—the intentional organizer with an eye for beauty—you’re in the right place. Our planners were built for you!</p>",
+            "text": "<p>Our Undated Planner is designed to begin the moment you want a fresh start. Build out your intentional schedule starting right where you’re at.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -181,6 +158,19 @@
       "settings": {
         "space_above": 0,
         "space_below": 0
+      }
+    },
+    "featured_collection_neJ48G": {
+      "type": "featured-collection",
+      "custom_css": [],
+      "settings": {
+        "title": "Our Undated Planner + 2025 Collection",
+        "home_featured_products": "planners",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": true
       }
     },
     "text_columns_EUrVJT": {
@@ -241,16 +231,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Choose Your Cover",
+            "title": "How to Set Up Your Undated Planner",
             "title_size": 72,
-            "subheading": "From three beautiful designs",
+            "subheading": "Intentional features to plan your busy and beautiful life",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-123B.jpg",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-274.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -260,7 +250,7 @@
         "image_M4xbER"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "650px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
@@ -275,14 +265,14 @@
         "heading_nDHmhk": {
           "type": "heading",
           "settings": {
-            "title": "Which design signals your fresh start?"
+            "title": "A design that signals your fresh start"
           }
         },
         "text_AyfQ4r": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We believe a new and beautiful planner will excite you to open it up and plan your days intentionally. Explore our three beautiful planner designs below.</p>",
+            "text": "<p>We surveyed 2000+ community members to understand what makes the perfect planner. Your biggest request? Space! Space for boxes and lists and priorities and dreams—but in an unprompted way so you can make the most of your intentional days ahead.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -304,208 +294,25 @@
         "space_below": 75
       }
     },
-    "text_columns_hFdMPw": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-280.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Marlo",
-            "text": "<p>This soft leather-like cover was inspired by the dreamy shores of Marlo, an Australian beach town—a perfect place to quiet your soul and meditate on the goodness of God. </p>",
-            "button_label": "Choose Marlo",
-            "button_link": "https://hosannarevival.com/products/2025-12-month-planner-marlo-theme"
-          }
-        },
-        "text_block_2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-269.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Coram",
-            "text": "<p>The words <em>Coram Deo</em> mean “in the presence of God”—this is where we all long to be! With rolling flower fields and a spacious sunset, this planner beckons us to return to his presence. </p>",
-            "button_label": "Choose Coram",
-            "button_link": "https://hosannarevival.com/products/2025-12-month-planner-coram-theme"
-          }
-        },
-        "text_block_3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-266.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Summerside",
-            "text": "<p>Our Summerside design is inspired by Prince Edward Island where the beloved book series <em>Anne of Green Gables</em> is set, a story that captures the beauty of fresh starts and simple joys. </p>",
-            "button_label": "Choose Summerside",
-            "button_link": "https://hosannarevival.com/products/2025-12-month-planner-summerside-theme"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_1",
-        "text_block_2",
-        "text_block_3"
-      ],
-      "settings": {
-        "title": "Choose your Cover Design",
-        "align_text": "center",
-        "divider": true
-      }
-    },
-    "combined-content-section-5": {
-      "type": "toolkit",
-      "blocks": {
-        "text_and_image_KbXCmK": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "left",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-265B.jpg",
-            "image_width": 50,
-            "subtitle": "New this Year",
-            "title": "The Undated Hosanna Revival Planner",
-            "text": "<p>Our undated planner combines Hosanna Revival’s beautiful Marlo design with intentional and functional features. Start wherever you are and begin building out your plans and dreams with the flexibility of your own timeline. </p>",
-            "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
-            "button_label": "Start with Undated",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "single_button_FTQme4": {
-          "type": "single-button",
-          "settings": {
-            "secondary": false,
-            "button_text": "Choose My Cover",
-            "button_link": "shopify://collections/planners",
-            "button_size": "huge",
-            "alignment": "center",
-            "space_above": 0,
-            "space_below": 75
-          }
-        }
-      },
-      "block_order": [
-        "text_and_image_KbXCmK",
-        "single_button_FTQme4"
-      ],
-      "settings": {
-        "space_above": 0,
-        "space_below": 0
-      }
-    },
-    "text_columns_CWekeH": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "The Planner for bad planners",
-            "text": "<p>I love this planner, because A: it’s pretty, and 2: I actually use it. It’s got enough to make me think through more than I normally would, but not so much that I give up trying to keep up with it.<br/>— <em>Andie </em>—</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Beautiful + Purposeful",
-            "text": "<p>This planner has been the perfect addition to my day! It's: 1. Aesthetically beautiful, 2. Centered on Christ, 3. Purposeful in helping plan out my days/weeks/months!<br/><em>— Alex —</em></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Dreamy Planner",
-            "text": "<p>I have owned enough planners over the years to know that this one is the best. It’s perfect for school or work or just life, it’s beautiful, and it has the best function of any planner I’ve encountered. <br/><em>— Alicia —</em></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_1",
-        "text_block_2",
-        "text_block_3"
-      ],
+    "hero_video_UiC8TF": {
+      "type": "hero-video",
       "settings": {
         "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "slideshow_ALxDL6": {
-      "type": "slideshow",
-      "blocks": {
-        "image_Yt9LhA": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Peek Inside the \nPlanner",
-            "title_size": 72,
-            "subheading": "For the perfect blend of function and intentionality",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-268.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_Yt9LhA"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/9de0d86f5292461ba99621e0b0a4ffb0.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "250px"
       }
     },
     "combined-content-section-1": {
       "type": "toolkit",
       "blocks": {
-        "rich_text_Uca4mb": {
-          "type": "rich_text",
-          "settings": {
-            "align_text": "center",
-            "narrow_column": true,
-            "divider": false,
-            "css-id": "",
-            "css-class": "",
-            "color_bg": "#6b6e40",
-            "color_text": "#e8e8e1",
-            "space_above": 75,
-            "space_below": 75,
-            "heading": "Explore our Planner Layout",
-            "enlarge_text": true,
-            "text": "<p>We surveyed 2000+ community members to understand what makes the perfect planner. The biggest request? Space! Space for boxes and lists and priorities and dreams—but in an unprompted way so you can make the most of your intentional days ahead.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
         "f324f76f-7c8b-4712-9105-f00a7813a9cf": {
           "type": "text_and_image",
           "settings": {
@@ -600,8 +407,8 @@
           "type": "single-button",
           "settings": {
             "secondary": false,
-            "button_text": "Begin Planning Today",
-            "button_link": "shopify://collections/planners",
+            "button_text": "Begin Planning Intentionally",
+            "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
             "button_size": "huge",
             "alignment": "center",
             "space_above": 0,
@@ -610,7 +417,6 @@
         }
       },
       "block_order": [
-        "rich_text_Uca4mb",
         "f324f76f-7c8b-4712-9105-f00a7813a9cf",
         "edfff7fc-47a6-4841-8edc-076ff7aa970e",
         "e8bf08e1-5a18-4bcc-b264-e2ad39ed51b4",
@@ -693,9 +499,9 @@
             "color_text": "#e8e8e1",
             "space_above": 75,
             "space_below": 75,
-            "heading": "Pro Tip: How to Maximize your planner",
+            "heading": "Maximize Your Planner with the brainstorm boxes",
             "enlarge_text": true,
-            "text": "<p>Wish your planner had extra features? Use our signature “Brainstorm Box” to bring that to life! We intentionally designed our planners with blank Brainstorm Boxes sprinkled throughout the pages.</p>",
+            "text": "<p>Wish your planner had extra features? Use our signature “Brainstorm Box” to bring that to life! We intentionally designed our planners with blank Brainstorm Boxes sprinkled throughout the pages for maximum planning potential.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -867,7 +673,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "left",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-047B.jpg",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-55.jpg",
             "image_width": 50,
             "subtitle": "Scripture-Centered Feature",
             "title": "Monthly Scripture",
@@ -882,7 +688,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "right",
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-31.jpg",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-67.jpg",
             "image_width": 50,
             "subtitle": "Scripture-Centered Feature",
             "title": "A Word for Your Week",
@@ -897,8 +703,8 @@
           "type": "single-button",
           "settings": {
             "secondary": false,
-            "button_text": "Begin Today",
-            "button_link": "shopify://collections/planners",
+            "button_text": "Start with Scripture",
+            "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
             "button_size": "huge",
             "alignment": "center",
             "space_above": 0,
@@ -978,23 +784,23 @@
         "hero_UGAWgB": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-183.jpg",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-094.jpg",
             "title": "A Planner for Every Season",
-            "subheading": "",
+            "subheading": "So you can live your busy and beautiful life!",
             "link": "",
             "link_text": "",
             "color_accent": "",
             "text_align": "left",
             "title_size": 72,
             "parallax": false,
-            "section_height": "450px",
+            "section_height": "650px",
             "mobile_height": "auto"
           }
         },
         "rich_text_URfwAW": {
           "type": "rich_text",
           "settings": {
-            "align_text": "center",
+            "align_text": "left",
             "narrow_column": true,
             "divider": false,
             "css-id": "",
@@ -1003,7 +809,7 @@
             "color_text": "#e8e8e1",
             "space_above": 75,
             "space_below": 75,
-            "heading": "Built for You",
+            "heading": "Built for Your Busy and Beautiful Life",
             "enlarge_text": true,
             "text": "<p>We design our planners with all walks of life in mind. Built with both structure and flexibility, our planners are adaptable to your specific needs.</p>",
             "align_text_block": "inherit",
@@ -1074,8 +880,8 @@
     "single_button_FnXkzE": {
       "type": "single-button",
       "settings": {
-        "button_text": "Start Fresh",
-        "button_link": "shopify://collections/planners",
+        "button_text": "Begin Today",
+        "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
@@ -1088,8 +894,8 @@
         "title": "",
         "title_size": 80,
         "subheading": "",
-        "link_text": "begin today",
-        "link": "shopify://collections/planners",
+        "link_text": "Your Fresh Start",
+        "link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https://cdn.shopify.com/videos/c/o/v/9986942135f54d74b44d35c35083381a.mp4",
@@ -1153,8 +959,28 @@
             "space_below": 0
           }
         },
+        "rich_text_RTtpg9": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p><em>Have a question not answered here? Check out our </em><a href=\"/pages/faqs-support\" target=\"_blank\" title=\"Help\"><em>FAQ page</em></a><em>.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
         "single_button_JyyRWU": {
           "type": "single-button",
+          "disabled": true,
           "settings": {
             "secondary": false,
             "button_text": "Begin My Planner",
@@ -1168,9 +994,9 @@
         "hero_qmADww": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-54.jpg",
+            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-52_e6559c95-735f-43a2-8a19-24ecc55ce47a.jpg",
             "title": "Intentional Tools",
-            "subheading": "to pair with our planners",
+            "subheading": "To pair with your planner",
             "link": "",
             "link_text": "",
             "color_accent": "",
@@ -1180,25 +1006,6 @@
             "section_height": "450px",
             "mobile_height": "auto"
           }
-        },
-        "rich_text_jT6KfN": {
-          "type": "rich_text",
-          "settings": {
-            "align_text": "center",
-            "narrow_column": true,
-            "divider": false,
-            "css-id": "",
-            "css-class": "",
-            "color_bg": "#6b6e40",
-            "color_text": "#e8e8e1",
-            "space_above": 75,
-            "space_below": 75,
-            "heading": "What to Add to your bag",
-            "enlarge_text": true,
-            "text": "<p>Whether you’re prepping for the new year to begin or grabbing a planner for a mid-season refresh, complete your fresh start by pairing your planner with our matching intentional tools.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
         }
       },
       "block_order": [
@@ -1206,9 +1013,9 @@
         "faq_FKBRR6",
         "faq_pypJTz",
         "faq_YajU4K",
+        "rich_text_RTtpg9",
         "single_button_JyyRWU",
-        "hero_qmADww",
-        "rich_text_jT6KfN"
+        "hero_qmADww"
       ],
       "settings": {
         "space_above": 0,
@@ -1290,8 +1097,8 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/planners",
-            "link_text": "Begin Today",
+            "link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+            "link_text": "Welcome to Your Most InTentional Year Yet",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -1319,15 +1126,12 @@
   "order": [
     "slideshow_Qck9Cx",
     "rich_text_deHdU3",
-    "featured_collection_neJ48G",
     "combined-content-section-3",
+    "featured_collection_neJ48G",
     "text_columns_EUrVJT",
     "slideshow_Fh3rUR",
     "rich_text_UG8Wjy",
-    "text_columns_hFdMPw",
-    "combined-content-section-5",
-    "text_columns_CWekeH",
-    "slideshow_ALxDL6",
+    "hero_video_UiC8TF",
     "combined-content-section-1",
     "text_columns_jCgwVL",
     "combined-content-section-2",
