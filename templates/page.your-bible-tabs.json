@@ -94,11 +94,33 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_8GXANb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0506_7cba671d-14ca-48a8-bb52-cd1900d44b3e.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Beautifully and Intentionally Designed",
+        "text": "<ul><li>Application guide included</li><li>Double-sided adhesive tab for each book of the Bible</li><li>Deluxe linen paper</li><li>Gold-foiled letters or Black-foiled letters</li><li>Each tab measures 30 mm x 22 mm. When applied to a Bible, each tab extends 7 mm off the page.</li><li>Six tabs fit standard ESV, NLT, and CSB Bibles</li><li>Five tabs fit compact Bibles</li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "slideshow_htLd63",
-    "text_and_image_LU8gPh"
+    "text_and_image_LU8gPh",
+    "text_and_image_8GXANb"
   ]
 }
