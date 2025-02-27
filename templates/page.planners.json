@@ -125,7 +125,7 @@
             "color_bg": "#ffffff",
             "color_text": "#000000",
             "space_above": 75,
-            "space_below": 75,
+            "space_below": 0,
             "heading": "What sets the Hosanna Revival Planner apart?",
             "enlarge_text": true,
             "text": "<p><em>Our planner design centers around these three core features:</em></p>",
@@ -151,51 +151,44 @@
         "df5bcac4-6902-46b9-a1d5-b670906a711a": {
           "type": "single-button",
           "settings": {
+            "secondary": false,
             "button_text": "Begin Planning Today",
             "button_link": "shopify://collections/planners",
             "button_size": "huge",
             "alignment": "center",
             "space_above": 30,
-            "space_below": 30
+            "space_below": 75
           }
-        }
-      },
-      "block_order": [
-        "rich_text_QrCWjn",
-        "text_and_image_fmVtFk",
-        "df5bcac4-6902-46b9-a1d5-b670906a711a"
-      ],
-      "settings": {
-        "space_above": 0,
-        "space_below": 0
-      }
-    },
-    "rich_text_gkELFb": {
-      "type": "rich-text",
-      "blocks": {
-        "text_BAFVzh": {
-          "type": "text",
+        },
+        "rich_text_mAtJxq": {
+          "type": "rich_text",
           "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#6b6e40",
+            "color_text": "#e8e8e1",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>If this is you—the intentional organizer with an eye for beauty—you’re in the right place. Our planners were built for you!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
-        "text_BAFVzh"
+        "rich_text_QrCWjn",
+        "text_and_image_fmVtFk",
+        "df5bcac4-6902-46b9-a1d5-b670906a711a",
+        "rich_text_mAtJxq"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#6b6e40",
-        "color_text": "#e8e8e1",
-        "space_above": 40,
-        "space_below": 40
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "text_columns_EUrVJT": {
@@ -246,7 +239,7 @@
       "settings": {
         "title": "",
         "align_text": "center",
-        "divider": true
+        "divider": false
       }
     },
     "slideshow_Fh3rUR": {
@@ -715,9 +708,9 @@
             "color_text": "#e8e8e1",
             "space_above": 75,
             "space_below": 75,
-            "heading": "Rich text",
+            "heading": "Pro Tip: How to Maximize your planner",
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Wish your planner had extra features? Use our signature “Brainstorm Box” to bring that to life! We intentionally designed our planners with blank Brainstorm Boxes sprinkled throughout the pages.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -846,6 +839,41 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "slideshow_6XEVGJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_rwh4Xj": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "A Faith-Based Planner",
+            "title_size": 72,
+            "subheading": "Explore the Scripture-centered features",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-216B.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_rwh4Xj"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -854,7 +882,6 @@
     "rich_text_deHdU3",
     "featured_collection_neJ48G",
     "combined-content-section-3",
-    "rich_text_gkELFb",
     "text_columns_EUrVJT",
     "slideshow_Fh3rUR",
     "rich_text_UG8Wjy",
@@ -867,6 +894,7 @@
     "combined-content-section-1",
     "text_columns_jCgwVL",
     "combined-content-section-2",
-    "text_columns_JDTgYc"
+    "text_columns_JDTgYc",
+    "slideshow_6XEVGJ"
   ]
 }
