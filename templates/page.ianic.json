@@ -173,35 +173,38 @@
     },
     "image_row_ffqCkj": {
       "type": "image-row",
-"blocks": {
-  "image_1": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-047.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-i-am-not-in-charge"
-    }
-  },
-  "image_2": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-056.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-i-am-not-in-charge"
-    }
-  },
-  "image_3": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-058.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-i-am-not-in-charge"
-    }
-  },
-},
+      "blocks": {
+        "image_1": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-047.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-i-am-not-in-charge"
+          }
+        },
+        "image_2": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-056.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-i-am-not-in-charge"
+          }
+        },
+        "image_3": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-058.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-i-am-not-in-charge"
+          }
+        }
+      },
       "block_order": [
         "image_1",
         "image_2",
@@ -213,6 +216,57 @@
         "enable_spacing": true,
         "enable_zoom": false
       }
+    },
+    "text_columns_3JVi6a": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_8W7iQT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_ArHEUm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_qptdAD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_8W7iQT",
+        "text_block_ArHEUm",
+        "text_block_qptdAD"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -223,6 +277,7 @@
     "e6741a26-db3d-41a5-8601-d5f1eac51e47",
     "7fbf46ab-f942-4287-89c4-ff64de369802",
     "a268fa86-bc02-4a20-8c13-b49973967a0a",
-    "image_row_ffqCkj"
+    "image_row_ffqCkj",
+    "text_columns_3JVi6a"
   ]
 }
