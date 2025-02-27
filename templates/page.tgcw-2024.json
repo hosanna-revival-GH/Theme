@@ -11,13 +11,69 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_fezC3a": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PYetBc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Welcome to Hosanna Revival",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-161_37ed42f9-0792-4021-ae9e-1448febb980d.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_PYetBc"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "17406388731940a538": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_q7tPF4": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "WmyFam"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_q7tPF4"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_fezC3a",
+    "17406388731940a538"
   ]
 }
