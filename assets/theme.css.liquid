@@ -13614,12 +13614,14 @@ body#what-39-s-new .shopify-section:last-child {
 }
 
 @media only screen and (max-width: 959px) {
-    .feature-row__item {
+    .feature-row__item:not(.feature-row__text){}
         -ms-flex: 1 1 100%;
         flex: 1 1 100%;
         width: 100%;
         max-width: 100%;
         min-width: 0;
+          -ms-flex-order: 1;
+        order: 1;
     }
 }
 /*
