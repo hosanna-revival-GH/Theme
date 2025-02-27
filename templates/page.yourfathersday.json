@@ -86,11 +86,63 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "text_columns_QrRQrx": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_7hw6qK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_RNKMpX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_wwKjfX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_7hw6qK",
+        "text_block_RNKMpX",
+        "text_block_wwKjfX"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow_9h4HYL",
-    "rich_text_xgdjGx"
+    "rich_text_xgdjGx",
+    "text_columns_QrRQrx"
   ]
 }
