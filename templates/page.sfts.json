@@ -630,19 +630,27 @@
         "divider": false
       }
     },
-                  "1d4696ec-93f9-42fd-a807-ce0d2552ec0a": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Julia-Allspaw-Author-Headshot-Hosanna-Revival-P-012.jpg",
-              "image_width": "50",
-              "subtitle": "Meet the Author",
-              "title": "Julia Allspaw",
-              "text": "<p>Julia Allspaw is a former special education teacher turned stay-at-home mom, who spends her days playing with her 9-month-old son, Leon. As an Enneagram 9, Julia loves staying home, reading whatever she can get her hands on, and traveling with her husband, Jake. When she’s not picking up toys or changing diapers, you can find her writing about suffering, hope, and finding God in the midst of profound pain.</p>",
-              "button_label": "Follow Julia",
-              "button_link": "https://www.instagram.com/julia_allspaw/",
-              "layout": "left"
-            }
-          },
+    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Julia-Allspaw-Author-Headshot-Hosanna-Revival-P-012.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Julia Allspaw",
+        "text": "<p>Julia Allspaw is a former special education teacher turned stay-at-home mom, who spends her days playing with her 9-month-old son, Leon. As an Enneagram 9, Julia loves staying home, reading whatever she can get her hands on, and traveling with her husband, Jake. When she’s not picking up toys or changing diapers, you can find her writing about suffering, hope, and finding God in the midst of profound pain.</p>",
+        "button_label": "Follow Julia",
+        "button_link": "https://www.instagram.com/julia_allspaw/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "slideshow_z6NbVJ": {
       "type": "slideshow",
       "blocks": {
@@ -685,7 +693,7 @@
         "button_link": "shopify://collections/devotionals",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 75,
         "space_below": 20
       }
     },
@@ -721,7 +729,7 @@
     "rich_text_x8FDHK",
     "text_columns_BQGmdg",
     "text_columns_zRBtLr",
-     "1d4696ec-93f9-42fd-a807-ce0d2552ec0a",
+    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a",
     "slideshow_z6NbVJ",
     "single_button_Rfnjtg",
     "featured_collection_RrWRqU"
