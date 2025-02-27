@@ -89,45 +89,112 @@
         "space_below": 20
       }
     },
-             "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-017.jpg",
-              "image_width":  "50",
-              "subtitle": "Songs for the Suffering",
-              "title": "This Devotional is for you if...",
-              "text": "<p>- You are suffering.<br/>- You are walking alongside someone who is suffering<br/>- You are sick of reading feel-good slogans about suffering, and are looking for a deeper comfort, hope and joy amidst your pain.</p><p><em>If these words resonate, this devotional is for you.</em></p><p> </p>",
-              "button_label": "Choose this tool",
-              "button_link": "shopify://products/devotional-songs-for-the-suffering",
-              "layout": "left"
-            }
-          },
-          "46251244-472e-41e9-aed5-42bc423cc417": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
-              "image_width":  "50",
-              "subtitle": "THE DETAILS",
-              "title": "Songs for the Suffering",
-              "text": "<p><strong>Topic</strong>: suffering and grief<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: multiple passages</p><p>“While our pain may not be the same and while our roads may have had different turns and destinations, my prayer is that somewhere in these words of mine you find yourself—and again, you find your Father.”<br/><em>—Author Julia Allspaw</em></p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-songs-for-the-suffering",
-              "layout": "right"
-            }
-          },
-          "ddf6ef08-82bf-4630-b014-2c2df13532e4": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-018.jpg",
-              "image_width": "50",
-              "subtitle": "PEEK INSIDE",
-              "title": "The Devotional Structure",
-              "text": "<p><strong>Structure</strong>: Weekly reading and interactive sections<br/><strong>Elements</strong>: Weekly reading & scripture, stop & reflect sections, end-of-chapter questions, journaling margins</p><p>Each week includes guided questions, further Scripture reading, application points and moments of reflection to delve into the heart of suffering, ask the hard questions, and lean into the Man of Sorrows himself, knowing he is already acquainted with our grief.</p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-songs-for-the-suffering",
-              "layout": "left"
-            }
-          },
+    "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-017.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Songs for the Suffering",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You are suffering.<br/>- You are walking alongside someone who is suffering<br/>- You are sick of reading feel-good slogans about suffering, and are looking for a deeper comfort, hope and joy amidst your pain.</p><p><em>If these words resonate, this devotional is for you.</em></p><p> </p>",
+        "button_label": "Choose this tool",
+        "button_link": "shopify://products/devotional-songs-for-the-suffering",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "46251244-472e-41e9-aed5-42bc423cc417": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "THE DETAILS",
+        "title": "Songs for the Suffering",
+        "text": "<p><strong>Topic</strong>: suffering and grief<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: multiple passages</p><p>“While our pain may not be the same and while our roads may have had different turns and destinations, my prayer is that somewhere in these words of mine you find yourself—and again, you find your Father.”<br/><em>—Author Julia Allspaw</em></p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-songs-for-the-suffering",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ddf6ef08-82bf-4630-b014-2c2df13532e4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-018.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "PEEK INSIDE",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure</strong>: Weekly reading and interactive sections<br/><strong>Elements</strong>: Weekly reading & scripture, stop & reflect sections, end-of-chapter questions, journaling margins</p><p>Each week includes guided questions, further Scripture reading, application points and moments of reflection to delve into the heart of suffering, ask the hard questions, and lean into the Man of Sorrows himself, knowing he is already acquainted with our grief.</p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-songs-for-the-suffering",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "image_row_8mdiP7": {
+      "type": "image-row",
+      "blocks": {
+        "image_8RGWQe": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_CNiaLe": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_jVxPNA": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_8RGWQe",
+        "image_CNiaLe",
+        "image_jVxPNA"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    }
   },
   "order": [
     "main",
@@ -136,6 +203,7 @@
     "single_button_pyK3zP",
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4",
     "46251244-472e-41e9-aed5-42bc423cc417",
-    "ddf6ef08-82bf-4630-b014-2c2df13532e4"
+    "ddf6ef08-82bf-4630-b014-2c2df13532e4",
+    "image_row_8mdiP7"
   ]
 }
