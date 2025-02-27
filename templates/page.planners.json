@@ -9,14 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "page_title_enable": true,
-        "page_content_enable": true
-      }
-    },
     "slideshow_Qck9Cx": {
       "type": "slideshow",
       "blocks": {
@@ -1070,48 +1062,45 @@
     },
     "text_columns_iEWpem": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_rhjbJn": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_TE8dWy": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_hDXfaj": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_7": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "for school",
+      "text": "<p>I got this planner when I began nursing school. It not only kept me organized, but the Bible verses helped give me encouragement as well. Highly recommend buying this!<br/><em>— Miranda —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_8": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "for new seasons",
+      "text": "<p>I just got married and was going crazy until I got this planner. It’s GORGEOUS!<br/><em>— Erin —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_9": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "for family life",
+      "text": "<p>The layout is perfect for my needs; I'm able to easily keep track of work schedules, activities, and appointments for our family of five.<br/><em>— LB —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_rhjbJn",
-        "text_block_TE8dWy",
-        "text_block_hDXfaj"
+        "text_block_7",
+        "text_block_8",
+        "text_block_9"
       ],
       "settings": {
         "title": "",
@@ -1290,7 +1279,6 @@
     }
   },
   "order": [
-    "main",
     "slideshow_Qck9Cx",
     "rich_text_deHdU3",
     "featured_collection_neJ48G",
