@@ -414,17 +414,57 @@
         "lazyload_images": true
       }
     },
-              "db02f9a6-7a44-47e4-91d8-6bf5704dcc99": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 0,
-              "space_below": 50,
-              "button_text": "Back to Devotional Library",
-              "button_link": "shopify://pages/devotionals",
-              "button_size": "huge"
-            }
-          },
+    "db02f9a6-7a44-47e4-91d8-6bf5704dcc99": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Back to Devotional Library",
+        "button_link": "shopify://pages/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 50,
+        "space_below": 50
+      }
+    },
+    "featured_collection_TPL9PP": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_AYtErz": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rT3DJN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Photos with Haylee J. Williams by </em><a href=\"https://www.instagram.com/adriannabarraganphoto/\" target=\"_blank\" title=\"Adrianna Barragán Photographer Instagram\"><em>Adrianna Barragán</em></a></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_rT3DJN"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
+    }
   },
   "order": [
     "main",
@@ -443,6 +483,8 @@
     "e80d8391-baa3-4535-8937-f772e0b0f461",
     "e1aebcfc-d5cd-46ba-b2e7-b49e36c5b3e5",
     "slideshow_kEkcaW",
-    "db02f9a6-7a44-47e4-91d8-6bf5704dcc99"
+    "db02f9a6-7a44-47e4-91d8-6bf5704dcc99",
+    "featured_collection_TPL9PP",
+    "rich_text_AYtErz"
   ]
 }
