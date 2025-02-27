@@ -160,41 +160,44 @@
     },
     "text_columns_EUrVJT": {
       "type": "text-columns",
- "blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Perfection",
-      "text": "<p>I am obsessed with this planner! It is gorgeous from outside to inside, every single page filled with detail and beauty. It’s also the most functional and easy to use planner I’ve ever tried.<br/><em>— Sierra —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "I love this planner!",
-      "text": "<p>As a planner snob, I am super picky about the planners I choose. This one has amazing quality, a practical (and beautiful) layout, and contains all the pages I want and need!<br/><em>— Raleigh —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Everyday Encouragement",
-      "text": "<p>I bought one for myself, and loved it so much that I knew my sister needed one too! It’s hard to find planners that are both beautiful and efficient, but this planner has it all.<br/><em>— Payton —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Perfection",
+            "text": "<p>I am obsessed with this planner! It is gorgeous from outside to inside, every single page filled with detail and beauty. It’s also the most functional and easy to use planner I’ve ever tried.<br/><em>— Sierra —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "I love this planner!",
+            "text": "<p>As a planner snob, I am super picky about the planners I choose. This one has amazing quality, a practical (and beautiful) layout, and contains all the pages I want and need!<br/><em>— Raleigh —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Everyday Encouragement",
+            "text": "<p>I bought one for myself, and loved it so much that I knew my sister needed one too! It’s hard to find planners that are both beautiful and efficient, but this planner has it all.<br/><em>— Payton —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
@@ -277,44 +280,47 @@
     },
     "text_columns_hFdMPw": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-280.jpg",
-      "image_width": 650,
-      "title": "Marlo",
-      "text": "<p>This soft leather-like cover was inspired by the dreamy shores of Marlo, an Australian beach town—a perfect place to quiet your soul and meditate on the goodness of God. </p>",
-      "button_label": "Choose Marlo",
-      "button_link": "https://hosannarevival.com/products/2025-12-month-planner-marlo-theme"
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-269.jpg",
-      "image_width": 650,
-      "title": "Coram",
-      "text": "<p>The words <em>Coram Deo</em> mean “in the presence of God”—this is where we all long to be! With rolling flower fields and a spacious sunset, this planner beckons us to return to his presence. </p>",
-      "button_label": "Choose Coram",
-      "button_link": "https://hosannarevival.com/products/2025-12-month-planner-coram-theme"
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-266.jpg",
-      "image_width": 650,
-      "title": "Summerside",
-      "text": "<p>Our Summerside design is inspired by Prince Edward Island where the beloved book series <em>Anne of Green Gables</em> is set, a story that captures the beauty of fresh starts and simple joys. </p>",
-      "button_label": "Choose Summerside",
-      "button_link": "https://hosannarevival.com/products/2025-12-month-planner-summerside-theme"
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-280.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Marlo",
+            "text": "<p>This soft leather-like cover was inspired by the dreamy shores of Marlo, an Australian beach town—a perfect place to quiet your soul and meditate on the goodness of God. </p>",
+            "button_label": "Choose Marlo",
+            "button_link": "https://hosannarevival.com/products/2025-12-month-planner-marlo-theme"
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-269.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Coram",
+            "text": "<p>The words <em>Coram Deo</em> mean “in the presence of God”—this is where we all long to be! With rolling flower fields and a spacious sunset, this planner beckons us to return to his presence. </p>",
+            "button_label": "Choose Coram",
+            "button_link": "https://hosannarevival.com/products/2025-12-month-planner-coram-theme"
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-266.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Summerside",
+            "text": "<p>Our Summerside design is inspired by Prince Edward Island where the beloved book series <em>Anne of Green Gables</em> is set, a story that captures the beauty of fresh starts and simple joys. </p>",
+            "button_label": "Choose Summerside",
+            "button_link": "https://hosannarevival.com/products/2025-12-month-planner-summerside-theme"
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
@@ -326,30 +332,158 @@
         "divider": false
       }
     },
-            "text_and_image_eMkMnk": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-265B.jpg",
-              "image_width": "50",
-              "subtitle": "New this Year",
-              "title": "The Undated Hosanna Revival Planner",
-              "text": "<p>Our undated planner combines Hosanna Revival’s beautiful Marlo design with intentional and functional features. Start wherever you are and begin building out your plans and dreams with the flexibility of your own timeline. </p>",
-              "button_label": "Start with Undated",
-              "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
-              "layout": "left"
-            }
-          },
-          "3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Choose My Cover",
-              "button_link": "shopify://collections/planners",
-              "button_size": "huge"
-            }
-          },
+    "text_and_image_eMkMnk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-265B.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "New this Year",
+        "title": "The Undated Hosanna Revival Planner",
+        "text": "<p>Our undated planner combines Hosanna Revival’s beautiful Marlo design with intentional and functional features. Start wherever you are and begin building out your plans and dreams with the flexibility of your own timeline. </p>",
+        "button_label": "Start with Undated",
+        "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose My Cover",
+        "button_link": "shopify://collections/planners",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "text_columns_CWekeH": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_npkQQe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_MYfjdU": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_qW9Ajm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_npkQQe",
+        "text_block_MYfjdU",
+        "text_block_qW9Ajm"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_ALxDL6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Yt9LhA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Yt9LhA"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_rKMDce": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wr9yDx": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_cEw3nD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_wr9yDx",
+        "text_cEw3nD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    }
   },
   "order": [
     "main",
@@ -364,6 +498,9 @@
     "rich_text_UG8Wjy",
     "text_columns_hFdMPw",
     "text_and_image_eMkMnk",
-"3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a"
+    "3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a",
+    "text_columns_CWekeH",
+    "slideshow_ALxDL6",
+    "rich_text_rKMDce"
   ]
 }
