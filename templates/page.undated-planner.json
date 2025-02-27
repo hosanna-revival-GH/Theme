@@ -1138,45 +1138,7 @@
         "lazyload_images": true
       }
     },
-             "06794df4-95da-410d-8e60-a3ac7ec9ab7a": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-025.jpg",
-              "image_width": "50",
-              "subtitle": "Rooted to Rise",
-              "title": "This Devotional is for you if...",
-              "text": "<p><strong>You are in high school and desire to...<br/></strong>- grow in your faith<br/>- understand who you are in God’s eyes<br/>- establish daily rhythms with the Lord<br/>- and feel more confident to boldly rise up and proclaim God’s goodness.<br/><em><strong>OR</strong></em><br/><strong>You lead high school girls</strong> and are looking for a beautiful Scripture-based study to guide your group through.</p><p></p>",
-              "button_label": "Choose this tool",
-              "button_link": "shopify://products/devotional-rooted-to-rise",
-              "layout": "left"
-            }
-          },
-          "9c098131-9d3b-4cb8-a0f8-a4a1a450991e": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-082_c1638f3f-1707-4042-92f8-75806e948160.jpg",
-              "image_width": "50",
-              "subtitle": "The Details",
-              "title": "Rooted to Rise",
-              "text": "<p><strong>Topic</strong>: Growing in Christ for high school girls<br/><strong>Length of Study</strong>: 10 weeks<br/><strong>Focal Scripture</strong>: Multiple passages</p><p>\"So many things will happen during these four years, and I wrote this devotional with the hope that it will help you navigate this season of life in a way that honors and glorifies Christ.\"<br/><em>—Author Haley Crabtree</em></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-rooted-to-rise",
-              "layout": "right"
-            }
-          },
-          "2966d865-fb56-497b-8e0b-ebf72c85b75c": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-036.jpg",
-              "image_width": "50",
-              "subtitle": "Peek Inside",
-              "title": "The Devotional Structure",
-              "text": "<p><strong>Structure: </strong>7 daily readings per week<br/><strong>Elements:</strong> Weekly introduction, daily Scripture, questions with journaling space, and guided prayer</p><p>Each week will cover a topic that most high school girls will journey through in their high school season. Then, each day, girls will have the opportunity to open their Bibles to read God’s Word, take time to journal using a Scripture-based prompt, and lastly, spend time in intentional prayer with the Lord. </p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-rooted-to-rise",
-              "layout": "left"
-            }
-          },
+
   },
   "order": [
     "slideshow_Qck9Cx",
@@ -1200,9 +1162,6 @@
     "combined-content-section-6",
     "text_columns_NQixpN",
     "single_button_8k6T9t",
-    "slideshow_7tMFxX",
-    "06794df4-95da-410d-8e60-a3ac7ec9ab7a",
-    "9c098131-9d3b-4cb8-a0f8-a4a1a450991e",
-     "2966d865-fb56-497b-8e0b-ebf72c85b75c"
+    "slideshow_7tMFxX"
   ]
 }
