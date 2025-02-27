@@ -637,14 +637,14 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
+            "title": "",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
+            "subheading": "",
+            "link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+            "link_text": "Buy now",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-007_6b8f2f98-02bc-42b3-9dcc-82a594d8b85d.jpg",
             "parallax_direction": "top",
@@ -663,6 +663,29 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
+      }
+    },
+    "single_button_Rfnjtg": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Devotional Library Page",
+        "button_link": "shopify://collections/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "featured_collection_RrWRqU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop All Devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     }
   },
@@ -685,6 +708,8 @@
     "rich_text_x8FDHK",
     "text_columns_BQGmdg",
     "text_columns_zRBtLr",
-    "slideshow_z6NbVJ"
+    "slideshow_z6NbVJ",
+    "single_button_Rfnjtg",
+    "featured_collection_RrWRqU"
   ]
 }
