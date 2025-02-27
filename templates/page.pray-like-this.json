@@ -245,7 +245,20 @@
         "align_text": "center",
         "divider": false
       }
-    }
+    },
+              "49a22e92-34d9-4918-b5d0-cddabf756926": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-07.png",
+              "image_width": "50",
+              "subtitle": "Sneak Peek",
+              "title": "A note from author Katie Noble",
+              "text": "<p>Our pastor and dear friend mentioned to us that we’d be walking through The Lord’s Prayer as a church. <em>“The Lord’s Prayer?”</em> I thought with arrogance. <em>“I suppose that will be helpful for new believers.”</em> Like many of you, I had memories the Lord’s Prayer as a child and thought it no more than a sing-song poem for Christian beginners. But as we began to wade through the deep riches of this incredible gift, I came undone. My soul began to sing. This simple prayer was the key I had been searching for, and I had been holding it all along. I am honored that you’d join me on this journey toward Jesus, our redeemer and friend...</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -256,6 +269,7 @@
     "eeffe765-5638-475a-9989-e3dd7c5be426",
     "bd763792-5b4c-42e8-8b2d-dc559644f6f0",
     "image_row_XCqn8B",
-    "text_columns_EcbRqf"
+    "text_columns_EcbRqf",
+    "49a22e92-34d9-4918-b5d0-cddabf756926"
   ]
 }
