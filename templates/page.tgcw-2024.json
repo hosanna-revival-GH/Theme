@@ -65,15 +65,146 @@
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_q7tPF4"
       ],
+      "custom_css": [
+        "div {background-color: #f7f0e8;}"
+      ],
       "settings": {
         "full_width": true,
         "space_around": false
+      }
+    },
+    "rich_text_WCfJew": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_V896dA": {
+          "type": "heading",
+          "settings": {
+            "title": "Your Home for Beautiful Bibles"
+          }
+        },
+        "text_e9zNGA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.</p><p>What if a new and beautiful Bible would lead you to engage in the beauty of God’s Word? Refresh your heart and soul with a beautiful and intentional tool.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_V896dA",
+        "text_e9zNGA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_Y7Wi6d": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Shop Hosanna Revival",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 75
+      }
+    },
+    "rich_text_fGaCc9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_i3fana": {
+          "type": "heading",
+          "settings": {
+            "title": "Find Your Beautiful and Intentional Tool"
+          }
+        },
+        "text_3DNdaT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>take note of how God is meeting you in these pages</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_i3fana",
+        "text_3DNdaT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "image_row_LiQbUw": {
+      "type": "image-row",
+      "blocks": {
+        "image_36mCgD": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_Y86mNY": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_XABtEm": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_36mCgD",
+        "image_Y86mNY",
+        "image_XABtEm"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
       }
     }
   },
   "order": [
     "main",
     "slideshow_fezC3a",
-    "17406388731940a538"
+    "17406388731940a538",
+    "rich_text_WCfJew",
+    "single_button_Y7Wi6d",
+    "rich_text_fGaCc9",
+    "image_row_LiQbUw"
   ]
 }
