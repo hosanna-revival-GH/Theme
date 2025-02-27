@@ -342,6 +342,102 @@
               "layout": "left"
             }
           },
+        "rich_text_rVnGnm1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zkLMGQ": {
+          "type": "heading",
+          "settings": {
+            "title": "1"
+          }
+        },
+        "text_G3AQjg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Choose the beautiful Bible <br/>you will gift.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_zkLMGQ",
+        "text_G3AQjg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#e8e8e1",
+        "color_text": "#475a41",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+          "rich_text_rVnGnm2": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zkLMGQ": {
+          "type": "heading",
+          "settings": {
+            "title": "1"
+          }
+        },
+        "text_G3AQjg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Choose the beautiful Bible <br/>you will gift.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_zkLMGQ",
+        "text_G3AQjg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#e8e8e1",
+        "color_text": "#475a41",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+              "text_and_image_DKmH9i": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-581.jpg",
+              "image_width": "50",
+              "subtitle": "Free Resource",
+              "title": "Bible Toolkit",
+              "text": "<p>Our Bible Toolkit, walks through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after the cover is closed. </p>",
+              "button_label": "Download the Bible Toolkit",
+              "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
+              "layout": "right"
+            }
+          },
+          "text_and_image_77h7Hk": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-470.jpg",
+              "image_width": "50",
+              "subtitle": "Free Resource",
+              "title": "Study of John Reading Plan",
+              "text": "<p>If your friend is new to reading the Word, we suggest they start with John, a book at the beginning of the New Testament that details the life of Jesus. Our hope is that this guide will help them ask good questions and look at Scripture a little bit deeper.</p>",
+              "button_label": "Download the reading Plan",
+              "button_link": "shopify://pages/study-of-john",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -357,6 +453,10 @@
     "rich_text_4xqbCp",
     "rich_text_rVnGnm",
     "featured_collection_XpDB3a",
-    "text_and_image_UKwh4Y"
+    "text_and_image_UKwh4Y",
+    "rich_text_rVnGnm1",
+    "rich_text_rVnGnm2",
+     "text_and_image_DKmH9i",
+    "text_and_image_77h7Hk"
   ]
 }
