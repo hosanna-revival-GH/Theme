@@ -115,12 +115,167 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_Ca3w9Q": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gzhANr": {
+          "type": "heading",
+          "settings": {
+            "title": "how to apply your bible tabs:"
+          }
+        },
+        "text_Lif7AK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We've created a guided application video to ensure you have the best possible experience applying your Bible tabs to your Beautiful Bible. <br/>We pray these excite you to engage in Scripture!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_gzhANr",
+        "text_Lif7AK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "hero_video_nFV8wD": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_jcF6KM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GHGhWr": {
+          "type": "heading",
+          "settings": {
+            "title": "Make your Bible personal to you!"
+          }
+        },
+        "text_D3PKLX": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Bible tabs are an amazing way to make your Bible feel special to you!<br/>Here are some other ways you can personalize your Bible.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_GHGhWr",
+        "text_D3PKLX"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_jXRLYW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Find your favorite verse as a sticker and input it into your Bible margins",
+        "home_featured_products": "stickers",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "text_columns_dTLWj9": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_wB37wF": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Florence-high-aperture-Sticker-hosanna-revival.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Stickers",
+            "text": "<p>Find your favorite verse as a sticker and input it into your Bible Margins.</p>",
+            "button_label": "Find a sticker you love",
+            "button_link": "shopify://collections/stickers"
+          }
+        },
+        "text_block_wMpbJc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_6NgJ9A": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_wB37wF",
+        "text_block_wMpbJc",
+        "text_block_6NgJ9A"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow_htLd63",
     "text_and_image_LU8gPh",
-    "text_and_image_8GXANb"
+    "text_and_image_8GXANb",
+    "rich_text_Ca3w9Q",
+    "hero_video_nFV8wD",
+    "rich_text_jcF6KM",
+    "featured_collection_jXRLYW",
+    "text_columns_dTLWj9"
   ]
 }
