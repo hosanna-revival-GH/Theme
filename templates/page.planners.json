@@ -28,7 +28,7 @@
             "title_size": 72,
             "subheading": "Plan Your Most Intentional Year Yet",
             "link": "shopify://collections/planners",
-            "link_text": "Optional button",
+            "link_text": "Begin Today",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -649,6 +649,9 @@
         "a8361a42-7030-47aa-9ec8-ba37b865b732",
         "single_button_8wfQUj"
       ],
+      "custom_css": [
+        ".feature-row {max-height: 500px;}"
+      ],
       "settings": {
         "space_above": 0,
         "space_below": 0
@@ -707,7 +710,10 @@
     },
     "combined-content-section-2": {
       "type": "toolkit",
-      "settings": {}
+      "settings": {
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
