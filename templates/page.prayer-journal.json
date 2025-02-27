@@ -285,49 +285,49 @@
     },
     "image_row_mTk6mm": {
       "type": "image-row",
-      "blocks": {
-        "image_aqQT7N": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_NG6zeN": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_r4cq9t": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_kjAMpG": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_22": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-348.jpg",
+      "caption": "",
+      "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-magnolia-springs-theme"
+    }
+  },
+  "image_23": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-188.jpg",
+      "caption": "",
+      "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-edinburgh-theme"
+    }
+  },
+  "image_24": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Gift-Intentionally-287.jpg",
+      "caption": "",
+      "link": "shopify://products/genuine-leather-one-thing-i-ask-5-year-prayer-journal-luxembourg-theme"
+    }
+  },
+  "image_25": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0502B.jpg",
+      "caption": "",
+      "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-stockholm-theme"
+    }
+  }
+},
       "block_order": [
-        "image_aqQT7N",
-        "image_NG6zeN",
-        "image_r4cq9t",
-        "image_kjAMpG"
+        "image_22",
+        "image_23",
+        "image_24",
+        "image_25"
       ],
       "settings": {
         "title": "",
@@ -338,48 +338,48 @@
     },
     "text_columns_6eUJmx": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_GbnBfH": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_APzFBH": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_NXfWYJ": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_26": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>I bought this journal as a gift for my husband, and he has loved using it. The inside is simple and the leather is of great quality. It has always encouraged him to spend daily time with God.<br/><em>—Jenn—</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_27": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>This is one of the most precious items I own. When I write in it I feel like I am writing to my future generations. It will be such a testimony of God’s goodness and faithfulness in our family’s life. It is so beautifully made that it feels like a treasure.<br/><em>—Liberty—</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_28": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "",
+      "text": "<p>I bought this as a gift for a friend and she absolutely loved it!! It is such a beautiful book, with so much detail in it! There is so much room to write down prayers on each page, and it’s good for 5 years! Such a great buy!<br/><em>—Kailey—</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_GbnBfH",
-        "text_block_APzFBH",
-        "text_block_NXfWYJ"
+        "text_block_26",
+        "text_block_27",
+        "text_block_28"
       ],
       "settings": {
         "title": "",
