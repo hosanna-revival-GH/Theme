@@ -88,12 +88,54 @@
         "space_above": 0,
         "space_below": 75
       }
-    }
+    },
+              "3aab8f55-59c3-41ac-94a0-6477cd199989": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-01.png",
+              "image_width":  "50",
+              "subtitle": "Pray Like This",
+              "title": "This Devotional is for you if...",
+              "text": "<p>- You find yourself at a breaking point.<br/>- You believe a prayer you memorized in Sunday School is too elementary to bear the weight of your complex life.<br/>- You get itchy at the idea of accepting someone else's template of something as personal and intimate as prayer.</p><p><em>If these words resonate, this devotional is for you.</em></p><p></p>",
+              "button_label": "Choose this tool",
+              "button_link": "shopify://products/pray-like-this",
+              "layout": "left"
+            }
+          },
+          "eeffe765-5638-475a-9989-e3dd7c5be426": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-02.png",
+              "image_width": "50",
+              "subtitle": "The Details",
+              "title": "Pray Like This",
+              "text": "<p><strong>Topic</strong>: prayer<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: <a href=\"https://biblia.com/bible/esv/Matt%206.9-13\" target=\"_blank\">Matthew 6:9-13</a></p><p>“The Lord’s Prayer is Jesus’ invitation to learn who God is, what he loves, and how we are to relate to him as his children.” <em><br/>—Author Katie Noble</em></p><p></p>",
+              "button_label": "Choose this Tool",
+              "button_link": "shopify://products/pray-like-this",
+              "layout": "right"
+            }
+          },
+          "bd763792-5b4c-42e8-8b2d-dc559644f6f0": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-03.png",
+              "image_width": "50",
+              "subtitle": "Peek Inside",
+              "title": "The Devotional Structure",
+              "text": "<p><strong>Structure</strong>: 4-6 daily entries per week plus an end-of-week wrap up<br/><strong>Elements</strong>: daily entries, questions, guided prayer, weekly introduction</p><p>Each week dives into a line of the Lord’s Prayer with space for reflection and an application sheet that walks through a self-guided, templated prayer at the end of each week. </p><p></p>",
+              "button_label": "Choose this Tool",
+              "button_link": "shopify://products/pray-like-this",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
     "hero_video_Yn3Cy8",
     "rich_text_9Ppipy",
-    "single_button_znDCwq"
+    "single_button_znDCwq",
+     "3aab8f55-59c3-41ac-94a0-6477cd199989",
+    "eeffe765-5638-475a-9989-e3dd7c5be426",
+    "bd763792-5b4c-42e8-8b2d-dc559644f6f0"
   ]
 }
