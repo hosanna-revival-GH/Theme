@@ -154,39 +154,39 @@
     },
     "image_row_XCqn8B": {
       "type": "image-row",
-      "blocks": {
-        "image_Y3BKdP": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_wCLF3U": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_A3K3XV": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_1": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/PrayLikeThis-Relaunch-Homepage_7ca720f1-13b5-4a98-bbe5-015a09a948e3.png",
+      "caption": "",
+      "link": "shopify://products/pray-like-this"
+    }
+  },
+  "image_2": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-05.png",
+      "caption": "",
+      "link": "shopify://products/pray-like-this"
+    }
+  },
+  "image_3": {
+    "type": "image",
+    "settings": {
+      "enable_image": false,
+      "image": "",
+      "caption": "",
+      "link": "shopify://products/pray-like-this"
+    }
+  },
+},
       "block_order": [
-        "image_Y3BKdP",
-        "image_wCLF3U",
-        "image_A3K3XV"
+        "image_1",
+        "image_2",
+        "image_3"
       ],
       "settings": {
         "title": "",
