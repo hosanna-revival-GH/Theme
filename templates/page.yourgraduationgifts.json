@@ -24,16 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "FATHER'S DAY",
+            "title": "",
             "title_size": 72,
-            "subheading": "Your gifts for men",
-            "link": "shopify://collections/gifts-for-men",
-            "link_text": "Shop gifts for men",
+            "subheading": "",
+            "link": "",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/FD-landingpage.png",
+            "image": "shopify://shop_images/Graduation-Gift-Hosanna-Revival-Beautiful-Bible-001.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -65,7 +65,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We create tools to excite you and your loved ones about engaging in Scripture. This Father's Day, give the gift of Scripture to the father in your life to revive his excitement about engaging in God’s Word</p>",
+            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. In big life milestones and transitions, our hope is that God's Word would be an anchor to those  going through change. Shop gifts for grads and those celebrating milestones today! </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -144,8 +144,8 @@
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32": {
       "type": "single-button",
       "settings": {
-        "button_text": "GIFT INTENTIONALLY",
-        "button_link": "shopify://collections/gifts-for-men",
+        "button_text": "SHOP GIFTS FOR GRADS",
+        "button_link": "shopify://collections/hosanna-revival-shop",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -155,12 +155,63 @@
     "35a474bd-e122-4855-93ca-65b5b1bd12e9": {
       "type": "featured-collection",
       "settings": {
-        "title": "SHOP GIFTS FOR MEN",
-        "home_featured_products": "gifts-for-men",
+        "title": "SHOP BEST SELLERS",
+        "home_featured_products": "best-sellers",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
+        "divider": false
+      }
+    },
+    "text_columns_8WrrEC": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_VXk4nX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_EEmyNy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_gDbyhT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_VXk4nX",
+        "text_block_EEmyNy",
+        "text_block_gDbyhT"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
         "divider": false
       }
     }
@@ -171,6 +222,7 @@
     "rich_text_xgdjGx",
     "text_columns_QrRQrx",
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32",
+    "text_columns_8WrrEC",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9"
   ]
 }
