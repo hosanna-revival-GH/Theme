@@ -366,36 +366,44 @@
         "divider": true
       }
     },
-    "text_and_image_eMkMnk": {
-      "type": "text-and-image",
+    "combined-content-section-5": {
+      "type": "toolkit",
+      "blocks": {
+        "text_and_image_KbXCmK": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-265B.jpg",
+            "image_width": 50,
+            "subtitle": "New this Year",
+            "title": "The Undated Hosanna Revival Planner",
+            "text": "<p>Our undated planner combines Hosanna Revival’s beautiful Marlo design with intentional and functional features. Start wherever you are and begin building out your plans and dreams with the flexibility of your own timeline. </p>",
+            "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+            "button_label": "Start with Undated",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "single_button_FTQme4": {
+          "type": "single-button",
+          "settings": {
+            "secondary": false,
+            "button_text": "Choose My Cover",
+            "button_link": "shopify://collections/planners",
+            "button_size": "huge",
+            "alignment": "center",
+            "space_above": 0,
+            "space_below": 75
+          }
+        }
+      },
+      "block_order": [
+        "text_and_image_KbXCmK",
+        "single_button_FTQme4"
+      ],
       "settings": {
-        "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-265B.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "New this Year",
-        "title": "The Undated Hosanna Revival Planner",
-        "text": "<p>Our undated planner combines Hosanna Revival’s beautiful Marlo design with intentional and functional features. Start wherever you are and begin building out your plans and dreams with the flexibility of your own timeline. </p>",
-        "button_label": "Start with Undated",
-        "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Choose My Cover",
-        "button_link": "shopify://collections/planners",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 30
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "text_columns_CWekeH": {
@@ -484,44 +492,28 @@
         "lazyload_images": true
       }
     },
-    "rich_text_rKMDce": {
-      "type": "rich-text",
+    "combined-content-section-1": {
+      "type": "toolkit",
       "blocks": {
-        "heading_wr9yDx": {
-          "type": "heading",
+        "rich_text_Uca4mb": {
+          "type": "rich_text",
           "settings": {
-            "title": "Explore our Planner Layout"
-          }
-        },
-        "text_cEw3nD": {
-          "type": "text",
-          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#6b6e40",
+            "color_text": "#e8e8e1",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Explore our Planner Layout",
             "enlarge_text": true,
             "text": "<p>We surveyed 2000+ community members to understand what makes the perfect planner. The biggest request? Space! Space for boxes and lists and priorities and dreams—but in an unprompted way so you can make the most of your intentional days ahead.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
-        }
-      },
-      "block_order": [
-        "heading_wr9yDx",
-        "text_cEw3nD"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#6b6e40",
-        "color_text": "#e8e8e1",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "combined-content-section-1": {
-      "type": "toolkit",
-      "blocks": {
+        },
         "f324f76f-7c8b-4712-9105-f00a7813a9cf": {
           "type": "text_and_image",
           "settings": {
@@ -626,6 +618,7 @@
         }
       },
       "block_order": [
+        "rich_text_Uca4mb",
         "f324f76f-7c8b-4712-9105-f00a7813a9cf",
         "edfff7fc-47a6-4841-8edc-076ff7aa970e",
         "e8bf08e1-5a18-4bcc-b264-e2ad39ed51b4",
@@ -1012,15 +1005,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "title": "A Planner for Every \nSeason",
+            "title_size": 72,
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-183.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -1039,13 +1033,260 @@
         "lazyload_images": true
       }
     },
-    "combined-content-section-5": {
-      "type": "toolkit",
-      "settings": {}
+    "rich_text_63TGqA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3GrYL7": {
+          "type": "heading",
+          "settings": {
+            "title": "Built for You"
+          }
+        },
+        "text_TyzQYJ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We design our planners with all walks of life in mind. Built with both structure and flexibility, our planners are adaptable to your specific needs.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_3GrYL7",
+        "text_TyzQYJ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#6b6e40",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_iEWpem": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_rhjbJn": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_TE8dWy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_hDXfaj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rhjbJn",
+        "text_block_TE8dWy",
+        "text_block_hDXfaj"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_FnXkzE": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Click Here",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "hero_video_jFMaEt": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     },
     "combined-content-section-6": {
       "type": "toolkit",
-      "settings": {}
+      "blocks": {
+        "rich_text_6tXi3A": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Rich text",
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "faq_FKBRR6": {
+          "type": "faq",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_pypJTz": {
+          "type": "faq",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_YajU4K": {
+          "type": "faq",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "single_button_JyyRWU": {
+          "type": "single-button",
+          "settings": {
+            "secondary": false,
+            "button_text": "Click Here",
+            "button_link": "/",
+            "button_size": "huge",
+            "alignment": "center",
+            "space_above": 30,
+            "space_below": 20
+          }
+        },
+        "hero_qmADww": {
+          "type": "hero",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 32,
+            "parallax": false,
+            "section_height": "650px",
+            "mobile_height": "auto"
+          }
+        },
+        "rich_text_jT6KfN": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Rich text",
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "single_button_7H6K7w": {
+          "type": "single-button",
+          "settings": {
+            "secondary": false,
+            "button_text": "Click Here",
+            "button_link": "/",
+            "button_size": "medium",
+            "alignment": "center",
+            "space_above": 30,
+            "space_below": 20
+          }
+        },
+        "hero_e93yCF": {
+          "type": "hero",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 32,
+            "parallax": false,
+            "section_height": "650px",
+            "mobile_height": "auto"
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_6tXi3A",
+        "faq_FKBRR6",
+        "faq_pypJTz",
+        "faq_YajU4K",
+        "single_button_JyyRWU",
+        "hero_qmADww",
+        "rich_text_jT6KfN",
+        "single_button_7H6K7w",
+        "hero_e93yCF"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -1058,11 +1299,9 @@
     "slideshow_Fh3rUR",
     "rich_text_UG8Wjy",
     "text_columns_hFdMPw",
-    "text_and_image_eMkMnk",
-    "3e8b1dd3-8b40-4abf-8bc7-4c54e374d38a",
+    "combined-content-section-5",
     "text_columns_CWekeH",
     "slideshow_ALxDL6",
-    "rich_text_rKMDce",
     "combined-content-section-1",
     "text_columns_jCgwVL",
     "combined-content-section-2",
@@ -1071,7 +1310,10 @@
     "combined-content-section-4",
     "text_columns_r8JV6r",
     "slideshow_xNtC8h",
-    "combined-content-section-5",
+    "rich_text_63TGqA",
+    "text_columns_iEWpem",
+    "single_button_FnXkzE",
+    "hero_video_jFMaEt",
     "combined-content-section-6"
   ]
 }
