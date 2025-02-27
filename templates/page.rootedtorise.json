@@ -283,7 +283,46 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+             "015f17cd-66b9-4af2-9242-6fc0f97ad8c2": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-017_b1dd5855-865d-45f5-9e2a-1ef9111f62a4.jpg",
+              "image_width": "50",
+              "subtitle": "Study Tools",
+              "title": "Studying with a group? Buy in bulk!",
+              "text": "<p>If you are a leader or mentor to high school girls, we encourage you to gather your group to work through <em>Rooted to Rise</em> together. </p><p>To make this easy, we offer discounts to bundle and save! <strong>Buy 10+ devotionals and save $5 each!</strong> This discount is applied automatically in your cart. We're cheering you on as you study this in community.</p><p></p>",
+              "button_label": "Bundle + Save",
+              "button_link": "shopify://products/devotional-rooted-to-rise",
+              "layout": "left"
+            }
+          },
+          "edd1f9f2-770f-470a-89c8-cd191970828a": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Haley-Crabtree-Headshot-1.jpg",
+              "image_width": "50",
+              "subtitle": "Meet the Author",
+              "title": "Haley Crabtree",
+              "text": "<p>Haley is a public school teacher in the Dallas area, a lover of youth ministry, and a firm believer that a slow morning filled with coffee and Jesus is one of the greatest things on this side of heaven. As a lover of all things cozy, you’ll likely find her grabbing coffee with a high schooler after work or watching a silly television show with her roommates in the evenings. <em>Rooted to Rise</em> is her first published devotional.</p>",
+              "button_label": "Follow Haley",
+              "button_link": "https://www.instagram.com/writtenbyhaley/",
+              "layout": "right"
+            }
+          },
+          "f72de939-3c07-4c39-ab83-ca33b9b02e81": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-031_85637602-e647-41db-a567-515161d342e0.jpg",
+              "image_width": "50",
+              "subtitle": "Meet the Author",
+              "title": "Haley's Story",
+              "text": "<p>When I was in high school, I desired to grow deeper in my relationship and walk with the Lord but I wasn’t always sure how to do that. <em>What do I read in the Bible? How do I journal? What does it look and sound like to pray to God?</em> I wrote <em>Rooted to Rise</em> with the hope that it would be a catalyst in your relationship with the Lord, a way to show you that God doesn’t need you to be perfect and know everything there is to know about life and him. He just wants you and your heart. This devotional will show you how you are loved by God, set apart in Jesus, and how you can use what you learn to go out into the world boldly proclaiming the goodness of God.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -296,6 +335,9 @@
     "image_row_ABKxFF",
     "68368f68-598d-4bd7-87e3-2a3ecaea4253",
     "5ec83575-a6a4-411e-9c18-ff3c10ff6fa6",
-    "slideshow_tYdk63"
+    "slideshow_tYdk63",
+     "015f17cd-66b9-4af2-9242-6fc0f97ad8c2",
+    "edd1f9f2-770f-470a-89c8-cd191970828a",
+    "f72de939-3c07-4c39-ab83-ca33b9b02e81"
   ]
 }
