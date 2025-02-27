@@ -11,13 +11,86 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_DiDgF9": {
+      "type": "slideshow",
+      "blocks": {
+        "image_kiCb9k": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Build Your Wishlist",
+            "title_size": 72,
+            "subheading": "Build Your Wishlist",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0422.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_kiCb9k"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_47pm94": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hit47k": {
+          "type": "heading",
+          "settings": {
+            "title": "Welcome to your Wishlist"
+          }
+        },
+        "text_FBbPte": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>What’s on your wishlist this Christmas? If you’re looking for tools to get and to gift, you’re in the right place. Welcome to Hosanna Revival, your home for gifting intentionally. This Christmas, we invite you to bring beauty home for yourself and those you love. Explore our guide to your most intentional gift yet below.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_hit47k",
+        "text_FBbPte"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_DiDgF9",
+    "rich_text_47pm94"
   ]
 }
