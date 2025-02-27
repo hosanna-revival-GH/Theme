@@ -332,6 +332,32 @@
         "space_below": 75
       }
     },
+    "combined-content-section-3": {
+      "type": "toolkit",
+      "blocks": {
+        "text_and_image_EfpFza": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "",
+            "title": "",
+            "text": "",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        }
+      },
+      "block_order": [
+        "text_and_image_EfpFza"
+      ],
+      "settings": {
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "4254f18b-a76d-4a78-96b3-99d6f4b576d8": {
       "type": "text-and-image",
       "settings": {
@@ -640,10 +666,6 @@
         "align_text": "center",
         "divider": false
       }
-    },
-    "combined-content-section-3": {
-      "type": "toolkit",
-      "settings": {}
     }
   },
   "order": [
@@ -660,6 +682,7 @@
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7",
     "hero_video_EHR8Xy",
     "rich_text_w4KFaR",
+    "combined-content-section-3",
     "4254f18b-a76d-4a78-96b3-99d6f4b576d8",
     "b379e23f-3839-4406-8c69-679bb9979e01",
     "12bac305-f31f-46da-ae1c-0ef25f28cf04",
@@ -670,7 +693,6 @@
     "slideshow_BYN9tp",
     "rich_text_x8FDHK",
     "text_columns_BQGmdg",
-    "text_columns_zRBtLr",
-    "combined-content-section-3"
+    "text_columns_zRBtLr"
   ]
 }
