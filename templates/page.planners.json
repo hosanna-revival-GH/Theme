@@ -384,7 +384,7 @@
             "button_link": "shopify://collections/planners",
             "button_size": "huge",
             "alignment": "center",
-            "space_above": -30,
+            "space_above": -35,
             "space_below": 75
           }
         }
@@ -1217,44 +1217,47 @@
     },
     "text_columns_NQixpN": {
       "type": "text-columns",
-"blocks": {
-  "text_block_13": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-293.jpg",
-      "image_width": 650,
-      "title": "Matching Notebook",
-      "text": "<p>Choose from our beautiful lined and dotted notebooks to find the perfect pair to plan your year well.</p>",
-      "button_label": "choose my notebook",
-      "button_link": "shopify://collections/notebooks"
-    }
-  },
-  "text_block_14": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Hosanna-Revival-Sweatshirt-Sand-12_1.jpg",
-      "image_width": 650,
-      "title": "Cozy Sweatshirt",
-      "text": "<p>What better way to plan your year than getting cozy with our Hosanna sweatshirt?</p>",
-      "button_label": "Choose my Sweatshirt",
-      "button_link": "shopify://collections/apparel"
-    }
-  },
-  "text_block_15": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Hosanna-Sticker-Sale-Valentines-Day-February-P-090.jpg",
-      "image_width": 650,
-      "title": "Cute Stickers",
-      "text": "<p>Decorate your laptop or water bottle with mini reminders of Scripture with the cutest Hosanna stickers!</p>",
-      "button_label": "Choose my Stickers",
-      "button_link": "shopify://collections/stickers"
-    }
-  }
-},
+      "blocks": {
+        "text_block_13": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-293.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Matching Notebook",
+            "text": "<p>Choose from our beautiful lined and dotted notebooks to find the perfect pair to plan your year well.</p>",
+            "button_label": "choose my notebook",
+            "button_link": "shopify://collections/notebooks"
+          }
+        },
+        "text_block_14": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Hosanna-Revival-Sweatshirt-Sand-12_1.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Cozy Sweatshirt",
+            "text": "<p>What better way to plan your year than getting cozy with our Hosanna sweatshirt?</p>",
+            "button_label": "Choose my Sweatshirt",
+            "button_link": "shopify://collections/apparel"
+          }
+        },
+        "text_block_15": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Hosanna-Sticker-Sale-Valentines-Day-February-P-090.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Cute Stickers",
+            "text": "<p>Decorate your laptop or water bottle with mini reminders of Scripture with the cutest Hosanna stickers!</p>",
+            "button_label": "Choose my Stickers",
+            "button_link": "shopify://collections/stickers"
+          }
+        }
+      },
       "block_order": [
         "text_block_13",
         "text_block_14",
