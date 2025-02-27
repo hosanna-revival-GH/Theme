@@ -11,13 +11,173 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_Q9G7DC": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QNnctW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "ONE THING I ASK",
+            "title_size": 79,
+            "subheading": "Five Years of Prayer",
+            "link": "shopify://collections/one-thing-i-ask",
+            "link_text": "SHOP 5-YEAR PRAYER JOURNALS",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0500.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_QNnctW"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_J6WLX6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ugi8wK": {
+          "type": "heading",
+          "settings": {
+            "title": "ONE THING I ASK"
+          }
+        },
+        "text_BNUxPa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Five Year Prayer Journal</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_GncT97": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>One Thing I Ask </em>is a 5-year prayer journal dreamt up and designed by Hosanna Revival. These beautiful journals were designed to help you remember the faithfulness of God as you journal your prayers. This keepsake journal contains 366 unprompted daily spreads with five entries per day to document your prayers over five years. Each date offers 7 lines per day where you can summarize your prayers into short phrases, or jot them down as bullet points. Over the next five years, this journal will become an active record of the movement of God in your life.</p><p><em>These beautiful journals make incredible gifts for people in your life who are trying to cultivate a habit of prayer. They also make incredible gifts for your children. Record the prayers you’ve prayed for your child over the years, and when they are older, you can present them a journal filled with prayers you’ve prayed over them—and seen God answer in countless ways. The possibilities are endless, and we can’t wait to see the beautiful and unique ways these prayer journals are used and loved by you.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ugi8wK",
+        "text_BNUxPa",
+        "text_GncT97"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_A4iQQ4": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "SHOP 5-YEAR PRAYER JOURNALS",
+        "button_link": "shopify://collections/one-thing-i-ask",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "text_columns_Ugg789": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_ejHB9n": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_qE7Gzy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_t3hFU8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_ejHB9n",
+        "text_block_qE7Gzy",
+        "text_block_t3hFU8"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "featured_collection_63YLHm": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "FIVE YEAR PRAYER JOURNALS",
+        "home_featured_products": "one-thing-i-ask",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_Q9G7DC",
+    "rich_text_J6WLX6",
+    "single_button_A4iQQ4",
+    "text_columns_Ugg789",
+    "featured_collection_63YLHm"
   ]
 }
