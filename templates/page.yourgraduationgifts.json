@@ -166,48 +166,48 @@
     },
     "text_columns_8WrrEC": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_VXk4nX": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_EEmyNy": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_gDbyhT": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_62": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/aurora-MD-1.png",
+      "image_width": 650,
+      "title": "A HOSANNA REVIVAL BIBLE",
+      "text": "<p>A perfect gift for the graduate or anyone celebrating a life milestone, shop our classic Beautiful Bibles, ranging in design, translation, and font size. Our Bibles feature originally hand-painted artwork, as well as spacious journaling margins and our custom Hosanna Revival typeset. </p>",
+      "button_label": "shop beautiful bibles",
+      "button_link": "shopify://collections/beautiful-bibles"
+    }
+  },
+  "text_block_63": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/unfold-MD-2.png",
+      "image_width": 650,
+      "title": "A HOSANNA REVIVAL DEVOTIONAL",
+      "text": "<p>Our devotionals make the sweetest gifts to pair with our Beautiful Bibles and to deepen engagement with God's Word. Browse our devotional library and topics to choose a beautiful study today.</p>",
+      "button_label": "Shop devotionals",
+      "button_link": "shopify://collections/hosanna-revival-shop"
+    }
+  },
+  "text_block_64": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Eddie-MD-3_901eb770-1e62-46c5-bdfd-098d211fa82f.png",
+      "image_width": 650,
+      "title": "A Hosanna Revival 5-Year Prayer Journal",
+      "text": "<p>From leather-bound to full floral, find the design that will excite the recipient to open these pages over the next 5 years. A great gift for someone entering a new life chapter, shop our five-year, One Thing I Ask Journals. </p>",
+      "button_label": "Shop One Thing I Ask",
+      "button_link": "shopify://collections/one-thing-i-ask"
+    }
+  }
+},
       "block_order": [
-        "text_block_VXk4nX",
-        "text_block_EEmyNy",
-        "text_block_gDbyhT"
+        "text_block_62",
+        "text_block_63",
+        "text_block_64"
       ],
       "settings": {
         "title": "",
