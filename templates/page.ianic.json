@@ -173,39 +173,39 @@
     },
     "image_row_ffqCkj": {
       "type": "image-row",
-      "blocks": {
-        "image_T7HCqm": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_jCaGfE": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_b7fpGR": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_1": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-047.jpg",
+      "caption": "",
+      "link": "shopify://products/devotional-i-am-not-in-charge"
+    }
+  },
+  "image_2": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-056.jpg",
+      "caption": "",
+      "link": "shopify://products/devotional-i-am-not-in-charge"
+    }
+  },
+  "image_3": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/I-Am-Not-In-Charge-Devotional-Coffee-Shop-Flatlays-P-058.jpg",
+      "caption": "",
+      "link": "shopify://products/devotional-i-am-not-in-charge"
+    }
+  },
+},
       "block_order": [
-        "image_T7HCqm",
-        "image_jCaGfE",
-        "image_b7fpGR"
+        "image_1",
+        "image_2",
+        "image_3"
       ],
       "settings": {
         "title": "",
