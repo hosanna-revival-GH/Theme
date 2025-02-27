@@ -366,41 +366,44 @@
     },
     "text_columns_CWekeH": {
       "type": "text-columns",
- "blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "The Planner for bad planners",
-      "text": "<p>I love this planner, because A: it’s pretty, and 2: I actually use it. It’s got enough to make me think through more than I normally would, but not so much that I give up trying to keep up with it.<br/>— <em>Andie </em>—</p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Beautiful + Purposeful",
-      "text": "<p>This planner has been the perfect addition to my day! It's: 1. Aesthetically beautiful, 2. Centered on Christ, 3. Purposeful in helping plan out my days/weeks/months!<br/><em>— Alex —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": false,
-      "image_width": 650,
-      "title": "Dreamy Planner",
-      "text": "<p>I have owned enough planners over the years to know that this one is the best. It’s perfect for school or work or just life, it’s beautiful, and it has the best function of any planner I’ve encountered. <br/><em>— Alicia —</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Planner for bad planners",
+            "text": "<p>I love this planner, because A: it’s pretty, and 2: I actually use it. It’s got enough to make me think through more than I normally would, but not so much that I give up trying to keep up with it.<br/>— <em>Andie </em>—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Beautiful + Purposeful",
+            "text": "<p>This planner has been the perfect addition to my day! It's: 1. Aesthetically beautiful, 2. Centered on Christ, 3. Purposeful in helping plan out my days/weeks/months!<br/><em>— Alex —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Dreamy Planner",
+            "text": "<p>I have owned enough planners over the years to know that this one is the best. It’s perfect for school or work or just life, it’s beautiful, and it has the best function of any planner I’ve encountered. <br/><em>— Alicia —</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
@@ -481,98 +484,194 @@
         "space_below": 75
       }
     },
-              "f324f76f-7c8b-4712-9105-f00a7813a9cf": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-14.jpg",
-              "image_width": "50",
-              "subtitle": "1",
-              "title": "Monthly Scripture",
-              "text": "<p>Each month, meditate on the featured Scripture to remind yourself of the Lord’s guidance throughout your days.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "edfff7fc-47a6-4841-8edc-076ff7aa970e": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-23.jpg",
-              "image_width": "50",
-              "subtitle": "2",
-              "title": "Month-at-a-Glance Spread",
-              "text": "<p>Use this spread to collect your thoughts and set your focus before heading into the month ahead. Return to it when you need to drop a note or sort tasks and topics into weeks.</p><p><em><strong>To the Left:</strong></em> Brain dump all your lists, tasks, and brainstorms for the month and use the “This Month I Will…” prompt to mark down your resolutions, goals, or priorities.</p><p><em><strong>To the Right:</strong></em> Sort out weekly events, meal plans, or even prayers into this this “Week-at-a-Glance” page.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "e8bf08e1-5a18-4bcc-b264-e2ad39ed51b4": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-27.jpg",
-              "image_width": "50",
-              "subtitle": "3",
-              "title": "Calendar Spread",
-              "text": "<p>Organize your events and timelines all in one monthly spread and jot down extra notes to the side.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "ac222eef-9d32-4bcb-8cd4-88af644bd194": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-30.jpg",
-              "image_width": "50",
-              "subtitle": "4",
-              "title": "Weekly Spread",
-              "text": "<p>Fill your week with beautiful and intentional tasks as you plan out your days in our signature horizontal layout. Use these special features for extra intentionality:</p><p><em><strong>— Week-at-a-Glance Box:</strong></em> Note down whatever helps you plan best!<br/><em><strong>— A Word for Your Week: </strong></em>Jot down a word or phrase to guide your days.<br/><em><strong>— Daily Brainstorm Box:</strong></em> Drop events, tasks, doodles—the options are endless!</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "ca1e833b-dac5-4489-b06f-fe6a22c00c64": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-35-Edit.jpg",
-              "image_width": "50",
-              "subtitle": "5",
-              "title": "12-Month Annual Planner",
-              "text": "<p>Plan from January 2025 through December 2025—your most intentional year yet!</p><p><em>Looking for our Hosanna Revival Undated Planner? </em><a href=\"https://hosannarevival.com/pages/undated-planner\" title=\"The Hosanna Revival Undated Planner\"><em>Click here</em></a><em>.</em></p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "a8361a42-7030-47aa-9ec8-ba37b865b732": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-52_e6559c95-735f-43a2-8a19-24ecc55ce47a.jpg",
-              "image_width": "50",
-              "subtitle": "6",
-              "title": "+ Bonus Features!",
-              "text": "<p>These bonus features add to the beauty and intentionality within our designs:</p><p>— Enjoy the delicate floral art for a minimal design.<br/>— Use the magnetic bookmark (spiral-bound) or ribbon (layflat) to mark your spot.<br/>— Jot down thoughts in the extra note pages at the end of each month and in a section at the back.<br/>— Record addresses in the contacts section.<br/>— Tuck away mementos in the pocket folder.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "ea217336-3d9d-43b8-8b09-f5098a1576be": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Begin Planning Today",
-              "button_link": "shopify://collections/planners",
-              "button_size": "huge"
-            }
-          },
-
-
-
+    "f324f76f-7c8b-4712-9105-f00a7813a9cf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-14.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "1",
+        "title": "Monthly Scripture",
+        "text": "<p>Each month, meditate on the featured Scripture to remind yourself of the Lord’s guidance throughout your days.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "edfff7fc-47a6-4841-8edc-076ff7aa970e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-23.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "2",
+        "title": "Month-at-a-Glance Spread",
+        "text": "<p>Use this spread to collect your thoughts and set your focus before heading into the month ahead. Return to it when you need to drop a note or sort tasks and topics into weeks.</p><p><em><strong>To the Left:</strong></em> Brain dump all your lists, tasks, and brainstorms for the month and use the “This Month I Will…” prompt to mark down your resolutions, goals, or priorities.</p><p><em><strong>To the Right:</strong></em> Sort out weekly events, meal plans, or even prayers into this this “Week-at-a-Glance” page.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e8bf08e1-5a18-4bcc-b264-e2ad39ed51b4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-27.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "3",
+        "title": "Calendar Spread",
+        "text": "<p>Organize your events and timelines all in one monthly spread and jot down extra notes to the side.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ac222eef-9d32-4bcb-8cd4-88af644bd194": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-30.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "4",
+        "title": "Weekly Spread",
+        "text": "<p>Fill your week with beautiful and intentional tasks as you plan out your days in our signature horizontal layout. Use these special features for extra intentionality:</p><p><em><strong>— Week-at-a-Glance Box:</strong></em> Note down whatever helps you plan best!<br/><em><strong>— A Word for Your Week: </strong></em>Jot down a word or phrase to guide your days.<br/><em><strong>— Daily Brainstorm Box:</strong></em> Drop events, tasks, doodles—the options are endless!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ca1e833b-dac5-4489-b06f-fe6a22c00c64": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-35-Edit.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "5",
+        "title": "12-Month Annual Planner",
+        "text": "<p>Plan from January 2025 through December 2025—your most intentional year yet!</p><p><em>Looking for our Hosanna Revival Undated Planner? </em><a href=\"https://hosannarevival.com/pages/undated-planner\" title=\"The Hosanna Revival Undated Planner\"><em>Click here</em></a><em>.</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "a8361a42-7030-47aa-9ec8-ba37b865b732": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-52_e6559c95-735f-43a2-8a19-24ecc55ce47a.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "6",
+        "title": "+ Bonus Features!",
+        "text": "<p>These bonus features add to the beauty and intentionality within our designs:</p><p>— Enjoy the delicate floral art for a minimal design.<br/>— Use the magnetic bookmark (spiral-bound) or ribbon (layflat) to mark your spot.<br/>— Jot down thoughts in the extra note pages at the end of each month and in a section at the back.<br/>— Record addresses in the contacts section.<br/>— Tuck away mementos in the pocket folder.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ea217336-3d9d-43b8-8b09-f5098a1576be": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin Planning Today",
+        "button_link": "shopify://collections/planners",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_jCgwVL": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_WnfXkC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_bAHzei": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_fPTcCm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_WnfXkC",
+        "text_block_bAHzei",
+        "text_block_fPTcCm"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -591,12 +690,13 @@
     "text_columns_CWekeH",
     "slideshow_ALxDL6",
     "rich_text_rKMDce",
-              "f324f76f-7c8b-4712-9105-f00a7813a9cf",
-          "edfff7fc-47a6-4841-8edc-076ff7aa970e",
-          "e8bf08e1-5a18-4bcc-b264-e2ad39ed51b4",
-          "ac222eef-9d32-4bcb-8cd4-88af644bd194",
-          "ca1e833b-dac5-4489-b06f-fe6a22c00c64",
-          "a8361a42-7030-47aa-9ec8-ba37b865b732",
-          "ea217336-3d9d-43b8-8b09-f5098a1576be",
+    "f324f76f-7c8b-4712-9105-f00a7813a9cf",
+    "edfff7fc-47a6-4841-8edc-076ff7aa970e",
+    "e8bf08e1-5a18-4bcc-b264-e2ad39ed51b4",
+    "ac222eef-9d32-4bcb-8cd4-88af644bd194",
+    "ca1e833b-dac5-4489-b06f-fe6a22c00c64",
+    "a8361a42-7030-47aa-9ec8-ba37b865b732",
+    "ea217336-3d9d-43b8-8b09-f5098a1576be",
+    "text_columns_jCgwVL"
   ]
 }
