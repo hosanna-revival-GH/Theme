@@ -12,12 +12,13 @@
       {% endif %}
       
       {% if parent_found %} 
-        {% unless rendered_handles contains link_handle %}
-          {% assign rendered_handles = rendered_handles | append: link_handle | append: ',' %}
-          <button type="button" class="collapsible-trigger collapsible-trigger-btn collapsible--auto-height{% unless collapsed_state %} is-open{% endunless %} tag-list__header" aria-controls="{{ location }}-{{ index }}{% if id %}-{{ id }}{% endif %}">
+        <button type="button" class="collapsible-trigger collapsible-trigger-btn collapsible--auto-height{% unless collapsed_state %} is-open{% endunless %} tag-list__header" aria-controls="{{ location }}-{{ index }}{% if id %}-{{ id }}{% endif %}">
           {{ link.title }}
           {% render 'collapsible-icons' %}
         </button>
+        {% unless rendered_handles contains link_handle %}
+          {% assign rendered_handles = rendered_handles | append: link_handle | append: ',' %}
+
           
           {% if link.links != blank %}
             <ul class="no-bullets tag-list">
