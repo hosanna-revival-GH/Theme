@@ -200,48 +200,45 @@
     },
     "text_columns_EcbRqf": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_BgkHTa": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_fNh3pD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_CjfdWf": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_16": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Beautiful",
+      "text": "<p>Beautiful outside and inside! This is a great pathway into a deeper understanding of the Lord’s Prayer without being overwhelming!<br/>—Rachel—</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_17": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Loving It",
+      "text": "<p>I’m almost done with this devotional & it has brought such perspective to my walk with Jesus & the way I view the world. I HIGHLY recommend this devotional for those looking for one!<br/>—Melanie—</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_18": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Life-Changing",
+      "text": "<p>I haven’t found a bible study this intentional and spirit-filled in a long time. I would recommend it to anyone who wants to grow closer to the heart of God through prayer!<br/>—Doris—</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_BgkHTa",
-        "text_block_fNh3pD",
-        "text_block_CjfdWf"
+        "text_block_16",
+        "text_block_17",
+        "text_block_18"
       ],
       "settings": {
         "title": "Testimonials from the Hosanna Community",
