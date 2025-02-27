@@ -154,39 +154,40 @@
     },
     "image_row_8mdiP7": {
       "type": "image-row",
-      "blocks": {
-        "image_8RGWQe": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_CNiaLe": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_jVxPNA": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+ "blocks": {
+  "image_33": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-001_58e20efb-769a-4d0a-b3ee-031d274d7ea9.jpg",
+      "caption": "",
+      "link": "shopify://products/devotional-songs-for-the-suffering"
+    }
+  },
+  "image_34": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-028.jpg",
+      "caption": "",
+      "link": "shopify://products/devotional-songs-for-the-suffering"
+    }
+  },
+  "image_35": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
+      "caption": "",
+      "link": "shopify://products/devotional-songs-for-the-suffering"
+    }
+  },
+
+},
       "block_order": [
-        "image_8RGWQe",
-        "image_CNiaLe",
-        "image_jVxPNA"
+        "image_33",
+        "image_34",
+        "image_35"
       ],
       "settings": {
         "title": "",
