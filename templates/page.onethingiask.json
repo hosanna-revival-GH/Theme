@@ -197,95 +197,102 @@
     },
     "text_columns_fz4mqT": {
       "type": "text-columns",
-"blocks": {
-  "text_block_1": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/FiveStars.png",
-      "image_width": 100,
-      "title": "",
-      "text": "<p>This is one of the most precious items I own. When I write in it I feel like I am writing to my future generations. It will be such a testimony of God’s goodness and faithfulness in our family’s life. It is so beautifully made that it feels like a treasure.<br/><em>—Liberty</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_2": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/FiveStars.png",
-      "image_width": 100,
-      "title": "",
-      "text": "<p>I bought this journal as a gift for my husband, and he has loved using it. The inside is simple and the leather is of great quality. It has always encouraged him to spend daily time with God.<br/><em>—Jenn</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_3": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/FiveStars.png",
-      "image_width": 100,
-      "title": "",
-      "text": "<p>I bought this as a gift for a friend and she absolutely loved it!! It is such a beautiful book, with so much detail in it! There is so much room to write down prayers on each page, and it’s good for 5 years! Such a great buy!<br/><em>—Kailey</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>This is one of the most precious items I own. When I write in it I feel like I am writing to my future generations. It will be such a testimony of God’s goodness and faithfulness in our family’s life. It is so beautifully made that it feels like a treasure.<br/><em>—Liberty</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>I bought this journal as a gift for my husband, and he has loved using it. The inside is simple and the leather is of great quality. It has always encouraged him to spend daily time with God.<br/><em>—Jenn</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>I bought this as a gift for a friend and she absolutely loved it!! It is such a beautiful book, with so much detail in it! There is so much room to write down prayers on each page, and it’s good for 5 years! Such a great buy!<br/><em>—Kailey</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_1",
         "text_block_2",
         "text_block_3"
       ],
       "settings": {
-        "title": "",
+        "title": "kind words from our community",
         "align_text": "center",
         "divider": false
       }
     },
     "image_row_t3HaTA": {
       "type": "image-row",
-"blocks": {
-  "image_1": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-348.jpg",
-      "caption": "",
-      "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-leona-theme"
-    }
-  },
-  "image_2": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-402_copy.jpg",
-      "caption": "",
-      "link": "shopify://collections/one-thing-i-ask"
-    }
-  },
-  "image_3": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-195.jpg",
-      "caption": "",
-      "link": "shopify://products/genuine-leather-one-thing-i-ask-5-year-prayer-journal-luxembourg-theme"
-    }
-  },
-  "image_4": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-188.jpg",
-      "caption": "",
-      "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-edinburgh-theme"
-    }
-  }
-},
+      "blocks": {
+        "image_1": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-348.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-leona-theme"
+          }
+        },
+        "image_2": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-402_copy.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://collections/one-thing-i-ask"
+          }
+        },
+        "image_3": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-195.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/genuine-leather-one-thing-i-ask-5-year-prayer-journal-luxembourg-theme"
+          }
+        },
+        "image_4": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-188.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-edinburgh-theme"
+          }
+        }
+      },
       "block_order": [
         "image_1",
         "image_2",
