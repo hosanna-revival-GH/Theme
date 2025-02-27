@@ -297,59 +297,148 @@
         "mobile_height": "auto"
       }
     },
-          "bca8384f-dd77-427f-b194-1b23153de2f8": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-019_2a19f694-916a-452e-9522-a8c4cd567d7a.jpg",
-              "image_width": "50",
-              "subtitle": "Study Tool",
-              "title": "Weekly Guides for \"Pray Like This\"",
-              "text": "<p>To pair with this study, author Katie Noble developed weekly guides to walk through bonus content related to each line of the Lord's Prayer. Navigate to the page below to access the guides.</p>",
-              "button_label": "View Guides",
-              "button_link": "https://www.goodnesscollective.com/blog/2021/1/26/pray-like-this-guides",
-              "layout": "left"
-            }
-          },
-          "e177fde9-b506-40ed-9c31-dd12040985bb": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Lords-Prayer-Devotional-Cathedral-Photoshoot-045.jpg",
-              "image_width": "50",
-              "subtitle": "Study Tool",
-              "title": "Prayer Toolkit",
-              "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. </p><p>Wherever you are, this guide is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline. </p>",
-              "button_label": "Explore Toolkit",
-              "button_link": "shopify://pages/prayer-toolkit",
-              "layout": "right"
-            }
-          },
-          "9db69021-e237-40f1-ae70-47b57a540dea": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-025_1a6cbcb0-45a1-453c-b141-1958383ff747.jpg",
-              "image_width": "50",
-              "subtitle": "Study Tool",
-              "title": "Lord's Prayer Lockscreens",
-              "text": "<p>Each one of these beautiful lock screens features beautiful artwork and a verse from The Lord's Prayer. Choose one to meditate upon this passage of Scripture as you study <em>Pray Like This</em>.</p>",
-              "button_label": "Choose My Lockscreen",
-              "button_link": "shopify://blogs/lock-screens",
-              "layout": "left"
-            }
-          },
-          "48300550-0d0a-42d7-8710-afd70b17d864": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Lords-Prayer-Devotional-Author-Katie-Noble-024.jpg",
-              "image_width": "50",
-              "subtitle": "Meet the Author",
-              "title": "Katie Noble",
-              "text": "<p>Katie lives in Central Ohio with her husband, Dave, and their two young sons, Hank and Johnny. In 2014, Katie started a blog, <a href=\"https://www.instagram.com/goodnesscollective/\">@goodnesscollective</a>, to highlight the beauty of her dying midwest town. Goodness has since evolved and has recently relaunched as a space to cultivate wisdom, virtue, and delight. The Nobles recently moved to a new town, so she’s figuring that out as she goes, writing before sunrise, wrestling with her boys during the day, and reading poetry after bedtime.</p>",
-              "button_label": "Follow Katie",
-              "button_link": "https://www.instagram.com/katie.noble/",
-              "layout": "right"
-            }
-          },
-
+    "bca8384f-dd77-427f-b194-1b23153de2f8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-019_2a19f694-916a-452e-9522-a8c4cd567d7a.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Study Tool",
+        "title": "Weekly Guides for \"Pray Like This\"",
+        "text": "<p>To pair with this study, author Katie Noble developed weekly guides to walk through bonus content related to each line of the Lord's Prayer. Navigate to the page below to access the guides.</p>",
+        "button_label": "View Guides",
+        "button_link": "https://www.goodnesscollective.com/blog/2021/1/26/pray-like-this-guides",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e177fde9-b506-40ed-9c31-dd12040985bb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Lords-Prayer-Devotional-Cathedral-Photoshoot-045.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Study Tool",
+        "title": "Prayer Toolkit",
+        "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. </p><p>Wherever you are, this guide is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline. </p>",
+        "button_label": "Explore Toolkit",
+        "button_link": "shopify://pages/prayer-toolkit",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "9db69021-e237-40f1-ae70-47b57a540dea": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/How-to-Pray-Prayer-Toolkit-Hosanna-Revival-025_1a6cbcb0-45a1-453c-b141-1958383ff747.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Study Tool",
+        "title": "Lord's Prayer Lockscreens",
+        "text": "<p>Each one of these beautiful lock screens features beautiful artwork and a verse from The Lord's Prayer. Choose one to meditate upon this passage of Scripture as you study <em>Pray Like This</em>.</p>",
+        "button_label": "Choose My Lockscreen",
+        "button_link": "shopify://blogs/lock-screens",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "48300550-0d0a-42d7-8710-afd70b17d864": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Lords-Prayer-Devotional-Author-Katie-Noble-024.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Katie Noble",
+        "text": "<p>Katie lives in Central Ohio with her husband, Dave, and their two young sons, Hank and Johnny. In 2014, Katie started a blog, <a href=\"https://www.instagram.com/goodnesscollective/\">@goodnesscollective</a>, to highlight the beauty of her dying midwest town. Goodness has since evolved and has recently relaunched as a space to cultivate wisdom, virtue, and delight. The Nobles recently moved to a new town, so she’s figuring that out as she goes, writing before sunrise, wrestling with her boys during the day, and reading poetry after bedtime.</p>",
+        "button_label": "Follow Katie",
+        "button_link": "https://www.instagram.com/katie.noble/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_jmhDTw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PmdVGH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/cart/add?id=32354443558947&quantity=1",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Pray-Like-This-Second-Edition-Leather-Devotional-Hosanna-Revival-218.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_PmdVGH"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "single_button_iYkUAE": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Back to Devotional Library",
+        "button_link": "shopify://collections/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_JRc9xY": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop All devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -367,6 +456,9 @@
     "bca8384f-dd77-427f-b194-1b23153de2f8",
     "e177fde9-b506-40ed-9c31-dd12040985bb",
     "9db69021-e237-40f1-ae70-47b57a540dea",
-    "48300550-0d0a-42d7-8710-afd70b17d864"
+    "48300550-0d0a-42d7-8710-afd70b17d864",
+    "slideshow_jmhDTw",
+    "single_button_iYkUAE",
+    "featured_collection_JRc9xY"
   ]
 }
