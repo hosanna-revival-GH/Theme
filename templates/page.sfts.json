@@ -154,36 +154,38 @@
     },
     "image_row_8mdiP7": {
       "type": "image-row",
- "blocks": {
-  "image_33": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-001_58e20efb-769a-4d0a-b3ee-031d274d7ea9.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-songs-for-the-suffering"
-    }
-  },
-  "image_34": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-028.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-songs-for-the-suffering"
-    }
-  },
-  "image_35": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
-      "caption": "",
-      "link": "shopify://products/devotional-songs-for-the-suffering"
-    }
-  },
-
-},
+      "blocks": {
+        "image_33": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-001_58e20efb-769a-4d0a-b3ee-031d274d7ea9.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-songs-for-the-suffering"
+          }
+        },
+        "image_34": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-028.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-songs-for-the-suffering"
+          }
+        },
+        "image_35": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-songs-for-the-suffering"
+          }
+        }
+      },
       "block_order": [
         "image_33",
         "image_34",
@@ -195,6 +197,57 @@
         "enable_spacing": true,
         "enable_zoom": false
       }
+    },
+    "text_columns_kAwgKj": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_iff3Ww": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_g8anDc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_8knt3A": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_iff3Ww",
+        "text_block_g8anDc",
+        "text_block_8knt3A"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -205,6 +258,7 @@
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4",
     "46251244-472e-41e9-aed5-42bc423cc417",
     "ddf6ef08-82bf-4630-b014-2c2df13532e4",
-    "image_row_8mdiP7"
+    "image_row_8mdiP7",
+    "text_columns_kAwgKj"
   ]
 }
