@@ -200,48 +200,45 @@
     },
     "text_columns_kAwgKj": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_iff3Ww": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_g8anDc": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_8knt3A": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_37": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Spirit Renewing!",
+      "text": "<p>This devotional really opened my eyes and allowed me to properly grieve. I would (and have) recommend this devotional to anyone who has gone through a loss or traumatic event.</p><p>—Rachel—</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_38": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "When you don’t have the words",
+      "text": "<p>When you don’t have the right words to comfort a friend who has lost a loved one, this is the perfect gift. I’ve purchased 2 of these for 2 different friends and they have shared that it has been a great comfort to the grieving process.</p><p>—Laydelis—</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_39": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Perfect for Everyone",
+      "text": "<p>It’s so real compared to other devotionals I’ve read that make things seem like it’ll all be okay. Julia’s book is honest about how we really feel but shows us how to be with God along the way.</p><p>—Lexi—</p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_iff3Ww",
-        "text_block_g8anDc",
-        "text_block_8knt3A"
+        "text_block_37",
+        "text_block_38",
+        "text_block_39"
       ],
       "settings": {
         "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
