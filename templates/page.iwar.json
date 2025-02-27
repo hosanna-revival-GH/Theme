@@ -96,11 +96,78 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+              "single_button_CRBEBN": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Preview Chapter One",
+              "button_link": "https://hosannarevival.com/iwar-chapter-one",
+              "button_size": "huge"
+            }
+          },
+          "single_button_6yzNy9": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Buy Now",
+              "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+              "button_size": "huge"
+            }
+          },
+          "text_and_image_c87NAi": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/IWAR-Landing-Page-01.png",
+              "image_width": "50",
+              "subtitle": "In Weeping and rejoicing",
+              "title": "This Book is for you if...",
+              "text": "<p>- You are seeking to understand God’s role for your emotions<br/>- You are seeking healthy emotions driven by biblical truth and the gospel <br/>- You are desiring your emotions to reflect God’s design</p>",
+              "button_label": "choose this tool",
+              "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+              "layout": "left"
+            }
+          },
+          "text_and_image_kXTmWw": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/IWAR-Landing-Page-02.png",
+              "image_width": "50",
+              "subtitle": "The Details",
+              "title": "In Weeping and Rejoicing",
+              "text": "<p><strong>Topic:</strong> Emotional Spirituality <br/><strong>Length of Study:</strong> 8 chapters <br/><strong>Focal Scripture:</strong> multiple passages</p><p>“People can be obsessed with feeling good. Everything in life and society serves to make people comfortable and pleased. Consumerism and sentimentalism are serious dangers in our world. But the solution is not to reject worldly pleasures completely. It would be a shame if in an effort not to worship happiness the church forfeited it completely.” (37-38)<br/>—<em>Paige Stitt McBride, author </em></p>",
+              "button_label": "choose this tool",
+              "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+              "layout": "right"
+            }
+          },
+          "text_and_image_g7gbnt": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/IWAR-Landing-Page-03.png",
+              "image_width": "50",
+              "subtitle": "Peek Inside",
+              "title": "The Book Structure",
+              "text": "<p><strong>Structure:</strong> 8 chapters <br/><strong>Elements:</strong> <em>In Weeping and Rejoicing </em>by Paige Stitt McBride is a book written to equip and encourage those of us who struggle to shape our emotional lives according to the Gospel. Through eight chapters, you will be guided into a thoroughly biblical understanding of emotions and then consider how a variety of specific emotions—joy, sadness, fear, peace, shame, anger, and love—can be clearly defined, dangerously distorted, and slowly developed in our everyday lives and struggles. If you have ever struggled to understand how the gospel relates to your mental health and emotions, this book is for you. </p>",
+              "button_label": "choose this tool",
+              "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
     "slideshow_kM3PF6",
-    "rich_text_tBwpF8"
+    "rich_text_tBwpF8",
+    "single_button_CRBEBN",
+    "single_button_6yzNy9",
+              "text_and_image_c87NAi",
+    "text_and_image_kXTmWw",
+    "text_and_image_g7gbnt"
+    
   ]
 }
