@@ -306,17 +306,17 @@
         "enable_zoom": false
       }
     },
-              "d22d5746-e5a6-4e81-bcf1-d00972fa5dcc": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "SHOP One Thing I Ask",
-              "button_link": "shopify://collections/one-thing-i-ask",
-              "button_size": "huge"
-            }
-          }
+    "d22d5746-e5a6-4e81-bcf1-d00972fa5dcc": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "SHOP One Thing I Ask",
+        "button_link": "shopify://collections/one-thing-i-ask",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 75,
+        "space_below": 75
+      }
+    }
   },
   "order": [
     "main",
