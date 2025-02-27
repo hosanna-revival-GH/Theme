@@ -623,48 +623,45 @@
     },
     "text_columns_jCgwVL": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_WnfXkC": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_bAHzei": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_fPTcCm": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_1": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Perfect!",
+      "text": "<p>So easy to use and has more than enough room to write monthly or daily style with other added bonuses.<br/><em>— Aly —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_2": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "My Favorite Layout",
+      "text": "<p>It’s not “too” organized where I feel like I’m trying to fit my life into someone else’s schedule, but it’s organized enough where I can keep up with my dates, tasks, and responsibilities.<br/><em>— Madison —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_3": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": false,
+      "image_width": 650,
+      "title": "Finally!",
+      "text": "<p>The paper feels great and is not cheap. Amazing craftsmanship and quality for the price!<br/><em>— Jara —</em></p>",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_WnfXkC",
-        "text_block_bAHzei",
-        "text_block_fPTcCm"
+        "text_block_1",
+        "text_block_2",
+        "text_block_3"
       ],
       "settings": {
         "title": "",
