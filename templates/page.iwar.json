@@ -11,13 +11,96 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_kM3PF6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_NjgGKA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "IN WEEPING AND REJOICING",
+            "title_size": 80,
+            "subheading": "Emotions in Theology and Life",
+            "link": "https://hosannarevival.com/iwar-chapter-one",
+            "link_text": "download the chapter one preview here",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-271.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_NjgGKA"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_tBwpF8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hNHcBY": {
+          "type": "heading",
+          "settings": {
+            "title": "IN WEEPING AND REJOICING"
+          }
+        },
+        "text_9KyJ8h": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>In Weeping and Rejoicing</em> breaks down a biblical understanding of emotions and offers readers a practical way forward in their emotional struggles.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_UwqWYA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Through <em>In Weeping and Rejoicing</em>, discover how seven core emotions—joy, sadness, fear, peace, shame, anger, and love—can be clearly defined, dangerously distorted, and slowly developed in our everyday lives and struggles.</p><p><strong>Note to the Reader:</strong> This book provides challenging and honest truth for your mental health journey from a non-clinical perspective. God can use many modes of healing to bring about our wholeness in the area of mental health—whether through wise counsel, modern medicine, biblical truth, and more—and the words you are about to read provide a Scripture-centered framework as you pursue these various avenues. Whether you struggle with depression, anxiety, or are wrestling through complex feelings, we encourage you to seek out professional guidance to pair with the truth you glean from this book. You are also welcome to explore mental-health related articles on our blog, <a href=\"https://hosannarevival.blog/\" title=\"https://hosannarevival.blog/\"><em>WHEN</em></a>, for additional insight.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_hNHcBY",
+        "text_9KyJ8h",
+        "text_UwqWYA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_kM3PF6",
+    "rich_text_tBwpF8"
   ]
 }
