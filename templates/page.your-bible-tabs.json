@@ -11,13 +11,69 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_htLd63": {
+      "type": "slideshow",
+      "blocks": {
+        "image_8KG9Cc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "INTRODUCING",
+            "title": "Hosanna Revival Bible Tabs",
+            "title_size": 50,
+            "subheading": "personalize your beautiful Bible with Hosanna Revival Bible tabs",
+            "link": "",
+            "link_text": "Purchase yours",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0909.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0909.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Q6byYq": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_8KG9Cc",
+        "image_Q6byYq"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_htLd63"
   ]
 }
