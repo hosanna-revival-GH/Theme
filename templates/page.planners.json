@@ -384,7 +384,7 @@
             "button_link": "shopify://collections/planners",
             "button_size": "huge",
             "alignment": "center",
-            "space_above": -35,
+            "space_above": 0,
             "space_below": 75
           }
         }
