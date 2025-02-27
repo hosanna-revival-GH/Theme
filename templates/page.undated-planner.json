@@ -437,15 +437,15 @@
     },
     "text_columns_jCgwVL": {
       "type": "text-columns",
-      "blocks": {
+     "blocks": {
         "text_block_1": {
           "type": "text_block",
           "settings": {
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Perfect!",
-            "text": "<p>So easy to use and has more than enough room to write monthly or daily style with other added bonuses.<br/><em>— Aly —</em></p>",
+            "title": "The Planner for bad planners",
+            "text": "<p>I love this planner, because A: it’s pretty, and 2: I actually use it. It’s got enough to make me think through more than I normally would, but not so much that I give up trying to keep up with it.<br/>— <em>Andie </em>—</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -456,8 +456,8 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "My Favorite Layout",
-            "text": "<p>It’s not “too” organized where I feel like I’m trying to fit my life into someone else’s schedule, but it’s organized enough where I can keep up with my dates, tasks, and responsibilities.<br/><em>— Madison —</em></p>",
+            "title": "Beautiful + Purposeful",
+            "text": "<p>This planner has been the perfect addition to my day! It's: 1. Aesthetically beautiful, 2. Centered on Christ, 3. Purposeful in helping plan out my days/weeks/months!<br/><em>— Alex —</em></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -468,8 +468,8 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Finally!",
-            "text": "<p>The paper feels great and is not cheap. Amazing craftsmanship and quality for the price!<br/><em>— Jara —</em></p>",
+            "title": "Dreamy Planner",
+            "text": "<p>I have owned enough planners over the years to know that this one is the best. It’s perfect for school or work or just life, it’s beautiful, and it has the best function of any planner I’ve encountered. <br/><em>— Alicia —</em></p>",
             "button_label": "",
             "button_link": ""
           }
