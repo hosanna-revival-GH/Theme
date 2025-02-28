@@ -146,65 +146,41 @@
     "35694ac9-45b4-4fbe-91fd-0d1d41c65a9e": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0160.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Restoration through Scripture",
-        "text": "<p>What stirs your soul to beauty? We believe beauty is inherent in God’s Word, but so often we struggle with a lack of desire to read Scripture. When the cares of this world cloud the beauty of truth, we forget to turn to the Scriptures that once stirred our souls. This fall, we want to invite you to return to beauty. What if a <a href=\"https://hosannarevival.com/collections/beautiful-bibles\" title=\"Beautiful Bibles\">beautiful new Bible</a> would excite you to crack open the cover to the beauty within?</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+             "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1283.jpg",
+              "image_width": "50",
+              "subtitle": "Pages 12-13",
+              "title": "Bake a Festive Treat",
+              "text": "<p>In the weeks ahead, test out a new delicious recipe to bake in your kitchen. Whether you prepare tart gingersnaps or our festive cranberry galette featured in the pages of our catalog, let this food be a tangible symbol of feeding your soul in this season. Invite a friend to join the process or find a special someone to gift the finished treat to. </p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
       }
     },
     "17acf5bb-1ef0-4d29-8fb8-459f1a97f3f5": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0689.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Refreshment through Note-Taking",
-        "text": "<p>When your soul finds studying Scripture to be monotonous, engaging with God’s Word in a new way can bring deep refreshment. This fall, re-envision what your time in the Word can look like. Perhaps you can try a new type of note-taking within the margins of your <a href=\"https://hosannarevival.com/collections/beautiful-bibles\" title=\"Beautiful Bibles\">journaling Bible</a>. Or choose a new <a href=\"https://hosannarevival.com/collections/notebooks\" title=\"Notebooks\">beautiful notebook</a> to excite you to begin fresh. Or explore what it looks like to engage with Scripture through creativity — our free, month-long email series <a href=\"https://hosannarevival.com/pages/an-invitation-to-create-pleasant-places\" title=\"An Invitation to Create — Pleasant Places\"><em>Pleasant Places</em></a> is designed to spark your inspiration here! Whatever route you choose, know that true refreshment is found within the pages of God’s Word.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+      "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0346.jpg",
+              "image_width": "50",
+              "subtitle": "Pages 16-17",
+              "title": "Package Intentional Gifts",
+              "text": "<p>Turn gift-giving into a creative rhythm from start to finish. Choose your gifts with intentionality, giving yourself the space to select something that feels meaningful. If you find yourself in a rush, identify one single element that reminds you of your recipient and allow that to guide your gift-finding. When packaging, add a little extra special touch from you—whether that’s in the way it’s packaged, the colors, the note, or the material itself. You can use our tear-out gift tags at the back of the catalog as the final piece to make your recipient feel oh so loved.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
       }
     },
     "d9013c9c-df36-42b5-a455-a05651ac7f04": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0409.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Revival through Prayer",
-        "text": "<p>When our souls are stirred to the beauty of Scripture, our hearts grow in a desire to engage with God’s work here and now. It is through prayer that we can connect with God through a tangible relationship as well as seek to see his will done here on earth as it is in heaven. This fall, begin documenting God’s faithfulness through prayer. Recording your prayers day by day can lead you to an awe of God as they reveal the grand story God is weaving. If you need a tool to do this, our heirloom <a href=\"https://hosannarevival.com/pages/your-one-thing-i-ask-journal\" title=\"Your One Thing I Ask Journal\">5-Year Prayer Journal</a> is designed to collect this record of God’s faithfulness in one place. Feel your heart revive as God meets you here today.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
+             "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1346.jpg",
+              "image_width": "50",
+              "subtitle": "Pages 4-5",
+              "title": "Carve out a space for beauty",
+              "text": "<p>Consider how beauty can stir your soul to truth this season. Place tangible reminders of what matters most in your physical space as a way of grounding your soul in the reality of God’s presence. As you decorate your home for the holiday season, engage in the act of creation this Christmas as a means of connecting with the Lord—you can explore <a href=\"/pages/an-invitation-to-create-pleasant-places\" title=\"An Invitation to Create — Pleasant Places\">this series</a> if you’re unsure of where to begin. And through it all, seek to find traces of God’s glory in the beauty you find.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
     },
     "rich_text_t3mtD7": {
       "type": "rich-text",
@@ -283,59 +259,6 @@
         "space_above": 0,
         "space_below": 60
       }
-    },
-    "image_row_zfXED3": {
-      "type": "image-row",
-      "blocks": {
-        "image_eeCiT9": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_76JMCM": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_pPkBry": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_YXHgB9": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_eeCiT9",
-        "image_76JMCM",
-        "image_pPkBry",
-        "image_YXHgB9"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "enable_spacing": true,
-        "enable_zoom": false
-      }
     }
   },
   "order": [
@@ -350,7 +273,6 @@
     "rich_text_t3mtD7",
     "featured_collection_Efqjbq",
     "single-image-1597333252753",
-    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed",
-    "image_row_zfXED3"
+    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed"
   ]
 }
