@@ -303,7 +303,57 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    }
+    },
+              "ce9a7414-290c-4126-b4df-d7c1ea5b91f1": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/SFH-Library-08.png",
+              "image_width": "50",
+              "subtitle": "Study tools",
+              "title": "New to the Bible?",
+              "text": "<p>Are you new to reading the Bible? If you’re picking up this devotional yet feel unable to navigate God’s Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
+              "button_label": "Browse bible Toolkit",
+              "button_link": "shopify://pages/bible-toolkit",
+              "layout": "left"
+            }
+          },
+          "1a021cce-9d2e-4bfa-85e4-f4545351d6cc": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/SFH-Library-09.png",
+              "image_width": "50",
+              "subtitle": "Meet The Author",
+              "title": "Ness Cannon",
+              "text": "<p>Ness is a teacher and speaker from Hamilton, Ohio where she lives with her wonderful husband, spunky children, and stinky pug. She teaches at Miami University, owns a coffee shop called True West, is the author of <em>I Am Not in Charge</em>, and believes everyone has a seat at God’s table.</p>",
+              "button_label": "Follow Ness",
+              "button_link": "https://instagram.com/nesscannonwrites?igshid=MzRlODBiNWFlZA==",
+              "layout": "right"
+            }
+          },
+          "4a411be2-7894-429c-9f65-89056ad15ac8": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/SFH-Library-10.png",
+              "image_width": "50",
+              "subtitle": "Meet The Author",
+              "title": "Ness' Story",
+              "text": "<p>Maybe you are like me when I was a senior in high school, just beginning to navigate the confusion of Christianity and the Bible. Jesus was the one who pulled me close and he seemed so approachable, but that giant book felt like a labyrinth, impossible to understand. The nuances of Christianity were confusing and as a teen who had never set foot in a church, I had no idea where to begin. Maybe you’ve walked near to God for a while now, but you long for a fresh perspective; or, perhaps you crave a reintroduction to the one who drew you near in the first place. I’ve been in those places and every spot in between asking myself, “Where do I go from here?”</p><p>Jesus is the best place to start. Always. We might never understand the hows or whys about God, but we can always learn <em>who</em> he is. God is not far or unknowable, he is someone to meet, and he longs for us to draw closer to him. We have to let go of who God <em>isn’t</em> in order to meet him as he truly <em>is</em>. So wherever you might be today, let’s start from here, together, and discover the character of God. He is the starting and finish line, and, friend, he wants to run the race with us. </p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "01ec9351-e0a9-497a-b90f-9df5ecf8ba31": {
+            "type": "single-button",
+            "settings": {
+              "alignment": "center",
+              "space_above": 30,
+              "space_below": 30,
+              "button_text": "Buy Now",
+              "button_link": "https://hosannarevival.com/products/start-from-here",
+              "button_size": "huge"
+            }
+          },
   },
   "order": [
     "main",
@@ -317,6 +367,10 @@
     "text_columns_8JaH3e",
     "333a8993-1038-4efe-b3a0-1016eb26d6c1",
     "497685a0-6e5b-40eb-99a4-a50cd5b51c62",
-    "slideshow_txeGWi"
+    "slideshow_txeGWi",
+    "ce9a7414-290c-4126-b4df-d7c1ea5b91f1",
+     "1a021cce-9d2e-4bfa-85e4-f4545351d6cc",
+     "4a411be2-7894-429c-9f65-89056ad15ac8",
+    "01ec9351-e0a9-497a-b90f-9df5ecf8ba31"
   ]
 }
