@@ -185,44 +185,47 @@
     },
     "text_columns_8JaH3e": {
       "type": "text-columns",
-  "blocks": {
-  "text_block_88": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/SFH-Library-05.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": "https://hosannarevival.com/products/start-from-here"
-    }
-  },
-  "text_block_89": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/SFH-Library-06.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_90": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/SFH-Library-07.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_88": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFH-Library-05.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.com/products/start-from-here"
+          }
+        },
+        "text_block_89": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFH-Library-06.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_90": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFH-Library-07.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_88",
         "text_block_89",
@@ -234,30 +237,73 @@
         "divider": false
       }
     },
-              "333a8993-1038-4efe-b3a0-1016eb26d6c1": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/SFH-Library-04.png",
-              "image_width": "50",
-              "subtitle": "start from here",
-              "title": "From The Introduction",
-              "text": "<p>\"Maybe the trick of this whole thing is realizing what God is really like. Is he a trustworthy place to land? Do you trust him to care for you and respond to you with consistent love and patience? I want to peel back the layers of what we believe about the character of God. There are some key characteristics we need to grasp if we are going to walk closer with him; and if we can ponder those, we may end up seeing God with a fresh perspective.\" </p><p><em>- Ness Cannon, author</em></p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "497685a0-6e5b-40eb-99a4-a50cd5b51c62": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Buy Now",
-              "button_link": "https://hosannarevival.com/products/start-from-here",
-              "button_size": "huge"
-            }
-          },
+    "333a8993-1038-4efe-b3a0-1016eb26d6c1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-04.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "start from here",
+        "title": "From The Introduction",
+        "text": "<p>\"Maybe the trick of this whole thing is realizing what God is really like. Is he a trustworthy place to land? Do you trust him to care for you and respond to you with consistent love and patience? I want to peel back the layers of what we believe about the character of God. There are some key characteristics we need to grasp if we are going to walk closer with him; and if we can ponder those, we may end up seeing God with a fresh perspective.\" </p><p><em>- Ness Cannon, author</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "497685a0-6e5b-40eb-99a4-a50cd5b51c62": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "slideshow_txeGWi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mWFcLe": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "BONUS CONTENT",
+            "title_size": 72,
+            "subheading": "For \"Start From Here\"",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Start-From-Here-Devotional-Coffeeshop-Ness-Cannon-Hosanna-Revival-244.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_mWFcLe"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -270,6 +316,7 @@
     "featured_collection_rnVcQq",
     "text_columns_8JaH3e",
     "333a8993-1038-4efe-b3a0-1016eb26d6c1",
-    "497685a0-6e5b-40eb-99a4-a50cd5b51c62"
+    "497685a0-6e5b-40eb-99a4-a50cd5b51c62",
+    "slideshow_txeGWi"
   ]
 }
