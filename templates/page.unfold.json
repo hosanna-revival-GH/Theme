@@ -127,18 +127,14 @@
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-017.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Songs for the Suffering",
-        "title": "This Devotional is for you if...",
-        "text": "<p>- You are suffering.<br/>- You are walking alongside someone who is suffering<br/>- You are sick of reading feel-good slogans about suffering, and are looking for a deeper comfort, hope and joy amidst your pain.</p><p><em>If these words resonate, this devotional is for you.</em></p><p> </p>",
-        "button_label": "Choose this tool",
-        "button_link": "shopify://products/devotional-songs-for-the-suffering",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
+             "image": "shopify://shop_images/Artboard_4_copy_11.png",
+              "image_width": "50",
+              "subtitle": "unfold",
+              "title": "This Devotional is for you if...",
+              "text": "<p>- You want to (re)examine your heart in the light and truth of God's Word. <br/>- You desire to grow, or need a refreshing reminder of God's Grace. <br/>- You need renewal </p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "https://hosannarevival.com/products/devotional-unfold",
+              "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -148,18 +144,14 @@
     "46251244-472e-41e9-aed5-42bc423cc417": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "THE DETAILS",
-        "title": "Songs for the Suffering",
-        "text": "<p><strong>Topic</strong>: suffering and grief<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: multiple passages</p><p>“While our pain may not be the same and while our roads may have had different turns and destinations, my prayer is that somewhere in these words of mine you find yourself—and again, you find your Father.”<br/><em>—Author Julia Allspaw</em></p><p></p>",
-        "button_label": "Choose this Tool",
-        "button_link": "shopify://products/devotional-songs-for-the-suffering",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
+              "image": "shopify://shop_images/Artboard_4_copy_6_f6829546-8d69-4db2-bcc2-cfb8abbd128f.png",
+              "image_width": "50",
+              "subtitle": "THE DETAILS",
+              "title": "Unfold",
+              "text": "<p><strong>Topic: </strong>Discerning the thoughts and intentions of the heart through deep introspection, repentance, and rejoicing<strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>“Tending, pruning, and uprooting are good and necessary parts of the Christian walk. Even when we feel saddened by our sin, we can know that God is working in us for good, beckoning us to return to him. The wonderful news is that the knowledge of our failures is eclipsed by the forgiveness found in our Savior. It deepens our dependance on grace and drives us closer to Christ—who is our joy.”</p><p><em>- Liesl Lamprecht, author</em></p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "https://hosannarevival.com/products/devotional-unfold",
+              "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -169,114 +161,65 @@
     "ddf6ef08-82bf-4630-b014-2c2df13532e4": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-018.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "PEEK INSIDE",
-        "title": "The Devotional Structure",
-        "text": "<p><strong>Structure</strong>: Weekly reading and interactive sections<br/><strong>Elements</strong>: Weekly reading & scripture, stop & reflect sections, end-of-chapter questions, journaling margins</p><p>Each week includes guided questions, further Scripture reading, application points and moments of reflection to delve into the heart of suffering, ask the hard questions, and lean into the Man of Sorrows himself, knowing he is already acquainted with our grief.</p><p></p>",
-        "button_label": "Choose this Tool",
-        "button_link": "shopify://products/devotional-songs-for-the-suffering",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
+              "image": "shopify://shop_images/Artboard_4_copy_5.png",
+              "image_width": "50",
+              "subtitle": "peek inside",
+              "title": "The Devotional Structure",
+              "text": "<p><strong>Structure: </strong>6 week study </p><p><strong>Elements: </strong>Each week includes and introduction, six daily entries with varying scripture, and daily sections for reflection, repentance, and rejoicing. </p>",
+              "button_label": "CHOOSE THIS TOOL",
+              "button_link": "https://hosannarevival.com/products/devotional-unfold",
+              "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
       }
     },
-    "image_row_8mdiP7": {
-      "type": "image-row",
-      "blocks": {
-        "image_33": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-001_58e20efb-769a-4d0a-b3ee-031d274d7ea9.jpg",
-            "image_width": 650,
-            "caption": "",
-            "link": "shopify://products/devotional-songs-for-the-suffering"
-          }
-        },
-        "image_34": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-028.jpg",
-            "image_width": 650,
-            "caption": "",
-            "link": "shopify://products/devotional-songs-for-the-suffering"
-          }
-        },
-        "image_35": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
-            "image_width": 650,
-            "caption": "",
-            "link": "shopify://products/devotional-songs-for-the-suffering"
-          }
-        }
-      },
-      "block_order": [
-        "image_33",
-        "image_34",
-        "image_35"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "enable_spacing": true,
-        "enable_zoom": false
-      }
-    },
+
     "text_columns_kAwgKj": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_37": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Spirit Renewing!",
-            "text": "<p>This devotional really opened my eyes and allowed me to properly grieve. I would (and have) recommend this devotional to anyone who has gone through a loss or traumatic event.</p><p>—Rachel—</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_38": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "When you don’t have the words",
-            "text": "<p>When you don’t have the right words to comfort a friend who has lost a loved one, this is the perfect gift. I’ve purchased 2 of these for 2 different friends and they have shared that it has been a great comfort to the grieving process.</p><p>—Laydelis—</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_39": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Perfect for Everyone",
-            "text": "<p>It’s so real compared to other devotionals I’ve read that make things seem like it’ll all be okay. Julia’s book is honest about how we really feel but shows us how to be with God along the way.</p><p>—Lexi—</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_94": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/UnfoldLibraryImages.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_95": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_4_copy_4_b31d31a4-2f63-4583-be8c-a921d8192d9a.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  },
+  "text_block_96": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Artboard_4_copy_10.png",
+      "image_width": 650,
+      "title": "",
+      "text": "",
+      "button_label": "",
+      "button_link": ""
+    }
+  }
+},
       "block_order": [
-        "text_block_37",
-        "text_block_38",
-        "text_block_39"
+        "text_block_94",
+        "text_block_95",
+        "text_block_96"
       ],
       "settings": {
         "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
@@ -287,18 +230,14 @@
     "26dff4a0-2465-4417-9f19-0bc81213168c": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-031.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Sneak Peek at the introduction",
-        "title": "\"Dear Friends, I am happy— and sad—that you are here...",
-        "text": "<p>Let me explain: If you are here, opening the words to this book, it means that like me, you have suffered. You may be on the road of pain at this very moment, or you may have lived here for years. This may be the tenth book you’ve read on the topic of suffering, or your very first. You, my friend, have landed here because the cards life has dealt to you have been filled with pain and tear filled nights, doubting and questioning and wondering if the God you call Savior was ever real to begin with...\"</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
+              "image": "shopify://shop_images/Artboard_4_copy_2_ab75e6e1-0339-47d0-8617-180f7d91d15f.png",
+              "image_width": "50",
+              "subtitle": "unfold",
+              "title": "From The Introduction",
+              "text": "<p>“If we’re completely honest with ourselves, we sometimes try to avoid the sharp sting and sobering conviction that follow in the wake of God’s penetrating Word. It slices straight through our innermost thoughts to reveal the true intentions within, wounding our pride and igniting a godly grief over our sin. But God’s Word is both the sword and the salve. It humbles and heals, renewing our hearts after his holiness.” </p><p><em>-Liesl Lamprecht, author</em></p>",
+              "button_label": "",
+              "button_link": "https://hosannarevival.com/products/devotional-unfold",
+              "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -308,8 +247,8 @@
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7": {
       "type": "single-button",
       "settings": {
-        "button_text": "Buy Now",
-        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+              "button_text": "BUY NOW",
+              "button_link": "https://hosannarevival.com/products/devotional-unfold",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -367,126 +306,7 @@
         "space_below": 35
       }
     },
-    "combined-content-section-3": {
-      "type": "toolkit",
-      "blocks": {
-        "4254f18b-a76d-4a78-96b3-99d6f4b576d8": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "left",
-            "image": "shopify://shop_images/Amber-Portrait-Songs-for-the-Suffering-Hosanna-Revival-017.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Amber Granville",
-            "text": "<p>“When I was a sophomore in college I found out that my mom had cancer for the first time. I was leading Younglife and had really started diving into my major at the time, so it hit at a time when things were going well for me. I and my other family members helped to care for my mom during this time. There was a brief respite from the struggle in which she went into remission for about a year. However, in April of 2016 we found out that the cancer had come back...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNdVjXxBSuV/",
-            "button_label": "Read on",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "b379e23f-3839-4406-8c69-679bb9979e01": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "right",
-            "image": "shopify://shop_images/Brandice-Portrait-Songs-for-the-Suffering-Hosanna-Revival-013.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Brandice Rosander",
-            "text": "<p>“I married my husband in 2015 and gained 2 step-daughters that had lost their Mom to cancer years before, which was an unimaginable loss for them and a challenging position for me to step into.  Shortly after our wedding, we went through a very tough year—my dad had a massive heart attack that resulted in him being in the hospital for months...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNaxYZgBsEs/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "12bac305-f31f-46da-ae1c-0ef25f28cf04": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "left",
-            "image": "shopify://shop_images/Brauns-Portrait-Songs-for-the-Suffering-Hosanna-Revival-077.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Mindy Braun",
-            "text": "<p>“March 10, 2019 our daughter Marlow Jane was born. We were expecting a healthy, perfect baby. However from the moment my labor started we realized things were not as expected. Marlow was struggling to thrive and was whisked away to the NICU within minutes after birth. No one could nail down what was wrong...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNf0fB-hOnK/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "right",
-            "image": "shopify://shop_images/Christine-Portrait-Songs-for-the-Suffering-Hosanna-Revival-015.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Christine Toth",
-            "text": "<p>“When my husband and I began trying for a family we encountered a lot of struggles. I was diagnosed with endometriosis and what we were facing caused some concerns for my doctor. We were referred to an infertility specialist who quickly became not just a part of a story, but a part of our family. Dr. NeeOo Chin worked with us to start our family and, after suffering multiple losses, enduring multiple surgeries, and ultimately not having a baby after a few years, we felt defeated...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNYBC4QBjz1/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "2a4c1c10-3e63-4e2f-93b4-26beb165b204": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "left",
-            "image": "shopify://shop_images/Holly-Portrait-Songs-for-the-Suffering-Hosanna-Revival-002.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Holly Gibson",
-            "text": "<p>“On February 20, 2019, our 10 year old daughter, Sable, passed away suddenly from complications of the flu and strep throat. Sable was the youngest of our six kids—a healthy, happy little girl. Sable started feeling sick on a Saturday and I took her to the Little Clinic on Sunday. They told me she was viral but didn’t check for flu or strep. She still wasn’t any better by Tuesday so I took her to the pediatrician where they diagnosed her with flu and strep...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNia5j9hYop/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "bef74641-e7e6-48e2-90a9-a184412bf8a7": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "right",
-            "image": "shopify://shop_images/Julia-Portrait-Songs-for-the-Suffering-Hosanna-Revival-P-001.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Julia Allspaw",
-            "text": "<p>“In 2019, I traveled to one of the best hospitals in the country looking for answers to my near constant chronic pain. After getting my first migraine at age 12, I spent years with a crippling diagnosis that had now impacted every part of my life—from work, to relationships, and even the ability to get out of bed. In that same year, I suffered from a miscarriage and shortly after, heard the heartbreaking news of my mother’s cancer returning...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNknQYfhqmM/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "901df118-4ac3-4282-abae-d4bac8b0e6e9": {
-          "type": "single-button",
-          "settings": {
-            "secondary": false,
-            "button_text": "Choose this Tool",
-            "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
-            "button_size": "huge",
-            "alignment": "center",
-            "space_above": 30,
-            "space_below": 30
-          }
-        }
-      },
-      "block_order": [
-        "4254f18b-a76d-4a78-96b3-99d6f4b576d8",
-        "b379e23f-3839-4406-8c69-679bb9979e01",
-        "12bac305-f31f-46da-ae1c-0ef25f28cf04",
-        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b",
-        "2a4c1c10-3e63-4e2f-93b4-26beb165b204",
-        "bef74641-e7e6-48e2-90a9-a184412bf8a7",
-        "901df118-4ac3-4282-abae-d4bac8b0e6e9"
-      ],
-      "settings": {
-        "space_above": 0,
-        "space_below": 0
-      }
-    },
+
     "slideshow_BYN9tp": {
       "type": "slideshow",
       "blocks": {
@@ -494,16 +314,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Study Tools",
+            "title": "BONUS CONTENT",
             "title_size": 72,
-            "subheading": "For “Songs for the Suffering” with author Julia Allspaw",
+            "subheading": "For \"Unfold\"",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-002.jpg",
+            "image": "shopify://shop_images/Unfold-HosannaRevival-90.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -754,13 +574,11 @@
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4",
     "46251244-472e-41e9-aed5-42bc423cc417",
     "ddf6ef08-82bf-4630-b014-2c2df13532e4",
-    "image_row_8mdiP7",
     "text_columns_kAwgKj",
     "26dff4a0-2465-4417-9f19-0bc81213168c",
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7",
     "hero_video_EHR8Xy",
     "rich_text_w4KFaR",
-    "combined-content-section-3",
     "slideshow_BYN9tp",
     "rich_text_x8FDHK",
     "text_columns_BQGmdg",
