@@ -154,48 +154,48 @@
     },
     "text_columns_CF9NRF": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_j9B3Je": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_jLyRGA": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_8Umkag": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_81": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/SpringCollection2023_Nara.png",
+      "image_width": 650,
+      "title": "nara: esv large print bible",
+      "text": "<p>Perfect for the minimalist aesthetic, our ESV Nara Bible is the Large Print lookalike to our best-selling Marlo Bible with her soft, suede-like material and large, readable font size.</p>",
+      "button_label": "SHOP NARA",
+      "button_link": "shopify://products/esv-large-print-journaling-bible-nara-theme"
+    }
+  },
+  "text_block_82": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/SpringCollection2023_madrid.png",
+      "image_width": 650,
+      "title": "Madrid: NLT notetaking bible",
+      "text": "<p>Perfect for the floral lovers, our Madrid Bible features dusty bouquets, large journaling margins, and the highly readable NLT translation for optimal understanding.</p>",
+      "button_label": "SHOP MADRID",
+      "button_link": "shopify://products/nlt-notetaking-bible-madrid-theme"
+    }
+  },
+  "text_block_83": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/SpringCollection2023_santaelena.png",
+      "image_width": 650,
+      "title": "Santa Elena: NLT Notetaking Bible",
+      "text": "<p>Perfect for the leather-like aesthetic, our Santa Elena Bible features an ornate floral-framed cover, large journaling margins, and the highly readable NLT translation for optimal understanding.</p>",
+      "button_label": "SHOP SANTA ELENA",
+      "button_link": "shopify://products/nlt-notetaking-bible-santa-elena-theme"
+    }
+  }
+},
       "block_order": [
-        "text_block_j9B3Je",
-        "text_block_jLyRGA",
-        "text_block_8Umkag"
+        "text_block_81",
+        "text_block_82",
+        "text_block_83"
       ],
       "settings": {
         "title": "",
@@ -205,49 +205,49 @@
     },
     "image_row_Ug9yLh": {
       "type": "image-row",
-      "blocks": {
-        "image_CWbX4t": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_WQeehJ": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_dbxiTz": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_4T4Ej3": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_84": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-409.jpg",
+      "caption": "",
+      "link": "https://hosannarevival.com/products/nlt-notetaking-bible-madrid-theme"
+    }
+  },
+  "image_85": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-110.jpg",
+      "caption": "",
+      "link": "https://hosannarevival.com/products/esv-large-print-journaling-bible-nara-theme"
+    }
+  },
+  "image_86": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-440.jpg",
+      "caption": "",
+      "link": "https://hosannarevival.com/products/nlt-notetaking-bible-santa-elena-theme"
+    }
+  },
+  "image_87": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-392.jpg",
+      "caption": "",
+      "link": "shopify://collections/notebooks"
+    }
+  }
+},
       "block_order": [
-        "image_CWbX4t",
-        "image_WQeehJ",
-        "image_dbxiTz",
-        "image_4T4Ej3"
+        "image_84",
+        "image_85",
+        "image_86",
+        "image_87"
       ],
       "settings": {
         "title": "",
