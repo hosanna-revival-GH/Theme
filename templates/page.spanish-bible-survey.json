@@ -90,34 +90,67 @@
     "image_row_RYP8Kz": {
       "type": "image-row",
       "blocks": {
-        "image_eJrhm4": {
+        "image_77": {
           "type": "image",
           "settings": {
             "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "image": "shopify://shop_images/Button-Take-Survey-Spanish.jpg",
+            "caption": "",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSdSLww89bRDo0s6H_aHVrbTuGkhwMEhY8EDOAuRMCH7nYVffw/viewform?usp=sf_link"
           }
         },
-        "image_3dLr3H": {
+        "image_78": {
           "type": "image",
           "settings": {
             "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "image": "shopify://shop_images/Button-Take-Survey-English.jpg",
+            "caption": "",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link"
           }
         }
       },
-      "block_order": [
-        "image_eJrhm4",
-        "image_3dLr3H"
-      ],
       "settings": {
         "title": "",
         "align_text": "center",
         "enable_spacing": true,
         "enable_zoom": false
+      }
+    },
+    "text_and_image_dmaU4R": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Hosanna-Revival-History-About-Us-011.jpg",
+        "subtitle": "Acerca de Nosotros",
+        "title": "¿Por qué crear hermosas Biblias en Español?",
+        "text": "<p>Por años hemos soñado con la creación de una hermosa Biblia en Español. La primera Biblia pintada a mano de nuestra fundadora, Katie, fué una traducción Bilingüe en Inglés y Español, ahora, 9 años después, nuestro pequeño negocio crece, y estamos listos para explorar la producción de las Biblias en Español de Hosanna Revival. </p>",
+        "button_label": "",
+        "button_link": "",
+        "image_width": "50",
+        "layout": "left"
+      }
+    },
+    "text_and_image_j9E3eP": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-60.jpg",
+        "subtitle": "Necesitamos Tu Ayuda",
+        "title": "¿Es esta encuesta para ti?",
+        "text": "<p>¿Quieres tú (o alguien a quien conozcas) una Biblia en Español que sea hermosa? Para considerar el hacer de este proyecto una realidad, <strong>necesitamos por lo menos 2000 respuestas</strong> a esta encuesta. ¡Si no estás interesada/o en las Biblias en Español, comparte con tus amigas/os!</p>",
+        "button_label": "",
+        "button_link": "",
+        "image_width": "50",
+        "layout": "right"
+      }
+    },
+    "single_button_CHkCz7": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Llena la Encuesta",
+        "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSdSLww89bRDo0s6H_aHVrbTuGkhwMEhY8EDOAuRMCH7nYVffw/viewform?usp=sf_link",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 30
       }
     }
   },
@@ -125,6 +158,9 @@
     "main",
     "slideshow_TVRQX7",
     "rich_text_pAXzYJ",
-    "image_row_RYP8Kz"
+    "image_row_RYP8Kz",
+    "text_and_image_dmaU4R",
+    "text_and_image_j9E3eP",
+    "single_button_CHkCz7"
   ]
 }
