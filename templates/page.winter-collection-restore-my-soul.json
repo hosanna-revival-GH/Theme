@@ -24,16 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "RESTORE MY SOUL",
+            "title": "Restore My Soul",
             "title_size": 72,
             "subheading": "A collection for the weary and worn",
-            "link": "https://hosannarevival.com/collections/winter-2023-collection",
-            "link_text": "shop winter collection 2023",
+            "link": "shopify://collections/winter-2023-collection",
+            "link_text":  "Explore Winter Collection",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0001_333fabd5-e9d3-4df3-8df4-64869c30b1a7.jpg",
+            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0004_adf208b0-bc93-45f5-babc-88765093c73e.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -43,13 +43,13 @@
         "image_WhkAwk"
       ],
       "settings": {
-        "section_height": "750px",
+        "section_height": "650px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich_text_DmP6Mz": {
@@ -58,7 +58,7 @@
         "heading_Ydqhx7": {
           "type": "heading",
           "settings": {
-            "title": "RESTORE MY SOUL"
+            "title": "Return to Beauty",
           }
         },
         "text_3zHriD": {
@@ -66,7 +66,7 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>“Restore my soul” is the heart’s cry behind this collection as God’s Word breaks fresh ground in our hearts through beauty. The muted blue tones and mauve accents carry a sense of peace throughout the collection, calling our hearts to seek restoration within these pages. This winter, let the beauty of Scripture stir your heart again. Your intentional tool awaits.</p>",
-            "align_text_block": "inherit",
+             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
@@ -105,11 +105,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Artboard_4_a5e47c23-3e90-4519-98fe-252324cdfd1f.png",
+            "image": "shopify://shop_images/marloicon.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "",
-            "text": "",
+            "title": "New Tools to Revive you",
+            "text": "<p>Welcome to our Winter Collection which features 10 new tools: our ESV Study Bible Iceland, Large Print Bible Victoria, three new journaling Bibles, a beloved Versailles Prayer Journal, and four new notebooks.</p>",
+              
             "button_label": "",
             "button_link": ""
           }
@@ -118,11 +119,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Artboard_4_copy_93f2a888-ba68-4337-8f75-c3d677af4f4f.png",
+            "image": "shopify://shop_images/MarloOpen.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "",
-            "text": "",
+            "title": "Intentional Interior Layouts",
+            "text": "<p>Whether engaging with Scripture through the journaling margins on our Bibles or interacting with our 5-Year Prayer Journal, each tool in this collection is designed with intentional functionality.</p>",
+              
             "button_label": "",
             "button_link": ""
           }
@@ -131,11 +133,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Artboard_4_copy_2_41356ac1-77d9-4b2c-862c-65235a6bac22.png",
+            "image": "shopify://shop_images/beautiful-bible-painting-hosanna-revival.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "",
-            "text": "",
+            "title": "Beautiful Cover Designs",
+            "text": "<p>When designing our new collections, our founder and artist Katie crafts a line of beautiful new designs to reflect the coming season. Choose the one that stirs your soul to beauty.</p>",
+             
             "button_label": "",
             "button_link": ""
           }
