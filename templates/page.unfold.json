@@ -17,20 +17,39 @@
         "page_content_enable": true
       }
     },
-    "hero_video_t6tAei": {
-      "type": "hero-video",
+    "slideshow_rqwXVh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_qrPcaH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "UNFOLD",
+            "title_size": 72,
+            "subheading": "Discerning the Thoughts and Intentions of the Heart",
+            "link": "https://hosannarevival.com/products/devotional-unfold",
+            "link_text": "Available Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Unfold-HosannaRevival-61.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_qrPcaH"
+      ],
       "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "a devotional on suffering and grief",
-        "link_text": "Watch the Trailer",
-        "link": "https://www.youtube.com/watch?v=BUa-74W8kh0",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=BUa-74W8kh0",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
       }
     },
     "rich_text_Cia4fh": {
@@ -39,14 +58,14 @@
         "heading_NXLRhB": {
           "type": "heading",
           "settings": {
-            "title": "Songs for the Suffering"
+            "title": "UNFOLD"
           }
         },
         "text_nYYYYq": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>In <em>Songs for the Suffering</em>, you will journey through the questions, fears, and doubts that come when suffering strikes, and discover how the Word of God doesn’t ignore your pain, but rather, invites you to come to the table <em>with</em> it. </p>",
+            "text": "<p><em>Unfold: Discerning the Thoughts and Intentions of the Heart</em> is for those who feel weighed down by their sin, long for God to search and purify their heart, or desire to be filled with joy again — this was written for you.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -55,8 +74,8 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>In this 6-week study, readers will journey through the scary emotions that come with profound suffering, even the ones we don’t want to admit. This study will give women a safe place to land when they find themselves questioning the reality of God in the midst of their pain, and offer up real hope when “everything happens for a reason” just doesn’t cut it. While Scripture may feel like the last place you want to bring your pain, <em>Songs for the Suffering</em> will show us just how much of a home the Word is for those in darkness.</p>",
-            "align_text_block": "left",
+            "text": "<p><em>Unfold: Discerning the Thoughts and Intentions of the Heart, </em>by Liesl Lamprecht. In this 6-week study, you will embark on an introspective journey through the Scriptures to confront the sin in your life with joyful repentance for the purpose of keeping your heart pure, loving, and soft toward the Lord. <em>Unfold </em>is firmly rooted in the gospel of grace with a focus on inviting God’s sharp and discerning Word to search the thoughts and intentions of your heart (Hebrews 4:12) and directing all conviction to the cross of Christ. Inspired by the beautiful imagery in “The Hymn of Joy”, this tool is for anyone who desires to have their heart unfold like a flower before God, opening to the true Light of this world. </p><p>Each week walks you through a different aspect of sanctification, whether that be repentance and regeneration, faith versus works, hidden sin and holiness, jealousy, pride, finances, gluttony, heartbreak and suffering, or the hope of eternity. Each day’s entry is designed to pull you into a rhythm of reading, reflecting, repenting, and rejoicing, which will allow you to unpack Scripture, ponder guided questions, write down your prayers, and engage in a time of thanksgiving and worship. Our prayer for you is that this book will restore your joy in your salvation (Psalm 51:12) and give you a renewed desire to store up the Word of God in your heart.</p>",
+            "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
@@ -82,11 +101,27 @@
       "type": "single-button",
       "settings": {
         "button_text": "Buy Now",
-        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+        "button_link": "https://hosannarevival.com/products/devotional-unfold",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
         "space_below": 20
+      }
+    },
+    "hero_video_G33MRx": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "SHOP UNFOLD",
+        "link": "https://hosannarevival.com/products/devotional-unfold",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/a595621fc1534b6ba2ce18ac84d4bef3.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
@@ -712,9 +747,10 @@
   },
   "order": [
     "main",
-    "hero_video_t6tAei",
+    "slideshow_rqwXVh",
     "rich_text_Cia4fh",
     "single_button_pyK3zP",
+    "hero_video_G33MRx",
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4",
     "46251244-472e-41e9-aed5-42bc423cc417",
     "ddf6ef08-82bf-4630-b014-2c2df13532e4",
