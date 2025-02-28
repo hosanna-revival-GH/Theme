@@ -105,7 +105,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 60
+        "space_below": 75
       }
     },
     "rich_text_6iTkUe": {
@@ -266,44 +266,48 @@
     },
     "image_row_RagFcy": {
       "type": "image-row",
-"blocks": {
-  "image_106": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/christmas-film-01.jpg",
-      "caption": "",
-      "link": ""
-    }
-  },
-  "image_107": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/christmas-film-04.jpg",
-      "caption": "",
-      "link": ""
-    }
-  },
-  "image_108": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/christmas-film-05.jpg",
-      "caption": "",
-      "link": ""
-    }
-  },
-  "image_109": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/christmas-film-02.jpg",
-      "caption": "",
-      "link": ""
-    }
-  }
-},
+      "blocks": {
+        "image_106": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/christmas-film-01.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        },
+        "image_107": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/christmas-film-04.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        },
+        "image_108": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/christmas-film-05.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        },
+        "image_109": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/christmas-film-02.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        }
+      },
       "block_order": [
         "image_106",
         "image_107",
