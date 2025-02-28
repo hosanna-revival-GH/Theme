@@ -137,6 +137,32 @@
       </image-element>
     </div>
   </template>
+
+    <!-- Scripture Reftagger -->
+  <script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "ESV",
+			noSearchTagNames: ["h1","h2"],
+			socialSharing: ["twitter","facebook"],
+			customStyle : {
+				heading: {
+					backgroundColor : "#a0afae",
+					color : "#ffffff"
+				},
+				body   : {
+					color : "#000"
+				}
+			}
+		}
+	};
+	(function(d, t) {
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = "//api.reftagger.com/v2/RefTagger.js";
+		s.parentNode.insertBefore(g, s);
+	}(document, "script"));
+  </script>
+  
   <script src="https://a.klaviyo.com/media/js/onsite/onsite.js"></script>
 <script>
     var klaviyo = klaviyo || [];
