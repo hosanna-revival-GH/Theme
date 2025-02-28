@@ -127,14 +127,18 @@
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
       "type": "text-and-image",
       "settings": {
-             "image": "shopify://shop_images/Artboard_4_copy_11.png",
-              "image_width": "50",
-              "subtitle": "unfold",
-              "title": "This Devotional is for you if...",
-              "text": "<p>- You want to (re)examine your heart in the light and truth of God's Word. <br/>- You desire to grow, or need a refreshing reminder of God's Grace. <br/>- You need renewal </p>",
-              "button_label": "CHOOSE THIS TOOL",
-              "button_link": "https://hosannarevival.com/products/devotional-unfold",
-              "layout": "left",
+        "image": "shopify://shop_images/Artboard_4_copy_11.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "unfold",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You want to (re)examine your heart in the light and truth of God's Word. <br/>- You desire to grow, or need a refreshing reminder of God's Grace. <br/>- You need renewal </p>",
+        "button_label": "CHOOSE THIS TOOL",
+        "button_link": "https://hosannarevival.com/products/devotional-unfold",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -144,14 +148,18 @@
     "46251244-472e-41e9-aed5-42bc423cc417": {
       "type": "text-and-image",
       "settings": {
-              "image": "shopify://shop_images/Artboard_4_copy_6_f6829546-8d69-4db2-bcc2-cfb8abbd128f.png",
-              "image_width": "50",
-              "subtitle": "THE DETAILS",
-              "title": "Unfold",
-              "text": "<p><strong>Topic: </strong>Discerning the thoughts and intentions of the heart through deep introspection, repentance, and rejoicing<strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>“Tending, pruning, and uprooting are good and necessary parts of the Christian walk. Even when we feel saddened by our sin, we can know that God is working in us for good, beckoning us to return to him. The wonderful news is that the knowledge of our failures is eclipsed by the forgiveness found in our Savior. It deepens our dependance on grace and drives us closer to Christ—who is our joy.”</p><p><em>- Liesl Lamprecht, author</em></p>",
-              "button_label": "CHOOSE THIS TOOL",
-              "button_link": "https://hosannarevival.com/products/devotional-unfold",
-              "layout": "right",
+        "image": "shopify://shop_images/Artboard_4_copy_6_f6829546-8d69-4db2-bcc2-cfb8abbd128f.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "THE DETAILS",
+        "title": "Unfold",
+        "text": "<p><strong>Topic: </strong>Discerning the thoughts and intentions of the heart through deep introspection, repentance, and rejoicing<strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>“Tending, pruning, and uprooting are good and necessary parts of the Christian walk. Even when we feel saddened by our sin, we can know that God is working in us for good, beckoning us to return to him. The wonderful news is that the knowledge of our failures is eclipsed by the forgiveness found in our Savior. It deepens our dependance on grace and drives us closer to Christ—who is our joy.”</p><p><em>- Liesl Lamprecht, author</em></p>",
+        "button_label": "CHOOSE THIS TOOL",
+        "button_link": "https://hosannarevival.com/products/devotional-unfold",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -161,68 +169,74 @@
     "ddf6ef08-82bf-4630-b014-2c2df13532e4": {
       "type": "text-and-image",
       "settings": {
-              "image": "shopify://shop_images/Artboard_4_copy_5.png",
-              "image_width": "50",
-              "subtitle": "peek inside",
-              "title": "The Devotional Structure",
-              "text": "<p><strong>Structure: </strong>6 week study </p><p><strong>Elements: </strong>Each week includes and introduction, six daily entries with varying scripture, and daily sections for reflection, repentance, and rejoicing. </p>",
-              "button_label": "CHOOSE THIS TOOL",
-              "button_link": "https://hosannarevival.com/products/devotional-unfold",
-              "layout": "left",
+        "image": "shopify://shop_images/Artboard_4_copy_5.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "peek inside",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure: </strong>6 week study </p><p><strong>Elements: </strong>Each week includes and introduction, six daily entries with varying scripture, and daily sections for reflection, repentance, and rejoicing. </p>",
+        "button_label": "CHOOSE THIS TOOL",
+        "button_link": "https://hosannarevival.com/products/devotional-unfold",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
       }
     },
-
     "text_columns_kAwgKj": {
       "type": "text-columns",
- "blocks": {
-  "text_block_94": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/UnfoldLibraryImages.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_95": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_4_copy_4_b31d31a4-2f63-4583-be8c-a921d8192d9a.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_96": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_4_copy_10.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_94": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/UnfoldLibraryImages.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_95": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_4_copy_4_b31d31a4-2f63-4583-be8c-a921d8192d9a.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_96": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_4_copy_10.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_94",
         "text_block_95",
         "text_block_96"
       ],
       "settings": {
-        "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
+        "title": "",
         "align_text": "center",
         "divider": false
       }
@@ -230,14 +244,18 @@
     "26dff4a0-2465-4417-9f19-0bc81213168c": {
       "type": "text-and-image",
       "settings": {
-              "image": "shopify://shop_images/Artboard_4_copy_2_ab75e6e1-0339-47d0-8617-180f7d91d15f.png",
-              "image_width": "50",
-              "subtitle": "unfold",
-              "title": "From The Introduction",
-              "text": "<p>“If we’re completely honest with ourselves, we sometimes try to avoid the sharp sting and sobering conviction that follow in the wake of God’s penetrating Word. It slices straight through our innermost thoughts to reveal the true intentions within, wounding our pride and igniting a godly grief over our sin. But God’s Word is both the sword and the salve. It humbles and heals, renewing our hearts after his holiness.” </p><p><em>-Liesl Lamprecht, author</em></p>",
-              "button_label": "",
-              "button_link": "https://hosannarevival.com/products/devotional-unfold",
-              "layout": "right",
+        "image": "shopify://shop_images/Artboard_4_copy_2_ab75e6e1-0339-47d0-8617-180f7d91d15f.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "unfold",
+        "title": "From The Introduction",
+        "text": "<p>“If we’re completely honest with ourselves, we sometimes try to avoid the sharp sting and sobering conviction that follow in the wake of God’s penetrating Word. It slices straight through our innermost thoughts to reveal the true intentions within, wounding our pride and igniting a godly grief over our sin. But God’s Word is both the sword and the salve. It humbles and heals, renewing our hearts after his holiness.” </p><p><em>-Liesl Lamprecht, author</em></p>",
+        "button_label": "",
+        "button_link": "https://hosannarevival.com/products/devotional-unfold",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -247,66 +265,14 @@
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7": {
       "type": "single-button",
       "settings": {
-              "button_text": "BUY NOW",
-              "button_link": "https://hosannarevival.com/products/devotional-unfold",
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/devotional-unfold",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
       }
     },
-    "hero_video_EHR8Xy": {
-      "type": "hero-video",
-      "settings": {
-        "title": "Watch the Stories",
-        "title_size": 80,
-        "subheading": "Of six incredible women who represent you bringing your unique story of suffering to this devotional...",
-        "link_text": "Watch the Trailer, Part 2",
-        "link": "https://www.youtube.com/watch?v=EwIxzwfTZds",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-left",
-        "video_url": "https://www.youtube.com/watch?v=EwIxzwfTZds",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "rich_text_w4KFaR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_R4T9GQ": {
-          "type": "heading",
-          "settings": {
-            "title": "Join the Chorus"
-          }
-        },
-        "text_rmqHpQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>In the process of creating the video trailer for <em>Songs for the Suffering</em>, our team had the opportunity to work with six incredible women who have walked through substantial and diverse suffering. They represent you as you bring your unique story of suffering to this devotional. Here are their stories:</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_R4T9GQ",
-        "text_rmqHpQ"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 35
-      }
-    },
-
     "slideshow_BYN9tp": {
       "type": "slideshow",
       "blocks": {
@@ -342,170 +308,6 @@
         "lazyload_images": true
       }
     },
-    "rich_text_x8FDHK": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ckixxN": {
-          "type": "heading",
-          "settings": {
-            "title": "Devotional Study Tools"
-          }
-        },
-        "text_A9xQqK": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>To learn more about this study, we created a series of brief videos with author Julia Allspaw to uncover the truth about suffering from inside the pages of God’s Word. Watch these videos below.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_ckixxN",
-        "text_A9xQqK"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "text_columns_BQGmdg": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_40": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-006.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "To the One Suffering",
-            "text": "<p>If you are walking through a season of suffering right now—this is for YOU.</p>",
-            "button_label": "Watch this Video",
-            "button_link": "https://www.instagram.com/tv/CN2wKzMBuwy/"
-          }
-        },
-        "text_block_41": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-004.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "To the one walking alongside the suffering",
-            "text": "<p>Whether you have a friend struggling with infertility, a family member with a scary diagnosis, or a loved one struggling with anxiety, walking with the suffering is a profound work...</p>",
-            "button_label": "Watch This Video",
-            "button_link": "https://www.instagram.com/tv/COK_mTeB0Gq/"
-          }
-        },
-        "text_block_42": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-005.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Why \"songs\" for the suffering",
-            "text": "<p>When you think about your suffering, the last thing that comes to mind would be a “song”.</p>",
-            "button_label": "Watch This Video",
-            "button_link": "https://www.instagram.com/tv/COS45PzhTim/"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_40",
-        "text_block_41",
-        "text_block_42"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "text_columns_zRBtLr": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_43": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-033.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "How to Use this Devotional",
-            "text": "<p>This one minute video shows the author Julia’s intention for this study and a little peek at the inside of this beautiful tool.</p>",
-            "button_label": "watch this video",
-            "button_link": "https://www.instagram.com/tv/COBQs1ZhZsL/"
-          }
-        },
-        "text_block_44": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/SFTS-Group-Study.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Is this a Group Study?",
-            "text": "<p>If you’re suffering or walking through suffering with someone near to you—this study will be a safe and slow space to work through your pain—alongside of someone you love.</p>",
-            "button_label": "watch this video",
-            "button_link": "https://www.instagram.com/tv/COkb4yjBdKw/"
-          }
-        },
-        "text_block_45": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-026.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "WHEN",
-            "text": "<p>If you have questions about how to hold your specific experience of suffering up to the light of Scripture, browse our online publication <em>WHEN</em>. These brief articles gently touch upon a diverse range of topics and provide further guidance.</p>",
-            "button_label": "Browse WHEN",
-            "button_link": "https://hosannarevival.blog/"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_43",
-        "text_block_44",
-        "text_block_45"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Julia-Allspaw-Author-Headshot-Hosanna-Revival-P-012.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Meet the Author",
-        "title": "Julia Allspaw",
-        "text": "<p>Julia Allspaw is a former special education teacher turned stay-at-home mom, who spends her days playing with her 9-month-old son, Leon. As an Enneagram 9, Julia loves staying home, reading whatever she can get her hands on, and traveling with her husband, Jake. When she’s not picking up toys or changing diapers, you can find her writing about suffering, hope, and finding God in the midst of profound pain.</p>",
-        "button_label": "Follow Julia",
-        "button_link": "https://www.instagram.com/julia_allspaw/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "slideshow_z6NbVJ": {
       "type": "slideshow",
       "blocks": {
@@ -516,13 +318,13 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
-            "link_text": "Buy now",
+            "link": "https://hosannarevival.com/products/devotional-unfold",
+            "link_text": "Shop Unfold",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#ffffff",
+            "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-007_6b8f2f98-02bc-42b3-9dcc-82a594d8b85d.jpg",
+            "image": "shopify://shop_images/Unfold-HosannaRevival-55.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -534,7 +336,7 @@
       "settings": {
         "section_height": "450px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
@@ -577,13 +379,7 @@
     "text_columns_kAwgKj",
     "26dff4a0-2465-4417-9f19-0bc81213168c",
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7",
-    "hero_video_EHR8Xy",
-    "rich_text_w4KFaR",
     "slideshow_BYN9tp",
-    "rich_text_x8FDHK",
-    "text_columns_BQGmdg",
-    "text_columns_zRBtLr",
-    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a",
     "slideshow_z6NbVJ",
     "single_button_Rfnjtg",
     "featured_collection_RrWRqU"
