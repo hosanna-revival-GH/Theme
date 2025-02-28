@@ -92,64 +92,40 @@
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-017.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Songs for the Suffering",
-        "title": "This Devotional is for you if...",
-        "text": "<p>- You are suffering.<br/>- You are walking alongside someone who is suffering<br/>- You are sick of reading feel-good slogans about suffering, and are looking for a deeper comfort, hope and joy amidst your pain.</p><p><em>If these words resonate, this devotional is for you.</em></p><p> </p>",
-        "button_label": "Choose this tool",
-        "button_link": "shopify://products/devotional-songs-for-the-suffering",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+              "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Sunset-P-001.jpg",
+              "image_width": "50",
+              "subtitle": "Yet",
+              "title": "For the one who is...",
+              "text": "<p><em>moving apartments | graduating from school | entering into college | beginning a new job | overwhelmed with change | living alone for the first time | starting a new relationship | going back to in-person activities | walking through a break-up | becoming a mother or father | mourning a friendship | ministering overseas | grieving a loved one | getting married | changing careers | switching cities | wondering why | feeling like everything is changing but you...</em></p><p>this devotional is for you.</p><p></p>",
+              "button_label": "Start Today",
+              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
+              "layout": "left"
       }
     },
     "46251244-472e-41e9-aed5-42bc423cc417": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "THE DETAILS",
-        "title": "Songs for the Suffering",
-        "text": "<p><strong>Topic</strong>: suffering and grief<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: multiple passages</p><p>“While our pain may not be the same and while our roads may have had different turns and destinations, my prayer is that somewhere in these words of mine you find yourself—and again, you find your Father.”<br/><em>—Author Julia Allspaw</em></p><p></p>",
-        "button_label": "Choose this Tool",
-        "button_link": "shopify://products/devotional-songs-for-the-suffering",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+             "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Sunset-P-003.jpg",
+              "image_width": "50",
+              "subtitle": "The Details",
+              "title": "YET: The Promise in Habakkuk for Those in Transition",
+              "text": "<p><strong>Topic</strong>: seasons of transition<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: Habakkuk</p><p>\"When our identity is rooted in anything other than God, we set ourselves up for failure. Transitions often expose what we value or an area where we have sought our identity.”<br/><em>—Author Erica Boden</em></p><p></p>",
+              "button_label": "Choose this Tool",
+              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
+              "layout": "right"
       }
     },
     "ddf6ef08-82bf-4630-b014-2c2df13532e4": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-018.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "PEEK INSIDE",
-        "title": "The Devotional Structure",
-        "text": "<p><strong>Structure</strong>: Weekly reading and interactive sections<br/><strong>Elements</strong>: Weekly reading & scripture, stop & reflect sections, end-of-chapter questions, journaling margins</p><p>Each week includes guided questions, further Scripture reading, application points and moments of reflection to delve into the heart of suffering, ask the hard questions, and lean into the Man of Sorrows himself, knowing he is already acquainted with our grief.</p><p></p>",
-        "button_label": "Choose this Tool",
-        "button_link": "shopify://products/devotional-songs-for-the-suffering",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+              "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Styled-P-035.jpg",
+              "image_width": "50",
+              "subtitle": "PEEK INSIDE",
+              "title": "The Devotional Structure",
+              "text": "<p><strong>Structure</strong>: daily reading and interactive questions<br/><strong>Elements</strong>: Assessment, study, reflection, thanksgiving and prayer sections each week </p><p>Each day will walk through part of Habakkuk with supplemental scripture, include guided questions, and allow you to reflect while sharing gratitude. <em>Yet</em> allows you to experience your daily life <em>with </em>Jesus, while giving you a safe space to celebrate, mourn, cheer, and grieve. </p><p></p>",
+              "button_label": "Choose this Tool",
+              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
+              "layout": "left"
       }
     },
     "image_row_8mdiP7": {
@@ -159,30 +135,30 @@
           "type": "image",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-001_58e20efb-769a-4d0a-b3ee-031d274d7ea9.jpg",
+            "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-039_4e9c2f4d-bce2-47bf-a8dd-f13211e9492b.jpg",
             "image_width": 650,
             "caption": "",
-            "link": "shopify://products/devotional-songs-for-the-suffering"
+            "link":  "shopify://products/devotional-yet-study-in-habakkuk",
           }
         },
         "image_34": {
           "type": "image",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-028.jpg",
+            "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-037.jpg",
             "image_width": 650,
             "caption": "",
-            "link": "shopify://products/devotional-songs-for-the-suffering"
+            "link":"shopify://products/devotional-yet-study-in-habakkuk",
           }
         },
         "image_35": {
           "type": "image",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
+            "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-041.jpg",
             "image_width": 650,
             "caption": "",
-            "link": "shopify://products/devotional-songs-for-the-suffering"
+            "link": "shopify://products/devotional-yet-study-in-habakkuk",
           }
         }
       },
