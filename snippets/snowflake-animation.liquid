@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
         opacity: ${opacity};
         color: ${randomColor};
         animation: fall ${fallDuration}ms linear ${fallDelay}ms infinite, rotate ${Math.random() > 0.5 ? 'normal' : 'reverse'} ${Math.random() * 20000 + 10000}ms infinite;
-        position: fixed;
+        position: absolute;
         top: -10px;
         z-index: 9999;
         pointer-events: none;
