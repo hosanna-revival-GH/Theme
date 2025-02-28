@@ -94,50 +94,53 @@
         "button_link": "https://hosannarevival.com/collections/winter-2023-collection",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 0,
         "space_below": 60
       }
     },
     "text_columns_R4Nbnc": {
       "type": "text-columns",
-"blocks": {
-  "text_block_103": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_4_a5e47c23-3e90-4519-98fe-252324cdfd1f.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_104": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_4_copy_93f2a888-ba68-4337-8f75-c3d677af4f4f.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_105": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Artboard_4_copy_2_41356ac1-77d9-4b2c-862c-65235a6bac22.png",
-      "image_width": 650,
-      "title": "",
-      "text": "",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_103": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_4_a5e47c23-3e90-4519-98fe-252324cdfd1f.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_104": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_4_copy_93f2a888-ba68-4337-8f75-c3d677af4f4f.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_105": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Artboard_4_copy_2_41356ac1-77d9-4b2c-862c-65235a6bac22.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_103",
         "text_block_104",
