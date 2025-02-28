@@ -54,48 +54,48 @@
     },
     "text_columns_FAgR4w": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_9ggNra": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_8RQWzD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_8dYaMF": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_65": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-01.png",
+      "image_width": 650,
+      "title": "FLORAL",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "https://hosannarevival.com/collections/by-design/floral"
+    }
+  },
+  "text_block_66": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-02.png",
+      "image_width": 650,
+      "title": "LANDSCAPE",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "https://hosannarevival.com/collections/by-design/landscape"
+    }
+  },
+  "text_block_67": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-03.png",
+      "image_width": 650,
+      "title": "MINIMAL",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "https://hosannarevival.com/collections/by-design/minimal"
+    }
+  }
+},
       "block_order": [
-        "text_block_9ggNra",
-        "text_block_8RQWzD",
-        "text_block_8dYaMF"
+        "text_block_65",
+        "text_block_66",
+        "text_block_67"
       ],
       "settings": {
         "title": "",
@@ -105,48 +105,48 @@
     },
     "text_columns_HGPrG8": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_cfEfNW": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_XjA9Vw": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_7FHE47": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_68": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-04.png",
+      "image_width": 650,
+      "title": "UNDER $25",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "https://hosannarevival.com/collections/by-price"
+    }
+  },
+  "text_block_69": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-05.png",
+      "image_width": 650,
+      "title": "UNDER $60",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "https://hosannarevival.com/collections/under-60"
+    }
+  },
+  "text_block_70": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-06.png",
+      "image_width": 650,
+      "title": "UNDER $100",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "https://hosannarevival.com/collections/under-100"
+    }
+  }
+},
       "block_order": [
-        "text_block_cfEfNW",
-        "text_block_XjA9Vw",
-        "text_block_7FHE47"
+        "text_block_68",
+        "text_block_69",
+        "text_block_70"
       ],
       "settings": {
         "title": "",
@@ -156,48 +156,48 @@
     },
     "text_columns_WUTizE": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_GiyC6y": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_7XMLd6": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_rcUBKB": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_71": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-07.png",
+      "image_width": 650,
+      "title": "BY TRANSLATION",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "https://hosannarevival.com/collections/by-translation"
+    }
+  },
+  "text_block_72": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-08.png",
+      "image_width": 650,
+      "title": "BY FORMAT",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "shopify://collections/by-bible-format"
+    }
+  },
+  "text_block_73": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-09.png",
+      "image_width": 650,
+      "title": "BUNDLES",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "shopify://collections/bundles"
+    }
+  }
+},
       "block_order": [
-        "text_block_GiyC6y",
-        "text_block_7XMLd6",
-        "text_block_rcUBKB"
+        "text_block_71",
+        "text_block_72",
+        "text_block_73"
       ],
       "settings": {
         "title": "",
@@ -207,48 +207,48 @@
     },
     "text_columns_Uekccm": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_taMR9z": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_gVFAeP": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_FQLnPe": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+"blocks": {
+  "text_block_74": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-10.png",
+      "image_width": 650,
+      "title": "WINTER 2023 COLLECTION",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": ""
+    }
+  },
+  "text_block_75": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-11.png",
+      "image_width": 650,
+      "title": "SPRING 2023 COLLECTION",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "shopify://collections/spring-2023-collection"
+    }
+  },
+  "text_block_76": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/Shop-By-12.png",
+      "image_width": 650,
+      "title": "WINTER 2022 COLLECTION",
+      "text": "",
+      "button_label": "SHOP",
+      "button_link": "shopify://collections/spring-2022-collection"
+    }
+  }
+},
       "block_order": [
-        "text_block_taMR9z",
-        "text_block_gVFAeP",
-        "text_block_FQLnPe"
+        "text_block_74",
+        "text_block_75",
+        "text_block_76"
       ],
       "settings": {
         "title": "",
