@@ -1,0 +1,461 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_KcwLHM": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CByDhR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "START FROM HERE",
+            "title_size": 72,
+            "subheading": "A Guide to Meeting God Wherever You Are",
+            "link": "https://hosannarevival.com/products/start-from-here",
+            "link_text": "Available Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Start-From-Here-Devotional-Coffeeshop-Ness-Cannon-Hosanna-Revival-005.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_CByDhR"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_EfBzdi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BFdefc": {
+          "type": "heading",
+          "settings": {
+            "title": "start from here"
+          }
+        },
+        "text_mBnwqV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Start From Here</em> is a 6-week devotional for those who feel distant from God and want to begin an honest journey to finding Jesus in a new way.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_mg3CXp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Walk with author Ness Cannon as she leads us through six weeks of study and asks us to “start from here.” Jesus reveals God’s character, his deep inner workings, and his motivations that drive him forward to love his children. Jesus weaves stories for us to grasp the things about God that only he knows so that we can see God in a new way. Through these stories, we discover what holds us back from living a life filled to the very brim with the goodness of God.</p><p>It doesn’t matter whether you have known Jesus for a minute or thirty years, there is more to find. Let’s uncover the God who Jesus knows so well and examine the thought patterns that live within us that stand in the way of knowing him the way Jesus does. Relying on the words and actions of Jesus, we will encounter God because the character of Jesus awakens us to who God is and who God says we are. Wherever you are, and wherever you feel like God is, let’s start from here. Let’s start with the beauty of Jesus’ character and find God again.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BFdefc",
+        "text_mBnwqV",
+        "text_mg3CXp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_4mRV99": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "buy now",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "cca9ec8d-c4d9-4c07-8688-4d25d741e016": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "start from here",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You've been walking with Jesus for years, or you're just now starting your walk with Christ<br/>- You don’t know how to find your way back to him<br/>- You're struggling in your walk of faith<br/>- You want a reminder of God's character—you won't remember the cross if you don't remember his character. </p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3e93705d-b1ac-405a-ac41-43c97f0f2218": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Details",
+        "title": "Start From Here",
+        "text": "<p><strong>Topic: </strong>The true character of God and the honest journey towards understanding and knowing God in a richer way. <strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>\"I have learned I can always learn the “who” behind God. God is not far, or unknowable, he is someone to meet, and he longs for us to draw closer to him. So wherever you might be today, let’s start from here, together, and discover the character behind God.\"</p><p><em>- Ness Cannon, author</em></p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "66fe7b3f-04df-4f63-8337-712aef41903a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Peek Inside",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure: </strong>6 week study </p><p><strong>Elements: </strong>Each week includes personal excerpts, weekly scripture readings, questions for reflection, and weekly \"Baby Steps\" for application. </p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_rnVcQq": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "More from Ness",
+        "home_featured_products": "start-from-here",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "text_columns_8JaH3e": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_88": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFH-Library-05.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://hosannarevival.com/products/start-from-here"
+          }
+        },
+        "text_block_89": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFH-Library-06.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_90": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFH-Library-07.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_88",
+        "text_block_89",
+        "text_block_90"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "333a8993-1038-4efe-b3a0-1016eb26d6c1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-04.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "start from here",
+        "title": "From The Introduction",
+        "text": "<p>\"Maybe the trick of this whole thing is realizing what God is really like. Is he a trustworthy place to land? Do you trust him to care for you and respond to you with consistent love and patience? I want to peel back the layers of what we believe about the character of God. There are some key characteristics we need to grasp if we are going to walk closer with him; and if we can ponder those, we may end up seeing God with a fresh perspective.\" </p><p><em>- Ness Cannon, author</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "497685a0-6e5b-40eb-99a4-a50cd5b51c62": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60
+      }
+    },
+    "slideshow_txeGWi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mWFcLe": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "BONUS CONTENT",
+            "title_size": 72,
+            "subheading": "For \"Start From Here\"",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Start-From-Here-Devotional-Coffeeshop-Ness-Cannon-Hosanna-Revival-244.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_mWFcLe"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "ce9a7414-290c-4126-b4df-d7c1ea5b91f1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-08.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Study tools",
+        "title": "New to the Bible?",
+        "text": "<p>Are you new to reading the Bible? If you’re picking up this devotional yet feel unable to navigate God’s Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
+        "button_label": "Browse bible Toolkit",
+        "button_link": "shopify://pages/bible-toolkit",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1a021cce-9d2e-4bfa-85e4-f4545351d6cc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-09.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet The Author",
+        "title": "Ness Cannon",
+        "text": "<p>Ness is a teacher and speaker from Hamilton, Ohio where she lives with her wonderful husband, spunky children, and stinky pug. She teaches at Miami University, owns a coffee shop called True West, is the author of <em>I Am Not in Charge</em>, and believes everyone has a seat at God’s table.</p>",
+        "button_label": "Follow Ness",
+        "button_link": "https://instagram.com/nesscannonwrites?igshid=MzRlODBiNWFlZA==",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4a411be2-7894-429c-9f65-89056ad15ac8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-10.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet The Author",
+        "title": "Ness' Story",
+        "text": "<p>Maybe you are like me when I was a senior in high school, just beginning to navigate the confusion of Christianity and the Bible. Jesus was the one who pulled me close and he seemed so approachable, but that giant book felt like a labyrinth, impossible to understand. The nuances of Christianity were confusing and as a teen who had never set foot in a church, I had no idea where to begin. Maybe you’ve walked near to God for a while now, but you long for a fresh perspective; or, perhaps you crave a reintroduction to the one who drew you near in the first place. I’ve been in those places and every spot in between asking myself, “Where do I go from here?”</p><p>Jesus is the best place to start. Always. We might never understand the hows or whys about God, but we can always learn <em>who</em> he is. God is not far or unknowable, he is someone to meet, and he longs for us to draw closer to him. We have to let go of who God <em>isn’t</em> in order to meet him as he truly <em>is</em>. So wherever you might be today, let’s start from here, together, and discover the character of God. He is the starting and finish line, and, friend, he wants to run the race with us. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "01ec9351-e0a9-497a-b90f-9df5ecf8ba31": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60
+      }
+    },
+    "slideshow_PzL7BX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_cxUGrD": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://products/devotional-i-am-not-in-charge",
+            "link_text": "shop more from ness cannon",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Start-From-Here-Devotional-Coffeeshop-Ness-Cannon-Hosanna-Revival-279.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_cxUGrD"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "single_button_4N7m8n": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Back to Devotional Library",
+        "button_link": "shopify://collections/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 60,
+        "space_below": 30
+      }
+    },
+    "featured_collection_dLBYYR": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop All Devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_KcwLHM",
+    "rich_text_EfBzdi",
+    "single_button_4mRV99",
+    "cca9ec8d-c4d9-4c07-8688-4d25d741e016",
+    "3e93705d-b1ac-405a-ac41-43c97f0f2218",
+    "66fe7b3f-04df-4f63-8337-712aef41903a",
+    "featured_collection_rnVcQq",
+    "text_columns_8JaH3e",
+    "333a8993-1038-4efe-b3a0-1016eb26d6c1",
+    "497685a0-6e5b-40eb-99a4-a50cd5b51c62",
+    "slideshow_txeGWi",
+    "ce9a7414-290c-4126-b4df-d7c1ea5b91f1",
+    "1a021cce-9d2e-4bfa-85e4-f4545351d6cc",
+    "4a411be2-7894-429c-9f65-89056ad15ac8",
+    "01ec9351-e0a9-497a-b90f-9df5ecf8ba31",
+    "slideshow_PzL7BX",
+    "single_button_4N7m8n",
+    "featured_collection_dLBYYR"
+  ]
+}
