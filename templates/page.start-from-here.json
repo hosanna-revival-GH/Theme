@@ -182,6 +182,57 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "text_columns_8JaH3e": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_XbJfBe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_LiYQhG": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_WDnxKN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_XbJfBe",
+        "text_block_LiYQhG",
+        "text_block_WDnxKN"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -192,6 +243,7 @@
     "cca9ec8d-c4d9-4c07-8688-4d25d741e016",
     "3e93705d-b1ac-405a-ac41-43c97f0f2218",
     "66fe7b3f-04df-4f63-8337-712aef41903a",
-    "featured_collection_rnVcQq"
+    "featured_collection_rnVcQq",
+    "text_columns_8JaH3e"
   ]
 }
