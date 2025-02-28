@@ -17,39 +17,20 @@
         "page_content_enable": true
       }
     },
-    "slideshow_KcwLHM": {
-      "type": "slideshow",
-      "blocks": {
-        "image_CByDhR": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "START FROM HERE",
-            "title_size": 72,
-            "subheading": "A Guide to Meeting God Wherever You Are",
-            "link": "https://hosannarevival.com/products/start-from-here",
-            "link_text": "Available Now",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Start-From-Here-Devotional-Coffeeshop-Ness-Cannon-Hosanna-Revival-005.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_CByDhR"
-      ],
+    "hero_video_cGLNYX": {
+      "type": "hero-video",
       "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false
+        "title": "THE STORY CIRCLE",
+        "title_size": 80,
+        "subheading": "A devotional on the beauty of the Biblical story.",
+        "link_text": "Watch the Trailer",
+        "link": "https://youtu.be/dCSzNScZZgA",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/dCSzNScZZgA",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "rich_text_EfBzdi": {
@@ -58,14 +39,14 @@
         "heading_BFdefc": {
           "type": "heading",
           "settings": {
-            "title": "start from here"
+            "title": "THE STORY CIRCLE"
           }
         },
         "text_mBnwqV": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Start From Here</em> is a 6-week devotional for those who feel distant from God and want to begin an honest journey to finding Jesus in a new way.</p>",
+            "text": "<p><em>The Story Circle </em>is a 6 part devotional where author Joshua Lenon immerses readers into the beauty of the biblical story. From the first page to the last page, you will be led on a journey into the heart of our Father and the (almost) unbelievable story he has been telling. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -74,7 +55,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Walk with author Ness Cannon as she leads us through six weeks of study and asks us to “start from here.” Jesus reveals God’s character, his deep inner workings, and his motivations that drive him forward to love his children. Jesus weaves stories for us to grasp the things about God that only he knows so that we can see God in a new way. Through these stories, we discover what holds us back from living a life filled to the very brim with the goodness of God.</p><p>It doesn’t matter whether you have known Jesus for a minute or thirty years, there is more to find. Let’s uncover the God who Jesus knows so well and examine the thought patterns that live within us that stand in the way of knowing him the way Jesus does. Relying on the words and actions of Jesus, we will encounter God because the character of Jesus awakens us to who God is and who God says we are. Wherever you are, and wherever you feel like God is, let’s start from here. Let’s start with the beauty of Jesus’ character and find God again.</p>",
+            "text": "<p><em>The Story Circle</em>, written by Joshua Lenon, will draw your mind and imagination into this beautiful story that has been unfolding since the very dawn of time. Joshua weaves together the story line of Scripture and the story line of your life in a way that will not leave you unchanged. As he likes to say, “You will find yourself in this story.”  You will find who you are—your true identity—who you were originally created to be as a son or daughter of God. You will also, like some mystical tale of old, find yourself woven into this epic that unfolds. You will see that this story is <em>your</em> story. It is <em>our</em> story. And you and I have a part to play in it. </p><p>As you walk through each of the six parts of <em>The Story Circle</em>—from Beauty to Beauty—you will be given a chance to <strong>write</strong> out the story in your own words, <strong>remember</strong> key portions of Scripture, and <strong>reflect</strong> with questions designed to let you see that this Story is also your story. So, come—come discover who you are and who you were meant to be as you find that story that is yours as well.</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -101,7 +82,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "buy now",
-        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_link": "shopify://products/devotional-the-story-circle",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -169,18 +150,6 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
-      }
-    },
-    "featured_collection_rnVcQq": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "More from Ness",
-        "home_featured_products": "start-from-here",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "text_columns_8JaH3e": {
@@ -439,13 +408,12 @@
   },
   "order": [
     "main",
-    "slideshow_KcwLHM",
+    "hero_video_cGLNYX",
     "rich_text_EfBzdi",
     "single_button_4mRV99",
     "cca9ec8d-c4d9-4c07-8688-4d25d741e016",
     "3e93705d-b1ac-405a-ac41-43c97f0f2218",
     "66fe7b3f-04df-4f63-8337-712aef41903a",
-    "featured_collection_rnVcQq",
     "text_columns_8JaH3e",
     "333a8993-1038-4efe-b3a0-1016eb26d6c1",
     "497685a0-6e5b-40eb-99a4-a50cd5b51c62",
