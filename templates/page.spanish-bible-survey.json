@@ -149,7 +149,8 @@
       "settings": {
         "title": "",
         "space_above": 0,
-        "space_below": 0
+        "space_below": 0,
+        "disable_section_margin": true
       }
     },
     "text_and_image_dmaU4R": {
