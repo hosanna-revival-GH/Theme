@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const winterModeEnabled = true; // Assuming true, but replace with your logic or setting
   const minSnowflakeSize = 0.6; // Customize as needed
   const maxSnowflakeSize = 1.4; // Customize as needed
-  const gravity = 0.8; // Customize as needed
+  const gravity = 0.7; // Customize as needed
   const snowflakeColors = ["#ffffff", "#f5fbff", "#e7f5ff"]; // Customize as needed
   const numSnowflakes = 40; // Customize as needed
   const snowflakeType = "❄"; // Customize as needed
@@ -48,10 +48,10 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 <style>
 @keyframes fall {
-  0% { opacity: 0; top: -10%; }
+  0% { opacity: 0; }
   10% { opacity: 1; }
-  70% { opacity: 1; }
-  100% { top: 80%; opacity: 0; }
+  90% { opacity: 1; }
+  100% { top: 100%; opacity: 0; }
 }
 @keyframes rotate {
   0%, 100% { transform: rotate(0deg); }
