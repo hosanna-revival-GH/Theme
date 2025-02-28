@@ -317,7 +317,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
       }
     },
     "hero_video_EHR8Xy": {
@@ -336,6 +336,80 @@
         "mobile_height": "auto"
       }
     },
+    "5eb830b7-24d6-4493-a02c-2a3767c3054e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-029.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Study Tool",
+        "title": "To the one in a season of transition...",
+        "text": "<p>Transition is challenging and looks differently for everyone. Listen to this quick note from author Erica Boden as she shares her heart behind her work <em>YET: The Promise in Habakkuk for those in Transitio</em>n.</p>",
+        "button_label": "Watch This Video",
+        "button_link": "https://www.youtube.com/watch?v=VR-PBa2rJog",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b4e264b0-273a-4e6a-a898-a1252bebbfb4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Erica-Boden-Author-Portrait-Headshots-P-001.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Erica Boden",
+        "text": "<p>Erica spends her days as a Consultant and her evenings as a Doctoral Student, yet her favorite roles are being a daughter, sister, and friend. You can find her yelling <em>Roll Tide! </em>at a television, enjoying a long run, or writing - probably wrapped in a fuzzy blanket. An alumna of the Fulbright Program, she loves traveling and seeing the consistency of God and His love for people throughout the world. <em>YET; The Promise in Habakkuk for Those in Transition</em>, is her first published devotional.</p>",
+        "button_label": "Follow Erica",
+        "button_link": "https://www.instagram.com/e_bodes/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1705df3a-2366-4fee-bd0f-475e4d4fce74": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/YET-Transition-1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Erica's Story",
+        "text": "<p>When Erica moved home from Bulgaria after a year of living and teaching in a small city, she experienced a season of transition that left her exhausted, hopeful, crying, and wondering if God was the same in Cincinnati as He was in Silistra. Through Scripture, she found that when the earth shakes and her legs quiver, God is the same: consistent, loving, and actively present. She is overjoyed for readers to find the same God in a season where the world, and their lives, may not feel consistent. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3af97a8e-a7c8-4b79-bd47-df93f1b91c29": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin the Journey",
+        "button_link": "https://hosannarevival.com/cart/add?id=41009382785202&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60
+      }
+    },
     "slideshow_z6NbVJ": {
       "type": "slideshow",
       "blocks": {
@@ -346,13 +420,13 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+            "link": "https://hosannarevival.com/cart/add?id=41009382785202&quantity=1",
             "link_text": "Buy now",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-007_6b8f2f98-02bc-42b3-9dcc-82a594d8b85d.jpg",
+            "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Sunset-W-002.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -393,57 +467,7 @@
         "view_all": true,
         "divider": false
       }
-    },
-           "5eb830b7-24d6-4493-a02c-2a3767c3054e": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-029.jpg",
-              "image_width": "50",
-              "subtitle": "Study Tool",
-              "title": "To the one in a season of transition...",
-              "text": "<p>Transition is challenging and looks differently for everyone. Listen to this quick note from author Erica Boden as she shares her heart behind her work <em>YET: The Promise in Habakkuk for those in Transitio</em>n.</p>",
-              "button_label": "Watch This Video",
-              "button_link": "https://www.youtube.com/watch?v=VR-PBa2rJog",
-              "layout": "left"
-            }
-          },
-          "b4e264b0-273a-4e6a-a898-a1252bebbfb4": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Erica-Boden-Author-Portrait-Headshots-P-001.jpg",
-              "image_width":  "50",
-              "subtitle": "Meet the Author",
-              "title": "Erica Boden",
-              "text": "<p>Erica spends her days as a Consultant and her evenings as a Doctoral Student, yet her favorite roles are being a daughter, sister, and friend. You can find her yelling <em>Roll Tide! </em>at a television, enjoying a long run, or writing - probably wrapped in a fuzzy blanket. An alumna of the Fulbright Program, she loves traveling and seeing the consistency of God and His love for people throughout the world. <em>YET; The Promise in Habakkuk for Those in Transition</em>, is her first published devotional.</p>",
-              "button_label": "Follow Erica",
-              "button_link": "https://www.instagram.com/e_bodes/",
-              "layout": "right"
-            }
-          },
-          "1705df3a-2366-4fee-bd0f-475e4d4fce74": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/YET-Transition-1.jpg",
-              "image_width": "50",
-              "subtitle": "Meet the Author",
-              "title": "Erica's Story",
-              "text": "<p>When Erica moved home from Bulgaria after a year of living and teaching in a small city, she experienced a season of transition that left her exhausted, hopeful, crying, and wondering if God was the same in Cincinnati as He was in Silistra. Through Scripture, she found that when the earth shakes and her legs quiver, God is the same: consistent, loving, and actively present. She is overjoyed for readers to find the same God in a season where the world, and their lives, may not feel consistent. </p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "3af97a8e-a7c8-4b79-bd47-df93f1b91c29": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "Begin the Journey",
-              "button_link": "https://hosannarevival.com/cart/add?id=41009382785202&quantity=1",
-              "button_size": "huge"
-            }
-          },
+    }
   },
   "order": [
     "main",
@@ -459,9 +483,9 @@
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7",
     "hero_video_EHR8Xy",
     "5eb830b7-24d6-4493-a02c-2a3767c3054e",
-     "b4e264b0-273a-4e6a-a898-a1252bebbfb4",
+    "b4e264b0-273a-4e6a-a898-a1252bebbfb4",
     "1705df3a-2366-4fee-bd0f-475e4d4fce74",
-     "3af97a8e-a7c8-4b79-bd47-df93f1b91c29",
+    "3af97a8e-a7c8-4b79-bd47-df93f1b91c29",
     "slideshow_z6NbVJ",
     "single_button_Rfnjtg",
     "featured_collection_RrWRqU"
