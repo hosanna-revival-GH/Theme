@@ -154,44 +154,47 @@
     },
     "text_columns_CF9NRF": {
       "type": "text-columns",
-"blocks": {
-  "text_block_81": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/SpringCollection2023_Nara.png",
-      "image_width": 650,
-      "title": "nara: esv large print bible",
-      "text": "<p>Perfect for the minimalist aesthetic, our ESV Nara Bible is the Large Print lookalike to our best-selling Marlo Bible with her soft, suede-like material and large, readable font size.</p>",
-      "button_label": "SHOP NARA",
-      "button_link": "shopify://products/esv-large-print-journaling-bible-nara-theme"
-    }
-  },
-  "text_block_82": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/SpringCollection2023_madrid.png",
-      "image_width": 650,
-      "title": "Madrid: NLT notetaking bible",
-      "text": "<p>Perfect for the floral lovers, our Madrid Bible features dusty bouquets, large journaling margins, and the highly readable NLT translation for optimal understanding.</p>",
-      "button_label": "SHOP MADRID",
-      "button_link": "shopify://products/nlt-notetaking-bible-madrid-theme"
-    }
-  },
-  "text_block_83": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/SpringCollection2023_santaelena.png",
-      "image_width": 650,
-      "title": "Santa Elena: NLT Notetaking Bible",
-      "text": "<p>Perfect for the leather-like aesthetic, our Santa Elena Bible features an ornate floral-framed cover, large journaling margins, and the highly readable NLT translation for optimal understanding.</p>",
-      "button_label": "SHOP SANTA ELENA",
-      "button_link": "shopify://products/nlt-notetaking-bible-santa-elena-theme"
-    }
-  }
-},
+      "blocks": {
+        "text_block_81": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SpringCollection2023_Nara.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "nara: esv large print bible",
+            "text": "<p>Perfect for the minimalist aesthetic, our ESV Nara Bible is the Large Print lookalike to our best-selling Marlo Bible with her soft, suede-like material and large, readable font size.</p>",
+            "button_label": "SHOP NARA",
+            "button_link": "shopify://products/esv-large-print-journaling-bible-nara-theme"
+          }
+        },
+        "text_block_82": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SpringCollection2023_madrid.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Madrid: NLT notetaking bible",
+            "text": "<p>Perfect for the floral lovers, our Madrid Bible features dusty bouquets, large journaling margins, and the highly readable NLT translation for optimal understanding.</p>",
+            "button_label": "SHOP MADRID",
+            "button_link": "shopify://products/nlt-notetaking-bible-madrid-theme"
+          }
+        },
+        "text_block_83": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SpringCollection2023_santaelena.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Santa Elena: NLT Notetaking Bible",
+            "text": "<p>Perfect for the leather-like aesthetic, our Santa Elena Bible features an ornate floral-framed cover, large journaling margins, and the highly readable NLT translation for optimal understanding.</p>",
+            "button_label": "SHOP SANTA ELENA",
+            "button_link": "shopify://products/nlt-notetaking-bible-santa-elena-theme"
+          }
+        }
+      },
       "block_order": [
         "text_block_81",
         "text_block_82",
@@ -205,44 +208,48 @@
     },
     "image_row_Ug9yLh": {
       "type": "image-row",
-"blocks": {
-  "image_84": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-409.jpg",
-      "caption": "",
-      "link": "https://hosannarevival.com/products/nlt-notetaking-bible-madrid-theme"
-    }
-  },
-  "image_85": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-110.jpg",
-      "caption": "",
-      "link": "https://hosannarevival.com/products/esv-large-print-journaling-bible-nara-theme"
-    }
-  },
-  "image_86": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-440.jpg",
-      "caption": "",
-      "link": "https://hosannarevival.com/products/nlt-notetaking-bible-santa-elena-theme"
-    }
-  },
-  "image_87": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-392.jpg",
-      "caption": "",
-      "link": "shopify://collections/notebooks"
-    }
-  }
-},
+      "blocks": {
+        "image_84": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-409.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "https://hosannarevival.com/products/nlt-notetaking-bible-madrid-theme"
+          }
+        },
+        "image_85": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-110.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "https://hosannarevival.com/products/esv-large-print-journaling-bible-nara-theme"
+          }
+        },
+        "image_86": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-440.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "https://hosannarevival.com/products/nlt-notetaking-bible-santa-elena-theme"
+          }
+        },
+        "image_87": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-392.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://collections/notebooks"
+          }
+        }
+      },
       "block_order": [
         "image_84",
         "image_85",
@@ -255,6 +262,45 @@
         "enable_spacing": true,
         "enable_zoom": false
       }
+    },
+    "featured_collection_T4jdCn": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SPRING COLLECTION 2023",
+        "home_featured_products": "spring-2023-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "single_button_B3XyzF": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "SHOP SPRING COLLECTION 2023",
+        "button_link": "https://www.hosannarevival.com/collections/spring-2023-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "hero_video_dqGYRq": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "gift today",
+        "link": "https://www.hosannarevival.com/collections/spring-2023-collection",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/d1e2125be95a43839da8461708ecc5c3.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -264,6 +310,9 @@
     "text_columns_QrRQrx",
     "single_button_HByUiF",
     "text_columns_CF9NRF",
-    "image_row_Ug9yLh"
+    "image_row_Ug9yLh",
+    "featured_collection_T4jdCn",
+    "single_button_B3XyzF",
+    "hero_video_dqGYRq"
   ]
 }
