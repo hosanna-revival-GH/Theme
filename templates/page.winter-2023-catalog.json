@@ -146,41 +146,65 @@
     "35694ac9-45b4-4fbe-91fd-0d1d41c65a9e": {
       "type": "text-and-image",
       "settings": {
-             "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1283.jpg",
-              "image_width": "50",
-              "subtitle": "Pages 12-13",
-              "title": "Bake a Festive Treat",
-              "text": "<p>In the weeks ahead, test out a new delicious recipe to bake in your kitchen. Whether you prepare tart gingersnaps or our festive cranberry galette featured in the pages of our catalog, let this food be a tangible symbol of feeding your soul in this season. Invite a friend to join the process or find a special someone to gift the finished treat to. </p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
+        "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1283.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Pages 12-13",
+        "title": "Bake a Festive Treat",
+        "text": "<p>In the weeks ahead, test out a new delicious recipe to bake in your kitchen. Whether you prepare tart gingersnaps or our festive cranberry galette featured in the pages of our catalog, let this food be a tangible symbol of feeding your soul in this season. Invite a friend to join the process or find a special someone to gift the finished treat to. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "17acf5bb-1ef0-4d29-8fb8-459f1a97f3f5": {
       "type": "text-and-image",
       "settings": {
-      "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0346.jpg",
-              "image_width": "50",
-              "subtitle": "Pages 16-17",
-              "title": "Package Intentional Gifts",
-              "text": "<p>Turn gift-giving into a creative rhythm from start to finish. Choose your gifts with intentionality, giving yourself the space to select something that feels meaningful. If you find yourself in a rush, identify one single element that reminds you of your recipient and allow that to guide your gift-finding. When packaging, add a little extra special touch from you—whether that’s in the way it’s packaged, the colors, the note, or the material itself. You can use our tear-out gift tags at the back of the catalog as the final piece to make your recipient feel oh so loved.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
+        "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0346.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Pages 16-17",
+        "title": "Package Intentional Gifts",
+        "text": "<p>Turn gift-giving into a creative rhythm from start to finish. Choose your gifts with intentionality, giving yourself the space to select something that feels meaningful. If you find yourself in a rush, identify one single element that reminds you of your recipient and allow that to guide your gift-finding. When packaging, add a little extra special touch from you—whether that’s in the way it’s packaged, the colors, the note, or the material itself. You can use our tear-out gift tags at the back of the catalog as the final piece to make your recipient feel oh so loved.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "d9013c9c-df36-42b5-a455-a05651ac7f04": {
       "type": "text-and-image",
       "settings": {
-             "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1346.jpg",
-              "image_width": "50",
-              "subtitle": "Pages 4-5",
-              "title": "Carve out a space for beauty",
-              "text": "<p>Consider how beauty can stir your soul to truth this season. Place tangible reminders of what matters most in your physical space as a way of grounding your soul in the reality of God’s presence. As you decorate your home for the holiday season, engage in the act of creation this Christmas as a means of connecting with the Lord—you can explore <a href=\"/pages/an-invitation-to-create-pleasant-places\" title=\"An Invitation to Create — Pleasant Places\">this series</a> if you’re unsure of where to begin. And through it all, seek to find traces of God’s glory in the beauty you find.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
+        "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-1346.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Pages 4-5",
+        "title": "Carve out a space for beauty",
+        "text": "<p>Consider how beauty can stir your soul to truth this season. Place tangible reminders of what matters most in your physical space as a way of grounding your soul in the reality of God’s presence. As you decorate your home for the holiday season, engage in the act of creation this Christmas as a means of connecting with the Lord—you can explore <a href=\"/pages/an-invitation-to-create-pleasant-places\" title=\"An Invitation to Create — Pleasant Places\">this series</a> if you’re unsure of where to begin. And through it all, seek to find traces of God’s glory in the beauty you find.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     },
     "rich_text_t3mtD7": {
       "type": "rich-text",
@@ -223,30 +247,10 @@
         "title": "",
         "home_featured_products": "winter-2023-catalog",
         "per_row": 5,
-        "rows": 2,
+        "rows": 5,
         "mobile_scrollable": true,
         "view_all": false,
         "divider": false
-      }
-    },
-    "single-image-1597333252753": {
-      "type": "single-image",
-      "blocks": {
-        "image_block_7BAXie": {
-          "type": "image_block",
-          "settings": {
-            "image_link": "",
-            "image_width": 300,
-            "space_above": 50,
-            "space_below": 50
-          }
-        }
-      },
-      "block_order": [
-        "image_block_7BAXie"
-      ],
-      "settings": {
-        "section_title": "Featured Images"
       }
     },
     "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed": {
@@ -258,6 +262,59 @@
         "alignment": "center",
         "space_above": 0,
         "space_below": 60
+      }
+    },
+    "image_row_RagFcy": {
+      "type": "image-row",
+      "blocks": {
+        "image_W3aULV": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_PdKnwe": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_q7GPBk": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_JW8TMh": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_W3aULV",
+        "image_PdKnwe",
+        "image_q7GPBk",
+        "image_JW8TMh"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
       }
     }
   },
@@ -272,7 +329,7 @@
     "d9013c9c-df36-42b5-a455-a05651ac7f04",
     "rich_text_t3mtD7",
     "featured_collection_Efqjbq",
-    "single-image-1597333252753",
-    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed"
+    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed",
+    "image_row_RagFcy"
   ]
 }
