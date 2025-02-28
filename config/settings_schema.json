@@ -1040,7 +1040,7 @@
         "type": "select",
         "label": "Winter Mode",
         "id": "winter_mode",
-        "default": "true",
+        "default": "false",
         "options": [
           {
             "value": "true",
