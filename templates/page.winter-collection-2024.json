@@ -11,13 +11,128 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "hero_video_Y4DnTE": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Winter Collection\n2024",
+        "title_size": 60,
+        "subheading": "experience the peaceful presence of your Good Shepherd as you engage in Scripture",
+        "link_text": "Shop the Collection",
+        "link": "shopify://collections/winter-2024-collection",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/cdeac11042044dae877ad48b74b2a8cb.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_ChdjdK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w7tiaQ": {
+          "type": "heading",
+          "settings": {
+            "title": "to the weary one,"
+          }
+        },
+        "text_jPe36a": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We pray that this collection draws you in to experience the mighty power and perfect peace of God’s character. Through the eight Bibles, six notebooks, and two 5-Year Prayer Journals, our heart is that you will be reminded of the true rest and steadfast love God offers. Whether you are drawn to the serene landscape of our Dublin design or the powerful simplicity of our Jerusalem design, we pray that you are anchored in the truth that God is your Good Shepherd, Redeemer, the Alpha and Omega, and the One True King. As you draw near to him, may his presence become your safest refuge, and may you experience his precious love for you in beautiful new ways.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_w7tiaQ",
+        "text_jPe36a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_fKC7bk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_UGkbDz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/winter_landing_page.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_UGkbDz"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_YcQbAb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "the collection designed to usher in rest",
+        "home_featured_products": "winter-2024-collection",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "single_button_jJhiGP": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "shop winter collection",
+        "button_link": "shopify://collections/winter-2024-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_video_Y4DnTE",
+    "rich_text_ChdjdK",
+    "slideshow_fKC7bk",
+    "featured_collection_YcQbAb",
+    "single_button_jJhiGP"
   ]
 }
