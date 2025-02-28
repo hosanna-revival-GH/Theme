@@ -155,44 +155,47 @@
     },
     "text_columns_UBeGzy": {
       "type": "text-columns",
-"blocks": {
-  "text_block_97": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/aurora-MD-1.png",
-      "image_width": 650,
-      "title": "A Hosanna Revival Bible",
-      "text": "<p>A perfect gift for mom, shop our classic Beautiful Bibles, ranging in design, translation, and font size. Our Bibles feature originally hand-painted artwork, as well as spacious journaling margins and our custom Hosanna Revival typeset. </p>",
-      "button_label": "shop bibles",
-      "button_link": "shopify://collections/beautiful-bibles"
-    }
-  },
-  "text_block_98": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/unfold-MD-2.png",
-      "image_width": 650,
-      "title": "A Hosanna Revival Devotional",
-      "text": "<p>Our devotionals make the sweetest gifts to pair with our Beautiful Bibles and to deepen engagement with God's Word. Browse our devotional library and topics to choose a beautiful study today. </p>",
-      "button_label": "shop devotionals",
-      "button_link": "shopify://collections/devotionals"
-    }
-  },
-  "text_block_99": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/Eddie-MD-3_901eb770-1e62-46c5-bdfd-098d211fa82f.png",
-      "image_width": 650,
-      "title": "A Hosanna Revival 5-Year Prayer Journal",
-      "text": "<p>From leather-bound to full floral, find the design that will excite the recipient to open these pages over the next 5 years. A great heirloom gift, shop our five-year, One Thing I Ask Journals. </p>",
-      "button_label": "shop one thing i ask",
-      "button_link": "shopify://collections/one-thing-i-ask"
-    }
-  }
-},
+      "blocks": {
+        "text_block_97": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/aurora-MD-1.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "A Hosanna Revival Bible",
+            "text": "<p>A perfect gift for mom, shop our classic Beautiful Bibles, ranging in design, translation, and font size. Our Bibles feature originally hand-painted artwork, as well as spacious journaling margins and our custom Hosanna Revival typeset. </p>",
+            "button_label": "shop bibles",
+            "button_link": "shopify://collections/beautiful-bibles"
+          }
+        },
+        "text_block_98": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/unfold-MD-2.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "A Hosanna Revival Devotional",
+            "text": "<p>Our devotionals make the sweetest gifts to pair with our Beautiful Bibles and to deepen engagement with God's Word. Browse our devotional library and topics to choose a beautiful study today. </p>",
+            "button_label": "shop devotionals",
+            "button_link": "shopify://collections/devotionals"
+          }
+        },
+        "text_block_99": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Eddie-MD-3_901eb770-1e62-46c5-bdfd-098d211fa82f.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "A Hosanna Revival 5-Year Prayer Journal",
+            "text": "<p>From leather-bound to full floral, find the design that will excite the recipient to open these pages over the next 5 years. A great heirloom gift, shop our five-year, One Thing I Ask Journals. </p>",
+            "button_label": "shop one thing i ask",
+            "button_link": "shopify://collections/one-thing-i-ask"
+          }
+        }
+      },
       "block_order": [
         "text_block_97",
         "text_block_98",
@@ -218,51 +221,54 @@
     },
     "text_columns_CD8fn8": {
       "type": "text-columns",
-   "blocks": {
-  "text_block_100": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/FiveStars.png",
-      "image_width": 100,
-      "title": "",
-      "text": "<p><em>Breathtaking</em><br/>This study Bible is truly the most beautiful Bible! I gifted it to my good friend for her birthday and she was elated to receive it! So glad to have been able to give her a beautiful tool to encourage her in her walk with Christ.<br/><em>-Char</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_101": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/FiveStars.png",
-      "image_width": 100,
-      "title": "",
-      "text": "<p>I got this book for a friend who has a testimony that is highlighted by the verse on this cover. I love the idea and the doors that will be opened through her testimony and the questions that will be asked about through reading this word. The note sections are also super handy and worth the price. Love love love these Bibles and will be buying all future Bibles from here.<br/><em>-Chloe</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  },
-  "text_block_102": {
-    "type": "text_block",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/FiveStars.png",
-      "image_width": 100,
-      "title": "",
-      "text": "<p>This is by far the best Bible I have ever used/owned. As a detailed oriented person I love the uniqueness of the cover and it makes me happy every time I go to reach for it. The translation is easier to understand and I love the space for note-taking. Would definitely buy a Hosanna Revival Bible for everyone I know!<br/><em>-Temima</em></p>",
-      "button_label": "",
-      "button_link": ""
-    }
-  }
-},
+      "blocks": {
+        "text_block_100": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p><em>Breathtaking</em><br/>This study Bible is truly the most beautiful Bible! I gifted it to my good friend for her birthday and she was elated to receive it! So glad to have been able to give her a beautiful tool to encourage her in her walk with Christ.<br/><em>-Char</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_101": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>I got this book for a friend who has a testimony that is highlighted by the verse on this cover. I love the idea and the doors that will be opened through her testimony and the questions that will be asked about through reading this word. The note sections are also super handy and worth the price. Love love love these Bibles and will be buying all future Bibles from here.<br/><em>-Chloe</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_102": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 100,
+            "title": "",
+            "text": "<p>This is by far the best Bible I have ever used/owned. As a detailed oriented person I love the uniqueness of the cover and it makes me happy every time I go to reach for it. The translation is easier to understand and I love the space for note-taking. Would definitely buy a Hosanna Revival Bible for everyone I know!<br/><em>-Temima</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
       "block_order": [
         "text_block_100",
         "text_block_101",
         "text_block_102"
       ],
       "settings": {
-        "title": "",
+        "title": "WHAT THEY'RE SAYING:",
         "align_text": "center",
         "divider": false
       }
