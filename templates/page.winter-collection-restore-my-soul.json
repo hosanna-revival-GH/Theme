@@ -28,7 +28,7 @@
             "title_size": 72,
             "subheading": "A collection for the weary and worn",
             "link": "shopify://collections/winter-2023-collection",
-            "link_text":  "Explore Winter Collection",
+            "link_text": "Explore Winter Collection",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -58,7 +58,7 @@
         "heading_Ydqhx7": {
           "type": "heading",
           "settings": {
-            "title": "Return to Beauty",
+            "title": "Return to Beauty"
           }
         },
         "text_3zHriD": {
@@ -66,7 +66,7 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>“Restore my soul” is the heart’s cry behind this collection as God’s Word breaks fresh ground in our hearts through beauty. The muted blue tones and mauve accents carry a sense of peace throughout the collection, calling our hearts to seek restoration within these pages. This winter, let the beauty of Scripture stir your heart again. Your intentional tool awaits.</p>",
-             "align_text_block": "inherit",
+            "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
@@ -87,17 +87,6 @@
         "space_below": 75
       }
     },
-    "single_button_gTw6gN": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "SHOP WINTER COLLECTION 2023",
-        "button_link": "https://hosannarevival.com/collections/winter-2023-collection",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 0,
-        "space_below": 60
-      }
-    },
     "text_columns_R4Nbnc": {
       "type": "text-columns",
       "blocks": {
@@ -107,10 +96,9 @@
             "enable_image": true,
             "image": "shopify://shop_images/marloicon.png",
             "image_mask": "none",
-            "image_width": 650,
+            "image_width": 200,
             "title": "New Tools to Revive you",
             "text": "<p>Welcome to our Winter Collection which features 10 new tools: our ESV Study Bible Iceland, Large Print Bible Victoria, three new journaling Bibles, a beloved Versailles Prayer Journal, and four new notebooks.</p>",
-              
             "button_label": "",
             "button_link": ""
           }
@@ -121,10 +109,9 @@
             "enable_image": true,
             "image": "shopify://shop_images/MarloOpen.png",
             "image_mask": "none",
-            "image_width": 650,
+            "image_width": 200,
             "title": "Intentional Interior Layouts",
             "text": "<p>Whether engaging with Scripture through the journaling margins on our Bibles or interacting with our 5-Year Prayer Journal, each tool in this collection is designed with intentional functionality.</p>",
-              
             "button_label": "",
             "button_link": ""
           }
@@ -135,10 +122,9 @@
             "enable_image": true,
             "image": "shopify://shop_images/beautiful-bible-painting-hosanna-revival.png",
             "image_mask": "none",
-            "image_width": 650,
+            "image_width": 200,
             "title": "Beautiful Cover Designs",
             "text": "<p>When designing our new collections, our founder and artist Katie crafts a line of beautiful new designs to reflect the coming season. Choose the one that stirs your soul to beauty.</p>",
-             
             "button_label": "",
             "button_link": ""
           }
@@ -155,40 +141,27 @@
         "divider": false
       }
     },
-    "slideshow_RbFy4F": {
-      "type": "slideshow",
-      "blocks": {
-        "image_89nhEa": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/collections/winter-2023-collection",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/winter-collection-homepage-polaroid.png",
-            "image_mobile": "shopify://shop_images/winter-collection-homepage-polaroid-mobile.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_89nhEa"
-      ],
+    "single_button_gTw6gN": {
+      "type": "single-button",
       "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
+        "button_text": "Explore the Collection",
+        "button_link": "shopify://collections/winter-2023-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 60
+      }
+    },
+    "featured_collection_Efqjbq": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "winter-2023-collection",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
       }
     },
     "hero_video_cnMrUE": {
@@ -212,9 +185,9 @@
     "main",
     "slideshow_ddaQre",
     "rich_text_DmP6Mz",
-    "single_button_gTw6gN",
     "text_columns_R4Nbnc",
-    "slideshow_RbFy4F",
+    "single_button_gTw6gN",
+    "featured_collection_Efqjbq",
     "hero_video_cnMrUE"
   ]
 }
