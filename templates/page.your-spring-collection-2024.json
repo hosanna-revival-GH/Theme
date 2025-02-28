@@ -118,39 +118,38 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Artboard_4_a5e47c23-3e90-4519-98fe-252324cdfd1f.png",
-            "image_mask": "none",
+            "image": "shopify://shop_images/Spring-Collection-Landing-01.png",
             "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "title": "Spring Notebooks",
+            "text": "<p>Our spring 2024 notebooks are the perfect companions to your Hosanna Revival Bible. Let the Lord tend to your heart this spring through a beautiful new tool.</p>",
+            "button_label": "shop spring notebooks",
+            "button_link": "shopify://collections/notebooks",
           }
         },
         "text_block_104": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Artboard_4_copy_93f2a888-ba68-4337-8f75-c3d677af4f4f.png",
+            "image":"shopify://shop_images/Spring-Collection-Landing-02.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "title": "Spring Bibles",
+            "text": "<p>Our 2024 spring Bibles feature fresh, vibrant, florals that bring to mind flourishing and renewal to mirror God's work in your heart through these tools. </p>",
+            "button_label": "shop spring bibles",
+            "button_link": "shopify://collections/beautiful-bibles",
           }
         },
         "text_block_105": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Artboard_4_copy_2_41356ac1-77d9-4b2c-862c-65235a6bac22.png",
+            "image": "shopify://shop_images/Spring-Collection-Landing-03.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "title": "Spring Greeting Cards",
+            "text": "<p>This stunning collection of 12  greeting cards is one of our favorite tools to love your community well. Featuring watercolor floral details and a Scripture interior, this is the perfect set to gift intentionally. </p>",
+            "button_label":"shop greeting cards",
+            "button_link": "https://hosannarevival.com/products/spring-greeting-cards-pack-of-12"
           }
         }
       },
