@@ -108,45 +108,81 @@
         "space_below": 30
       }
     },
-             "cca9ec8d-c4d9-4c07-8688-4d25d741e016": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/SFH-Library-01.png",
-              "image_width": "50",
-              "subtitle": "start from here",
-              "title": "This Devotional is for you if...",
-              "text": "<p>- You've been walking with Jesus for years, or you're just now starting your walk with Christ<br/>- You don’t know how to find your way back to him<br/>- You're struggling in your walk of faith<br/>- You want a reminder of God's character—you won't remember the cross if you don't remember his character. </p>",
-              "button_label": "choose this tool",
-              "button_link": "https://hosannarevival.com/products/start-from-here",
-              "layout": "left"
-            }
-          },
-          "3e93705d-b1ac-405a-ac41-43c97f0f2218": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/SFH-Library-02.png",
-              "image_width": "50",
-              "subtitle": "The Details",
-              "title": "Start From Here",
-              "text": "<p><strong>Topic: </strong>The true character of God and the honest journey towards understanding and knowing God in a richer way. <strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>\"I have learned I can always learn the “who” behind God. God is not far, or unknowable, he is someone to meet, and he longs for us to draw closer to him. So wherever you might be today, let’s start from here, together, and discover the character behind God.\"</p><p><em>- Ness Cannon, author</em></p>",
-              "button_label": "choose this tool",
-              "button_link": "https://hosannarevival.com/products/start-from-here",
-              "layout": "right"
-            }
-          },
-          "66fe7b3f-04df-4f63-8337-712aef41903a": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/SFH-Library-03.png",
-              "image_width": "50",
-              "subtitle": "Peek Inside",
-              "title": "The Devotional Structure",
-              "text": "<p><strong>Structure: </strong>6 week study </p><p><strong>Elements: </strong>Each week includes personal excerpts, weekly scripture readings, questions for reflection, and weekly \"Baby Steps\" for application. </p>",
-              "button_label": "choose this tool",
-              "button_link": "https://hosannarevival.com/products/start-from-here",
-              "layout": "left"
-            }
-          },
+    "cca9ec8d-c4d9-4c07-8688-4d25d741e016": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "start from here",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You've been walking with Jesus for years, or you're just now starting your walk with Christ<br/>- You don’t know how to find your way back to him<br/>- You're struggling in your walk of faith<br/>- You want a reminder of God's character—you won't remember the cross if you don't remember his character. </p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3e93705d-b1ac-405a-ac41-43c97f0f2218": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Details",
+        "title": "Start From Here",
+        "text": "<p><strong>Topic: </strong>The true character of God and the honest journey towards understanding and knowing God in a richer way. <strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages </p><p>\"I have learned I can always learn the “who” behind God. God is not far, or unknowable, he is someone to meet, and he longs for us to draw closer to him. So wherever you might be today, let’s start from here, together, and discover the character behind God.\"</p><p><em>- Ness Cannon, author</em></p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "66fe7b3f-04df-4f63-8337-712aef41903a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Peek Inside",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure: </strong>6 week study </p><p><strong>Elements: </strong>Each week includes personal excerpts, weekly scripture readings, questions for reflection, and weekly \"Baby Steps\" for application. </p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_rnVcQq": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "More from Ness",
+        "home_featured_products": "start-from-here",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
   },
   "order": [
     "main",
@@ -155,6 +191,7 @@
     "single_button_4mRV99",
     "cca9ec8d-c4d9-4c07-8688-4d25d741e016",
     "3e93705d-b1ac-405a-ac41-43c97f0f2218",
-    "66fe7b3f-04df-4f63-8337-712aef41903a"
+    "66fe7b3f-04df-4f63-8337-712aef41903a",
+    "featured_collection_rnVcQq"
   ]
 }
