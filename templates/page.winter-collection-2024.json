@@ -123,7 +123,53 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
+      }
+    },
+    "image_row_CNhFMK": {
+      "type": "image-row",
+      "blocks": {
+        "image_110": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-02_959efd07-3988-45b6-8e5c-1c4ae6158ca5.png",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://collections/beautiful-bibles"
+          }
+        },
+        "image_111": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-01.png",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://collections/notebooks"
+          }
+        },
+        "image_112": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-03.png",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://collections/one-thing-i-ask"
+          }
+        }
+      },
+      "block_order": [
+        "image_110",
+        "image_111",
+        "image_112"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
       }
     },
     "text_and_image_Yh9cNV": {
@@ -147,57 +193,131 @@
         "lazyload_images": true
       }
     },
-    "image_row_CNhFMK": {
-      "type": "image-row",
-"blocks": {
-  "image_110": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-02_959efd07-3988-45b6-8e5c-1c4ae6158ca5.png",
-      "caption": "",
-      "link": "shopify://collections/beautiful-bibles"
-    }
-  },
-  "image_111": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-01.png",
-      "caption": "",
-      "link": "shopify://collections/notebooks"
-    }
-  },
-  "image_112": {
-    "type": "image",
-    "settings": {
-      "enable_image": true,
-      "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-03.png",
-      "caption": "",
-      "link": "shopify://collections/one-thing-i-ask"
-    }
-  },
-  "image_113": {
-    "type": "image",
-    "settings": {
-      "enable_image": false,
-      "image": "",
-      "caption": "",
-      "link": ""
-    }
-  }
-},
+    "rich_text_W93Rri": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ckVMti": {
+          "type": "heading",
+          "settings": {
+            "title": "Choose your NLT Compact Bibles"
+          }
+        },
+        "text_4zi7mj": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Take the beauty of Scripture with you wherever you go with our new NLT Compact Bibles. These beautiful Bibles are included in our 2024 Winter Collection.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
       "block_order": [
-        "image_110",
-        "image_111",
-        "image_112",
-        "image_113"
+        "heading_ckVMti",
+        "text_4zi7mj"
       ],
       "settings": {
-        "title": "",
         "align_text": "center",
-        "enable_spacing": true,
-        "enable_zoom": false
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_yQpiQz": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NLT COMPACT BIBLES",
+        "home_featured_products": "nlt-compact-bibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_KkwPiq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9XLEt7": {
+          "type": "heading",
+          "settings": {
+            "title": "Tune your heart to the truth of Psalm 23"
+          }
+        },
+        "text_CQyQJh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>The Scripture that inspired this collection, found on our Dublin CSB Bible.</em><br/></p><p></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 5
+          }
+        },
+        "text_jTG4pd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He leads me in paths of righteousness for his name's sake. Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows. Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.”</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9XLEt7",
+        "text_CQyQJh",
+        "text_jTG4pd"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_nMLnw7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tVcxNQ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "shopify://collections/winter-2024-collection",
+            "link_text": "Shop 2024 Winter Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-157.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_tVcxNQ"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -208,7 +328,11 @@
     "slideshow_fKC7bk",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
+    "image_row_CNhFMK",
     "text_and_image_Yh9cNV",
-    "image_row_CNhFMK"
+    "rich_text_W93Rri",
+    "featured_collection_yQpiQz",
+    "rich_text_KkwPiq",
+    "slideshow_nMLnw7"
   ]
 }
