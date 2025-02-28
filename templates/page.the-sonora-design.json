@@ -122,6 +122,45 @@
         "space_below": 75
       }
     },
+              "text_and_image_ywCKzJ": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-314.jpg",
+              "image_width":  "50",
+              "subtitle": "",
+              "title": "The Sonora NLT Compact Bible",
+              "text": "<p>Our Sonora design made its debut as an NLT Compact Bible. <a href=\"https://hosannarevival.com/pages/compact-bible\">Our compact Bibles</a> are the perfect addition to your set of intentional tools. Bring this Bible with you anywhere you go—whether it’s church, a Bible study, or running errands—where its small size can easily fit into your busy and beautiful life. The back of this Bible features the beloved phrase “worthy of it all.” As you read through Scripture may the character of our Father prove to be worthy of it all and would this belief overflow from your heart.</p>",
+              "button_label": "Shop the Sonora NLT Compact Bible",
+              "button_link": "shopify://products/nlt-compact-bible-sonora-theme",
+              "layout": "left"
+            }
+          },
+          "text_and_image_7hfDkP": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-752_1.jpg",
+              "image_width":  "50",
+              "subtitle": "",
+              "title": "The Sonora ESV Study Bible",
+              "text": "<p>We’ve paired our beautiful Sonora design with the beloved ESV Study Bible. For years, the ESV Study Bible has been an invaluable resource for people all over the world. Nearly one hundred reputable biblical scholars and theologians from nine different countries contributed to this incredible work. With beautiful full-color maps, charts, articles, and more, this Study Bible has been designed to help you understand the Bible in a deeper way. The back of this Bible features <a href=\"https://ref.ly/Jer%2029.13;esv?t=biblia\">Jeremiah 29:13</a>, “You will seek me and find me when you seek me with all your heart.” As you use this Study Bible to seek our heavenly Father, may your heart continuously surrender to his perfect character and love for you.</p>",
+              "button_label": "Shop the Sonora ESV Study Bible",
+              "button_link": "shopify://products/esv-study-bible-sonora-theme",
+              "layout": "right"
+            }
+          },
+          "text_and_image_UbR9AG": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-177.jpg",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "The Sonora Notebook",
+              "text": "<p>We’ve made the Sonora design into a beautiful notebook. Hosanna Revival Notebooks are the perfect companion to your Hosanna Revival Bible. Made with high-quality materials, these beautiful notebooks are built to last. This notebook is perfect for journaling, Bible study, sermon notes, and more. The front of this notebook features a portion of <a href=\"https://ref.ly/Matt%206.10;esv?t=biblia\">Matthew 6:10</a>, the powerful verse in the Lord’s Prayer containing, “On Earth as it is in heaven,” which encourages us to invite our heavenly Father into every moment on Earth.</p>",
+              "button_label": "Shop the Sonora Notebook",
+              "button_link": "shopify://products/hosanna-revival-notebook-sonora-theme",
+              "layout": "left"
+            }
+          },
     "featured_collection_Weh9pJ": {
       "type": "featured-collection",
       "settings": {
@@ -187,6 +226,9 @@
     "slideshow_G3j6ig",
     "rich_text_G3aeLQ",
     "rich_text_nCFAU4",
+    "text_and_image_ywCKzJ",
+    "text_and_image_7hfDkP",
+    "text_and_image_UbR9AG",
     "featured_collection_Weh9pJ",
     "slideshow_jV7zcP",
     "featured_collection_DFMG3i"
