@@ -118,12 +118,55 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+              "text_and_image_VwGLrE": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/the-Christmas-Story-01_1.png",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "",
+              "text": "<p>The opening line of John’s Gospel sends us straight back to the very beginning of time. It’s as if John is saying the time had finally arrived for things to return to the beauty—the <em>tov</em>—that once was. Now is the moment when God, who made the world and called it good, would step back in to return the world to good again.</p><p>And how would this creation finally be restored? How would the world be put to rights? The same way God created the world. Through his words. </p><p>Do you remember how God created the world with nothing but his words? John now introduces us to that Word. The Word who was with God. The Word who was God. The Word who was with him in the beginning and who will be with him in the end. He was and is the first Word spoken over creation, <em>“Let there be light.”</em> </p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+           "text_and_image_MEUntQ": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/the-Christmas-Story-02.png",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "",
+              "text": "<p>He is the light breaking into the darkness, and there would be nothing the darkness could do to stop him! This bright and brilliant Word would stream in like the dawn on a new day. And for those dwelling in the shadowlands of death—hope had finally arrived in the person and presence of Jesus the Christ. </p><p><em>And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.</em> </p><p>The Word became flesh.<br/>The Invisible became visible. </p><p>The God who dug his hands into the earth to create flesh and blood was now putting on that same flesh and blood. It was a messy, dirty, and lavish display of God’s perfect love upon this messy, dirty world that God was coming to redeem. </p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+          "text_and_image_96L3ab": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/the-Christmas-Story-03.png",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "",
+              "text": "<p>So one night in the little town of Bethlehem, hidden away in a small stable, the Word became flesh. Contrary to some popular Christmas songs, the night Jesus was born would not have been a silent night. All would not have been calm, and all would not have been bright. It would be a night filled with the stench of animals, and the cries of birth pains as Mary delivered this promised rescuer onto a dirt floor now covered in blood. </p><p>No one would have chosen to have a child there. No one, except for God. </p><p></p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
     "slideshow_C87KdU",
     "rich_text_xEXAkg",
-    "rich_text_aKFBNA"
+    "rich_text_aKFBNA",
+"text_and_image_VwGLrE",
+    "text_and_image_MEUntQ",
+    "text_and_image_96L3ab"
+    
   ]
 }
