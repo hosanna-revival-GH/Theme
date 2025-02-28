@@ -24,16 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Restore My Soul",
+            "title": "A Hosanna Revival Christmas",
             "title_size": 72,
-            "subheading": "A collection for the weary and worn",
-            "link": "shopify://collections/winter-2023-collection",
-            "link_text": "Explore Winter Collection",
+            "subheading": "The Winter 2023 Catalog",
+            "link": "shopify://collections/winter-2023-catalog",
+            "link_text": "shop the catalog",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0004_adf208b0-bc93-45f5-babc-88765093c73e.jpg",
+            "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0002.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -55,23 +55,33 @@
     "rich_text_DmP6Mz": {
       "type": "rich-text",
       "blocks": {
+        "text_86W6z6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>immerse yourself in a</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 5
+          }
+        },
         "heading_Ydqhx7": {
           "type": "heading",
           "settings": {
-            "title": "Return to Beauty"
+            "title": "Hosanna Revival Christmas"
           }
         },
         "text_3zHriD": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>“Restore my soul” is the heart’s cry behind this collection as God’s Word breaks fresh ground in our hearts through beauty. The muted blue tones and mauve accents carry a sense of peace throughout the collection, calling our hearts to seek restoration within these pages. This winter, let the beauty of Scripture stir your heart again. Your intentional tool awaits.</p>",
+            "text": "<p>This winter, you’re invited into the world of a Hosanna Revival Christmas—where truth finds its home in your heart, where intentional gifting leads those near to you nearer to our Maker, and where the artful collecting of beauty stirs up a hope that revival for your weary soul is here at last.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
+        "text_86W6z6",
         "heading_Ydqhx7",
         "text_3zHriD"
       ],
@@ -87,102 +97,15 @@
         "space_below": 75
       }
     },
-    "text_columns_R4Nbnc": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_103": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/marloicon.png",
-            "image_mask": "none",
-            "image_width": 200,
-            "title": "New Tools to Revive you",
-            "text": "<p>Welcome to our Winter Collection which features 10 new tools: our ESV Study Bible Iceland, Large Print Bible Victoria, three new journaling Bibles, a beloved Versailles Prayer Journal, and four new notebooks.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_104": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/MarloOpen.png",
-            "image_mask": "none",
-            "image_width": 200,
-            "title": "Intentional Interior Layouts",
-            "text": "<p>Whether engaging with Scripture through the journaling margins on our Bibles or interacting with our 5-Year Prayer Journal, each tool in this collection is designed with intentional functionality.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_105": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/beautiful-bible-painting-hosanna-revival.png",
-            "image_mask": "none",
-            "image_width": 200,
-            "title": "Beautiful Cover Designs",
-            "text": "<p>When designing our new collections, our founder and artist Katie crafts a line of beautiful new designs to reflect the coming season. Choose the one that stirs your soul to beauty.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_103",
-        "text_block_104",
-        "text_block_105"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
     "single_button_gTw6gN": {
       "type": "single-button",
       "settings": {
-        "button_text": "Explore the Collection",
-        "button_link": "shopify://collections/winter-2023-collection",
+        "button_text": "Shop the Catalog",
+        "button_link": "shopify://collections/winter-2023-catalog",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
         "space_below": 60
-      }
-    },
-    "featured_collection_Efqjbq": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "winter-2023-collection",
-        "per_row": 5,
-        "rows": 2,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
-    "single-image-1597333252753": {
-      "type": "single-image",
-      "blocks": {
-        "image_block_4dUgKd": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/winter-collection-homepage-polaroid.png",
-            "image_link": "",
-            "image_width": 500,
-            "space_above": 0,
-            "space_below": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_block_4dUgKd"
-      ],
-      "settings": {
-        "section_title": "Featured Images"
       }
     },
     "rich_text_6iTkUe": {
@@ -191,14 +114,14 @@
         "heading_ehC7CW": {
           "type": "heading",
           "settings": {
-            "title": "Find Beauty Here"
+            "title": "How to bring beauty home this Christmas"
           }
         },
         "text_dyrxk9": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Avenues to Restore Your Soul this Fall</em></p>",
+            "text": "<p><em>through little elements of intentionality that lead your soul to truth as featured in our catalog</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -283,31 +206,82 @@
         "lazyload_images": true
       }
     },
+    "rich_text_t3mtD7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_jMcAmp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Ready to bring beauty home this season?</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 5
+          }
+        },
+        "heading_LdThpW": {
+          "type": "heading",
+          "settings": {
+            "title": "Shop the catalog"
+          }
+        }
+      },
+      "block_order": [
+        "text_jMcAmp",
+        "heading_LdThpW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 35
+      }
+    },
+    "featured_collection_Efqjbq": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "winter-2023-catalog",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "single-image-1597333252753": {
+      "type": "single-image",
+      "blocks": {
+        "image_block_7BAXie": {
+          "type": "image_block",
+          "settings": {
+            "image_link": "",
+            "image_width": 300,
+            "space_above": 50,
+            "space_below": 50
+          }
+        }
+      },
+      "block_order": [
+        "image_block_7BAXie"
+      ],
+      "settings": {
+        "section_title": "Featured Images"
+      }
+    },
     "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed": {
       "type": "single-button",
       "settings": {
-        "button_text": "Begin with Beauty",
-        "button_link": "shopify://collections/winter-2023-collection",
+        "button_text": "Bring Beauty Home",
+        "button_link": "shopify://collections/winter-2023-catalog",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 0,
         "space_below": 60
-      }
-    },
-    "hero_video_cnMrUE": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Shop the Collection",
-        "link": "shopify://collections/winter-2023-collection",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/fab0763603234ee9a5b5871cf74f1cf4.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
       }
     }
   },
@@ -315,15 +289,14 @@
     "main",
     "slideshow_ddaQre",
     "rich_text_DmP6Mz",
-    "text_columns_R4Nbnc",
     "single_button_gTw6gN",
-    "featured_collection_Efqjbq",
-    "single-image-1597333252753",
     "rich_text_6iTkUe",
     "35694ac9-45b4-4fbe-91fd-0d1d41c65a9e",
     "17acf5bb-1ef0-4d29-8fb8-459f1a97f3f5",
     "d9013c9c-df36-42b5-a455-a05651ac7f04",
-    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed",
-    "hero_video_cnMrUE"
+    "rich_text_t3mtD7",
+    "featured_collection_Efqjbq",
+    "single-image-1597333252753",
+    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed"
   ]
 }
