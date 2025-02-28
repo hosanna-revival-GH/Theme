@@ -79,7 +79,7 @@
     "show_breadcrumbs": false,
     "winter_mode": "false",
     "num_snowflakes": 40,
-    "gravity": 0.5,
+    "gravity": 0.6,
     "breadcrumb": false,
     "checkout_accent_color": "#111111",
     "checkout_body_background_color": "#ffffff",
