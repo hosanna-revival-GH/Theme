@@ -164,17 +164,17 @@
         "divider": false
       }
     },
-        "single-image-1597333252753": {
+    "single-image-1597333252753": {
       "type": "single-image",
       "blocks": {
         "image_block_4dUgKd": {
           "type": "image_block",
           "settings": {
-            "image":  "shopify://shop_images/winter-collection-homepage-polaroid.png",
+            "image": "shopify://shop_images/winter-collection-homepage-polaroid.png",
             "image_link": "",
             "image_width": 500,
-            "space_above": 150,
-            "space_below": 100
+            "space_above": 0,
+            "space_below": 0
           }
         }
       },
@@ -183,6 +183,41 @@
       ],
       "settings": {
         "section_title": "Featured Images"
+      }
+    },
+    "rich_text_6iTkUe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ehC7CW": {
+          "type": "heading",
+          "settings": {
+            "title": "Find Beauty Here"
+          }
+        },
+        "text_dyrxk9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Avenues to Restore Your Soul this Fall</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ehC7CW",
+        "text_dyrxk9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 15,
+        "space_below": 75
       }
     },
     "hero_video_cnMrUE": {
@@ -209,7 +244,8 @@
     "text_columns_R4Nbnc",
     "single_button_gTw6gN",
     "featured_collection_Efqjbq",
-     "single-image-1597333252753",
+    "single-image-1597333252753",
+    "rich_text_6iTkUe",
     "hero_video_cnMrUE"
   ]
 }
