@@ -20,14 +20,14 @@
     "hero_video_t6tAei": {
       "type": "hero-video",
       "settings": {
-        "title": "",
+        "title": "Yet",
         "title_size": 80,
-        "subheading": "a devotional on suffering and grief",
+        "subheading": "The Promise in Habakkuk for Those in Transition",
         "link_text": "Watch the Trailer",
-        "link": "https://www.youtube.com/watch?v=BUa-74W8kh0",
+        "link": "https://www.youtube.com/watch?v=kwgqqER2TZ8",
         "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=BUa-74W8kh0",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=kwgqqER2TZ8",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -39,14 +39,14 @@
         "heading_NXLRhB": {
           "type": "heading",
           "settings": {
-            "title": "Songs for the Suffering"
+            "title": "YET: The Promise in Habakkuk for Those in Transition"
           }
         },
         "text_nYYYYq": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>In <em>Songs for the Suffering</em>, you will journey through the questions, fears, and doubts that come when suffering strikes, and discover how the Word of God doesn’t ignore your pain, but rather, invites you to come to the table <em>with</em> it. </p>",
+            "text": "<p><em>YET </em>is a 6-week devotional for people in seasons of transition who are walking through the in-between. This tool will encourage you that God is available daily, active in your life, and longing to hear your voice.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -55,7 +55,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>In this 6-week study, readers will journey through the scary emotions that come with profound suffering, even the ones we don’t want to admit. This study will give women a safe place to land when they find themselves questioning the reality of God in the midst of their pain, and offer up real hope when “everything happens for a reason” just doesn’t cut it. While Scripture may feel like the last place you want to bring your pain, <em>Songs for the Suffering</em> will show us just how much of a home the Word is for those in darkness.</p>",
+            "text": "<p>In our devotional, <em>YET</em>, you will learn how the prophet Habakkuk begins by taking his complaints and honest heart to God and ends in rejoicing — not because of his circumstance — but because of the character and love of God. Author Erica Boden wrote <em>YET</em> for those who are walking between two jobs, or two zip codes, or two seemingly different lives. The same God is faithful, true, and good in this season of transition. Our prayer for you is that you will find that God’s heart and love for you is consistent in every season, and that very information will fuel you daily and free you forever.</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -82,7 +82,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Buy Now",
-        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+        "button_link": "https://hosannarevival.com/cart/add?id=41009382785202&quantity=1",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
