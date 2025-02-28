@@ -11,13 +11,184 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_G3j6ig": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xjcPzr": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "The Sonora Design",
+            "title_size": 80,
+            "subheading": "Choose from an NLT Compact Bible, ESV Study Bible, or Notebook as you engage in Scripture",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-368_2c8563da-cb10-457c-b1c8-01d4d4db8d75.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_xjcPzr"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_G3aeLQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EBrq93": {
+          "type": "heading",
+          "settings": {
+            "title": "Welcome to the Sonora Design"
+          }
+        },
+        "text_DjezwD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The Sonora design is inspired by the Sonora region of Mexico. As grown in the Sonoran Desert, poppies and peonies delicately adorn the front and back of this design. May they remind you of God’s intricate design, and would the truth that he created you with the same intricacy settle into your identity—<strong>you are more precious to him than every flower in the field. </strong></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_EBrq93",
+        "text_DjezwD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#e8e8e1",
+        "color_text": "#527997",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_nCFAU4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XfVyyc": {
+          "type": "heading",
+          "settings": {
+            "title": "Discover the tool for you"
+          }
+        },
+        "text_MW94q9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Our mission is to excite people about engaging in Scripture by creating beautiful and intentional tools for their life. </em><em><strong>We pray you will find a tool that fulfills this mission, and encourages your time with the Lord. </strong></em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_XfVyyc",
+        "text_MW94q9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#527997",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_Weh9pJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop the Sonora Collection",
+        "home_featured_products": "the-sonora-collection",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "slideshow_jV7zcP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_htrLa9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-610.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_htrLa9"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_DFMG3i": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore other Bibles from us",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_G3j6ig",
+    "rich_text_G3aeLQ",
+    "rich_text_nCFAU4",
+    "featured_collection_Weh9pJ",
+    "slideshow_jV7zcP",
+    "featured_collection_DFMG3i"
   ]
 }
