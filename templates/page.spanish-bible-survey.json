@@ -11,13 +11,120 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_TVRQX7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gN8n6J": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "The Spanish Bible Survey",
+            "title_size": 72,
+            "subheading": "Encuesta para Biblias en Español",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link",
+            "link_text": "Take the Survey",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Web-Spanish-Bible-Survey-Header-03.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_gN8n6J"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_pAXzYJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_d8x4jB": {
+          "type": "heading",
+          "settings": {
+            "title": "¿Quieres una Biblia hermosa en Español?"
+          }
+        },
+        "text_Ujw3tr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>¡Ayúdanos a crear hermosas Biblias en Español llenando esta encuesta!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_d8x4jB",
+        "text_Ujw3tr"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#717057",
+        "color_text": "#e8e8e1",
+        "space_above": 35,
+        "space_below": 35
+      }
+    },
+    "image_row_RYP8Kz": {
+      "type": "image-row",
+      "blocks": {
+        "image_eJrhm4": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_3dLr3H": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_eJrhm4",
+        "image_3dLr3H"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_TVRQX7",
+    "rich_text_pAXzYJ",
+    "image_row_RYP8Kz"
   ]
 }
