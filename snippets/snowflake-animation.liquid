@@ -1,12 +1,16 @@
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const winterModeEnabled = true; // Assuming true, but replace with your logic or setting
-  const minSnowflakeSize = 0.6; // Customize as needed
-  const maxSnowflakeSize = 1.4; // Customize as needed
-  const gravity = 0.7; // Customize as needed
-  const snowflakeColors = ["#ffffff", "#f5fbff", "#e7f5ff"]; // Customize as needed
-  const numSnowflakes = 40; // Customize as needed
-  const snowflakeType = "❄"; // Customize as needed
+  const winterModeEnabled = {{ settings.winter_mode | json }};
+  const numSnowflakes = {{ settings.num_snowflakes | json }};
+  const minSnowflakeSize = {{ settings.min_snowflake_size | json }};
+  const maxSnowflakeSize = {{ settings.max_snowflake_size | json }};
+  const snowflakeType = {{ settings.snowflake_type | json }};
+  const snowflakeColors = [
+    {{ settings.snowflake_color_1 | json }},
+    {{ settings.snowflake_color_2 | json }},
+    {{ settings.snowflake_color_3 | json }}
+  ];
+  const gravity = {{ settings.gravity | json }};
 
   if (winterModeEnabled) {
     // Clear previous snowflakes
