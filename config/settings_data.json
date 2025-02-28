@@ -77,7 +77,7 @@
     "social_youtube_link": "https://www.youtube.com/@HosannaRevival",
     "favicon": "shopify://shop_images/ring-logo-2x_c99b3db3-eb61-478e-b491-a9567c17c8ee.jpg",
     "show_breadcrumbs": false,
-    "winter_mode": "true",
+    "winter_mode": "false",
     "num_snowflakes": 30,
     "gravity": 0.5,
     "breadcrumb": false,
