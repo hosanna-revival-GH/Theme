@@ -107,12 +107,76 @@
         "full_width": true,
         "space_around": false
       }
-    }
+    },
+             "a2e2d0e5-7c56-49e1-b684-c10ae0393507": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/HR-Warehouse-Sale-Invite.png",
+              "image_width": "50",
+              "subtitle": "Warehouse Sale",
+              "title": "The Invitation",
+              "text": "<p><strong>When: </strong>Saturday, December 14th</p><p><strong>Time: </strong>9 am - 1 pm</p><p><strong>Where: </strong>Hosanna Revival Headquarters —<br/>4 Kovach Drive, Suite 430<br/>Cincinnati, OH 45215</p><p><strong>Who: </strong>Anyone! This event is open to all, whether you're local to Cincinnati or willing to road-trip—come one come all! <em>*Please Note: No cash, card only.</em></p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "cf50b4a4-9841-4e04-8175-ccfab05b1db5": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Warehouse-Sale-Hosanna-Revival--21_a38e7f28-a4bb-4262-a939-7eb23f963478.jpg",
+              "image_width": "50",
+              "subtitle": "Warehouse Sale",
+              "title": "The Details",
+              "text": "<p><strong>What: </strong>Need any last-minute gifts? Our Christmas Warehouse Pop-Up Sale is December 14th from 9 am-1 pm! Choose beautiful and intentional gifts from both our new tools (with an extra special sale!) and our extremely-discounted Bumped and Bruised section (rumored to feature some out-of-stock items!). This is the one time a year our doors open to the public so come shop and hang out with us!</p><p><strong>Perks: </strong>First 100 customers through the door will be getting exclusive freebies! Plus, we have several local businesses showing up to provide coffee and sweet treats for sale to enjoy as you shop.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+    "rich_text_RApGKk1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VMxB8X": {
+          "type": "heading",
+          "settings": {
+            "title": "What’s New This Year?",
+          }
+        },
+        "text_EtARan": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>One of our favorite local businesses Mom ’n Em will be serving coffee, and this year we’ll be hosting the sale in our actual warehouse for more space!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_VMxB8X",
+        "text_EtARan"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
   },
   "order": [
     "main",
     "slideshow_fA4yGh",
     "rich_text_RApGKk",
-    "174073143101a27e76"
+    "174073143101a27e76",
+     "a2e2d0e5-7c56-49e1-b684-c10ae0393507",
+    "cf50b4a4-9841-4e04-8175-ccfab05b1db5",
+    "rich_text_RApGKk1"
   ]
 }
