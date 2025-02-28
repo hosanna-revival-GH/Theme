@@ -119,24 +119,25 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Spring-Collection-Landing-01.png",
+            "image_mask": "none",
             "image_width": 650,
             "title": "Spring Notebooks",
             "text": "<p>Our spring 2024 notebooks are the perfect companions to your Hosanna Revival Bible. Let the Lord tend to your heart this spring through a beautiful new tool.</p>",
             "button_label": "shop spring notebooks",
-            "button_link": "shopify://collections/notebooks",
+            "button_link": "shopify://collections/notebooks"
           }
         },
         "text_block_104": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image":"shopify://shop_images/Spring-Collection-Landing-02.png",
+            "image": "shopify://shop_images/Spring-Collection-Landing-02.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Spring Bibles",
             "text": "<p>Our 2024 spring Bibles feature fresh, vibrant, florals that bring to mind flourishing and renewal to mirror God's work in your heart through these tools. </p>",
             "button_label": "shop spring bibles",
-            "button_link": "shopify://collections/beautiful-bibles",
+            "button_link": "shopify://collections/beautiful-bibles"
           }
         },
         "text_block_105": {
@@ -148,7 +149,7 @@
             "image_width": 650,
             "title": "Spring Greeting Cards",
             "text": "<p>This stunning collection of 12  greeting cards is one of our favorite tools to love your community well. Featuring watercolor floral details and a Scripture interior, this is the perfect set to gift intentionally. </p>",
-            "button_label":"shop greeting cards",
+            "button_label": "shop greeting cards",
             "button_link": "https://hosannarevival.com/products/spring-greeting-cards-pack-of-12"
           }
         }
@@ -174,14 +175,13 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/collections/winter-2023-collection",
-            "link_text": "",
+            "link": "https://hosannarevival.com/collections/spring-2024-collection",
+            "link_text": "shop spring collection 2024",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/winter-collection-homepage-polaroid.png",
-            "image_mobile": "shopify://shop_images/winter-collection-homepage-polaroid-mobile.png",
+            "image": "shopify://shop_images/Spring-Collection-Landing.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -199,22 +199,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    },
-    "hero_video_cnMrUE": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Shop Winter Collection 2023",
-        "link": "https://hosannarevival.com/collections/winter-2023-collection",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/fab0763603234ee9a5b5871cf74f1cf4.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
     }
   },
   "order": [
@@ -224,7 +208,6 @@
     "featured_collection_PQw3jB",
     "single_button_gTw6gN",
     "text_columns_R4Nbnc",
-    "slideshow_RbFy4F",
-    "hero_video_cnMrUE"
+    "slideshow_RbFy4F"
   ]
 }
