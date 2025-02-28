@@ -105,7 +105,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 20
+        "space_below": 60
       }
     },
     "hero_video_G33MRx": {
@@ -308,56 +308,80 @@
         "lazyload_images": true
       }
     },
-             "e5aa9ae5-7e6d-4f99-b0be-9524b54a4b35": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/UnfoldLibraryImages_03.png",
-              "image_width": "50",
-              "subtitle": "Study Tools",
-              "title": "New to the Bible?",
-              "text": "<p>Are you new to reading the Bible? If you’re picking up this devotional yet feel unable to navigate God’s Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
-              "button_label": "Browse bible Toolkit",
-              "button_link": "shopify://pages/bible-toolkit",
-              "layout": "left"
-            }
-          },
-          "657b8777-d51f-410a-8341-dfe3d238f883": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/UnfoldLibraryImages_04.png",
-              "image_width": "50",
-              "subtitle": "Meet The Author",
-              "title": "Liesl Lamprecht",
-              "text": "<p>Liesl is a daughter, sister, and friend who lives in Cape Town, South Africa. After completing her BA (Hons) in Linguistics, she started working in the magazine publishing industry. As an aficionado of antiquity, you’ll likely hear her geek out about the latest archaeological discoveries of the first century AD. When she’s not marveling at God’s grace and goodness, succumbing to her sweet tooth, or showing you her impressive collection of sea urchin shells, you’ll find her enjoying the beautiful Cape with her loved ones. <em>Unfold: Discerning the Thoughts and Intentions of the Heart</em> is Liesl’s first published devotional.</p>",
-              "button_label": "FOLLOW LIESL",
-              "button_link": "https://www.instagram.com/liesllamprecht/",
-              "layout": "right"
-            }
-          },
-          "b2ab1411-a116-4f5d-99fa-a83105a2b5de": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/UnfoldLibraryImages_05.png",
-              "image_width": "50",
-              "subtitle": "Meet the Author",
-              "title": "Liesl's Story",
-              "text": "<p>Growing up in the church, I wholeheartedly believed that Jesus died on the cross for my sins and that salvation is a gift that cannot be earned. But when I continued reading the rest of the New Testament’s teachings on the renewed, holy life of a Christian, I felt crushed by how impossible it all seemed. Instead of basking in God’s endless grace and new mercies each morning, I allowed my heart to wallow in sin and condemnation, eventually straying from his ways. You see, the problem was that I thought I had to <em>keep </em>my salvation by my own efforts. My relationship with God was dependent on my performance. Thankfully, Jesus shone his light on my heart during my university years, reigniting my faith and fervor with a renewed realization of the meaning of grace. </p><p>I wrote <em>Unfold </em>with the prayer that it would be a tool to help others channel the heavy feelings of conviction into a hopeful repentance as we rejoice at the foot of the cross. This devotional will show you that you don’t have to strive to live a life that is pleasing to God to keep your place as his child. It is exactly because you are in Christ that you can seek God daily, confess your sins, and trust that he will continue to wash and renew your heart even if you keep messing up. God doesn’t need you to be perfect. He just wants you and your heart.</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "fb6feee0-01ff-41a6-8f2e-31a8dcf411b5": {
-            "type": "single-button",
-            "settings": {
-              "alignment": "center",
-              "space_above": 30,
-              "space_below": 30,
-              "button_text": "BUY NOW",
-              "button_link": "https://hosannarevival.com/products/devotional-unfold",
-              "button_size": "huge"
-            }
-          },
+    "e5aa9ae5-7e6d-4f99-b0be-9524b54a4b35": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/UnfoldLibraryImages_03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Study Tools",
+        "title": "New to the Bible?",
+        "text": "<p>Are you new to reading the Bible? If you’re picking up this devotional yet feel unable to navigate God’s Word, our Bible Toolkit is for you! Through this guide, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
+        "button_label": "Browse bible Toolkit",
+        "button_link": "shopify://pages/bible-toolkit",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "657b8777-d51f-410a-8341-dfe3d238f883": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/UnfoldLibraryImages_04.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet The Author",
+        "title": "Liesl Lamprecht",
+        "text": "<p>Liesl is a daughter, sister, and friend who lives in Cape Town, South Africa. After completing her BA (Hons) in Linguistics, she started working in the magazine publishing industry. As an aficionado of antiquity, you’ll likely hear her geek out about the latest archaeological discoveries of the first century AD. When she’s not marveling at God’s grace and goodness, succumbing to her sweet tooth, or showing you her impressive collection of sea urchin shells, you’ll find her enjoying the beautiful Cape with her loved ones. <em>Unfold: Discerning the Thoughts and Intentions of the Heart</em> is Liesl’s first published devotional.</p>",
+        "button_label": "FOLLOW LIESL",
+        "button_link": "https://www.instagram.com/liesllamprecht/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b2ab1411-a116-4f5d-99fa-a83105a2b5de": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/UnfoldLibraryImages_05.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Liesl's Story",
+        "text": "<p>Growing up in the church, I wholeheartedly believed that Jesus died on the cross for my sins and that salvation is a gift that cannot be earned. But when I continued reading the rest of the New Testament’s teachings on the renewed, holy life of a Christian, I felt crushed by how impossible it all seemed. Instead of basking in God’s endless grace and new mercies each morning, I allowed my heart to wallow in sin and condemnation, eventually straying from his ways. You see, the problem was that I thought I had to <em>keep </em>my salvation by my own efforts. My relationship with God was dependent on my performance. Thankfully, Jesus shone his light on my heart during my university years, reigniting my faith and fervor with a renewed realization of the meaning of grace. </p><p>I wrote <em>Unfold </em>with the prayer that it would be a tool to help others channel the heavy feelings of conviction into a hopeful repentance as we rejoice at the foot of the cross. This devotional will show you that you don’t have to strive to live a life that is pleasing to God to keep your place as his child. It is exactly because you are in Christ that you can seek God daily, confess your sins, and trust that he will continue to wash and renew your heart even if you keep messing up. God doesn’t need you to be perfect. He just wants you and your heart.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fb6feee0-01ff-41a6-8f2e-31a8dcf411b5": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/devotional-unfold",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60
+      }
+    },
     "slideshow_z6NbVJ": {
       "type": "slideshow",
       "blocks": {
@@ -396,7 +420,7 @@
     "single_button_Rfnjtg": {
       "type": "single-button",
       "settings": {
-        "button_text": "Devotional Library Page",
+        "button_text": "BACK TO DEVOTIONAL LIBRARY",
         "button_link": "shopify://collections/devotionals",
         "button_size": "huge",
         "alignment": "center",
@@ -430,13 +454,12 @@
     "26dff4a0-2465-4417-9f19-0bc81213168c",
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7",
     "slideshow_BYN9tp",
-        "e5aa9ae5-7e6d-4f99-b0be-9524b54a4b35",
+    "e5aa9ae5-7e6d-4f99-b0be-9524b54a4b35",
     "657b8777-d51f-410a-8341-dfe3d238f883",
     "b2ab1411-a116-4f5d-99fa-a83105a2b5de",
     "fb6feee0-01ff-41a6-8f2e-31a8dcf411b5",
     "slideshow_z6NbVJ",
     "single_button_Rfnjtg",
-    "featured_collection_RrWRqU",
-
+    "featured_collection_RrWRqU"
   ]
 }
