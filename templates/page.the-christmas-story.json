@@ -263,22 +263,149 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 0,
-        "space_below": 75
+        "space_below": 0
       }
     },
-             "text_and_image_aBfEN4": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/the-Christmas-Story-04.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "",
-              "text": "<p>There, tucked in the straw and swaddled in cloth was the living collision of heaven and earth. He was the Son of God and the Seed of Eve. He was the promise of Abraham and the descendant of King David. He was the one the world had been waiting for, the only one who could ever bring heaven and earth back together as one. </p><p>Looking back on this moment, the makers of the modern calendar, the <em>keepers of time</em>, would adjust the calendar to call this year 0. Why did they do this? Why did time restart here?</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
+    "text_and_image_aBfEN4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/the-Christmas-Story-04.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>There, tucked in the straw and swaddled in cloth was the living collision of heaven and earth. He was the Son of God and the Seed of Eve. He was the promise of Abraham and the descendant of King David. He was the one the world had been waiting for, the only one who could ever bring heaven and earth back together as one. </p><p>Looking back on this moment, the makers of the modern calendar, the <em>keepers of time</em>, would adjust the calendar to call this year 0. Why did they do this? Why did time restart here?</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_xjm9mq": {
+      "type": "rich-text",
+      "blocks": {
+        "text_XQQz9G": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em> Because they saw this moment, this day, this turning point, for what it truly was: </em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 15
+          }
+        }
+      },
+      "block_order": [
+        "text_XQQz9G"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "rich_text_wVUPBH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_PP6Chg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h1><em> a return to a new beginning. The day the world began again.</em></h1>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_PP6Chg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#475a41",
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "rich_text_zHDgLT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_XG7qkc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>This beautiful retelling is from <a href=\"/pages/the-story-circle-devotional\" title=\"The Story Circle Devotional\"><em>The Story Circle</em></a> by Joshua Lenon.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 15
+          }
+        }
+      },
+      "block_order": [
+        "text_XG7qkc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "slideshow_Lnbzrq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_TTWm3K": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/beautiful-bibles",
+            "link_text": "Finish the Story",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/5769-08.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_TTWm3K"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
@@ -291,6 +418,10 @@
     "text_and_image_96L3ab",
     "rich_text_BxLcV8",
     "rich_text_6tjcnR",
-    "text_and_image_aBfEN4"
+    "text_and_image_aBfEN4",
+    "rich_text_xjm9mq",
+    "rich_text_wVUPBH",
+    "rich_text_zHDgLT",
+    "slideshow_Lnbzrq"
   ]
 }
