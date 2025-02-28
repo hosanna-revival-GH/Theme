@@ -24,15 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
+            "title": "SPRING COLLECTION 2023",
+            "title_size": 72,
+            "subheading": "Beautiful Bibles to gift intentionally this spring!",
+            "link": "https://www.hosannarevival.com/collections/spring-2023-collection",
+            "link_text": "SHOP SPRING COLLECTION 2023",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-2023-Beautiful-Bibles-aframe-Hosanna-Revival-036.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -44,11 +45,11 @@
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich_text_CpaiyG": {
@@ -57,14 +58,14 @@
         "heading_Pj8EEV": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "YOUR HOME FOR BEAUTIFUL BIBLES"
           }
         },
         "text_bpmeAq": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This Spring, give the gift of beauty to someone in your space to revive their excitement about engaging in God’s Word.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -86,7 +87,7 @@
         "space_below": 75
       }
     },
-        "text_columns_QrRQrx": {
+    "text_columns_QrRQrx": {
       "type": "text-columns",
       "blocks": {
         "text_block_59": {
@@ -140,11 +141,129 @@
         "divider": false
       }
     },
+    "single_button_HByUiF": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "GIFT INTENTIONALLY",
+        "button_link": "https://www.hosannarevival.com/collections/spring-2023-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "text_columns_CF9NRF": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_j9B3Je": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_jLyRGA": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_8Umkag": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_j9B3Je",
+        "text_block_jLyRGA",
+        "text_block_8Umkag"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "image_row_Ug9yLh": {
+      "type": "image-row",
+      "blocks": {
+        "image_CWbX4t": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_WQeehJ": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_dbxiTz": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_4T4Ej3": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CWbX4t",
+        "image_WQeehJ",
+        "image_dbxiTz",
+        "image_4T4Ej3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    }
   },
   "order": [
     "main",
     "slideshow_jMdTW6",
     "rich_text_CpaiyG",
-"text_columns_QrRQrx"
+    "text_columns_QrRQrx",
+    "single_button_HByUiF",
+    "text_columns_CF9NRF",
+    "image_row_Ug9yLh"
   ]
 }
