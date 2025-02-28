@@ -1028,5 +1028,104 @@
         "label": "t:settings_schema.extras.settings.disable_animations.label"
       }
     ]
-  }
+  },
+  {
+    "name": "Hosanna Revival Custom",
+    "settings": [
+     {
+        "type": "header",
+        "content": "Snowflake Animation"
+      },
+      {
+        "type": "select",
+        "label": "Winter Mode",
+        "id": "winter_mode",
+        "default": "true",
+        "options": [
+          {
+            "value": "true",
+            "label": "On"
+          },
+          {
+            "value": "false",
+            "label": "Off"
+          }
+        ]
+      },
+      {
+        "type": "range",
+        "label": "Number of Snowflakes",
+        "id": "num_snowflakes",
+        "default": 50,
+        "min": 10,
+        "max": 200,
+        "step": 10
+      },
+      {
+        "type": "range",
+        "label": "Minimum Snowflake Size",
+        "id": "min_snowflake_size",
+        "default": 0.6,
+        "min": 0.1,
+        "max": 2,
+        "step": 0.1
+      },
+      {
+        "type": "range",
+        "label": "Maximum Snowflake Size",
+        "id": "max_snowflake_size",
+        "default": 1.4,
+        "min": 0.1,
+        "max": 2,
+        "step": 0.1
+      },
+      {
+        "type": "select",
+        "label": "Snowflake Type",
+        "id": "snowflake_type",
+        "default": "❄",
+        "options": [
+          {
+            "value": "❄",
+            "label": "❄"
+          },
+          {
+            "value": "❅",
+            "label": "❅"
+          },
+          {
+            "value": "❆",
+            "label": "❆"
+          }
+        ]
+      },
+      {
+        "type": "color",
+        "label": "Color 1",
+        "id": "snowflake_color_1",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "label": "Color 2",
+        "id": "snowflake_color_2",
+        "default": "#f5fbff"
+      },
+      {
+        "type": "color",
+        "label": "Color 3",
+        "id": "snowflake_color_3",
+        "default": "#e7f5ff"
+      },
+      {
+        "type": "range",
+        "label": "Gravity",
+        "id": "gravity",
+        "default": 1,
+        "min": 0.5,
+        "max": 5,
+        "step": 0.5
+      }
+    ]
+  },  
 ]
