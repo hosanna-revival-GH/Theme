@@ -1,0 +1,329 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_ddaQre": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WhkAwk": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Restore My Soul",
+            "title_size": 72,
+            "subheading": "A collection for the weary and worn",
+            "link": "shopify://collections/winter-2023-collection",
+            "link_text": "Explore Winter Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0004_adf208b0-bc93-45f5-babc-88765093c73e.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_WhkAwk"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_DmP6Mz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ydqhx7": {
+          "type": "heading",
+          "settings": {
+            "title": "Return to Beauty"
+          }
+        },
+        "text_3zHriD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>“Restore my soul” is the heart’s cry behind this collection as God’s Word breaks fresh ground in our hearts through beauty. The muted blue tones and mauve accents carry a sense of peace throughout the collection, calling our hearts to seek restoration within these pages. This winter, let the beauty of Scripture stir your heart again. Your intentional tool awaits.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ydqhx7",
+        "text_3zHriD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_R4Nbnc": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_103": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/marloicon.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "New Tools to Revive you",
+            "text": "<p>Welcome to our Winter Collection which features 10 new tools: our ESV Study Bible Iceland, Large Print Bible Victoria, three new journaling Bibles, a beloved Versailles Prayer Journal, and four new notebooks.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_104": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/MarloOpen.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Intentional Interior Layouts",
+            "text": "<p>Whether engaging with Scripture through the journaling margins on our Bibles or interacting with our 5-Year Prayer Journal, each tool in this collection is designed with intentional functionality.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_105": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/beautiful-bible-painting-hosanna-revival.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Beautiful Cover Designs",
+            "text": "<p>When designing our new collections, our founder and artist Katie crafts a line of beautiful new designs to reflect the coming season. Choose the one that stirs your soul to beauty.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_103",
+        "text_block_104",
+        "text_block_105"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_button_gTw6gN": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Explore the Collection",
+        "button_link": "shopify://collections/winter-2023-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 60
+      }
+    },
+    "featured_collection_Efqjbq": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "winter-2023-collection",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "single-image-1597333252753": {
+      "type": "single-image",
+      "blocks": {
+        "image_block_4dUgKd": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/winter-collection-homepage-polaroid.png",
+            "image_link": "",
+            "image_width": 500,
+            "space_above": 0,
+            "space_below": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_block_4dUgKd"
+      ],
+      "settings": {
+        "section_title": "Featured Images"
+      }
+    },
+    "rich_text_6iTkUe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ehC7CW": {
+          "type": "heading",
+          "settings": {
+            "title": "Find Beauty Here"
+          }
+        },
+        "text_dyrxk9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Avenues to Restore Your Soul this Fall</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ehC7CW",
+        "text_dyrxk9"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 15,
+        "space_below": 15
+      }
+    },
+    "35694ac9-45b4-4fbe-91fd-0d1d41c65a9e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0160.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Restoration through Scripture",
+        "text": "<p>What stirs your soul to beauty? We believe beauty is inherent in God’s Word, but so often we struggle with a lack of desire to read Scripture. When the cares of this world cloud the beauty of truth, we forget to turn to the Scriptures that once stirred our souls. This fall, we want to invite you to return to beauty. What if a <a href=\"https://hosannarevival.com/collections/beautiful-bibles\" title=\"Beautiful Bibles\">beautiful new Bible</a> would excite you to crack open the cover to the beauty within?</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "17acf5bb-1ef0-4d29-8fb8-459f1a97f3f5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0689.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Refreshment through Note-Taking",
+        "text": "<p>When your soul finds studying Scripture to be monotonous, engaging with God’s Word in a new way can bring deep refreshment. This fall, re-envision what your time in the Word can look like. Perhaps you can try a new type of note-taking within the margins of your <a href=\"https://hosannarevival.com/collections/beautiful-bibles\" title=\"Beautiful Bibles\">journaling Bible</a>. Or choose a new <a href=\"https://hosannarevival.com/collections/notebooks\" title=\"Notebooks\">beautiful notebook</a> to excite you to begin fresh. Or explore what it looks like to engage with Scripture through creativity — our free, month-long email series <a href=\"https://hosannarevival.com/pages/an-invitation-to-create-pleasant-places\" title=\"An Invitation to Create — Pleasant Places\"><em>Pleasant Places</em></a> is designed to spark your inspiration here! Whatever route you choose, know that true refreshment is found within the pages of God’s Word.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d9013c9c-df36-42b5-a455-a05651ac7f04": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0409.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Revival through Prayer",
+        "text": "<p>When our souls are stirred to the beauty of Scripture, our hearts grow in a desire to engage with God’s work here and now. It is through prayer that we can connect with God through a tangible relationship as well as seek to see his will done here on earth as it is in heaven. This fall, begin documenting God’s faithfulness through prayer. Recording your prayers day by day can lead you to an awe of God as they reveal the grand story God is weaving. If you need a tool to do this, our heirloom <a href=\"https://hosannarevival.com/pages/your-one-thing-i-ask-journal\" title=\"Your One Thing I Ask Journal\">5-Year Prayer Journal</a> is designed to collect this record of God’s faithfulness in one place. Feel your heart revive as God meets you here today.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin with Beauty",
+        "button_link": "shopify://collections/winter-2023-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60
+      }
+    },
+    "hero_video_cnMrUE": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Shop the Collection",
+        "link": "shopify://collections/winter-2023-collection",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/fab0763603234ee9a5b5871cf74f1cf4.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_ddaQre",
+    "rich_text_DmP6Mz",
+    "text_columns_R4Nbnc",
+    "single_button_gTw6gN",
+    "featured_collection_Efqjbq",
+    "single-image-1597333252753",
+    "rich_text_6iTkUe",
+    "35694ac9-45b4-4fbe-91fd-0d1d41c65a9e",
+    "17acf5bb-1ef0-4d29-8fb8-459f1a97f3f5",
+    "d9013c9c-df36-42b5-a455-a05651ac7f04",
+    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed",
+    "hero_video_cnMrUE"
+  ]
+}
