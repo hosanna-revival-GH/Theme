@@ -92,40 +92,64 @@
     "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
       "type": "text-and-image",
       "settings": {
-              "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Sunset-P-001.jpg",
-              "image_width": "50",
-              "subtitle": "Yet",
-              "title": "For the one who is...",
-              "text": "<p><em>moving apartments | graduating from school | entering into college | beginning a new job | overwhelmed with change | living alone for the first time | starting a new relationship | going back to in-person activities | walking through a break-up | becoming a mother or father | mourning a friendship | ministering overseas | grieving a loved one | getting married | changing careers | switching cities | wondering why | feeling like everything is changing but you...</em></p><p>this devotional is for you.</p><p></p>",
-              "button_label": "Start Today",
-              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
-              "layout": "left"
+        "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Sunset-P-001.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Yet",
+        "title": "For the one who is...",
+        "text": "<p><em>moving apartments | graduating from school | entering into college | beginning a new job | overwhelmed with change | living alone for the first time | starting a new relationship | going back to in-person activities | walking through a break-up | becoming a mother or father | mourning a friendship | ministering overseas | grieving a loved one | getting married | changing careers | switching cities | wondering why | feeling like everything is changing but you...</em></p><p>this devotional is for you.</p><p></p>",
+        "button_label": "Start Today",
+        "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "46251244-472e-41e9-aed5-42bc423cc417": {
       "type": "text-and-image",
       "settings": {
-             "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Sunset-P-003.jpg",
-              "image_width": "50",
-              "subtitle": "The Details",
-              "title": "YET: The Promise in Habakkuk for Those in Transition",
-              "text": "<p><strong>Topic</strong>: seasons of transition<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: Habakkuk</p><p>\"When our identity is rooted in anything other than God, we set ourselves up for failure. Transitions often expose what we value or an area where we have sought our identity.”<br/><em>—Author Erica Boden</em></p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
-              "layout": "right"
+        "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Sunset-P-003.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Details",
+        "title": "YET: The Promise in Habakkuk for Those in Transition",
+        "text": "<p><strong>Topic</strong>: seasons of transition<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: Habakkuk</p><p>\"When our identity is rooted in anything other than God, we set ourselves up for failure. Transitions often expose what we value or an area where we have sought our identity.”<br/><em>—Author Erica Boden</em></p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "ddf6ef08-82bf-4630-b014-2c2df13532e4": {
       "type": "text-and-image",
       "settings": {
-              "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Styled-P-035.jpg",
-              "image_width": "50",
-              "subtitle": "PEEK INSIDE",
-              "title": "The Devotional Structure",
-              "text": "<p><strong>Structure</strong>: daily reading and interactive questions<br/><strong>Elements</strong>: Assessment, study, reflection, thanksgiving and prayer sections each week </p><p>Each day will walk through part of Habakkuk with supplemental scripture, include guided questions, and allow you to reflect while sharing gratitude. <em>Yet</em> allows you to experience your daily life <em>with </em>Jesus, while giving you a safe space to celebrate, mourn, cheer, and grieve. </p><p></p>",
-              "button_label": "Choose this Tool",
-              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
-              "layout": "left"
+        "image": "shopify://shop_images/Yet-Devotional-Habakkuk-for-Season-of-Transition-Styled-P-035.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "PEEK INSIDE",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure</strong>: daily reading and interactive questions<br/><strong>Elements</strong>: Assessment, study, reflection, thanksgiving and prayer sections each week </p><p>Each day will walk through part of Habakkuk with supplemental scripture, include guided questions, and allow you to reflect while sharing gratitude. <em>Yet</em> allows you to experience your daily life <em>with </em>Jesus, while giving you a safe space to celebrate, mourn, cheer, and grieve. </p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "image_row_8mdiP7": {
@@ -138,7 +162,7 @@
             "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-039_4e9c2f4d-bce2-47bf-a8dd-f13211e9492b.jpg",
             "image_width": 650,
             "caption": "",
-            "link":  "shopify://products/devotional-yet-study-in-habakkuk",
+            "link": "shopify://products/devotional-yet-study-in-habakkuk"
           }
         },
         "image_34": {
@@ -148,7 +172,7 @@
             "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-037.jpg",
             "image_width": 650,
             "caption": "",
-            "link":"shopify://products/devotional-yet-study-in-habakkuk",
+            "link": "shopify://products/devotional-yet-study-in-habakkuk"
           }
         },
         "image_35": {
@@ -158,7 +182,7 @@
             "image": "shopify://shop_images/Yet-Devotional-Habakkuk-Seasons-of-Transition-Camper-041.jpg",
             "image_width": 650,
             "caption": "",
-            "link": "shopify://products/devotional-yet-study-in-habakkuk",
+            "link": "shopify://products/devotional-yet-study-in-habakkuk"
           }
         }
       },
@@ -185,7 +209,7 @@
             "image_width": 650,
             "title": "Highly Recommend",
             "text": "<p>I highly encourage you to pick up this devo if you are in between big life changes or see things happening around you and asking the Lord, \"What about me?\"</p><p>—Rachel—</p>",
-              "button_label": "",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -197,8 +221,7 @@
             "image_width": 650,
             "title": "Beautiful and Encouraging!",
             "text": "<p>It's like talking to a friend through seasons of transition, but a solid friend who will point you toward Scripture and ask you the deep questions.</p><p>—Margot—</p>",
-              "button_label": "",
-
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -214,19 +237,19 @@
             "button_link": ""
           }
         },
-                "text_block_40": {
+        "text_block_40": {
           "type": "text_block",
           "settings": {
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
             "title": "Anointed",
-              "text": "<p>I have never been a devotional person; however, this is not a typical devotional. This is a hands-on guide consistently pointing toward biblical truth.</p><p>—Hannah—</p>",
-              "button_label": "",
+            "text": "<p>I have never been a devotional person; however, this is not a typical devotional. This is a hands-on guide consistently pointing toward biblical truth.</p><p>—Hannah—</p>",
+            "button_label": "",
             "button_link": ""
           }
         },
-                "text_block_41": {
+        "text_block_41": {
           "type": "text_block",
           "settings": {
             "enable_image": false,
@@ -234,11 +257,11 @@
             "image_width": 650,
             "title": "Transformational",
             "text": "<p> I’ve historically struggled with changes both big and small… I have absolutely loved this study. It has completely transformed the way I view my relationship with God in seasons of transitions.</p><p>—Emily—</p>",
-              "button_label": "",
+            "button_label": "",
             "button_link": ""
           }
         },
-                "text_block_42": {
+        "text_block_42": {
           "type": "text_block",
           "settings": {
             "enable_image": false,
@@ -246,7 +269,7 @@
             "image_width": 650,
             "title": "Gracious and Truthful",
             "text": "<p>A friend and I are going through this devotional together. It’s such a great devotional— relatable, truth-full, convicting, and also gracious. Would recommend to others!</p><p>—Jordan—</p>",
-              "button_label": "",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -255,7 +278,7 @@
         "text_block_37",
         "text_block_38",
         "text_block_39",
-             "text_block_40",
+        "text_block_40",
         "text_block_41",
         "text_block_42"
       ],
@@ -268,386 +291,14 @@
     "26dff4a0-2465-4417-9f19-0bc81213168c": {
       "type": "text-and-image",
       "settings": {
-              "image": "shopify://shop_images/Yet-Devotional-Camper-015b.jpg",
-              "image_width": "50",
-              "subtitle": "YET",
-              "title": "A Note from author Erica Boden",
-              "text": "<p>I wrote <em>YET</em> for you. I wrote it because I know what it’s like to feel like your world is swirling, to maybe even disqualify your situation, to wonder what God wants for you. I wrote <em>YET</em> because I found that God is consistent throughout scripture and history and, well, I wish a book like it existed when I walked through my transition. </p><p>I’m so happy you have the chance to order my new devotional, <em>YET</em>—for your friend, for your brother or your neighbor, or for you...</p><p></p>",
-              "button_label": "",
-              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
-              "layout": "left"
-      }
-    },
-    "b4180caf-4c34-41af-87d4-1a8b5ba89ab7": {
-      "type": "single-button",
-      "settings": {
-         "space_above": 30,
-              "space_below": 30,
-              "button_text": "Buy Yet",
-              "button_link": "https://hosannarevival.com/cart/add?id=41009382785202&quantity=1",
-              "button_size": "huge"
-      }
-    },
-    "hero_video_EHR8Xy": {
-      "type": "hero-video",
-      "settings": {
-        "title": "STUDY TOOLS",
-        "title_size": 80,
-        "subheading":"For \"Yet\" with author Erica Boden",
-        "link_text": "Watch This Video",
-        "link": "https://youtu.be/hK4I6h8dETc",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-left",
-        "video_url": "https://youtu.be/hK4I6h8dETc",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "rich_text_w4KFaR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_R4T9GQ": {
-          "type": "heading",
-          "settings": {
-            "title": "Join the Chorus"
-          }
-        },
-        "text_rmqHpQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>In the process of creating the video trailer for <em>Songs for the Suffering</em>, our team had the opportunity to work with six incredible women who have walked through substantial and diverse suffering. They represent you as you bring your unique story of suffering to this devotional. Here are their stories:</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_R4T9GQ",
-        "text_rmqHpQ"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 35
-      }
-    },
-    "combined-content-section-3": {
-      "type": "toolkit",
-      "blocks": {
-        "4254f18b-a76d-4a78-96b3-99d6f4b576d8": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "left",
-            "image": "shopify://shop_images/Amber-Portrait-Songs-for-the-Suffering-Hosanna-Revival-017.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Amber Granville",
-            "text": "<p>“When I was a sophomore in college I found out that my mom had cancer for the first time. I was leading Younglife and had really started diving into my major at the time, so it hit at a time when things were going well for me. I and my other family members helped to care for my mom during this time. There was a brief respite from the struggle in which she went into remission for about a year. However, in April of 2016 we found out that the cancer had come back...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNdVjXxBSuV/",
-            "button_label": "Read on",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "b379e23f-3839-4406-8c69-679bb9979e01": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "right",
-            "image": "shopify://shop_images/Brandice-Portrait-Songs-for-the-Suffering-Hosanna-Revival-013.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Brandice Rosander",
-            "text": "<p>“I married my husband in 2015 and gained 2 step-daughters that had lost their Mom to cancer years before, which was an unimaginable loss for them and a challenging position for me to step into.  Shortly after our wedding, we went through a very tough year—my dad had a massive heart attack that resulted in him being in the hospital for months...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNaxYZgBsEs/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "12bac305-f31f-46da-ae1c-0ef25f28cf04": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "left",
-            "image": "shopify://shop_images/Brauns-Portrait-Songs-for-the-Suffering-Hosanna-Revival-077.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Mindy Braun",
-            "text": "<p>“March 10, 2019 our daughter Marlow Jane was born. We were expecting a healthy, perfect baby. However from the moment my labor started we realized things were not as expected. Marlow was struggling to thrive and was whisked away to the NICU within minutes after birth. No one could nail down what was wrong...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNf0fB-hOnK/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "right",
-            "image": "shopify://shop_images/Christine-Portrait-Songs-for-the-Suffering-Hosanna-Revival-015.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Christine Toth",
-            "text": "<p>“When my husband and I began trying for a family we encountered a lot of struggles. I was diagnosed with endometriosis and what we were facing caused some concerns for my doctor. We were referred to an infertility specialist who quickly became not just a part of a story, but a part of our family. Dr. NeeOo Chin worked with us to start our family and, after suffering multiple losses, enduring multiple surgeries, and ultimately not having a baby after a few years, we felt defeated...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNYBC4QBjz1/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "2a4c1c10-3e63-4e2f-93b4-26beb165b204": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "left",
-            "image": "shopify://shop_images/Holly-Portrait-Songs-for-the-Suffering-Hosanna-Revival-002.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Holly Gibson",
-            "text": "<p>“On February 20, 2019, our 10 year old daughter, Sable, passed away suddenly from complications of the flu and strep throat. Sable was the youngest of our six kids—a healthy, happy little girl. Sable started feeling sick on a Saturday and I took her to the Little Clinic on Sunday. They told me she was viral but didn’t check for flu or strep. She still wasn’t any better by Tuesday so I took her to the pediatrician where they diagnosed her with flu and strep...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNia5j9hYop/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "bef74641-e7e6-48e2-90a9-a184412bf8a7": {
-          "type": "text_and_image",
-          "settings": {
-            "layout": "right",
-            "image": "shopify://shop_images/Julia-Portrait-Songs-for-the-Suffering-Hosanna-Revival-P-001.jpg",
-            "image_width": 50,
-            "subtitle": "The Chorus",
-            "title": "Julia Allspaw",
-            "text": "<p>“In 2019, I traveled to one of the best hospitals in the country looking for answers to my near constant chronic pain. After getting my first migraine at age 12, I spent years with a crippling diagnosis that had now impacted every part of my life—from work, to relationships, and even the ability to get out of bed. In that same year, I suffered from a miscarriage and shortly after, heard the heartbreaking news of my mother’s cancer returning...”</p><p></p>",
-            "button_link": "https://www.instagram.com/p/CNknQYfhqmM/",
-            "button_label": "Read On",
-            "align_text": "left",
-            "lazyload_images": true
-          }
-        },
-        "901df118-4ac3-4282-abae-d4bac8b0e6e9": {
-          "type": "single-button",
-          "settings": {
-            "secondary": false,
-            "button_text": "Choose this Tool",
-            "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
-            "button_size": "huge",
-            "alignment": "center",
-            "space_above": 30,
-            "space_below": 30
-          }
-        }
-      },
-      "block_order": [
-        "4254f18b-a76d-4a78-96b3-99d6f4b576d8",
-        "b379e23f-3839-4406-8c69-679bb9979e01",
-        "12bac305-f31f-46da-ae1c-0ef25f28cf04",
-        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b",
-        "2a4c1c10-3e63-4e2f-93b4-26beb165b204",
-        "bef74641-e7e6-48e2-90a9-a184412bf8a7",
-        "901df118-4ac3-4282-abae-d4bac8b0e6e9"
-      ],
-      "settings": {
-        "space_above": 0,
-        "space_below": 0
-      }
-    },
-    "slideshow_BYN9tp": {
-      "type": "slideshow",
-      "blocks": {
-        "image_WrgANV": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Study Tools",
-            "title_size": 72,
-            "subheading": "For “Songs for the Suffering” with author Julia Allspaw",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-002.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_WrgANV"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
-    "rich_text_x8FDHK": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ckixxN": {
-          "type": "heading",
-          "settings": {
-            "title": "Devotional Study Tools"
-          }
-        },
-        "text_A9xQqK": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>To learn more about this study, we created a series of brief videos with author Julia Allspaw to uncover the truth about suffering from inside the pages of God’s Word. Watch these videos below.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_ckixxN",
-        "text_A9xQqK"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "text_columns_BQGmdg": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_40": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-006.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "To the One Suffering",
-            "text": "<p>If you are walking through a season of suffering right now—this is for YOU.</p>",
-            "button_label": "Watch this Video",
-            "button_link": "https://www.instagram.com/tv/CN2wKzMBuwy/"
-          }
-        },
-        "text_block_41": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-004.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "To the one walking alongside the suffering",
-            "text": "<p>Whether you have a friend struggling with infertility, a family member with a scary diagnosis, or a loved one struggling with anxiety, walking with the suffering is a profound work...</p>",
-            "button_label": "Watch This Video",
-            "button_link": "https://www.instagram.com/tv/COK_mTeB0Gq/"
-          }
-        },
-        "text_block_42": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-005.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Why \"songs\" for the suffering",
-            "text": "<p>When you think about your suffering, the last thing that comes to mind would be a “song”.</p>",
-            "button_label": "Watch This Video",
-            "button_link": "https://www.instagram.com/tv/COS45PzhTim/"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_40",
-        "text_block_41",
-        "text_block_42"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "text_columns_zRBtLr": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_43": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-033.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "How to Use this Devotional",
-            "text": "<p>This one minute video shows the author Julia’s intention for this study and a little peek at the inside of this beautiful tool.</p>",
-            "button_label": "watch this video",
-            "button_link": "https://www.instagram.com/tv/COBQs1ZhZsL/"
-          }
-        },
-        "text_block_44": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/SFTS-Group-Study.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Is this a Group Study?",
-            "text": "<p>If you’re suffering or walking through suffering with someone near to you—this study will be a safe and slow space to work through your pain—alongside of someone you love.</p>",
-            "button_label": "watch this video",
-            "button_link": "https://www.instagram.com/tv/COkb4yjBdKw/"
-          }
-        },
-        "text_block_45": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-026.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "WHEN",
-            "text": "<p>If you have questions about how to hold your specific experience of suffering up to the light of Scripture, browse our online publication <em>WHEN</em>. These brief articles gently touch upon a diverse range of topics and provide further guidance.</p>",
-            "button_label": "Browse WHEN",
-            "button_link": "https://hosannarevival.blog/"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_43",
-        "text_block_44",
-        "text_block_45"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Julia-Allspaw-Author-Headshot-Hosanna-Revival-P-012.jpg",
+        "image": "shopify://shop_images/Yet-Devotional-Camper-015b.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "Meet the Author",
-        "title": "Julia Allspaw",
-        "text": "<p>Julia Allspaw is a former special education teacher turned stay-at-home mom, who spends her days playing with her 9-month-old son, Leon. As an Enneagram 9, Julia loves staying home, reading whatever she can get her hands on, and traveling with her husband, Jake. When she’s not picking up toys or changing diapers, you can find her writing about suffering, hope, and finding God in the midst of profound pain.</p>",
-        "button_label": "Follow Julia",
-        "button_link": "https://www.instagram.com/julia_allspaw/",
+        "subtitle": "YET",
+        "title": "A Note from author Erica Boden",
+        "text": "<p>I wrote <em>YET</em> for you. I wrote it because I know what it’s like to feel like your world is swirling, to maybe even disqualify your situation, to wonder what God wants for you. I wrote <em>YET</em> because I found that God is consistent throughout scripture and history and, well, I wish a book like it existed when I walked through my transition. </p><p>I’m so happy you have the chance to order my new devotional, <em>YET</em>—for your friend, for your brother or your neighbor, or for you...</p><p></p>",
+        "button_label": "",
+        "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -656,6 +307,33 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "b4180caf-4c34-41af-87d4-1a8b5ba89ab7": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Yet",
+        "button_link": "https://hosannarevival.com/cart/add?id=41009382785202&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "hero_video_EHR8Xy": {
+      "type": "hero-video",
+      "settings": {
+        "title": "STUDY TOOLS",
+        "title_size": 80,
+        "subheading": "For \"Yet\" with author Erica Boden",
+        "link_text": "Watch This Video",
+        "link": "https://youtu.be/hK4I6h8dETc",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-left",
+        "video_url": "https://youtu.be/hK4I6h8dETc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "slideshow_z6NbVJ": {
@@ -730,13 +408,6 @@
     "26dff4a0-2465-4417-9f19-0bc81213168c",
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7",
     "hero_video_EHR8Xy",
-    "rich_text_w4KFaR",
-    "combined-content-section-3",
-    "slideshow_BYN9tp",
-    "rich_text_x8FDHK",
-    "text_columns_BQGmdg",
-    "text_columns_zRBtLr",
-    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a",
     "slideshow_z6NbVJ",
     "single_button_Rfnjtg",
     "featured_collection_RrWRqU"
