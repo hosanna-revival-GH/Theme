@@ -11,13 +11,108 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_KcwLHM": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CByDhR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "START FROM HERE",
+            "title_size": 72,
+            "subheading": "A Guide to Meeting God Wherever You Are",
+            "link": "https://hosannarevival.com/products/start-from-here",
+            "link_text": "Available Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Start-From-Here-Devotional-Coffeeshop-Ness-Cannon-Hosanna-Revival-005.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_CByDhR"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_EfBzdi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BFdefc": {
+          "type": "heading",
+          "settings": {
+            "title": "start from here"
+          }
+        },
+        "text_mBnwqV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Start From Here</em> is a 6-week devotional for those who feel distant from God and want to begin an honest journey to finding Jesus in a new way.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_mg3CXp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Walk with author Ness Cannon as she leads us through six weeks of study and asks us to “start from here.” Jesus reveals God’s character, his deep inner workings, and his motivations that drive him forward to love his children. Jesus weaves stories for us to grasp the things about God that only he knows so that we can see God in a new way. Through these stories, we discover what holds us back from living a life filled to the very brim with the goodness of God.</p><p>It doesn’t matter whether you have known Jesus for a minute or thirty years, there is more to find. Let’s uncover the God who Jesus knows so well and examine the thought patterns that live within us that stand in the way of knowing him the way Jesus does. Relying on the words and actions of Jesus, we will encounter God because the character of Jesus awakens us to who God is and who God says we are. Wherever you are, and wherever you feel like God is, let’s start from here. Let’s start with the beauty of Jesus’ character and find God again.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BFdefc",
+        "text_mBnwqV",
+        "text_mg3CXp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_4mRV99": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "buy now",
+        "button_link": "https://hosannarevival.com/products/start-from-here",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_KcwLHM",
+    "rich_text_EfBzdi",
+    "single_button_4mRV99"
   ]
 }
