@@ -91,6 +91,12 @@
     padding-top:{{ section.settings.space_above }}px;
     padding-bottom:{{ section.settings.space_below }}px;
   }
+  {% if section.settings.disable_section_margin %}
+    #shopify-section-{{ section.id }} {
+      margin-top:0;
+      margin-top:0;
+    }
+    {% endif %}}
 {% endstyle %}
 {% schema %}
 {
@@ -120,7 +126,13 @@
             "min": 0,
             "max": 75,
             "unit": "px"
-          } 
+          },
+            {
+          "type": "checkbox",
+          "id": "disable_section_margin",
+          "label": "Section margin disabled",
+          "default": false,
+        },
   ],
   "blocks": [
     {
