@@ -149,49 +149,49 @@
     },
     "image_row_CNhFMK": {
       "type": "image-row",
-      "blocks": {
-        "image_343zqW": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_mgKaTp": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_h7kdbj": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_6iPfJq": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_110": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-02_959efd07-3988-45b6-8e5c-1c4ae6158ca5.png",
+      "caption": "",
+      "link": "shopify://collections/beautiful-bibles"
+    }
+  },
+  "image_111": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-01.png",
+      "caption": "",
+      "link": "shopify://collections/notebooks"
+    }
+  },
+  "image_112": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-03.png",
+      "caption": "",
+      "link": "shopify://collections/one-thing-i-ask"
+    }
+  },
+  "image_113": {
+    "type": "image",
+    "settings": {
+      "enable_image": false,
+      "image": "",
+      "caption": "",
+      "link": ""
+    }
+  }
+},
       "block_order": [
-        "image_343zqW",
-        "image_mgKaTp",
-        "image_h7kdbj",
-        "image_6iPfJq"
+        "image_110",
+        "image_111",
+        "image_112",
+        "image_113"
       ],
       "settings": {
         "title": "",
