@@ -1,0 +1,433 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_iEDRpe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_iJwgqW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Desktop-01_1.png",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-01_1.png",
+            "parallax_direction": "left",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_iJwgqW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "slideshow_qBC6Gk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GwyCWR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Desktop-02_1.png",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-02_1.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_GwyCWR"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "rich_text_K9b8pU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bJXihJ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Dear Friend,</em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_UwKmAx": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We’re so excited for you to invest in a beautiful new tool! Our prayer is that you and your friend will embark on this journey together, using it to grow in your pursuit of the Lord in a meaningful way.</p><p>Following the Lord is a joy, but it’s even more fulfilling when you have a friend to walk alongside you. Sharing in both mourning and rejoicing, learning and deepening your understanding of who God is—that is a true blessing!</p><p>Below, you’ll find our tools and how you can use them. We’re thrilled for the path you’re on and hope you enjoy this gift of<br/> <strong>$10 off your purchase!</strong></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_wdxM3C": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Blessings,</em><br/><em>Hosanna Revival </em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_bJXihJ",
+        "text_UwKmAx",
+        "text_wdxM3C"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f4efe6",
+        "color_text": "#000000",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "rich_text_9c9xjY": {
+      "type": "rich-text",
+      "blocks": {
+        "text_fUYcND": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>How will you use your referral?</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_fUYcND"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b9a038",
+        "color_text": "#ffffff",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "text_columns_niCYLr": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_cpW7qj": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebooks",
+            "text": "<p>Take notes on what God is teaching you and share with your friend!</p>",
+            "button_label": "Choose your new notebook",
+            "button_link": "shopify://collections/notebooks"
+          }
+        },
+        "text_block_G4JpyE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Devotionals",
+            "text": "<p>Walk through a devotional together and discuss what you’re learning!</p>",
+            "button_label": "Choose your new devotional",
+            "button_link": "shopify://collections/devotionals"
+          }
+        },
+        "text_block_GKPyKJ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-52.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Bibles",
+            "text": "<p>Study a chapter of the Bible with a friend and share was revealed through Scripture! </p>",
+            "button_label": "Choose your new Bible",
+            "button_link": "shopify://collections/beautiful-bibles"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_cpW7qj",
+        "text_block_G4JpyE",
+        "text_block_GKPyKJ"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "featured_collection_nPPKkj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Get $10 off a 5-Year Prayer journal",
+        "home_featured_products": "one-thing-i-ask",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_yddw8g": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Get $10 off a compact bible",
+        "home_featured_products": "nlt-compact-bibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_Yq7zC4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop our entire collection",
+        "home_featured_products": "hosanna-revival-shop",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_4XjhGb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AdGGzw": {
+          "type": "heading",
+          "settings": {
+            "title": "Explore our free resources"
+          }
+        },
+        "text_mFkPJa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Interested in learning more about how to read the Bible, pray, or approach certain topics with a biblical perspective? Take a look at these free resources.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_AdGGzw",
+        "text_mFkPJa"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_ETAMMR": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_BjTqMP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Bible-Toolkit-Hosanna-Revival-Cover-01_1080x_png.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Learn where to begin when opening the Bible</p>",
+            "button_label": "Explore the toolkit",
+            "button_link": "shopify://pages/bible-toolkit"
+          }
+        },
+        "text_block_9aapUr": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Learn the power of prayer and where to start when it's hard to pray</p>",
+            "button_label": "Learn more about prayer",
+            "button_link": ""
+          }
+        },
+        "text_block_zRYdxm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/WHEN-site_1080x_jpg.webp",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Find an article on a practical, everyday topic that points you to Scripture</p>",
+            "button_label": "Find an article",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_BjTqMP",
+        "text_block_9aapUr",
+        "text_block_zRYdxm"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_GBtTJW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_atfGgx": {
+          "type": "heading",
+          "settings": {
+            "title": "Want to join in on spreading the word?"
+          }
+        },
+        "text_BikkxB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Consider someone to refer in your life!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_atfGgx",
+        "text_BikkxB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b9a038",
+        "color_text": "#ffffff",
+        "space_above": 50,
+        "space_below": 50
+      }
+    },
+    "slideshow_kxUQy8": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nU3bYN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "\"God's Word brings revival. We've seen it time and time again and we don't think he's done yet.\"",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-006.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_nU3bYN"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_iEDRpe",
+    "slideshow_qBC6Gk",
+    "main",
+    "rich_text_K9b8pU",
+    "rich_text_9c9xjY",
+    "text_columns_niCYLr",
+    "featured_collection_nPPKkj",
+    "featured_collection_yddw8g",
+    "featured_collection_Yq7zC4",
+    "rich_text_4XjhGb",
+    "text_columns_ETAMMR",
+    "rich_text_GBtTJW",
+    "slideshow_kxUQy8"
+  ]
+}
