@@ -283,6 +283,59 @@
         "space_above": 0,
         "space_below": 60
       }
+    },
+    "image_row_zfXED3": {
+      "type": "image-row",
+      "blocks": {
+        "image_eeCiT9": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_76JMCM": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_pPkBry": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_YXHgB9": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_eeCiT9",
+        "image_76JMCM",
+        "image_pPkBry",
+        "image_YXHgB9"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
     }
   },
   "order": [
@@ -297,6 +350,7 @@
     "rich_text_t3mtD7",
     "featured_collection_Efqjbq",
     "single-image-1597333252753",
-    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed"
+    "f1dc6ab8-cd0c-455e-8d3f-f2c14f9c32ed",
+    "image_row_zfXED3"
   ]
 }
