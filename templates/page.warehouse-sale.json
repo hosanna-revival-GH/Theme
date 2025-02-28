@@ -11,13 +11,108 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_fA4yGh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_RayW7f": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Warehouse \nPop-Up Sale",
+            "title_size": 80,
+            "subheading": "at Hosanna Revival",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Warehouse-Sale-Hosanna-Revival--61.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_RayW7f"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_RApGKk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VMxB8X": {
+          "type": "heading",
+          "settings": {
+            "title": "You’re Invited!"
+          }
+        },
+        "text_EtARan": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Join us at our in-person pop-up shop on Saturday, December 14th from 9 am - 1 pm for all your intentional gifting needs! Get the details below, and invite your friends.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_VMxB8X",
+        "text_EtARan"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "174073143101a27e76": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_dtqC9j": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Uk9vc9"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_dtqC9j"
+      ],
+      "custom_css": [
+        "div{background-color:#F7F0E8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_fA4yGh",
+    "rich_text_RApGKk",
+    "174073143101a27e76"
   ]
 }
