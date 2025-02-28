@@ -1,0 +1,60 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const winterModeEnabled = true; // Assuming true, but replace with your logic or setting
+  const minSnowflakeSize = 0.6; // Customize as needed
+  const maxSnowflakeSize = 1.4; // Customize as needed
+  const gravity = 0.7; // Customize as needed
+  const snowflakeColors = ["#ffffff", "#f5fbff", "#e7f5ff"]; // Customize as needed
+  const numSnowflakes = 40; // Customize as needed
+  const snowflakeType = "❄"; // Customize as needed
+
+  if (winterModeEnabled) {
+    // Clear previous snowflakes
+    document.querySelectorAll('.snowflakes').forEach(el => el.remove());
+
+    // Create snowflakes container
+    const snowflakesContainer = document.createElement('div');
+    snowflakesContainer.className = 'snowflakes';
+    document.body.appendChild(snowflakesContainer);
+
+    // Generate snowflakes
+    for (let i = 0; i < numSnowflakes; i++) {
+      const size = minSnowflakeSize + Math.random() * (maxSnowflakeSize - minSnowflakeSize);
+      const opacity = Math.random() * 0.7 + 0.3;
+      const posX = Math.random() * 100;
+      const fallDelay = Math.random() * 5000;
+      const fallDuration = (Math.random() + 0.5) * 10000 / gravity;
+      const randomColor = snowflakeColors[Math.floor(Math.random() * snowflakeColors.length)];
+
+      const flake = document.createElement('div');
+      flake.className = 'flake';
+      flake.innerHTML = snowflakeType;
+      flake.style.cssText = `
+        font-size: ${size}em;
+        left: ${posX}%;
+        opacity: ${opacity};
+        color: ${randomColor};
+        animation: fall ${fallDuration}ms linear ${fallDelay}ms infinite, rotate ${Math.random() > 0.5 ? 'normal' : 'reverse'} ${Math.random() * 20000 + 10000}ms infinite;
+        position: absolute;
+        top: -10px;
+        z-index: 9999;
+        pointer-events: none;
+        user-select: none;
+      `;
+      snowflakesContainer.appendChild(flake);
+    }
+  }
+});
+</script>
+<style>
+@keyframes fall {
+  0% { opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { top: 100%; opacity: 0; }
+}
+@keyframes rotate {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(360deg); }
+}
+</style>
