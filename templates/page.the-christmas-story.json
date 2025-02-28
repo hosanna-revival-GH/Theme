@@ -11,13 +11,119 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_C87KdU": {
+      "type": "slideshow",
+      "blocks": {
+        "image_qeG8cX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/the-Christmas-Story-header.png",
+            "image_mobile": "shopify://shop_images/the-Christmas-Story-mobile-header.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_qeG8cX"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_xEXAkg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4mGRCV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h5>Amid the Christmas chaos, it’s easy to lose sight of the beautiful arrival of our Savior. The greatest story of love and rescue can feel distant in the middle of all the busyness of shopping, sales, and wishlists. While these can bring a fleeting sense of happiness, they cannot compare to the glorious story of God’s relentless pursuit of saving us from our sin—the story brought to reality through Jesus’s birth.<br/></h5>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
+          }
+        },
+        "text_ACy6tA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h5><strong>The time is now to silence your mind in the midst of the chaos and ponder the miraculous birth of our holy rescuer, Jesus Christ. </strong></h5>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_4mGRCV",
+        "text_ACy6tA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_aKFBNA": {
+      "type": "rich-text",
+      "blocks": {
+        "text_96DQLN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Every great story has a rescue, does it not? There is always a moment when our hearts start to beat faster and our hope begins to rise as the tide is turned and the battle is won. </p><p>This, my friend, is that part of the story.</p><p>The story of rescue is the story of Jesus. He is the long-awaited salvation the world has been groaning for since the fall of humanity. He is the one who steps into this tragedy in which we have found ourselves living. He is the one who comes into our struggle to bring out all those lost, weary, and in need of rescue. He is the light of Isaiah that breaks into our darkness. </p><p><em>In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it. </em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_96DQLN"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_C87KdU",
+    "rich_text_xEXAkg",
+    "rich_text_aKFBNA"
   ]
 }
