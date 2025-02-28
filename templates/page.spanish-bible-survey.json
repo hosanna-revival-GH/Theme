@@ -277,28 +277,10 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
-        },
-        "image_Nh3jkw": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
-        "image_j8hLVa",
-        "image_Nh3jkw"
+        "image_j8hLVa"
       ],
       "settings": {
         "section_height": "550px",
