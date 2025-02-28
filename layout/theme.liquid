@@ -207,6 +207,8 @@
     }
   });
 </script>
-  {% render 'snowflake-animation' %}
+  {% if settings.winter_mode === true %}
+    {% render 'snowflake-animation' %}
+  {% endif %}
 </body>
 </html>
