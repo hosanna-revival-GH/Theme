@@ -125,7 +125,20 @@
         "space_above": 30,
         "space_below": 30
       }
-    }
+    },
+              "text_and_image_Yh9cNV": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-752.jpg",
+              "image_width": "50",
+              "subtitle": "Featuring a new ESV Study Bible",
+              "title": "The Sonora ESV Study Bible",
+              "text": "<p>We’ve paired our beautiful Sonora design with the beloved ESV Study Bible. For years, the ESV Study Bible has been an invaluable resource for people all over the world. Nearly one hundred reputable biblical scholars and theologians from nine different countries contributed to this incredible work. With beautiful full-color maps, charts, articles, and more, this Study Bible has been designed to help you understand the Bible in a deeper way. As you utilize this Study Bible to spend time with the Lord, may its floral design remind you of God’s intricacy, and would the truth that he created you with the same detail settle into your identity.</p>",
+              "button_label": "Shop the SOnora Study Bible",
+              "button_link": "shopify://products/esv-study-bible-sonora-theme",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -133,6 +146,7 @@
     "rich_text_ChdjdK",
     "slideshow_fKC7bk",
     "featured_collection_YcQbAb",
-    "single_button_jJhiGP"
+    "single_button_jJhiGP",
+    "text_and_image_Yh9cNV"
   ]
 }
