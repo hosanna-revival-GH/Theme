@@ -246,48 +246,48 @@
     },
     "text_columns_EKmBMD": {
       "type": "text-columns",
-      "blocks": {
-        "text_block_KQpnGK": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_FEj3HJ": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_EjK7ii": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
+ "blocks": {
+  "text_block_91": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "Gorgeous Bible",
+      "text": "<p>This Bible is absolutely stunning. Great quality and durable. It is the perfect size for travel/on the go. The font is easy to read despite it being a compact Bible, and I love how it has the words of Jesus in red!  </p><p><em><strong>Raquel on the Sonora NLT Compact Bible</strong></em></p>",
+      "button_label": "Shop the Sonora NLT Compact Bible",
+      "button_link": "shopify://products/nlt-compact-bible-sonora-theme"
+    }
+  },
+  "text_block_92": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "Sonora is my favorite",
+      "text": "<p>The Sonora is my favorite!! So glad they made the design available as a matching notebook.</p><p><em><strong>Jasmine on the Sonora Notebook</strong></em></p>",
+      "button_label": "Shop the Sonora Notebook",
+      "button_link": "shopify://products/hosanna-revival-notebook-sonora-theme"
+    }
+  },
+  "text_block_93": {
+    "type": "text_block",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/FiveStars.png",
+      "image_width": 100,
+      "title": "Stunning",
+      "text": "<p>This Bible is beautiful and really embodies the theme of rest. Overall I love the ESV study bible and I had to snag this cover because I was eyeing it when it was available as the compact NLT cover.</p><p><em><strong>Jasmine on the ESV Study Bible</strong></em></p>",
+      "button_label": "Shop the Sonora ESV Study Bible",
+      "button_link": "shopify://products/esv-study-bible-sonora-theme"
+    }
+  }
+},
       "block_order": [
-        "text_block_KQpnGK",
-        "text_block_FEj3HJ",
-        "text_block_EjK7ii"
+        "text_block_91",
+        "text_block_92",
+        "text_block_93"
       ],
       "settings": {
         "title": "",
