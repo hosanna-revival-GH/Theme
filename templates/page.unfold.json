@@ -1,0 +1,737 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "hero_video_t6tAei": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "a devotional on suffering and grief",
+        "link_text": "Watch the Trailer",
+        "link": "https://www.youtube.com/watch?v=BUa-74W8kh0",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=BUa-74W8kh0",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_Cia4fh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NXLRhB": {
+          "type": "heading",
+          "settings": {
+            "title": "Songs for the Suffering"
+          }
+        },
+        "text_nYYYYq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In <em>Songs for the Suffering</em>, you will journey through the questions, fears, and doubts that come when suffering strikes, and discover how the Word of God doesn’t ignore your pain, but rather, invites you to come to the table <em>with</em> it. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_bjhAPj": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>In this 6-week study, readers will journey through the scary emotions that come with profound suffering, even the ones we don’t want to admit. This study will give women a safe place to land when they find themselves questioning the reality of God in the midst of their pain, and offer up real hope when “everything happens for a reason” just doesn’t cut it. While Scripture may feel like the last place you want to bring your pain, <em>Songs for the Suffering</em> will show us just how much of a home the Word is for those in darkness.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_NXLRhB",
+        "text_nYYYYq",
+        "text_bjhAPj"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_pyK3zP": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 20
+      }
+    },
+    "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-017.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Songs for the Suffering",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You are suffering.<br/>- You are walking alongside someone who is suffering<br/>- You are sick of reading feel-good slogans about suffering, and are looking for a deeper comfort, hope and joy amidst your pain.</p><p><em>If these words resonate, this devotional is for you.</em></p><p> </p>",
+        "button_label": "Choose this tool",
+        "button_link": "shopify://products/devotional-songs-for-the-suffering",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "46251244-472e-41e9-aed5-42bc423cc417": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "THE DETAILS",
+        "title": "Songs for the Suffering",
+        "text": "<p><strong>Topic</strong>: suffering and grief<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: multiple passages</p><p>“While our pain may not be the same and while our roads may have had different turns and destinations, my prayer is that somewhere in these words of mine you find yourself—and again, you find your Father.”<br/><em>—Author Julia Allspaw</em></p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-songs-for-the-suffering",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ddf6ef08-82bf-4630-b014-2c2df13532e4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-018.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "PEEK INSIDE",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure</strong>: Weekly reading and interactive sections<br/><strong>Elements</strong>: Weekly reading & scripture, stop & reflect sections, end-of-chapter questions, journaling margins</p><p>Each week includes guided questions, further Scripture reading, application points and moments of reflection to delve into the heart of suffering, ask the hard questions, and lean into the Man of Sorrows himself, knowing he is already acquainted with our grief.</p><p></p>",
+        "button_label": "Choose this Tool",
+        "button_link": "shopify://products/devotional-songs-for-the-suffering",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "image_row_8mdiP7": {
+      "type": "image-row",
+      "blocks": {
+        "image_33": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-001_58e20efb-769a-4d0a-b3ee-031d274d7ea9.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-songs-for-the-suffering"
+          }
+        },
+        "image_34": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-028.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-songs-for-the-suffering"
+          }
+        },
+        "image_35": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-013.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://products/devotional-songs-for-the-suffering"
+          }
+        }
+      },
+      "block_order": [
+        "image_33",
+        "image_34",
+        "image_35"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    },
+    "text_columns_kAwgKj": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_37": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Spirit Renewing!",
+            "text": "<p>This devotional really opened my eyes and allowed me to properly grieve. I would (and have) recommend this devotional to anyone who has gone through a loss or traumatic event.</p><p>—Rachel—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_38": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "When you don’t have the words",
+            "text": "<p>When you don’t have the right words to comfort a friend who has lost a loved one, this is the perfect gift. I’ve purchased 2 of these for 2 different friends and they have shared that it has been a great comfort to the grieving process.</p><p>—Laydelis—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_39": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Perfect for Everyone",
+            "text": "<p>It’s so real compared to other devotionals I’ve read that make things seem like it’ll all be okay. Julia’s book is honest about how we really feel but shows us how to be with God along the way.</p><p>—Lexi—</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_37",
+        "text_block_38",
+        "text_block_39"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "26dff4a0-2465-4417-9f19-0bc81213168c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-031.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Sneak Peek at the introduction",
+        "title": "\"Dear Friends, I am happy— and sad—that you are here...",
+        "text": "<p>Let me explain: If you are here, opening the words to this book, it means that like me, you have suffered. You may be on the road of pain at this very moment, or you may have lived here for years. This may be the tenth book you’ve read on the topic of suffering, or your very first. You, my friend, have landed here because the cards life has dealt to you have been filled with pain and tear filled nights, doubting and questioning and wondering if the God you call Savior was ever real to begin with...\"</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b4180caf-4c34-41af-87d4-1a8b5ba89ab7": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Buy Now",
+        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "hero_video_EHR8Xy": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Watch the Stories",
+        "title_size": 80,
+        "subheading": "Of six incredible women who represent you bringing your unique story of suffering to this devotional...",
+        "link_text": "Watch the Trailer, Part 2",
+        "link": "https://www.youtube.com/watch?v=EwIxzwfTZds",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-left",
+        "video_url": "https://www.youtube.com/watch?v=EwIxzwfTZds",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_w4KFaR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_R4T9GQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Join the Chorus"
+          }
+        },
+        "text_rmqHpQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In the process of creating the video trailer for <em>Songs for the Suffering</em>, our team had the opportunity to work with six incredible women who have walked through substantial and diverse suffering. They represent you as you bring your unique story of suffering to this devotional. Here are their stories:</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_R4T9GQ",
+        "text_rmqHpQ"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 35
+      }
+    },
+    "combined-content-section-3": {
+      "type": "toolkit",
+      "blocks": {
+        "4254f18b-a76d-4a78-96b3-99d6f4b576d8": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Amber-Portrait-Songs-for-the-Suffering-Hosanna-Revival-017.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Amber Granville",
+            "text": "<p>“When I was a sophomore in college I found out that my mom had cancer for the first time. I was leading Younglife and had really started diving into my major at the time, so it hit at a time when things were going well for me. I and my other family members helped to care for my mom during this time. There was a brief respite from the struggle in which she went into remission for about a year. However, in April of 2016 we found out that the cancer had come back...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNdVjXxBSuV/",
+            "button_label": "Read on",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "b379e23f-3839-4406-8c69-679bb9979e01": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Brandice-Portrait-Songs-for-the-Suffering-Hosanna-Revival-013.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Brandice Rosander",
+            "text": "<p>“I married my husband in 2015 and gained 2 step-daughters that had lost their Mom to cancer years before, which was an unimaginable loss for them and a challenging position for me to step into.  Shortly after our wedding, we went through a very tough year—my dad had a massive heart attack that resulted in him being in the hospital for months...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNaxYZgBsEs/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "12bac305-f31f-46da-ae1c-0ef25f28cf04": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Brauns-Portrait-Songs-for-the-Suffering-Hosanna-Revival-077.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Mindy Braun",
+            "text": "<p>“March 10, 2019 our daughter Marlow Jane was born. We were expecting a healthy, perfect baby. However from the moment my labor started we realized things were not as expected. Marlow was struggling to thrive and was whisked away to the NICU within minutes after birth. No one could nail down what was wrong...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNf0fB-hOnK/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Christine-Portrait-Songs-for-the-Suffering-Hosanna-Revival-015.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Christine Toth",
+            "text": "<p>“When my husband and I began trying for a family we encountered a lot of struggles. I was diagnosed with endometriosis and what we were facing caused some concerns for my doctor. We were referred to an infertility specialist who quickly became not just a part of a story, but a part of our family. Dr. NeeOo Chin worked with us to start our family and, after suffering multiple losses, enduring multiple surgeries, and ultimately not having a baby after a few years, we felt defeated...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNYBC4QBjz1/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "2a4c1c10-3e63-4e2f-93b4-26beb165b204": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "left",
+            "image": "shopify://shop_images/Holly-Portrait-Songs-for-the-Suffering-Hosanna-Revival-002.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Holly Gibson",
+            "text": "<p>“On February 20, 2019, our 10 year old daughter, Sable, passed away suddenly from complications of the flu and strep throat. Sable was the youngest of our six kids—a healthy, happy little girl. Sable started feeling sick on a Saturday and I took her to the Little Clinic on Sunday. They told me she was viral but didn’t check for flu or strep. She still wasn’t any better by Tuesday so I took her to the pediatrician where they diagnosed her with flu and strep...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNia5j9hYop/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "bef74641-e7e6-48e2-90a9-a184412bf8a7": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Julia-Portrait-Songs-for-the-Suffering-Hosanna-Revival-P-001.jpg",
+            "image_width": 50,
+            "subtitle": "The Chorus",
+            "title": "Julia Allspaw",
+            "text": "<p>“In 2019, I traveled to one of the best hospitals in the country looking for answers to my near constant chronic pain. After getting my first migraine at age 12, I spent years with a crippling diagnosis that had now impacted every part of my life—from work, to relationships, and even the ability to get out of bed. In that same year, I suffered from a miscarriage and shortly after, heard the heartbreaking news of my mother’s cancer returning...”</p><p></p>",
+            "button_link": "https://www.instagram.com/p/CNknQYfhqmM/",
+            "button_label": "Read On",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        },
+        "901df118-4ac3-4282-abae-d4bac8b0e6e9": {
+          "type": "single-button",
+          "settings": {
+            "secondary": false,
+            "button_text": "Choose this Tool",
+            "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+            "button_size": "huge",
+            "alignment": "center",
+            "space_above": 30,
+            "space_below": 30
+          }
+        }
+      },
+      "block_order": [
+        "4254f18b-a76d-4a78-96b3-99d6f4b576d8",
+        "b379e23f-3839-4406-8c69-679bb9979e01",
+        "12bac305-f31f-46da-ae1c-0ef25f28cf04",
+        "3054694d-f8e8-461c-b23b-1dbd2e07bd3b",
+        "2a4c1c10-3e63-4e2f-93b4-26beb165b204",
+        "bef74641-e7e6-48e2-90a9-a184412bf8a7",
+        "901df118-4ac3-4282-abae-d4bac8b0e6e9"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "slideshow_BYN9tp": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WrgANV": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Study Tools",
+            "title_size": 72,
+            "subheading": "For “Songs for the Suffering” with author Julia Allspaw",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-002.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_WrgANV"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_x8FDHK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ckixxN": {
+          "type": "heading",
+          "settings": {
+            "title": "Devotional Study Tools"
+          }
+        },
+        "text_A9xQqK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>To learn more about this study, we created a series of brief videos with author Julia Allspaw to uncover the truth about suffering from inside the pages of God’s Word. Watch these videos below.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ckixxN",
+        "text_A9xQqK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_BQGmdg": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_40": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-006.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "To the One Suffering",
+            "text": "<p>If you are walking through a season of suffering right now—this is for YOU.</p>",
+            "button_label": "Watch this Video",
+            "button_link": "https://www.instagram.com/tv/CN2wKzMBuwy/"
+          }
+        },
+        "text_block_41": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-004.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "To the one walking alongside the suffering",
+            "text": "<p>Whether you have a friend struggling with infertility, a family member with a scary diagnosis, or a loved one struggling with anxiety, walking with the suffering is a profound work...</p>",
+            "button_label": "Watch This Video",
+            "button_link": "https://www.instagram.com/tv/COK_mTeB0Gq/"
+          }
+        },
+        "text_block_42": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-005.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Why \"songs\" for the suffering",
+            "text": "<p>When you think about your suffering, the last thing that comes to mind would be a “song”.</p>",
+            "button_label": "Watch This Video",
+            "button_link": "https://www.instagram.com/tv/COS45PzhTim/"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_40",
+        "text_block_41",
+        "text_block_42"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_columns_zRBtLr": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_43": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-033.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "How to Use this Devotional",
+            "text": "<p>This one minute video shows the author Julia’s intention for this study and a little peek at the inside of this beautiful tool.</p>",
+            "button_label": "watch this video",
+            "button_link": "https://www.instagram.com/tv/COBQs1ZhZsL/"
+          }
+        },
+        "text_block_44": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/SFTS-Group-Study.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Is this a Group Study?",
+            "text": "<p>If you’re suffering or walking through suffering with someone near to you—this study will be a safe and slow space to work through your pain—alongside of someone you love.</p>",
+            "button_label": "watch this video",
+            "button_link": "https://www.instagram.com/tv/COkb4yjBdKw/"
+          }
+        },
+        "text_block_45": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-026.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "WHEN",
+            "text": "<p>If you have questions about how to hold your specific experience of suffering up to the light of Scripture, browse our online publication <em>WHEN</em>. These brief articles gently touch upon a diverse range of topics and provide further guidance.</p>",
+            "button_label": "Browse WHEN",
+            "button_link": "https://hosannarevival.blog/"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_43",
+        "text_block_44",
+        "text_block_45"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Julia-Allspaw-Author-Headshot-Hosanna-Revival-P-012.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Julia Allspaw",
+        "text": "<p>Julia Allspaw is a former special education teacher turned stay-at-home mom, who spends her days playing with her 9-month-old son, Leon. As an Enneagram 9, Julia loves staying home, reading whatever she can get her hands on, and traveling with her husband, Jake. When she’s not picking up toys or changing diapers, you can find her writing about suffering, hope, and finding God in the midst of profound pain.</p>",
+        "button_label": "Follow Julia",
+        "button_link": "https://www.instagram.com/julia_allspaw/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_z6NbVJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GCMeWN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
+            "link_text": "Buy now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Cover-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-007_6b8f2f98-02bc-42b3-9dcc-82a594d8b85d.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_GCMeWN"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "single_button_Rfnjtg": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Devotional Library Page",
+        "button_link": "shopify://collections/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 75,
+        "space_below": 20
+      }
+    },
+    "featured_collection_RrWRqU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop All Devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_video_t6tAei",
+    "rich_text_Cia4fh",
+    "single_button_pyK3zP",
+    "dde8ef6d-77c9-4c0f-9fff-3875fdb651d4",
+    "46251244-472e-41e9-aed5-42bc423cc417",
+    "ddf6ef08-82bf-4630-b014-2c2df13532e4",
+    "image_row_8mdiP7",
+    "text_columns_kAwgKj",
+    "26dff4a0-2465-4417-9f19-0bc81213168c",
+    "b4180caf-4c34-41af-87d4-1a8b5ba89ab7",
+    "hero_video_EHR8Xy",
+    "rich_text_w4KFaR",
+    "combined-content-section-3",
+    "slideshow_BYN9tp",
+    "rich_text_x8FDHK",
+    "text_columns_BQGmdg",
+    "text_columns_zRBtLr",
+    "1d4696ec-93f9-42fd-a807-ce0d2552ec0a",
+    "slideshow_z6NbVJ",
+    "single_button_Rfnjtg",
+    "featured_collection_RrWRqU"
+  ]
+}
