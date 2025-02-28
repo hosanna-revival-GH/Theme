@@ -24,16 +24,17 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "RESTORE MY SOUL",
+            "title": "",
             "title_size": 72,
-            "subheading": "A collection for the weary and worn",
-            "link": "https://hosannarevival.com/collections/winter-2023-collection",
-            "link_text": "shop winter collection 2023",
+            "subheading": "",
+            "link": "https://hosannarevival.com/collections/spring-2024-collection",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0001_333fabd5-e9d3-4df3-8df4-64869c30b1a7.jpg",
+            "image": "shopify://shop_images/Spring-Collection-Homepage-desktop-02.png",
+            "image_mobile": "shopify://shop_images/Spring-Collection-Homepage-mobile-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -43,13 +44,13 @@
         "image_WhkAwk"
       ],
       "settings": {
-        "section_height": "750px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich_text_DmP6Mz": {
@@ -58,14 +59,14 @@
         "heading_Ydqhx7": {
           "type": "heading",
           "settings": {
-            "title": "RESTORE MY SOUL"
+            "title": "CORAM DEO"
           }
         },
         "text_3zHriD": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>“Restore my soul” is the heart’s cry behind this collection as God’s Word breaks fresh ground in our hearts through beauty. The muted blue tones and mauve accents carry a sense of peace throughout the collection, calling our hearts to seek restoration within these pages. This winter, let the beauty of Scripture stir your heart again. Your intentional tool awaits.</p>",
+            "enlarge_text": false,
+            "text": "<p><strong>Coram Deo—</strong><em><strong>in the presence of God</strong></em><strong>. <br/></strong>Introducing our new Spring Collection 2024. Our hope and desire is that these tools would usher you into a season of delight in the Lord's presence. We pray for revival in every heart that comes into contact with God's Word and cannot wait to see all that our Father can do through his beauty made tangible in these tools. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -87,11 +88,23 @@
         "space_below": 75
       }
     },
+    "featured_collection_PQw3jB": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SPRING COLLECTION 2024",
+        "home_featured_products": "spring-2024-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "single_button_gTw6gN": {
       "type": "single-button",
       "settings": {
-        "button_text": "SHOP WINTER COLLECTION 2023",
-        "button_link": "https://hosannarevival.com/collections/winter-2023-collection",
+        "button_text": "SHOP SPRING",
+        "button_link": "shopify://collections/spring-2024-collection",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
@@ -209,6 +222,7 @@
     "main",
     "slideshow_ddaQre",
     "rich_text_DmP6Mz",
+    "featured_collection_PQw3jB",
     "single_button_gTw6gN",
     "text_columns_R4Nbnc",
     "slideshow_RbFy4F",
