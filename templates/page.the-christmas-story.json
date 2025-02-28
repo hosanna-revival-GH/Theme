@@ -265,7 +265,20 @@
         "space_above": 0,
         "space_below": 75
       }
-    }
+    },
+             "text_and_image_aBfEN4": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/the-Christmas-Story-04.png",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "",
+              "text": "<p>There, tucked in the straw and swaddled in cloth was the living collision of heaven and earth. He was the Son of God and the Seed of Eve. He was the promise of Abraham and the descendant of King David. He was the one the world had been waiting for, the only one who could ever bring heaven and earth back together as one. </p><p>Looking back on this moment, the makers of the modern calendar, the <em>keepers of time</em>, would adjust the calendar to call this year 0. Why did they do this? Why did time restart here?</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
   },
   "order": [
     "main",
@@ -277,6 +290,7 @@
     "text_and_image_MEUntQ",
     "text_and_image_96L3ab",
     "rich_text_BxLcV8",
-    "rich_text_6tjcnR"
+    "rich_text_6tjcnR",
+    "text_and_image_aBfEN4"
   ]
 }
