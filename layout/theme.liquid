@@ -20,7 +20,11 @@
   {%- if settings.favicon != blank -%}
     <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
   {%- endif -%}
-
+{% style %}
+  .site-nav__item {
+  font-family: proxima-nova-condensed, serif;
+}
+{% endstyle %}
   {%- render 'seo-title' -%}
 
   {%- if page_description -%}
