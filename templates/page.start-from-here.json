@@ -266,7 +266,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
       }
     },
     "slideshow_txeGWi": {
@@ -375,7 +375,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 60
       }
     },
     "slideshow_PzL7BX": {
@@ -420,7 +420,7 @@
         "button_link": "shopify://collections/devotionals",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 60,
         "space_below": 30
       }
     },
