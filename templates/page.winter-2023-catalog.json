@@ -266,49 +266,49 @@
     },
     "image_row_RagFcy": {
       "type": "image-row",
-      "blocks": {
-        "image_W3aULV": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_PdKnwe": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_q7GPBk": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_JW8TMh": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
+"blocks": {
+  "image_106": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/christmas-film-01.jpg",
+      "caption": "",
+      "link": ""
+    }
+  },
+  "image_107": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/christmas-film-04.jpg",
+      "caption": "",
+      "link": ""
+    }
+  },
+  "image_108": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/christmas-film-05.jpg",
+      "caption": "",
+      "link": ""
+    }
+  },
+  "image_109": {
+    "type": "image",
+    "settings": {
+      "enable_image": true,
+      "image": "shopify://shop_images/christmas-film-02.jpg",
+      "caption": "",
+      "link": ""
+    }
+  }
+},
       "block_order": [
-        "image_W3aULV",
-        "image_PdKnwe",
-        "image_q7GPBk",
-        "image_JW8TMh"
+        "image_106",
+        "image_107",
+        "image_108",
+        "image_109"
       ],
       "settings": {
         "title": "",
