@@ -85,11 +85,66 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+        "text_columns_QrRQrx": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_59": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/marloicon.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "40+ Beautiful Bibles",
+            "text": "<p>Whether you're a minimalist, a floral enthusiast, or a landscape-lover, our beautiful covers are intentionally designed to lead you to the beauty within.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_60": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/MarloOpen.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Spacious Journaling Margins",
+            "text": "<p>Apart from our Study Bibles, all of our Bibles include ample space to take notes, annotate Scripture, and dive deeper into the Word.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_61": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/PaintingIcon.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Featuring Hand-Painted Artwork",
+            "text": "<p>Each Hosanna Revival design is originally hand-painted by our founder, Katie, and then carefully recreated to be printed onto our Bibles. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_59",
+        "text_block_60",
+        "text_block_61"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
   },
   "order": [
     "main",
     "slideshow_jMdTW6",
-    "rich_text_CpaiyG"
+    "rich_text_CpaiyG",
+"text_columns_QrRQrx"
   ]
 }
