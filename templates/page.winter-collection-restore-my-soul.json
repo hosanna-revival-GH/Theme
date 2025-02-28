@@ -164,6 +164,27 @@
         "divider": false
       }
     },
+        "single-image-1597333252753": {
+      "type": "single-image",
+      "blocks": {
+        "image_block_4dUgKd": {
+          "type": "image_block",
+          "settings": {
+            "image":  "shopify://shop_images/winter-collection-homepage-polaroid.png",
+            "image_link": "",
+            "image_width": 500,
+            "space_above": 150,
+            "space_below": 100
+          }
+        }
+      },
+      "block_order": [
+        "image_block_4dUgKd"
+      ],
+      "settings": {
+        "section_title": "Featured Images"
+      }
+    },
     "hero_video_cnMrUE": {
       "type": "hero-video",
       "settings": {
@@ -188,6 +209,7 @@
     "text_columns_R4Nbnc",
     "single_button_gTw6gN",
     "featured_collection_Efqjbq",
+     "single-image-1597333252753",
     "hero_video_cnMrUE"
   ]
 }
