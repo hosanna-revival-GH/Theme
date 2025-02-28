@@ -11,13 +11,204 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_ddaQre": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WhkAwk": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "RESTORE MY SOUL",
+            "title_size": 72,
+            "subheading": "A collection for the weary and worn",
+            "link": "https://hosannarevival.com/collections/winter-2023-collection",
+            "link_text": "shop winter collection 2023",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0001_333fabd5-e9d3-4df3-8df4-64869c30b1a7.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_WhkAwk"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_DmP6Mz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ydqhx7": {
+          "type": "heading",
+          "settings": {
+            "title": "RESTORE MY SOUL"
+          }
+        },
+        "text_3zHriD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>“Restore my soul” is the heart’s cry behind this collection as God’s Word breaks fresh ground in our hearts through beauty. The muted blue tones and mauve accents carry a sense of peace throughout the collection, calling our hearts to seek restoration within these pages. This winter, let the beauty of Scripture stir your heart again. Your intentional tool awaits.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ydqhx7",
+        "text_3zHriD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_gTw6gN": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "SHOP WINTER COLLECTION 2023",
+        "button_link": "https://hosannarevival.com/collections/winter-2023-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60
+      }
+    },
+    "text_columns_R4Nbnc": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_PpwVmy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_P3bdKL": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_Y86kyP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_PpwVmy",
+        "text_block_P3bdKL",
+        "text_block_Y86kyP"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_RbFy4F": {
+      "type": "slideshow",
+      "blocks": {
+        "image_89nhEa": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/collections/winter-2023-collection",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/winter-collection-homepage-polaroid.png",
+            "image_mobile": "shopify://shop_images/winter-collection-homepage-polaroid-mobile.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_89nhEa"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "hero_video_cnMrUE": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Shop Winter Collection 2023",
+        "link": "https://hosannarevival.com/collections/winter-2023-collection",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/fab0763603234ee9a5b5871cf74f1cf4.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_ddaQre",
+    "rich_text_DmP6Mz",
+    "single_button_gTw6gN",
+    "text_columns_R4Nbnc",
+    "slideshow_RbFy4F",
+    "hero_video_cnMrUE"
   ]
 }
