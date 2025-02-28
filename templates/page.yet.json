@@ -213,12 +213,51 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+                "text_block_40": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Anointed",
+              "text": "<p>I have never been a devotional person; however, this is not a typical devotional. This is a hands-on guide consistently pointing toward biblical truth.</p><p>—Hannah—</p>",
+              "button_label": "",
+            "button_link": ""
+          }
+        },
+                "text_block_41": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Transformational",
+            "text": "<p> I’ve historically struggled with changes both big and small… I have absolutely loved this study. It has completely transformed the way I view my relationship with God in seasons of transitions.</p><p>—Emily—</p>",
+              "button_label": "",
+            "button_link": ""
+          }
+        },
+                "text_block_42": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Gracious and Truthful",
+            "text": "<p>A friend and I are going through this devotional together. It’s such a great devotional— relatable, truth-full, convicting, and also gracious. Would recommend to others!</p><p>—Jordan—</p>",
+              "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "text_block_37",
         "text_block_38",
-        "text_block_39"
+        "text_block_39",
+             "text_block_40",
+        "text_block_41",
+        "text_block_42"
       ],
       "settings": {
         "title": "TESTIMONIALS FROM THE HOSANNA COMMUNITY",
@@ -229,46 +268,37 @@
     "26dff4a0-2465-4417-9f19-0bc81213168c": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Interior-Pages-Songs-for-the-Suffering-Devo-Hosanna-Revival-P-031.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Sneak Peek at the introduction",
-        "title": "\"Dear Friends, I am happy— and sad—that you are here...",
-        "text": "<p>Let me explain: If you are here, opening the words to this book, it means that like me, you have suffered. You may be on the road of pain at this very moment, or you may have lived here for years. This may be the tenth book you’ve read on the topic of suffering, or your very first. You, my friend, have landed here because the cards life has dealt to you have been filled with pain and tear filled nights, doubting and questioning and wondering if the God you call Savior was ever real to begin with...\"</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+              "image": "shopify://shop_images/Yet-Devotional-Camper-015b.jpg",
+              "image_width": "50",
+              "subtitle": "YET",
+              "title": "A Note from author Erica Boden",
+              "text": "<p>I wrote <em>YET</em> for you. I wrote it because I know what it’s like to feel like your world is swirling, to maybe even disqualify your situation, to wonder what God wants for you. I wrote <em>YET</em> because I found that God is consistent throughout scripture and history and, well, I wish a book like it existed when I walked through my transition. </p><p>I’m so happy you have the chance to order my new devotional, <em>YET</em>—for your friend, for your brother or your neighbor, or for you...</p><p></p>",
+              "button_label": "",
+              "button_link": "shopify://products/devotional-yet-study-in-habakkuk",
+              "layout": "left"
       }
     },
     "b4180caf-4c34-41af-87d4-1a8b5ba89ab7": {
       "type": "single-button",
       "settings": {
-        "button_text": "Buy Now",
-        "button_link": "https://hosannarevival.com/cart/add?id=39722820632754&quantity=1",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 30
+         "space_above": 30,
+              "space_below": 30,
+              "button_text": "Buy Yet",
+              "button_link": "https://hosannarevival.com/cart/add?id=41009382785202&quantity=1",
+              "button_size": "huge"
       }
     },
     "hero_video_EHR8Xy": {
       "type": "hero-video",
       "settings": {
-        "title": "Watch the Stories",
+        "title": "STUDY TOOLS",
         "title_size": 80,
-        "subheading": "Of six incredible women who represent you bringing your unique story of suffering to this devotional...",
-        "link_text": "Watch the Trailer, Part 2",
-        "link": "https://www.youtube.com/watch?v=EwIxzwfTZds",
+        "subheading":"For \"Yet\" with author Erica Boden",
+        "link_text": "Watch This Video",
+        "link": "https://youtu.be/hK4I6h8dETc",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-left",
-        "video_url": "https://www.youtube.com/watch?v=EwIxzwfTZds",
+        "video_url": "https://youtu.be/hK4I6h8dETc",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
