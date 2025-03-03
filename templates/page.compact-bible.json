@@ -1,0 +1,488 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "hero_video_BTUF4N": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Where will you take your Compact Bible?",
+        "title_size": 50,
+        "subheading": "The Perfect Portable Bible",
+        "link_text": "Choose Yours Today",
+        "link": "shopify://collections/nlt-compact-bibles",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/68690ae243ea424282c4c12f7c743b06.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_4MYpDx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eqWtR9": {
+          "type": "heading",
+          "settings": {
+            "title": "HOSANNA REVIVAL NLT COMPACT BIBLES"
+          }
+        },
+        "text_QbV7Qq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Where will you take your Compact Bible?</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_eqWtR9",
+        "text_QbV7Qq"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#bf9494",
+        "color_text": "#ffffff",
+        "space_above": 45,
+        "space_below": 45
+      }
+    },
+    "slideshow_kHcXnX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_8mNpYy": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "YOUR NEW INTENTIONAL TOOL",
+            "title_size": 80,
+            "subheading": "Carry Scripture with you wherever you go",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "link_text": "Choose yours",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e3e6d7",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-101.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_8mNpYy"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_kREDwx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BYE7cH": {
+          "type": "heading",
+          "settings": {
+            "title": "Searching for the Perfect portable Bible?"
+          }
+        },
+        "text_cJmat4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The Hosanna Revival NLT Compact Bible can go with you anywhere! </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BYE7cH",
+        "text_cJmat4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#717057",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "image_row_YFhBBB": {
+      "type": "image-row",
+      "blocks": {
+        "image_X9YceX": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-708_109df751-d5fb-4da6-9876-4db7e14512a3.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_FyNMQ8": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-466_fe976105-9bd9-4735-8ade-7fea23668de2.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_xWjtpL": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-064.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_zhqhJE": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-170.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X9YceX",
+        "image_FyNMQ8",
+        "image_xWjtpL",
+        "image_zhqhJE"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
+    "slideshow_pmXeDe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pwcYhT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "link_text": "Add to your Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e3e6d7",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Screenshot_2024-09-03_at_11.13.49_AM_1321c243-ea80-4e17-98c2-bdc2fc59c5ee.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_pwcYhT"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_kRwmkK": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Choose your NLT compact Bible",
+        "home_featured_products": "nlt-compact-bibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "text_and_image_dqezEg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Hosanna-Revival-Bible-Comparison-Guide.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Your bag's new best friend",
+        "title": "Same Beautiful Content, New Portable Size",
+        "text": "<p>The NLT translation you know and love can now travel with you anywhere! These on-the-go Bibles are perfect for church, running errands, or simply having on hand throughout the week! Ready to be read wherever you go, these Bibles  are the perfect portable addition to your on-the-go time with the Lord. </p>",
+        "button_label": "Learn more about the NLT Translation",
+        "button_link": "shopify://pages/nlt-translation",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_zMA98p": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-455.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "This Beautiful NLT Compact Bible Features Jesus's Words in Red",
+        "text": "<ul><li>Your favorite easy-to-read translation: the NLT!<br/></li><li>8-pt font, the same font size as our regular Bibles (and larger than most compacts!) for the best readability <br/></li><li>Same high-quality cream paper as standard Bibles<br/></li><li>2 (yes, 2!) satin ribbon markers<br/>A double column layout<br/></li><li>Full-color maps at the back<br/></li><li>4 beautiful designs to choose from<br/></li><li>Last but not least, your perfect on-the-go size!</li></ul><p><em>Love red letter Bibles? Shop </em><a href=\"/collections/kjv-bibles\" title=\"KJV Bibles\"><em>our KJV Bibles</em></a><em> with this special feature.</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yENNDH": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-275.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Your new Intentional Tool",
+        "title": "Wherever you go, take the Word with you",
+        "text": "<p>God may choose to work in any situation. We as humans are the hands and feet that carry the gospel. Use this compact Bible to minister wherever you’re at, whether it’s inviting Scripture into coffee with a friend or a chat with a stranger you’ve just met. We pray this Bible will become a part of your ministry as you carry it wherever you go.</p>",
+        "button_label": "Choose Yours",
+        "button_link": "shopify://collections/nlt-compact-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_pmXeDe1": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pwcYhT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "link_text": "Shop your new Compact Bible",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e3e6d7",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Screenshot_2024-09-03_at_11.13.49_AM_1321c243-ea80-4e17-98c2-bdc2fc59c5ee.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_pwcYhT"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "image_row_YFhBBB1": {
+      "type": "image-row",
+      "blocks": {
+        "image_X9YceX": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-644.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_FyNMQ8": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-212_1_65ea8b17-7498-4845-87eb-9888fb738ef6.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_xWjtpL": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-626.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_zhqhJE": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-207_15c4f2a7-d545-4880-93ef-45f7a244dbaa.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X9YceX",
+        "image_FyNMQ8",
+        "image_xWjtpL",
+        "image_zhqhJE"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
+    "rich_text_pVY7T3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BWgVhx": {
+          "type": "heading",
+          "settings": {
+            "title": "WE EXIST TO EXCITE YOU ABOUT ENGAGING IN SCRIPTURE BY CREATING BEAUTIFUL AND INTENTIONAL TOOLS FOR YOUR LIFE."
+          }
+        },
+        "text_tc3PnK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Our prayer is that these new Bibles would encourage you on your journey to knowing our Heavenly Father.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BWgVhx",
+        "text_tc3PnK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#717057",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_qgU8jb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_HFU4Rk": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-484_21c9bfa9-f074-4dbb-a94c-a4318f0d4aa3.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_HFU4Rk"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_video_BTUF4N",
+    "rich_text_4MYpDx",
+    "slideshow_kHcXnX",
+    "rich_text_kREDwx",
+    "image_row_YFhBBB",
+    "slideshow_pmXeDe",
+    "featured_collection_kRwmkK",
+    "text_and_image_dqezEg",
+    "text_and_image_zMA98p",
+    "text_and_image_yENNDH",
+    "slideshow_pmXeDe1",
+    "image_row_YFhBBB1",
+    "rich_text_pVY7T3",
+    "slideshow_qgU8jb"
+  ]
+}

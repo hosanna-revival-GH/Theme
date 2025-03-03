@@ -1,0 +1,231 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_3YT8f9": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LCKKqy": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Connect with Us",
+            "title_size": 72,
+            "subheading": "your invitation to grow in God’s Word",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Christian-Tools-Gifting-Bibles-Hosanna-Revival-192B.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LCKKqy"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "174103596745961205": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_ykNtYt": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Yw4Hmb"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_ykNtYt"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "rich_text_eFgyUY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ht3Hwn": {
+          "type": "heading",
+          "settings": {
+            "title": "Welcome to Your Home for Beautiful Bibles"
+          }
+        },
+        "text_ycU48y": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Begin with the beautiful and intentional tool that will excite you to engage in Scripture</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ht3Hwn",
+        "text_ycU48y"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "image_row_YFhBBB1": {
+      "type": "image-row",
+      "blocks": {
+        "image_X9YceX": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-03.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://collections/beautiful-bibles"
+          }
+        },
+        "image_FyNMQ8": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-05_d58c545a-43f3-4739-92bf-2a64a4653adb.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://collections/one-thing-i-ask"
+          }
+        },
+        "image_xWjtpL": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-06.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://collections/devotionals"
+          }
+        },
+        "image_zhqhJE": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-04.png",
+            "image_width": 650,
+            "caption": "shopify://collections/notebooks",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X9YceX",
+        "image_FyNMQ8",
+        "image_xWjtpL",
+        "image_zhqhJE"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
+    "text_and_image_cbRhD3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-0957B.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free For You",
+        "title": "Our Free Resource Toolkit",
+        "text": "<p>Whether you choose to download <a href=\"/pages/free-resources\" title=\"Free Resources\">a free study</a>, try a new Scripture a <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">lock screen, </a>or read our blog <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"https://hosannarevival.blog\"><em>WHEN</em></a>, we pray these tools will meet you where you’re at!</p>",
+        "button_label": "Optional button",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_CJzndf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XYEnFA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "About Us",
+            "link_2": "shopify://pages/about",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-0927.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_XYEnFA"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_3YT8f9",
+    "174103596745961205",
+    "rich_text_eFgyUY",
+    "image_row_YFhBBB1",
+    "text_and_image_cbRhD3",
+    "slideshow_CJzndf"
+  ]
+}

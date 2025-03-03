@@ -1,0 +1,407 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_F4tNbB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tUfzTV": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Bible Translations",
+            "title_size": 72,
+            "subheading": "How to Choose Your Bible Translation",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0276.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_tUfzTV"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_6RgKXG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gUmAax": {
+          "type": "heading",
+          "settings": {
+            "title": "How to Choose Your Bible Translation"
+          }
+        },
+        "text_6Fj9RE": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>What are the differences between Bible translations? And which Bible translation is the best?</em> If you’ve asked one of these questions before, you’re in the right place. The truth is, there’s no single Bible translation that’s universally better than the rest. Each has strengths which serve different purposes as you study God’s Word. Instead, the better question to ask is: “which Bible translation is best <em>for me</em>?” Let’s dive in.</p><p>Before we can answer that question, we need to understand a little bit more about how the Bible is translated. The original text of the Bible was written in ancient Hebrew, Greek, and Aramaic—languages many of us cannot understand apart from years of study. So Bible translations make God’s Word available to us in our primary language. </p><p><strong>There are two main translation philosophies when it comes to translating the Bible:</strong></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_gUmAax",
+        "text_6Fj9RE"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_kQ8V3X": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_3LTmjD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0428.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Word-for-Word Translation",
+            "text": "<p><em>“essentially literal” or “formal equivalence” </em></p><p><strong>Goal</strong>: To retain as much of the original sentence structure and idioms as possible </p><p><strong>Pros</strong>: Highly accurate to the original text, great for deep study </p><p><strong>Cons</strong>: More formal, sometimes a little harder to understand</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_fjCtQm": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0679.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Thought-for-Thought Translation",
+            "text": "<p><em>“functional equivalence,” “dynamic equivalence,” or “meaning-based”</em></p><p><strong>Goal</strong>: To render the original meaning of the text in clear, modern English </p><p><strong>Pros</strong>: Easy to understand, great for reading out loud</p><p><strong>Cons</strong>: Sometimes a little less accurate for deep study</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3LTmjD",
+        "text_block_fjCtQm"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "single_image_Vjnwdf": {
+      "type": "single-image",
+      "blocks": {
+        "image_block_NCw4KM": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/Hosanna-Revival-Bible-Translation-Spectrum.jpg",
+            "image_link": "https://hosannarevival.blog/when-youre-choosing-your-bible-translation/",
+            "image_width": 1100,
+            "space_above": 35,
+            "space_below": 50
+          }
+        }
+      },
+      "block_order": [
+        "image_block_NCw4KM"
+      ],
+      "settings": {
+        "section_title": "Featured Images"
+      }
+    },
+    "rich_text_CRdw3X": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7KeL7q": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The key to choosing your Bible translation is deciding where on the spectrum you want your text to fall. Take a look at the chart above and click the button below to read our in-depth article to dive into the details. We hope you’re beginning to get a sense of where you want to land with your chosen translation.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_7KeL7q"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "single_button_8MG7dw": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Learn More",
+        "button_link": "https://hosannarevival.blog/when-youre-choosing-your-bible-translation/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 20
+      }
+    },
+    "rich_text_BBmXCT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PLHjFi": {
+          "type": "heading",
+          "settings": {
+            "title": "Hosanna Revival bibles by Translation"
+          }
+        },
+        "text_yKXVXc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>a mini guide</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_PLHjFi",
+        "text_yKXVXc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 35
+      }
+    },
+    "b0ccc398-b2d7-4aec-8c1e-af980f9d3a24": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0344.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Word for Word",
+        "title": "ESV: The English Standard Version",
+        "text": "<p><strong>For the one who</strong>: Is looking for an accurate translation that is perfect for deep study</p><p><strong>Romans 8:6 in ESV</strong>: “For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace.” </p><p><strong>Find it here</strong>: The <a href=\"/products/esv-study-bible-aurora-theme\" title=\"ESV Study Bible : Aurora Theme\">ESV Study Bible</a>, <a href=\"/collections/large-print-bibles\" title=\"Large Print Bibles\">Large Print</a>, and <a href=\"/collections/esv-bibles\" title=\"ESV Bibles\">Journaling Bibles</a></p><p></p>",
+        "button_label": "Select My ESV",
+        "button_link": "shopify://collections/esv-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "0041c90e-184a-4b5d-b2f5-d285759f7ed6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/ESV-Beautiful-Bible-Restock-at-Home-Hosanna-Revival-084.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Word for Word",
+        "title": "KJV: The King James Version",
+        "text": "<p><strong>For the one who</strong>: Grew up reading this version and is looking for a beautiful cover to pair with the beautiful words within</p><p><strong>Romans 8:6 in KJV</strong>: “For to be carnally minded is death; but to be spiritually minded is life and peace.” </p><p><strong>Find it here</strong>: <a href=\"/collections/kjv-bibles\" title=\"KJV Bibles\">Large Print</a></p><p></p>",
+        "button_label": "Select My KJV",
+        "button_link": "shopify://collections/kjv-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "13ec5966-4393-4c95-8149-45bf3bf25aaa": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Launch-Hosanna-Styled-Artist-Studio-028B_1080x_c04452b1-207d-40a4-84ba-b00ce0fa5adb.webp",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "In the middle",
+        "title": "CSB: The Christian Standard Bible",
+        "text": "<p><strong>For the one who</strong>: Can’t quite choose and wants something in between word for word and thought for thought </p><p><strong>Romans 8:6 in CSB</strong>: “Now the mindset of the flesh is death, but the mindset of the Spirit is life and peace.”</p><p><strong>Find it here</strong>: <a href=\"/collections/csb-bibles\" title=\"CSB Bibles\">Notetaking Bibles</a></p><p></p>",
+        "button_label": "Select my CSB",
+        "button_link": "shopify://collections/csb-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4e40eb9f-a91e-4dfd-8ef6-32ba4ccf571c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-354_73e15b6e-3f5b-44e7-94ca-be9352ed56c8.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Thought for Thought",
+        "title": "NLT: The New Living Translation",
+        "text": "<p><strong>For the one who</strong>: Is new to the Bible or is looking for an easy-to-understand translation<br/></p><p><strong>Romans 8:6 in NLT</strong>: “So letting your sinful nature control your mind leads to death. But letting the Spirit control your mind leads to life and peace.”</p><p><strong>Find it here</strong>: <a href=\"/collections/nlt-bibles\" title=\"NLT Bibles\">Notetaking Bibles</a></p><p></p>",
+        "button_label": "Select My NLT",
+        "button_link": "shopify://collections/nlt-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_LyJFXY": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Beautiful Bibles",
+        "home_featured_products": "best-sellers",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "cdf8b6ac-d6ea-42a4-a012-18895802d8e4": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Choose my Beautiful Bible",
+        "button_link": "shopify://collections/beautiful-bibles",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "f7028665-9679-4e47-91c1-88df1da1574d": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Choosing-Your-Bible-Translation.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Learn More",
+        "title": "About Bible Translations",
+        "text": "<p>Would you love to learn more about Bible translations? Begin with this article on our <em>WHEN </em>blog: <a href=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\" target=\"_blank\" title=\"https://hosannarevival.blog/when-youre-choosing-your-bible-translation/\">When You're Choosing Your Bible Translation</a>.</p>",
+        "button_label": "Begin Reading",
+        "button_link": "https://hosannarevival.blog/when-youre-choosing-your-bible-translation/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_7iFqnx": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GU939H": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0218.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_GU939H"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_F4tNbB",
+    "rich_text_6RgKXG",
+    "text_columns_kQ8V3X",
+    "single_image_Vjnwdf",
+    "rich_text_CRdw3X",
+    "single_button_8MG7dw",
+    "rich_text_BBmXCT",
+    "b0ccc398-b2d7-4aec-8c1e-af980f9d3a24",
+    "0041c90e-184a-4b5d-b2f5-d285759f7ed6",
+    "13ec5966-4393-4c95-8149-45bf3bf25aaa",
+    "4e40eb9f-a91e-4dfd-8ef6-32ba4ccf571c",
+    "featured_collection_LyJFXY",
+    "cdf8b6ac-d6ea-42a4-a012-18895802d8e4",
+    "f7028665-9679-4e47-91c1-88df1da1574d",
+    "slideshow_7iFqnx"
+  ]
+}

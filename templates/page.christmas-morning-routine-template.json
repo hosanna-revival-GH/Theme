@@ -1,0 +1,317 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_F6AxdM": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dk3Hgz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "On earth as it is in heaven",
+            "title_size": 72,
+            "subheading": "This Christmas season, spend your mornings reflecting on the Light of the World",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-1030.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_dk3Hgz"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_ApNzMr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_chcLWk": {
+          "type": "heading",
+          "settings": {
+            "title": "Why set aside intentional time in the morning?"
+          }
+        },
+        "text_CLmwE6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>The importance of spending your mornings with <br/>the Lord this Christmas season</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_j8UPU7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>It can be easy to rush into the excitement of Christmas<strong> </strong>and dive straight into the joy of it all! However, the beginning of our day has the potential to set the tone of our hearts. Christmas is fun and joyful as it is, but the rich truth that lies within the Christmas story is what adds the depth and true beauty into the Christmas season. This Christmas, step into intentionally spending time with the Savior first thing in the morning. Reflect on the miracle of God sending his Son to earth and the thrill of hope that our hearts experience because of it. This is the time to rejoice over the birth of our King! Start your Christmas morning<strong>s</strong> with your Savior, and let every joyful moment that follows be a reminder of God's love for you and how he sent his one and only Son for you. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_chcLWk",
+        "text_CLmwE6",
+        "text_j8UPU7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_TAfj4T": {
+      "type": "rich-text",
+      "blocks": {
+        "text_mpzGJP": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h1>Here’s how you can Start</h1>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_mpzGJP"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#e3e6d7",
+        "color_text": "#475a41",
+        "space_above": 50,
+        "space_below": 30
+      }
+    },
+    "text_and_image_H3T6MA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Couch-2024-Hosanna-Revival-0803.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "1",
+        "title": "Choose what to Read",
+        "text": "<p>Read the story of Jesus's birth this Christmas and reflect on the miracle of the King of the world entering as a baby.</p><p><a href=\"https://www.bible.com/bible/116/LUK.2.2-21.NLT\" target=\"_blank\" title=\"https://www.bible.com/bible/116/LUK.2.2-21.NLT\">The Scripture of Jesus's birth</a></p><p>Read about how God sent his son Jesus and the miracles he performed, the hearts he transformed, and the sacrifice he made to save you from your sins. Let your heart be changed by the incredible story of Jesus through the Gospel of John. </p><p>Use our <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival_f567eba6-9c31-4ced-bcc7-3596d111571a.pdf?v=1627326613\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival_f567eba6-9c31-4ced-bcc7-3596d111571a.pdf?v=1627326613\">John reading plan</a> to get started! </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EH88hY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Fireplace-2024-Hosanna-Revival-0768.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "2",
+        "title": "Choose your Bible",
+        "text": "<p>Choose the Bible you have available to you. Scripture is the living, breathing, active Word of God. Engage in Scripture, and experience the truth and presence of your Father.</p>",
+        "button_label": "Shop beautiful Bibles",
+        "button_link": "shopify://collections/beautiful-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_zyewxQ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Flatlay-2024-Hosanna-Revival-050.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "3",
+        "title": "Grab a Notebook",
+        "text": "<p>Take note of what you're learning from the Lord and refer to it later. Spend time in conversation with God and journal out your thoughts to him!</p>",
+        "button_label": "Shop beautiful Notebooks",
+        "button_link": "shopify://collections/notebooks",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_pg9XjR": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-2024-Hosanna-Revival-1317_337e633d-ee59-4380-8a90-2d689779295f.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "4",
+        "title": "Use a Prayer Journal",
+        "text": "<p>Keeping your prayers in one place makes it easy to look back and reflect on God's faithfulness in your life! Pick up a Prayer Journal and write down your requests to the Lord. </p>",
+        "button_label": "Shop our 5-Year-Prayer Journals",
+        "button_link": "shopify://collections/one-thing-i-ask",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_drrjQa": {
+      "type": "rich-text",
+      "blocks": {
+        "text_tVMHq6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h1><em>A prayer for your time with the Lord this Christmas</em></h1>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_tVMHq6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#475a41",
+        "space_above": 0,
+        "space_below": 10
+      }
+    },
+    "rich_text_dewiDq": {
+      "type": "rich-text",
+      "blocks": {
+        "text_JJfrb8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Heavenly Father, </p><p>Please bless my time with you this Christmas. I pray that I would find the intentionality and time to spend with you this Christmas. I pray that I would choose to reflect on you first. I pray that my time with you would set the tone for my entire day, and that I would experience an even richer day because of the joy of reflecting and rejoicing over you as my savior. I pray that this day would feel holy because of the celebration of our One True King. </p><p>It's in your heavenly name I pray, </p><p>Amen.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_JJfrb8"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 35
+      }
+    },
+    "slideshow_GdGfwf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_M9hTW7": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections",
+            "link_text": "Find a beautiful tool for your mornings this Christmas",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-1027.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_M9hTW7"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_F6AxdM",
+    "rich_text_ApNzMr",
+    "rich_text_TAfj4T",
+    "text_and_image_H3T6MA",
+    "text_and_image_EH88hY",
+    "text_and_image_zyewxQ",
+    "text_and_image_pg9XjR",
+    "rich_text_drrjQa",
+    "rich_text_dewiDq",
+    "slideshow_GdGfwf"
+  ]
+}

@@ -17,28 +17,135 @@
         "page_content_enable": false
       }
     },
-    "rich-text": {
-      "type": "rich-text",
+    "slideshow_Gt3RMG": {
+      "type": "slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "image_4ETPRz": {
+          "type": "image",
           "settings": {
-            "title": "Get in touch"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "top_subheading": "",
+            "title": "Contact Us",
+            "title_size": 80,
+            "subheading": "Hosanna Revival Support",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-002.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "image_4ETPRz"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "text_columns_wQPhN8": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_twnFQt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Need to return something?",
+            "text": "<p>If you received a wrong or damaged item, or if you changed your mind about an item, <a href=\"https://hosannarevival.com/pages/returns\" title=\"Returns\">click here</a> to begin the return process.</p>",
+            "button_label": "Start a Return",
+            "button_link": "shopify://pages/returns"
+          }
+        },
+        "text_block_3cxdd9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Checking on an order?",
+            "text": "<p>If you have a question about an order or need help finding something on our site, use the form below to send us a message.</p>",
+            "button_label": "Email us",
+            "button_link": "mailto:support@hosannarevival.com"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_twnFQt",
+        "text_block_3cxdd9"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_p4WUaP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FiKfad": {
+          "type": "heading",
+          "settings": {
+            "title": "Customer Support"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FiKfad"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 10
+      }
+    },
+    "174103272975bae4a1": {
+      "type": "apps",
+      "blocks": {
+        "acerill_form_builder_custom_form_yXtGDi": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "baa5a86f-3f5b-41e2-ab91-90bfcfd38c3a",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "acerill_form_builder_custom_form_yXtGDi"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "rich_text_xU9rYR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_chQgCf": {
+          "type": "heading",
+          "settings": {
+            "title": "Prayer Request"
+          }
+        }
+      },
+      "block_order": [
+        "heading_chQgCf"
       ],
       "settings": {
         "align_text": "center",
@@ -49,22 +156,51 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
-        "space_below": 3
+        "space_below": 10
       }
     },
-    "form": {
-      "type": "contact-form",
+    "17410329609bddd1f8": {
+      "type": "apps",
+      "blocks": {
+        "acerill_form_builder_custom_form_xATien": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "3b7833fd-a319-4691-86e6-d533c56dabbc",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "acerill_form_builder_custom_form_xATien"
+      ],
       "settings": {
-        "title": "Contact us",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "rich_text_X6VVPA": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
       }
     }
   },
   "order": [
     "main",
-    "rich-text",
-    "form"
+    "slideshow_Gt3RMG",
+    "text_columns_wQPhN8",
+    "rich_text_p4WUaP",
+    "174103272975bae4a1",
+    "rich_text_xU9rYR",
+    "17410329609bddd1f8",
+    "rich_text_X6VVPA"
   ]
 }
