@@ -11,13 +11,105 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_3YT8f9": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LCKKqy": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Connect with Us",
+            "title_size": 72,
+            "subheading": "your invitation to grow in God’s Word",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Christian-Tools-Gifting-Bibles-Hosanna-Revival-192B.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LCKKqy"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "174103596745961205": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_ykNtYt": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Yw4Hmb"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_ykNtYt"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "rich_text_eFgyUY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ht3Hwn": {
+          "type": "heading",
+          "settings": {
+            "title": "Welcome to Your Home for Beautiful Bibles"
+          }
+        },
+        "text_ycU48y": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Begin with the beautiful and intentional tool that will excite you to engage in Scripture</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ht3Hwn",
+        "text_ycU48y"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_3YT8f9",
+    "174103596745961205",
+    "rich_text_eFgyUY"
   ]
 }
