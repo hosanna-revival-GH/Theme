@@ -105,7 +105,7 @@
         "space_below": 75
       }
     },
-        "image_row_YFhBBB1": {
+    "image_row_YFhBBB1": {
       "type": "image-row",
       "blocks": {
         "image_X9YceX": {
@@ -115,7 +115,7 @@
             "image": "shopify://shop_images/1-01-25-web-03.png",
             "image_width": 650,
             "caption": "Image Caption",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "image_FyNMQ8": {
@@ -125,7 +125,7 @@
             "image": "shopify://shop_images/1-01-25-web-05_d58c545a-43f3-4739-92bf-2a64a4653adb.png",
             "image_width": 650,
             "caption": "Image Caption",
-            "link":  "shopify://collections/one-thing-i-ask",
+            "link": "shopify://collections/one-thing-i-ask"
           }
         },
         "image_xWjtpL": {
@@ -135,7 +135,7 @@
             "image": "shopify://shop_images/1-01-25-web-06.png",
             "image_width": 650,
             "caption": "Image Caption",
-            "link": "shopify://collections/devotionals",
+            "link": "shopify://collections/devotionals"
           }
         },
         "image_zhqhJE": {
@@ -153,7 +153,7 @@
         "image_X9YceX",
         "image_FyNMQ8",
         "image_xWjtpL",
-        "image_zhqhJE",
+        "image_zhqhJE"
       ],
       "settings": {
         "title": "",
@@ -162,26 +162,70 @@
         "enable_zoom": false
       }
     },
-             "text_and_image_cbRhD3": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-0957B.jpg",
-              "image_width": "50",
-              "subtitle": "Free For You",
-              "title": "Our Free Resource Toolkit",
-              "text": "<p>Whether you choose to download <a href=\"/pages/free-resources\" title=\"Free Resources\">a free study</a>, try a new Scripture a <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">lock screen, </a>or read our blog <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"https://hosannarevival.blog\"><em>WHEN</em></a>, we pray these tools will meet you where you’re at!</p>",
-              "button_label": "Optional button",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
+    "text_and_image_cbRhD3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-0957B.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free For You",
+        "title": "Our Free Resource Toolkit",
+        "text": "<p>Whether you choose to download <a href=\"/pages/free-resources\" title=\"Free Resources\">a free study</a>, try a new Scripture a <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">lock screen, </a>or read our blog <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"https://hosannarevival.blog\"><em>WHEN</em></a>, we pray these tools will meet you where you’re at!</p>",
+        "button_label": "Optional button",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_CJzndf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XYEnFA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "About Us",
+            "link_2": "shopify://pages/about",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-0927.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_XYEnFA"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
   },
   "order": [
     "main",
     "slideshow_3YT8f9",
     "174103596745961205",
     "rich_text_eFgyUY",
-     "image_row_YFhBBB1",
-    "text_and_image_cbRhD3"
+    "image_row_YFhBBB1",
+    "text_and_image_cbRhD3",
+    "slideshow_CJzndf"
   ]
 }
