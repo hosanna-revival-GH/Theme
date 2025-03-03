@@ -281,6 +281,41 @@
               "layout": "left"
             }
           },
+        "slideshow_pmXeDe1": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pwcYhT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "link_text": "Shop your new Compact Bible",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e3e6d7",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Screenshot_2024-09-03_at_11.13.49_AM_1321c243-ea80-4e17-98c2-bdc2fc59c5ee.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_pwcYhT"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
   },
   "order": [
     "main",
@@ -294,5 +329,6 @@
               "text_and_image_dqezEg",
           "text_and_image_zMA98p",
           "text_and_image_yENNDH",
+    "slideshow_pmXeDe1",
   ]
 }
