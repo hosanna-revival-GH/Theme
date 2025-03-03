@@ -242,46 +242,70 @@
         "divider": false
       }
     },
-            "text_and_image_dqezEg": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Hosanna-Revival-Bible-Comparison-Guide.jpg",
-              "image_width": "50",
-              "subtitle": "Your bag's new best friend",
-              "title": "Same Beautiful Content, New Portable Size",
-              "text": "<p>The NLT translation you know and love can now travel with you anywhere! These on-the-go Bibles are perfect for church, running errands, or simply having on hand throughout the week! Ready to be read wherever you go, these Bibles  are the perfect portable addition to your on-the-go time with the Lord. </p>",
-              "button_label": "Learn more about the NLT Translation",
-              "button_link": "shopify://pages/nlt-translation",
-              "layout": "left"
-            }
-          },
-          "text_and_image_zMA98p": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-455.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "This Beautiful NLT Compact Bible Features Jesus's Words in Red",
-              "text": "<ul><li>Your favorite easy-to-read translation: the NLT!<br/></li><li>8-pt font, the same font size as our regular Bibles (and larger than most compacts!) for the best readability <br/></li><li>Same high-quality cream paper as standard Bibles<br/></li><li>2 (yes, 2!) satin ribbon markers<br/>A double column layout<br/></li><li>Full-color maps at the back<br/></li><li>4 beautiful designs to choose from<br/></li><li>Last but not least, your perfect on-the-go size!</li></ul><p><em>Love red letter Bibles? Shop </em><a href=\"/collections/kjv-bibles\" title=\"KJV Bibles\"><em>our KJV Bibles</em></a><em> with this special feature.</em></p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_yENNDH": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-275.jpg",
-              "image_width": "50",
-              "subtitle": "Your new Intentional Tool",
-              "title": "Wherever you go, take the Word with you",
-              "text": "<p>God may choose to work in any situation. We as humans are the hands and feet that carry the gospel. Use this compact Bible to minister wherever you’re at, whether it’s inviting Scripture into coffee with a friend or a chat with a stranger you’ve just met. We pray this Bible will become a part of your ministry as you carry it wherever you go.</p>",
-              "button_label": "Choose Yours",
-              "button_link": "shopify://collections/nlt-compact-bibles",
-              "layout": "left"
-            }
-          },
-        "slideshow_pmXeDe1": {
+    "text_and_image_dqezEg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Hosanna-Revival-Bible-Comparison-Guide.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Your bag's new best friend",
+        "title": "Same Beautiful Content, New Portable Size",
+        "text": "<p>The NLT translation you know and love can now travel with you anywhere! These on-the-go Bibles are perfect for church, running errands, or simply having on hand throughout the week! Ready to be read wherever you go, these Bibles  are the perfect portable addition to your on-the-go time with the Lord. </p>",
+        "button_label": "Learn more about the NLT Translation",
+        "button_link": "shopify://pages/nlt-translation",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_zMA98p": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-455.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "This Beautiful NLT Compact Bible Features Jesus's Words in Red",
+        "text": "<ul><li>Your favorite easy-to-read translation: the NLT!<br/></li><li>8-pt font, the same font size as our regular Bibles (and larger than most compacts!) for the best readability <br/></li><li>Same high-quality cream paper as standard Bibles<br/></li><li>2 (yes, 2!) satin ribbon markers<br/>A double column layout<br/></li><li>Full-color maps at the back<br/></li><li>4 beautiful designs to choose from<br/></li><li>Last but not least, your perfect on-the-go size!</li></ul><p><em>Love red letter Bibles? Shop </em><a href=\"/collections/kjv-bibles\" title=\"KJV Bibles\"><em>our KJV Bibles</em></a><em> with this special feature.</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yENNDH": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-275.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Your new Intentional Tool",
+        "title": "Wherever you go, take the Word with you",
+        "text": "<p>God may choose to work in any situation. We as humans are the hands and feet that carry the gospel. Use this compact Bible to minister wherever you’re at, whether it’s inviting Scripture into coffee with a friend or a chat with a stranger you’ve just met. We pray this Bible will become a part of your ministry as you carry it wherever you go.</p>",
+        "button_label": "Choose Yours",
+        "button_link": "shopify://collections/nlt-compact-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_pmXeDe1": {
       "type": "slideshow",
       "blocks": {
         "image_pwcYhT": {
@@ -316,7 +340,7 @@
         "lazyload_images": true
       }
     },
-       "image_row_YFhBBB1": {
+    "image_row_YFhBBB1": {
       "type": "image-row",
       "blocks": {
         "image_X9YceX": {
@@ -333,7 +357,7 @@
           "type": "image",
           "settings": {
             "enable_image": true,
-            "image":"shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-212_1_65ea8b17-7498-4845-87eb-9888fb738ef6.png",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-212_1_65ea8b17-7498-4845-87eb-9888fb738ef6.png",
             "image_width": 650,
             "caption": "Image Caption",
             "link": ""
@@ -373,6 +397,41 @@
         "enable_zoom": false
       }
     },
+    "rich_text_pVY7T3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BWgVhx": {
+          "type": "heading",
+          "settings": {
+            "title": "WE EXIST TO EXCITE YOU ABOUT ENGAGING IN SCRIPTURE BY CREATING BEAUTIFUL AND INTENTIONAL TOOLS FOR YOUR LIFE."
+          }
+        },
+        "text_tc3PnK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Our prayer is that these new Bibles would encourage you on your journey to knowing our Heavenly Father.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BWgVhx",
+        "text_tc3PnK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#717057",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    }
   },
   "order": [
     "main",
@@ -383,10 +442,11 @@
     "image_row_YFhBBB",
     "slideshow_pmXeDe",
     "featured_collection_kRwmkK",
-              "text_and_image_dqezEg",
-          "text_and_image_zMA98p",
-          "text_and_image_yENNDH",
+    "text_and_image_dqezEg",
+    "text_and_image_zMA98p",
+    "text_and_image_yENNDH",
     "slideshow_pmXeDe1",
     "image_row_YFhBBB1",
+    "rich_text_pVY7T3"
   ]
 }
