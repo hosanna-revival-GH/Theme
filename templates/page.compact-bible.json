@@ -138,6 +138,63 @@
         "space_below": 75
       }
     },
+    "image_row_YFhBBB": {
+      "type": "image-row",
+      "blocks": {
+        "image_X9YceX": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-708_109df751-d5fb-4da6-9876-4db7e14512a3.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_FyNMQ8": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-466_fe976105-9bd9-4735-8ade-7fea23668de2.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_xWjtpL": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-064.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_zhqhJE": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-170.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X9YceX",
+        "image_FyNMQ8",
+        "image_xWjtpL",
+        "image_zhqhJE"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
     "slideshow_pmXeDe": {
       "type": "slideshow",
       "blocks": {
@@ -192,6 +249,7 @@
     "rich_text_4MYpDx",
     "slideshow_kHcXnX",
     "rich_text_kREDwx",
+    "image_row_YFhBBB",
     "slideshow_pmXeDe",
     "featured_collection_kRwmkK"
   ]
