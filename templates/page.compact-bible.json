@@ -11,13 +11,188 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "hero_video_BTUF4N": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Where will you take your Compact Bible?",
+        "title_size": 50,
+        "subheading": "The Perfect Portable Bible",
+        "link_text": "Choose Yours Today",
+        "link": "shopify://collections/nlt-compact-bibles",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/68690ae243ea424282c4c12f7c743b06.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_4MYpDx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eqWtR9": {
+          "type": "heading",
+          "settings": {
+            "title": "HOSANNA REVIVAL NLT COMPACT BIBLES"
+          }
+        },
+        "text_QbV7Qq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Where will you take your Compact Bible?</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_eqWtR9",
+        "text_QbV7Qq"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#bf9494",
+        "color_text": "#ffffff",
+        "space_above": 45,
+        "space_below": 45
+      }
+    },
+    "slideshow_kHcXnX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_8mNpYy": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "YOUR NEW INTENTIONAL TOOL",
+            "title_size": 80,
+            "subheading": "Carry Scripture with you wherever you go",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "link_text": "Choose yours",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e3e6d7",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-101.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_8mNpYy"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_kREDwx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BYE7cH": {
+          "type": "heading",
+          "settings": {
+            "title": "Searching for the Perfect portable Bible?"
+          }
+        },
+        "text_cJmat4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The Hosanna Revival NLT Compact Bible can go with you anywhere! </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BYE7cH",
+        "text_cJmat4"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#717057",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_pmXeDe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pwcYhT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "link_text": "Add to your Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e3e6d7",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Screenshot_2024-09-03_at_11.13.49_AM_1321c243-ea80-4e17-98c2-bdc2fc59c5ee.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_pwcYhT"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_kRwmkK": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Choose your NLT compact Bible",
+        "home_featured_products": "nlt-compact-bibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "hero_video_BTUF4N",
+    "rich_text_4MYpDx",
+    "slideshow_kHcXnX",
+    "rich_text_kREDwx",
+    "slideshow_pmXeDe",
+    "featured_collection_kRwmkK"
   ]
 }
