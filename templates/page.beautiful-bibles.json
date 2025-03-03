@@ -349,8 +349,8 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "title": "Inc 5000",
+            "text": "<p><a href=\"https://www.inc.com/profile/hosanna-revival\" target=\"_blank\" title=\"Hosanna Revival is #2329 on Inc 5000\">Ranked</a> as one of the fastest growing companies in the United States of America</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -361,8 +361,8 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "title": "Christianity Today",
+            "text": "<p>It’s a Great Time to Be a Bible Nerd<br/><a href=\"https://www.christianitytoday.com/partners/creative-studio/its-great-time-to-be-bible-nerd.html\" target=\"_blank\" title=\"https://www.christianitytoday.com/partners/creative-studio/its-great-time-to-be-bible-nerd.html\"><em>Read the Article</em></a></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -373,8 +373,8 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "title": "PlantPop",
+            "text": "<p>Hosanna Revival<br/><a href=\"https://plantpop.com/blog/2022/8/8/hosanna-revival\" target=\"_blank\" title=\"https://plantpop.com/blog/2022/8/8/hosanna-revival\"><em>Watch the Film</em></a></p>",
             "button_label": "",
             "button_link": ""
           }
