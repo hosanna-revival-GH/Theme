@@ -372,6 +372,9 @@
       "block_order": [
         "image_7eXp6H"
       ],
+      "custom_css": [
+        ".hero__link a {border: 2px solid #fff !important;}"
+      ],
       "settings": {
         "section_height": "450px",
         "mobile_height": "auto",
