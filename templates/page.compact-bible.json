@@ -316,6 +316,63 @@
         "lazyload_images": true
       }
     },
+       "image_row_YFhBBB1": {
+      "type": "image-row",
+      "blocks": {
+        "image_X9YceX": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-644.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_FyNMQ8": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image":"shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-212_1_65ea8b17-7498-4845-87eb-9888fb738ef6.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_xWjtpL": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-626.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_zhqhJE": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-207_15c4f2a7-d545-4880-93ef-45f7a244dbaa.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X9YceX",
+        "image_FyNMQ8",
+        "image_xWjtpL",
+        "image_zhqhJE"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
   },
   "order": [
     "main",
@@ -330,5 +387,6 @@
           "text_and_image_zMA98p",
           "text_and_image_yENNDH",
     "slideshow_pmXeDe1",
+    "image_row_YFhBBB1",
   ]
 }
