@@ -162,12 +162,26 @@
         "enable_zoom": false
       }
     },
+             "text_and_image_cbRhD3": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Living-Room-Nook-2024-Hosanna-Revival-0957B.jpg",
+              "image_width": "50",
+              "subtitle": "Free For You",
+              "title": "Our Free Resource Toolkit",
+              "text": "<p>Whether you choose to download <a href=\"/pages/free-resources\" title=\"Free Resources\">a free study</a>, try a new Scripture a <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">lock screen, </a>or read our blog <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"https://hosannarevival.blog\"><em>WHEN</em></a>, we pray these tools will meet you where you’re at!</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
     "slideshow_3YT8f9",
     "174103596745961205",
     "rich_text_eFgyUY",
-     "image_row_YFhBBB1"
+     "image_row_YFhBBB1",
+    "text_and_image_cbRhD3"
   ]
 }
