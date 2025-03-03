@@ -104,12 +104,70 @@
         "space_above": 75,
         "space_below": 75
       }
-    }
+    },
+        "image_row_YFhBBB1": {
+      "type": "image-row",
+      "blocks": {
+        "image_X9YceX": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-03.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://collections/beautiful-bibles",
+          }
+        },
+        "image_FyNMQ8": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-05_d58c545a-43f3-4739-92bf-2a64a4653adb.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link":  "shopify://collections/one-thing-i-ask",
+          }
+        },
+        "image_xWjtpL": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-06.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": "shopify://collections/devotionals",
+          }
+        },
+        "image_zhqhJE": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1-01-25-web-04.png",
+            "image_width": 650,
+            "caption": "shopify://collections/notebooks",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X9YceX",
+        "image_FyNMQ8",
+        "image_xWjtpL",
+        "image_zhqhJE",
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
   },
   "order": [
     "main",
     "slideshow_3YT8f9",
     "174103596745961205",
-    "rich_text_eFgyUY"
+    "rich_text_eFgyUY",
+     "image_row_YFhBBB1"
   ]
 }
