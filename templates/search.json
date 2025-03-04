@@ -89,7 +89,7 @@
         "button_size": "medium",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 75
       }
     }
   },
