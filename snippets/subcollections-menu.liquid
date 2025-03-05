@@ -11,7 +11,6 @@
 }
 {% endstyle %}
 {% assign main_menu = linklists.main-menu %}
-<button type="button" class="collapsible-trigger shop-button-custom collapsible-trigger-btn collapsible--auto-height{% unless collapsed_state %} is-open{% endunless %} tag-list__header" aria-controls="{{ location }}-{{ index }}{% if id %}-{{ id }}{% endif %}">
         {% assign current_parent = nil %}
         {% for top_parent in main_menu.links %}
           {% assign parent_match = false %}
@@ -41,11 +40,11 @@
           {% endif %}
         {% endfor %}  
         {% if current_parent %}
-
+<button type="button" class="collapsible-trigger shop-button-custom collapsible-trigger-btn collapsible--auto-height{% unless collapsed_state %} is-open{% endunless %} tag-list__header" aria-controls="{{ location }}-{{ index }}{% if id %}-{{ id }}{% endif %}">
               {{ current_parent.title }}
-  {% endif %}
   {% render 'collapsible-icons' %}
 </button>
+{% endif %}
 <div
   id="{{ location }}-{{ forloop.index }}"
   class="collapsible-content collapsible-content--sidebar{% unless collapsed_state %} is-open{% endunless %}"
