@@ -643,7 +643,7 @@
           "type": "question",
           "settings": {
             "title": "Can my friend use the referral code on any purchase?",
-            "text": "<p>Yes. Your friend can use their code on any purchase as long as it’s their FIRST purchase from Hosanna Revival. </p>"
+            "text": "<p>Yes. Your friend can use their code on any purchase as long as it’s their <em>first</em> purchase from Hosanna Revival. </p>"
           }
         },
         "question_HwpXJj": {
@@ -664,8 +664,8 @@
         "question_BQQBMT": {
           "type": "question",
           "settings": {
-            "title": "My referral link/code isn’t working. What should I do?",
-            "text": "<p>Double-check that your friend is a new customer and that they clicked your referral link before purchasing. If issues persist, contact support@hosannarevival.com.</p>"
+            "title": "My referral link or code isn’t working. What should I do?",
+            "text": "<p>Double-check that your friend is a new customer and that they clicked your unique referral link before purchasing. If issues persist, contact support@hosannarevival.com.</p>"
           }
         },
         "question_VAbyRn": {
