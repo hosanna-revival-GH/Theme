@@ -21,9 +21,82 @@
         "rows_per_page": 7,
         "mobile_flush_grid": false
       }
+    },
+    "advanced_content_jFHjPK": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_BrErpa": {
+          "type": "liquid",
+          "settings": {
+            "code": "<hr/>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_BrErpa"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_4qVGLV": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RVbMHh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2>Are you looking for <em>WHEN</em> articles?</h2>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
+          }
+        },
+        "text_wkMKQe": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>WHEN </em>is a branch of Hosanna Revival Publishing that provides high-quality free content to point you to Scripture.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_RVbMHh",
+        "text_wkMKQe"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 35,
+        "space_below": 15
+      }
+    },
+    "single_button_gKzmyK": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Search articles",
+        "button_link": "https://hosannarevival.blog/search",
+        "button_size": "medium",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 75
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "advanced_content_jFHjPK",
+    "rich_text_4qVGLV",
+    "single_button_gKzmyK"
   ]
 }

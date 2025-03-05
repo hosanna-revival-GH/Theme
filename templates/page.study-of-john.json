@@ -19,6 +19,9 @@
     },
     "text_and_image_Yyhqaz": {
       "type": "text-and-image",
+      "custom_css": [
+        ".index-section{margin:0 0;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/John-Reading-Plan-Hosanna-Revival_6504382f-4ce8-4b1a-8646-8c7154309ed7.jpg",
         "image_mask": "none",

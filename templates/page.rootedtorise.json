@@ -25,17 +25,18 @@
           "settings": {
             "top_subheading": "",
             "title": "Rooted to Rise",
-            "title_size": 80,
+            "title_size": 72,
             "subheading": "A Devotional about Growing in Christ for High School Girls",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-001.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -267,7 +268,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-054.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -365,7 +367,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-050.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },

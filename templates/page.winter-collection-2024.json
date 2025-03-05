@@ -86,7 +86,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/winter_landing_page.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -237,7 +238,7 @@
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
-        "divider": false
+        "divider": true
       }
     },
     "rich_text_KkwPiq": {
@@ -303,7 +304,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-157.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },

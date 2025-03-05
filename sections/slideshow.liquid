@@ -260,7 +260,7 @@
                           {%- if block.settings.link_text != blank or block.settings.link_text_2 != blank -%}
                             <div class="hero__link">
                               {%- if block.settings.link_text != blank -%}
-                                <a href="{{ block.settings.link }}" class="btn{% if block.settings.color_accent contains 'rgba(0,0,0,0)' %} btn--inverse{% endif %}">
+                                <a href="{{ block.settings.link }}" class="btn{% if block.settings.color_accent contains 'rgba(0,0,0,0)' %} btn--inverse{% endif %} {% if block.settings.disable_border_button %} noborder {% endif %}">
                                   {{ block.settings.link_text }}
                                 </a>
                               {%- endif -%}
@@ -542,7 +542,13 @@
           "max": 100,
           "step": 2,
           "unit": "%"
-        }
+        },
+            {
+      "type": "checkbox",
+      "id": "disable_border_button",
+      "label": "Disable border button",
+      "default": false
+    },
       ]
     }
   ],

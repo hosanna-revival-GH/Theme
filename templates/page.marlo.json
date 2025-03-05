@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spring-Collection-2022-Aesthetic-Styled-Hosanna-Revival-116.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,7 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich_text_44Kk9t": {
@@ -110,7 +111,7 @@
             "image_width": 650,
             "title": "NLT TRANSLATION",
             "text": "<p>The New Living Translation is a <em>thought for thought</em> translation, making for easy readability and immersive storytelling.</p>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -123,7 +124,7 @@
             "image_width": 650,
             "title": "NOTETAKING MARGINS",
             "text": "<p>Featuring our custom Hosanna Revival typeset, the Marlo Bible contains spacious journaling columns for easy annotation and deep study. </p>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -136,7 +137,7 @@
             "image_width": 650,
             "title": "MINIMAL DESIGN",
             "text": "<p>Our Marlo Bible, known for its minimal design and soft suede-like material, features a delicate wildflower bouquet and Psalm 46:10: \"Be still and know that I am God.\"</p>",
-            "button_label": "Optional button",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -215,7 +216,9 @@
       ],
       "settings": {
         "title": "",
-        "align_text": "center"
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
       }
     },
     "rich_text_teWN4h": {

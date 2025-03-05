@@ -28,7 +28,8 @@
             "image": "shopify://shop_images/Spread-The-Word-Desktop-01_1.png",
             "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-01_1.png",
             "parallax_direction": "left",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -64,7 +65,8 @@
             "image": "shopify://shop_images/Spread-The-Word-Desktop-02_1.png",
             "image_mobile": "shopify://shop_images/Spread-The-Word-Mobile-02_1.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -397,7 +399,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-006.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
