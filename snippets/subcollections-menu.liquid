@@ -22,11 +22,11 @@
     <div class="collection-sidebar small--hide">
       <ul class="no-bullets tag-list tag-list--active-tags">
         {% assign main_menu = linklists.main-menu %}
-        {% assign first_parent = main_menu.links.first %}
-       
-          {% if first_parent.links != blank %}
+        {% assign first_parent = main_menu.links %}
+       {% for top_parent in first_parent.links %}
+          {% if top_parent.links != blank %}
             <ul class="no-bullets tag-list">
-              {% for child_link in first_parent.links %}
+              {% for child_link in top_parent.links %}
                 {% assign child_handle = child_link.url | split: '/' | last %}
                 {% unless rendered_handles contains child_handle %}
                   {% assign rendered_handles = rendered_handles | append: child_handle | append: ',' %}
@@ -52,7 +52,7 @@
               {% endfor %}
             </ul>
           {% endif %}
-     
+      {% endfor %}
       </ul>
     </div>
   </div>
