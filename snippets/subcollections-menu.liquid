@@ -23,7 +23,7 @@
       <ul class="no-bullets tag-list tag-list--active-tags">
         {% assign main_menu = linklists.main-menu %}
         {% assign first_parent = main_menu.links.first %}
-        {% if first_parent.url == '/collections/hosanna-revival-shop' %}
+       
           {% if first_parent.links != blank %}
             <ul class="no-bullets tag-list">
               {% for child_link in first_parent.links %}
@@ -52,7 +52,7 @@
               {% endfor %}
             </ul>
           {% endif %}
-        {% endif %}
+     
       </ul>
     </div>
   </div>
