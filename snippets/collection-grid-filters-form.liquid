@@ -21,6 +21,7 @@
 </ul>
 
 <form class="filter-form">
+ {% comment %} Custom Menu Sidebar to match old theme {% endcomment %}
   {%- render 'subcollections-menu' -%}
 {%- for filter in filters -%}
   {%- capture filter_id -%}filter-{{ filter.label | handleize }}{%- endcapture -%}
