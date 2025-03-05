@@ -359,15 +359,23 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Consider someone to refer in your life!</em></p>",
+            "text": "<p><em>Give $10, get $10! Consider someone to refer in your life!</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
+          }
+        },
+        "button_biUdpW": {
+          "type": "button",
+          "settings": {
+            "link": "https://hosannarevival.com/pages/spread-the-word",
+            "link_text": "Refer a Friend"
           }
         }
       },
       "block_order": [
         "heading_atfGgx",
-        "text_BikkxB"
+        "text_BikkxB",
+        "button_biUdpW"
       ],
       "settings": {
         "align_text": "center",
@@ -387,7 +395,7 @@
         "image_nU3bYN": {
           "type": "image",
           "settings": {
-            "top_subheading": "\"God's Word brings revival. We've seen it time and time again and we don't think he's done yet.\"",
+            "top_subheading": "God’s Word brings revival. We've seen it time and time again and we don’t think he’s done yet.",
             "title": "",
             "title_size": 80,
             "subheading": "",
