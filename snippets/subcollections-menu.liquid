@@ -12,18 +12,6 @@
 {% endstyle %}
 {% assign main_menu = linklists.main-menu %}
 <button type="button" class="collapsible-trigger shop-button-custom collapsible-trigger-btn collapsible--auto-height{% unless collapsed_state %} is-open{% endunless %} tag-list__header" aria-controls="{{ location }}-{{ index }}{% if id %}-{{ id }}{% endif %}">
-  {% for top_parent in main_menu.links %}
-    {{ top_parent.title }}
-  {% endfor %}
-  {% render 'collapsible-icons' %}
-</button>
-<div
-  id="{{ location }}-{{ forloop.index }}"
-  class="collapsible-content collapsible-content--sidebar{% unless collapsed_state %} is-open{% endunless %}"
-  {% unless collapsed_state %}style="height: auto;"{% endunless %}>
-  <div class="collapsible-content__inner">
-    <div class="collection-sidebar small--hide">
-      <ul class="no-bullets tag-list tag-list--active-tags">
         {% assign current_parent = nil %}
         {% for top_parent in main_menu.links %}
           {% assign parent_match = false %}
@@ -51,13 +39,21 @@
             {% assign current_parent = top_parent %}
             {% break %}
           {% endif %}
-        {% endfor %}
+        {% endfor %}  
         {% if current_parent %}
-          <li class="tag {% if current_parent.url == current_url %}active{% endif %}">
-            <a href="{{ current_parent.url }}" class="no-ajax" style="{% if current_parent.url == current_url %}font-weight: bold;{% endif %}">
+
               {{ current_parent.title }}
-            </a>
-          </li>
+  {% endif %}
+  {% render 'collapsible-icons' %}
+</button>
+<div
+  id="{{ location }}-{{ forloop.index }}"
+  class="collapsible-content collapsible-content--sidebar{% unless collapsed_state %} is-open{% endunless %}"
+  {% unless collapsed_state %}style="height: auto;"{% endunless %}>
+  <div class="collapsible-content__inner">
+    <div class="collection-sidebar small--hide">
+      <ul class="no-bullets tag-list tag-list--active-tags">
+        {% if current_parent %}
           {% if current_parent.links != blank %}
             <ul class="no-bullets tag-list">
               {% for child_link in current_parent.links %}
