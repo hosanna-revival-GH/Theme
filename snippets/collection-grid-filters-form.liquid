@@ -4,6 +4,7 @@
 - collapsed: boolean
 {% endcomment %}
 
+
 <ul class="no-bullets tag-list tag-list--active-tags">
 {%- for filter in filters -%}
   {%- assign filter_index = forloop.index -%}
@@ -20,6 +21,10 @@
 </ul>
 
 <form class="filter-form">
+  {% if settings.enable_legacy_subnav %}
+ {% comment %} Custom Menu Sidebar to match old theme {% endcomment %}
+  {%- render 'subcollections-menu' -%}
+  {% endif %}
 {%- for filter in filters -%}
   {%- capture filter_id -%}filter-{{ filter.label | handleize }}{%- endcapture -%}
   {%- assign filter_index = forloop.index -%}
