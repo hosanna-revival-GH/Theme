@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Dwelling-Place-Create-Through-Scripture-Stamp-Header-4.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -96,7 +97,9 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>an invitation to create</em></p>"
+            "text": "<p><em>an invitation to create</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -128,7 +131,9 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 84</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>"
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 84</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -257,7 +262,9 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Follow along on Instagram @<a href=\"https://www.instagram.com/hosannarevival\" target=\"_blank\" title=\"Hosanna Revival's Instagram\">HosannaRevival</a> and share how you’re engaging with Scripture through creativity with the hashtag <a href=\"https://www.instagram.com/explore/tags/createthroughscripture/\" target=\"_blank\" title=\"https://www.instagram.com/explore/tags/createthroughscripture/\">#CreateThroughScripture</a>. We can’t wait to see what you create!</p>"
+            "text": "<p>Follow along on Instagram @<a href=\"https://www.instagram.com/hosannarevival\" target=\"_blank\" title=\"Hosanna Revival's Instagram\">HosannaRevival</a> and share how you’re engaging with Scripture through creativity with the hashtag <a href=\"https://www.instagram.com/explore/tags/createthroughscripture/\" target=\"_blank\" title=\"https://www.instagram.com/explore/tags/createthroughscripture/\">#CreateThroughScripture</a>. We can’t wait to see what you create!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -293,7 +300,9 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Each week, we invite a talented artist to respond to the focal passage from their area of expertise. Meet them below!</em></p>"
+            "text": "<p><em>Each week, we invite a talented artist to respond to the focal passage from their area of expertise. Meet them below!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -426,7 +435,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 20,
-        "space_below": 20
+        "space_below": 60
       }
     },
     "slideshow_WRxtQf": {
@@ -447,7 +456,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-045B.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -477,14 +487,18 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>a journey to create through Psalm 16</em></p>"
+            "text": "<p><em>a journey to create through Psalm 16</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_8ALqLW": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Loving this series? Journey through Psalm 16 with us through the 4-week series <em>Pleasant Places</em>! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>"
+            "text": "<p>Loving this series? Journey through Psalm 16 with us through the 4-week series <em>Pleasant Places</em>! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -512,8 +526,8 @@
         "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 20,
-        "space_below": 20
+        "space_above": 30,
+        "space_below": 75
       }
     }
   },

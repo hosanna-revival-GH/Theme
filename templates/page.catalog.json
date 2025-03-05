@@ -12,9 +12,12 @@
     "main": {
       "type": "main-page",
       "disabled": true,
+      "custom_css": [
+        ".index-section {margin: 0 0;}"
+      ],
       "settings": {
-        "page_title_enable": true,
-        "page_content_enable": true
+        "page_title_enable": false,
+        "page_content_enable": false
       }
     },
     "text_and_image_B8EeYx": {

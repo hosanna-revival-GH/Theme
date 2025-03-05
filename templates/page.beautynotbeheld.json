@@ -256,7 +256,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Beauty-Not-Beheld-Devotional-Hosanna-Revival-Floral-Nest-183.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -365,16 +366,15 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Artboard_13.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
       "block_order": [
         "image_7eXp6H"
       ],
-      "custom_css": [
-        ".hero__link a {border: 2px solid #fff !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "section_height": "450px",
         "mobile_height": "auto",
