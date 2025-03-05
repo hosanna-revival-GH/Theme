@@ -112,7 +112,7 @@
             "image_mask": "none",
             "image_width": 90,
             "title": "Step 2",
-            "text": "<p>Enter their email to gift them $10 off. <br/><em>(Tip: Choose a tool to walk through together!)</em></p>",
+            "text": "<p>Send them your referral link or enter their email above to gift them $10 off. <em>Tip: Choose a tool to walk through together!</em></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -148,7 +148,7 @@
         "heading_XYCJ8L": {
           "type": "heading",
           "settings": {
-            "title": "Once you’ve referred a friend, it’s time to follow up"
+            "title": "Referred a friend? Follow up!"
           }
         },
         "text_BfwGUm": {
