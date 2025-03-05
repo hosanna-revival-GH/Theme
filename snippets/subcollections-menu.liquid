@@ -13,7 +13,7 @@
 {% assign main_menu = linklists.main-menu %}
 <button type="button" class="collapsible-trigger shop-button-custom collapsible-trigger-btn collapsible--auto-height{% unless collapsed_state %} is-open{% endunless %} tag-list__header" aria-controls="{{ location }}-{{ index }}{% if id %}-{{ id }}{% endif %}">
   {% for top_parent in main_menu.links %}
-    {{ current_parent.title }}
+    {{ top_parent.title }}
   {% endfor %}
   {% render 'collapsible-icons' %}
 </button>
