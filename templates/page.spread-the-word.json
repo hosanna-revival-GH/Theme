@@ -599,6 +599,74 @@
         "enable_gutter": false
       }
     },
+    "featured_collection_WzQPqD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "slideshow_VreUm9": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gXUbgV": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/STW-05.png",
+            "image_mobile": "shopify://shop_images/STW-06.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        },
+        "image_7tCiHk": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_gXUbgV",
+        "image_7tCiHk"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
     "faq_ME8cjJ": {
       "type": "faq",
       "blocks": {
@@ -819,6 +887,8 @@
     "rich_text_tMHfQV",
     "text_columns_NEyPwE",
     "featured_collections_VJLYiB",
+    "featured_collection_WzQPqD",
+    "slideshow_VreUm9",
     "faq_ME8cjJ",
     "slideshow_QM68we"
   ]
