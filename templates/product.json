@@ -104,6 +104,31 @@
         "product_video_style": "muted"
       }
     },
+    "1741184643ed90d276": {
+      "type": "apps",
+      "blocks": {
+        "shopacado_discounts_discount_table_VUmDe6": {
+          "type": "shopify://apps/shopacado-discounts/blocks/discount-table/5950831a-4e4e-40a4-82b0-674110b50a14",
+          "settings": {
+            "theme_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "shopacado_discounts_discount_table_VUmDe6"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1741184681e9df0a65": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "1739850095b5b19c44": {
       "type": "apps",
       "blocks": {
@@ -149,6 +174,8 @@
   },
   "order": [
     "main",
+    "1741184643ed90d276",
+    "1741184681e9df0a65",
     "1739850095b5b19c44",
     "sub",
     "product-recommendations",
