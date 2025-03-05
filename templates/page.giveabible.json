@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-029_2.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -194,6 +195,27 @@
         "space_below": 75
       }
     },
+    "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/FINALGBB_FULL-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "God Behind Bars",
+        "text": "<p><strong>Location: </strong>Nevada<br/><strong>Mission: </strong>By inviting God into prison and showing His love in tangible ways, God Behind Bars is restoring lives, building faith, fighting addictions, reconnecting families, and giving thousands of inmates hope for the future.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "9a51c368-4f34-46d2-8d33-93193d8a531a": {
       "type": "text-and-image",
       "settings": {
@@ -230,27 +252,6 @@
         "align_text": "left",
         "image_width": "50",
         "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/FINALGBB_FULL-03.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "God Behind Bars",
-        "text": "<p><strong>Location: </strong>Nevada<br/><strong>Mission: </strong>By inviting God into prison and showing His love in tangible ways, God Behind Bars is restoring lives, building faith, fighting addictions, reconnecting families, and giving thousands of inmates hope for the future.</p>",
-        "button_label": "Learn More Here",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -501,9 +502,9 @@
     "text_columns_f7FULJ",
     "single_button_aEmAiK",
     "rich_text_JKfTHm",
+    "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe",
     "9a51c368-4f34-46d2-8d33-93193d8a531a",
     "403ce5a5-a366-47dd-86fb-5006650ee54b",
-    "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe",
     "ea2a9dab-8399-49bd-aa27-05cf0101993d",
     "dbc8ea1f-ddbb-4205-8115-da2327f750d3",
     "2d4443b2-b026-4883-abd8-68cf2d767caf",
