@@ -3,7 +3,7 @@
 - enable_color_swatches: boolean
 - collapsed: boolean
 {% endcomment %}
-{%- render 'subcollections-menu' -%}
+
 
 <ul class="no-bullets tag-list tag-list--active-tags">
 {%- for filter in filters -%}
@@ -264,6 +264,7 @@
           {%- endcase -%}
         </div>
       </div>
+      {%- render 'subcollections-menu' -%}
     </div>
   </div>
 {%- endfor -%}
