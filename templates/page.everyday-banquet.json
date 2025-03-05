@@ -90,7 +90,7 @@
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
-        "divider": false
+        "divider": true
       }
     },
     "single_button_3nqeGe": {
@@ -100,7 +100,7 @@
         "button_link": "https://hosannarevival.com/EB-preview",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 10,
         "space_below": 20
       }
     },
@@ -171,45 +171,396 @@
         "enable_zoom": false
       }
     },
-           "text_and_image_MBmXCy": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-22_1.jpg",
-              "image_width": "50",
-              "subtitle": "The Details",
-              "title": "The Everyday Banquet",
-              "text": "<p><strong>Topic:</strong> Family Discipleship</p><p><strong>Length of Study:</strong> 52 Weeks</p><p><strong>Focal Scripture:</strong> Multiple Passages</p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
-          "text_and_image_NRQa86": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Everyday-Banquet-Seasonal-Family-Discipleship-Devotional-Cookbook-SarahRuth-Owens-Styled-Shoot-Hosanna-Revival-063.jpg",
-              "image_width":"50",
-              "subtitle": "",
-              "title": "This devotional is for you if...",
-              "text": "<ol><li>You desire to cultivate faith-filled conversations at meal times with your family.</li><li>You are looking for family rhythms of discipleship.</li><li>You long to see your children engage with God and his Word.</li></ol>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "right"
-            }
-          },
-          "text_and_image_tMbN77": {
-            "type": "text-and-image",
-            "settings": {
-              "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-48.png",
-              "image_width": "50",
-              "subtitle": "",
-              "title": "The Book Structure",
-              "text": "<p><strong>Structure:</strong> 52 weekly entries divided into 4 seasons with 4 recipes and 4 hymns per season.</p><p><strong>Elements:</strong> <em>The Everyday Banquet</em> offers families four sections, each dedicated to a season of the year: Autumn, Winter, Spring, and Summer. In each section, you’ll find four recipes that invite the entire family to enjoy preparing meals together, four hymns that provide an opportunity for family worship, and thirteen devotionals that foster meaningful discussions about the Lord, promoting both sharing and listening. Each week will guide the parents to read the Bible to their family and then answer questions together. </p>",
-              "button_label": "",
-              "button_link": "",
-              "layout": "left"
-            }
-          },
+    "text_and_image_MBmXCy": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-22_1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Details",
+        "title": "The Everyday Banquet",
+        "text": "<p><strong>Topic:</strong> Family Discipleship</p><p><strong>Length of Study:</strong> 52 Weeks</p><p><strong>Focal Scripture:</strong> Multiple Passages</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_NRQa86": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Everyday-Banquet-Seasonal-Family-Discipleship-Devotional-Cookbook-SarahRuth-Owens-Styled-Shoot-Hosanna-Revival-063.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "This devotional is for you if...",
+        "text": "<ol><li>You desire to cultivate faith-filled conversations at meal times with your family.</li><li>You are looking for family rhythms of discipleship.</li><li>You long to see your children engage with God and his Word.</li></ol>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_tMbN77": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-48.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The Book Structure",
+        "text": "<p><strong>Structure:</strong> 52 weekly entries divided into 4 seasons with 4 recipes and 4 hymns per season.</p><p><strong>Elements:</strong> <em>The Everyday Banquet</em> offers families four sections, each dedicated to a season of the year: Autumn, Winter, Spring, and Summer. In each section, you’ll find four recipes that invite the entire family to enjoy preparing meals together, four hymns that provide an opportunity for family worship, and thirteen devotionals that foster meaningful discussions about the Lord, promoting both sharing and listening. Each week will guide the parents to read the Bible to their family and then answer questions together. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_4FfMLH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HBKE7c": {
+          "type": "heading",
+          "settings": {
+            "title": "Tangible ways to pursue dicscipleship as a family"
+          }
+        },
+        "text_HrgMjG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Each seasonal section includes 4 hymns, 4 recipes, and 13 devotionals designed to bring unity to your family. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_HBKE7c",
+        "text_HrgMjG"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#836a2a",
+        "color_text": "#ffffff",
+        "space_above": 40,
+        "space_below": 40
+      }
+    },
+    "image_row_Q8jwkL": {
+      "type": "image-row",
+      "blocks": {
+        "image_8Xby8k": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-64-Enhanced-NR_c4bcbbac-ec1d-424d-a425-6a10b61d1ee5.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_7hLM6E": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-61-Enhanced-NR_1_a3385849-0fea-4bbe-9605-2581698efebf.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_HAfcBq": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-67_415082ca-01d7-4b66-b7d8-b9f0debd9961.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_NMt6Am": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-69_1.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_8Xby8k",
+        "image_7hLM6E",
+        "image_HAfcBq",
+        "image_NMt6Am"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
+    "rich_text_MmJUzX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pnTW7K": {
+          "type": "heading",
+          "settings": {
+            "title": "A seasonal structure"
+          }
+        },
+        "text_FgDqyF": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>The Everyday Banquet</em> offers families four sections, each dedicated to a seasons of the year: Autumn, Winter, Spring, and Summer. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_pnTW7K",
+        "text_FgDqyF"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#836a2a",
+        "color_text": "#ffffff",
+        "space_above": 40,
+        "space_below": 40
+      }
+    },
+    "text_columns_PwThxw": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_Y4U3Wy": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-53_d763737d-c3aa-49f5-8964-13df7e8bdd84.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Hymns",
+            "text": "<p>Each season includes 4 hymns which serve as an opportunity for families to join in worship together. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_KzhFUc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-49_b7462f9a-31ae-4c91-8957-a76e68441681.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Recipes",
+            "text": "<p><em>The Everyday Banquet</em> includes 4 recipes per season meant to invite the entire family to enjoy preparing meals together.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_9RbdQP": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-56_4212b9b8-d972-40fd-bed9-5a019a45cfcd.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Devotionals",
+            "text": "<p>There are 13 devotionals per season, intentionally written to foster meaningful discussions about the Lord as a family. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Y4U3Wy",
+        "text_block_KzhFUc",
+        "text_block_9RbdQP"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_and_image_PNLYpf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sarah-Ruth-Headshots-Every-Day-Banquet-Seasonal-Family-Devotional-Cookbook-Hosanna-Revival-88.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Everyday Banquet Author",
+        "title": "SarahRuth Owens",
+        "text": "<p>SarahRuth Owens is a mother of three boys. She has seen the breakdown in healthy families firsthand through her work as a foster parent, child advocate, and teacher. One of her top priorities is to inspire parents to cultivate life-giving homes that will give children the foundation in God’s Word that is essential for a Christ-centered future.</p><p>SarahRuth Owens is hopeful that readers will find rhythms of family connection and unity and faith-filled conversation amidst the business of life.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_whtVFd": {
+      "type": "slideshow",
+      "blocks": {
+        "image_i4ManB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/products/the-everyday-banquet-by-sarahruth-owens",
+            "link_text": "Shop “The Everyday Banquet”",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#e8e8e1",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Everyday-Banquet-Seasonal-Family-Discipleship-Devotional-Cookbook-SarahRuth-Owens-Styled-Shoot-Hosanna-Revival-045_1.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_i4ManB"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_dgcFng": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NDEG3J": {
+          "type": "heading",
+          "settings": {
+            "title": "FROM THE INTRODUCTION"
+          }
+        },
+        "text_xWx4km": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“Every day we step outside our homes and face the world. Parents and children alike are bombarded with cultural norms, work expectations, and the demands of peers and teachers. As we return home, it is easy to continue on separately, to decompress in front of a device, or read a book alone. However, the family was designed by God to establish his kingdom on earth. While not the only way to establish his kingdom on earth, we are created to model his love, kindness, and generosity first toward those in our homes. It is our daily opportunity to practice kingdom principles and be the hands and feet of Jesus to those around us. When we sit at our dining room tables and engage with one another intentionally, we have a kingdom opportunity to impart his truth in a unique way. </p><p>So, may it start today. Grab your oven mitt and your favorite Bible, tell your children to meet you in the kitchen, and come to the table for an everyday banquet.”</p><p>- SarahRuth Owens, <em>The Everyday Banquet</em> </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_NDEG3J",
+        "text_xWx4km"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#836a2a",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_b36De8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gxyLhB": {
+          "type": "heading",
+          "settings": {
+            "title": "Frequently Asked Questions"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gxyLhB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#836a2a",
+        "space_above": 40,
+        "space_below": 0
+      }
+    },
+    "faq_MdLGQH": {
+      "type": "faq",
+      "blocks": {
+        "question_fQ78p7": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_XrCWYW": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_fQ78p7",
+        "question_XrCWYW"
+      ],
+      "settings": {
+        "title": "",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
+      }
+    }
   },
   "order": [
     "main",
@@ -220,7 +571,16 @@
     "text_and_image_zU4EYE",
     "image_row_kw4pfp",
     "text_and_image_MBmXCy",
-     "text_and_image_NRQa86",
-     "text_and_image_tMbN77"
+    "text_and_image_NRQa86",
+    "text_and_image_tMbN77",
+    "rich_text_4FfMLH",
+    "image_row_Q8jwkL",
+    "rich_text_MmJUzX",
+    "text_columns_PwThxw",
+    "text_and_image_PNLYpf",
+    "slideshow_whtVFd",
+    "rich_text_dgcFng",
+    "rich_text_b36De8",
+    "faq_MdLGQH"
   ]
 }
