@@ -41,7 +41,7 @@
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
-        "autoplay": true,
+        "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": false
       }
