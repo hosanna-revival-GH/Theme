@@ -46,6 +46,7 @@
       "blocks": {
         "announcement-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "10% off 2025 Planners",
             "link_text": "Intentionality meets functionality—it’s not too late to start your planner",
@@ -55,17 +56,17 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Begin your 5-Year Prayer Journal",
-            "link_text": "Commit to daily prayer and reflect on God’s faithfulness this year",
-            "link": "shopify://collections/one-thing-i-ask"
+            "text": "Your home for beautiful Bibles",
+            "link_text": "Find a Bible that excites you to engage in Scripture!",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Beautiful Bibles to excite you to engage in Scripture",
-            "link_text": "Explore our Bibles and the beauty they hold",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": "They're Back",
+            "link_text": "Shop the restock of these best-selling Bibles and notebooks",
+            "link": "shopify://collections/theyre-back"
           }
         },
         "announcement_mMUAeX": {

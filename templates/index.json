@@ -25,10 +25,11 @@
             "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1-16-25-Post-Sale-01_783826a2-19db-45eb-b114-ca852ef03880.png",
-            "image_mobile": "shopify://shop_images/1-16-25-Post-Sale-01.png",
+            "image": "shopify://shop_images/2-11-25-Post-Sale-01_b237edf2-c0d3-4549-8e94-036c33b1c274.png",
+            "image_mobile": "shopify://shop_images/2-11-25-Post-Sale-01_be5a25fa-5f26-4788-b01b-29527fd10963.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -48,8 +49,8 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "CHOOSE THE DESIGN THAT SPEAKS TO YOU",
-        "home_featured_products": "beautiful-bibles",
+        "title": "shop the restock",
+        "home_featured_products": "theyre-back",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -107,6 +108,7 @@
         "advanced_eCqhHF",
         "advanced_iCV8g9"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -127,14 +129,15 @@
             "subheading": "",
             "link": "https://hosannarevival.com/collections/best-sellers/bible",
             "link_text": "",
-            "link_2": "",
+            "link_2": "shopify://collections/beautiful-bibles",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1-16-25-Post-Sale-04_0ccc8402-def1-416f-994a-5e5e9fa314fb.png",
-            "image_mobile": "shopify://shop_images/1-16-25-Post-Sale-02_b9667ef4-2842-4d66-934e-42d69e538510.png",
+            "image": "shopify://shop_images/2-11-25-Post-Sale-03.png",
+            "image_mobile": "shopify://shop_images/2-11-25-Post-Sale-03_f4a9ec51-a961-4a58-956b-e1bd88a2144c.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -154,13 +157,50 @@
     "featured_collection_JDUqAJ": {
       "type": "featured-collection",
       "settings": {
-        "title": "Explore the Devotional Library",
-        "home_featured_products": "devotionals",
+        "title": "Beautiful Bibles",
+        "home_featured_products": "beautiful-bibles",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
+      }
+    },
+    "slideshow_BkBAEX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jifDy9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/1-01-25-web-07.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_jifDy9"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "promo_grid_rPL8cn": {
@@ -205,6 +245,7 @@
         "image_iFgL6D",
         "image_gaptee"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -229,9 +270,11 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1-09-25-web-010.png",
+            "image": "shopify://shop_images/2-11-25-Post-Sale-04.png",
+            "image_mobile": "shopify://shop_images/2-11-25-Post-Sale-04_501a0e4a-4bfb-4117-9f05-f1d0328076eb.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -246,35 +289,6 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
-      }
-    },
-    "slideshow_BkBAEX": {
-      "type": "slideshow",
-      "blocks": {
-        "image_jifDy9": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1-01-25-web-07.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_jifDy9"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "parallax": false,
-        "style": "minimal",
-        "autoplay": false,
-        "autoplay_speed": 7
       }
     }
   },
