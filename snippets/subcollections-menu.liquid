@@ -70,14 +70,14 @@
                       <ul class="no-bullets tag-list">
                         {% for grandchild_link in child_link.links %}
                           {% assign grandchild_handle = grandchild_link.url | split: '/' | last %}
-                          {% unless rendered_handles contains grandchild_handle %}
+    
                             {% assign rendered_handles = rendered_handles | append: grandchild_handle | append: ',' %}
                             <li class="tag {% if grandchild_link.url == current_url %}active{% endif %}">
                               <a href="{{ grandchild_link.url }}" class="no-ajax" style="{% if grandchild_link.url == current_url %}font-weight: bold;{% endif %}">
                                 {{ grandchild_link.title }}
                               </a>
                             </li>
-                          {% endunless %}
+
                         {% endfor %}
                       </ul>
                     {% endif %}
