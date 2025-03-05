@@ -22,7 +22,8 @@
   <div class="collapsible-content__inner">
     <div class="collection-sidebar small--hide">
       <ul class="no-bullets tag-list tag-list--active-tags">
-        {% for link in linklists.main-menu.links %}
+        {% assign main_menu = linklists.main-menu %}
+        {% for link in main_menu.links %}
           {% assign link_handle = link.url | split: '/' | last %}
           {% if link.url == '/collections/hosanna-revival-shop' %}
             {% assign parent_found = true %}
