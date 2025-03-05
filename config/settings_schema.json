@@ -1125,7 +1125,17 @@
         "min": 0.5,
         "max": 5,
         "step": 0.1
-      }
+      },
+           {
+        "type": "header",
+        "content": "Legacy Subnav"
+      },
+            {
+        "type": "checkbox",
+        "id": "enable_legacy_subnav",
+        "label": "Enable legacy subnav for collections",
+        "default": true
+      },
     ]
   },
 ]
