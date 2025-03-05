@@ -30,6 +30,11 @@
           {% endif %}
         {% endfor %}
         {% if current_parent %}
+          <li class="tag {% if current_parent.url == current_url %}active{% endif %}">
+            <a href="{{ current_parent.url }}" class="no-ajax" style="{% if current_parent.url == current_url %}font-weight: bold;{% endif %}">
+              {{ current_parent.title }}
+            </a>
+          </li>
           {% if current_parent.links != blank %}
             <ul class="no-bullets tag-list">
               {% for child_link in current_parent.links %}
