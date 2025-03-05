@@ -12,9 +12,6 @@
 <div id="CollectionSidebar" data-style="{{ filter_style }}">
     {%- if filter_style == 'sidebar' -%}
       {% comment %} Custom Menu Sidebar to match old theme {% endcomment %}
-        <div class="collection-sidebar small--hide">
-        {%- render 'subcollections-menu' -%}
-      </div>
     <div class="collection-sidebar small--hide">
         {%- render 'collection-grid-filters-form', location: 'CollectionSidebar', filters: collection.filters, collapsed: collapsed, enable_color_swatches: enable_color_swatches -%}
     </div>
