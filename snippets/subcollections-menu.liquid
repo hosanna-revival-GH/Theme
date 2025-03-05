@@ -24,6 +24,7 @@
       <ul class="no-bullets tag-list tag-list--active-tags">
         {% assign main_menu = linklists.main-menu %}
         {% for link in main_menu.links %}
+          {{ link.title }}
           {% assign link_handle = link.url | split: '/' | last %}
           {% if link.url == '/collections/hosanna-revival-shop' %}
             {% assign parent_found = true %}
