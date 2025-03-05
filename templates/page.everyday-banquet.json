@@ -170,7 +170,46 @@
         "enable_spacing": false,
         "enable_zoom": false
       }
-    }
+    },
+           "text_and_image_MBmXCy": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-22_1.jpg",
+              "image_width": "50",
+              "subtitle": "The Details",
+              "title": "The Everyday Banquet",
+              "text": "<p><strong>Topic:</strong> Family Discipleship</p><p><strong>Length of Study:</strong> 52 Weeks</p><p><strong>Focal Scripture:</strong> Multiple Passages</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "text_and_image_NRQa86": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Everyday-Banquet-Seasonal-Family-Discipleship-Devotional-Cookbook-SarahRuth-Owens-Styled-Shoot-Hosanna-Revival-063.jpg",
+              "image_width":"50",
+              "subtitle": "",
+              "title": "This devotional is for you if...",
+              "text": "<ol><li>You desire to cultivate faith-filled conversations at meal times with your family.</li><li>You are looking for family rhythms of discipleship.</li><li>You long to see your children engage with God and his Word.</li></ol>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+          "text_and_image_tMbN77": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-48.png",
+              "image_width": "50",
+              "subtitle": "",
+              "title": "The Book Structure",
+              "text": "<p><strong>Structure:</strong> 52 weekly entries divided into 4 seasons with 4 recipes and 4 hymns per season.</p><p><strong>Elements:</strong> <em>The Everyday Banquet</em> offers families four sections, each dedicated to a season of the year: Autumn, Winter, Spring, and Summer. In each section, you’ll find four recipes that invite the entire family to enjoy preparing meals together, four hymns that provide an opportunity for family worship, and thirteen devotionals that foster meaningful discussions about the Lord, promoting both sharing and listening. Each week will guide the parents to read the Bible to their family and then answer questions together. </p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
   },
   "order": [
     "main",
@@ -179,6 +218,9 @@
     "featured_collection_nj8M7T",
     "single_button_3nqeGe",
     "text_and_image_zU4EYE",
-    "image_row_kw4pfp"
+    "image_row_kw4pfp",
+    "text_and_image_MBmXCy",
+     "text_and_image_NRQa86",
+     "text_and_image_tMbN77"
   ]
 }
