@@ -303,7 +303,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "",
-            "text": "<p>Learn where to begin when opening the Bible</p>",
+            "text": "<p>Learn where to begin when opening the Bible.</p>",
             "button_label": "Explore the toolkit",
             "button_link": "shopify://pages/bible-toolkit"
           }
@@ -316,7 +316,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "",
-            "text": "<p>Learn the power of prayer and where to start when it's hard to pray</p>",
+            "text": "<p>Learn the power of prayer and where to start when it’s hard to pray.</p>",
             "button_label": "Learn more about prayer",
             "button_link": ""
           }
@@ -329,7 +329,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "",
-            "text": "<p>Find an article on a practical, everyday topic that points you to Scripture</p>",
+            "text": "<p>Find an article on a practical, everyday topic that points you to Scripture.</p>",
             "button_label": "Find an article",
             "button_link": ""
           }
