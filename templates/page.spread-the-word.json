@@ -17,6 +17,62 @@
         "page_content_enable": true
       }
     },
+    "slideshow_i8pMi7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_HRCNtU": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/STW-03.png",
+            "image_mobile": "shopify://shop_images/STW-04.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        },
+        "image_Tg4H9J": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_HRCNtU",
+        "image_Tg4H9J"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
     "rich_text_7HwPDA": {
       "type": "rich-text",
       "blocks": {
@@ -750,6 +806,7 @@
   },
   "order": [
     "main",
+    "slideshow_i8pMi7",
     "rich_text_7HwPDA",
     "rich_text_7dpjVx",
     "text_columns_YCpTWi",
