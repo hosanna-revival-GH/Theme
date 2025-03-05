@@ -116,7 +116,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Blessings,</em><br/><em>Hosanna Revival </em></p>",
+            "text": "<p><em>We’re cheering you on!</em><br/><em>Hosanna Revival </em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -142,17 +142,25 @@
     "rich_text_9c9xjY": {
       "type": "rich-text",
       "blocks": {
+        "heading_c8fYNd": {
+          "type": "heading",
+          "settings": {
+            "title": "How will you use your $10 off?"
+          }
+        },
         "text_fUYcND": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>How will you use your referral?</em></p>",
+            "text": "<p><em>How will you use your $10 off?</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
+        "heading_c8fYNd",
         "text_fUYcND"
       ],
       "settings": {
@@ -164,7 +172,7 @@
         "color_bg": "#b9a038",
         "color_text": "#ffffff",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 15
       }
     },
     "text_columns_niCYLr": {
