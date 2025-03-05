@@ -534,127 +534,186 @@
     },
     "faq_MdLGQH": {
       "type": "faq",
-"blocks": {
-  "question_PHBD3i": {
-    "type": "question",
-    "settings": {
-      "title": "How did “The Everyday Banquet” begin?",
-      "text": "<p>In the hustle and bustle of early motherhood, I found mealtimes to be chaotic and stressful. Three little boys demanding, reaching, standing, and wanting to eat and run were not a recipe for peaceful, meaningful moments. However, deep in my heart, I had a vision of how mealtimes could become an anchor for the soul. <br/></p><p>You see, as a young girl, I gathered around my grandmother's Sabbath table each Friday evening. I stood in holy reverence as she covered her eyes and lit our Sabbath candles. I will never forget the smells, the gentle candlelight, and the great love I knew at her table. As I watched the chaos ensue at my own dining room table, I knew there had to be a way to invite my sons into the ancient path of my Jewish upbringing—the path that developed a strong faith in my young heart. <br/></p><p>So I pivoted. Instead of expecting fast and furious meal times, I played gentle worship music in the background and talked to my boys about our faith during meals. Sometimes we lit candles, other times we had teapots and special treats available to help them linger. Whatever I served (sometimes it was chicken nuggets and french fries from Chik-fil-A), I came to the table with purpose and intention: to share my faith and God's love with them. With a Bible in hand and a Spotify worship playlist cued up, I invited my sons to discourse about God and learn to worship him in our home during each meal. My pivot changed the atmosphere at our family table, and yours can too! <br/></p><p><em>The Everyday Banquet</em> is designed to guide you and your family as you journey through the seasons and holidays of one calendar year together. It is organized in such a way that you can learn from my own mistakes and get the package deal—a thoughtfully-organized, faith-filled devotional for your family to enjoy as you come to the table. </p>"
-    }
-  },
-  "question_xrfDir": {
-    "type": "question",
-    "settings": {
-      "title": "A year is a long time. I’m not sure I want to commit to a full year…",
-      "text": "<p>So, don’t! Commit to trying it out. This devotional is written in short, easy to digest pieces that a mother or father can use as an open and go guide, or choose to dig in deep and really digest. Each week can stand alone and it is not dependent upon the week before. Family discipleship is a one-foot-in-front-of-another kind of thing—just like your own faith walk. </p>"
-    }
-  },
-  "question_gb93yQ": {
-    "type": "question",
-    "settings": {
-      "title": "What is the structure like?",
-      "text": "<p><em>The Everyday Banquet</em> is divided into seasons. This allows for an easy entry at any time, where a family can start at any point in the devotional or even start and stop and then begin again. Every season also includes four original recipes and four hymns to use during family worship time.  Each week includes the same components: Preparation, In the Kitchen, Dining, Devotion & Reflection for one meaningful time at your dinner table. The idea is that your family will choose one meal and dedicate it to being present and together, focused on God and his Word.</p>"
-    }
-  },
-  "question_RWdRQ6": {
-    "type": "question",
-    "settings": {
-      "title": "What do I do if I miss a week(s)?",
-      "text": "<p>Just pick up the next week! It really is that easy. We wanted to create a resource for real families doing real life. Dance lessons, visits from grandparents, sickness, etc. happen. You will miss a week. Then you will feel better or have more time, and you can dive in again. </p>"
-    }
-  },
-  "question_AwfErp": {
-    "type": "question",
-    "settings": {
-      "title": "Are the weeks within a season connected or can I jump around?",
-      "text": "<p>The weeks are not connected so you can absolutely jump around if you would like. However, some weeks line up with specific holidays in a calendar year so be sure to align that week with when the holiday is occurring.</p>"
-    }
-  },
-  "question_q8KVKg": {
-    "type": "question",
-    "settings": {
-      "title": "I’m a terrible cook. Is this a cookbook? Is cooking an integral part of this devotional?",
-      "text": "<p>Great question! This is not a cookbook. The recipes are an extra way to cultivate family togetherness if you’d like to use them. You can absolutely grab take-out or bake frozen lasagna and use this devotional. </p>"
-    }
-  },
-  "question_6MMqFg": {
-    "type": "question",
-    "settings": {
-      "title": "My family is not musical. How should we approach the music section?",
-      "text": "<p>YouTube and <a href=\"https://open.spotify.com/playlist/02BuBepNFdnCQpr9DP1YDm?si=a1939c0e7f4a4449\"><span style=\"text-decoration:underline\">Spotify</span></a> are a wonderful way to incorporate the hymns from this devotional. Our family enjoys finding the hymns via the Happy Hymnody website whenever possible at HappyHymnody.com.</p>"
-    }
-  },
-  "question_QnEfpf": {
-    "type": "question",
-    "settings": {
-      "title": "What passages of Scripture are covered? Is it specific to one book?",
-      "text": "<p>This devotional includes a variety of verses from many books of the Bible. Instead of being a focused study of one book of the Bible, this devotional follows seasonal rhythms and directs families to have conversations about liturgical holidays, Jewish feasts, and basic faith tenets.</p>"
-    }
-  },
-  "question_CFUnU6": {
-    "type": "question",
-    "settings": {
-      "title": "What is the weekly commitment? How much work should I expect each week?",
-      "text": "<p>This devotional can be left open to be used on-the-go. If used in this manner, it is very little work. You can keep it on your dining room table and open it up at one meal time each week. That said, we have added special recipes, simple but meaningful multisensory activities, and more for those that would like to dive deeper into the rhythms. If you decide to do each week with the preparation suggested, you may spend about 15-30 minutes outside of your meal and cooking time, preparing for your everyday banquet. </p>"
-    }
-  },
-  "question_AMaQDC": {
-    "type": "question",
-    "settings": {
-      "title": "Is there an ideal age for kids to start using this devotional?",
-      "text": "<p>This devotional was written with families in mind. Children ages 5 to teens will find ways to participate each week. </p>"
-    }
-  },
-  "question_QR4GQi": {
-    "type": "question",
-    "settings": {
-      "title": "Do I have to start in the beginning? Can I start anytime?",
-      "text": "<p>This devotional is written so that families can jump in at any time. </p>"
-    }
-  },
-  "question_Ueerec": {
-    "type": "question",
-    "settings": {
-      "title": "Is the author Jewish? How much Jewish influence can I expect in this devotional?",
-      "text": "<p>SarahRuth Owens was born to a Jewish family. She was raised Jewish until age 10. She is currently a Messianic Jew. This means she continues to practice Judaism with the understanding that Jesus came and fulfilled the Old Testament prophecies about a coming Messiah. She has accepted him as the ultimate atoning sacrifice for her own sins and the sins of all humanity. This devotional includes weeks where families are guided through feasts described in the Old Testament. These feasts were given first to the Jewish people, but the entire counsel of God’s Word is good for the instruction of God’s children. In <em>The Everyday Banquet</em>, Christian families are invited to learn about these feasts and their powerful meaning for those that are disciples of Jesus. </p>"
-    }
-  },
-  "question_tt447P": {
-    "type": "question",
-    "settings": {
-      "title": "I am not Jewish. Is that ok? Can I still do this devotional?",
-      "text": "<p><em>The Everyday Banquet</em> was written for Christian families. This means that every devotional within the book that includes Jewish holidays and traditions is approached from a Christian perspective. The heart behind this is to connect the beautiful and valuable traditions of Judaism with the Gospel!</p>"
-    }
-  },
-  "question_FayXY7": {
-    "type": "question",
-    "settings": {
-      "title": "Is this just for families?",
-      "text": "<p>This devotional is best suited for families. Any kind of family can benefit from this devotional—single mothers, grandparents raising grandchildren, single fathers, adoptive families, step-families, etc. </p>"
-    }
-  }
-},
-    "block_order": [
-  "question_PHBD3i",
-  "question_xrfDir",
-  "question_gb93yQ",
-  "question_RWdRQ6",
-  "question_AwfErp",
-  "question_q8KVKg",
-  "question_6MMqFg",
-  "question_QnEfpf",
-  "question_CFUnU6",
-  "question_AMaQDC",
-  "question_QR4GQi",
-  "question_Ueerec",
-  "question_tt447P",
-  "question_FayXY7"
-],
+      "blocks": {
+        "question_PHBD3i": {
+          "type": "question",
+          "settings": {
+            "title": "How did “The Everyday Banquet” begin?",
+            "text": "<p>In the hustle and bustle of early motherhood, I found mealtimes to be chaotic and stressful. Three little boys demanding, reaching, standing, and wanting to eat and run were not a recipe for peaceful, meaningful moments. However, deep in my heart, I had a vision of how mealtimes could become an anchor for the soul. <br/></p><p>You see, as a young girl, I gathered around my grandmother's Sabbath table each Friday evening. I stood in holy reverence as she covered her eyes and lit our Sabbath candles. I will never forget the smells, the gentle candlelight, and the great love I knew at her table. As I watched the chaos ensue at my own dining room table, I knew there had to be a way to invite my sons into the ancient path of my Jewish upbringing—the path that developed a strong faith in my young heart. <br/></p><p>So I pivoted. Instead of expecting fast and furious meal times, I played gentle worship music in the background and talked to my boys about our faith during meals. Sometimes we lit candles, other times we had teapots and special treats available to help them linger. Whatever I served (sometimes it was chicken nuggets and french fries from Chik-fil-A), I came to the table with purpose and intention: to share my faith and God's love with them. With a Bible in hand and a Spotify worship playlist cued up, I invited my sons to discourse about God and learn to worship him in our home during each meal. My pivot changed the atmosphere at our family table, and yours can too! <br/></p><p><em>The Everyday Banquet</em> is designed to guide you and your family as you journey through the seasons and holidays of one calendar year together. It is organized in such a way that you can learn from my own mistakes and get the package deal—a thoughtfully-organized, faith-filled devotional for your family to enjoy as you come to the table. </p>"
+          }
+        },
+        "question_xrfDir": {
+          "type": "question",
+          "settings": {
+            "title": "A year is a long time. I’m not sure I want to commit to a full year…",
+            "text": "<p>So, don’t! Commit to trying it out. This devotional is written in short, easy to digest pieces that a mother or father can use as an open and go guide, or choose to dig in deep and really digest. Each week can stand alone and it is not dependent upon the week before. Family discipleship is a one-foot-in-front-of-another kind of thing—just like your own faith walk. </p>"
+          }
+        },
+        "question_gb93yQ": {
+          "type": "question",
+          "settings": {
+            "title": "What is the structure like?",
+            "text": "<p><em>The Everyday Banquet</em> is divided into seasons. This allows for an easy entry at any time, where a family can start at any point in the devotional or even start and stop and then begin again. Every season also includes four original recipes and four hymns to use during family worship time.  Each week includes the same components: Preparation, In the Kitchen, Dining, Devotion & Reflection for one meaningful time at your dinner table. The idea is that your family will choose one meal and dedicate it to being present and together, focused on God and his Word.</p>"
+          }
+        },
+        "question_RWdRQ6": {
+          "type": "question",
+          "settings": {
+            "title": "What do I do if I miss a week(s)?",
+            "text": "<p>Just pick up the next week! It really is that easy. We wanted to create a resource for real families doing real life. Dance lessons, visits from grandparents, sickness, etc. happen. You will miss a week. Then you will feel better or have more time, and you can dive in again. </p>"
+          }
+        },
+        "question_AwfErp": {
+          "type": "question",
+          "settings": {
+            "title": "Are the weeks within a season connected or can I jump around?",
+            "text": "<p>The weeks are not connected so you can absolutely jump around if you would like. However, some weeks line up with specific holidays in a calendar year so be sure to align that week with when the holiday is occurring.</p>"
+          }
+        },
+        "question_q8KVKg": {
+          "type": "question",
+          "settings": {
+            "title": "I’m a terrible cook. Is this a cookbook? Is cooking an integral part of this devotional?",
+            "text": "<p>Great question! This is not a cookbook. The recipes are an extra way to cultivate family togetherness if you’d like to use them. You can absolutely grab take-out or bake frozen lasagna and use this devotional. </p>"
+          }
+        },
+        "question_6MMqFg": {
+          "type": "question",
+          "settings": {
+            "title": "My family is not musical. How should we approach the music section?",
+            "text": "<p>YouTube and <a href=\"https://open.spotify.com/playlist/02BuBepNFdnCQpr9DP1YDm?si=a1939c0e7f4a4449\"><span style=\"text-decoration:underline\">Spotify</span></a> are a wonderful way to incorporate the hymns from this devotional. Our family enjoys finding the hymns via the Happy Hymnody website whenever possible at HappyHymnody.com.</p>"
+          }
+        },
+        "question_QnEfpf": {
+          "type": "question",
+          "settings": {
+            "title": "What passages of Scripture are covered? Is it specific to one book?",
+            "text": "<p>This devotional includes a variety of verses from many books of the Bible. Instead of being a focused study of one book of the Bible, this devotional follows seasonal rhythms and directs families to have conversations about liturgical holidays, Jewish feasts, and basic faith tenets.</p>"
+          }
+        },
+        "question_CFUnU6": {
+          "type": "question",
+          "settings": {
+            "title": "What is the weekly commitment? How much work should I expect each week?",
+            "text": "<p>This devotional can be left open to be used on-the-go. If used in this manner, it is very little work. You can keep it on your dining room table and open it up at one meal time each week. That said, we have added special recipes, simple but meaningful multisensory activities, and more for those that would like to dive deeper into the rhythms. If you decide to do each week with the preparation suggested, you may spend about 15-30 minutes outside of your meal and cooking time, preparing for your everyday banquet. </p>"
+          }
+        },
+        "question_AMaQDC": {
+          "type": "question",
+          "settings": {
+            "title": "Is there an ideal age for kids to start using this devotional?",
+            "text": "<p>This devotional was written with families in mind. Children ages 5 to teens will find ways to participate each week. </p>"
+          }
+        },
+        "question_QR4GQi": {
+          "type": "question",
+          "settings": {
+            "title": "Do I have to start in the beginning? Can I start anytime?",
+            "text": "<p>This devotional is written so that families can jump in at any time. </p>"
+          }
+        },
+        "question_Ueerec": {
+          "type": "question",
+          "settings": {
+            "title": "Is the author Jewish? How much Jewish influence can I expect in this devotional?",
+            "text": "<p>SarahRuth Owens was born to a Jewish family. She was raised Jewish until age 10. She is currently a Messianic Jew. This means she continues to practice Judaism with the understanding that Jesus came and fulfilled the Old Testament prophecies about a coming Messiah. She has accepted him as the ultimate atoning sacrifice for her own sins and the sins of all humanity. This devotional includes weeks where families are guided through feasts described in the Old Testament. These feasts were given first to the Jewish people, but the entire counsel of God’s Word is good for the instruction of God’s children. In <em>The Everyday Banquet</em>, Christian families are invited to learn about these feasts and their powerful meaning for those that are disciples of Jesus. </p>"
+          }
+        },
+        "question_tt447P": {
+          "type": "question",
+          "settings": {
+            "title": "I am not Jewish. Is that ok? Can I still do this devotional?",
+            "text": "<p><em>The Everyday Banquet</em> was written for Christian families. This means that every devotional within the book that includes Jewish holidays and traditions is approached from a Christian perspective. The heart behind this is to connect the beautiful and valuable traditions of Judaism with the Gospel!</p>"
+          }
+        },
+        "question_FayXY7": {
+          "type": "question",
+          "settings": {
+            "title": "Is this just for families?",
+            "text": "<p>This devotional is best suited for families. Any kind of family can benefit from this devotional—single mothers, grandparents raising grandchildren, single fathers, adoptive families, step-families, etc. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_PHBD3i",
+        "question_xrfDir",
+        "question_gb93yQ",
+        "question_RWdRQ6",
+        "question_AwfErp",
+        "question_q8KVKg",
+        "question_6MMqFg",
+        "question_QnEfpf",
+        "question_CFUnU6",
+        "question_AMaQDC",
+        "question_QR4GQi",
+        "question_Ueerec",
+        "question_tt447P",
+        "question_FayXY7"
+      ],
       "settings": {
         "title": "",
         "space_above": 0,
         "space_below": 0,
         "disable_section_margin": false
+      }
+    },
+    "featured_collection_LKQRUC": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "shop our other devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "single_button_qAG6g7": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Return to devotional library",
+        "button_link": "shopify://collections/devotionals",
+        "button_size": "large",
+        "alignment": "center",
+        "space_above": 10,
+        "space_below": 60
+      }
+    },
+    "slideshow_hXXV9g": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zrfnrr": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Everyday-Banquet-Seasonal-Family-Discipleship-Devotional-Cookbook-SarahRuth-Owens-Styled-Shoot-Hosanna-Revival-361_069faa22-1038-42ce-a1dc-6b81fd212c9d.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_zrfnrr"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     }
   },
@@ -677,6 +736,9 @@
     "slideshow_whtVFd",
     "rich_text_dgcFng",
     "rich_text_b36De8",
-    "faq_MdLGQH"
+    "faq_MdLGQH",
+    "featured_collection_LKQRUC",
+    "single_button_qAG6g7",
+    "slideshow_hXXV9g"
   ]
 }
