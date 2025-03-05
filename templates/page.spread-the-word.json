@@ -403,7 +403,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Devotionals",
-            "text": "<p>Walk through a devotional together and meet to discuss what you’re learning.</p>",
+            "text": "<p>Walk through a devotional together and discuss what you’re learning.</p>",
             "button_label": "Choose a devotional",
             "button_link": "shopify://collections/devotionals"
           }
