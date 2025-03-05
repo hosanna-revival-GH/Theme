@@ -40,6 +40,7 @@
         "heading_KwhieT",
         "text_3TPWpG"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -67,7 +68,7 @@
         "heading_rWtPdE": {
           "type": "heading",
           "settings": {
-            "title": "Here's how it works:"
+            "title": "Here’s how it works:"
           }
         }
       },
@@ -147,7 +148,7 @@
         "heading_XYCJ8L": {
           "type": "heading",
           "settings": {
-            "title": "Now that you've referred a friend, it's time to follow up"
+            "title": "Now that you’ve referred a friend, it’s time to follow up"
           }
         },
         "text_BfwGUm": {
@@ -202,7 +203,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-017.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -251,7 +253,7 @@
         "image_mask": "square",
         "image2_mask": "none",
         "subtitle": "1",
-        "title": "EVANGELISM",
+        "title": "Evangelism",
         "text": "<p>We have the incredible opportunity to share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written over our lives to share and point others to Jesus. God’s Word is the best tool to offer. It’s the beginning of understanding who God is and how he can change your life!</p>",
         "button_label": "",
         "button_link": "",
@@ -272,7 +274,7 @@
         "image_mask": "square",
         "image2_mask": "none",
         "subtitle": "2",
-        "title": "DISCIPLESHIP",
+        "title": "Discipleship",
         "text": "<p>One of the most beautiful relationships we can step into is a discipleship relationship with someone we care about. Learning to love the Lord and pursue his voice alongside someone else creates a friendship that is built upon something steadfast and eternal. </p>",
         "button_label": "",
         "button_link": "",
@@ -562,7 +564,7 @@
           "type": "question",
           "settings": {
             "title": "Is there a limit to how many friends I can refer?",
-            "text": "<p>Nope! Invite as many friends as you’d like. You’re inviting someone to invest in a beautiful tool to point them to Christ, so be intentional about whom you invite and consider how you can extend the invitation to grow together. We’re so excited to see how God moves through the beauty of his Word at work in the people you know.</p>"
+            "text": "<p>There’s no limit! Invite as many friends as you’d like. You’re inviting someone to invest in a beautiful tool to point them to Christ, so be intentional about whom you invite and consider how you can extend the invitation to grow together. We’re so excited to see how God moves through the beauty of his Word at work in the people you know.</p>"
           }
         },
         "question_MWiadG": {
@@ -575,7 +577,7 @@
         "question_8RKypM": {
           "type": "question",
           "settings": {
-            "title": "How can I see how many referrals I've made?",
+            "title": "How can I see how many referrals I’ve made?",
             "text": "<p>Any time you want to access the stats of how many referrals you’ve made, just click the “My Stats” button beneath the form on this page and input your email address to send your current stats over email immediately. It’s that simple!</p>"
           }
         },
@@ -605,7 +607,7 @@
           "type": "question",
           "settings": {
             "title": "Can I combine my referral reward with other discounts?",
-            "text": "<p>You can only use one code per order. Feel free to use your referral code at any time, please note - if we are running a sale you cannot use your referral code in combination with a promo code</p>"
+            "text": "<p>You can only use one code per order. You can use your referral code at any time, but please note—if we are running a sale, you cannot use your referral code in combination with a promo code.</p>"
           }
         },
         "question_BrKj3P": {
@@ -627,7 +629,7 @@
           "type": "question",
           "settings": {
             "title": "What does my friend get when I refer them?",
-            "text": "<p>Your friend will receive an email informing them that you have sent them a discount code. Within the email they will see their referral reward code and a link to purchase. If you referred them simply through sending your unique link, they will be directed to a page where they can sign up</p>"
+            "text": "<p>If you refer a friend through the portal on this page, our friend will receive an email informing them that you have sent them a discount code. Within the email they will see their referral reward code and a link to claim their discount. If you referred them simply through sending your unique link, they will be directed to a page where they can sign up.</p>"
           }
         },
         "question_yDMiK9": {
@@ -705,7 +707,8 @@
       "settings": {
         "title": "FREQUENTLY ASKED QUESTIONS",
         "space_above": 0,
-        "space_below": 0
+        "space_below": 0,
+        "disable_section_margin": false
       }
     },
     "slideshow_QM68we": {
@@ -726,7 +729,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-006.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
