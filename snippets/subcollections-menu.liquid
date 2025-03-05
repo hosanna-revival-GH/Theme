@@ -24,7 +24,7 @@
         {% assign main_menu = linklists.main-menu %}
         {% assign first_parent = main_menu.links %}
        {% for top_parent in linklists.main-menu.links %}
-          {% if top_parent.links != blank %}
+          {% if top_parent.links != blank and top_parent has current_url %}
             <ul class="no-bullets tag-list">
               {% for child_link in top_parent.links %}
                 {% assign child_handle = child_link.url | split: '/' | last %}
