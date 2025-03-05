@@ -21,8 +21,10 @@
 </ul>
 
 <form class="filter-form">
+  {% if settings.enable__legacy_subnav %}
  {% comment %} Custom Menu Sidebar to match old theme {% endcomment %}
   {%- render 'subcollections-menu' -%}
+  {% endif %}
 {%- for filter in filters -%}
   {%- capture filter_id -%}filter-{{ filter.label | handleize }}{%- endcapture -%}
   {%- assign filter_index = forloop.index -%}
