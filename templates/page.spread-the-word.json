@@ -309,72 +309,6 @@
         "space_below": 40
       }
     },
-    "rich_text_tMHfQV": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_HWyKWA": {
-          "type": "heading",
-          "settings": {
-            "title": "Why Spread the word?"
-          }
-        },
-        "text_JCirqA": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3>1. Evangelism</h3>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_Ufnwij": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We have the incredible opportunity to share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written over our lives to share and point others to Jesus. God’s Word is the best tool to offer. It’s the beginning of understanding who God is and how he can change your life!</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_K8aLex": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3>2. Discipleship</h3>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_Di3NJW": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>One of the most beautiful relationships we can step into is a discipleship relationship with someone we care about. Learning to love the Lord and pursue his voice alongside someone else creates a friendship that is built upon something steadfast and eternal. </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_HWyKWA",
-        "text_JCirqA",
-        "text_Ufnwij",
-        "text_K8aLex",
-        "text_Di3NJW"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#789ec8",
-        "color_text": "#f4efe6",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
     "text_columns_NEyPwE": {
       "type": "text-columns",
       "blocks": {
@@ -549,6 +483,72 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
+      }
+    },
+    "rich_text_tMHfQV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HWyKWA": {
+          "type": "heading",
+          "settings": {
+            "title": "Why Spread the word?"
+          }
+        },
+        "text_JCirqA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3>1. Evangelism</h3>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_Ufnwij": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We have the incredible opportunity to share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written over our lives to share and point others to Jesus. God’s Word is the best tool to offer. It’s the beginning of understanding who God is and how he can change your life!</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_K8aLex": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3>2. Discipleship</h3>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_Di3NJW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>One of the most beautiful relationships we can step into is a discipleship relationship with someone we care about. Learning to love the Lord and pursue his voice alongside someone else creates a friendship that is built upon something steadfast and eternal. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_HWyKWA",
+        "text_JCirqA",
+        "text_Ufnwij",
+        "text_K8aLex",
+        "text_Di3NJW"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#789ec8",
+        "color_text": "#f4efe6",
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "rich_text_dT78dR": {
@@ -874,10 +874,10 @@
     "text_and_image_RLEFtk",
     "text_and_image_jfeUAV",
     "rich_text_itMj6x",
-    "rich_text_tMHfQV",
     "text_columns_NEyPwE",
     "featured_collections_VJLYiB",
     "featured_collection_WzQPqD",
+    "rich_text_tMHfQV",
     "rich_text_dT78dR",
     "slideshow_VreUm9",
     "rich_text_aQiknw",
