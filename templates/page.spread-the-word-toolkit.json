@@ -657,7 +657,7 @@
         "css-class": "",
         "color_bg": "#b4a04b",
         "color_text": "#f4efe6",
-        "space_above": 75,
+        "space_above": 40,
         "space_below": 75
       }
     },
