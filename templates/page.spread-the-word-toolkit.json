@@ -780,30 +780,11 @@
             "css-class": "",
             "color_bg": "#ffffff",
             "color_text": "#000000",
-            "space_above": 75,
-            "space_below": 75,
-            "heading": "Rich text",
-            "enlarge_text": false,
-            "text": "<p>You might think to yourself...</p><ol><li>“I don’t want to further damage their view of God.”</li><li>“I don’t even actually know this person. Someone closer to them will hopefully step in.”</li><li>“I don’t want to be preachy.”</li><li>“I don’t think I know enough to answer their hard questions.”</li></ol><p></p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "rich_text_9gwtyk": {
-          "type": "rich_text",
-          "settings": {
-            "align_text": "center",
-            "narrow_column": true,
-            "divider": false,
-            "css-id": "",
-            "css-class": "",
-            "color_bg": "#ffffff",
-            "color_text": "#000000",
-            "space_above": 75,
-            "space_below": 75,
+            "space_above": 50,
+            "space_below": 50,
             "heading": "",
-            "enlarge_text": true,
-            "text": "",
+            "enlarge_text": false,
+            "text": "<p>You might think to yourself...</p><ol><li>“I don’t want to further damage their view of God.”</li><li>“I don’t even actually know this person. Someone closer to them will hopefully step in.”</li><li>“I don’t want to be preachy.”</li><li>“I don’t think I know enough to answer their hard questions.”</li></ol><p>The Lord wants to use each of us to communicate his true character and heart. God has a million tools that he can use to bring someone to himself… but one of them is <em>you</em>. He delights in using <em>you</em> to share the truth of his Word. So let him use you. Almost <em>always </em>these opportunities to share your faith will catch you off guard, and come up when you weren’t expecting it. Let’s equip ourselves to be ready to fight against the hesitations, and step into these life-saving conversations. </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -811,78 +792,11 @@
       },
       "block_order": [
         "rich_text_KNahXC",
-        "rich_text_xXWppt",
-        "rich_text_9gwtyk"
+        "rich_text_xXWppt"
       ],
       "settings": {
         "space_above": 0,
-        "space_below": 75
-      }
-    },
-    "rich_text_VjNMiR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_pbrdc9": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_j6HijV": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Talking about your faith can feel overwhelming. The enemy loves to fill us with doubts; reasons that sharing our faith isn’t worth it, or might ruin a friendship. </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_eC8Wde": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>You might think to yourself...</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_w6MpQQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<ol><li>“I don’t want to further damage their view of God.”</li><li>“I don’t even actually know this person. Someone closer to them will hopefully step in.”</li><li>“I don’t want to be preachy.”</li><li>“I don’t think I know enough to answer their hard questions.”</li></ol>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_WFxHAK": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>The Lord wants to use each of us to communicate his true character and heart. God has a million tools that he can use to bring someone to himself… but one of them is <em>you</em>. He delights in using <em>you</em> to share the truth of his Word. So let him use you. Almost <em>always </em>these opportunities to share your faith will catch you off guard, and come up when you weren’t expecting it. Let’s equip ourselves to be ready to fight against the hesitations, and step into these life-saving conversations. </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_pbrdc9",
-        "text_j6HijV",
-        "text_eC8Wde",
-        "text_w6MpQQ",
-        "text_WFxHAK"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "slideshow_cKbRKC": {
@@ -1180,7 +1094,6 @@
     "faq_bCeKA8",
     "slideshow_wapKpH",
     "toolkit_ypm8xN",
-    "rich_text_VjNMiR",
     "slideshow_cKbRKC",
     "faq_KxrqiD",
     "slideshow_LhNLN3",
