@@ -1063,6 +1063,7 @@
         "text_9THWx4",
         "text_FdWrrM"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -1073,6 +1074,63 @@
         "color_text": "#b4a04b",
         "space_above": 75,
         "space_below": 75
+      }
+    },
+    "slideshow_DiBQ9E": {
+      "type": "slideshow",
+      "blocks": {
+        "image_emg3Ft": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Read to Spread the word?",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "Refer a friend",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-076.jpg",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-076.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        },
+        "image_b3b76z": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_emg3Ft",
+        "image_b3b76z"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
@@ -1100,6 +1158,7 @@
     "slideshow_LhNLN3",
     "toolkit_KKkMJe",
     "rich_text_qH8GCU",
-    "rich_text_nQjz4Q"
+    "rich_text_nQjz4Q",
+    "slideshow_DiBQ9E"
   ]
 }
