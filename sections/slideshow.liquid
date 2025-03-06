@@ -291,6 +291,12 @@
   {%- endif -%}
 </div>
 
+{% style %}
+  .loaded .slideshow__slide.is-selected .hero__image-wrapper, .loaded[data-aos=hero__animation] .hero__image-wrapper {
+    transform: none;
+}
+{% endstyle %}
+
 {% schema %}
 {
   "name": "t:sections.slideshow.name",
