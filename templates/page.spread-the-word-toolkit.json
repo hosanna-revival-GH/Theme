@@ -1082,7 +1082,7 @@
         "image_emg3Ft": {
           "type": "image",
           "settings": {
-            "top_subheading": "Read to Spread the word?",
+            "top_subheading": "Ready to Spread the word?",
             "title": "",
             "title_size": 40,
             "subheading": "",
@@ -1098,29 +1098,10 @@
             "overlay_opacity": 0,
             "disable_border_button": false
           }
-        },
-        "image_b3b76z": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
         }
       },
       "block_order": [
-        "image_emg3Ft",
-        "image_b3b76z"
+        "image_emg3Ft"
       ],
       "settings": {
         "section_height": "650px",
