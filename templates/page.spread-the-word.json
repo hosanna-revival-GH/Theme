@@ -91,6 +91,25 @@
         "space_below": 75
       }
     },
+    "1741288688896c9367": {
+      "type": "apps",
+      "blocks": {
+        "rivo_loyalty_rewards_referrals_lp_referral_campaign_VzwE9H": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-referral-campaign/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "background_color": "",
+            "referral_campaign_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "rivo_loyalty_rewards_referrals_lp_referral_campaign_VzwE9H"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "rich_text_7dpjVx": {
       "type": "rich-text",
       "blocks": {
@@ -883,6 +902,7 @@
     "main",
     "slideshow_i8pMi7",
     "rich_text_7HwPDA",
+    "1741288688896c9367",
     "rich_text_7dpjVx",
     "text_columns_YCpTWi",
     "rich_text_itMj6x",
