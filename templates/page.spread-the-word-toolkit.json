@@ -326,8 +326,8 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "Why share the word?",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -340,13 +340,32 @@
             "overlay_opacity": 0,
             "disable_border_button": false
           }
+        },
+        "image_Mcpt4a": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
         }
       },
       "block_order": [
-        "image_LMERYH"
+        "image_LMERYH",
+        "image_Mcpt4a"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -356,11 +375,41 @@
         "disable_animation": false
       }
     },
+    "faq_m8H3CP": {
+      "type": "faq",
+      "blocks": {
+        "question_ECyrV4": {
+          "type": "question",
+          "settings": {
+            "title": "1. Discipleship",
+            "text": "<ul><li>Jesus says in Matthew 28:19, “Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.” What does it mean to “make disciples”? We observe and learn from Jesus that he had 12 disciples who followed him closely and learned from his actions and teachings. These men watched how Jesus spoke,prayed, and responded to conflict. They invited Jesus into their lives, homes, and families. In the same way, one of the most beautiful relationships you can step into is a discipleship relationship with someone you care about. Discipleship is an opportunity to walk alongside someone and invite them into every area of your life as you actively pursue the Lord.  When we build into someone in a close discipleship relationship, we are modeling in word and action how to love and follow Jesus.</li></ul>"
+          }
+        },
+        "question_VYCUjj": {
+          "type": "question",
+          "settings": {
+            "title": "2. Evangelism",
+            "text": "<ul><li>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. </li><li>Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives </li><li>We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </li><li>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives </li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "question_ECyrV4",
+        "question_VYCUjj"
+      ],
+      "settings": {
+        "title": "",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
+      }
+    },
     "rich_text_VEYrdF": {
       "type": "rich-text",
       "blocks": {
         "heading_R774X3": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Why share the Word?"
           }
@@ -368,7 +417,7 @@
         "text_w9cGAG": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
+            "enlarge_text": true,
             "text": "<p>Over 2,000 years ago Jesus walked this earth and shared the message of the gospel. His followers took that story and proclaimed it from the rooftops- spreading the word as far as they could. They shared the message of God’s love and the call to repent like their brother’s and sister’s lives depended on it… because well… they did.  </p><p>First century Christians saw thousands being killed for proclaiming their faith and spreading the word- but it didn’t stop them. The message of the gospel was too important to keep to themselves. </p><p>Those followers told someone about Jesus, who told someone, who told someone, until 2000+ years later, someone told <em>you. </em></p><p>Don’t let the message of the gospel stop with you. God’s call is consistent and clear: go and make disciples of all nations. </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
@@ -376,12 +425,14 @@
         },
         "heading_Mkpc67": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "1. Disicpleship"
           }
         },
         "text_ay7WXG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<p>Jesus says in Matthew 28:19, “Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.” What does it mean to “make disciples”? We observe and learn from Jesus that he had 12 disciples who followed him closely and learned from his actions and teachings. These men watched how Jesus spoke,prayed, and responded to conflict. They invited Jesus into their lives, homes, and families. In the same way, one of the most beautiful relationships you can step into is a discipleship relationship with someone you care about. Discipleship is an opportunity to walk alongside someone and invite them into every area of your life as you actively pursue the Lord.  When we build into someone in a close discipleship relationship, we are modeling in word and action how to love and follow Jesus.</p>",
@@ -391,12 +442,14 @@
         },
         "heading_83N9gg": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "2. Evangelism"
           }
         },
         "text_qNcMaG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<ul><li>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. </li><li>Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives </li><li>We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </li><li>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives.</li></ul>",
@@ -825,6 +878,43 @@
         "space_below": 75
       }
     },
+    "slideshow_LhNLN3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ppJ4NA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-057.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_ppJ4NA"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "rich_text_TWtU77": {
       "type": "rich-text",
       "blocks": {
@@ -979,43 +1069,6 @@
         "space_above": 75,
         "space_below": 75
       }
-    },
-    "slideshow_LhNLN3": {
-      "type": "slideshow",
-      "blocks": {
-        "image_ppJ4NA": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-057.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_ppJ4NA"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
     }
   },
   "order": [
@@ -1029,6 +1082,7 @@
     "rich_text_ihDdPU",
     "slideshow_Cy3Nyy",
     "rich_text_VEYrdF",
+    "faq_m8H3CP",
     "text_and_image_R7MJwA",
     "text_and_image_mLbPYT",
     "slideshow_LJxNi6",
