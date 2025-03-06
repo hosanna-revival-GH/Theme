@@ -314,9 +314,9 @@
     "featured_collection_nPPKkj": {
       "type": "featured-collection",
       "settings": {
-        "title": "Get $10 off a 5-Year Prayer journal",
-        "home_featured_products": "one-thing-i-ask",
-        "per_row": 4,
+        "title": "find a beautiful tool in our shop",
+        "home_featured_products": "hosanna-revival-shop",
+        "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
