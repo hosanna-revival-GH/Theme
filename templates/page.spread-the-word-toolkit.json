@@ -616,8 +616,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_bg": "#f5f0e6",
+        "color_text": "#b4a04b",
         "space_above": 75,
         "space_below": 75
       }
@@ -671,6 +671,51 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
+        "color_bg": "#b4a04b",
+        "color_text": "#f5f0e6",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_nQjz4Q": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FqnGN8": {
+          "type": "heading",
+          "settings": {
+            "title": "More resources"
+          }
+        },
+        "text_9THWx4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>If you’re looking for more resources on sharing your faith and growing in your walk with Jesus, check out some of these resources to help you navigate these conversations with confidence and love.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_FdWrrM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Articles on the topic of sharing your faith: </p><ul><li><a href=\"https://hosannarevival.blog/when-you-dont-know-how-to-share-your-faith-with-your-friends/\"><span style=\"text-decoration:underline\">https://hosannarevival.blog/when-you-dont-know-how-to-share-your-faith-with-your-friends/</span></a></li><li><a href=\"https://hosannarevival.blog/when-you-dont-feel-equipped-to-share-the-gospel/\"><span style=\"text-decoration:underline\">https://hosannarevival.blog/when-you-dont-feel-equipped-to-share-the-gospel/</span></a> </li></ul><p>Devotionals to walk through with someone new in their faith:</p><ul><li><em>Start from Here</em> by Ness Cannon</li><li><em>Pray Like This</em> by Katie Noble </li><li><em>The Story Circle</em> by Joshua Lenon</li></ul><p>Free Reading Plans </p><ul><li>The Bible Toolkit</li><li>John Reading Plan</li><li>Free Resources </li></ul>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_FqnGN8",
+        "text_9THWx4",
+        "text_FdWrrM"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
@@ -693,6 +738,7 @@
     "rich_text_VjNMiR",
     "rich_text_h3Y8B6",
     "rich_text_TWtU77",
-    "rich_text_qH8GCU"
+    "rich_text_qH8GCU",
+    "rich_text_nQjz4Q"
   ]
 }
