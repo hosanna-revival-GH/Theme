@@ -54,6 +54,7 @@
         },
         "announcement_FNqfy6": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Sign up for our free Holy Week email series",
             "link_text": "Our 8-Day study \"Broken for You\" begins April 13th",
