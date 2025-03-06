@@ -226,11 +226,45 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
+        },
+        "heading_Mkpc67": {
+          "type": "heading",
+          "settings": {
+            "title": "1. Disicpleship"
+          }
+        },
+        "text_ay7WXG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Jesus says in Matthew 28:19, “Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.” What does it mean to “make disciples”? We observe and learn from Jesus that he had 12 disciples who followed him closely and learned from his actions and teachings. These men watched how Jesus spoke,prayed, and responded to conflict. They invited Jesus into their lives, homes, and families. In the same way, one of the most beautiful relationships you can step into is a discipleship relationship with someone you care about. Discipleship is an opportunity to walk alongside someone and invite them into every area of your life as you actively pursue the Lord.  When we build into someone in a close discipleship relationship, we are modeling in word and action how to love and follow Jesus.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_83N9gg": {
+          "type": "heading",
+          "settings": {
+            "title": "2. Evangelism"
+          }
+        },
+        "text_qNcMaG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. </li><li>Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives </li><li>We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </li><li>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives.</li></ul>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
         "heading_R774X3",
-        "text_w9cGAG"
+        "text_w9cGAG",
+        "heading_Mkpc67",
+        "text_ay7WXG",
+        "heading_83N9gg",
+        "text_qNcMaG"
       ],
       "settings": {
         "align_text": "center",
@@ -246,6 +280,7 @@
     },
     "text_and_image_R7MJwA": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-017_79c76b00-945a-4b1f-88cd-228fd9987e32.jpg",
         "image_mask": "none",
@@ -264,6 +299,123 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_mLbPYT": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-092_1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "2",
+        "title": "Evangelism",
+        "text": "<ul><li>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. </li><li>Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives </li><li>We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </li><li>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives </li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_AQjwVC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dzAGCj": {
+          "type": "heading",
+          "settings": {
+            "title": "How do I spread the Word"
+          }
+        },
+        "text_Pxw8p3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Having the heart and intention to share your faith with others is a beautiful first step to spreading the Word. It’s often the next step that is difficult to pursue and confusing to approach. You may have someone that you love or that God has put on your heart, but you’re not quite sure how to open up that conversation with them. Here are a few starting points to begin talking about your faith! </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_Pbc6i8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<ol><li>Pray for these interactions when you spend time with God</li></ol>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_izjPb3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li>Before these opportunities come up, we can ask God for them. God delights in using you to share the gospel. When we ask God for opportunities to share our faith with the people in our path, he is often quick to make those moments clear. </li><li>Ask the Holy Spirit to prepare the hearer’s heart. Your conversation might be the first of many, or the final conversation that helps the gospel click. Trust that the Holy Spirit is working in their hearts and that he will use your conversation for his great purpose. </li><li>Ask the Holy Spirit to give you the words. The Holy Spirit lives in you and will go before you as you share the gospel. Without having all the answers or knowing all the right things to say, we can trust God to help us share exactly what is needed for this conversation.</li></ul>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_XUdDct": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>2. Share your testimony</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_hmtW8U": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li>Your testimony is one of the most powerful ways to share God’s Word. When you share how God has moved in your life, you get to explain the very real impact that a relationship with Jesus can have. You can do this in a casual way, by sharing simply how a relationship with God has healed certain parts of your heart or given you hope—or whatever feels right for you! If the person you are sharing with is curious to hear more, you can explain in greater detail how your story with God played out! </li><li>Tip: don’t make this out to be too complicated. Think about how someone might share how a mentor or teacher impacted them. You can casually share what God has done without creating an awkward lead up. Speak with confidence about how you’ve seen God move in your life; those who hear this story will be blessed </li></ul>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_rUBHM4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>3. Share how you spend your time</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_nddJfL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<ul><li>When we begin a relationship with Jesus, many aspects of our lives start to look different from those who are living “for the world” (1 John 2:15-17). Our time—once spent seeking personal satisfaction and affirmation from others—shifts toward honoring him. This change can sometimes be confusing to those who don’t share the same faith. How you spend your time can serve as a natural way to share your faith. Others may become curious and ask <em>why</em> you do—or don’t do—certain things, opening the door for meaningful conversations about your beliefs and the transformation Jesus brings.  </li><li>Examples: What are you doing this weekend? <em>I’ll go to church sunday. </em>Did you have a good start to your day? <em>Yes, I always start my day in prayer or reading the Bible if I’m not too rushed. It helps me start the day with a clear mind. </em>Where did you get that shirt? <em>A girl in my small group gave it to me.</em></li><li>Tip<em>: </em>Like in the examples above, never miss an opportunity to mention your faith. When people hear you talking about the natural ways your faith is a part of your life, it becomes a conversation starter for them, and makes approaching you about faith even easier.</li></ul>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_dzAGCj",
+        "text_Pxw8p3",
+        "text_Pbc6i8",
+        "text_izjPb3",
+        "text_XUdDct",
+        "text_hmtW8U",
+        "text_rUBHM4",
+        "text_nddJfL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b4a04b",
+        "color_text": "#f4efe6",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -275,6 +427,8 @@
     "rich_text_EF6G4d",
     "rich_text_ihDdPU",
     "rich_text_VEYrdF",
-    "text_and_image_R7MJwA"
+    "text_and_image_R7MJwA",
+    "text_and_image_mLbPYT",
+    "rich_text_AQjwVC"
   ]
 }
