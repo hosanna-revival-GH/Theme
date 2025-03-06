@@ -180,49 +180,6 @@
         "divider": false
       }
     },
-    "rich_text_aQiknw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_XYCJ8L": {
-          "type": "heading",
-          "settings": {
-            "title": "Referred a friend? Follow up!"
-          }
-        },
-        "text_BfwGUm": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Discipleship and accountability begin with connection, and we want to equip you to walk alongside those you love as you pursue the Lord. That’s why we created the <em>Spread the Word</em> <em>Toolkit</em>—to help you nurture friendships and pursue a relationship with God together.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "button_dAUCmh": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "link_text": "Explore the Spread the Word toolkit"
-          }
-        }
-      },
-      "block_order": [
-        "heading_XYCJ8L",
-        "text_BfwGUm",
-        "button_dAUCmh"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b9a038",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
     "slideshow_KCP8Bn": {
       "type": "slideshow",
       "blocks": {
@@ -657,6 +614,49 @@
         "disable_animation": false
       }
     },
+    "rich_text_aQiknw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XYCJ8L": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_BfwGUm": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Discipleship and accountability begin with connection, and we want to equip you to walk alongside those you love as you pursue the Lord. That’s why we created the <em>Spread the Word</em> <em>Toolkit</em>—to help you nurture friendships and pursue a relationship with God together.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_dAUCmh": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Explore the Spread the Word toolkit"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XYCJ8L",
+        "text_BfwGUm",
+        "button_dAUCmh"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b9a038",
+        "color_text": "#ffffff",
+        "space_above": 50,
+        "space_below": 75
+      }
+    },
     "faq_ME8cjJ": {
       "type": "faq",
       "blocks": {
@@ -869,7 +869,6 @@
     "rich_text_7HwPDA",
     "rich_text_7dpjVx",
     "text_columns_YCpTWi",
-    "rich_text_aQiknw",
     "slideshow_KCP8Bn",
     "rich_text_LjtCqL",
     "text_and_image_RLEFtk",
@@ -881,6 +880,7 @@
     "featured_collection_WzQPqD",
     "rich_text_dT78dR",
     "slideshow_VreUm9",
+    "rich_text_aQiknw",
     "faq_ME8cjJ",
     "slideshow_QM68we"
   ]
