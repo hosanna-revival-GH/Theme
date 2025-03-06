@@ -327,6 +327,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-028.jpg",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-027.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -514,6 +515,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-014.jpg",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-014.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -901,6 +903,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-082.jpg",
+            "image_mobile": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-082.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
