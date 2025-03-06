@@ -748,6 +748,77 @@
         "disable_animation": false
       }
     },
+    "toolkit_ypm8xN": {
+      "type": "toolkit",
+      "blocks": {
+        "rich_text_KNahXC": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b4a04b",
+            "color_text": "#f4efe6",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p>Talking about your faith can feel overwhelming. The enemy loves to fill us with doubts; reasons that sharing our faith isn’t worth it, or might ruin a friendship. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_xXWppt": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "Rich text",
+            "enlarge_text": false,
+            "text": "<p>You might think to yourself...</p><ol><li>“I don’t want to further damage their view of God.”</li><li>“I don’t even actually know this person. Someone closer to them will hopefully step in.”</li><li>“I don’t want to be preachy.”</li><li>“I don’t think I know enough to answer their hard questions.”</li></ol><p></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_9gwtyk": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_KNahXC",
+        "rich_text_xXWppt",
+        "rich_text_9gwtyk"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
     "rich_text_VjNMiR": {
       "type": "rich-text",
       "blocks": {
@@ -1108,6 +1179,7 @@
     "rich_text_AQjwVC",
     "faq_bCeKA8",
     "slideshow_wapKpH",
+    "toolkit_ypm8xN",
     "rich_text_VjNMiR",
     "slideshow_cKbRKC",
     "faq_KxrqiD",
