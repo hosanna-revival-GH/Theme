@@ -9,6 +9,44 @@
  */
 {
   "sections": {
+    "slideshow_gxeanB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WbCakE": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/STW-05_2.png",
+            "image_mobile": "shopify://shop_images/STW-06_1.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_WbCakE"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -22,6 +60,7 @@
       "blocks": {
         "liquid_RpWcHE": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<div style=\"width:100%;height:500px;\" data-fillout-id=\"fBE9kEtaZQus\" data-fillout-embed-type=\"standard\" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src=\"https://server.fillout.com/embed/v1/\"></script>",
             "width": "100%",
@@ -32,15 +71,34 @@
       "block_order": [
         "liquid_RpWcHE"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "hero_video_9Yka6c": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/15044744518a46088d430205ad6ce304.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
+    "slideshow_gxeanB",
     "main",
-    "advanced_content_RycVwR"
+    "advanced_content_RycVwR",
+    "hero_video_9Yka6c"
   ]
 }
