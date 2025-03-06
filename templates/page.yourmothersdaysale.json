@@ -36,7 +36,8 @@
             "image": "shopify://shop_images/MD-banner.png",
             "image_mobile": "shopify://shop_images/MD-banner-mobile.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -50,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_xgdjGx": {
@@ -211,7 +213,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "SHOP NEW ARRIVALS",
-        "home_featured_products": "spring-2023-collection",
+        "home_featured_products": "theyre-back",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
