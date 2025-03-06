@@ -44,13 +44,20 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement-0": {
+        "announcement_mMUAeX": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "10% off 2025 Planners",
-            "link_text": "Intentionality meets functionality—it’s not too late to start your planner",
-            "link": "shopify://collections/planners"
+            "text": "Get $10 off when you Spread the Word",
+            "link_text": "Refer a friend and you’ll both get $10 off your next order through our new referral program!",
+            "link": ""
+          }
+        },
+        "announcement_FNqfy6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Sign up for our free Holy Week email series",
+            "link_text": "Our 8-Day study \"Broken for You\" begins April 13th",
+            "link": ""
           }
         },
         "announcement-1": {
@@ -68,21 +75,13 @@
             "link_text": "Shop the restock of these best-selling Bibles and notebooks",
             "link": "shopify://collections/theyre-back"
           }
-        },
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Devotionals for every season",
-            "link_text": "Explore our devotional library for Scripture-based wisdom",
-            "link": "shopify://collections/devotionals"
-          }
         }
       },
       "block_order": [
-        "announcement-0",
+        "announcement_mMUAeX",
+        "announcement_FNqfy6",
         "announcement-1",
-        "announcement_NXQKWa",
-        "announcement_mMUAeX"
+        "announcement_NXQKWa"
       ],
       "settings": {
         "announcement_compact": true

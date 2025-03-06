@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/heres-whats-new_143ca2e2-df89-447b-8267-56a82036ff81.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -50,7 +51,19 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "single_button_JD887j": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Spread the word collective",
+        "button_link": "",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
       }
     },
     "single_button_z78Gx6": {
@@ -156,6 +169,7 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_JD887j",
     "single_button_z78Gx6",
     "single_button_KDXcyH",
     "single_button_eFchhW",

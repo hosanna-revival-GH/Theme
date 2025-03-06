@@ -17,10 +17,10 @@
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 80,
+            "title_size": 40,
             "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -37,7 +37,7 @@
         "image_BR8jJc"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -55,10 +55,10 @@
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "title_size": 40,
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -73,6 +73,85 @@
       },
       "block_order": [
         "image_ifbURP"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "promo_grid_dwNUkk": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_gRP37t": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spread-the-Word-Launch-03.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "33"
+          }
+        },
+        "image_m8pxaP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spread-the-Word-Launch-04.png",
+            "link": "shopify://collections/devotionals",
+            "width": "33"
+          }
+        },
+        "image_z9fy8G": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spread-the-Word-Launch-05.png",
+            "link": "shopify://collections/notebooks",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_gRP37t",
+        "image_m8pxaP",
+        "image_z9fy8G"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_gyMt8x": {
+      "type": "slideshow",
+      "blocks": {
+        "image_X9NdWT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-the-Word-Launch-06.png",
+            "image_mobile": "shopify://shop_images/Spread-the-Word-Launch-09.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_X9NdWT"
       ],
       "settings": {
         "section_height": "natural",
@@ -185,49 +264,6 @@
         "divider": false
       }
     },
-    "single_image_EhfYr6": {
-      "type": "single-image",
-      "blocks": {
-        "image_block_EqPXea": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/Spread-the-Word-Launch-04.png",
-            "image_link": "",
-            "image_width": 300,
-            "space_above": 50,
-            "space_below": 50
-          }
-        },
-        "image_block_MigPa8": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/Spread-the-Word-Launch-03.png",
-            "image_link": "",
-            "image_width": 300,
-            "space_above": 50,
-            "space_below": 50
-          }
-        },
-        "image_block_Niiyq7": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/Spread-the-Word-Launch-05.png",
-            "image_link": "",
-            "image_width": 300,
-            "space_above": 50,
-            "space_below": 50
-          }
-        }
-      },
-      "block_order": [
-        "image_block_EqPXea",
-        "image_block_MigPa8",
-        "image_block_Niiyq7"
-      ],
-      "settings": {
-        "section_title": "Featured Images"
-      }
-    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -270,11 +306,12 @@
   "order": [
     "slideshow_Yytkjz",
     "slideshow_ydy6gN",
+    "promo_grid_dwNUkk",
+    "slideshow_gyMt8x",
     "slideshow",
     "featured-collection",
     "slideshow_bFRBJV",
     "featured_collection_JDUqAJ",
-    "single_image_EhfYr6",
     "slideshow_LAdPKf"
   ]
 }
