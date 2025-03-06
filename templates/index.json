@@ -43,7 +43,8 @@
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": true
       }
     },
     "featured-collection": {
@@ -151,7 +152,8 @@
         "style": "minimal",
         "autoplay": true,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "featured_collection_JDUqAJ": {
@@ -200,7 +202,8 @@
         "style": "minimal",
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "promo_grid_rPL8cn": {
@@ -288,7 +291,8 @@
         "style": "minimal",
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
