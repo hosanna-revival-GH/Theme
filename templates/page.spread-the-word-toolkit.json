@@ -405,12 +405,14 @@
         },
         "heading_Mkpc67": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "1. Disicpleship"
           }
         },
         "text_ay7WXG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<p>Jesus says in Matthew 28:19, “Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.” What does it mean to “make disciples”? We observe and learn from Jesus that he had 12 disciples who followed him closely and learned from his actions and teachings. These men watched how Jesus spoke,prayed, and responded to conflict. They invited Jesus into their lives, homes, and families. In the same way, one of the most beautiful relationships you can step into is a discipleship relationship with someone you care about. Discipleship is an opportunity to walk alongside someone and invite them into every area of your life as you actively pursue the Lord.  When we build into someone in a close discipleship relationship, we are modeling in word and action how to love and follow Jesus.</p>",
@@ -420,12 +422,14 @@
         },
         "heading_83N9gg": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "2. Evangelism"
           }
         },
         "text_qNcMaG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<ul><li>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives </li><li>We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </li><li>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our liv</li></ul>",
@@ -483,7 +487,7 @@
         "image2_mask": "none",
         "subtitle": "2",
         "title": "Evangelism",
-        "text": "<ul><li>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. </li><li>Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives </li><li>We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </li><li>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives </li></ul>",
+        "text": "<p>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives. We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </p><p></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -494,6 +498,41 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "rich_text_3HnwPX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qw9BYV": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_H6FmwL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 25
+          }
+        }
+      },
+      "block_order": [
+        "heading_qw9BYV",
+        "text_H6FmwL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
       }
     },
     "slideshow_LJxNi6": {
@@ -553,7 +592,6 @@
         },
         "text_Pbc6i8": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<ol><li>Pray for these interactions when you spend time with God</li></ol>",
@@ -563,7 +601,6 @@
         },
         "text_izjPb3": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<ul><li>Before these opportunities come up, we can ask God for them. God delights in using you to share the gospel. When we ask God for opportunities to share our faith with the people in our path, he is often quick to make those moments clear. </li><li>Ask the Holy Spirit to prepare the hearer’s heart. Your conversation might be the first of many, or the final conversation that helps the gospel click. Trust that the Holy Spirit is working in their hearts and that he will use your conversation for his great purpose. </li><li>Ask the Holy Spirit to give you the words. The Holy Spirit lives in you and will go before you as you share the gospel. Without having all the answers or knowing all the right things to say, we can trust God to help us share exactly what is needed for this conversation.</li></ul>",
@@ -573,7 +610,6 @@
         },
         "text_XUdDct": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p>2. Share your testimony</p>",
@@ -583,7 +619,6 @@
         },
         "text_hmtW8U": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<ul><li>Your testimony is one of the most powerful ways to share God’s Word. When you share how God has moved in your life, you get to explain the very real impact that a relationship with Jesus can have. You can do this in a casual way, by sharing simply how a relationship with God has healed certain parts of your heart or given you hope—or whatever feels right for you! If the person you are sharing with is curious to hear more, you can explain in greater detail how your story with God played out! </li><li>Tip: don’t make this out to be too complicated. Think about how someone might share how a mentor or teacher impacted them. You can casually share what God has done without creating an awkward lead up. Speak with confidence about how you’ve seen God move in your life; those who hear this story will be blessed </li></ul>",
@@ -593,7 +628,6 @@
         },
         "text_rUBHM4": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p>3. Share how you spend your time</p>",
@@ -798,8 +832,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#f5f0e6",
-        "color_text": "#b4a04b",
+        "color_bg": "#b4a04b",
+        "color_text": "#f4efe6",
         "space_above": 75,
         "space_below": 75
       }
@@ -1113,6 +1147,7 @@
     "rich_text_VEYrdF",
     "text_and_image_R7MJwA",
     "text_and_image_mLbPYT",
+    "rich_text_3HnwPX",
     "slideshow_LJxNi6",
     "rich_text_AQjwVC",
     "faq_bCeKA8",
