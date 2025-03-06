@@ -93,12 +93,48 @@
         "section_height": "650px",
         "mobile_height": "auto"
       }
+    },
+    "rich_text_Y6JBtX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_663XAH": {
+          "type": "heading",
+          "settings": {
+            "title": "Table of Contents"
+          }
+        },
+        "text_FmUHEd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<ul><li>What is the Word?</li><li>Why spread the Word?</li><li>How do I spread the Word?</li><li>What if I’m hesitant to spread the Word?</li><li>How do I follow up after I spread the Word? </li></ul>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_663XAH",
+        "text_FmUHEd"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b4a04b",
+        "color_text": "#f4efe6",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "slideshow_gxeanB",
     "main",
     "advanced_content_RycVwR",
-    "hero_video_9Yka6c"
+    "hero_video_9Yka6c",
+    "rich_text_Y6JBtX"
   ]
 }
