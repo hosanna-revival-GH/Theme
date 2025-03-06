@@ -51,7 +51,8 @@
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_7HwPDA": {
@@ -255,7 +256,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_LjtCqL": {
@@ -423,7 +425,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
+            "image": "shopify://shop_images/10-0ff-03.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Notebooks",
@@ -436,7 +438,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
+            "image": "shopify://shop_images/10-0ff-01.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Devotionals",
@@ -449,7 +451,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-441_98b83812-eb41-4c43-a197-f1c41353e6af.jpg",
+            "image": "shopify://shop_images/10-0ff-05.png",
             "image_mask": "square",
             "image_width": 650,
             "title": "Compact Bibles",
@@ -462,7 +464,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-Wall-at-Home-Leather-Bibles-Hosanna-Revival-064.jpg",
+            "image": "shopify://shop_images/10-0ff-04.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Notetaking Bibles",
@@ -475,7 +477,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-234.jpg",
+            "image": "shopify://shop_images/10-0ff-06.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "5-Year Prayer Journals",
@@ -488,7 +490,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Sonora-ESV-Study-Bible-Softcover-Neutral-Cream-Floral-Deboss-Hosanna-Revival-Styled-02.jpg",
+            "image": "shopify://shop_images/10-0ff-02.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Study Bibles",
@@ -645,7 +647,8 @@
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "faq_ME8cjJ": {
@@ -849,7 +852,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
