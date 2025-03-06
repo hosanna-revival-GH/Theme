@@ -491,7 +491,7 @@
         "image_FqtG7N"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -688,7 +688,7 @@
         "image_LG3xta"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -703,8 +703,9 @@
       "blocks": {
         "heading_pbrdc9": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "title": "What if I’m hesitant to spread the Word?"
+            "title": ""
           }
         },
         "text_j6HijV": {
@@ -770,8 +771,8 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "what if I don’t know what to say?",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
