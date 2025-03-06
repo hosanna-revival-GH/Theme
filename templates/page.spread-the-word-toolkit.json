@@ -388,9 +388,27 @@
         "text_nddJfL": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<ul><li>When we begin a relationship with Jesus, many aspects of our lives start to look different from those who are living “for the world” (1 John 2:15-17). Our time—once spent seeking personal satisfaction and affirmation from others—shifts toward honoring him. This change can sometimes be confusing to those who don’t share the same faith. How you spend your time can serve as a natural way to share your faith. Others may become curious and ask <em>why</em> you do—or don’t do—certain things, opening the door for meaningful conversations about your beliefs and the transformation Jesus brings.  </li><li>Examples: What are you doing this weekend? <em>I’ll go to church sunday. </em>Did you have a good start to your day? <em>Yes, I always start my day in prayer or reading the Bible if I’m not too rushed. It helps me start the day with a clear mind. </em>Where did you get that shirt? <em>A girl in my small group gave it to me.</em></li><li>Tip<em>: </em>Like in the examples above, never miss an opportunity to mention your faith. When people hear you talking about the natural ways your faith is a part of your life, it becomes a conversation starter for them, and makes approaching you about faith even easier.</li></ul>",
-            "align_text_block": "inherit",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_ak6LJP": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>4. Listen intentionally to understand your friend’s beliefs about God</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_GrYHf8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li>One of the most essential aspects of a healthy relationship is the ability to listen to each other. God displays this in his promise to always listen to us (Jeremiah 29:12). We are instructed in 1 Peter 5:7 to cast all our worries on him because he cares for us. In the same way, we should strive to be good listeners to the people around us, seeking to understand what they’re saying while also keeping our ears open to the Holy Spirit as he prompts us to respond. Below are some examples of beliefs a friend might express—if these topics arise in conversation, it might be an indicator that the Holy Spirit is leading you to share more of your faith. </li></ul><ol><li>“I just can’t believe in a God that allows or causes suffering.”</li><li>“I am so lonely. I feel so forgotten by God.”</li><li>“I feel purposeless, like I have no idea why it all matters” </li><li>“I’ve always felt like everything happens for a reason” </li><li>“I went to a youth group when I was younger. They told me ___ about God and that really bothered me.”</li><li>“I believe everything happens for a reason. I’m spiritual. The universe is working everything out.”</li><li>“God is your thing, I’ve got other things.”</li><li>“I’m just going to live it up now, and when I have a family I’ll come to church.”</li></ol>",
+            "align_text_block": "left",
             "block_bottom_space": 30
           }
         }
@@ -403,7 +421,9 @@
         "text_XUdDct",
         "text_hmtW8U",
         "text_rUBHM4",
-        "text_nddJfL"
+        "text_nddJfL",
+        "text_ak6LJP",
+        "text_GrYHf8"
       ],
       "settings": {
         "align_text": "center",
@@ -413,6 +433,71 @@
         "css-class": "",
         "color_bg": "#b4a04b",
         "color_text": "#f4efe6",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_VjNMiR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pbrdc9": {
+          "type": "heading",
+          "settings": {
+            "title": "What if I’m hesitant to spread the Word?"
+          }
+        },
+        "text_j6HijV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Talking about your faith can feel overwhelming. The enemy loves to fill us with doubts; reasons that sharing our faith isn’t worth it, or might ruin a friendship. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_eC8Wde": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>You might think to yourself...</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_w6MpQQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ol><li>“I don’t want to further damage their view of God.”</li><li>“I don’t even actually know this person. Someone closer to them will hopefully step in.”</li><li>“I don’t want to be preachy.”</li><li>“I don’t think I know enough to answer their hard questions.”</li></ol>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_WFxHAK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The Lord wants to use each of us to communicate his true character and heart. God has a million tools that he can use to bring someone to himself… but one of them is <em>you</em>. He delights in using <em>you</em> to share the truth of his Word. So let him use you. Almost <em>always </em>these opportunities to share your faith will catch you off guard, and come up when you weren’t expecting it. Let’s equip ourselves to be ready to fight against the hesitations, and step into these life-saving conversations. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_pbrdc9",
+        "text_j6HijV",
+        "text_eC8Wde",
+        "text_w6MpQQ",
+        "text_WFxHAK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f5f0e6",
+        "color_text": "#b4a04b",
         "space_above": 75,
         "space_below": 75
       }
@@ -429,6 +514,7 @@
     "rich_text_VEYrdF",
     "text_and_image_R7MJwA",
     "text_and_image_mLbPYT",
-    "rich_text_AQjwVC"
+    "rich_text_AQjwVC",
+    "rich_text_VjNMiR"
   ]
 }
