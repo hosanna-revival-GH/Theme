@@ -9,44 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_gxeanB": {
-      "type": "slideshow",
-      "blocks": {
-        "image_WbCakE": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/STW-05_2.png",
-            "image_mobile": "shopify://shop_images/STW-06_1.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_WbCakE"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -846,8 +808,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#b4a04b",
-        "color_text": "#f4efe6",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
         "space_above": 75,
         "space_below": 75
       }
@@ -1021,7 +983,7 @@
         "text_Lkwmf3": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Following up is valuable, but the best thing you can do is simply love them well. You are a living example of what a life with Jesus looks like to them, so strive to love them in a way that reflects Jesus. Be intentional about checking in on them, showing them that you care for them if they choose to follow Jesus, or are still uninterested.  </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
@@ -1040,8 +1002,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#f5f0e6",
-        "color_text": "#b4a04b",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
         "space_above": 75,
         "space_below": 75
       }
@@ -1145,10 +1107,38 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "faq_KxrqiD": {
+      "type": "faq",
+      "blocks": {
+        "question_NrgL3P": {
+          "type": "question",
+          "settings": {
+            "title": "1. Admit it",
+            "text": "<p>One of the best things you can do off the bat is to admit that you do not know all the answers. That will give you the freedom to end the conversation and point them to other tools when you fall short. </p><ul><li>Example: “I don’t have formal training in any of this… but what I’ve learned about God in my life about [this topic] is ___.” </li></ul>"
+          }
+        },
+        "question_J8WgMg": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NrgL3P",
+        "question_J8WgMg"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
+      }
     }
   },
   "order": [
-    "slideshow_gxeanB",
     "main",
     "rich_text_QjhUiH",
     "advanced_content_RycVwR",
@@ -1168,6 +1158,7 @@
     "slideshow_wapKpH",
     "rich_text_VjNMiR",
     "slideshow_cKbRKC",
+    "faq_KxrqiD",
     "rich_text_h3Y8B6",
     "slideshow_LhNLN3",
     "rich_text_TWtU77",
