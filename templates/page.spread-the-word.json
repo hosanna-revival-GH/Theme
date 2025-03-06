@@ -896,6 +896,14 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "featured_video_UKbYc7": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https://youtu.be/n2UpJCzTi7o",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -919,6 +927,7 @@
     "slideshow_VreUm9",
     "rich_text_aQiknw",
     "faq_ME8cjJ",
-    "slideshow_QM68we"
+    "slideshow_QM68we",
+    "featured_video_UKbYc7"
   ]
 }
