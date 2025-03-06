@@ -291,6 +291,14 @@
   {%- endif -%}
 </div>
 
+{%- if section.settings.disable_animation -%}
+{% style %}
+ #Slideshow-{{ section.id }} .loaded .slideshow__slide.is-selected .hero__image-wrapper, #Slideshow-{{ section.id }}  .loaded[data-aos=hero__animation] .hero__image-wrapper,
+  #Slideshow-{{ section.id }} .slideshow__slide .hero__image-wrapper, #Slideshow-{{ section.id }} [data-aos=hero__animation] .hero__image-wrapper{
+    transform: none;
+}
+{% endstyle %}
+{%- endif -%}
 {% schema %}
 {
   "name": "t:sections.slideshow.name",
@@ -413,7 +421,13 @@
       "label": "t:common.lazyload_images.label",
       "info": "t:common.lazyload_images.info",
       "default": true
-    }
+    },
+    {
+      "type": "checkbox",
+      "id": "disable_animation",
+      "label": "Disable Animation",
+      "default": false
+    },
   ],
   "blocks": [
     {
