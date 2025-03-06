@@ -248,7 +248,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-52.jpg",
+            "image": "shopify://shop_images/10-0ff-05.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Bibles",
@@ -261,6 +261,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/10-0ff-04.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Example title",
@@ -273,6 +274,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/10-0ff-06.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Example title",
@@ -285,6 +287,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/10-0ff-02.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Example title",
