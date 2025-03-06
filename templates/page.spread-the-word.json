@@ -384,14 +384,14 @@
     "hero_video_mMHUqT": {
       "type": "hero-video",
       "settings": {
-        "title": "Bring your\nbrand to life.",
+        "title": "",
         "title_size": 80,
-        "subheading": "Seamless hero videos",
-        "link_text": "Optional button",
+        "subheading": "",
+        "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/15044744518a46088d430205ad6ce304.mp4",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
