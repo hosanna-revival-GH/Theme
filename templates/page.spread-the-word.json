@@ -394,7 +394,7 @@
         "video_url": "https://cdn.shopify.com/videos/c/o/v/15044744518a46088d430205ad6ce304.mp4",
         "overlay_opacity": 0,
         "section_height": "750px",
-        "mobile_height": "100vh"
+        "mobile_height": "auto"
       }
     },
     "slideshow_KCP8Bn": {
