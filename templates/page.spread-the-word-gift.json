@@ -43,7 +43,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "slideshow_EnBWkc": {
@@ -80,7 +81,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "slideshow_qBC6Gk": {
@@ -117,7 +119,8 @@
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "main": {
@@ -219,7 +222,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-682.jpg",
+            "image": "shopify://shop_images/10-0ff-03.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Notebooks",
@@ -232,7 +235,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-116.jpg",
+            "image": "shopify://shop_images/10-0ff-01.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Devotionals",
@@ -253,12 +256,51 @@
             "button_label": "Choose your new Bible",
             "button_link": "shopify://collections/beautiful-bibles"
           }
+        },
+        "text_block_FWQzKH": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_FiDWcM": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_BRCcLR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "text_block_cpW7qj",
         "text_block_G4JpyE",
-        "text_block_GKPyKJ"
+        "text_block_GKPyKJ",
+        "text_block_FWQzKH",
+        "text_block_FiDWcM",
+        "text_block_BRCcLR"
       ],
       "settings": {
         "title": "",
@@ -332,7 +374,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_text": "#b4a04b",
         "space_above": 75,
         "space_below": 75
       }
@@ -467,7 +509,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
