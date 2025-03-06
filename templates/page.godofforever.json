@@ -46,7 +46,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>God of Forever</em> is an 8-week devotional where author Haylee Williams provides an introductory study of the God of Scripture through an emphasis on studying the Word and seeing the magnificence of God from Genesis to Revelation.</p>",
+            "text": "<p><em>God of Forever </em>is an 8-week devotional where author Haylee Williams provides an introductory study of the God of Scripture through an emphasis on studying the Word and seeing the magnificence of God from Genesis to Revelation.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -299,7 +299,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/God-of-Forever-Launch-Styled-Old-World-001.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -313,7 +314,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "846f4bc6-7d79-40ee-9b2d-bb89f9dc1440": {
@@ -397,7 +399,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/God-of-Forever-Launch-Flatlay-Old-World-081_f8a5e6cf-4470-4a21-83d8-982a0b6c9653.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -411,7 +414,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "db02f9a6-7a44-47e4-91d8-6bf5704dcc99": {
