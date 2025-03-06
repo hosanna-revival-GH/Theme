@@ -381,6 +381,22 @@
         "divider": false
       }
     },
+    "hero_video_mMHUqT": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "slideshow_KCP8Bn": {
       "type": "slideshow",
       "blocks": {
@@ -873,6 +889,7 @@
     "text_columns_NEyPwE",
     "featured_collections_VJLYiB",
     "featured_collection_WzQPqD",
+    "hero_video_mMHUqT",
     "slideshow_KCP8Bn",
     "rich_text_LjtCqL",
     "text_and_image_RLEFtk",
