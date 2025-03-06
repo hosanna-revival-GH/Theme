@@ -175,7 +175,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>What ist the Word?</p>",
+            "text": "<p>What is the Word?</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -272,7 +272,7 @@
         "heading_tdxaPd": {
           "type": "heading",
           "settings": {
-            "title": "What is the Word?"
+            "title": ""
           }
         },
         "text_feL7EK": {
@@ -807,7 +807,7 @@
         "heading_GDTQGF": {
           "type": "heading",
           "settings": {
-            "title": "What if I don’t know what to say"
+            "title": ""
           }
         },
         "text_RnxeRM": {
@@ -873,8 +873,8 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "How do I follow up after I spread the Word?",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -909,7 +909,7 @@
         "heading_F6dWEf": {
           "type": "heading",
           "settings": {
-            "title": "How do i follow up after I spread the word?"
+            "title": ""
           }
         },
         "text_FDnBME": {
@@ -1057,6 +1057,43 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "slideshow_HxDGxe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gtnGD7": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "What is the Word",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-011.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_gtnGD7"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -1082,6 +1119,7 @@
     "slideshow_LhNLN3",
     "rich_text_TWtU77",
     "rich_text_qH8GCU",
-    "rich_text_nQjz4Q"
+    "rich_text_nQjz4Q",
+    "slideshow_HxDGxe"
   ]
 }
