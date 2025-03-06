@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Fathers-Day-Bible-for-Men-Hosanna-Revival-003.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_cmXenc": {
@@ -210,6 +212,7 @@
     },
     "2e1f6d7b-f835-474a-b76c-8792620f64eb": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Fathers-Day-Hosanna-Revival-Men-Products-P-008.jpg",
         "image_mask": "none",
