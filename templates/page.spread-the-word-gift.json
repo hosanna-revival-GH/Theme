@@ -9,44 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_iEDRpe": {
-      "type": "slideshow",
-      "blocks": {
-        "image_iJwgqW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/STW-03.png",
-            "image_mobile": "shopify://shop_images/STW-04.png",
-            "parallax_direction": "left",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_iJwgqW"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "slideshow_EnBWkc": {
       "type": "slideshow",
       "blocks": {
@@ -63,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/STW-01.png",
-            "image_mobile": "shopify://shop_images/STW-02.png",
+            "image": "shopify://shop_images/Spread-the-Word-Launch-010.png",
+            "image_mobile": "shopify://shop_images/Spread-the-Word-Launch-011.png",
             "parallax_direction": "left",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -494,7 +456,6 @@
     }
   },
   "order": [
-    "slideshow_iEDRpe",
     "slideshow_EnBWkc",
     "slideshow_qBC6Gk",
     "main",
