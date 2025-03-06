@@ -208,6 +208,62 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_VEYrdF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_R774X3": {
+          "type": "heading",
+          "settings": {
+            "title": "Why share the Word?"
+          }
+        },
+        "text_w9cGAG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Over 2,000 years ago Jesus walked this earth and shared the message of the gospel. His followers took that story and proclaimed it from the rooftops- spreading the word as far as they could. They shared the message of God’s love and the call to repent like their brother’s and sister’s lives depended on it… because well… they did.  </p><p>First century Christians saw thousands being killed for proclaiming their faith and spreading the word- but it didn’t stop them. The message of the gospel was too important to keep to themselves. </p><p>Those followers told someone about Jesus, who told someone, who told someone, until 2000+ years later, someone told <em>you. </em></p><p>Don’t let the message of the gospel stop with you. God’s call is consistent and clear: go and make disciples of all nations. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_R774X3",
+        "text_w9cGAG"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f4efe6",
+        "color_text": "#b4a04b",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_and_image_R7MJwA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-017_79c76b00-945a-4b1f-88cd-228fd9987e32.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "1",
+        "title": "Discipleship",
+        "text": "<p>Jesus says in Matthew 28:19, “Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.” What does it mean to “make disciples”? We observe and learn from Jesus that he had 12 disciples who followed him closely and learned from his actions and teachings. These men watched how Jesus spoke,prayed, and responded to conflict. They invited Jesus into their lives, homes, and families. In the same way, one of the most beautiful relationships you can step into is a discipleship relationship with someone you care about. Discipleship is an opportunity to walk alongside someone and invite them into every area of your life as you actively pursue the Lord.  When we build into someone in a close discipleship relationship, we are modeling in word and action how to love and follow Jesus.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -217,6 +273,8 @@
     "hero_video_9Yka6c",
     "rich_text_Y6JBtX",
     "rich_text_EF6G4d",
-    "rich_text_ihDdPU"
+    "rich_text_ihDdPU",
+    "rich_text_VEYrdF",
+    "text_and_image_R7MJwA"
   ]
 }
