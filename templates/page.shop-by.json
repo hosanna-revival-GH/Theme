@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Winter-Collection-Best-Aesthetic-Gifts-Beautiful-Bible-Hosanna-Revival-0001_333fabd5-e9d3-4df3-8df4-64869c30b1a7.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "text_columns_FAgR4w": {
@@ -221,39 +223,39 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Shop-By-10.png",
-            "image_mask": "none",
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-287.jpg",
+            "image_mask": "square",
             "image_width": 650,
-            "title": "WINTER 2023 COLLECTION",
+            "title": "WINTER 2024 COLLECTION",
             "text": "",
             "button_label": "SHOP",
-            "button_link": ""
+            "button_link": "shopify://collections/winter-2024-collection"
           }
         },
         "text_block_75": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Shop-By-11.png",
-            "image_mask": "none",
+            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-079.jpg",
+            "image_mask": "square",
             "image_width": 650,
-            "title": "SPRING 2023 COLLECTION",
+            "title": "SPRING 2024 COLLECTION",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "shopify://collections/spring-2023-collection"
+            "button_link": "shopify://collections/spring-2024-collection"
           }
         },
         "text_block_76": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Shop-By-12.png",
-            "image_mask": "none",
+            "image": "shopify://shop_images/Winter-Refresh-2023-Beautiful-Bibles-Notebooks-Hosanna-Revival-035.jpg",
+            "image_mask": "square",
             "image_width": 650,
-            "title": "WINTER 2022 COLLECTION",
+            "title": "WINTER 2023 COLLECTION",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "shopify://collections/spring-2022-collection"
+            "button_link": "shopify://collections/winter-2023-collection"
           }
         }
       },
