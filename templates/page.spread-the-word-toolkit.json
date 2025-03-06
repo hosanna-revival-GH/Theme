@@ -106,7 +106,7 @@
         "text_FmUHEd": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<ul><li>What is the Word?</li><li>Why spread the Word?</li><li>How do I spread the Word?</li><li>What if I’m hesitant to spread the Word?</li><li>How do I follow up after I spread the Word? </li></ul>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
@@ -128,6 +128,76 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_EF6G4d": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JBFUPH": {
+          "type": "heading",
+          "settings": {
+            "title": "Introduction"
+          }
+        },
+        "text_6b9Biq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>God has called each of us to be his hands and feet, bringing his love, truth, and hope to the world around us. One of the most powerful and fulfilling things we can do is invite someone into a relationship with Jesus—introducing them to the life-changing grace, peace, and purpose found in him.</p><p>But sharing the Gospel isn’t always easy. Maybe you’re unsure where to start, or perhaps fear and hesitation hold you back. That’s why we created the <strong>Spread the Word Toolkit</strong>—a practical guide designed to equip and encourage you to share your faith with confidence and love. In it we will explore common hangups when it comes to sharing your faith, and offer practical tips to take the first step. </p><p>Jesus commissioned us to go and make disciples (Matthew 28:19), and that mission starts with a simple step: sharing his love with the people around us. Whether you’re starting fresh or looking to grow in boldness, may this toolkit guide and inspire you to spread the Word.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_JBFUPH",
+        "text_6b9Biq"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f4efe6",
+        "color_text": "#b4a04b",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_ihDdPU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tdxaPd": {
+          "type": "heading",
+          "settings": {
+            "title": "What is the Word?"
+          }
+        },
+        "text_feL7EK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. So to <em>spread </em>the word, is more than just passing along a good tip. The Word of God tells the complete story of who God is and what he has done.  It details the narrative of creation, sin in our broken world, God’s plan for redemption, the story of rescue, and the mission we’ve been entrusted with while we wait for Christ. When you share the Word of God with someone, you are spreading the good news of the gospel, and creating space for revival in their lives. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_tdxaPd",
+        "text_feL7EK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -135,6 +205,8 @@
     "main",
     "advanced_content_RycVwR",
     "hero_video_9Yka6c",
-    "rich_text_Y6JBtX"
+    "rich_text_Y6JBtX",
+    "rich_text_EF6G4d",
+    "rich_text_ihDdPU"
   ]
 }
