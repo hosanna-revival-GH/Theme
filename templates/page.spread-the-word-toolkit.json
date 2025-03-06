@@ -113,20 +113,12 @@
         "lazyload_images": true
       }
     },
-    "hero_video_9Yka6c": {
-      "type": "hero-video",
+    "featured_video_dbxFE3": {
+      "type": "featured-video",
       "settings": {
         "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/15044744518a46088d430205ad6ce304.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "video_url": "https://youtu.be/n2UpJCzTi7o",
+        "divider": false
       }
     },
     "rich_text_EF6G4d": {
@@ -340,29 +332,10 @@
             "overlay_opacity": 0,
             "disable_border_button": false
           }
-        },
-        "image_Mcpt4a": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And optional subtext",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
         }
       },
       "block_order": [
-        "image_LMERYH",
-        "image_Mcpt4a"
+        "image_LMERYH"
       ],
       "settings": {
         "section_height": "550px",
@@ -498,8 +471,8 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "How do I spread the Word?",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -528,19 +501,64 @@
         "disable_animation": false
       }
     },
+    "faq_bCeKA8": {
+      "type": "faq",
+      "blocks": {
+        "question_Je4HFj": {
+          "type": "question",
+          "settings": {
+            "title": "1. Pray for these interactions when you spend time with God",
+            "text": "<ul><li>Before these opportunities come up, we can ask God for them. God delights in using you to share the gospel. When we ask God for opportunities to share our faith with the people in our path, he is often quick to make those moments clear. <br/></li><li>Ask the Holy Spirit to prepare the hearer’s heart. Your conversation might be the first of many, or the final conversation that helps the gospel click. Trust that the Holy Spirit is working in their hearts and that he will use your conversation for his great purpose. <br/></li><li>Ask the Holy Spirit to give you the words. The Holy Spirit lives in you and will go before you as you share the gospel. Without having all the answers or knowing all the right things to say, we can trust God to help us share exactly what is needed for this conversation.</li></ul>"
+          }
+        },
+        "question_TXPYPr": {
+          "type": "question",
+          "settings": {
+            "title": "2. Share your testimony",
+            "text": "<ul><li>Your testimony is one of the most powerful ways to share God’s Word. When you share how God has moved in your life, you get to explain the very real impact that a relationship with Jesus can have. You can do this in a casual way, by sharing simply how a relationship with God has healed certain parts of your heart or given you hope—or whatever feels right for you! If the person you are sharing with is curious to hear more, you can explain in greater detail how your story with God played out! </li><li>Tip: don’t make this out to be too complicated. Think about how someone might share how a mentor or teacher impacted them. You can casually share what God has done without creating an awkward lead up. Speak with confidence about how you’ve seen God move in your life; those who hear this story will be blessed </li></ul>"
+          }
+        },
+        "question_xg8WmU": {
+          "type": "question",
+          "settings": {
+            "title": "3. Share how you spend your time",
+            "text": "<ul><li>When we begin a relationship with Jesus, many aspects of our lives start to look different from those who are living “for the world” (1 John 2:15-17). Our time—once spent seeking personal satisfaction and affirmation from others—shifts toward honoring him. This change can sometimes be confusing to those who don’t share the same faith. How you spend your time can serve as a natural way to share your faith. Others may become curious and ask <em>why</em> you do—or don’t do—certain things, opening the door for meaningful conversations about your beliefs and the transformation Jesus brings.  </li><li>Examples: What are you doing this weekend? <em>I’ll go to church sunday. </em>Did you have a good start to your day? <em>Yes, I always start my day in prayer or reading the Bible if I’m not too rushed. It helps me start the day with a clear mind. </em>Where did you get that shirt? <em>A girl in my small group gave it to me.</em></li><li>Tip<em>: </em>Like in the examples above, never miss an opportunity to mention your faith. When people hear you talking about the natural ways your faith is a part of your life, it becomes a conversation starter for them, and makes approaching you about faith even easier.</li></ul>"
+          }
+        },
+        "question_MmMG6C": {
+          "type": "question",
+          "settings": {
+            "title": "4. Listen intentionally to understand your friend’s beliefs about God",
+            "text": "<ul><li>One of the most essential aspects of a healthy relationship is the ability to listen to each other. God displays this in his promise to always listen to us (Jeremiah 29:12). We are instructed in 1 Peter 5:7 to cast all our worries on him because he cares for us. In the same way, we should strive to be good listeners to the people around us, seeking to understand what they’re saying while also keeping our ears open to the Holy Spirit as he prompts us to respond. Below are some examples of beliefs a friend might express—if these topics arise in conversation, it might be an indicator that the Holy Spirit is leading you to share more of your faith. </li></ul><ol><li>“I just can’t believe in a God that allows or causes suffering.”</li><li>“I am so lonely. I feel so forgotten by God.”</li><li>“I feel purposeless, like I have no idea why it all matters” </li><li>“I’ve always felt like everything happens for a reason” </li><li>“I went to a youth group when I was younger. They told me ___ about God and that really bothered me.”</li><li>“I believe everything happens for a reason. I’m spiritual. The universe is working everything out.”</li><li>“God is your thing, I’ve got other things.”</li><li>“I’m just going to live it up now, and when I have a family I’ll come to church.”</li></ol>"
+          }
+        }
+      },
+      "block_order": [
+        "question_Je4HFj",
+        "question_TXPYPr",
+        "question_xg8WmU",
+        "question_MmMG6C"
+      ],
+      "settings": {
+        "title": "",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
+      }
+    },
     "rich_text_AQjwVC": {
       "type": "rich-text",
       "blocks": {
         "heading_dzAGCj": {
           "type": "heading",
           "settings": {
-            "title": "How do I spread the Word"
+            "title": ""
           }
         },
         "text_Pxw8p3": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
+            "enlarge_text": true,
             "text": "<p>Having the heart and intention to share your faith with others is a beautiful first step to spreading the Word. It’s often the next step that is difficult to pursue and confusing to approach. You may have someone that you love or that God has put on your heart, but you’re not quite sure how to open up that conversation with them. Here are a few starting points to begin talking about your faith! </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
@@ -551,7 +569,7 @@
           "settings": {
             "enlarge_text": true,
             "text": "<ol><li>Pray for these interactions when you spend time with God</li></ol>",
-            "align_text_block": "left",
+            "align_text_block": "center",
             "block_bottom_space": 30
           }
         },
@@ -569,7 +587,7 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>2. Share your testimony</p>",
-            "align_text_block": "left",
+            "align_text_block": "center",
             "block_bottom_space": 30
           }
         },
@@ -587,7 +605,7 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>3. Share how you spend your time</p>",
-            "align_text_block": "left",
+            "align_text_block": "center",
             "block_bottom_space": 30
           }
         },
@@ -605,7 +623,7 @@
           "settings": {
             "enlarge_text": true,
             "text": "<p>4. Listen intentionally to understand your friend’s beliefs about God</p>",
-            "align_text_block": "left",
+            "align_text_block": "center",
             "block_bottom_space": 30
           }
         },
@@ -650,8 +668,8 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "What if I'm hesitant to Spread the Word?",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -1038,14 +1056,6 @@
         "space_above": 75,
         "space_below": 75
       }
-    },
-    "featured_video_dbxFE3": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https://youtu.be/n2UpJCzTi7o",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -1053,7 +1063,7 @@
     "main",
     "rich_text_QjhUiH",
     "advanced_content_RycVwR",
-    "hero_video_9Yka6c",
+    "featured_video_dbxFE3",
     "rich_text_EF6G4d",
     "rich_text_Y6JBtX",
     "rich_text_ihDdPU",
@@ -1062,6 +1072,7 @@
     "text_and_image_R7MJwA",
     "text_and_image_mLbPYT",
     "slideshow_LJxNi6",
+    "faq_bCeKA8",
     "rich_text_AQjwVC",
     "slideshow_wapKpH",
     "rich_text_VjNMiR",
@@ -1070,7 +1081,6 @@
     "slideshow_LhNLN3",
     "rich_text_TWtU77",
     "rich_text_qH8GCU",
-    "rich_text_nQjz4Q",
-    "featured_video_dbxFE3"
+    "rich_text_nQjz4Q"
   ]
 }
