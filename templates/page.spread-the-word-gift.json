@@ -264,10 +264,10 @@
             "image": "shopify://shop_images/10-0ff-04.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "Notetaking Bibles",
+            "text": "<p>Choose a notetaking Bible and share how you like to fill in the margins.</p>",
+            "button_label": "Shop journaling Bibles",
+            "button_link": "shopify://collections/beautiful-bibles"
           }
         },
         "text_block_FiDWcM": {
@@ -277,10 +277,10 @@
             "image": "shopify://shop_images/10-0ff-06.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "5-year Prayer journals",
+            "text": "<p>Get a prayer journal, pray for each other and share when God answers!</p>",
+            "button_label": "Begin a 5-year prayer journal",
+            "button_link": "shopify://collections/one-thing-i-ask"
           }
         },
         "text_block_BRCcLR": {
@@ -290,10 +290,10 @@
             "image": "shopify://shop_images/10-0ff-02.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "Study Bib;es",
+            "text": "<p>Pursue deep study with a friend and share what stuck out to you with a Bible Study.</p>",
+            "button_label": "Explore Study Bibles",
+            "button_link": "shopify://collections/study-bibles"
           }
         }
       },
