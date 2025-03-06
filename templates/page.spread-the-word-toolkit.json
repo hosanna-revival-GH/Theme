@@ -919,6 +919,57 @@
         "disable_animation": false
       }
     },
+    "toolkit_KKkMJe": {
+      "type": "toolkit",
+      "blocks": {
+        "rich_text_pVnJgG": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#b4a04b",
+            "color_text": "#f4efe6",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p>Following up with someone after a conversation about God is an intentional way to show how much you—and God—care for them. When the moment feels right, be ready to follow the Holy Spirit into a conversation about God with them, and see if they’re open to talking more. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "rich_text_kx98GN": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#ffffff",
+            "color_text": "#000000",
+            "space_above": 75,
+            "space_below": 75,
+            "heading": "",
+            "enlarge_text": false,
+            "text": "<p>Examples: </p><ul><li>Last month when we talked about faith you mentioned ___.  I wondered if you could share more about why you think that? </li><li>I know I invited you to Christmas church with me last year and it was a busy day- I wanted you to know I’m going the next 3 Sundays and I didn’t know if you had any interest in joining me! </li><li>When you were sharing with me how your life has felt purposeless, it made me think of this daily devotional. I bought you a copy- I would love to go through it with you if you’re interested. </li></ul><p>Following up is valuable, but the best thing you can do is simply love them well. You are a living example of what a life with Jesus looks like to them, so strive to love them in a way that reflects Jesus. Be intentional about checking in on them, showing them that you care for them if they choose to follow Jesus, or are still uninterested.  </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "rich_text_pVnJgG",
+        "rich_text_kx98GN"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 2
+      }
+    },
     "rich_text_TWtU77": {
       "type": "rich-text",
       "blocks": {
@@ -1097,6 +1148,7 @@
     "slideshow_cKbRKC",
     "faq_KxrqiD",
     "slideshow_LhNLN3",
+    "toolkit_KKkMJe",
     "rich_text_TWtU77",
     "rich_text_qH8GCU",
     "rich_text_nQjz4Q"
