@@ -180,110 +180,6 @@
         "divider": false
       }
     },
-    "slideshow_KCP8Bn": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nBzJRR": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-017.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nBzJRR"
-      ],
-      "settings": {
-        "section_height": "550px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "rich_text_LjtCqL": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hqJ7Rc": {
-          "type": "heading",
-          "settings": {
-            "title": "WHy spread the word?"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hqJ7Rc"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 40,
-        "space_below": 0
-      }
-    },
-    "text_and_image_RLEFtk": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-092_1.jpg",
-        "image_mask": "square",
-        "image2_mask": "none",
-        "subtitle": "1",
-        "title": "Evangelism",
-        "text": "<p>We have the incredible opportunity to share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written over our lives to share and point others to Jesus. God’s Word is the best tool to offer. It’s the beginning of understanding who God is and how he can change your life!</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_jfeUAV": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-072.jpg",
-        "image_mask": "square",
-        "image2_mask": "none",
-        "subtitle": "2",
-        "title": "Discipleship",
-        "text": "<p>One of the most beautiful relationships we can step into is a discipleship relationship with someone we care about. Learning to love the Lord and pursue his voice alongside someone else creates a friendship that is built upon something steadfast and eternal. </p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "rich_text_itMj6x": {
       "type": "rich-text",
       "blocks": {
@@ -485,6 +381,110 @@
         "divider": false
       }
     },
+    "slideshow_KCP8Bn": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nBzJRR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-017.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nBzJRR"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "rich_text_LjtCqL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hqJ7Rc": {
+          "type": "heading",
+          "settings": {
+            "title": "WHy spread the word?"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hqJ7Rc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 40,
+        "space_below": 0
+      }
+    },
+    "text_and_image_RLEFtk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-092_1.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "1",
+        "title": "Evangelism",
+        "text": "<p>We have the incredible opportunity to share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written over our lives to share and point others to Jesus. God’s Word is the best tool to offer. It’s the beginning of understanding who God is and how he can change your life!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jfeUAV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-072.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "2",
+        "title": "Discipleship",
+        "text": "<p>One of the most beautiful relationships we can step into is a discipleship relationship with someone we care about. Learning to love the Lord and pursue his voice alongside someone else creates a friendship that is built upon something steadfast and eternal. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_tMHfQV": {
       "type": "rich-text",
       "blocks": {
@@ -557,7 +557,7 @@
         "heading_zbJtYw": {
           "type": "heading",
           "settings": {
-            "title": "once you've referred a friend, it's time to follow up"
+            "title": "once you’ve referred a friend, it's time to follow up"
           }
         }
       },
@@ -869,14 +869,14 @@
     "rich_text_7HwPDA",
     "rich_text_7dpjVx",
     "text_columns_YCpTWi",
-    "slideshow_KCP8Bn",
-    "rich_text_LjtCqL",
-    "text_and_image_RLEFtk",
-    "text_and_image_jfeUAV",
     "rich_text_itMj6x",
     "text_columns_NEyPwE",
     "featured_collections_VJLYiB",
     "featured_collection_WzQPqD",
+    "slideshow_KCP8Bn",
+    "rich_text_LjtCqL",
+    "text_and_image_RLEFtk",
+    "text_and_image_jfeUAV",
     "rich_text_tMHfQV",
     "rich_text_dT78dR",
     "slideshow_VreUm9",
