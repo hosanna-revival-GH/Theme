@@ -323,30 +323,6 @@
         "divider": false
       }
     },
-    "featured_collection_yddw8g": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Get $10 off a compact bible",
-        "home_featured_products": "nlt-compact-bibles",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_Yq7zC4": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Shop our entire collection",
-        "home_featured_products": "hosanna-revival-shop",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "rich_text_4XjhGb": {
       "type": "rich-text",
       "blocks": {
@@ -526,8 +502,6 @@
     "rich_text_9c9xjY",
     "text_columns_niCYLr",
     "featured_collection_nPPKkj",
-    "featured_collection_yddw8g",
-    "featured_collection_Yq7zC4",
     "rich_text_4XjhGb",
     "text_columns_ETAMMR",
     "rich_text_GBtTJW",
