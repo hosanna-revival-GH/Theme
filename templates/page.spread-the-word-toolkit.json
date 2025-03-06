@@ -898,7 +898,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-057.jpg",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-082.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -909,7 +909,7 @@
         "image_ppJ4NA"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -968,61 +968,6 @@
       "settings": {
         "space_above": 0,
         "space_below": 2
-      }
-    },
-    "rich_text_TWtU77": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_F6dWEf": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_FDnBME": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Following up with someone after a conversation about God is an intentional way to show how much you—and God—care for them. When the moment feels right, be ready to follow the Holy Spirit into a conversation about God with them, and see if they’re open to talking more. </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_e6tA7B": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Examples: </p><p>Last month when we talked about faith you mentioned ___.  I wondered if you could share more about why you think that? </p><p>I know I invited you to Christmas church with me last year and it was a busy day- I wanted you to know I’m going the next 3 Sundays and I didn’t know if you had any interest in joining me! </p><p>When you were sharing with me how your life has felt purposeless, it made me think of this daily devotional. I bought you a copy- I would love to go through it with you if you’re interested. </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_Lkwmf3": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Following up is valuable, but the best thing you can do is simply love them well. You are a living example of what a life with Jesus looks like to them, so strive to love them in a way that reflects Jesus. Be intentional about checking in on them, showing them that you care for them if they choose to follow Jesus, or are still uninterested.  </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_F6dWEf",
-        "text_FDnBME",
-        "text_e6tA7B",
-        "text_Lkwmf3"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
       }
     },
     "rich_text_qH8GCU": {
@@ -1149,7 +1094,6 @@
     "faq_KxrqiD",
     "slideshow_LhNLN3",
     "toolkit_KKkMJe",
-    "rich_text_TWtU77",
     "rich_text_qH8GCU",
     "rich_text_nQjz4Q"
   ]
