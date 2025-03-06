@@ -664,7 +664,7 @@
           "type": "rich-text",
           "settings": {
             "title": "",
-            "text": "<h6>Having the heart and intention to share your faith with others is a beautiful first step to spreading the Word. It’s often the next step that is difficult to pursue and confusing to approach. You may have someone that you love or that God has put on your heart, but you’re not quite sure how to open up that conversation with them. Here are a few starting points to begin talking about your faith! </h6>",
+            "text": "",
             "align_text": "left"
           }
         },
@@ -706,7 +706,7 @@
       ],
       "settings": {
         "title": "",
-        "space_above": 50,
+        "space_above": 0,
         "space_below": 0,
         "disable_section_margin": false
       }
@@ -895,71 +895,6 @@
         "space_above": 0,
         "space_below": 0,
         "disable_section_margin": false
-      }
-    },
-    "rich_text_h3Y8B6": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GDTQGF": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_RnxeRM": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<ol><li>ADMIT IT: One of the best things you can do off the bat is to admit that you do not know all the answers. That will give you the freedom to end the conversation and point them to other tools when you fall short. </li></ol><ul><li>Example: “I don’t have formal training in any of this… but what I’ve learned about God in my life about [this topic] is ___.” </li></ul>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_6bPnXW": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>2. SUGGEST A SMALL STEP: Listen carefully to their specific situation and story, then suggest a small next step. “You should come to church with me!” Or “you should read the Bible!” <em>might</em> be the right suggestion in certain moments, but sometimes those steps feel too big or daunting for whomever you’re talking to. Every situation is different. Consider what this person might be ready for, and offer <em>some</em> action points or baby steps to take.</p><p>Examples:</p><ul><li>“Can I send you a link to a sermon or article that really helped me wrestle with that topic?” </li><li>“I have some journal questions that have helped me think through that topic that I can send you.” </li><li>“I’d love to talk about this with you again if these thoughts keep coming up.”</li></ul>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_qdq7q9": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>3. GROW TOGETHER: When the time is right, invite them to read the Bible or a devotional with you! This may feel like a big step, but one of the most beautiful things about Scripture is that it is living and active—God is always speaking through it! Having a friend who is willing to walk through a chapter of the Bible or a devotional with them can be a significant first step in their journey toward a relationship with God. <em>Spread the Word Collective</em> is a tool we created to help you both get a Bible or devotional at a discount and begin growing in your faith together. Check out <em>Spread the Word</em>, and be bold in taking a step to explore Scripture with your friend. God wants to use you! He will equip you, even when it feels scary or you don’t know what to say.</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_QaHtep": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Tip: You will be so surprised how often people say YES to the invitation to read scripture with you. Because we were made to love God and be loved by him, the people that are in your life but aren’t walking in that purpose <em>feel the void. </em>We have found that people are more willing than you’d think to read from the Bible or talk about faith because they are so desperate for <em>something more. </em>You have all of heaven on your side cheering you on- be brave and invite them. God will do the rest.</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_GDTQGF",
-        "text_RnxeRM",
-        "text_6bPnXW",
-        "text_qdq7q9",
-        "text_QaHtep"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b4a04b",
-        "color_text": "#f5f0e6",
-        "space_above": 75,
-        "space_below": 75
       }
     },
     "slideshow_LhNLN3": {
@@ -1176,7 +1111,6 @@
     "rich_text_VjNMiR",
     "slideshow_cKbRKC",
     "faq_KxrqiD",
-    "rich_text_h3Y8B6",
     "slideshow_LhNLN3",
     "rich_text_TWtU77",
     "rich_text_qH8GCU",
