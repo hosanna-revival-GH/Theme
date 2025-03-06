@@ -621,6 +621,43 @@
         "space_below": 75
       }
     },
+    "slideshow_wapKpH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LG3xta": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-047.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_LG3xta"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "rich_text_VjNMiR": {
       "type": "rich-text",
       "blocks": {
@@ -684,6 +721,43 @@
         "color_text": "#b4a04b",
         "space_above": 75,
         "space_below": 75
+      }
+    },
+    "slideshow_cKbRKC": {
+      "type": "slideshow",
+      "blocks": {
+        "image_A9PRTM": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-069.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_A9PRTM"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_h3Y8B6": {
@@ -906,10 +980,10 @@
         "space_below": 75
       }
     },
-    "slideshow_wapKpH": {
+    "slideshow_LhNLN3": {
       "type": "slideshow",
       "blocks": {
-        "image_LG3xta": {
+        "image_ppJ4NA": {
           "type": "image",
           "settings": {
             "top_subheading": "",
@@ -922,7 +996,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-020_5e995343-dfa5-4fa7-8aa2-75a850bb72a4.jpg",
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-057.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -930,14 +1004,14 @@
         }
       },
       "block_order": [
-        "image_LG3xta"
+        "image_ppJ4NA"
       ],
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
@@ -959,11 +1033,13 @@
     "text_and_image_mLbPYT",
     "slideshow_LJxNi6",
     "rich_text_AQjwVC",
+    "slideshow_wapKpH",
     "rich_text_VjNMiR",
+    "slideshow_cKbRKC",
     "rich_text_h3Y8B6",
+    "slideshow_LhNLN3",
     "rich_text_TWtU77",
     "rich_text_qH8GCU",
-    "rich_text_nQjz4Q",
-    "slideshow_wapKpH"
+    "rich_text_nQjz4Q"
   ]
 }
