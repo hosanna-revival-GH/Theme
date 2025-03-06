@@ -287,7 +287,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Learn more in depth about each section of the Bible and where to get started by exploring our <em>Bible Toolkit.</em></p>",
+            "text": "<p>Learn more in depth about each section of the Bible and where to get started by exploring our <a href=\"/pages/bible-toolkit\" title=\"Bible Toolkit\"> <em>Bible Toolkit.</em></a></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
