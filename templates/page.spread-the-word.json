@@ -594,6 +594,31 @@
         "divider": false
       }
     },
+    "rich_text_dT78dR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zbJtYw": {
+          "type": "heading",
+          "settings": {
+            "title": "once you've referred a friend, it's time to follow up"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zbJtYw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b4a04b",
+        "color_text": "#f4efe6",
+        "space_above": 10,
+        "space_below": 10
+      }
+    },
     "slideshow_VreUm9": {
       "type": "slideshow",
       "blocks": {
@@ -854,6 +879,7 @@
     "text_columns_NEyPwE",
     "featured_collections_VJLYiB",
     "featured_collection_WzQPqD",
+    "rich_text_dT78dR",
     "slideshow_VreUm9",
     "faq_ME8cjJ",
     "slideshow_QM68we"
