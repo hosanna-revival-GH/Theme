@@ -346,7 +346,7 @@
             "title": "",
             "text": "<p>Learn the power of prayer and where to start when it’s hard to pray.</p>",
             "button_label": "Learn more about prayer",
-            "button_link": ""
+            "button_link": "shopify://pages/prayer-toolkit"
           }
         },
         "text_block_zRYdxm": {
@@ -359,7 +359,7 @@
             "title": "",
             "text": "<p>Find an article on a practical, everyday topic that points you to Scripture.</p>",
             "button_label": "Find an article",
-            "button_link": ""
+            "button_link": "https://hosannarevival.blog/"
           }
         }
       },

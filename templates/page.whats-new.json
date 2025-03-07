@@ -59,7 +59,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Spread the word collective",
-        "button_link": "",
+        "button_link": "https://hosannarevival.com/pages/spread-the-word",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
