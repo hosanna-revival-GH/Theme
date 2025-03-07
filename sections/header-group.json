@@ -55,9 +55,9 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Planners are now $14.90!",
-            "link_text": "It's not too late to get your 2025 planner",
-            "link": "shopify://products/2025-12-month-planner-marlo-theme"
+            "text": "Sign up for our free, Holy week email series",
+            "link_text": "Our 8-Day study “Broken for You” begins April 13th",
+            "link": "shopify://pages/broken-for-you"
           }
         },
         "announcement-1": {
