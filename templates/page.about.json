@@ -50,6 +50,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/About-us-page-update-Desktop-01.png",
+            "image_mobile": "shopify://shop_images/About-us-page-mobile-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -87,6 +88,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/About-us-page-update-Desktop-02.png",
+            "image_mobile": "shopify://shop_images/About-us-page-mobile-03.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -170,6 +172,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/About-us-page-update-Desktop-07.png",
+            "image_mobile": "shopify://shop_images/About-us-page-mobile-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -242,6 +245,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/About-us-page-update-Desktop-06.png",
+            "image_mobile": "shopify://shop_images/About-us-page-Desktop-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -279,6 +283,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-1_f8a8a01b-642b-4799-b04f-bbd69cf48da7.jpg",
+            "image_mobile": "shopify://shop_images/Hosanna-Revival-Team-Photos-1_f8a8a01b-642b-4799-b04f-bbd69cf48da7.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
