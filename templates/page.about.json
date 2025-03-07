@@ -1,13 +1,22 @@
 /*
-
-IMPORTANT: The contents of this file are auto-generated.
-This file may be updated by the Shopify admin theme editor
-or related systems. Please exercise caution as any changes
-made to this file may be overwritten.
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "main": { "type": "main-page", "disabled": true, "settings": {} },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false
+      }
+    },
     "hero_video_ANVyba": {
       "type": "hero-video",
       "settings": {
@@ -22,6 +31,235 @@ made to this file may be overwritten.
         "overlay_opacity": 0,
         "section_height": "750px",
         "mobile_height": "auto"
+      }
+    },
+    "slideshow_dCMmXw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_amPmxT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-01.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_amPmxT"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_C6epeF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_G9T9py": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_G9T9py"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "image_row_B49rbi": {
+      "type": "image-row",
+      "blocks": {
+        "image_K8gwdi": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/About-us-page-update-Desktop-03.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_k4kVke": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/About-us-page-update-Desktop-04.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_CBMKPc": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/About-us-page-update-Desktop-05.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_K8gwdi",
+        "image_k4kVke",
+        "image_CBMKPc"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    },
+    "slideshow_j3eKqP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_BACddt": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-07.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_BACddt"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "rich_text_trGJYY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hY6yhH": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_M6JEc8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>In 2015 while studying in Spain, our founder Katie had the idea to re-bind and paint her bilingual Bible. It was plain black, but she wanted her Bible to be beautiful and personal, reflecting the way the words on the inside made her feel. Katie immediately saw the ministry that this could become. She spent the next few weeks trying out different materials and processes—creating what is now Hosanna Revival.</p><p>Truly, it was a simple concept: When you get a new planner, you’re excited to organize. When you get a new journal, you’re excited to fill it up. When you get a new travel coffee mug, all of the sudden you take your coffee to go. What if a new and beautiful Bible would excite you to actually open it up and read it?</p><p><em>We are convinced that a beautiful Bible can lead even the darkest heart to crack it open and consider the words inside of it. We are convinced that a beautiful Bible can revive the heart of a believer gone astray by motivating them and reminding them of the truth beyond the cover. We are convinced that an active Christ follower will be drawn to the foot of the cross each morning by the Scripture within their precious tool. Above all else, we are convinced that the words inside of this timeless book will revive our world.</em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_hY6yhH",
+        "text_M6JEc8"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_DrmqNc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_HHLUwd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-06.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_HHLUwd"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "slideshow": {
@@ -42,11 +280,14 @@ made to this file may be overwritten.
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-1_f8a8a01b-642b-4799-b04f-bbd69cf48da7.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
-      "block_order": ["slideshow-0"],
+      "block_order": [
+        "slideshow-0"
+      ],
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -54,7 +295,8 @@ made to this file may be overwritten.
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich-text": {
@@ -62,17 +304,25 @@ made to this file may be overwritten.
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": { "title": "Our Mission" }
+          "settings": {
+            "title": "Our Mission"
+          }
         },
         "text": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.</p>"
+            "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
-      "block_order": ["heading", "text"],
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -90,17 +340,25 @@ made to this file may be overwritten.
       "blocks": {
         "heading_y4xGKV": {
           "type": "heading",
-          "settings": { "title": "The Authority of Scripture" }
+          "settings": {
+            "title": "The Authority of Scripture"
+          }
         },
         "text_dFdziQ": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages.</em></p>"
+            "text": "<p><em>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
-      "block_order": ["heading_y4xGKV", "text_dFdziQ"],
+      "block_order": [
+        "heading_y4xGKV",
+        "text_dFdziQ"
+      ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -118,17 +376,25 @@ made to this file may be overwritten.
       "blocks": {
         "heading_AmEeXb": {
           "type": "heading",
-          "settings": { "title": "Our History" }
+          "settings": {
+            "title": "Our History"
+          }
         },
         "text_7XT6wJ": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>In 2015 while studying in Spain, our founder Katie had the idea to re-bind and paint her bilingual Bible. It was plain black, but she wanted her Bible to be beautiful and personal, reflecting the way the words on the inside made her feel. Katie immediately saw the ministry that this could become. She spent the next few weeks trying out different materials and processes—creating what is now Hosanna Revival.</p><p>Truly, it was a simple concept: When you get a new planner, you’re excited to organize. When you get a new journal, you’re excited to fill it up. When you get a new traveling coffee mug, all of the sudden you take your coffee to-go. What if a new and beautiful Bible would excite you to actually open it up and read it?</p><p>We are convinced that a beautiful Bible can lead even the darkest heart to crack it open and consider the words inside of it. We are convinced that a beautiful Bible can revive the heart of a believer gone astray by motivating them and reminding them of the truth beyond the cover. We are convinced that an active Christ follower will be drawn to the foot of the cross each morning by the Scripture within their precious tool. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>"
+            "text": "<p>In 2015 while studying in Spain, our founder Katie had the idea to re-bind and paint her bilingual Bible. It was plain black, but she wanted her Bible to be beautiful and personal, reflecting the way the words on the inside made her feel. Katie immediately saw the ministry that this could become. She spent the next few weeks trying out different materials and processes—creating what is now Hosanna Revival.</p><p>Truly, it was a simple concept: When you get a new planner, you’re excited to organize. When you get a new journal, you’re excited to fill it up. When you get a new traveling coffee mug, all of the sudden you take your coffee to-go. What if a new and beautiful Bible would excite you to actually open it up and read it?</p><p>We are convinced that a beautiful Bible can lead even the darkest heart to crack it open and consider the words inside of it. We are convinced that a beautiful Bible can revive the heart of a believer gone astray by motivating them and reminding them of the truth beyond the cover. We are convinced that an active Christ follower will be drawn to the foot of the cross each morning by the Scripture within their precious tool. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
-      "block_order": ["heading_AmEeXb", "text_7XT6wJ"],
+      "block_order": [
+        "heading_AmEeXb",
+        "text_7XT6wJ"
+      ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -160,11 +426,15 @@ made to this file may be overwritten.
             "image": "shopify://shop_images/Hosanna_History_v2.png",
             "image_mobile": "shopify://shop_images/timeline_mobile.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
-      "block_order": ["image_9UU8MH"],
+      "block_order": [
+        "image_9UU8MH"
+      ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -172,7 +442,8 @@ made to this file may be overwritten.
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "team_member_bios_ayLpAY": {
@@ -184,7 +455,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/01-Katie-Hosanna-Revival-Team_ec2c9ed9-1b44-424d-843d-62999430e099.jpg",
             "image_width": 300,
-            "title": "Katie",
+            "title": "Katie Guilliano",
             "text": "<p>Katie founded Hosanna Revival in 2015, after re-binding and painting her Bible. She pictured how a beautiful Bible could draw someone in—leading them to know God through his Word. This blossomed into the beautiful ministry we now know as Hosanna Revival. Ten years later, Katie continues to lead the team, spending her days designing new products, leading the marketing team, and fostering a creative and intentional company culture. She hopes to glorify the Lord in her work and life—and help women find honesty and peace in their walk with Jesus. Outside of work, Katie cares for her baby boy Louie, her big dog Frank, and her kind husband Nick. Hobbies include but are not limited to: trying creative recipes, hunting for antique art, planning trips, doing puzzles, and writing cards.</p>"
           }
         },
@@ -194,7 +465,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/02-Nick-Hosanna-Revival-Team_878b5802-3ec7-4731-822d-459f9372560c.jpg",
             "image_width": 300,
-            "title": "Nick",
+            "title": "Nick Guilliano",
             "text": "<p>Days before marrying Katie, Nick left the corporate world and joined the team on a mission to grow Hosanna Revival. He oversees production, finances, and operations with the primary goal of responsibly stewarding the resources God so graciously gives Hosanna Revival. His walk with the Lord started when he was a freshman in high school. A friend of his swooped in during a time of need, cared for him, and showed him the genuine love of Christ. Nick loves studying and teaching the Word of God, playing tennis, and riding bikes with his friends. He loves new food and proudly considers himself a corn dog enthusiast.</p>"
           }
         },
@@ -204,7 +475,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/05-Ben-Hosanna-Revival-Team.jpg",
             "image_width": 300,
-            "title": "Ben",
+            "title": "Ben Schutte",
             "text": "<p>Ben joined the Hosanna team in May of 2020 as an intern. Now, as the Director of Commercial Operations, Ben oversees Hosanna Revival's presence in retail locations across the globe and manages a lot of the day-to-day tasks of the production & supply chain process. Ben’s relationship with the Lord really took off when he arrived at the University of Cincinnati. It was there that he found a real, genuine Jesus-loving community to do life with. Ben enjoys teaching others about the infinite depths of the Lord and is passionate about the local church. Off the clock, you'll either find Ben consuming (too much) caffeine, playing golf or tennis, or eating tacos with his beautiful wife, Lily.<br/><em>(see </em><a href=\"https://www.bible.com/bible/111/GEN.49.27.NIV\" target=\"_blank\" title=\"https://www.bible.com/bible/111/GEN.49.27.NIV\"><em>Genesis 49:27</em></a><em> for Ben's true bio)</em></p>"
           }
         },
@@ -214,7 +485,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-40.jpg",
             "image_width": 300,
-            "title": "Malory",
+            "title": "Malory Smith",
             "text": "<p>Malory is the director of publishing at Hosanna Revival. She lives in Cincinnati, Ohio with her husband and two sons. Malory met the Lord her freshman year of high school when the weight of sin and the gift of grace were explained in a way that made sense for the first time. Over the years of following Christ, she has fallen in love with the Word of God and is passionate about creating space for women in all walks of faith to open the Bible and process its words together to build biblical literacy. On an average day, you can find her taking a long walk, raiding the public library for her next good read, or drinking iced coffee.</p>"
           }
         },
@@ -224,7 +495,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/09-Christine-Hosanna-Revival-Team.jpg",
             "image_width": 300,
-            "title": "Christine",
+            "title": "Christine Hendrickson",
             "text": "<p>Christine is the Business Administrator at Hosanna Revival. She is responsible for assisting the staff in human resources, finances, and day to day operations. Christine loves bringing order to chaos and gets oddly excited about policies and procedures. She grew up in the church but made a personal decision to follow Jesus in 2008. As an enneagram 6w5, Christine is fiercely loyal and finds great joy in serving others. She is passionate about gift giving, good food, and being prepared for ANYTHING. Christine lives in Loveland, OH with her husband and their two amazing daughters.</p>"
           }
         },
@@ -234,7 +505,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-44.jpg",
             "image_width": 300,
-            "title": "Charlotte",
+            "title": "Charlotte Schwartz",
             "text": "<p>Originally from Charlotte, NC, Charlotte moved from one Queen City to another with her husband, Alex, in early 2021. As our Creative Director at Hosanna, she leads the Creative Team, manages website updates, and designs devotionals! Growing up as the middle of seven children in a creative Christian family, Charlotte was encouraged to explore her faith and creativity from a young age. Though she always knew about God, her relationship with him was rekindled at 18 during an internship at her local church.She is passionate about great coffee, more coffee, really good food, baking bread, trying to do too many creative projects at once, thrifting material for new sewing projects, and keeping too many houseplants alive! She is most excited when people in her life say “YES!!” to living their lives wholeheartedly for Jesus! </p>"
           }
         },
@@ -244,7 +515,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-38.jpg",
             "image_width": 300,
-            "title": "AnnaClaire",
+            "title": "AnnaClaire Schmiedel",
             "text": "<p>As our Creative Marketing Director, AnnaClaire designs all of our email updates, and when she’s not designing emails, she’s casting big vision for our marketing team to craft a brand experience that will delight you from start to finish. She and Hope also tag-team writing the words across our site with the intention of cheering you on as you grow to know the Lord! She herself has been following Jesus since she was little, but his leadership became real in her life when she surrendered to him in high school and now she loves seeing his creativity at work at Hosanna Revival! In the wild, AnnaClaire can be found picnicking at a local park, analyzing her friends’ seasonal style color palettes, planning her next international trip, and unwinding at Ikea.</p>"
           }
         },
@@ -254,7 +525,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-36.jpg",
             "image_width": 300,
-            "title": "Bernie",
+            "title": "Bernie Lipps",
             "text": "<p>Bernie is the Operations Manager and is responsible for keeping the warehouse in order, managing the shipping department, and helping get your order to you. He spent his first 37 years of work life in the corporate world doing IT. As soon as he had a chance to come work with his daughter Katie at Hosanna and do work that had a purpose, he came running! Bernie is very detail-oriented and loves to keep everything in order and on time. He likes a good home reno project, the occasional mountain bike ride, and a good grill out. On a daily basis you can find him working out, spending time with his wife Becky, playing with his dog Sadie, and reading car magazines. He has the exclusive claim to fame as the only Hosanna employee born before VCR’s.</p>"
           }
         },
@@ -264,7 +535,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-20.jpg",
             "image_width": 300,
-            "title": "Maddie",
+            "title": "Maddie McCoy",
             "text": "<p>Maddie handles all things customer service and community outreach! She met Jesus when she was a freshman in high school and is constantly astounded by the faithfulness and sovereignty of the story that God has been writing in her life. Maddie finds joy in baking things for the office, attempting multiple crafts at a time, and going on walks with her husband and pup. On the weekends you can find her going on long runs or snuggled on the couch with her kindle.</p>"
           }
         },
@@ -274,7 +545,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-22.jpg",
             "image_width": 300,
-            "title": "Monica",
+            "title": "Monica McCoy",
             "text": "<p>As a Senior Account Executive on our B2B team, Monica spends her days building strong relationships with our wholesale partners to make sure stores all over the country are carrying our Bibles so they are readily available to you! Monica grew up in a Christian family and has been following the Lord for the majority of her life. After a year in full-time ministry, she found Hosanna to be the perfect opportunity to engage in work involving Christ in the marketplace. She loves her community and is passionate about loving people well and following the Spirit as he leads in her conversations. An avid connoisseur of Mexican food (especially queso), Monica enjoys visiting new restaurants with her husband, being a pop-culture enthusiast, and consuming her daily quota of Diet Coke.</p>"
           }
         },
@@ -284,7 +555,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/13-Jenna-Hosanna-Revival-Team.jpg",
             "image_width": 300,
-            "title": "Jenna",
+            "title": "Jenna Martin",
             "text": "<p>Jenna is our photo-video gal and brings our creative visions to life through capturing our tools in beautiful settings. She first picked up her Grandpa’s camera at the age of 15 and has since used her skills both locally as a wedding photographer and globally working with a ministry in Israel. Jenna grew up walking with Christ but started taking her faith seriously the summer before her Freshman year of college. She is passionate about music, songwriting, worshiping the Lord, and soup year round. When not working in the office you can find her shooting weddings, going to farmers markets for the fresh blooms, going on evening walks with her husband, and consuming her daily iced vanilla matcha latte.</p>"
           }
         },
@@ -294,7 +565,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-42.jpg",
             "image_width": 300,
-            "title": "Audra",
+            "title": "Audra Chalmers",
             "text": "<p>Audra serves as the Systems and Sales Ops Lead at Hosanna Revival! After living in Indianapolis for 7 years, she is thrilled to be back in her hometown of Cincinnati. Audra desires to contribute to Hosanna by learning the business end-to-end and diligently working to ensure all processes function smoothly and efficiently, ultimately aiming for the widest possible impact of God’s Word on people's lives! Her relationship with God began when, as a senior in high school, she realized that living to make much of herself left her absolutely empty. Through persistent friends and a multitude of prayer warriors around her, her heart opened up to the Truth, and she has been running with the Lord ever since! In her free time, you can find her outside with her pup, watching airplanes, spending time with loved ones, or line dancing!</p>"
           }
         },
@@ -304,7 +575,7 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-47.jpg",
             "image_width": 300,
-            "title": "Hope",
+            "title": "Hope handelsman",
             "text": "<p>Hope is part of our Marketing Team at Hosanna Revival! As a creative copywriter, SMS specialist, and head of our PR department, she brings her passion for storytelling and faith into everything she does. A Cincinnati native, Hope grew up in a big, lively family that encouraged her bold opinions—she’s always ready to add a hot take to office conversations! She’s also our resident Katy Perry fan and the go-to for upbeat pop hits when it’s her turn on the aux. Her faith journey began in childhood and now fuels her mission to reveal God’s beauty in every project, helping others see His love and purpose in all we create.</p>"
           }
         },
@@ -314,8 +585,18 @@ made to this file may be overwritten.
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-31.jpg",
             "image_width": 300,
-            "title": "Analissa",
+            "title": "Analissa FLores",
             "text": "<p>Analissa, a Texas native, moved to Cincinnati earlier this year. Just days after arriving, she discovered that Hosanna Revival was hiring—and the rest is history. Now, she spends her days creating social media content, responding to comments, selecting ribbon colors for products, and second-shooting at Hosanna photoshoots! At 18, her life was transformed when she discovered what it truly meant to live with Jesus. A thriving extrovert, Analissa finds great joy in celebrating others, spending time with friends around a table, spending hours analyzing movies, and taking long walks with her film camera. She's a self-proclaimed matcha connoisseur.</p>"
+          }
+        },
+        "team_member_YYz9fq": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-Robbie.jpg",
+            "image_width": 300,
+            "title": "Maddie Roberts",
+            "text": "<p>As a B2B Account Executive, Maddie spends her days building meaningful relationships and ensuring our partners have everything they need to succeed. She has a heart for helping others thrive and finds joy in seeing the impact of her work. A Cincinnati native, Maddie grew up in a Christian home and has known the Lord for most of her life, but it was during her senior year of high school that she truly began a personal relationship with Jesus. When she’s not working, you can find Maddie exploring new coffee shops, soaking up quality time with friends, enjoying a sweet treat, or spending a relaxing day by the pool.</p>"
           }
         },
         "team_member_Frankie": {
@@ -354,18 +635,26 @@ made to this file may be overwritten.
         "team_member_Audra",
         "team_member_Hope",
         "team_member_Analissa",
+        "team_member_YYz9fq",
         "team_member_Frankie",
         "team_member_Pippa"
       ],
       "settings": {
         "title": "Our Team",
-        "align_text": "center"
+        "align_text": "center",
+        "number_columns": "2"
       }
     }
   },
   "order": [
     "main",
     "hero_video_ANVyba",
+    "slideshow_dCMmXw",
+    "slideshow_C6epeF",
+    "image_row_B49rbi",
+    "slideshow_j3eKqP",
+    "rich_text_trGJYY",
+    "slideshow_DrmqNc",
     "slideshow",
     "rich-text",
     "rich_text_aDNQJ8",
