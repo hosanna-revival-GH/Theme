@@ -258,7 +258,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/10-0ff-05.png",
-            "image_mask": "square",
+            "image_mask": "none",
             "image_width": 650,
             "title": "Compact Bibles",
             "text": "<p>Get an NLT Compact Bible and find fun places to read the Word together!</p>",
