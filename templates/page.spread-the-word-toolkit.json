@@ -55,14 +55,6 @@
         "page_content_enable": true
       }
     },
-    "featured_video_dbxFE3": {
-      "type": "featured-video",
-      "settings": {
-        "title": "",
-        "video_url": "https://youtu.be/n2UpJCzTi7o",
-        "divider": true
-      }
-    },
     "rich_text_EF6G4d": {
       "type": "rich-text",
       "blocks": {
@@ -96,6 +88,14 @@
         "color_text": "#f4efe6",
         "space_above": 75,
         "space_below": 75
+      }
+    },
+    "featured_video_dbxFE3": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https://youtu.be/n2UpJCzTi7o",
+        "divider": true
       }
     },
     "rich_text_Y6JBtX": {
@@ -404,7 +404,7 @@
     "text_and_image_R7MJwA": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-072_5aad5df9-6ec8-4770-88bc-225ba98cb656.jpg",
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-011_4b3ee191-24ea-45bd-bd0f-06de48472085.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "1",
