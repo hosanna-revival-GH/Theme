@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>God has called each of us to be his hands and feet, bringing his love, truth, and hope to the world around us. One of the most powerful and fulfilling things we can do is invite someone into a relationship with Jesus—introducing them to the life-changing grace, peace, and purpose found in him.</p><p>But sharing the Gospel isn’t always easy. Maybe you’re unsure where to start, or perhaps fear and hesitation hold you back. That’s why we created the <strong>Spread the Word Toolkit</strong>—a practical guide designed to equip and encourage you to share your faith with confidence and love. In it we will explore common hangups when it comes to sharing your faith, and offer practical tips to take the first step. </p><p>Jesus commissioned us to go and make disciples (Matthew 28:19), and that mission starts with a simple step: sharing his love with the people around us. Whether you’re starting fresh or looking to grow in boldness, may this toolkit guide and inspire you to spread the Word.</p>",
+            "text": "<p>God has called each of us to be his hands and feet, bringing his love, truth, and hope to the world around us. One of the most powerful and fulfilling things we can do is invite someone into a relationship with Jesus—introducing them to the life-changing grace, peace, and purpose found in him.</p><p>But sharing the Gospel isn’t always easy. Maybe you’re unsure where to start, or perhaps fear and hesitation hold you back. That’s why we created the <strong>Spread the Word Toolkit</strong>—a practical guide designed to equip and encourage you to share your faith with confidence and love. In it we will explore common hangups when it comes to sharing your faith and offer practical tips to take the first step. </p><p>Jesus commissioned us to go and make disciples (Matthew 28:19), and that mission starts with a simple step: sharing his love with the people around us. Whether you’re starting fresh or looking to grow in boldness, may this toolkit guide and inspire you to spread the Word.</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -317,7 +317,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Why share the word?",
+            "title": "Why spread the word?",
             "title_size": 40,
             "subheading": "",
             "link": "",
@@ -361,7 +361,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Over 2,000 years ago Jesus walked this earth and shared the message of the gospel. His followers took that story and proclaimed it from the rooftops- spreading the word as far as they could. They shared the message of God’s love and the call to repent like their brother’s and sister’s lives depended on it… because well… they did.  </p><p>First century Christians saw thousands being killed for proclaiming their faith and spreading the word- but it didn’t stop them. The message of the gospel was too important to keep to themselves. </p><p>Those followers told someone about Jesus, who told someone, who told someone, until 2000+ years later, someone told <em>you. </em></p><p>Don’t let the message of the gospel stop with you. God’s call is consistent and clear: go and make disciples of all nations. </p>",
+            "text": "<p>Over 2,000 years ago Jesus walked this earth and shared the message of the gospel. His followers took that story and proclaimed it from the rooftops—spreading the Word as far as they could. They shared the message of God’s love and the call to repent as if their brother’s and sister’s lives depended on it… because well… they did.  </p><p>First-century Christians saw thousands being killed for proclaiming their faith and spreading the Word—but it didn’t stop them. The message of the gospel was too important to keep to themselves. </p><p>Those followers told someone about Jesus, who told someone, who told someone, until 2000+ years later, someone told <em>you. </em></p><p>Don’t let the message of the gospel stop with you. God’s call is consistent and clear: go and make disciples of all nations. </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -415,8 +415,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#f4efe6",
-        "color_text": "#b4a04b",
+        "color_bg": "#b4a04b",
+        "color_text": "#f4efe6",
         "space_above": 75,
         "space_below": 75
       }
