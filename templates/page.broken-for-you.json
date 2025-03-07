@@ -76,11 +76,47 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "rich_text_bhi4yf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gxycHK": {
+          "type": "heading",
+          "settings": {
+            "title": "Broken for you: a holy week study"
+          }
+        },
+        "text_3PPgBT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>a free, 8-day Holy Week email series by Brooke Jackson that explores the brokenness of the cross and the lessons we can learn from Jesus through this</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_gxycHK",
+        "text_3PPgBT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
-    "slideshow_XhTnCC"
+    "slideshow_XhTnCC",
+    "rich_text_bhi4yf"
   ]
 }
