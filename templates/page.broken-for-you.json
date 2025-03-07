@@ -121,12 +121,34 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "text_and_image_EBFKWm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival-188.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the author",
+        "title": "About Brooke Jackson",
+        "text": "<p>Brooke Jackson has been a public defender since 2006, advocating for children and teenagers in Ohio’s legal system and representing them in state and federal court. She came to her work as she was being drawn into God’s heart for those who are vulnerable and in need. Brooke has been a follower of Jesus since she was a teenager. While earning her degree in English (with a focus on creative writing), she was active in various campus ministries, worked with other college students, and led and taught Bible studies, devotionals, and women’s retreats. Brooke’s career has given her opportunities to utilize a Christ-centered lens to train faith communities on the intersection of faith and justice.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
     "slideshow_XhTnCC",
-    "rich_text_bhi4yf"
+    "rich_text_bhi4yf",
+    "text_and_image_EBFKWm"
   ]
 }
