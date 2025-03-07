@@ -45,7 +45,7 @@
         "image_amPmxT"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "100vh",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
