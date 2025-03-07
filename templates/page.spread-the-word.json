@@ -106,8 +106,8 @@
         "rivo_loyalty_rewards_referrals_lp_referral_campaign_VzwE9H"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "full_width": true,
+        "space_around": false
       }
     },
     "rich_text_7dpjVx": {
