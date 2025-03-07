@@ -70,7 +70,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "our free holy week series",
-        "button_link": "shopify://collections/nlt-compact-bibles",
+        "button_link": "shopify://pages/broken-for-you",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
