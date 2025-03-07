@@ -94,11 +94,21 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "text_RFgAAQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Broken for You</em> invites followers of Jesus to walk through Holy Week with him, witnessing his brokenness along the way and considering what his example means for us. </p><p>It extends an invitation for us to take up our cross and follow Jesus into brokenness. Are we willing to give up ease and reputation for the benefit of others? Or is it easier to remain comfortable in our faith, unwilling to walk the path Jesus did? </p><p><em>Broken for You</em> beckons readers to participate in God’s kingdom, even when it is uncomfortable, and to see the riches of his glory that accompany a life surrendered to his use. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
         "heading_gxycHK",
-        "text_3PPgBT"
+        "text_3PPgBT",
+        "text_RFgAAQ"
       ],
       "settings": {
         "align_text": "center",
