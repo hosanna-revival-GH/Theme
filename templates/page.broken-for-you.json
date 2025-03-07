@@ -46,17 +46,17 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Broken for you",
+            "title": "",
             "title_size": 45,
-            "subheading": "an 8-day Holy Week email series",
+            "subheading": "",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/broken-for-you-header-01.png",
-            "image_mobile": "shopify://shop_images/broken-for-you-header-02.png",
+            "image": "shopify://shop_images/broken-for-you-header-01_1.png",
+            "image_mobile": "shopify://shop_images/broken-for-you-header-02_1.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -73,7 +73,7 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true,
+        "lazyload_images": false,
         "disable_animation": false
       }
     },
