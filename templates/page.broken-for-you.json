@@ -151,7 +151,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 40
       }
     }
   },
