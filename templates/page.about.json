@@ -649,6 +649,60 @@
         "align_text": "center",
         "number_columns": "2"
       }
+    },
+    "text_columns_Kp7EgG": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_ywDqmQ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/About-us-page-update-Desktop-07-transparent.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>We value beauty because we see God as the ultimate Creator and Artist. Every design is thoughtfully hand-crafted by our founder, Katie, as a reflection of God's creativity and glory. Every time you pick up a tool, beauty awaits.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_yBHjGU": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/About-us-page-update-Desktop-08-transparent.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>We believe Scripture is the living, breathing Word of God, revealing his love and the sacrifice of his son, Jesus, for our salvation. It has the power to transform lives and serves as our ultimate standard of truth.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_TBRbh9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/About-us-page-update-Desktop-09-transparent.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>We prioritize intentionality because God is intentional with us. Each tool is designed to make you feel seen and loved by him and to inspire you to gift intentionally to invite others to a relationship with him and his love.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_ywDqmQ",
+        "text_block_yBHjGU",
+        "text_block_TBRbh9"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -665,6 +719,7 @@
     "rich_text_aDNQJ8",
     "rich_text_nQKHQj",
     "slideshow_TfaxhB",
-    "team_member_bios_ayLpAY"
+    "team_member_bios_ayLpAY",
+    "text_columns_Kp7EgG"
   ]
 }
