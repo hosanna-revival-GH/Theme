@@ -71,7 +71,7 @@
       "disabled": true,
       "settings": {
         "full_width": true,
-        "space_around": false,
+        "space_around": true,
         "lazyload_images": true
       }
     },
@@ -80,7 +80,7 @@
       "settings": {
         "title": "",
         "video_url": "https://youtu.be/n2UpJCzTi7o",
-        "divider": false
+        "divider": true
       }
     },
     "rich_text_EF6G4d": {
@@ -112,8 +112,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#f4efe6",
-        "color_text": "#b4a04b",
+        "color_bg": "#b4a04b",
+        "color_text": "#f4efe6",
         "space_above": 75,
         "space_below": 75
       }
@@ -278,7 +278,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. So to <em>spread </em>the word, is more than just passing along a good tip. The Word of God tells the complete story of who God is and what he has done.  It details the narrative of creation, sin in our broken world, God’s plan for redemption, the story of rescue, and the mission we’ve been entrusted with while we wait for Christ. When you share the Word of God with someone, you are spreading the good news of the gospel, and creating space for revival in their lives. </p>",
+            "text": "<p>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. So to <em>spread </em>the Word is more than just passing along a good tip. The Word of God tells the complete story of who God is and what he has done. It details the narrative of creation, sin in our broken world, God’s plan for redemption, the story of rescue, and the mission we’ve been entrusted with while we wait for Christ. When you share the Word of God with someone, you are spreading the good news of the gospel and creating space for revival in their lives. </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
