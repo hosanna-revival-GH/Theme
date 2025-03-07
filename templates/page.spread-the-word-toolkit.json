@@ -445,12 +445,12 @@
     "text_and_image_mLbPYT": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-027.jpg",
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-027_22a0cc06-3cf9-4b41-8875-d61b54e80aee.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "2",
         "title": "Evangelism",
-        "text": "<p>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives. We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </p><p></p>",
+        "text": "<p>Although God doesn’t need our help, he chooses to let us into his beautiful mission of love and rescue: his quest to save and redeem his beloved children. Each one of us has been intentionally designed with a unique personality and unique strengths. These strengths play an important role in exemplifying the characteristics of Jesus, and equip us to connect with the people God has placed in our lives. We were created as image-bearers of the Lord, so when we step fully into our identities as God’s children and pursue him, we become a walking reflection of different facets of God’s character. We have the incredible opportunity to connect and ultimately share the love of God with the people we come in contact with. This is the concept of evangelism–that we would use how God has created us and the story he’s written for our lives to point others to Jesus. </p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -476,7 +476,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God, and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives </p>",
+            "text": "<p>The Word of God says that the most important commandment is to love the Lord with all your heart, soul, and mind, and to to love our neighbors as ourselves (Matthew 22:37).  God placed you in your city, your family, your friend group, and your church for a very specific reason. The purpose for your life is to be loved by God and to tell others about the unending, abounding, and fulfilling love of God. When we walk in that purpose, we carry the gospel to others like it was first carried to us, and we experience the joy of living out God’s mission for our lives </p>",
             "align_text_block": "left",
             "block_bottom_space": 25
           }
