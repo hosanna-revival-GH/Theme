@@ -70,8 +70,8 @@
       ],
       "disabled": true,
       "settings": {
-        "full_width": false,
-        "space_around": true,
+        "full_width": true,
+        "space_around": false,
         "lazyload_images": true
       }
     },
