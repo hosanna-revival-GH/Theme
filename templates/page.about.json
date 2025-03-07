@@ -33,7 +33,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/About-us-page-update-Desktop-01.png",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-01_4998dd03-5cff-4f64-87d5-e4fbb4c6850e.png",
             "image_mobile": "shopify://shop_images/About-us-page-mobile-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -45,7 +45,7 @@
         "image_amPmxT"
       ],
       "settings": {
-        "section_height": "100vh",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
