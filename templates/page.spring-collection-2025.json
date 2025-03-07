@@ -93,14 +93,91 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
+        "space_above": 50,
         "space_below": 75
+      }
+    },
+    "featured_collection_TYqFTQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "single_button_U3aH9F": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Shop Spring 2025",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
+    "text_columns_KUYm4h": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_iAhxAi": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebooks",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_AG7E7k": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Bibles",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_pyMAUw": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Bible Tabs",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_iAhxAi",
+        "text_block_AG7E7k",
+        "text_block_pyMAUw"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
   "order": [
     "main",
     "slideshow_c3KMGy",
-    "rich_text_jCEJkX"
+    "rich_text_jCEJkX",
+    "featured_collection_TYqFTQ",
+    "single_button_U3aH9F",
+    "text_columns_KUYm4h"
   ]
 }
