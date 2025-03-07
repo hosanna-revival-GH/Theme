@@ -127,35 +127,38 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0310.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Notebooks",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "text": "",
+            "button_label": "Shop notebooks",
+            "button_link": "shopify://collections/notebooks"
           }
         },
         "text_block_AG7E7k": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1160.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Bibles",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "text": "",
+            "button_label": "Find a beautiful Bible",
+            "button_link": "shopify://collections/beautiful-bibles"
           }
         },
         "text_block_pyMAUw": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0544.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Bible Tabs",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "title": "Bible tabs",
+            "text": "",
+            "button_label": "Choose yours",
             "button_link": ""
           }
         }
@@ -170,6 +173,87 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_EzGVXg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YycfzY": {
+          "type": "heading",
+          "settings": {
+            "title": "Introducing Embroidery"
+          }
+        },
+        "text_TFfwyN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>After years of dreaming we are finally bringing Hosanna Revival Embroidery Bibles and notebooks to life! May the intricate threads and details of this collection mirror God’s intentionality at work in your life.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_YycfzY",
+        "text_TFfwyN"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "image_row_3ywN4T": {
+      "type": "image-row",
+      "blocks": {
+        "image_dytFKd": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0250.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_NJfdbq": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0278.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_9UJqC6": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0263.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_dytFKd",
+        "image_NJfdbq",
+        "image_9UJqC6"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
     }
   },
   "order": [
@@ -178,6 +262,8 @@
     "rich_text_jCEJkX",
     "featured_collection_TYqFTQ",
     "single_button_U3aH9F",
-    "text_columns_KUYm4h"
+    "text_columns_KUYm4h",
+    "rich_text_EzGVXg",
+    "image_row_3ywN4T"
   ]
 }
