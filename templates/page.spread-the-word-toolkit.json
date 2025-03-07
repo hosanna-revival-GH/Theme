@@ -9,70 +9,50 @@
  */
 {
   "sections": {
+    "slideshow_WjYM4Q": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fEXRJb": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-the-Word-Launch-012.png",
+            "image_mobile": "shopify://shop_images/Spread-the-Word-Launch-013.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_fEXRJb"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
-      }
-    },
-    "rich_text_QjhUiH": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_kWdmmn": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_d4R3Qg": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h2>A practical guide designed to equip and encourage you to share your faith with confidence and love.</h2>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_kWdmmn",
-        "text_d4R3Qg"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b4a04b",
-        "color_text": "#f5f0e6",
-        "space_above": 15,
-        "space_below": 20
-      }
-    },
-    "advanced_content_RycVwR": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_RpWcHE": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "code": "<div style=\"width:100%;height:500px;\" data-fillout-id=\"fBE9kEtaZQus\" data-fillout-embed-type=\"standard\" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src=\"https://server.fillout.com/embed/v1/\"></script>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_RpWcHE"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "space_around": true,
-        "lazyload_images": true
       }
     },
     "featured_video_dbxFE3": {
@@ -1116,11 +1096,10 @@
     }
   },
   "order": [
+    "slideshow_WjYM4Q",
     "main",
-    "rich_text_QjhUiH",
-    "advanced_content_RycVwR",
-    "featured_video_dbxFE3",
     "rich_text_EF6G4d",
+    "featured_video_dbxFE3",
     "rich_text_Y6JBtX",
     "slideshow_HxDGxe",
     "rich_text_ihDdPU",
