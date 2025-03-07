@@ -17,22 +17,6 @@
         "page_content_enable": false
       }
     },
-    "hero_video_ANVyba": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/c843a9d1c00c4e10b3ebaa997f9f7223.mp4",
-        "overlay_opacity": 0,
-        "section_height": "750px",
-        "mobile_height": "auto"
-      }
-    },
     "slideshow_dCMmXw": {
       "type": "slideshow",
       "blocks": {
@@ -69,6 +53,22 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "hero_video_ANVyba": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c843a9d1c00c4e10b3ebaa997f9f7223.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "500px"
       }
     },
     "slideshow_C6epeF": {
@@ -109,50 +109,58 @@
         "disable_animation": false
       }
     },
-    "image_row_B49rbi": {
-      "type": "image-row",
+    "text_columns_Kp7EgG": {
+      "type": "text-columns",
       "blocks": {
-        "image_K8gwdi": {
-          "type": "image",
+        "text_block_ywDqmQ": {
+          "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/About-us-page-update-Desktop-03.png",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-07-transparent.png",
+            "image_mask": "none",
             "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "title": "",
+            "text": "<p>We value beauty because we see God as the ultimate Creator and Artist. Every design is thoughtfully hand-crafted by our founder, Katie, as a reflection of God's creativity and glory. Every time you pick up a tool, beauty awaits.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "image_k4kVke": {
-          "type": "image",
+        "text_block_yBHjGU": {
+          "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/About-us-page-update-Desktop-04.png",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-08-transparent.png",
+            "image_mask": "none",
             "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "title": "",
+            "text": "<p>We believe Scripture is the living, breathing Word of God, revealing his love and the sacrifice of his son, Jesus, for our salvation. It has the power to transform lives and serves as our ultimate standard of truth.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "image_CBMKPc": {
-          "type": "image",
+        "text_block_TBRbh9": {
+          "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/About-us-page-update-Desktop-05.png",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-09-transparent.png",
+            "image_mask": "none",
             "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
+            "title": "",
+            "text": "<p>We prioritize intentionality because God is intentional with us. Each tool is designed to make you feel seen and loved by him and to inspire you to gift intentionally to invite others to a relationship with him and his love.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "image_K8gwdi",
-        "image_k4kVke",
-        "image_CBMKPc"
+        "text_block_ywDqmQ",
+        "text_block_yBHjGU",
+        "text_block_TBRbh9"
       ],
       "settings": {
         "title": "",
         "align_text": "center",
-        "enable_spacing": true,
-        "enable_zoom": false
+        "divider": false
       }
     },
     "slideshow_j3eKqP": {
@@ -266,6 +274,44 @@
         "disable_animation": false
       }
     },
+    "slideshow_CJQCqe": {
+      "type": "slideshow",
+      "blocks": {
+        "image_4Fdmbz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/About-us-page-update-Desktop-09.png",
+            "image_mobile": "shopify://shop_images/About-us-page-update-Desktop-08.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_4Fdmbz"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -300,153 +346,6 @@
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "rich-text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Our Mission"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "about--2021-mission",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#af8548",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "rich_text_aDNQJ8": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_y4xGKV": {
-          "type": "heading",
-          "settings": {
-            "title": "The Authority of Scripture"
-          }
-        },
-        "text_dFdziQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages.</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_y4xGKV",
-        "text_dFdziQ"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#af8548",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "rich_text_nQKHQj": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_AmEeXb": {
-          "type": "heading",
-          "settings": {
-            "title": "Our History"
-          }
-        },
-        "text_7XT6wJ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>In 2015 while studying in Spain, our founder Katie had the idea to re-bind and paint her bilingual Bible. It was plain black, but she wanted her Bible to be beautiful and personal, reflecting the way the words on the inside made her feel. Katie immediately saw the ministry that this could become. She spent the next few weeks trying out different materials and processes—creating what is now Hosanna Revival.</p><p>Truly, it was a simple concept: When you get a new planner, you’re excited to organize. When you get a new journal, you’re excited to fill it up. When you get a new traveling coffee mug, all of the sudden you take your coffee to-go. What if a new and beautiful Bible would excite you to actually open it up and read it?</p><p>We are convinced that a beautiful Bible can lead even the darkest heart to crack it open and consider the words inside of it. We are convinced that a beautiful Bible can revive the heart of a believer gone astray by motivating them and reminding them of the truth beyond the cover. We are convinced that an active Christ follower will be drawn to the foot of the cross each morning by the Scripture within their precious tool. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_AmEeXb",
-        "text_7XT6wJ"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "about--2021-history",
-        "color_bg": "#ffffff",
-        "color_text": "#1c1d1d",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "slideshow_TfaxhB": {
-      "type": "slideshow",
-      "blocks": {
-        "image_9UU8MH": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Hosanna_History_v2.png",
-            "image_mobile": "shopify://shop_images/timeline_mobile.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_9UU8MH"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
       }
@@ -645,81 +544,23 @@
         "team_member_Pippa"
       ],
       "settings": {
-        "title": "Our Team",
-        "align_text": "center",
-        "number_columns": "2"
-      }
-    },
-    "text_columns_Kp7EgG": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_ywDqmQ": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/About-us-page-update-Desktop-07-transparent.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "",
-            "text": "<p>We value beauty because we see God as the ultimate Creator and Artist. Every design is thoughtfully hand-crafted by our founder, Katie, as a reflection of God's creativity and glory. Every time you pick up a tool, beauty awaits.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_yBHjGU": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/About-us-page-update-Desktop-08-transparent.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "",
-            "text": "<p>We believe Scripture is the living, breathing Word of God, revealing his love and the sacrifice of his son, Jesus, for our salvation. It has the power to transform lives and serves as our ultimate standard of truth.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_TBRbh9": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/About-us-page-update-Desktop-09-transparent.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "",
-            "text": "<p>We prioritize intentionality because God is intentional with us. Each tool is designed to make you feel seen and loved by him and to inspire you to gift intentionally to invite others to a relationship with him and his love.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_ywDqmQ",
-        "text_block_yBHjGU",
-        "text_block_TBRbh9"
-      ],
-      "settings": {
         "title": "",
         "align_text": "center",
-        "divider": false
+        "number_columns": "2"
       }
     }
   },
   "order": [
     "main",
-    "hero_video_ANVyba",
     "slideshow_dCMmXw",
+    "hero_video_ANVyba",
     "slideshow_C6epeF",
-    "image_row_B49rbi",
+    "text_columns_Kp7EgG",
     "slideshow_j3eKqP",
     "rich_text_trGJYY",
     "slideshow_DrmqNc",
+    "slideshow_CJQCqe",
     "slideshow",
-    "rich-text",
-    "rich_text_aDNQJ8",
-    "rich_text_nQKHQj",
-    "slideshow_TfaxhB",
-    "team_member_bios_ayLpAY",
-    "text_columns_Kp7EgG"
+    "team_member_bios_ayLpAY"
   ]
 }
