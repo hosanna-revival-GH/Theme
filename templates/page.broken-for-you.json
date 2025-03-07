@@ -32,15 +32,55 @@
       "block_order": [
         "liquid_RpWcHE"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "slideshow_XhTnCC": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QEwKdQ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Broken for you",
+            "title_size": 45,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/broken-for-you-header-01.png",
+            "image_mobile": "shopify://shop_images/broken-for-you-header-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QEwKdQ"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_RycVwR"
+    "advanced_content_RycVwR",
+    "slideshow_XhTnCC"
   ]
 }
