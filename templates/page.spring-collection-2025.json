@@ -11,13 +11,53 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
       }
+    },
+    "slideshow_c3KMGy": {
+      "type": "slideshow",
+      "blocks": {
+        "image_McVKq6": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Spring Collection 2025",
+            "title_size": 50,
+            "subheading": "Experience threads of God’s beauty",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1115.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1121.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_McVKq6"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_c3KMGy"
   ]
 }
