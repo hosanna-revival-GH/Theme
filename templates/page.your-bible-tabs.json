@@ -103,11 +103,68 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
+    },
+    "text_and_image_34hq8K": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_bBTzCa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RWkGct": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_EEJn8J": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_RWkGct",
+        "text_EEJn8J"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
     "slideshow_bEKxae",
-    "featured_product_EkrECb"
+    "featured_product_EkrECb",
+    "text_and_image_34hq8K",
+    "rich_text_bBTzCa"
   ]
 }
