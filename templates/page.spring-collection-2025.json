@@ -306,6 +306,27 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_bw7KjA": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0091.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>As you delve deeper into a relationship with the heavenly Father, may his warmth surround you and may his passionate love reach into the depths of every corner of your heart. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
         "layout": "right",
         "divider": false,
         "top_padding": true,
@@ -324,6 +345,7 @@
     "text_columns_KUYm4h",
     "image_row_3ywN4T",
     "slideshow_QRPcPe",
-    "text_and_image_B36nbf"
+    "text_and_image_B36nbf",
+    "text_and_image_bw7KjA"
   ]
 }
