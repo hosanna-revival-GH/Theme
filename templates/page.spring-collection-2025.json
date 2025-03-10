@@ -28,7 +28,7 @@
             "title_size": 50,
             "subheading": "Experience threads of God’s beauty",
             "link": "",
-            "link_text": "",
+            "link_text": "Shop the collection",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -313,6 +313,27 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "text_and_image_WtE7Ar": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0702.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "This collection features",
+        "title": "3 New Compact Bibles",
+        "text": "<p>In Fall of 2024 we released our first ever NLT Compact Bibles- the perfect size to take with you on-the-go. This collection features 3 new NLT Compact Bible designs, Casablanca, Yorkshire, and Helena. </p>",
+        "button_label": "Choose your NLT Compact Bible",
+        "button_link": "shopify://collections/nlt-compact-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -325,6 +346,7 @@
     "image_row_3ywN4T",
     "text_and_image_B36nbf",
     "text_columns_KUYm4h",
-    "slideshow_QRPcPe"
+    "slideshow_QRPcPe",
+    "text_and_image_WtE7Ar"
   ]
 }

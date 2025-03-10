@@ -17,30 +17,97 @@
         "page_content_enable": true
       }
     },
-    "advanced_content_RycVwR": {
-      "type": "advanced-content",
+    "slideshow_bEKxae": {
+      "type": "slideshow",
       "blocks": {
-        "liquid_RpWcHE": {
-          "type": "liquid",
+        "image_VWT9wn": {
+          "type": "image",
           "settings": {
-            "code": "<div style=\"width:100%;height:500px;\" data-fillout-id=\"fBE9kEtaZQus\" data-fillout-embed-type=\"standard\" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src=\"https://server.fillout.com/embed/v1/\"></script>",
-            "width": "100%",
-            "alignment": "center"
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
       "block_order": [
-        "liquid_RpWcHE"
+        "image_VWT9wn"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "featured_product_EkrECb": {
+      "type": "featured-product",
+      "blocks": {
+        "price_pmLG8f": {
+          "type": "price",
+          "settings": {}
+        },
+        "description_7nNqdX": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_pizTdz": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_bLBtpr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_pmLG8f",
+        "description_7nNqdX",
+        "variant_picker_pizTdz",
+        "buy_buttons_bLBtpr"
+      ],
+      "settings": {
+        "featured_product": "",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
       }
     }
   },
   "order": [
     "main",
-    "advanced_content_RycVwR"
+    "slideshow_bEKxae",
+    "featured_product_EkrECb"
   ]
 }
