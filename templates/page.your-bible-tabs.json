@@ -105,6 +105,22 @@
         "product_video_style": "muted"
       }
     },
+    "hero_video_bMgJMG": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "text_and_image_34hq8K": {
       "type": "text-and-image",
       "settings": {
@@ -112,9 +128,9 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "What makes these special",
-        "text": "<ul><li>Application guide included</li><li>Double-sided adhesive tab for each book of the Bible</li><li>Deluxe linen paper</li><li>Gold-foiled letters</li><li>Each tab measures 30 mm x 22 mm. When applied to a Bible, each tab extends 7 mm off the page.</li><li>Six tabs fit standard ESV, NLT, and CSB Bibles</li><li>Five tabs fit compact Bibles</li></ul>",
-        "button_label": "",
+        "title": "What makes these Bible tabs special:",
+        "text": "<ul><li>Application guide included</li><li>Double-sided adhesive tab for each book of the Bible</li><li>Deluxe linen paper</li><li>Gold or black-foiled letters</li><li>Each tab measures 30 mm x 22 mm. When applied to a Bible, each tab extends 7 mm off the page.</li><li>Six tabs fit standard ESV, NLT, and CSB Bibles</li><li>Five tabs fit compact Bibles</li></ul>",
+        "button_label": "Choose your Bible",
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
@@ -166,6 +182,7 @@
     "main",
     "slideshow_bEKxae",
     "featured_product_EkrECb",
+    "hero_video_bMgJMG",
     "text_and_image_34hq8K",
     "rich_text_bBTzCa"
   ]
