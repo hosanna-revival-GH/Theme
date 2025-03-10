@@ -120,6 +120,41 @@
         "space_below": 20
       }
     },
+    "rich_text_EzGVXg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YycfzY": {
+          "type": "heading",
+          "settings": {
+            "title": "Introducing Embroidery"
+          }
+        },
+        "text_TFfwyN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>After years of dreaming we are finally bringing Hosanna Revival Embroidery Bibles and notebooks to life! May the intricate threads and details of this collection mirror God’s intentionality at work in your life.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_YycfzY",
+        "text_TFfwyN"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "text_columns_KUYm4h": {
       "type": "text-columns",
       "blocks": {
@@ -172,41 +207,6 @@
         "title": "",
         "align_text": "center",
         "divider": false
-      }
-    },
-    "rich_text_EzGVXg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_YycfzY": {
-          "type": "heading",
-          "settings": {
-            "title": "Introducing Embroidery"
-          }
-        },
-        "text_TFfwyN": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>After years of dreaming we are finally bringing Hosanna Revival Embroidery Bibles and notebooks to life! May the intricate threads and details of this collection mirror God’s intentionality at work in your life.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_YycfzY",
-        "text_TFfwyN"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
       }
     },
     "image_row_3ywN4T": {
@@ -291,6 +291,27 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "text_and_image_B36nbf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0060.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Oue newest landscape design",
+        "title": "FLORENCE",
+        "text": "<p>The rich colors of this breathtaking design showcase the all-encompassing power and beauty of God’s light. Inspired by the Tuscan hills of Italy, our Florence design features the golden strokes of a beautiful sunset. Its rays cover every stroke of the painted landscape, tinting it with warmth and resembling the glorious almighty power of our Father. </p>",
+        "button_label": "Shop the Florence Bible",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -299,9 +320,10 @@
     "rich_text_jCEJkX",
     "featured_collection_TYqFTQ",
     "single_button_U3aH9F",
-    "text_columns_KUYm4h",
     "rich_text_EzGVXg",
+    "text_columns_KUYm4h",
     "image_row_3ywN4T",
-    "slideshow_QRPcPe"
+    "slideshow_QRPcPe",
+    "text_and_image_B36nbf"
   ]
 }
