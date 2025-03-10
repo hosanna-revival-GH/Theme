@@ -92,7 +92,7 @@
         "buy_buttons_bLBtpr"
       ],
       "settings": {
-        "featured_product": "",
+        "featured_product": "hosanna-revival-bible-tabs-gold-foiling",
         "divider": false,
         "sku_enable": false,
         "image_position": "left",
@@ -100,8 +100,8 @@
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
         "thumbnail_arrows": false,
-        "mobile_layout": "partial",
-        "enable_video_looping": true,
+        "mobile_layout": "full",
+        "enable_video_looping": false,
         "product_video_style": "muted"
       }
     },
@@ -176,6 +176,43 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "slideshow_eyQNRT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LnzgpD": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Choose your Bible Tabs",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0506.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_LnzgpD"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -184,6 +221,7 @@
     "featured_product_EkrECb",
     "hero_video_bMgJMG",
     "text_and_image_34hq8K",
-    "rich_text_bBTzCa"
+    "rich_text_bBTzCa",
+    "slideshow_eyQNRT"
   ]
 }
