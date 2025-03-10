@@ -33,8 +33,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1115.jpg",
-            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1121.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0881_2.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0881_2.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -45,7 +45,7 @@
         "image_McVKq6"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "100vh",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -201,6 +201,27 @@
         "enable_zoom": false
       }
     },
+    "text_and_image_B36nbf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0060.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Oue newest landscape design",
+        "title": "FLORENCE",
+        "text": "<p>The rich colors of this breathtaking design showcase the all-encompassing power and beauty of God’s light. Inspired by the Tuscan hills of Italy, our Florence design features the golden strokes of a beautiful sunset. Its rays cover every stroke of the painted landscape, tinting it with warmth and resembling the glorious almighty power of our Father. </p>",
+        "button_label": "Shop the Florence Bible",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "text_columns_KUYm4h": {
       "type": "text-columns",
       "blocks": {
@@ -255,27 +276,6 @@
         "divider": false
       }
     },
-    "text_and_image_B36nbf": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0060.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Oue newest landscape design",
-        "title": "FLORENCE",
-        "text": "<p>The rich colors of this breathtaking design showcase the all-encompassing power and beauty of God’s light. Inspired by the Tuscan hills of Italy, our Florence design features the golden strokes of a beautiful sunset. Its rays cover every stroke of the painted landscape, tinting it with warmth and resembling the glorious almighty power of our Father. </p>",
-        "button_label": "Shop the Florence Bible",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "slideshow_QRPcPe": {
       "type": "slideshow",
       "blocks": {
@@ -322,8 +322,8 @@
     "single_button_U3aH9F",
     "rich_text_EzGVXg",
     "image_row_3ywN4T",
-    "text_columns_KUYm4h",
     "text_and_image_B36nbf",
+    "text_columns_KUYm4h",
     "slideshow_QRPcPe"
   ]
 }
