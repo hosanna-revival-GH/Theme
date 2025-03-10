@@ -23,16 +23,17 @@
         "image_VWT9wn": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "top_subheading": "Introducing",
+            "title": "Hosanna Revival Bible Tabs",
+            "title_size": 40,
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "Personalize your Bible",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0568.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
