@@ -155,60 +155,6 @@
         "space_below": 75
       }
     },
-    "text_columns_KUYm4h": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_iAhxAi": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0310.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Notebooks",
-            "text": "",
-            "button_label": "Shop notebooks",
-            "button_link": "shopify://collections/notebooks"
-          }
-        },
-        "text_block_AG7E7k": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1160.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Bibles",
-            "text": "",
-            "button_label": "Find a beautiful Bible",
-            "button_link": "shopify://collections/beautiful-bibles"
-          }
-        },
-        "text_block_pyMAUw": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0544.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Bible tabs",
-            "text": "",
-            "button_label": "Choose yours",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_iAhxAi",
-        "text_block_AG7E7k",
-        "text_block_pyMAUw"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
     "image_row_3ywN4T": {
       "type": "image-row",
       "blocks": {
@@ -255,6 +201,81 @@
         "enable_zoom": false
       }
     },
+    "text_columns_KUYm4h": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_iAhxAi": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0310.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebooks",
+            "text": "<p>Our Spring 2025 notebooks are the perfect companion for your Bible! Whether you use them for journaling, writing prayers, or taking sermon notes, they’re designed to help you grow closer to the Lord.</p>",
+            "button_label": "Shop notebooks",
+            "button_link": "shopify://collections/notebooks"
+          }
+        },
+        "text_block_AG7E7k": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1160.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Bibles",
+            "text": "<p>Our Spring 2025 Bibles feature vibrant colors, delicate embroidery, and soft tones—designed to inspire you to open your Bible and engage with the steadfast voice of the Lord.</p>",
+            "button_label": "Find a beautiful Bible",
+            "button_link": "shopify://collections/beautiful-bibles"
+          }
+        },
+        "text_block_pyMAUw": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0544.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Bible tabs",
+            "text": "<p>Our 2025 Spring Bible tabs are thoughtfully crafted from the highest quality materials to enrich your personalized Bible and deepen your engagement with Scripture.</p>",
+            "button_label": "Choose yours",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_iAhxAi",
+        "text_block_AG7E7k",
+        "text_block_pyMAUw"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_and_image_B36nbf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0060.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Oue newest landscape design",
+        "title": "FLORENCE",
+        "text": "<p>The rich colors of this breathtaking design showcase the all-encompassing power and beauty of God’s light. Inspired by the Tuscan hills of Italy, our Florence design features the golden strokes of a beautiful sunset. Its rays cover every stroke of the painted landscape, tinting it with warmth and resembling the glorious almighty power of our Father. </p>",
+        "button_label": "Shop the Florence Bible",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "slideshow_QRPcPe": {
       "type": "slideshow",
       "blocks": {
@@ -262,11 +283,11 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Endless\npossibilities.",
+            "title": "",
             "title_size": 80,
-            "subheading": "Bring your brand to life",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -291,48 +312,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "text_and_image_B36nbf": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0060.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Oue newest landscape design",
-        "title": "FLORENCE",
-        "text": "<p>The rich colors of this breathtaking design showcase the all-encompassing power and beauty of God’s light. Inspired by the Tuscan hills of Italy, our Florence design features the golden strokes of a beautiful sunset. Its rays cover every stroke of the painted landscape, tinting it with warmth and resembling the glorious almighty power of our Father. </p>",
-        "button_label": "Shop the Florence Bible",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_bw7KjA": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0091.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>As you delve deeper into a relationship with the heavenly Father, may his warmth surround you and may his passionate love reach into the depths of every corner of your heart. </p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -342,10 +321,9 @@
     "featured_collection_TYqFTQ",
     "single_button_U3aH9F",
     "rich_text_EzGVXg",
-    "text_columns_KUYm4h",
     "image_row_3ywN4T",
-    "slideshow_QRPcPe",
+    "text_columns_KUYm4h",
     "text_and_image_B36nbf",
-    "text_and_image_bw7KjA"
+    "slideshow_QRPcPe"
   ]
 }
