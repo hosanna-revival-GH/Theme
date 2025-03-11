@@ -28,7 +28,7 @@
             "title_size": 40,
             "subheading": "",
             "link": "",
-            "link_text": "Personalize your Bible",
+            "link_text": "Choose yours",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -81,7 +81,13 @@
         "text_wXcfge": {
           "type": "text",
           "settings": {
-            "text": "Text block"
+            "text": "The perfect addition to your beautiful Bible is here! These Bible tabs have been intentionally designed to help you navigate the books of the Bible, while adding a sophisticated and elegant touch. Each tab is double-sided, with deluxe linen paper with either gold-foiled or black-foiled letters to ensure the best quality for your beautiful Bible."
+          }
+        },
+        "text_Xq6Yqy": {
+          "type": "text",
+          "settings": {
+            "text": "These organizational tabs are a great addition and personalized touch when choosing or gifting a new Bible. Included with these Bible tabs is a helpful guide with step-by-step instructions on how to apply your Bible tabs to ensure you get your desired outcome. We pray that these help you as you engage in Scripture and learn more of the Lord’s character and love."
           }
         }
       },
@@ -89,7 +95,8 @@
         "price_pmLG8f",
         "variant_picker_pizTdz",
         "buy_buttons_bLBtpr",
-        "text_wXcfge"
+        "text_wXcfge",
+        "text_Xq6Yqy"
       ],
       "settings": {
         "featured_product": "hosanna-revival-bible-tabs-gold-foiling",
@@ -167,43 +174,6 @@
         "mobile_height": "auto"
       }
     },
-    "slideshow_eyQNRT": {
-      "type": "slideshow",
-      "blocks": {
-        "image_LnzgpD": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "Choose your Bible Tabs",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0506.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_LnzgpD"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "text_columns_XQjx6G": {
       "type": "text-columns",
       "blocks": {
@@ -256,6 +226,43 @@
         "title": "Other ways to personalize your Bible",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "slideshow_eyQNRT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LnzgpD": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Choose your Bible Tabs",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0506.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_LnzgpD"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
