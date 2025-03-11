@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "hero_video_dPXTJN": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Spring Collection 2025",
+        "title_size": 59,
+        "subheading": "Experience threads of God’s beauty",
+        "link_text": "Explore the Collection",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/6e07fde2e72046a5926304ea09f4ed2a.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "slideshow_Yytkjz": {
       "type": "slideshow",
       "blocks": {
@@ -25,8 +41,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-the-Word-Launch-01.png",
-            "image_mobile": "shopify://shop_images/Spread-the-Word-Launch-07.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-01.png",
+            "image_mobile": "shopify://shop_images/Spring-Collection-launch-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -47,6 +63,18 @@
         "disable_animation": false
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "explore the collection",
+        "home_featured_products": "theyre-back",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_ydy6gN": {
       "type": "slideshow",
       "blocks": {
@@ -63,8 +91,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-the-Word-Launch-02.png",
-            "image_mobile": "shopify://shop_images/Spread-the-Word-Launch-08.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-03.png",
+            "image_mobile": "shopify://shop_images/Spring-Collection-launch-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -91,7 +119,7 @@
         "image_gRP37t": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spread-the-Word-Launch-03.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-05.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "33"
           }
@@ -99,7 +127,7 @@
         "image_m8pxaP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spread-the-Word-Launch-04.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-06.png",
             "link": "shopify://collections/devotionals",
             "width": "33"
           }
@@ -107,7 +135,7 @@
         "image_z9fy8G": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spread-the-Word-Launch-05.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-07.png",
             "link": "shopify://collections/notebooks",
             "width": "33"
           }
@@ -162,8 +190,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spread-the-Word-Launch-06.png",
-            "image_mobile": "shopify://shop_images/Spread-the-Word-Launch-09.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-08.png",
+            "image_mobile": "shopify://shop_images/Spring-Collection-launch-09.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -182,6 +210,38 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "promo_grid_cMUWra": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_GzxX7N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring-Collection-launch-010.png",
+            "link": "",
+            "width": "50"
+          }
+        },
+        "image_yqDrtn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring-Collection-launch-011.png",
+            "link": "",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_GzxX7N",
+        "image_yqDrtn"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow": {
@@ -211,6 +271,7 @@
       "block_order": [
         "slideshow-0"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -222,16 +283,36 @@
         "disable_animation": true
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
+    "promo_grid_LzjgqV": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_X7Xah7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring-Collection-launch-012.png",
+            "link": "",
+            "width": "50"
+          }
+        },
+        "image_M6fGRU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring-Collection-launch-013.png",
+            "link": "",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_X7Xah7",
+        "image_M6fGRU"
+      ],
       "settings": {
-        "title": "shop the restock",
-        "home_featured_products": "theyre-back",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_bFRBJV": {
@@ -261,6 +342,7 @@
       "block_order": [
         "image_R4xKcJ"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -274,6 +356,7 @@
     },
     "featured_collection_JDUqAJ": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Beautiful Bibles",
         "home_featured_products": "beautiful-bibles",
@@ -300,8 +383,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2-11-25-Post-Sale-04.png",
-            "image_mobile": "shopify://shop_images/2-11-25-Post-Sale-04_501a0e4a-4bfb-4117-9f05-f1d0328076eb.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-014.png",
+            "image_mobile": "shopify://shop_images/Spring-Collection-launch-015.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -324,13 +407,16 @@
     }
   },
   "order": [
+    "hero_video_dPXTJN",
     "slideshow_Yytkjz",
+    "featured-collection",
     "slideshow_ydy6gN",
     "promo_grid_dwNUkk",
     "17413753419f9a3db7",
     "slideshow_gyMt8x",
+    "promo_grid_cMUWra",
     "slideshow",
-    "featured-collection",
+    "promo_grid_LzjgqV",
     "slideshow_bFRBJV",
     "featured_collection_JDUqAJ",
     "slideshow_LAdPKf"
