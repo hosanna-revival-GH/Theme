@@ -140,31 +140,6 @@
         "product_video_style": "muted"
       }
     },
-    "rich_text_bBTzCa": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_RWkGct": {
-          "type": "heading",
-          "settings": {
-            "title": "Your Guide to Applying Bible Tabs:"
-          }
-        }
-      },
-      "block_order": [
-        "heading_RWkGct"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 40,
-        "space_below": 40
-      }
-    },
     "text_and_image_34hq8K": {
       "type": "text-and-image",
       "settings": {
@@ -186,20 +161,12 @@
         "lazyload_images": true
       }
     },
-    "hero_video_bMgJMG": {
-      "type": "hero-video",
+    "featured_video_xinG3x": {
+      "type": "featured-video",
       "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "https://cdn.shopify.com/videos/c/o/v/7a8c013af17f4880ab86737cbd5e16dc.mp4",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/7a8c013af17f4880ab86737cbd5e16dc.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "title": "Your guide to applying Bible tabs:",
+        "video_url": "https://youtu.be/249jqkj_BxY",
+        "divider": false
       }
     },
     "text_columns_XQjx6G": {
@@ -292,6 +259,51 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "image_row_wQtPrC": {
+      "type": "image-row",
+      "blocks": {
+        "image_ND3J3y": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0574.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_HqKVHa": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0554.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_BkxkXW": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ND3J3y",
+        "image_HqKVHa",
+        "image_BkxkXW"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
     }
   },
   "order": [
@@ -299,10 +311,10 @@
     "slideshow_bEKxae",
     "rich_text_8PhNMW",
     "featured_product_EkrECb",
-    "rich_text_bBTzCa",
     "text_and_image_34hq8K",
-    "hero_video_bMgJMG",
+    "featured_video_xinG3x",
     "text_columns_XQjx6G",
-    "slideshow_eyQNRT"
+    "slideshow_eyQNRT",
+    "image_row_wQtPrC"
   ]
 }
