@@ -115,21 +115,11 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
-        },
-        "text_RFgAAQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Broken for You</em> invites followers of Jesus to walk through Holy Week with him, witnessing his brokenness along the way and considering what his example means for us. </p><p>It extends an invitation for us to take up our cross and follow Jesus into brokenness. Are we willing to give up ease and reputation for the benefit of others? Or is it easier to remain comfortable in our faith, unwilling to walk the path Jesus did? </p><p><em>Broken for You</em> beckons readers to participate in God’s kingdom, even when it is uncomfortable, and to see the riches of his glory that accompany a life surrendered to his use. </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
         }
       },
       "block_order": [
         "heading_gxycHK",
-        "text_3PPgBT",
-        "text_RFgAAQ"
+        "text_3PPgBT"
       ],
       "settings": {
         "align_text": "center",
@@ -141,6 +131,106 @@
         "color_text": "#000000",
         "space_above": 75,
         "space_below": 30
+      }
+    },
+    "text_columns_VdrNGW": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_HTHeGR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "What",
+            "text": "<p>Our annual 8-day <br/>Holy Week email series</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_VG3YTN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Why",
+            "text": "<p>To prepare your heart <br/>to celebrate Easter</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3Yyach": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "When",
+            "text": "<p>Begins April 13th <br/>at 5:30 am ET</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HTHeGR",
+        "text_block_VG3YTN",
+        "text_block_3Yyach"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_c4Jkjm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_UyBy4T": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Broken for You</em> invites followers of Jesus to walk through Holy Week with him, witnessing his brokenness along the way and considering what his example means for us. </p><p>It extends an invitation for us to take up our cross and follow Jesus into brokenness. Are we willing to give up ease and reputation for the benefit of others? Or is it easier to remain comfortable in our faith, unwilling to walk the path Jesus did? </p><p><em>Broken for You</em> beckons readers to participate in God’s kingdom, even when it is uncomfortable, and to see the riches of his glory that accompany a life surrendered to his use. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_UyBy4T"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 30
+      }
+    },
+    "text_and_image_e8aLL4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-096.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "From our author Brooke Jackson",
+        "title": "The Heart Behind the Series",
+        "text": "<p>“One of my favorite childhood photos is from Easter Sunday thirty-five years ago. My cousins and I are in the church parking lot after service. We’re all dressed to impress—little suits and frilly dresses, tights, and shiny patent leather shoes. They are smiling ear to ear while I scowl at the camera, arms tightly crossed. I can’t tell you what I was mad about at that exact moment, but I know that spending hours in itchy clothes and sitting on uncomfortable pews for the longest service of the year was not my jam. Back then, I did not understand why this Sunday was such a big deal compared to all the others. Decades later, I have learned to see Easter a lot differently. Though not as flashy as Christmas celebrations can be, the week of Jesus’s passion—Holy Week—is the centerpiece around which our faith revolves. Jesus’s death and resurrection are the moment of redemption. And while that is something we mostly rejoice in, the week leading up to the resurrection was not wholly celebratory. Instead, it was full of sorrow, pain, and rejection. It was a week in which Jesus was abandoned by his friends, ridiculed and mocked by the religious and those in power, and ultimately condemned to die. In that week, Jesus was broken. Yet it is only in his brokenness that our salvation is realized.”<em>— Brooke Jackson</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "text_and_image_EBFKWm": {
@@ -182,6 +272,9 @@
     "slideshow_XhTnCC",
     "174138386876df961a",
     "rich_text_bhi4yf",
+    "text_columns_VdrNGW",
+    "rich_text_c4Jkjm",
+    "text_and_image_e8aLL4",
     "text_and_image_EBFKWm",
     "single_button_wAyPa7"
   ]
