@@ -140,6 +140,52 @@
         "product_video_style": "muted"
       }
     },
+    "image_row_wQtPrC": {
+      "type": "image-row",
+      "blocks": {
+        "image_ND3J3y": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0574.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_BkxkXW": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0544.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_HqKVHa": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0554.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ND3J3y",
+        "image_BkxkXW",
+        "image_HqKVHa"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
     "text_and_image_34hq8K": {
       "type": "text-and-image",
       "settings": {
@@ -250,7 +296,7 @@
         "image_LnzgpD"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
@@ -259,51 +305,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "image_row_wQtPrC": {
-      "type": "image-row",
-      "blocks": {
-        "image_ND3J3y": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0574.jpg",
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_HqKVHa": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0554.jpg",
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_BkxkXW": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_ND3J3y",
-        "image_HqKVHa",
-        "image_BkxkXW"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "enable_spacing": true,
-        "enable_zoom": false
-      }
     }
   },
   "order": [
@@ -311,10 +312,10 @@
     "slideshow_bEKxae",
     "rich_text_8PhNMW",
     "featured_product_EkrECb",
+    "image_row_wQtPrC",
     "text_and_image_34hq8K",
     "featured_video_xinG3x",
     "text_columns_XQjx6G",
-    "slideshow_eyQNRT",
-    "image_row_wQtPrC"
+    "slideshow_eyQNRT"
   ]
 }
