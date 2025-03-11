@@ -103,7 +103,7 @@
         "divider": false,
         "sku_enable": false,
         "image_position": "left",
-        "image_size": "medium",
+        "image_size": "small",
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
         "thumbnail_arrows": false,
