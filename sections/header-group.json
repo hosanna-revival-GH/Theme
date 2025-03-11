@@ -55,7 +55,7 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Sign up for our free, Holy week email series",
+            "text": "Sign up for our free Holy Week email series",
             "link_text": "Our 8-Day study “Broken for You” begins April 13th",
             "link": "shopify://pages/broken-for-you"
           }
@@ -63,13 +63,14 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Your home for beautiful Bibles",
-            "link_text": "Find a Bible that excites you to engage in Scripture!",
+            "text": "Our first embroidered Spring Collection is here!",
+            "link_text": "Add a set of our new Bible tabs to cart for free when you spend $60+ ",
             "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "They're Back",
             "link_text": "Shop the restock of these best-selling Bibles and notebooks",
