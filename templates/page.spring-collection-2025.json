@@ -9,50 +9,28 @@
  */
 {
   "sections": {
+    "hero_video_VGgEW3": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Spring Collection 2025",
+        "title_size": 40,
+        "subheading": "",
+        "link_text": "Shop the Collection",
+        "link": "shopify://collections/spring-2024-collection",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/6e07fde2e72046a5926304ea09f4ed2a.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
-      }
-    },
-    "slideshow_c3KMGy": {
-      "type": "slideshow",
-      "blocks": {
-        "image_McVKq6": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Spring Collection 2025",
-            "title_size": 50,
-            "subheading": "Experience threads of God’s beauty",
-            "link": "",
-            "link_text": "Shop the collection",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0881_2.jpg",
-            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0881_2.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_McVKq6"
-      ],
-      "settings": {
-        "section_height": "100vh",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
       }
     },
     "rich_text_jCEJkX": {
@@ -74,7 +52,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>This year’s Spring collection is an invitation to step into and experience the revival that Jesus brings to our hearts. When we let his beauty weave itself within our hearts, our lives begin to increase with his rich love and we are hemmed into something far more beautiful than we can imagine.<br/><br/>With this collection we see threads of beauty woven into every detail. Colors radiating the glory of Christ. The living, breathing Word of God, bursting with rich life, ready to transform your beautiful heart. The delicate touch of our father’s power. The metamorphosis from death to life. His glory revealed, every page pointing to his powerful delight in his children. <br/><br/>An invitation to revival. </p>",
+            "text": "<p>This year’s Spring collection is an invitation to step into and experience the revival that Jesus brings to our hearts. When we let his beauty weave itself within our hearts, our lives begin to increase with his rich love and we are hemmed into something far more beautiful than we can imagine.<br/><br/>With this collection we see threads of beauty woven into every detail. Colors radiating the glory of Christ. The living, breathing Word of God, bursting with rich life, ready to transform your beautiful heart. The delicate touch of our father’s power. The metamorphosis from death to life. His glory revealed, every page pointing to his powerful delight in his children. <br/><br/><em>An invitation to revival. </em></p>",
             "align_text_block": "center",
             "block_bottom_space": 30
           }
@@ -308,24 +286,24 @@
         "divider": false
       }
     },
-    "slideshow_QRPcPe": {
+    "slideshow_c3KMGy": {
       "type": "slideshow",
       "blocks": {
-        "image_qUqg3d": {
+        "image_McVKq6": {
           "type": "image",
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 80,
+            "title_size": 50,
             "subheading": "",
             "link": "",
-            "link_text": "Shop SPring Collection 2025",
+            "link_text": "Shop the collection",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1115.jpg",
-            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1115.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0881_2.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0881_2.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -333,39 +311,23 @@
         }
       },
       "block_order": [
-        "image_qUqg3d"
+        "image_McVKq6"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "100vh",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true,
+        "lazyload_images": false,
         "disable_animation": false
-      }
-    },
-    "hero_video_VGgEW3": {
-      "type": "hero-video",
-      "settings": {
-        "title": "Spring Collection 2025",
-        "title_size": 40,
-        "subheading": "",
-        "link_text": "Shop the Collection",
-        "link": "shopify://collections/spring-2024-collection",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/6e07fde2e72046a5926304ea09f4ed2a.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
       }
     }
   },
   "order": [
+    "hero_video_VGgEW3",
     "main",
-    "slideshow_c3KMGy",
     "rich_text_jCEJkX",
     "featured_collection_TYqFTQ",
     "single_button_U3aH9F",
@@ -375,7 +337,6 @@
     "text_and_image_B36nbf",
     "text_and_image_WtE7Ar",
     "text_columns_KUYm4h",
-    "slideshow_QRPcPe",
-    "hero_video_VGgEW3"
+    "slideshow_c3KMGy"
   ]
 }
