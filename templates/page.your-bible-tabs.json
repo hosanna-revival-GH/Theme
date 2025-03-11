@@ -23,7 +23,7 @@
         "image_VWT9wn": {
           "type": "image",
           "settings": {
-            "top_subheading": "Introducing",
+            "top_subheading": "welcome to",
             "title": "Hosanna Revival Bible Tabs",
             "title_size": 40,
             "subheading": "",
@@ -193,7 +193,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "What makes these Bible tabs special:",
+        "title": "What makes these Bible tabs special?",
         "text": "<ul><li>Application guide included</li><li>Deluxe linen paper</li><li>Gold or black-foiled letters</li><li>Six tabs fit standard ESV, NLT, and CSB Bibles</li><li>Five tabs fit compact Bibles</li></ul>",
         "button_label": "Choose your Bible Tabs",
         "button_link": "",
@@ -210,7 +210,7 @@
     "featured_video_xinG3x": {
       "type": "featured-video",
       "settings": {
-        "title": "Your guide to applying Bible tabs:",
+        "title": "Your guide to applying Bible tabs",
         "video_url": "https://youtu.be/249jqkj_BxY",
         "divider": false
       }
@@ -225,9 +225,9 @@
             "image": "shopify://shop_images/Spring-Collection-2023-Stickers-Styled-Hosanna-Revival-011106.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Stickers",
+            "title": "add a Sticker",
             "text": "<p>Find a sticker you like and place it in the margin of your Bible next to the corresponding Scripture.</p>",
-            "button_label": "Find a sticker",
+            "button_label": "Shop Stickers",
             "button_link": "shopify://collections/stickers"
           }
         },
@@ -238,9 +238,9 @@
             "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-008.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "John Reading plan",
+            "title": "Print the \"Study of John\" PDF",
             "text": "<p>Print or write out our John reading plan and place it in the front of your Bible.</p>",
-            "button_label": "Print the \"study of John' reading plan",
+            "button_label": "Print the PDF",
             "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival_f567eba6-9c31-4ced-bcc7-3596d111571a.pdf?v=1627326613"
           }
         },
@@ -251,9 +251,9 @@
             "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0310.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Notebook",
+            "title": "choose a matching Notebook",
             "text": "<p>Choose a notebook that matches your Bible and begin taking notes on what you're learning from Scripture.</p>",
-            "button_label": "Choose a matching notebook",
+            "button_label": "Shop notebooks",
             "button_link": "shopify://collections/notebooks"
           }
         }
