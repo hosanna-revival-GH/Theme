@@ -61,12 +61,6 @@
           "type": "price",
           "settings": {}
         },
-        "description_7nNqdX": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        },
         "variant_picker_pizTdz": {
           "type": "variant_picker",
           "settings": {
@@ -83,13 +77,19 @@
             "surface_pickup_enable": true,
             "show_gift_card_recipient": false
           }
+        },
+        "text_wXcfge": {
+          "type": "text",
+          "settings": {
+            "text": "Text block"
+          }
         }
       },
       "block_order": [
         "price_pmLG8f",
-        "description_7nNqdX",
         "variant_picker_pizTdz",
-        "buy_buttons_bLBtpr"
+        "buy_buttons_bLBtpr",
+        "text_wXcfge"
       ],
       "settings": {
         "featured_product": "hosanna-revival-bible-tabs-gold-foiling",
@@ -111,7 +111,7 @@
         "heading_RWkGct": {
           "type": "heading",
           "settings": {
-            "title": "Your guide to applying Bible Tabs"
+            "title": "Your Guide to Applying Bible Tabs:"
           }
         }
       },
@@ -126,8 +126,29 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 40,
+        "space_below": 40
+      }
+    },
+    "text_and_image_34hq8K": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0909.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "What makes these Bible tabs special:",
+        "text": "<ul><li>Application guide included</li><li>Deluxe linen paper</li><li>Gold or black-foiled letters</li><li>Six tabs fit standard ESV, NLT, and CSB Bibles</li><li>Five tabs fit compact Bibles</li></ul>",
+        "button_label": "Choose your Bible Tabs",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "hero_video_bMgJMG": {
@@ -144,27 +165,6 @@
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
-      }
-    },
-    "text_and_image_34hq8K": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0909.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "What makes these Bible tabs special:",
-        "text": "<ul><li>Application guide included</li><li>Double-sided adhesive tab for each book of the Bible</li><li>Deluxe linen paper</li><li>Gold or black-foiled letters</li><li>Each tab measures 30 mm x 22 mm. When applied to a Bible, each tab extends 7 mm off the page.</li><li>Six tabs fit standard ESV, NLT, and CSB Bibles</li><li>Five tabs fit compact Bibles</li></ul>",
-        "button_label": "Choose your Bible",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     },
     "slideshow_eyQNRT": {
@@ -203,6 +203,60 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "text_columns_XQjx6G": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_dxANXR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring-Collection-2023-Stickers-Styled-Hosanna-Revival-011106.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Stickers",
+            "text": "<p>Find a sticker you like and place it in the margin of your Bible next to the corresponding Scripture.</p>",
+            "button_label": "Find a sticker",
+            "button_link": "shopify://collections/stickers"
+          }
+        },
+        "text_block_BVxr77": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Loaded-Bible-Hosanna-Revival-008.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "John Reading plan",
+            "text": "<p>Print or write out our John reading plan and place it in the front of your Bible with some washer tape.</p>",
+            "button_label": "Print the \"study of John' reading plan",
+            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival_f567eba6-9c31-4ced-bcc7-3596d111571a.pdf?v=1627326613"
+          }
+        },
+        "text_block_pm3z77": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0310.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Notebook",
+            "text": "<p>Choose a notebook that matches your Bible and begin taking notes on what you're learning from Scripture.</p>",
+            "button_label": "Choose a matching notebook",
+            "button_link": "shopify://collections/notebooks"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_dxANXR",
+        "text_block_BVxr77",
+        "text_block_pm3z77"
+      ],
+      "settings": {
+        "title": "Other ways to personalize your Bible",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -210,8 +264,9 @@
     "slideshow_bEKxae",
     "featured_product_EkrECb",
     "rich_text_bBTzCa",
-    "hero_video_bMgJMG",
     "text_and_image_34hq8K",
+    "hero_video_bMgJMG",
+    "text_columns_XQjx6G",
     "slideshow_eyQNRT"
   ]
 }
