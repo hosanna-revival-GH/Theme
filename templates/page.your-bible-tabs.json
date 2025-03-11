@@ -54,6 +54,34 @@
         "disable_animation": false
       }
     },
+    "rich_text_8PhNMW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_DGYQtB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We pray that these help you as you engage in Scripture <br/>and learn more of the Lord’s character and love.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_DGYQtB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "featured_product_EkrECb": {
       "type": "featured-product",
       "blocks": {
@@ -87,7 +115,7 @@
         "text_Xq6Yqy": {
           "type": "text",
           "settings": {
-            "text": "These organizational tabs are a great addition and personalized touch when choosing or gifting a new Bible. Included with these Bible tabs is a helpful guide with step-by-step instructions on how to apply your Bible tabs to ensure you get your desired outcome. We pray that these help you as you engage in Scripture and learn more of the Lord’s character and love."
+            "text": "These organizational tabs are a great addition and personalized touch when choosing or gifting a new Bible. Included with these Bible tabs is a helpful guide with step-by-step instructions on how to apply your Bible tabs to ensure you get your desired outcome."
           }
         }
       },
@@ -269,6 +297,7 @@
   "order": [
     "main",
     "slideshow_bEKxae",
+    "rich_text_8PhNMW",
     "featured_product_EkrECb",
     "rich_text_bBTzCa",
     "text_and_image_34hq8K",
