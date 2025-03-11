@@ -233,17 +233,6 @@
         "enable_zoom": false
       }
     },
-    "single_button_ypbPJT": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Shop Spring 2025",
-        "button_link": "/",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20
-      }
-    },
     "text_and_image_B36nbf": {
       "type": "text-and-image",
       "settings": {
@@ -251,7 +240,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "This collection's landscape design",
-        "title": "FLORENCE",
+        "title": "Florence",
         "text": "<p>The rich colors of this breathtaking design showcase the all-encompassing power and beauty of God’s light. Inspired by the Tuscan hills of Italy, our Florence design features the golden strokes of a beautiful sunset. Its rays cover every stroke of the painted landscape, tinting it with warmth and resembling the glorious almighty power of our Father. </p>",
         "button_label": "Shop the Florence Bible",
         "button_link": "",
@@ -334,7 +323,6 @@
     "text_columns_KUYm4h",
     "rich_text_EzGVXg",
     "image_row_3ywN4T",
-    "single_button_ypbPJT",
     "text_and_image_B36nbf",
     "text_and_image_WtE7Ar",
     "slideshow_c3KMGy"
