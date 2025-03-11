@@ -111,7 +111,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>After years of dreaming Hosanna Revival Embroidery Bibles and notebooks are finally brought to life! May the intricate threads and details of this collection mirror God’s intentionality at work in your life.</p>",
+            "text": "<p>After years of dreaming, Hosanna Revival Embroidery Bibles and notebooks are finally brought to life! May the intricate threads and details of this collection mirror God’s intentionality at work in your life.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -218,7 +218,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "This collection features",
-        "title": "3 New Compact Bibles",
+        "title": "3 Compact Bibles",
         "text": "<p>In Fall of 2024 we released our first ever NLT Compact Bibles- the perfect size to take with you on-the-go. This collection features 3 new NLT Compact Bible designs, Casablanca, Yorkshire, and Helena. </p>",
         "button_label": "Choose your NLT Compact Bible",
         "button_link": "shopify://collections/nlt-compact-bibles",
@@ -331,12 +331,12 @@
     "rich_text_jCEJkX",
     "featured_collection_TYqFTQ",
     "single_button_U3aH9F",
+    "text_columns_KUYm4h",
     "rich_text_EzGVXg",
     "image_row_3ywN4T",
     "single_button_ypbPJT",
     "text_and_image_B36nbf",
     "text_and_image_WtE7Ar",
-    "text_columns_KUYm4h",
     "slideshow_c3KMGy"
   ]
 }
