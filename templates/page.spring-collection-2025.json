@@ -345,6 +345,22 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "hero_video_VGgEW3": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Spring Collection 2025",
+        "title_size": 40,
+        "subheading": "",
+        "link_text": "Shop the Collection",
+        "link": "shopify://collections/spring-2024-collection",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/6e07fde2e72046a5926304ea09f4ed2a.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -359,6 +375,7 @@
     "text_and_image_B36nbf",
     "text_and_image_WtE7Ar",
     "text_columns_KUYm4h",
-    "slideshow_QRPcPe"
+    "slideshow_QRPcPe",
+    "hero_video_VGgEW3"
   ]
 }
