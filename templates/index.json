@@ -92,7 +92,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spring-Collection-launch-03.png",
-            "image_mobile": "shopify://shop_images/Spring-Collection-launch-04.png",
+            "image_mobile": "shopify://shop_images/Spring-Collection-launch-001.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -191,7 +191,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Spring-Collection-launch-08.png",
-            "image_mobile": "shopify://shop_images/Spring-Collection-launch-09.png",
+            "image_mobile": "shopify://shop_images/Spring-Collection-launch-002.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false

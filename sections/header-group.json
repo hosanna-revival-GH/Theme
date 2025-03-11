@@ -44,6 +44,14 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Our first embroidered Spring Collection is here!",
+            "link_text": "Add a set of our new Bible tabs to cart for free when you spend $60+ ",
+            "link": "shopify://collections/beautiful-bibles"
+          }
+        },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
@@ -60,14 +68,6 @@
             "link": "shopify://pages/broken-for-you"
           }
         },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "Our first embroidered Spring Collection is here!",
-            "link_text": "Add a set of our new Bible tabs to cart for free when you spend $60+ ",
-            "link": "shopify://collections/beautiful-bibles"
-          }
-        },
         "announcement_NXQKWa": {
           "type": "announcement",
           "disabled": true,
@@ -79,9 +79,9 @@
         }
       },
       "block_order": [
+        "announcement-1",
         "announcement_mMUAeX",
         "announcement_FNqfy6",
-        "announcement-1",
         "announcement_NXQKWa"
       ],
       "settings": {
