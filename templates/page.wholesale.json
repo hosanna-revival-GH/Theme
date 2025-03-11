@@ -109,7 +109,7 @@
             "title": "Terms & Conditions",
             "text": "<p>Click below to review our updated wholesale terms & conditions.</p>",
             "button_label": "View Terms & Conditions",
-            "button_link": "https://hosannarevival.com/pages/wholesale-terms-conditions"
+            "button_link": "shopify://pages/wholesale-terms-conditions"
           }
         },
         "text_block_rLUrUF": {
