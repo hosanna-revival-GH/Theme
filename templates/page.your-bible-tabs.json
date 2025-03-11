@@ -61,7 +61,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We pray that these help you as you engage in Scripture <br/>and learn more of the Lord’s character and love.</p>",
+            "text": "<p>We pray that these Bible tabs will help you as you engage in Scripture <br/>and learn more of the Lord’s character and love.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
