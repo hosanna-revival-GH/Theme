@@ -105,6 +105,31 @@
         "product_video_style": "muted"
       }
     },
+    "rich_text_bBTzCa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RWkGct": {
+          "type": "heading",
+          "settings": {
+            "title": "Your guide to applying Bible Tabs"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RWkGct"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "hero_video_bMgJMG": {
       "type": "hero-video",
       "settings": {
@@ -140,41 +165,6 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
-      }
-    },
-    "rich_text_bBTzCa": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_RWkGct": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text_EEJn8J": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_RWkGct",
-        "text_EEJn8J"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
       }
     },
     "slideshow_eyQNRT": {
@@ -219,9 +209,9 @@
     "main",
     "slideshow_bEKxae",
     "featured_product_EkrECb",
+    "rich_text_bBTzCa",
     "hero_video_bMgJMG",
     "text_and_image_34hq8K",
-    "rich_text_bBTzCa",
     "slideshow_eyQNRT"
   ]
 }
