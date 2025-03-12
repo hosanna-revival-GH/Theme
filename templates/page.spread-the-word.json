@@ -806,21 +806,21 @@
           "type": "question",
           "settings": {
             "title": "My referral link or code isn’t working. What should I do?",
-            "text": "<p>Double-check that your friend is a new customer and that they clicked your unique referral link before purchasing. If issues persist, contact support@hosannarevival.com.</p>"
+            "text": "<p>Double-check that your friend is a new customer and that they clicked your unique referral link before purchasing. If you are trying to check out with your code and it is getting denied, check if you are placing your order with the same email address as the one you signed up for the program with. If issues persist, contact support@hosannarevival.com.</p>"
           }
         },
         "question_VAbyRn": {
           "type": "question",
           "settings": {
             "title": "I referred a friend, but I didn’t get my reward. What happened?",
-            "text": "<p>You will only get your reward once your friend makes their first purchase through HosannaRevival.com and their order has been confirmed.</p>"
+            "text": "<p>You will only get your reward once your friend makes their first purchase through HosannaRevival.com and their order has been confirmed. If you can confirm this has already occurred, contact support@hosannarevival.com.</p>"
           }
         },
         "question_DhyqTb": {
           "type": "question",
           "settings": {
             "title": "Can I refer someone who has already made a purchase?",
-            "text": "<p>No. You cannot refer a friend who has already made a purchase from Hosanna Revival, but they are welcome to refer friends who are new to us and be a part of spreading the Word too!</p>"
+            "text": "<p>No, you cannot refer a friend who has already made a purchase from Hosanna Revival, but they are welcome to refer friends who are new to us and be a part of spreading the Word too!</p>"
           }
         }
       },
