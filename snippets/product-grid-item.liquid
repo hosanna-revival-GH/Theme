@@ -112,6 +112,7 @@ Arguments
               {%- capture image_classes -%}
                 grid-product__image image-style--{{ image_style }}
               {%- endcapture -%}
+               <a href="{{ product.url | within: collection }}" class="grid-product__link">
               {%- render 'image-element',
                 img: preview_image,
                 classes: image_classes,
@@ -120,6 +121,7 @@ Arguments
                 fallback: fallback,
                 widths: '360, 540, 720, 900, 1080',
               -%}
+                </a>
             {%- else -%}
               {%- capture placeholder -%}product-{% cycle 1, 2, 3, 4, 5, 6 %}{%- endcapture -%}
               <div class="product-image--placeholder">{{ placeholder | placeholder_svg_tag: 'placeholder-svg' }}</div>
