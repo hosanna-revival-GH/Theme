@@ -34,6 +34,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/whats-new_4ed816a4-dde3-4be6-976f-849780998aa4.png",
+            "image_mobile": "shopify://shop_images/whats-new_4ed816a4-dde3-4be6-976f-849780998aa4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -60,7 +61,7 @@
       "custom_css": [],
       "settings": {
         "button_text": "The 2025 spring collection",
-        "button_link": "/",
+        "button_link": "shopify://collections/spring-2025-collection",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
