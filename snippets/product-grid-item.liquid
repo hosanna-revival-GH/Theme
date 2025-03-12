@@ -103,6 +103,7 @@ Arguments
             {%- endif -%}
           </div>
         {%- else -%}
+          <a href="{{ product.url | within: collection }}" class="grid-product__link">
           <div class="image-wrap"
             {% if preview_image != blank %}
               style="height: 0; padding-bottom: {{ 100 | divided_by: preview_image.aspect_ratio }}%;"
@@ -125,6 +126,7 @@ Arguments
               <div class="product-image--placeholder">{{ placeholder | placeholder_svg_tag: 'placeholder-svg' }}</div>
             {%- endif -%}
           </div>
+          </a>
         {%- endif -%}
 
         {%- if settings.product_hover_image and product.media.size > 1 -%}
