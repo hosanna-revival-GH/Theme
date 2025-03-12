@@ -375,25 +375,68 @@
         "disable_animation": false
       }
     },
-    "text_and_image_B7FMCc": {
-      "type": "text-and-image",
+    "text_columns_WNqzQT": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_t9iyKw": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>1. Determine tab spacing: <br/></strong><br/>Decide if you want to fit 5 or 6 tabs along the length of your Bible. This will help you space the tabs evenly.</p><p><strong>2. Set up the alignment guide:</strong> </p><p>Start at the beginning of each book of the Bible and place the alignment guide under the page where you will attach the tab.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_j3rGjD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "step 2",
+            "text": "<p><strong>3. Position the page:</strong></p><p>Align the right edge of the Bible page with the guide. Make sure the page is vertically centered over the guide and aligns with the number of tabs you’re using.</p><p><strong>4. Confirm the row: </strong></p><p>Before placing the tab, double-check you’re on the correct row of the guide for that particular tab. Use the row markings on the guide to stay organized.<br/></p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_PWX9Wx": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "step3",
+            "text": "<p><strong>5. Peel the tab:</strong></p><p>Carefully peel the Bible tab off the sheet. Flip<br/>it so that the adhesive side is facing you.</p><p><strong>6. Position the tab:</strong></p><p>Slide the tab between the page and the<br/>alignment guide so the top of the larger base of the tab aligns with the page edge.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_YYJVqX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>7. Press and fold: </strong></p><p>Press the tab down gently on one side of<br/>the page with your finger, then fold it over the page and press down firmly to secure both sides of the tab.</p><p><strong>Tip: </strong></p><p>New to applying Bible tabs?<strong> </strong>Practice applying one of the blank tabs to a piece of paper to get a feel for it!</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_t9iyKw",
+        "text_block_j3rGjD",
+        "text_block_PWX9Wx",
+        "text_block_YYJVqX"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Gold-Bible-Tabs-Mission-Card-Back.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
@@ -408,6 +451,6 @@
     "featured_video_xinG3x",
     "text_columns_XQjx6G",
     "slideshow_eyQNRT",
-    "text_and_image_B7FMCc"
+    "text_columns_WNqzQT"
   ]
 }
