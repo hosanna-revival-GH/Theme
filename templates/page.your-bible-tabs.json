@@ -313,13 +313,13 @@
           "type": "question",
           "settings": {
             "title": "How many Bible tabs does my Bible fit?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "text": "<ul><li>NLT Notetaking Bible: 6 tabs</li><li>ESV Journaling Bible: 6 tabs</li><li>CSB Journaling BIble: 6 tabs</li><li>NLT Compact Bible: 5 tabs</li></ul><p>Please note: Our application guide is designed for NLT, ESV, and CSB Bibles. While you can apply our Bible tabs to a Hosanna Revival Study Bible or a Large Print Bible, the guide will not align properly.</p>"
           }
         },
         "question_R77ViL": {
           "type": "question",
           "settings": {
-            "title": "If I mess up my Bible, can I return it?",
+            "title": "If I mess up my Bible putting my Bible tabs on, can I return it?",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
           }
         },
@@ -347,7 +347,7 @@
         "question_CQcCip": {
           "type": "question",
           "settings": {
-            "title": "What if put the wrong tab on the wrong book?",
+            "title": "What do I do if I put the wrong tab on the wrong book?",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
           }
         },
