@@ -35,7 +35,7 @@
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "shopify://pages/spread-the-word",
+            "link": "shopify://collections/bible-tabs",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -67,7 +67,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "explore the collection",
-        "home_featured_products": "theyre-back",
+        "home_featured_products": "spring-2025-collection",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -85,7 +85,7 @@
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "shopify://pages/spread-the-word",
+            "link": "https://hosannarevival.com/collections/embroidery",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -120,7 +120,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring-Collection-launch-05.png",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://products/nlt-compact-bible-casablanca-theme",
             "width": "33"
           }
         },
@@ -128,7 +128,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring-Collection-launch-06.png",
-            "link": "shopify://collections/devotionals",
+            "link": "shopify://products/nlt-notetaking-bible-lisbon-theme",
             "width": "33"
           }
         },
@@ -136,7 +136,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring-Collection-launch-07.png",
-            "link": "shopify://collections/notebooks",
+            "link": "shopify://products/csb-notetaking-bible-rosedal-theme",
             "width": "33"
           }
         }
@@ -184,7 +184,7 @@
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "",
+            "link": "shopify://products/esv-journaling-bible-florence-theme",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -219,7 +219,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring-Collection-launch-010.png",
-            "link": "",
+            "link": "shopify://collections/nlt-compact-bibles",
             "width": "50"
           }
         },
@@ -227,7 +227,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring-Collection-launch-011.png",
-            "link": "",
+            "link": "shopify://collections/spring-2025-collection",
             "width": "50"
           }
         }

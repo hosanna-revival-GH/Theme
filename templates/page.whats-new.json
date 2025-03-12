@@ -33,7 +33,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/heres-whats-new_143ca2e2-df89-447b-8267-56a82036ff81.png",
+            "image": "shopify://shop_images/whats-new_4ed816a4-dde3-4be6-976f-849780998aa4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -53,6 +53,18 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "single_button_gX7jmw": {
+      "type": "single-button",
+      "custom_css": [],
+      "settings": {
+        "button_text": "The 2025 spring collection",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
       }
     },
     "single_button_JD887j": {
@@ -169,6 +181,7 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_gX7jmw",
     "single_button_JD887j",
     "single_button_z78Gx6",
     "single_button_KDXcyH",
