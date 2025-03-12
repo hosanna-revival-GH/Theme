@@ -305,6 +305,75 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "faq_LAmPEp": {
+      "type": "faq",
+      "blocks": {
+        "question_nirzwR": {
+          "type": "question",
+          "settings": {
+            "title": "How many Bible tabs does my Bible fit?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_R77ViL": {
+          "type": "question",
+          "settings": {
+            "title": "If I mess up my Bible, can I return it?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_6ARUWa": {
+          "type": "question",
+          "settings": {
+            "title": "How can I be sure I don't mess up the Bible tabs?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_L3Wxrm": {
+          "type": "question",
+          "settings": {
+            "title": "Should I practice placing tabs before sticking them down?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_ez6DtT": {
+          "type": "question",
+          "settings": {
+            "title": "How long does the application process usually take?",
+            "text": ""
+          }
+        },
+        "question_CQcCip": {
+          "type": "question",
+          "settings": {
+            "title": "What if put the wrong tab on the wrong book?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_Bfzwg9": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_nirzwR",
+        "question_R77ViL",
+        "question_6ARUWa",
+        "question_L3Wxrm",
+        "question_ez6DtT",
+        "question_CQcCip",
+        "question_Bfzwg9"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
+      }
     }
   },
   "order": [
@@ -316,6 +385,7 @@
     "text_and_image_34hq8K",
     "featured_video_xinG3x",
     "text_columns_XQjx6G",
-    "slideshow_eyQNRT"
+    "slideshow_eyQNRT",
+    "faq_LAmPEp"
   ]
 }
