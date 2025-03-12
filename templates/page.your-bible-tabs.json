@@ -140,6 +140,117 @@
         "product_video_style": "muted"
       }
     },
+    "featured_video_xinG3x": {
+      "type": "featured-video",
+      "settings": {
+        "title": "Your guide to applying Bible tabs",
+        "video_url": "https://youtu.be/249jqkj_BxY",
+        "divider": false
+      }
+    },
+    "rich_text_TWhn6J": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3RnJzA": {
+          "type": "heading",
+          "settings": {
+            "title": "here are the steps"
+          }
+        },
+        "text_PqKkhP": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Need the alignment guide? Download <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Gold-Bible-Tabs-Mission-Card-Back.pdf?v=1741791653\" title=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Gold-Bible-Tabs-Mission-Card-Back.pdf?v=1741791653\"><em>here</em></a><em>!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_3RnJzA",
+        "text_PqKkhP"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "text_columns_WNqzQT": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_t9iyKw": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-61.jpg",
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "",
+            "text": "<p><strong>1. Determine tab spacing: <br/></strong><br/>Decide if you want to fit 5 or 6 tabs along the length of your Bible. This will help you space the tabs evenly.</p><p><strong>2. Set up the alignment guide:</strong> </p><p>Start at the beginning of each book of the Bible and place the alignment guide under the page where you will attach the tab.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_j3rGjD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-58.jpg",
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "",
+            "text": "<p><strong>3. Position the page:</strong></p><p>Align the right edge of the Bible page with the guide. Make sure the page is vertically centered over the guide and aligns with the number of tabs you’re using.</p><p><strong>4. Confirm the row: </strong></p><p>Before placing the tab, double-check you’re on the correct row of the guide for that particular tab. Use the row markings on the guide to stay organized.<br/></p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_PWX9Wx": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-30_1.jpg",
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "",
+            "text": "<p><strong>5. Peel the tab:</strong></p><p>Carefully peel the Bible tab off the sheet. Flip<br/>it so that the adhesive side is facing you.</p><p><strong>6. Position the tab:</strong></p><p>Slide the tab between the page and the<br/>alignment guide so the top of the larger base of the tab aligns with the page edge.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_YYJVqX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-32.jpg",
+            "image_mask": "none",
+            "image_width": 400,
+            "title": "",
+            "text": "<p><strong>7. Press and fold: </strong></p><p>Press the tab down gently on one side of<br/>the page with your finger, then fold it over the page and press down firmly to secure both sides of the tab.</p><p><strong>Tip: </strong></p><p>New to applying Bible tabs?<strong> </strong>Practice applying one of the blank tabs to a piece of paper to get a feel for it!</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_t9iyKw",
+        "text_block_j3rGjD",
+        "text_block_PWX9Wx",
+        "text_block_YYJVqX"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "image_row_wQtPrC": {
       "type": "image-row",
       "blocks": {
@@ -276,14 +387,6 @@
         "disable_section_margin": false
       }
     },
-    "featured_video_xinG3x": {
-      "type": "featured-video",
-      "settings": {
-        "title": "Your guide to applying Bible tabs",
-        "video_url": "https://youtu.be/249jqkj_BxY",
-        "divider": false
-      }
-    },
     "text_columns_XQjx6G": {
       "type": "text-columns",
       "blocks": {
@@ -374,74 +477,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "text_columns_WNqzQT": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_t9iyKw": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-61.jpg",
-            "image_mask": "none",
-            "image_width": 400,
-            "title": "",
-            "text": "<p><strong>1. Determine tab spacing: <br/></strong><br/>Decide if you want to fit 5 or 6 tabs along the length of your Bible. This will help you space the tabs evenly.</p><p><strong>2. Set up the alignment guide:</strong> </p><p>Start at the beginning of each book of the Bible and place the alignment guide under the page where you will attach the tab.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_j3rGjD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-58.jpg",
-            "image_mask": "none",
-            "image_width": 400,
-            "title": "step 2",
-            "text": "<p><strong>3. Position the page:</strong></p><p>Align the right edge of the Bible page with the guide. Make sure the page is vertically centered over the guide and aligns with the number of tabs you’re using.</p><p><strong>4. Confirm the row: </strong></p><p>Before placing the tab, double-check you’re on the correct row of the guide for that particular tab. Use the row markings on the guide to stay organized.<br/></p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_PWX9Wx": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-30_1.jpg",
-            "image_mask": "none",
-            "image_width": 400,
-            "title": "step3",
-            "text": "<p><strong>5. Peel the tab:</strong></p><p>Carefully peel the Bible tab off the sheet. Flip<br/>it so that the adhesive side is facing you.</p><p><strong>6. Position the tab:</strong></p><p>Slide the tab between the page and the<br/>alignment guide so the top of the larger base of the tab aligns with the page edge.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_YYJVqX": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Bible-Tabs-Beautiful-Bibles-Hosanna-Revival-32.jpg",
-            "image_mask": "none",
-            "image_width": 400,
-            "title": "",
-            "text": "<p><strong>7. Press and fold: </strong></p><p>Press the tab down gently on one side of<br/>the page with your finger, then fold it over the page and press down firmly to secure both sides of the tab.</p><p><strong>Tip: </strong></p><p>New to applying Bible tabs?<strong> </strong>Practice applying one of the blank tabs to a piece of paper to get a feel for it!</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_t9iyKw",
-        "text_block_j3rGjD",
-        "text_block_PWX9Wx",
-        "text_block_YYJVqX"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -449,12 +484,13 @@
     "slideshow_bEKxae",
     "rich_text_8PhNMW",
     "featured_product_EkrECb",
+    "featured_video_xinG3x",
+    "rich_text_TWhn6J",
+    "text_columns_WNqzQT",
     "image_row_wQtPrC",
     "text_and_image_34hq8K",
     "faq_LAmPEp",
-    "featured_video_xinG3x",
     "text_columns_XQjx6G",
-    "slideshow_eyQNRT",
-    "text_columns_WNqzQT"
+    "slideshow_eyQNRT"
   ]
 }
