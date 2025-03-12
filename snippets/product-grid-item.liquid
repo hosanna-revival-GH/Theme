@@ -103,6 +103,7 @@ Arguments
             {%- endif -%}
           </div>
         {%- else -%}
+          <a href="{{ product.url | within: collection }}" class="grid-product__link">
           <div class="image-wrap"
             {% if preview_image != blank %}
               style="height: 0; padding-bottom: {{ 100 | divided_by: preview_image.aspect_ratio }}%;"
@@ -112,7 +113,7 @@ Arguments
               {%- capture image_classes -%}
                 grid-product__image image-style--{{ image_style }}
               {%- endcapture -%}
-               <a href="{{ product.url | within: collection }}" class="grid-product__link">
+               
               {%- render 'image-element',
                 img: preview_image,
                 classes: image_classes,
@@ -121,12 +122,13 @@ Arguments
                 fallback: fallback,
                 widths: '360, 540, 720, 900, 1080',
               -%}
-                </a>
+                
             {%- else -%}
               {%- capture placeholder -%}product-{% cycle 1, 2, 3, 4, 5, 6 %}{%- endcapture -%}
               <div class="product-image--placeholder">{{ placeholder | placeholder_svg_tag: 'placeholder-svg' }}</div>
             {%- endif -%}
           </div>
+            </a>
         {%- endif -%}
 
         {%- if settings.product_hover_image and product.media.size > 1 -%}
