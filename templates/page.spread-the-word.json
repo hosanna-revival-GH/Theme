@@ -100,10 +100,27 @@
             "background_color": "",
             "referral_campaign_id": ""
           }
+        },
+        "rivo_loyalty_rewards_referrals_lp_how_it_works_tcJmrp": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "background_color": "",
+            "section_title_font_color": "",
+            "section_subtitle_font_color": "",
+            "step_number_title_font_size": 26,
+            "step_number_subtitle_font_size": 16,
+            "step_font_color": "",
+            "step_number_type": "border",
+            "step_image_height": 200,
+            "step_1_image": "shopify://shop_images/stw-flower-pink-bud-sq.png",
+            "step_2_image": "shopify://shop_images/stw-flower-pink-side-sq.png",
+            "step_3_image": "shopify://shop_images/stw-flower-pink-lotus-1-sq.png"
+          }
         }
       },
       "block_order": [
-        "rivo_loyalty_rewards_referrals_lp_referral_campaign_VzwE9H"
+        "rivo_loyalty_rewards_referrals_lp_referral_campaign_VzwE9H",
+        "rivo_loyalty_rewards_referrals_lp_how_it_works_tcJmrp"
       ],
       "settings": {
         "full_width": true,
