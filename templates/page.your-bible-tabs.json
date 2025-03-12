@@ -140,12 +140,85 @@
         "product_video_style": "muted"
       }
     },
+    "slideshow_Tfhj6r": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PGU8Hz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Black or Gold?",
+            "title_size": 40,
+            "subheading": "Which Bible tabs will you choose?",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0380.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PGU8Hz"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "featured_video_xinG3x": {
       "type": "featured-video",
       "settings": {
         "title": "Your guide to applying Bible tabs",
         "video_url": "https://youtu.be/249jqkj_BxY",
         "divider": false
+      }
+    },
+    "rich_text_tgiNxi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mLwzKH": {
+          "type": "heading",
+          "settings": {
+            "title": "Which will you choose?"
+          }
+        },
+        "text_XFRXEb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>black or gold?</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_mLwzKH",
+        "text_XFRXEb"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 35,
+        "space_below": 0
       }
     },
     "rich_text_TWhn6J": {
@@ -290,11 +363,44 @@
         "image_BkxkXW",
         "image_HqKVHa"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
         "enable_spacing": false,
         "enable_zoom": false
+      }
+    },
+    "image_compare_7xhTKc": {
+      "type": "image-compare",
+      "blocks": {
+        "image_dJti4b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0375.jpg"
+          }
+        },
+        "image_dP49gX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0534_1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_dJti4b",
+        "image_dP49gX"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "heading_position": "center",
+        "fullwidth": true,
+        "slider_style": "minimal",
+        "height": 500,
+        "color": "#FFFFFF",
+        "lazyload_images": true
       }
     },
     "text_and_image_34hq8K": {
@@ -435,6 +541,7 @@
         "text_block_BVxr77",
         "text_block_pm3z77"
       ],
+      "disabled": true,
       "settings": {
         "title": "Other ways to personalize your Bible",
         "align_text": "center",
@@ -477,107 +584,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "image_row_cpwg64": {
-      "type": "image-row",
-      "blocks": {
-        "image_DNYVJj": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0375.jpg",
-            "image_width": 650,
-            "caption": "Image Caption",
-            "link": ""
-          }
-        },
-        "image_6HQeey": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0507_1.jpg",
-            "image_width": 650,
-            "caption": "BLACK",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_DNYVJj",
-        "image_6HQeey"
-      ],
-      "settings": {
-        "title": "which will you choose?",
-        "align_text": "center",
-        "enable_spacing": false,
-        "enable_zoom": false
-      }
-    },
-    "rich_text_tgiNxi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_mLwzKH": {
-          "type": "heading",
-          "settings": {
-            "title": "Which will you choose?"
-          }
-        },
-        "text_XFRXEb": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>black or gold?</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_mLwzKH",
-        "text_XFRXEb"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 35,
-        "space_below": 0
-      }
-    },
-    "image_compare_7xhTKc": {
-      "type": "image-compare",
-      "blocks": {
-        "image_dJti4b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0375.jpg"
-          }
-        },
-        "image_dP49gX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival0534_1.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_dJti4b",
-        "image_dP49gX"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h3",
-        "heading_position": "center",
-        "fullwidth": true,
-        "slider_style": "minimal",
-        "height": 400,
-        "color": "#FFFFFF",
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -585,16 +591,16 @@
     "slideshow_bEKxae",
     "rich_text_8PhNMW",
     "featured_product_EkrECb",
+    "slideshow_Tfhj6r",
     "featured_video_xinG3x",
+    "rich_text_tgiNxi",
     "rich_text_TWhn6J",
     "text_columns_WNqzQT",
     "image_row_wQtPrC",
+    "image_compare_7xhTKc",
     "text_and_image_34hq8K",
     "faq_LAmPEp",
     "text_columns_XQjx6G",
-    "slideshow_eyQNRT",
-    "image_row_cpwg64",
-    "rich_text_tgiNxi",
-    "image_compare_7xhTKc"
+    "slideshow_eyQNRT"
   ]
 }
