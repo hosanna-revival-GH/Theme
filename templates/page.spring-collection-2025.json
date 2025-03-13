@@ -312,6 +312,19 @@
         "lazyload_images": false,
         "disable_animation": false
       }
+    },
+    "featured_collection_wziExt": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "OUr new Spring Stickers",
+        "home_featured_products": "",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -325,6 +338,7 @@
     "image_row_3ywN4T",
     "text_and_image_B36nbf",
     "text_and_image_WtE7Ar",
-    "slideshow_c3KMGy"
+    "slideshow_c3KMGy",
+    "featured_collection_wziExt"
   ]
 }
