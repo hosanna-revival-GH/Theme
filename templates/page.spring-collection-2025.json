@@ -16,7 +16,7 @@
         "title_size": 40,
         "subheading": "Experience threads of God's beauty",
         "link_text": "Shop the Collection",
-        "link": "",
+        "link": "shopify://collections/spring-2025-collection",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https://cdn.shopify.com/videos/c/o/v/6e07fde2e72046a5926304ea09f4ed2a.mp4",
@@ -79,7 +79,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "home_featured_products": "",
+        "home_featured_products": "spring-2025-collection",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
@@ -137,7 +137,7 @@
             "title": "Bible tabs",
             "text": "<p>Our Bible tabs—offered in gold or black lettering—are thoughtfully crafted from the highest-quality materials to enrich your Bible study experience and deepen your engagement with Scripture.</p>",
             "button_label": "Shop Bible Tabs",
-            "button_link": ""
+            "button_link": "shopify://collections/bible-tabs"
           }
         }
       },
@@ -243,7 +243,7 @@
         "title": "Florence",
         "text": "<p>The rich colors of this breathtaking design showcase the all-encompassing power and beauty of God’s light. Inspired by the Tuscan hills of Italy, our Florence design features the golden strokes of a beautiful sunset. Its rays cover every stroke of the painted landscape, tinting it with warmth and resembling the glorious almighty power of our Father. </p>",
         "button_label": "Shop the Florence Bible",
-        "button_link": "",
+        "button_link": "shopify://products/esv-journaling-bible-florence-theme",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -285,7 +285,7 @@
             "title": "",
             "title_size": 50,
             "subheading": "",
-            "link": "",
+            "link": "shopify://collections/spring-2025-collection",
             "link_text": "Shop the collection",
             "link_2": "",
             "link_text_2": "",
