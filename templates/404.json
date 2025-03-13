@@ -21,7 +21,9 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Psst—we couldn’t find what you’re looking for...</em></p>"
+            "text": "<p><em>Psst—we couldn’t find what you’re looking for...</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -53,14 +55,18 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Our floor manager Frankie would be delighted to assist you in finding the perfect beautiful and intentional tool  to excite you to engage in Scripture. Just click the chat icon on the bottom right of this screen and let him know what you’re looking for.</p>"
+            "text": "<p>Our floor manager Frankie would be delighted to assist you in finding the perfect beautiful and intentional tool  to excite you to engage in Scripture. Just click the chat icon on the bottom right of this screen and let him know what you’re looking for.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "text_QbCwd4": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p><em>In the meantime, you can visit our </em><a href=\"https://hosannarevival.com/\" title=\"https://hosannarevival.com/\"><em>homepage</em></a><em>, </em><a href=\"/collections/hosanna-revival-shop\" title=\"Hosanna Revival Shop\"><em>online shop</em></a><em>, or </em><a href=\"/blogs/lock-screens\" title=\"Lock Screens\"><em>lock screens</em></a><em> for a tiny free tool for today. We’re cheering you on as you engage in Scripture!</em></p>"
+            "text": "<p><em>In the meantime, you can visit our </em><a href=\"https://hosannarevival.com/\" title=\"https://hosannarevival.com/\"><em>homepage</em></a><em>, </em><a href=\"/collections/hosanna-revival-shop\" title=\"Hosanna Revival Shop\"><em>online shop</em></a><em>, or </em><a href=\"/blogs/lock-screens\" title=\"Lock Screens\"><em>lock screens</em></a><em> for a tiny free tool for today. We’re cheering you on as you engage in Scripture!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
@@ -85,11 +91,11 @@
       "type": "background-image-text",
       "settings": {
         "subtitle": "Introducing",
-        "title": "The 2024 Winter Collection",
-        "text": "<p>Whether you are drawn to the serene landscape of our Dublin design or the powerful simplicity of our Jerusalem design, we pray that you are anchored in the truth that God is your Good Shepherd as you find your rest in him.</p>",
+        "title": "The 2025 Spring Collection",
+        "text": "<p>Featuring our first-ever embroidered tools, this collection highlights delicate threads of beauty—both the visible details and the deeper threads of God's beauty woven throughout our lives.</p>",
         "button_label": "Explore the Collection",
-        "button_link": "shopify://collections/winter-2024-collection",
-        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-103.jpg",
+        "button_link": "shopify://collections/spring-2025-collection",
+        "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1021.jpg",
         "layout": "right",
         "height": 650,
         "framed": false,
@@ -102,7 +108,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "View our latest collection",
-        "home_featured_products": "winter-2024-collection",
+        "home_featured_products": "spring-2025-collection",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
