@@ -140,6 +140,64 @@
         "product_video_style": "muted"
       }
     },
+    "featured_product_Gk7CfJ": {
+      "type": "featured-product",
+      "blocks": {
+        "price_GEgdnx": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_tdYbfm": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_rtQCKg": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_xd6FMF": {
+          "type": "text",
+          "settings": {
+            "text": "The perfect addition to your beautiful Bible is here! These Bible tabs have been intentionally designed to help you navigate the books of the Bible, while adding a sophisticated and elegant touch. Each tab is double-sided, with deluxe linen paper with either gold-foiled or black letters to ensure the best quality for your beautiful Bible."
+          }
+        },
+        "text_eXLL4F": {
+          "type": "text",
+          "settings": {
+            "text": "These organizational tabs are a great addition and personalized touch when choosing or gifting a new Bible. Included with these Bible tabs is a helpful guide with step-by-step instructions on how to apply your Bible tabs to ensure you get your desired outcome."
+          }
+        }
+      },
+      "block_order": [
+        "price_GEgdnx",
+        "variant_picker_tdYbfm",
+        "buy_buttons_rtQCKg",
+        "text_xd6FMF",
+        "text_eXLL4F"
+      ],
+      "settings": {
+        "featured_product": "hosanna-revival-bible-tabs-black-foiling",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
     "slideshow_Tfhj6r": {
       "type": "slideshow",
       "blocks": {
@@ -399,7 +457,7 @@
         "fullwidth": true,
         "slider_style": "minimal",
         "height": 500,
-        "color": "#FFFFFF",
+        "color": "#ffffff",
         "lazyload_images": true
       }
     },
@@ -591,6 +649,7 @@
     "slideshow_bEKxae",
     "rich_text_8PhNMW",
     "featured_product_EkrECb",
+    "featured_product_Gk7CfJ",
     "slideshow_Tfhj6r",
     "featured_video_xinG3x",
     "rich_text_tgiNxi",
