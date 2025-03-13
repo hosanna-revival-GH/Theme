@@ -47,8 +47,16 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Our first embroidered Spring Collection is here!",
-            "link_text": "Add a set of our new Bible tabs to cart for free when you spend $60+ ",
+            "text": "Spring Collection is Here! ",
+            "link_text": "Experience threads of God's beauty with our first collection featuring embroidery",
+            "link": "shopify://collections/spring-2025-collection"
+          }
+        },
+        "announcement_NXQKWa": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Bible Tabs",
+            "link_text": "Add a set of our new Bible tabs to cart for free when you spend $60+",
             "link": "shopify://collections/spring-2025-collection"
           }
         },
@@ -67,22 +75,13 @@
             "link_text": "Our 8-Day study “Broken for You” begins April 13th",
             "link": "shopify://pages/broken-for-you"
           }
-        },
-        "announcement_NXQKWa": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "They're Back",
-            "link_text": "Shop the restock of these best-selling Bibles and notebooks",
-            "link": "shopify://collections/theyre-back"
-          }
         }
       },
       "block_order": [
         "announcement-1",
+        "announcement_NXQKWa",
         "announcement_mMUAeX",
-        "announcement_FNqfy6",
-        "announcement_NXQKWa"
+        "announcement_FNqfy6"
       ],
       "settings": {
         "announcement_compact": true
