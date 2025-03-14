@@ -46,7 +46,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Where will you take your Compact Bible?</p>",
+            "text": "<p>Where will you take your Compact Bible on-the-go?</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -56,6 +56,7 @@
         "heading_eqWtR9",
         "text_QbV7Qq"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -66,6 +67,18 @@
         "color_text": "#ffffff",
         "space_above": 45,
         "space_below": 45
+      }
+    },
+    "featured_collection_kRwmkK": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Which NLT Compact will be your new on-the-go Bible?",
+        "home_featured_products": "nlt-compact-bibles",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "slideshow_kHcXnX": {
@@ -86,7 +99,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-101.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -100,7 +114,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_kREDwx": {
@@ -132,7 +147,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#717057",
+        "color_bg": "#615f39",
         "color_text": "#ffffff",
         "space_above": 75,
         "space_below": 75
@@ -213,7 +228,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Screenshot_2024-09-03_at_11.13.49_AM_1321c243-ea80-4e17-98c2-bdc2fc59c5ee.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -227,19 +243,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
-    "featured_collection_kRwmkK": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Choose your NLT compact Bible",
-        "home_featured_products": "nlt-compact-bibles",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "text_and_image_dqezEg": {
@@ -323,7 +328,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Screenshot_2024-09-03_at_11.13.49_AM_1321c243-ea80-4e17-98c2-bdc2fc59c5ee.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -337,7 +343,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "image_row_YFhBBB1": {
@@ -426,7 +433,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#717057",
+        "color_bg": "#615f39",
         "color_text": "#ffffff",
         "space_above": 75,
         "space_below": 75
@@ -450,7 +457,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-484_21c9bfa9-f074-4dbb-a94c-a4318f0d4aa3.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -464,7 +472,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
@@ -472,11 +481,11 @@
     "main",
     "hero_video_BTUF4N",
     "rich_text_4MYpDx",
+    "featured_collection_kRwmkK",
     "slideshow_kHcXnX",
     "rich_text_kREDwx",
     "image_row_YFhBBB",
     "slideshow_pmXeDe",
-    "featured_collection_kRwmkK",
     "text_and_image_dqezEg",
     "text_and_image_zMA98p",
     "text_and_image_yENNDH",
