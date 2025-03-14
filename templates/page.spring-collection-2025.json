@@ -91,7 +91,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Shop Spring 2025",
-        "button_link": "/",
+        "button_link": "shopify://collections/spring-2025-collection",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
