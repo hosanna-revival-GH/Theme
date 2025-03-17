@@ -116,11 +116,20 @@
             "step_2_image": "shopify://shop_images/stw-flower-pink-side-sq.png",
             "step_3_image": "shopify://shop_images/stw-flower-pink-lotus-1-sq.png"
           }
+        },
+        "rivo_loyalty_rewards_referrals_lp_ways_to_redeem_NnTe3a": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-ways-to-redeem/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "background_color": "",
+            "section_title_font_color": "",
+            "section_subtitle_font_color": ""
+          }
         }
       },
       "block_order": [
         "rivo_loyalty_rewards_referrals_lp_referral_campaign_VzwE9H",
-        "rivo_loyalty_rewards_referrals_lp_how_it_works_tcJmrp"
+        "rivo_loyalty_rewards_referrals_lp_how_it_works_tcJmrp",
+        "rivo_loyalty_rewards_referrals_lp_ways_to_redeem_NnTe3a"
       ],
       "settings": {
         "full_width": true,
