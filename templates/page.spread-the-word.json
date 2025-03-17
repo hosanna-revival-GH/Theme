@@ -103,7 +103,6 @@
         },
         "rivo_loyalty_rewards_referrals_lp_how_it_works_tcJmrp": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
-          "disabled": true,
           "settings": {
             "background_color": "",
             "section_title_font_color": "",
