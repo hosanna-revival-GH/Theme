@@ -49,7 +49,7 @@
         "modal_icon_size": 44,
         "vip_desktop_progress_bar_width": 50,
         "vip_table_tier_td_border_top": "none",
-        "custom_css": "#rivo-lp-explainer{\ndisplay: none;\n}"
+        "custom_css": "#rivo-how-it-works{\ndisplay: none;\n}"
       }
     },
     "main": {
