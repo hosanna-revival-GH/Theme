@@ -44,28 +44,13 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "Spring Collection is Here! ",
-            "link_text": "Experience threads of God's beauty through our first collection featuring embroidery",
-            "link": "shopify://collections/spring-2025-collection"
-          }
-        },
         "announcement_NXQKWa": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Bible Tabs",
             "link_text": "Add a set of our new Bible tabs to cart for free when you spend $60+",
             "link": "shopify://collections/spring-2025-collection"
-          }
-        },
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Get $10 off when you Spread the Word",
-            "link_text": "Refer a friend and you’ll both get $10 off your next order through our new referral program!",
-            "link": "shopify://pages/spread-the-word"
           }
         },
         "announcement_FNqfy6": {
@@ -75,13 +60,29 @@
             "link_text": "Our 8-Day study “Broken for You” begins April 13th",
             "link": "shopify://pages/broken-for-you"
           }
+        },
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Refer a friend and get $10 off!",
+            "link_text": "Explore our new referral program “Spread the Word” to help you and a friend engage in Scripture",
+            "link": "shopify://pages/spread-the-word"
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Spring Collection is Here! ",
+            "link_text": "Experience threads of God's beauty through our first collection featuring embroidery",
+            "link": "shopify://collections/spring-2025-collection"
+          }
         }
       },
       "block_order": [
-        "announcement-1",
         "announcement_NXQKWa",
+        "announcement_FNqfy6",
         "announcement_mMUAeX",
-        "announcement_FNqfy6"
+        "announcement-1"
       ],
       "settings": {
         "announcement_compact": true
