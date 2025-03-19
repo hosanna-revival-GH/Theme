@@ -38,7 +38,7 @@
         "gutter_size": 0,
         "space_above": false,
         "space_below": false,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "hero_video_dPXTJN": {
