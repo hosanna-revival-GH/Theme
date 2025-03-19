@@ -15,7 +15,7 @@
         "image_X7Xah7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-01_544a893b-e51a-4e25-ae52-e1161f65220c.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-01_5fb4aaa4-d6fa-43e5-b207-733726837db5.png",
             "link": "shopify://pages/spread-the-word",
             "width": "50"
           }
@@ -23,7 +23,7 @@
         "image_M6fGRU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-02_9764d0f2-016a-4b0d-948d-7ca974a8cdac.png",
+            "image": "shopify://shop_images/Spring-Collection-launch-02_630fec50-06ef-4deb-976a-5a2f187875f1.png",
             "link": "shopify://pages/broken-for-you",
             "width": "50"
           }
@@ -55,6 +55,18 @@
         "overlay_opacity": 0,
         "section_height": "750px",
         "mobile_height": "auto"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "explore the collection",
+        "home_featured_products": "spring-2025-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "slideshow_Yytkjz": {
@@ -93,18 +105,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "explore the collection",
-        "home_featured_products": "spring-2025-collection",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_ydy6gN": {
