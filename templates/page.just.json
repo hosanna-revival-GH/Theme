@@ -24,9 +24,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "just",
-            "title_size": 80,
-            "subheading": "A Journey into the Mercy of God",
+            "title": "just: A Journey Into the Mercy of God",
+            "title_size": 40,
+            "subheading": "Have you ever wondered what God says about injustice in our world?",
             "link": "https://hosannarevival.com/iwar-chapter-one",
             "link_text": "download the chapter one preview here",
             "link_2": "",
@@ -259,6 +259,61 @@
         "disable_animation": false
       }
     },
+    "rich_text_hjcJjW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mqtw6M": {
+          "type": "heading",
+          "settings": {
+            "title": "A prayer for when your heart breaks for the injustice you see in the world"
+          }
+        },
+        "text_4UN8Gr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>God of justice, </em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_T4T7rQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>open my eyes to see the world and the people in it like you do. Help me to recognize when injustice is present and not to turn away from it. Pierce my heart for the things that grieve yours and guide my hands and feet to the work that is mine to do. Help me to be a person who seeks the wholeness of others and who holds my own desires for justice with an open hand. Please show me what it means to follow you in living mercifully toward those around me. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_Pwrgce": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>In Jesus name, amen.</em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_mqtw6M",
+        "text_4UN8Gr",
+        "text_T4T7rQ",
+        "text_Pwrgce"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#9f4b36",
+        "color_text": "#f5f0e6",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
@@ -371,61 +426,6 @@
         "view_all": true,
         "divider": false
       }
-    },
-    "rich_text_hjcJjW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_mqtw6M": {
-          "type": "heading",
-          "settings": {
-            "title": "A prayer for when your heart breaks for the injustice you see in the world"
-          }
-        },
-        "text_4UN8Gr": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>God of justice, </em></p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_T4T7rQ": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>open my eyes to see the world and the people in it like you do. Help me to recognize when injustice is present and not to turn away from it. Pierce my heart for the things that grieve yours and guide my hands and feet to the work that is mine to do. Help me to be a person who seeks the wholeness of others and who holds my own desires for justice with an open hand. Please show me what it means to follow you in living mercifully toward those around me. </p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_Pwrgce": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>In Jesus name, amen.</em></p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_mqtw6M",
-        "text_4UN8Gr",
-        "text_T4T7rQ",
-        "text_Pwrgce"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
     }
   },
   "order": [
@@ -439,12 +439,12 @@
     "text_and_image_g7gbnt",
     "slideshow_UC7cyw",
     "slideshow_LzQNT7",
+    "rich_text_hjcJjW",
     "text_and_image_WGta8f",
     "text_and_image_TnnR6t",
     "single_button_3gmwY3",
     "slideshow_NEtP87",
     "single_button_dwk6Cy",
-    "featured_collection_wb8PnE",
-    "rich_text_hjcJjW"
+    "featured_collection_wb8PnE"
   ]
 }
