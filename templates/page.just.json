@@ -24,9 +24,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "IN WEEPING AND REJOICING",
+            "title": "just",
             "title_size": 80,
-            "subheading": "Emotions in Theology and Life",
+            "subheading": "A Journey into the Mercy of God",
             "link": "https://hosannarevival.com/iwar-chapter-one",
             "link_text": "download the chapter one preview here",
             "link_2": "",
@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-271.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_tBwpF8": {
@@ -58,14 +60,14 @@
         "heading_hNHcBY": {
           "type": "heading",
           "settings": {
-            "title": "IN WEEPING AND REJOICING"
+            "title": "Just: A journey into the mercy of God"
           }
         },
         "text_9KyJ8h": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>In Weeping and Rejoicing</em> breaks down a biblical understanding of emotions and offers readers a practical way forward in their emotional struggles.</p>",
+            "text": "<p><em>Just</em> is a six-part devotional that explores God’s heart for justice by looking at the parables and miracles of Jesus and inviting you to deepen your understanding of mercy. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -74,7 +76,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Through <em>In Weeping and Rejoicing</em>, discover how seven core emotions—joy, sadness, fear, peace, shame, anger, and love—can be clearly defined, dangerously distorted, and slowly developed in our everyday lives and struggles.</p><p><strong>Note to the Reader:</strong> This book provides challenging and honest truth for your mental health journey from a non-clinical perspective. God can use many modes of healing to bring about our wholeness in the area of mental health—whether through wise counsel, modern medicine, biblical truth, and more—and the words you are about to read provide a Scripture-centered framework as you pursue these various avenues. Whether you struggle with depression, anxiety, or are wrestling through complex feelings, we encourage you to seek out professional guidance to pair with the truth you glean from this book. You are also welcome to explore mental-health related articles on our blog, <a href=\"https://hosannarevival.blog/\" title=\"https://hosannarevival.blog/\"><em>WHEN</em></a>, for additional insight.</p>",
+            "text": "<p>Have you ever wondered how God feels about social justice? Have you ever been so overwhelmed by the topic that your first instinct is to block it out? Have you ever felt confused about the world’s response to injustice, unsure of how to respond yourself?</p><p>If so, we encourage you to open up <em>Just: A Journey into the Mercy of God</em>. Through these pages, author Brooke Jackson leads with love as she gently invites you to examine your own belief about injustice by looking at how Jesus interacted with people while walking this earth. If you are challenged by these questions and desire to understand God’s heart for justice, this devotional is for you.</p><p>Over six sections, <em>Just</em> invites you to discover God’s just character through the accounts and actions of Jesus. God’s mercy and compassion towards those in the margins is evident throughout Scripture. Through bite-sized readings and thought-provoking questions, you will unpack stories of Jesus as he heals those who are physically and spiritually bereft while observing how he teaches about the true nature of justice in the kingdom of God. We pray that <em>Just</em> would meet you where you’re at and bring you deeper into the loving and merciful character of Christ as you discover more of his heart for justice. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -200,7 +202,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/IWAR-landing.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         },
         "image_DPYjTp": {
@@ -217,7 +220,8 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -232,7 +236,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "slideshow_LzQNT7": {
@@ -253,7 +258,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-474.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -267,7 +273,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "text_and_image_WGta8f": {
@@ -341,7 +348,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/In-Weeping-And-Rejoicing-Beautiful-Devotional-Hosanna-Revival-473.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -355,7 +363,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "single_button_dwk6Cy": {
