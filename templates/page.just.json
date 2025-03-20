@@ -33,8 +33,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival332.jpg",
-            "image_mobile": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival332.jpg",
+            "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival424.jpg",
+            "image_mobile": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival417.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -371,6 +371,61 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "rich_text_hjcJjW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mqtw6M": {
+          "type": "heading",
+          "settings": {
+            "title": "A prayer for when your heart breaks for the injustice you see in the world"
+          }
+        },
+        "text_4UN8Gr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>God of justice, </em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_T4T7rQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>open my eyes to see the world and the people in it like you do. Help me to recognize when injustice is present and not to turn away from it. Pierce my heart for the things that grieve yours and guide my hands and feet to the work that is mine to do. Help me to be a person who seeks the wholeness of others and who holds my own desires for justice with an open hand. Please show me what it means to follow you in living mercifully toward those around me. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_Pwrgce": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>In Jesus name, amen.</em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_mqtw6M",
+        "text_4UN8Gr",
+        "text_T4T7rQ",
+        "text_Pwrgce"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -389,6 +444,7 @@
     "single_button_3gmwY3",
     "slideshow_NEtP87",
     "single_button_dwk6Cy",
-    "featured_collection_wb8PnE"
+    "featured_collection_wb8PnE",
+    "rich_text_hjcJjW"
   ]
 }
