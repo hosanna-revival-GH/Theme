@@ -57,6 +57,23 @@
             "is_tab": false
           }
         },
+        "forms_inline_a4jfwD": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        },
         "tab": {
           "type": "tab",
           "disabled": true,
@@ -77,6 +94,12 @@
         "share": {
           "type": "share",
           "settings": {}
+        },
+        "shopacado_discounts_discount_table_7ydxeF": {
+          "type": "shopify://apps/shopacado-discounts/blocks/discount-table/5950831a-4e4e-40a4-82b0-674110b50a14",
+          "settings": {
+            "theme_id": "143344861362"
+          }
         }
       },
       "block_order": [
@@ -87,9 +110,11 @@
         "inventory_status",
         "buy_buttons",
         "description",
+        "forms_inline_a4jfwD",
         "tab",
         "contact",
-        "share"
+        "share",
+        "shopacado_discounts_discount_table_7ydxeF"
       ],
       "settings": {
         "sku_enable": false,
@@ -107,19 +132,12 @@
     "1739850095b5b19c44": {
       "type": "apps",
       "blocks": {
-        "shopacado_discounts_discount_table_krMCHX": {
-          "type": "shopify://apps/shopacado-discounts/blocks/discount-table/5950831a-4e4e-40a4-82b0-674110b50a14",
-          "settings": {
-            "theme_id": "143344861362"
-          }
-        },
         "judge_me_reviews_review_widget_DD84df": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         }
       },
       "block_order": [
-        "shopacado_discounts_discount_table_krMCHX",
         "judge_me_reviews_review_widget_DD84df"
       ],
       "settings": {
