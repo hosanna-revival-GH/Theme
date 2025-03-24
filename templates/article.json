@@ -12,7 +12,7 @@
     "main": {
       "type": "article-template",
       "settings": {
-        "image_hero": true,
+        "image_hero": false,
         "blog_show_tags": true,
         "blog_show_date": false,
         "blog_show_comments": false,
