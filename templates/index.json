@@ -9,40 +9,47 @@
  */
 {
   "sections": {
-    "promo_grid_LzjgqV": {
-      "type": "promo-grid",
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
       "blocks": {
-        "image_X7Xah7": {
+        "image_nrxtXn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-01_5fb4aaa4-d6fa-43e5-b207-733726837db5.png",
-            "link": "shopify://pages/spread-the-word",
-            "width": "50"
-          }
-        },
-        "image_M6fGRU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-02_630fec50-06ef-4deb-976a-5a2f187875f1.png",
-            "link": "shopify://pages/broken-for-you",
-            "width": "50"
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Just-Soft-Launch.png",
+            "image_mobile": "shopify://shop_images/Just-Soft-Launch-001_5deb023a-2031-4733-be6f-de15d1d9ac1e.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
       "block_order": [
-        "image_X7Xah7",
-        "image_M6fGRU"
+        "image_nrxtXn"
       ],
       "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": false
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "hero_video_dPXTJN": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "Spring Collection 2025",
         "title_size": 59,
@@ -57,16 +64,80 @@
         "mobile_height": "auto"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
+    "slideshow_N8kAqH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mLKaew": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Just-Soft-Launch-01.png",
+            "image_mobile": "shopify://shop_images/Just-Soft-Launch-002.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_mLKaew"
+      ],
       "settings": {
-        "title": "explore the collection",
-        "home_featured_products": "spring-2025-collection",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_K9J48x": {
+      "type": "slideshow",
+      "blocks": {
+        "image_kNUBGG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Just-Soft-Launch-02.png",
+            "image_mobile": "shopify://shop_images/Just-Soft-Launch-003.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_kNUBGG"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "slideshow_Yytkjz": {
@@ -85,8 +156,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring-Collection-launch-03_a36f4a81-b3de-40bd-ba36-84c7c7a9e936.png",
-            "image_mobile": "shopify://shop_images/Spring-Collection-launch-04_244abf20-fdc1-4272-ab57-92e03b62d98a.png",
+            "image": "shopify://shop_images/Just-Soft-Launch-07_9f0f1624-ae49-46f4-a2fa-a6c737243eb4.png",
+            "image_mobile": "shopify://shop_images/Just-Soft-Launch-004_3a37226a-3cbe-4534-942e-d77a3335fd02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -123,8 +194,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring-Collection-launch-03.png",
-            "image_mobile": "shopify://shop_images/Spring-Collection-launch-001.png",
+            "image": "shopify://shop_images/Just-Soft-Launch-03.png",
+            "image_mobile": "shopify://shop_images/Just-Soft-Launch-05.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -178,6 +249,7 @@
         "image_m8pxaP",
         "image_z9fy8G"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -206,6 +278,38 @@
         "space_around": false
       }
     },
+    "promo_grid_LzjgqV": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_X7Xah7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring-Collection-launch-012_1012202b-e3a3-4d04-ab2d-962991166fe5.png",
+            "link": "shopify://pages/spread-the-word",
+            "width": "50"
+          }
+        },
+        "image_M6fGRU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring-Collection-launch-013_4438b901-7c45-474c-a19c-044801bf17cc.png",
+            "link": "shopify://pages/broken-for-you",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_X7Xah7",
+        "image_M6fGRU"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": false
+      }
+    },
     "slideshow_gyMt8x": {
       "type": "slideshow",
       "blocks": {
@@ -216,14 +320,14 @@
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "shopify://products/esv-journaling-bible-florence-theme",
+            "link": "shopify://collections/spring-2025-collection",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring-Collection-launch-08.png",
-            "image_mobile": "shopify://shop_images/Spring-Collection-launch-002.png",
+            "image": "shopify://shop_images/Just-Soft-Launch-04.png",
+            "image_mobile": "shopify://shop_images/Just-Soft-Launch-06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -242,6 +346,18 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "explore the collection",
+        "home_featured_products": "spring-2025-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "promo_grid_cMUWra": {
@@ -268,6 +384,7 @@
         "image_GzxX7N",
         "image_yqDrtn"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -407,14 +524,17 @@
     }
   },
   "order": [
-    "promo_grid_LzjgqV",
+    "slideshow_gW9EVE",
     "hero_video_dPXTJN",
-    "featured-collection",
+    "slideshow_N8kAqH",
+    "slideshow_K9J48x",
     "slideshow_Yytkjz",
     "slideshow_ydy6gN",
     "promo_grid_dwNUkk",
     "17413753419f9a3db7",
+    "promo_grid_LzjgqV",
     "slideshow_gyMt8x",
+    "featured-collection",
     "promo_grid_cMUWra",
     "slideshow",
     "slideshow_bFRBJV",

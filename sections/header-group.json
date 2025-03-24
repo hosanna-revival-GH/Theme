@@ -46,10 +46,17 @@
       "blocks": {
         "announcement_NXQKWa": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Free Bible Tabs",
-            "link_text": "Add a set of our new Bible tabs to cart for free when you spend $60+",
+            "text": "Our new devotional “Just” launches April 1st!",
+            "link_text": "Learn more about this devotional that explores God’s heart for justice",
+            "link": "shopify://collections/spring-2025-collection"
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Spring Collection is Here! ",
+            "link_text": "Experience threads of God's beauty through our first collection featuring embroidery",
             "link": "shopify://collections/spring-2025-collection"
           }
         },
@@ -68,21 +75,13 @@
             "link_text": "Explore our new referral program “Spread the Word” to help you and a friend engage in Scripture",
             "link": "shopify://pages/spread-the-word"
           }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "Spring Collection is Here! ",
-            "link_text": "Experience threads of God's beauty through our first collection featuring embroidery",
-            "link": "shopify://collections/spring-2025-collection"
-          }
         }
       },
       "block_order": [
         "announcement_NXQKWa",
+        "announcement-1",
         "announcement_FNqfy6",
-        "announcement_mMUAeX",
-        "announcement-1"
+        "announcement_mMUAeX"
       ],
       "settings": {
         "announcement_compact": true
