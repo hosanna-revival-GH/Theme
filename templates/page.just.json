@@ -262,7 +262,7 @@
         "subtitle": "",
         "title": "This Devotional is for you if...",
         "text": "<p>- You are curious what God’s heart for  social justice looks like.<br/>- You are grieved by the injustices you see in the world but don’t know what you can do to help.<br/>- You want  a deeper understanding of God's mercy for yourself and others around you.</p>",
-        "button_label": "choose this tool",
+        "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
         "align_text": "left",
@@ -282,8 +282,8 @@
         "image2_mask": "none",
         "subtitle": "The Details",
         "title": "Just",
-        "text": "<p><strong>Topic:</strong> Mercy and Justice<br/><strong>Length of Study:</strong> 6 sections<br/><strong>Focal Scripture:</strong> multiple passages</p><p>“We may not be able to perform miraculous healing like Jesus or pronounce someone forgiven of their sin–that is not our job–but we can be invested in the healing and wholeness of suffering people as a way of loving our neighbor and following the example of Jesus.”<br/>—<em>Brooke Jackson, author </em></p>",
-        "button_label": "choose this tool",
+        "text": "<p><strong>Topic:</strong> Justice and Mercy<br/><strong>Length of Study:</strong> 6 sections<br/><strong>Focal Scripture:</strong> multiple passages</p><p>“We may not be able to perform miraculous healing like Jesus or pronounce someone forgiven of their sin–that is not our job–but we can be invested in the healing and wholeness of suffering people as a way of loving our neighbor and following the example of Jesus.”<br/>—<em>Brooke Jackson, author </em></p>",
+        "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
         "align_text": "left",
@@ -304,7 +304,7 @@
         "subtitle": "Peek Inside",
         "title": "The Devotional Structure",
         "text": "<p><strong>Structure:</strong> 6 Sections<br/><strong>Elements:</strong> <em>Just: A Journey into the Mercy of God</em> is a 6-part study about God’s heart for justice and what God’s just character means for us as followers of Jesus. Readers will be asked to examine their own understanding of justice and then witness how Jesus demonstrates the justice of God in his interactions with others. This study focuses heavily on the parables and miracles of Jesus and asks us to consider the ways Jesus’s stories and actions reflect God’s character and how his life compels us to be just toward others. </p>",
-        "button_label": "choose this tool",
+        "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
         "align_text": "left",
@@ -314,6 +314,17 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "single_button_3BJJYV": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Sign up to be notified",
+        "button_link": "https://hosannarevival.com/products/just-by-brooke-jackson",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60
       }
     },
     "slideshow_UC7cyw": {
@@ -490,8 +501,8 @@
     "single_button_3gmwY3": {
       "type": "single-button",
       "settings": {
-        "button_text": "buy now",
-        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+        "button_text": "Sign up to be notified",
+        "button_link": "https://hosannarevival.com/products/just-by-brooke-jackson",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -571,6 +582,7 @@
     "text_and_image_c87NAi",
     "text_and_image_kXTmWw",
     "text_and_image_g7gbnt",
+    "single_button_3BJJYV",
     "slideshow_UC7cyw",
     "slideshow_LzQNT7",
     "rich_text_hjcJjW",
