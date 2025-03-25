@@ -434,7 +434,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>In Jesus name, amen.</em></p>",
+            "text": "<p><em>In Jesus</em>’s<em> name, amen.</em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
