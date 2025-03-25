@@ -115,8 +115,94 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        }
+      },
+      "block_order": [
+        "heading_hNHcBY",
+        "text_9KyJ8h"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 35
+      }
+    },
+    "featured_product_8bYpPg": {
+      "type": "featured-product",
+      "blocks": {
+        "price_gWjyHi": {
+          "type": "price",
+          "settings": {}
         },
-        "text_UwqWYA": {
+        "description_kPn7xA": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_6PfJU7": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_ahxUNr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_gWjyHi",
+        "description_kPn7xA",
+        "variant_picker_6PfJU7",
+        "buy_buttons_ahxUNr"
+      ],
+      "settings": {
+        "featured_product": "just-by-brooke-jackson",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_WnrikR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ymzk4q": {
+          "type": "heading",
+          "settings": {
+            "title": "Just: A journey into the mercy of God"
+          }
+        },
+        "text_ex9p9E": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Just</em> is a six-part devotional that explores God’s heart for justice by looking at the parables and miracles of Jesus and inviting you to deepen your understanding of mercy. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_JH9QTg": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
@@ -127,10 +213,11 @@
         }
       },
       "block_order": [
-        "heading_hNHcBY",
-        "text_9KyJ8h",
-        "text_UwqWYA"
+        "heading_Ymzk4q",
+        "text_ex9p9E",
+        "text_JH9QTg"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -156,6 +243,7 @@
     },
     "single_button_6yzNy9": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Buy Now",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
@@ -172,7 +260,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Just",
-        "title": "This Book is for you if...",
+        "title": "This Devotional is for you if...",
         "text": "<p>- You are curious what God's heart for  social justice looks like.<br/>- You are grieved by the injustices you see in the world but don’t know what you can do to help.<br/>- You want  a deeper understanding of God's mercy for yourself and others around you.</p>",
         "button_label": "choose this tool",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
@@ -214,7 +302,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Peek Inside",
-        "title": "The Book Structure",
+        "title": "The Devotional Structure",
         "text": "<p><strong>Structure:</strong> 6 Sections<br/><strong>Elements:</strong> <em>Just: A Journey into the Mercy of God</em> is a 6-part study about God’s heart for justice and what God’s just character means for us as followers of Jesus. Readers will be asked to examine their own understanding of justice and then witness how Jesus demonstrates the justice of God in his interactions with others. This study focuses heavily on the parables and miracles of Jesus and asks us to consider the ways Jesus’s stories and actions reflect God’s character and how his life compels us to be just toward others. </p>",
         "button_label": "choose this tool",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
@@ -476,6 +564,8 @@
     "slideshow_kM3PF6",
     "rich_text_CXtkw9",
     "rich_text_tBwpF8",
+    "featured_product_8bYpPg",
+    "rich_text_WnrikR",
     "single_button_CRBEBN",
     "single_button_6yzNy9",
     "text_and_image_c87NAi",
