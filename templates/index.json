@@ -432,45 +432,6 @@
         "disable_animation": true
       }
     },
-    "slideshow_bFRBJV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_R4xKcJ": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2-11-25-Post-Sale-03.png",
-            "image_mobile": "shopify://shop_images/2-11-25-Post-Sale-03_f4a9ec51-a961-4a58-956b-e1bd88a2144c.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_R4xKcJ"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "minimal",
-        "autoplay": true,
-        "autoplay_speed": 7,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "featured_collection_JDUqAJ": {
       "type": "featured-collection",
       "disabled": true,
@@ -537,7 +498,6 @@
     "featured-collection",
     "promo_grid_cMUWra",
     "slideshow",
-    "slideshow_bFRBJV",
     "featured_collection_JDUqAJ",
     "slideshow_LAdPKf"
   ]
