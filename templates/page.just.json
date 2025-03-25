@@ -23,7 +23,7 @@
         "image_NjgGKA": {
           "type": "image",
           "settings": {
-            "top_subheading": "Available April 1st",
+            "top_subheading": "",
             "title": "just: A Journey Into the Mercy of God",
             "title_size": 40,
             "subheading": "Have you ever wondered what God says about injustice in our world?",
@@ -53,6 +53,31 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "rich_text_CXtkw9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_waUTU6": {
+          "type": "heading",
+          "settings": {
+            "title": "Available April 1st"
+          }
+        }
+      },
+      "block_order": [
+        "heading_waUTU6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#6d423a",
+        "color_text": "#eae4dc",
+        "space_above": 35,
+        "space_below": 15
       }
     },
     "rich_text_tBwpF8": {
@@ -431,6 +456,7 @@
   "order": [
     "main",
     "slideshow_kM3PF6",
+    "rich_text_CXtkw9",
     "rich_text_tBwpF8",
     "single_button_CRBEBN",
     "single_button_6yzNy9",
