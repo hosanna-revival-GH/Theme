@@ -369,6 +369,7 @@
       "blocks": {
         "image_CQc4pX": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "BONUS CONTENT",
@@ -390,6 +391,7 @@
       "block_order": [
         "image_CQc4pX"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "450px",
         "mobile_height": "auto",
@@ -423,7 +425,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>open my eyes to see the world and the people in it like you do. Help me to recognize when injustice is present and not to turn away from it. Pierce my heart for the things that grieve yours and guide my hands and feet to the work that is mine to do. Help me to be a person who seeks the wholeness of others and who holds my own desires for justice with an open hand. Please show me what it means to follow you in living mercifully toward those around me. </p>",
+            "text": "<p>Open my eyes to see the world and the people in it like you do. Help me to recognize when injustice is present and not to turn away from it. Pierce my heart for the things that grieve yours and guide my hands and feet to the work that is mine to do. Help me to be a person who seeks the wholeness of others and who holds my own desires for justice with an open hand. Please show me what it means to follow you in living mercifully toward those around me.</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
