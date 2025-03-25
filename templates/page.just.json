@@ -63,10 +63,28 @@
           "settings": {
             "title": "Available April 1st"
           }
+        },
+        "text_AMiwDV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><a href=\"https://hosannarevival.com/products/just-by-brooke-jackson\" title=\"https://hosannarevival.com/products/just-by-brooke-jackson\"><em>Sign up</em></a><em> to be notified when it launches </em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 25
+          }
+        },
+        "button_zLNbiP": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Sign up to be notified"
+          }
         }
       },
       "block_order": [
-        "heading_waUTU6"
+        "heading_waUTU6",
+        "text_AMiwDV",
+        "button_zLNbiP"
       ],
       "settings": {
         "align_text": "center",
