@@ -75,6 +75,7 @@
         },
         "button_zLNbiP": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link": "https://hosannarevival.com/products/just-by-brooke-jackson",
             "link_text": "Sign up to be notified"
@@ -86,6 +87,7 @@
         "text_AMiwDV",
         "button_zLNbiP"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -96,6 +98,27 @@
         "color_text": "#eae4dc",
         "space_above": 35,
         "space_below": 35
+      }
+    },
+    "1743004079ff29764c": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_NwEqDy": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "VY5sgh"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_NwEqDy"
+      ],
+      "custom_css": [
+        ".klaviyo-form-VY5sgh {background-color: #f8f2eb;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
       }
     },
     "rich_text_tBwpF8": {
@@ -576,6 +599,7 @@
     "main",
     "slideshow_kM3PF6",
     "rich_text_CXtkw9",
+    "1743004079ff29764c",
     "rich_text_tBwpF8",
     "featured_product_8bYpPg",
     "rich_text_WnrikR",
