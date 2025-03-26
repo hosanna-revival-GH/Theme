@@ -56,6 +56,17 @@
         "disable_animation": false
       }
     },
+    "single_button_GryJY9": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Just: A Journey into the Mercy of God",
+        "button_link": "shopify://pages/just",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20
+      }
+    },
     "single_button_gX7jmw": {
       "type": "single-button",
       "custom_css": [],
@@ -182,6 +193,7 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_GryJY9",
     "single_button_gX7jmw",
     "single_button_JD887j",
     "single_button_z78Gx6",
