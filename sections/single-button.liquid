@@ -1,4 +1,4 @@
-<div class="index-section-no-margin">
+<div class="index-section-no-margin" id="{{ section.id }}">
   <div class="page-width text-{{ section.settings.alignment }}">
     <div style="margin: {{ section.settings.space_above }}px auto {{ section.settings.space_below }}px;">
       <a href="{{ section.settings.button_link }}" class="btn btn--{{ section.settings.button_size }} custom-button">
@@ -7,7 +7,12 @@
     </div>
   </div>
 </div>
-
+<style>
+  {{ section.id }} {
+    background-color: {{ section.settings.link_color_background }};
+    color: {{ section.settings.link_color_text }};
+  }
+</style>
 {% schema %}
 {
   "name": "Custom Button",
@@ -79,7 +84,19 @@
       "id": "space_below",
       "label": "Space Below (px)",
       "default": 20
-    }
+    },
+    {
+        "type": "color",
+        "id": "link_color_background",
+        "label": "Button background color",
+        "default": "#9ba586"
+      },
+        {
+        "type": "color",
+        "id": "link_color_text",
+        "label": "Button text color",
+        "default": "#ffffff"
+      },
   ],
   "presets": [
     {
