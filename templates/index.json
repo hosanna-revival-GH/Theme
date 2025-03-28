@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Soft-Launch-001_6da401d5-db82-459c-8c9f-085177316e82.png",
-            "image_mobile": "shopify://shop_images/Just-Soft-Launch-01_74a8f474-4505-4a1a-ac00-5ce5785ba33b.png",
+            "image": "shopify://shop_images/Just-Launch-01.png",
+            "image_mobile": "shopify://shop_images/Just-Launch-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -45,6 +45,44 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "shopify://collections/theyre-back",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#000000",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Just-Launch-03.png",
+            "image_mobile": "shopify://shop_images/Just-Launch-04.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": false,
+        "disable_animation": true
       }
     },
     "hero_video_dPXTJN": {
@@ -118,8 +156,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Soft-Launch-003_aec7196d-a309-47dc-bbce-c59cc398f9ba.png",
-            "image_mobile": "shopify://shop_images/Just-Soft-Launch-03_217ff1f4-ac46-484b-8940-990201dc0989.png",
+            "image": "shopify://shop_images/Just-Launch-05.png",
+            "image_mobile": "shopify://shop_images/Just-Launch-06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -156,8 +194,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Soft-Launch-004_79c66985-b569-41d2-a87f-c1067a4b6eee.png",
-            "image_mobile": "shopify://shop_images/Just-Soft-Launch-004_3a37226a-3cbe-4534-942e-d77a3335fd02.png",
+            "image": "shopify://shop_images/Just-Launch-07.png",
+            "image_mobile": "shopify://shop_images/Just-Launch-08.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -194,8 +232,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Soft-Launch-03.png",
-            "image_mobile": "shopify://shop_images/Just-Soft-Launch-05.png",
+            "image": "shopify://shop_images/Just-Launch-09.png",
+            "image_mobile": "shopify://shop_images/Just-Launch-010.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -393,45 +431,6 @@
         "lazyload_images": true
       }
     },
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slideshow-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "shopify://collections/theyre-back",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#000000",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2-11-25-Post-Sale-01_b237edf2-c0d3-4549-8e94-036c33b1c274.png",
-            "image_mobile": "shopify://shop_images/2-11-25-Post-Sale-01_be5a25fa-5f26-4788-b01b-29527fd10963.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "slideshow-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": false,
-        "disable_animation": true
-      }
-    },
     "featured_collection_JDUqAJ": {
       "type": "featured-collection",
       "disabled": true,
@@ -486,6 +485,7 @@
   },
   "order": [
     "slideshow_gW9EVE",
+    "slideshow",
     "hero_video_dPXTJN",
     "slideshow_N8kAqH",
     "slideshow_K9J48x",
@@ -497,7 +497,6 @@
     "slideshow_gyMt8x",
     "featured-collection",
     "promo_grid_cMUWra",
-    "slideshow",
     "featured_collection_JDUqAJ",
     "slideshow_LAdPKf"
   ]
