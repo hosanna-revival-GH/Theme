@@ -113,6 +113,7 @@
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_NwEqDy"
       ],
+      "disabled": true,
       "custom_css": [
         ".klaviyo-form-VY5sgh {background-color: #f8f2eb;}"
       ],
@@ -261,7 +262,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_6yzNy9": {
@@ -273,7 +276,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "text_and_image_c87NAi": {
@@ -342,12 +347,14 @@
     "single_button_3BJJYV": {
       "type": "single-button",
       "settings": {
-        "button_text": "Sign up to be notified",
+        "button_text": "Purchase your copy",
         "button_link": "https://hosannarevival.com/products/just-by-brooke-jackson",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_UC7cyw": {
@@ -525,13 +532,16 @@
     },
     "single_button_3gmwY3": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
-        "button_text": "Sign up to be notified",
+        "button_text": "Choose Just",
         "button_link": "https://hosannarevival.com/products/just-by-brooke-jackson",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_NEtP87": {
@@ -579,7 +589,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 60,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "featured_collection_wb8PnE": {
