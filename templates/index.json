@@ -19,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/pages/just",
+            "link": "shopify://pages/broken-for-you",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Launch-01.png",
-            "image_mobile": "shopify://shop_images/Just-Launch-02.png",
+            "image": "shopify://shop_images/Post-Just-Launch-01.png",
+            "image_mobile": "shopify://shop_images/Post-Just-Launch-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -47,44 +47,6 @@
         "disable_animation": false
       }
     },
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slideshow-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "shopify://pages/just",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#000000",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Launch-03_d18d1502-886a-4004-93ff-b8f92f375e34.png",
-            "image_mobile": "shopify://shop_images/Just-Launch-04_fb7185ed-5dbc-4b27-9452-a0766c3ee4a0.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "slideshow-0"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": false,
-        "disable_animation": true
-      }
-    },
     "hero_video_dPXTJN": {
       "type": "hero-video",
       "disabled": true,
@@ -102,138 +64,24 @@
         "mobile_height": "auto"
       }
     },
-    "slideshow_N8kAqH": {
+    "slideshow_gyMt8x": {
       "type": "slideshow",
       "blocks": {
-        "image_mLKaew": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/pages/just",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Soft-Launch-002_bd06b9aa-cb10-485b-afb2-16bd4aa90e95.png",
-            "image_mobile": "shopify://shop_images/Just-Soft-Launch-02_0e60014b-67d9-4ff9-afd8-481c014e568e.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_mLKaew"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_K9J48x": {
-      "type": "slideshow",
-      "blocks": {
-        "image_kNUBGG": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/pages/just",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Launch-05.png",
-            "image_mobile": "shopify://shop_images/Just-Launch-06.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_kNUBGG"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_Yytkjz": {
-      "type": "slideshow",
-      "blocks": {
-        "image_BR8jJc": {
+        "image_X9NdWT": {
           "type": "image",
           "settings": {
             "top_subheading": "",
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "shopify://collections/bible-tabs",
-            "link_text": "",
-            "link_2": "https://hosannarevival.com/pages/just",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Launch-07.png",
-            "image_mobile": "shopify://shop_images/Just-Launch-08.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_BR8jJc"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_ydy6gN": {
-      "type": "slideshow",
-      "blocks": {
-        "image_ifbURP": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "https://hosannarevival.com/products/just-by-brooke-jackson",
+            "link": "shopify://collections/spring-2025-collection",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Launch-09.png",
-            "image_mobile": "shopify://shop_images/Just-Launch-010.png",
+            "image": "shopify://shop_images/Just-Soft-Launch-04.png",
+            "image_mobile": "shopify://shop_images/Just-Soft-Launch-06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -241,7 +89,7 @@
         }
       },
       "block_order": [
-        "image_ifbURP"
+        "image_X9NdWT"
       ],
       "settings": {
         "section_height": "natural",
@@ -296,6 +144,18 @@
         "lazyload_images": true
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "explore the collection",
+        "home_featured_products": "spring-2025-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "17413753419f9a3db7": {
       "type": "apps",
       "blocks": {
@@ -322,16 +182,16 @@
         "image_X7Xah7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-012_1012202b-e3a3-4d04-ab2d-962991166fe5.png",
-            "link": "shopify://pages/spread-the-word",
+            "image": "shopify://shop_images/Post-Just-Launch-03.png",
+            "link": "shopify://pages/just",
             "width": "50"
           }
         },
         "image_M6fGRU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-013_4438b901-7c45-474c-a19c-044801bf17cc.png",
-            "link": "shopify://pages/broken-for-you",
+            "image": "shopify://shop_images/Post-Just-Launch-04.png",
+            "link": "shopify://pages/just",
             "width": "50"
           }
         }
@@ -346,56 +206,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": false
-      }
-    },
-    "slideshow_gyMt8x": {
-      "type": "slideshow",
-      "blocks": {
-        "image_X9NdWT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "shopify://collections/spring-2025-collection",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Soft-Launch-04.png",
-            "image_mobile": "shopify://shop_images/Just-Soft-Launch-06.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_X9NdWT"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "explore the collection",
-        "home_featured_products": "spring-2025-collection",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "promo_grid_cMUWra": {
@@ -429,6 +239,44 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
+      }
+    },
+    "slideshow_ydy6gN": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ifbURP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify://pages/spread-the-word",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Post-Just-Launch-06.png",
+            "image_mobile": "shopify://shop_images/Post-Just-Launch-05.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_ifbURP"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "featured_collection_JDUqAJ": {
@@ -485,18 +333,14 @@
   },
   "order": [
     "slideshow_gW9EVE",
-    "slideshow",
     "hero_video_dPXTJN",
-    "slideshow_N8kAqH",
-    "slideshow_K9J48x",
-    "slideshow_Yytkjz",
-    "slideshow_ydy6gN",
+    "slideshow_gyMt8x",
     "promo_grid_dwNUkk",
+    "featured-collection",
     "17413753419f9a3db7",
     "promo_grid_LzjgqV",
-    "slideshow_gyMt8x",
-    "featured-collection",
     "promo_grid_cMUWra",
+    "slideshow_ydy6gN",
     "featured_collection_JDUqAJ",
     "slideshow_LAdPKf"
   ]

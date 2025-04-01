@@ -47,16 +47,16 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Just is here",
-            "link_text": "Get 2 copies for $30!",
-            "link": "https://hosannarevival.com/pages/just"
+            "text": "What comes to mind when you hear the word \"justice\"?",
+            "link_text": " Begin our new devotional, “Just”, that gently explores God’s heart for justice",
+            "link": "shopify://pages/just"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
             "text": "Spring Collection is Here! ",
-            "link_text": "Experience threads of God's beauty through our first collection featuring embroidery",
+            "link_text": " Prepare for Easter with a beautiful tool to help you engage in Scripture",
             "link": "shopify://collections/spring-2025-collection"
           }
         },
