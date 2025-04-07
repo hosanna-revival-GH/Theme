@@ -111,11 +111,6 @@
         "disabled": false,
         "settings": {}
       },
-      "14019014016809704581": {
-        "type": "shopify://apps/sendbird-ai-chatbot/blocks/sendbird_ai_chatbot/b03eb8ba-9162-4761-90d8-4ea6e597ce98",
-        "disabled": false,
-        "settings": {}
-      },
       "10605408327587305396": {
         "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
         "disabled": false,
@@ -148,6 +143,11 @@
       "11560147490181472608": {
         "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/app-embed/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
         "disabled": false,
+        "settings": {}
+      },
+      "14019014016809704581": {
+        "type": "shopify://apps/sendbird-ai-chatbot/blocks/sendbird_ai_chatbot/b03eb8ba-9162-4761-90d8-4ea6e597ce98",
+        "disabled": true,
         "settings": {}
       }
     }
