@@ -59,12 +59,27 @@
     "single_button_GryJY9": {
       "type": "single-button",
       "settings": {
-        "button_text": "Just: A Journey into the Mercy of God",
+        "button_text": "Our new devotional “Just”",
         "button_link": "shopify://pages/just",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "single_button_zkaCd3": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Free Download \"Just\" Chapter 1",
+        "button_link": "https://hosannarevival.com/just-preview",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_gX7jmw": {
@@ -76,7 +91,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_JD887j": {
@@ -87,7 +104,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_z78Gx6": {
@@ -98,7 +117,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_KDXcyH": {
@@ -109,7 +130,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_eFchhW": {
@@ -120,7 +143,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_RAWt9g": {
@@ -131,7 +156,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_WA3rcU": {
@@ -142,7 +169,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_N8Brir": {
@@ -153,7 +182,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_Hb3fCE": {
@@ -164,7 +195,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_W8edVB": {
@@ -175,7 +208,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_hTfmBz": {
@@ -186,7 +221,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     }
   },
@@ -194,6 +231,7 @@
     "main",
     "slideshow_xWCjYr",
     "single_button_GryJY9",
+    "single_button_zkaCd3",
     "single_button_gX7jmw",
     "single_button_JD887j",
     "single_button_z78Gx6",
