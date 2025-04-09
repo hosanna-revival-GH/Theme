@@ -56,6 +56,19 @@
         "disable_animation": false
       }
     },
+    "single_button_z78Gx6": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Broken for you: Free holy week series",
+        "button_link": "shopify://pages/broken-for-you",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_GryJY9": {
       "type": "single-button",
       "settings": {
@@ -71,6 +84,7 @@
     },
     "single_button_zkaCd3": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Free Download \"Just\" Chapter 1",
         "button_link": "https://hosannarevival.com/just-preview",
@@ -109,19 +123,6 @@
         "link_color_text": "#ffffff"
       }
     },
-    "single_button_z78Gx6": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "our free holy week series",
-        "button_link": "shopify://pages/broken-for-you",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#9ba586",
-        "link_color_text": "#ffffff"
-      }
-    },
     "single_button_KDXcyH": {
       "type": "single-button",
       "settings": {
@@ -137,6 +138,7 @@
     },
     "single_button_eFchhW": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "2025 PLANNERS",
         "button_link": "shopify://collections/planners",
@@ -230,11 +232,11 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_z78Gx6",
     "single_button_GryJY9",
     "single_button_zkaCd3",
     "single_button_gX7jmw",
     "single_button_JD887j",
-    "single_button_z78Gx6",
     "single_button_KDXcyH",
     "single_button_eFchhW",
     "single_button_RAWt9g",
