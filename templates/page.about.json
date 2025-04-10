@@ -503,6 +503,16 @@
             "text": "<p>As a B2B Account Executive, Maddie spends her days building meaningful relationships and ensuring our partners have everything they need to succeed. She has a heart for helping others thrive and finds joy in seeing the impact of her work. A Cincinnati native, Maddie grew up in a Christian home and has known the Lord for most of her life, but it was during her senior year of high school that she truly began a personal relationship with Jesus. When she’s not working, you can find Maddie exploring new coffee shops, soaking up quality time with friends, enjoying a sweet treat, or spending a relaxing day by the pool.</p>"
           }
         },
+        "team_member_QwWMkc": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/DSC02940.jpg",
+            "image_width": 300,
+            "title": "Blaise Cittadino",
+            "text": "<p>As our Fulfillment Manager, Blaise handles everything that helps an order make its way from our warehouse to your doorstep! She’s an easy leader to follow—driven, kind, and genuinely fun to be around. A proud Cincinnati native, Blaise knows her hometown of Sharonville inside and out (we wouldn’t be surprised if she became mayor someday!). She came to know the Lord in high school and has been ministering to others ever since, touching many lives along the way. When she’s off the clock, Blaise is usually hanging with her favorite crew—her husband Nick, their goofy dog Goose, and their cat Maverick.</p>"
+          }
+        },
         "team_member_Frankie": {
           "type": "team_member",
           "settings": {
@@ -540,6 +550,7 @@
         "team_member_Audra",
         "team_member_Analissa",
         "team_member_YYz9fq",
+        "team_member_QwWMkc",
         "team_member_Frankie",
         "team_member_Pippa"
       ],
