@@ -254,6 +254,27 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_JeiczU": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2": "shopify://shop_images/Broken-for-You-Holy-Week-Series-Hosanna-Revival.png",
+        "image2_mask": "none",
+        "subtitle": "Download for Free",
+        "title": "Broken for You PDF",
+        "text": "<p>Prefer to work at your own pace or print out this study to go through with a group? Download the whole PDF below!</p>",
+        "button_label": "Download for Free",
+        "button_link": "https://hosannarevival.com/broken-for-you-pdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "text_and_image_EBFKWm": {
       "type": "text-and-image",
       "settings": {
@@ -268,7 +289,7 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
-        "layout": "left",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -283,7 +304,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 40
+        "space_below": 40,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     }
   },
@@ -297,6 +320,7 @@
     "rich_text_c4Jkjm",
     "text_and_image_e8aLL4",
     "text_and_image_73PWdj",
+    "text_and_image_JeiczU",
     "text_and_image_EBFKWm",
     "single_button_wAyPa7"
   ]
