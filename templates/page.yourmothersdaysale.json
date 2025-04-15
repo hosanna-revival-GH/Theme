@@ -68,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This Mother's Day, give the gift of beauty to a mom in your life to revive their excitement about engaging in God’s Word. Shop our entire site for an extra 20% off! All orders over $75+ will receive a FREE spring tote bag! <br/><em>*While supplies last*</em></p>",
+            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This Mother's Day, give the gift of beauty to a mom in your life to revive their excitement about engaging in God’s Word. Shop our entire site for an extra 20-30% off! All orders over $75+ will receive a FREE spring tote bag! <br/><em>*While supplies last*</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -152,7 +152,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "text_columns_UBeGzy": {
@@ -162,7 +164,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/aurora-MD-1.png",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-191.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "A Hosanna Revival Bible",
@@ -175,7 +177,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/unfold-MD-2.png",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-213.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "A Hosanna Revival Devotional",
@@ -188,7 +190,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Eddie-MD-3_901eb770-1e62-46c5-bdfd-098d211fa82f.png",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-196.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "A Hosanna Revival 5-Year Prayer Journal",
