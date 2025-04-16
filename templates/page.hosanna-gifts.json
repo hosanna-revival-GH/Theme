@@ -26,16 +26,17 @@
             "top_subheading": "",
             "title": "GIFT INTENTIONALLY",
             "title_size": 72,
-            "subheading": "Give the gift of beauty this holiday season",
+            "subheading": "Give the gift of beauty",
             "link": "shopify://collections/hosanna-revival-shop",
             "link_text": "shop all",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Flatlay-2024-Hosanna-Revival-120.jpg",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-230.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_MgYrmf": {
@@ -87,92 +89,119 @@
         "space_below": 75
       }
     },
-"text_columns_FdDd96": {
-  "type": "text-columns",
-  "blocks": {
-    "text_block_VAwKkd": {
-      "type": "text_block",
-      "settings": {
-        "enable_image": true,
-        "image_mask": "none",
-        "image_width": 650,
-        "title": "GIFTS FOR HER",
-        "text": "",
-        "button_label": "SHOP",
-        "button_link": "shopify://collections/for-women",
-        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0180.jpg"
-      }
-    },
-    "text_block_7dXp8U": {
-      "type": "text_block",
-      "settings": {
-        "enable_image": true,
-        "image_mask": "none",
-        "image_width": 650,
-        "title": "GIFTS FOR HIM",
-        "text": "",
-        "button_label": "SHOP",
-        "button_link": "shopify://collections/gifts-for-men",
-        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0266_c97bd5b0-ffa6-4032-8212-a116a2e18b3e.jpg"
-      }
-    },
-    "text_block_NnatEH": {
-      "type": "text_block",
-      "settings": {
-        "enable_image": true,
-        "image_mask": "none",
-        "image_width": 650,
-        "title": "STOCKING STUFFERS",
-        "text": "",
-        "button_label": "SHOP",
-        "button_link": "shopify://collections/stocking-stuffers",
-        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Stocking-Stuffers-2024-Hosanna-Revival-1107.jpg"
-      }
-    },
-    "text_block_nMz38N": {
-      "type": "text_block",
-      "settings": {
-        "enable_image": true,
-        "image_mask": "none",
-        "image_width": 650,
-        "title": "GIFTS UNDER $25",
-        "text": "",
-        "button_label": "shop",
-        "button_link": "shopify://collections/by-price",
-        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0444.jpg"
-      }
-    },
-    "text_block_zNp8kU": {
-      "type": "text_block",
-      "settings": {
-        "enable_image": true,
-        "image_mask": "none",
-        "image_width": 650,
-        "title": "GIFTS UNDER $50",
-        "text": "",
-        "button_label": "shop",
-        "button_link": "shopify://collections/under-60",
-        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0417.jpg"
-      }
-    },
-    "text_block_zKpXRq": {
-      "type": "text_block",
-      "settings": {
-        "enable_image": true,
-        "image_mask": "none",
-        "image_width": 650,
-        "title": "GIFTS UNDER $75",
-        "text": "",
-        "button_label": "shop",
-        "button_link": "shopify://collections/under-100",
-        "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0370.jpg"
-      }
-    }
-  },
+    "text_columns_FdDd96": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_VAwKkd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1004.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Graduation Gifts",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/for-women"
+          }
+        },
+        "text_block_7dXp8U": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-110.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Mother's Day Gifts",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/gifts-for-men"
+          }
+        },
+        "text_block_NnatEH": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-414.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Wedding Gifts",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/stocking-stuffers"
+          }
+        },
+        "text_block_Xpg9t7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-015.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Birthday Gifts",
+            "text": "",
+            "button_label": "shop",
+            "button_link": ""
+          }
+        },
+        "text_block_LiyywU": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_nMz38N": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0444.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "GIFTS UNDER $25",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify://collections/by-price"
+          }
+        },
+        "text_block_zNp8kU": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0417.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "GIFTS UNDER $50",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify://collections/under-60"
+          }
+        },
+        "text_block_zKpXRq": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0370.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "GIFTS UNDER $75",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify://collections/under-100"
+          }
+        }
+      },
       "block_order": [
         "text_block_VAwKkd",
         "text_block_7dXp8U",
         "text_block_NnatEH",
+        "text_block_Xpg9t7",
+        "text_block_LiyywU",
         "text_block_nMz38N",
         "text_block_zNp8kU",
         "text_block_zKpXRq"
