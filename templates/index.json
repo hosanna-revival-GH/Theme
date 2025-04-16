@@ -9,6 +9,45 @@
  */
 {
   "sections": {
+    "slideshow_AeLHDb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XjU3R9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/broken-for-you",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Post-Just-Launch-08.png",
+            "image_mobile": "shopify://shop_images/Post-Just-Launch-07.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_XjU3R9"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -332,6 +371,7 @@
     }
   },
   "order": [
+    "slideshow_AeLHDb",
     "slideshow_gW9EVE",
     "hero_video_dPXTJN",
     "slideshow_gyMt8x",
