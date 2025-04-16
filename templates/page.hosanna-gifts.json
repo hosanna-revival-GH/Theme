@@ -92,19 +92,6 @@
     "text_columns_FdDd96": {
       "type": "text-columns",
       "blocks": {
-        "text_block_VAwKkd": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1004.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Graduation Gifts",
-            "text": "",
-            "button_label": "SHOP",
-            "button_link": "shopify://collections/for-women"
-          }
-        },
         "text_block_7dXp8U": {
           "type": "text_block",
           "settings": {
@@ -131,8 +118,22 @@
             "button_link": "shopify://collections/stocking-stuffers"
           }
         },
+        "text_block_VAwKkd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1004.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Graduation Gifts",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/for-women"
+          }
+        },
         "text_block_Xpg9t7": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-015.jpg",
@@ -146,6 +147,7 @@
         },
         "text_block_LiyywU": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image_mask": "none",
@@ -160,7 +162,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0444.jpg",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-210.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "GIFTS UNDER $25",
@@ -173,7 +175,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0417.jpg",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-182.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "GIFTS UNDER $50",
@@ -186,7 +188,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0370.jpg",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-173.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "GIFTS UNDER $75",
@@ -197,9 +199,9 @@
         }
       },
       "block_order": [
-        "text_block_VAwKkd",
         "text_block_7dXp8U",
         "text_block_NnatEH",
+        "text_block_VAwKkd",
         "text_block_Xpg9t7",
         "text_block_LiyywU",
         "text_block_nMz38N",
