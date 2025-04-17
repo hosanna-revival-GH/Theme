@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post-Just-Launch-08_098d5ace-27aa-4146-8bb8-29694edb5893.png",
-            "image_mobile": "shopify://shop_images/Post-Just-Launch-07_5592a5a9-bc85-4719-9db4-9ca2b37f1527.png",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-01_c0bd2187-dc85-42a1-9237-3050d3af8f39.png",
+            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-016.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -36,7 +36,6 @@
       "block_order": [
         "image_XjU3R9"
       ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -46,6 +45,129 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "promo_grid_cMUWra": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_GzxX7N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-02.png",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "width": "33"
+          }
+        },
+        "image_yqDrtn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-03.png",
+            "link": "shopify://collections/spring-2025-collection",
+            "width": "33"
+          }
+        },
+        "image_QyaDrD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-04.png",
+            "link": "",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_GzxX7N",
+        "image_yqDrtn",
+        "image_QyaDrD"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_dwNUkk": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_gRP37t": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-05.png",
+            "link": "shopify://products/nlt-compact-bible-casablanca-theme",
+            "width": "50"
+          }
+        },
+        "image_m8pxaP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-06.png",
+            "link": "shopify://products/nlt-notetaking-bible-lisbon-theme",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_gRP37t",
+        "image_m8pxaP"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_LzjgqV": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_X7Xah7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-07.png",
+            "link": "shopify://pages/just",
+            "width": "25"
+          }
+        },
+        "image_M6fGRU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-08.png",
+            "link": "shopify://pages/just",
+            "width": "25"
+          }
+        },
+        "image_HMfcaG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-09.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_qGcqFP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-010.png",
+            "link": "",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "image_X7Xah7",
+        "image_M6fGRU",
+        "image_HMfcaG",
+        "image_qGcqFP"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": false
       }
     },
     "slideshow_gW9EVE": {
@@ -88,16 +210,15 @@
     },
     "hero_video_dPXTJN": {
       "type": "hero-video",
-      "disabled": true,
       "settings": {
-        "title": "Spring Collection 2025",
-        "title_size": 59,
-        "subheading": "Experience threads of God’s beauty",
-        "link_text": "Explore the Collection",
-        "link": "shopify://pages/spring-collection-2025",
+        "title": "A gift for the mother in your life",
+        "title_size": 40,
+        "subheading": "invite beauty into her home",
+        "link_text": "",
+        "link": "shopify://collections/one-thing-i-ask",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/6e07fde2e72046a5926304ea09f4ed2a.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/954036a698f84fe88bdac1cb9e5c020f.mp4",
         "overlay_opacity": 0,
         "section_height": "750px",
         "mobile_height": "auto"
@@ -130,6 +251,7 @@
       "block_order": [
         "image_X9NdWT"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -141,50 +263,9 @@
         "disable_animation": false
       }
     },
-    "promo_grid_dwNUkk": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_gRP37t": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-05.png",
-            "link": "shopify://products/nlt-compact-bible-casablanca-theme",
-            "width": "33"
-          }
-        },
-        "image_m8pxaP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-06.png",
-            "link": "shopify://products/nlt-notetaking-bible-lisbon-theme",
-            "width": "33"
-          }
-        },
-        "image_z9fy8G": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-07.png",
-            "link": "shopify://products/csb-notetaking-bible-rosedal-theme",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_gRP37t",
-        "image_m8pxaP",
-        "image_z9fy8G"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "explore the collection",
         "home_featured_products": "spring-2025-collection",
@@ -215,69 +296,16 @@
         "space_around": false
       }
     },
-    "promo_grid_LzjgqV": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_X7Xah7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post-Just-Launch-03.png",
-            "link": "shopify://pages/just",
-            "width": "50"
-          }
-        },
-        "image_M6fGRU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post-Just-Launch-04.png",
-            "link": "shopify://pages/just",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_X7Xah7",
-        "image_M6fGRU"
-      ],
+    "featured_collection_JDUqAJ": {
+      "type": "featured-collection",
       "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": false
-      }
-    },
-    "promo_grid_cMUWra": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_GzxX7N": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-010.png",
-            "link": "shopify://collections/nlt-compact-bibles",
-            "width": "50"
-          }
-        },
-        "image_yqDrtn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring-Collection-launch-011.png",
-            "link": "shopify://collections/spring-2025-collection",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_GzxX7N",
-        "image_yqDrtn"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
+        "title": "shop best sellers",
+        "home_featured_products": "best-sellers",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "slideshow_ydy6gN": {
@@ -318,19 +346,6 @@
         "disable_animation": false
       }
     },
-    "featured_collection_JDUqAJ": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Beautiful Bibles",
-        "home_featured_products": "beautiful-bibles",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -347,8 +362,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring-Collection-launch-014.png",
-            "image_mobile": "shopify://shop_images/Spring-Collection-launch-015.png",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-015.png",
+            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-017.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -372,16 +387,16 @@
   },
   "order": [
     "slideshow_AeLHDb",
-    "slideshow_gW9EVE",
-    "hero_video_dPXTJN",
-    "slideshow_gyMt8x",
+    "promo_grid_cMUWra",
     "promo_grid_dwNUkk",
+    "promo_grid_LzjgqV",
+    "hero_video_dPXTJN",
+    "slideshow_gW9EVE",
+    "slideshow_gyMt8x",
     "featured-collection",
     "17413753419f9a3db7",
-    "promo_grid_LzjgqV",
-    "promo_grid_cMUWra",
-    "slideshow_ydy6gN",
     "featured_collection_JDUqAJ",
+    "slideshow_ydy6gN",
     "slideshow_LAdPKf"
   ]
 }
