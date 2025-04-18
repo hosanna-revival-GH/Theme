@@ -19,7 +19,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/broken-for-you",
+            "link": "shopify://collections/hosanna-revival-shop",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -54,7 +54,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-02.png",
-            "link": "shopify://collections/nlt-compact-bibles",
+            "link": "shopify://collections/hosanna-revival-shop",
             "width": "33"
           }
         },
@@ -62,7 +62,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-03.png",
-            "link": "shopify://collections/spring-2025-collection",
+            "link": "",
             "width": "33"
           }
         },
@@ -70,7 +70,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-04.png",
-            "link": "",
+            "link": "shopify://collections/best-sellers",
             "width": "33"
           }
         }
@@ -95,7 +95,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-05.png",
-            "link": "shopify://products/nlt-compact-bible-casablanca-theme",
+            "link": "shopify://collections/best-sellers",
             "width": "50"
           }
         },
@@ -103,7 +103,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-06.png",
-            "link": "shopify://products/nlt-notetaking-bible-lisbon-theme",
+            "link": "shopify://collections/mothers-day-shop",
             "width": "50"
           }
         }
@@ -127,7 +127,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-07_0fe65429-cbed-4c4b-8f3d-5918f64bd258.png",
-            "link": "shopify://pages/just",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "25"
           }
         },
@@ -135,7 +135,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-08_891b4dbd-c82d-4eac-9ae3-6397c9d94722.png",
-            "link": "shopify://pages/just",
+            "link": "shopify://collections/one-thing-i-ask",
             "width": "25"
           }
         },
@@ -143,7 +143,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-09_1fa6955f-ced0-4ee3-8ce5-0e5d5b6bdbae.png",
-            "link": "",
+            "link": "shopify://collections/devotionals",
             "width": "25"
           }
         },
@@ -151,7 +151,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-010_bd8b044e-1676-4ebc-8330-7e974145552d.png",
-            "link": "",
+            "link": "shopify://collections/notebooks",
             "width": "25"
           }
         }
@@ -173,10 +173,10 @@
     "hero_video_dPXTJN": {
       "type": "hero-video",
       "settings": {
-        "title": "A gift for the mother in your life",
+        "title": "A gift for the\nmother in your life",
         "title_size": 40,
-        "subheading": "invite beauty into her home",
-        "link_text": "",
+        "subheading": "",
+        "link_text": "invite beauty into her home",
         "link": "shopify://collections/one-thing-i-ask",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
@@ -196,7 +196,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/broken-for-you",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
