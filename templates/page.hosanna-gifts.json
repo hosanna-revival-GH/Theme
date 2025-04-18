@@ -102,7 +102,7 @@
             "title": "Mother's Day Gifts",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "shopify://collections/gifts-for-men"
+            "button_link": "shopify://collections/mothers-day-shop"
           }
         },
         "text_block_NnatEH": {
@@ -115,7 +115,7 @@
             "title": "Wedding Gifts",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "shopify://collections/stocking-stuffers"
+            "button_link": ""
           }
         },
         "text_block_VAwKkd": {
@@ -128,7 +128,7 @@
             "title": "Graduation Gifts",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "shopify://collections/for-women"
+            "button_link": "shopify://pages/your-graduation-gifts"
           }
         },
         "text_block_Xpg9t7": {
@@ -266,7 +266,7 @@
             "title": "Gifts under $25",
             "text": "",
             "button_label": "Shop",
-            "button_link": ""
+            "button_link": "shopify://collections/by-price"
           }
         },
         "text_block_eJdbkA": {
@@ -279,7 +279,7 @@
             "title": "Gifts under $50",
             "text": "",
             "button_label": "shop",
-            "button_link": ""
+            "button_link": "shopify://collections/under-60"
           }
         },
         "text_block_UpgeAt": {
