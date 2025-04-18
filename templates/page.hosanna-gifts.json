@@ -67,7 +67,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>gift intentionally</em></p>",
+            "text": "<p><em>gift intentionally for any occasion</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -160,6 +160,7 @@
         },
         "text_block_nMz38N": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-210.jpg",
@@ -173,6 +174,7 @@
         },
         "text_block_zNp8kU": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-182.jpg",
@@ -186,6 +188,7 @@
         },
         "text_block_zKpXRq": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-173.jpg",
@@ -214,6 +217,42 @@
         "divider": false
       }
     },
+    "rich_text_3zRiRP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_r9A7j9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Choose a beautiful tool"
+          }
+        },
+        "text_9jbnQY": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>choose a beautiful tool</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_r9A7j9",
+        "text_9jbnQY"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 40,
+        "space_below": 45
+      }
+    },
     "text_columns_DwipUV": {
       "type": "text-columns",
       "blocks": {
@@ -221,11 +260,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-210.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "title": "Gifts under $25",
+            "text": "",
+            "button_label": "Shop",
             "button_link": ""
           }
         },
@@ -233,11 +273,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-182.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "title": "Gifts under $50",
+            "text": "",
+            "button_label": "shop",
             "button_link": ""
           }
         },
@@ -245,11 +286,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-173_1.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
+            "title": "Gifts under $75",
+            "text": "",
+            "button_label": "shop",
             "button_link": ""
           }
         }
@@ -259,7 +301,6 @@
         "text_block_eJdbkA",
         "text_block_UpgeAt"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -272,6 +313,7 @@
     "slideshow_cFeUAy",
     "rich_text_MgYrmf",
     "text_columns_FdDd96",
+    "rich_text_3zRiRP",
     "text_columns_DwipUV"
   ]
 }
