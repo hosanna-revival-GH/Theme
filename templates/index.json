@@ -126,7 +126,7 @@
         "image_X7Xah7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mothers-day-sale-begins-07.png",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-07_0fe65429-cbed-4c4b-8f3d-5918f64bd258.png",
             "link": "shopify://pages/just",
             "width": "25"
           }
@@ -134,7 +134,7 @@
         "image_M6fGRU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mothers-day-sale-begins-08.png",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-08_891b4dbd-c82d-4eac-9ae3-6397c9d94722.png",
             "link": "shopify://pages/just",
             "width": "25"
           }
@@ -142,7 +142,7 @@
         "image_HMfcaG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mothers-day-sale-begins-09.png",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-09_1fa6955f-ced0-4ee3-8ce5-0e5d5b6bdbae.png",
             "link": "",
             "width": "25"
           }
@@ -150,7 +150,7 @@
         "image_qGcqFP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mothers-day-sale-begins-010.png",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-010_bd8b044e-1676-4ebc-8330-7e974145552d.png",
             "link": "",
             "width": "25"
           }
@@ -170,6 +170,22 @@
         "lazyload_images": false
       }
     },
+    "hero_video_dPXTJN": {
+      "type": "hero-video",
+      "settings": {
+        "title": "A gift for the mother in your life",
+        "title_size": 40,
+        "subheading": "invite beauty into her home",
+        "link_text": "",
+        "link": "shopify://collections/one-thing-i-ask",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/954036a698f84fe88bdac1cb9e5c020f.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "400px"
+      }
+    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -186,8 +202,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post-Just-Launch-01_5d67d600-c52a-41dd-bada-e0678e49643f.png",
-            "image_mobile": "shopify://shop_images/Post-Just-Launch-02.png",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-019.png",
+            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-018.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -206,22 +222,6 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
-      }
-    },
-    "hero_video_dPXTJN": {
-      "type": "hero-video",
-      "settings": {
-        "title": "A gift for the mother in your life",
-        "title_size": 40,
-        "subheading": "invite beauty into her home",
-        "link_text": "",
-        "link": "shopify://collections/one-thing-i-ask",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/954036a698f84fe88bdac1cb9e5c020f.mp4",
-        "overlay_opacity": 0,
-        "section_height": "750px",
-        "mobile_height": "auto"
       }
     },
     "slideshow_gyMt8x": {
