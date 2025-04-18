@@ -118,6 +118,19 @@
             "button_link": ""
           }
         },
+        "text_block_dMJ7qf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Jerusalem-Notebook-Lined-Journal-Black-Suede-Leather-Bible-Verse-Hosanna-Revival-Styled-03.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Gifts for him",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify://collections/gifts-for-men"
+          }
+        },
         "text_block_VAwKkd": {
           "type": "text_block",
           "settings": {
@@ -143,19 +156,6 @@
             "text": "",
             "button_label": "shop",
             "button_link": ""
-          }
-        },
-        "text_block_dMJ7qf": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Jerusalem-Notebook-Lined-Journal-Black-Suede-Leather-Bible-Verse-Hosanna-Revival-Styled-03.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Gifts for him",
-            "text": "",
-            "button_label": "shop",
-            "button_link": "shopify://collections/gifts-for-men"
           }
         },
         "text_block_LiyywU": {
@@ -217,9 +217,9 @@
       "block_order": [
         "text_block_7dXp8U",
         "text_block_NnatEH",
+        "text_block_dMJ7qf",
         "text_block_VAwKkd",
         "text_block_Xpg9t7",
-        "text_block_dMJ7qf",
         "text_block_LiyywU",
         "text_block_nMz38N",
         "text_block_zNp8kU",
