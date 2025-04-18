@@ -47,25 +47,25 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "What comes to mind when you hear the word \"justice\"?",
-            "link_text": " Begin our new devotional, “Just”, that gently explores God’s heart for justice",
-            "link": "shopify://pages/just"
+            "text": "You’re here at the best time! Shop 25% off Sitewide",
+            "link_text": " Flourish and unveil the beauty of Scripture with a new tool!",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Spring Collection is Here! ",
-            "link_text": " Prepare for Easter with a beautiful tool to help you engage in Scripture",
+            "text": " Free Tote on orders over $75",
+            "link_text": "Have you ever seen a tote so beautiful? The perfect spring accessory! ",
             "link": "shopify://collections/spring-2025-collection"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Sign up for our free Holy Week email series",
-            "link_text": "Our 8-Day study “Broken for You” begins April 13th",
-            "link": "shopify://pages/broken-for-you"
+            "text": "Happy Mother’s Day!",
+            "link_text": " Invest in a beautiful tool that stirs hearts toward Jesus!",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_mMUAeX": {
