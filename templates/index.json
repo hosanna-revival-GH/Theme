@@ -308,6 +308,47 @@
         "divider": false
       }
     },
+    "promo_grid_ByHJFD": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_jEnnV9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-012.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_B6TpPE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-013.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_xpdYTd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-014.png",
+            "link": "",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_jEnnV9",
+        "image_B6TpPE",
+        "image_xpdYTd"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "slideshow_ydy6gN": {
       "type": "slideshow",
       "blocks": {
@@ -396,6 +437,7 @@
     "featured-collection",
     "17413753419f9a3db7",
     "featured_collection_JDUqAJ",
+    "promo_grid_ByHJFD",
     "slideshow_ydy6gN",
     "slideshow_LAdPKf"
   ]
