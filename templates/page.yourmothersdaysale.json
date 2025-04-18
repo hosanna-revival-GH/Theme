@@ -33,8 +33,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/MD-banner.png",
-            "image_mobile": "shopify://shop_images/MD-banner-mobile.png",
+            "image": "shopify://shop_images/Mothers-day-header-01.png",
+            "image_mobile": "shopify://shop_images/Mothers-day-header-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
