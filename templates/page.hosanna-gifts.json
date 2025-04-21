@@ -485,12 +485,67 @@
         "testimonial_qgTztJ",
         "testimonial_dCcfq9"
       ],
+      "disabled": true,
       "settings": {
         "title": "what other's are saying",
         "align_text": "center",
         "round_images": false,
         "color_background": "#ffffff",
         "color_text": "#a5455a"
+      }
+    },
+    "text_columns_93TUbp": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_3eKA6X": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 110,
+            "title": "",
+            "text": "<p>I absolutely LOVE my new Bible! I love the beautiful cover! The pages have lots of room for notes!<br/>- Lauren</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_RMXayD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 110,
+            "title": "",
+            "text": "<p>The most beautiful Bible! It truly is as beautiful as other comments say. I’m hooked on Hosanna Revival.<br/>- Jessica</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_UXky87": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 110,
+            "title": "",
+            "text": "<p>This is so pretty and high quality.  Honestly, the beauty of it really draws me to open it up and read it.<br/>- Linda</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3eKA6X",
+        "text_block_RMXayD",
+        "text_block_UXky87"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
@@ -503,6 +558,7 @@
     "text_columns_DwipUV",
     "image_row_7JLYt8",
     "promo_grid_4rdNFx",
-    "testimonials_G4RgLn"
+    "testimonials_G4RgLn",
+    "text_columns_93TUbp"
   ]
 }
