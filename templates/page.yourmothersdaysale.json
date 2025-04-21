@@ -148,7 +148,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "GIFT INTENTIONALLY",
-        "button_link": "https://www.hosannarevival.com/collections/spring-2023-collection",
+        "button_link": "shopify://collections/mothers-day-shop",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
