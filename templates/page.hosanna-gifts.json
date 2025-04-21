@@ -320,6 +320,114 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "image_row_7JLYt8": {
+      "type": "image-row",
+      "blocks": {
+        "image_FReKGm": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Mothers-day-sale-begins-07_0fe65429-cbed-4c4b-8f3d-5918f64bd258.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_GHdT9X": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Mothers-day-sale-begins-09_1fa6955f-ced0-4ee3-8ce5-0e5d5b6bdbae.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_TTVxw4": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Mothers-day-sale-begins-010_bd8b044e-1676-4ebc-8330-7e974145552d.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_CCmHDk": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Mothers-day-sale-begins-08_891b4dbd-c82d-4eac-9ae3-6397c9d94722.png",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FReKGm",
+        "image_GHdT9X",
+        "image_TTVxw4",
+        "image_CCmHDk"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": false,
+        "enable_zoom": false
+      }
+    },
+    "promo_grid_4rdNFx": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_EnYU3w": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-07_0fe65429-cbed-4c4b-8f3d-5918f64bd258.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "25"
+          }
+        },
+        "image_wGm8ck": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-09_1fa6955f-ced0-4ee3-8ce5-0e5d5b6bdbae.png",
+            "link": "shopify://collections/devotionals",
+            "width": "25"
+          }
+        },
+        "image_Ti67cj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-08_891b4dbd-c82d-4eac-9ae3-6397c9d94722.png",
+            "link": "shopify://collections/one-thing-i-ask",
+            "width": "25"
+          }
+        },
+        "image_yQANQF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mothers-day-sale-begins-010_bd8b044e-1676-4ebc-8330-7e974145552d.png",
+            "link": "shopify://collections/notebooks",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "image_EnYU3w",
+        "image_wGm8ck",
+        "image_Ti67cj",
+        "image_yQANQF"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -328,6 +436,8 @@
     "rich_text_MgYrmf",
     "text_columns_FdDd96",
     "rich_text_3zRiRP",
-    "text_columns_DwipUV"
+    "text_columns_DwipUV",
+    "image_row_7JLYt8",
+    "promo_grid_4rdNFx"
   ]
 }
