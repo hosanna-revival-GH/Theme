@@ -180,7 +180,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-191.jpg",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-173_2.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "A Hosanna Revival Bible",
@@ -193,7 +193,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-213.jpg",
+            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-210.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "A Hosanna Revival Devotional",
@@ -225,6 +225,48 @@
         "title": "",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "text_and_image_UHXpMY": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-191.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Large Print Bibles",
+        "text": "<p>Invest in a beautiful Large Print Bible for yourself or to gift someone else! These Bible’s are single-column and feature a 9.5 font which makes for easy readability and study! </p>",
+        "button_label": "Explore Large Print Bible’s",
+        "button_link": "shopify://collections/large-print-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yRQU9i": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-213.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "The Everyday Banquet",
+        "text": "<p>Interested in a devotional for your home? <em>The Everyday Banquet</em> is a seasonal devotional where author SarahRuth Owens guides readers to engage with their family and their faith through weekly devotionals, recipe's and hymns.</p>",
+        "button_label": "Learn more",
+        "button_link": "shopify://pages/everyday-banquet",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "35a474bd-e122-4855-93ca-65b5b1bd12e9": {
@@ -340,6 +382,8 @@
     "text_columns_QrRQrx",
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32",
     "text_columns_UBeGzy",
+    "text_and_image_UHXpMY",
+    "text_and_image_yRQU9i",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
     "text_columns_CD8fn8",
     "slideshow_kdDFgM"
