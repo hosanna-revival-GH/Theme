@@ -55,6 +55,22 @@
         "disable_animation": false
       }
     },
+    "hero_video_G4YzjU": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/954036a698f84fe88bdac1cb9e5c020f.mp4",
+        "overlay_opacity": 0,
+        "section_height": "550px",
+        "mobile_height": "auto"
+      }
+    },
     "rich_text_xgdjGx": {
       "type": "rich-text",
       "blocks": {
@@ -276,16 +292,56 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "slideshow_kdDFgM": {
+      "type": "slideshow",
+      "blocks": {
+        "image_YDGYTK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Mothers-day-sale-begins-023.png",
+            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-022.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_YDGYTK"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow_9h4HYL",
+    "hero_video_G4YzjU",
     "rich_text_xgdjGx",
     "text_columns_QrRQrx",
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32",
     "text_columns_UBeGzy",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
-    "text_columns_CD8fn8"
+    "text_columns_CD8fn8",
+    "slideshow_kdDFgM"
   ]
 }
