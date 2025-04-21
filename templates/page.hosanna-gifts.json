@@ -547,6 +547,43 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "slideshow_k6XLra": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XYVVtX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "link_text": "shop all",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Cropped-Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-229.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_XYVVtX"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -559,6 +596,7 @@
     "image_row_7JLYt8",
     "promo_grid_4rdNFx",
     "testimonials_G4RgLn",
-    "text_columns_93TUbp"
+    "text_columns_93TUbp",
+    "slideshow_k6XLra"
   ]
 }
