@@ -428,6 +428,70 @@
         "space_below": false,
         "lazyload_images": true
       }
+    },
+    "testimonials_G4RgLn": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_cKUtdj": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I absolutely LOVE my new Bible! I love the beautiful cover! The pages have lots of room for notes!</p>",
+            "author": "- Lauren",
+            "author_info": ""
+          }
+        },
+        "testimonial_d663kq": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>This beautifully crafted journal bible is a special gift for someone new to faith.</p>",
+            "author": "- Tabitha",
+            "author_info": ""
+          }
+        },
+        "testimonial_mjDDxP": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>This is so pretty and high quality.  Honestly, the beauty of it really draws me to open it up and read it.</p>",
+            "author": "- Linda",
+            "author_info": ""
+          }
+        },
+        "testimonial_qgTztJ": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The most beautiful Bible! It truly is as beautiful as other comments say. I’m hooked on Hosanna Revival.</p>",
+            "author": "Jessica",
+            "author_info": ""
+          }
+        },
+        "testimonial_dCcfq9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Not only is this the prettiest Bible I’ve ever seen, all of the study notes, maps, and graphs make studying the word so enjoyable!</p>",
+            "author": "- Amy",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_cKUtdj",
+        "testimonial_d663kq",
+        "testimonial_mjDDxP",
+        "testimonial_qgTztJ",
+        "testimonial_dCcfq9"
+      ],
+      "settings": {
+        "title": "what other's are saying",
+        "align_text": "center",
+        "round_images": false,
+        "color_background": "#ffffff",
+        "color_text": "#a5455a"
+      }
     }
   },
   "order": [
@@ -438,6 +502,7 @@
     "rich_text_3zRiRP",
     "text_columns_DwipUV",
     "image_row_7JLYt8",
-    "promo_grid_4rdNFx"
+    "promo_grid_4rdNFx",
+    "testimonials_G4RgLn"
   ]
 }
