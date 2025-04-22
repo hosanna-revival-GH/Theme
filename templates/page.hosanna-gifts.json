@@ -306,7 +306,7 @@
             "title": "Gifts under $75",
             "text": "",
             "button_label": "shop",
-            "button_link": ""
+            "button_link": "shopify://collections/under-100"
           }
         }
       },
