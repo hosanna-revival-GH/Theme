@@ -131,10 +131,10 @@
             "image": "shopify://shop_images/Shop-By-05.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "UNDER $60",
+            "title": "UNDER $50",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "https://hosannarevival.com/collections/under-60"
+            "button_link": "shopify://collections/under-60"
           }
         },
         "text_block_70": {
@@ -144,10 +144,10 @@
             "image": "shopify://shop_images/Shop-By-06.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "UNDER $100",
+            "title": "UNDER $75",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "https://hosannarevival.com/collections/under-100"
+            "button_link": "shopify://collections/under-100"
           }
         }
       },
