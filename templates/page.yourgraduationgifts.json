@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Graduation-Gift-Hosanna-Revival-Beautiful-Bible-001.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_xgdjGx": {
@@ -149,7 +151,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "text_columns_8WrrEC": {
@@ -178,7 +182,7 @@
             "title": "A HOSANNA REVIVAL DEVOTIONAL",
             "text": "<p>Our devotionals make the sweetest gifts to pair with our Beautiful Bibles and to deepen engagement with God's Word. Browse our devotional library and topics to choose a beautiful study today.</p>",
             "button_label": "Shop devotionals",
-            "button_link": "shopify://collections/hosanna-revival-shop"
+            "button_link": "shopify://collections/devotionals"
           }
         },
         "text_block_64": {
