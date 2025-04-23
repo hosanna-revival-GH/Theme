@@ -118,41 +118,6 @@
         "space_below": 75
       }
     },
-    "eb1ed871-41ce-4970-8e1e-297bf7c9bf94": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_TNACPC": {
-          "type": "heading",
-          "settings": {
-            "title": "Holy Week Devotionals"
-          }
-        },
-        "text_ARVHzb": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>to prepare your heart for Easter</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_TNACPC",
-        "text_ARVHzb"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 0
-      }
-    },
     "text_and_image_FfLNxM": {
       "type": "text-and-image",
       "settings": {
@@ -573,6 +538,41 @@
         "lazyload_images": true
       }
     },
+    "eb1ed871-41ce-4970-8e1e-297bf7c9bf94": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TNACPC": {
+          "type": "heading",
+          "settings": {
+            "title": "Holy Week Devotionals"
+          }
+        },
+        "text_ARVHzb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>to prepare your heart for Easter</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_TNACPC",
+        "text_ARVHzb"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
     "79659a6a-b971-4648-ac78-fb8a8d600061": {
       "type": "rich-text",
       "blocks": {
@@ -614,12 +614,6 @@
     "slideshow_9RcKVi",
     "rich_text_wXk4Ga",
     "rich_text_CxTEHi",
-    "eb1ed871-41ce-4970-8e1e-297bf7c9bf94",
-    "text_and_image_FfLNxM",
-    "text_and_image_UP4bNh",
-    "6f2fbd9e-5b49-4ccc-a381-5923f6db891b",
-    "c36f87ae-55a5-446e-9a7b-b0a8fc17e85c",
-    "d9fef651-cc0c-4a72-8e0d-9fcea74120ab",
     "rich_text_YXVYKW",
     "text_and_image_crcx4e",
     "text_and_image_yyJzPF",
@@ -633,6 +627,12 @@
     "c4701f6d-4c30-40bb-b56b-0ce241aa0a67",
     "044c0ab9-0c6f-400a-832e-426b0d772a1c",
     "f8bb912b-0265-46cc-8d43-80f37f698c19",
+    "eb1ed871-41ce-4970-8e1e-297bf7c9bf94",
+    "text_and_image_FfLNxM",
+    "text_and_image_UP4bNh",
+    "6f2fbd9e-5b49-4ccc-a381-5923f6db891b",
+    "c36f87ae-55a5-446e-9a7b-b0a8fc17e85c",
+    "d9fef651-cc0c-4a72-8e0d-9fcea74120ab",
     "79659a6a-b971-4648-ac78-fb8a8d600061"
   ]
 }
