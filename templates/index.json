@@ -62,7 +62,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mothers-day-sale-begins-03.png",
-            "link": "",
+            "link": "shopify://pages/your-mothers-day-sale",
             "width": "33"
           }
         },
