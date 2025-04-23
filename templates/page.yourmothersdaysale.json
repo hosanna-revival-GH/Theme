@@ -398,7 +398,7 @@
         "image_YDGYTK"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
