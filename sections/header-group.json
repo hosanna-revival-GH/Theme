@@ -48,8 +48,8 @@
           "type": "announcement",
           "settings": {
             "text": "You’re here at the best time! Shop 25% off Sitewide",
-            "link_text": " Flourish and unveil the beauty of Scripture with a new tool!",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "link_text": "Flourish and unveil the beauty of Scripture with a new tool!",
+            "link": "shopify://collections/best-sellers"
           }
         },
         "announcement-1": {
@@ -65,7 +65,7 @@
           "settings": {
             "text": "Happy Mother’s Day!",
             "link_text": " Invest in a beautiful tool that stirs hearts toward Jesus!",
-            "link": "shopify://collections/beautiful-bibles"
+            "link": "shopify://pages/your-mothers-day-sale"
           }
         },
         "announcement_mMUAeX": {
