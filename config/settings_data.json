@@ -68,7 +68,7 @@
     "collection_grid_opacity": 10,
     "collection_grid_gutter": true,
     "cart_type": "page",
-    "cart_additional_buttons": true,
+    "cart_additional_buttons": false,
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
     "social_facebook_link": "https://www.facebook.com/hosannarevival",
