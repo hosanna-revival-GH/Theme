@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
@@ -38,10 +39,211 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "slideshow_aNqVnn": {
+      "type": "slideshow",
+      "blocks": {
+        "image_HtHRcj": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Dwelling-Place-Create-Through-Scripture-Stamp-Header-3.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_HtHRcj"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "rich_text_YpxdGi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ejk6tn": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_FwKW4k": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for our 4-week creative series to create through Scripture! </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ejk6tn",
+        "text_FwKW4k"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_columns_tMDUnq": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_af6ngQ": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-tubes-two-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 210,
+            "title": "WHAT",
+            "text": "<p><em>a creative journey through Scripture <br/></em><br/>Each week a new section of Scripture is introduced with three prompts to fuel your creativity, along with a featured artist’s response to the passage, and a collection of community responses to spark your inspiration.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_9U9j4N": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/stamp-flower-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 210,
+            "title": "who",
+            "text": "<p><em>for creatives and non-creatives alike</em><br/><br/>This journey was intentionally created to engage all levels of creativity and intended to stretch your inspiration, imagination, perception, and medium.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_BDb8rE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-palette-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 210,
+            "title": "wHEN",
+            "text": "<p><em>the journey begins today</em><br/><br/>Join the journey by signing up for the email series. We encourage you to work at your own pace and keep the main goal in mind: to creatively connect with God through his Word.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_af6ngQ",
+        "text_block_9U9j4N",
+        "text_block_BDb8rE"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_and_image_y4jfF4": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Create-Through-Scripture-Dwelling-Place-Email-Series-Hosanna-Revival-SQ.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "an email series",
+        "title": "A Dwelling Place: A Journey to Create through Scripture",
+        "text": "<p>Join us for this 4-week series: <em>A Dwelling Place: A journey to create through Psalm 84</em>. </p>",
+        "button_label": "Learn more",
+        "button_link": "shopify://pages/dwelling-place",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_dGgT6w": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Pleasant-Places-Psalm-16-Hosanna-Revival-1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "an email series",
+        "title": "Pleasant Places: An Invitation to Create through Psalm 16",
+        "text": "<p>Join us for the 4-week journey: <em>Pleasant Places: An invitation to create through Psalm 16</em>. </p>",
+        "button_label": "Learn more",
+        "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_tr6aqq": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2": "shopify://shop_images/bg-painting.jpg",
+        "image2_mask": "none",
+        "subtitle": "about the journey",
+        "title": "How It Works Each Week",
+        "text": "<p><strong>Day 1: Receive the prompts</strong> | You can begin creating now! Take some time to meditate on the week’s passage and create at your own pace.</p><p><strong>Day 3: Artist Highlight</strong> | Stir your inspiration by hearing from an artist on her response to the passage and consider the Scripture in a new light.</p><p><strong>Day 5: Community Feature</strong> | If you’ve finished your response and posted or shared it with us, you have a chance of being featured! Use these features as a way of meditating on the passage even further.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_RycVwR"
+    "advanced_content_RycVwR",
+    "slideshow_aNqVnn",
+    "rich_text_YpxdGi",
+    "text_columns_tMDUnq",
+    "text_and_image_y4jfF4",
+    "text_and_image_dGgT6w",
+    "text_and_image_tr6aqq"
   ]
 }
