@@ -198,6 +198,23 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "hero_video_6KBbWG": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/ce63a08946784e6b939ad80a8b760fdc.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -207,6 +224,7 @@
     "text_columns_tMDUnq",
     "text_and_image_tr6aqq",
     "text_and_image_y4jfF4",
-    "text_and_image_dGgT6w"
+    "text_and_image_dGgT6w",
+    "hero_video_6KBbWG"
   ]
 }
