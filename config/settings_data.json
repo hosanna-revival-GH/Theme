@@ -150,6 +150,11 @@
         "type": "shopify://apps/sendbird-ai-chatbot/blocks/sendbird_ai_chatbot/b03eb8ba-9162-4761-90d8-4ea6e597ce98",
         "disabled": true,
         "settings": {}
+      },
+      "15351435345818755577": {
+        "type": "shopify://apps/pandectes-gdpr/blocks/banner/58c0baa2-6cc1-480c-9ea6-38d6d559556a",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
