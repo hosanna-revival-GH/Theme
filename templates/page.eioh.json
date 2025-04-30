@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/AH_Hosanna100.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_rbGEpN": {
@@ -117,7 +119,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 50
+        "space_below": 50,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_rQUjBz": {
@@ -138,7 +142,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/AH_Hosanna096.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -152,7 +157,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "9f2ac8e3-ec5c-49c0-ae7c-e9a4c899b082": {
@@ -301,7 +307,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 10,
-        "space_below": 50
+        "space_below": 50,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_r6pQrw": {
@@ -322,7 +330,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/AH_Hosanna106.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -336,7 +345,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "c10c1d86-2fc9-4701-a69d-6f30a8352d64": {
@@ -360,27 +370,6 @@
         "lazyload_images": true
       }
     },
-    "1878f40c-32d4-4c45-8acf-386958d1dc30": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Artboard_2_copy_8_28a4466a-b414-441c-ada6-5e047c2506c4.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "study tools",
-        "title": "Ecclesiastes Scripture Notebook",
-        "text": "<p>Looking for a study companion? Shop the matching Ecclesiastes Scripture Notebook to journal alongside as you study! Available now for $6.90. </p>",
-        "button_label": "shop the bundle",
-        "button_link": "https://hosannarevival.com/products/ecclesiastes-scripture-journal",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "bccf5f27-3a76-4011-a24c-8bde4bcef2cc": {
       "type": "text-and-image",
       "settings": {
@@ -391,11 +380,11 @@
         "title": "Alicia Hamilton",
         "text": "<p>Alicia Hamilton and her husband, Jack, are planted in beautiful New Hampshire where she spends her days ministering to college, high school, and middle school students. She gets excited about nature, good literature, and people. She is passionate about biblical literacy and helping people \"taste and see that the LORD is good\" (Psalm 34:8 NIV).</p>",
         "button_label": "Follow Alicia Here",
-        "button_link": "https://instagram.com/alicia.lynn.hamilton?igshid=MzRlODBiNWFlZA==",
+        "button_link": "https://www.instagram.com/alicialynnhamilton/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
-        "layout": "left",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -416,6 +405,28 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1878f40c-32d4-4c45-8acf-386958d1dc30": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_8_28a4466a-b414-441c-ada6-5e047c2506c4.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "study tools",
+        "title": "Ecclesiastes Scripture Notebook",
+        "text": "<p>Looking for a study companion? Shop the matching Ecclesiastes Scripture Notebook to journal alongside as you study! Available now for $6.90. </p>",
+        "button_label": "shop the bundle",
+        "button_link": "https://hosannarevival.com/products/ecclesiastes-scripture-journal",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
         "layout": "right",
         "divider": false,
         "top_padding": true,
@@ -431,7 +442,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 10,
-        "space_below": 75
+        "space_below": 75,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_FBXMKc": {
@@ -452,7 +465,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/EIOH-Landing-Page-Photos.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -466,7 +480,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "single_button_NNArtp": {
@@ -477,7 +492,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 50,
-        "space_below": 50
+        "space_below": 50,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "featured_collection_8nHYWX": {
@@ -508,9 +525,9 @@
     "0b43e111-aa82-4463-9592-b50ebcf9c63c",
     "slideshow_r6pQrw",
     "c10c1d86-2fc9-4701-a69d-6f30a8352d64",
-    "1878f40c-32d4-4c45-8acf-386958d1dc30",
     "bccf5f27-3a76-4011-a24c-8bde4bcef2cc",
     "92505bae-3007-4ab8-813e-03cb86544478",
+    "1878f40c-32d4-4c45-8acf-386958d1dc30",
     "2d1fdb12-1748-4201-9f92-f077718e7cea",
     "slideshow_FBXMKc",
     "single_button_NNArtp",
