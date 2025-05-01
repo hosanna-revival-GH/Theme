@@ -72,11 +72,19 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
+        },
+        "button_MGFmk3": {
+          "type": "button",
+          "settings": {
+            "link": "https://hosannarevival.com/stw-pdf",
+            "link_text": "Download the Free PDF"
+          }
         }
       },
       "block_order": [
         "heading_JBFUPH",
-        "text_6b9Biq"
+        "text_6b9Biq",
+        "button_MGFmk3"
       ],
       "settings": {
         "align_text": "center",
@@ -92,6 +100,7 @@
     },
     "single_button_GtiRNM": {
       "type": "single-button",
+      "disabled": true,
       "name": "Custom Button",
       "settings": {
         "button_text": "Download the free PDF",
