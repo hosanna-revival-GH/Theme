@@ -648,31 +648,6 @@
         "space_below": 75
       }
     },
-    "rich_text_dT78dR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_zbJtYw": {
-          "type": "heading",
-          "settings": {
-            "title": "Wondering how to share your faith?"
-          }
-        }
-      },
-      "block_order": [
-        "heading_zbJtYw"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b4a04b",
-        "color_text": "#000000",
-        "space_above": 20,
-        "space_below": 10
-      }
-    },
     "slideshow_VreUm9": {
       "type": "slideshow",
       "blocks": {
@@ -714,6 +689,12 @@
     "rich_text_aQiknw": {
       "type": "rich-text",
       "blocks": {
+        "heading_rHgFjQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Wondering how to share your faith?"
+          }
+        },
         "heading_XYCJ8L": {
           "type": "heading",
           "settings": {
@@ -738,6 +719,7 @@
         }
       },
       "block_order": [
+        "heading_rHgFjQ",
         "heading_XYCJ8L",
         "text_BfwGUm",
         "button_dAUCmh"
@@ -978,7 +960,6 @@
     "text_and_image_RLEFtk",
     "text_and_image_jfeUAV",
     "rich_text_tMHfQV",
-    "rich_text_dT78dR",
     "slideshow_VreUm9",
     "rich_text_aQiknw",
     "faq_ME8cjJ",
