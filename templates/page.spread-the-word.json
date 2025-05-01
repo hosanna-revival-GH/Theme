@@ -13,7 +13,7 @@
       "type": "rivo-loyalty-landing-page",
       "settings": {
         "primary_color": "#000000",
-        "secondary_color": "#FFFFFF",
+        "secondary_color": "#ffffff",
         "page_background_color": "",
         "rivo_icon_color": "#000000",
         "title_font_style": "inherit",
@@ -27,7 +27,7 @@
         "section_subtitle_font_size": 18,
         "section_subtitle_font_weight": 400,
         "section_padding": 40,
-        "card_background_color": "#FFFFFF",
+        "card_background_color": "#ffffff",
         "card_font_color": "#000000",
         "card_title_font_size": 18,
         "card_title_font_weight": 600,
@@ -37,7 +37,7 @@
         "card_container_max_width": 960,
         "card_order": "stacked",
         "corner_type": "rounded",
-        "modal_background_color": "#FFFFFF",
+        "modal_background_color": "#ffffff",
         "modal_font_color": "#000000",
         "modal_icon_color": "#000000",
         "modal_icon_position_top": 15,
@@ -668,7 +668,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#b4a04b",
-        "color_text": "#f4efe6",
+        "color_text": "#000000",
         "space_above": 20,
         "space_below": 10
       }
@@ -749,8 +749,8 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#b9a038",
-        "color_text": "#ffffff",
-        "space_above": 50,
+        "color_text": "#1c1d1d",
+        "space_above": 25,
         "space_below": 75
       }
     },
