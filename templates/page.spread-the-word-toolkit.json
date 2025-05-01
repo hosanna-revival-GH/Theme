@@ -90,6 +90,20 @@
         "space_below": 75
       }
     },
+    "single_button_GtiRNM": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "Download the free PDF",
+        "button_link": "http://hosannarevival.com/stw-pdf",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#aa932c",
+        "link_color_text": "#ffffff"
+      }
+    },
     "featured_video_dbxFE3": {
       "type": "featured-video",
       "settings": {
@@ -1099,6 +1113,7 @@
     "slideshow_WjYM4Q",
     "main",
     "rich_text_EF6G4d",
+    "single_button_GtiRNM",
     "featured_video_dbxFE3",
     "rich_text_Y6JBtX",
     "slideshow_HxDGxe",
