@@ -47,25 +47,25 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "You’re here at the best time! Shop 25% off Sitewide",
-            "link_text": "Flourish and unveil the beauty of Scripture with a new tool!",
-            "link": "shopify://collections/best-sellers"
+            "text": " Your Home for Beautiful Bibles",
+            "link_text": "Find a beautiful and intentional tool to stir your hear towards Scripture!",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": " Free Tote on orders over $75",
-            "link_text": "Have you ever seen a tote so beautiful? The perfect spring accessory! ",
-            "link": "shopify://collections/spring-2025-collection"
+            "text": "Explore our devotional library",
+            "link_text": " find a beautiful devotional fit for the season you’re in",
+            "link": "shopify://pages/devotionals"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Happy Mother’s Day!",
-            "link_text": " Invest in a beautiful tool that stirs hearts toward Jesus!",
-            "link": "shopify://pages/your-mothers-day-sale"
+            "text": "Spread the Word Referral Program",
+            "link_text": "Get $10 off your next purchase off when you refer a friend!",
+            "link": "shopify://pages/spread-the-word"
           }
         },
         "announcement_mMUAeX": {
