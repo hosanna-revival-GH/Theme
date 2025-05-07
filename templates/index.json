@@ -19,7 +19,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
+            "link": "shopify://pages/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -66,7 +66,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/post-mother_s-02.png",
-            "link": "shopify://collections/hosanna-revival-shop",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "25"
           }
         },
@@ -74,7 +74,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/post-mother_s-03.png",
-            "link": "shopify://pages/hosanna-revival-gift-collection",
+            "link": "shopify://collections/devotionals",
             "width": "25"
           }
         },
@@ -82,7 +82,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/post-mother_s-04.png",
-            "link": "shopify://collections/best-sellers",
+            "link": "shopify://collections/one-thing-i-ask",
             "width": "25"
           }
         },
@@ -90,7 +90,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/post-mother_s-05.png",
-            "link": "",
+            "link": "shopify://collections/notebooks",
             "width": "25"
           }
         }
@@ -233,7 +233,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "",
+            "link": "shopify://pages/devotionals",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -375,6 +375,19 @@
         "lazyload_images": true
       }
     },
+    "featured_collection_kjtqir": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "devotional library",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_ydy6gN": {
       "type": "slideshow",
       "blocks": {
@@ -450,19 +463,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "featured_collection_kjtqir": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "devotional library",
-        "home_featured_products": "devotionals",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -478,8 +478,8 @@
     "featured-collection",
     "17413753419f9a3db7",
     "promo_grid_ByHJFD",
+    "featured_collection_kjtqir",
     "slideshow_ydy6gN",
-    "slideshow_LAdPKf",
-    "featured_collection_kjtqir"
+    "slideshow_LAdPKf"
   ]
 }
