@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Mothers-day-sale-begins-026.png",
-            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-027.png",
+            "image": "shopify://shop_images/post-mother_s-01.png",
+            "image_mobile": "shopify://shop_images/post-mother_s-08.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -47,38 +47,59 @@
         "disable_animation": false
       }
     },
+    "featured_collection_JDUqAJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "beautiful bibles",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "promo_grid_cMUWra": {
       "type": "promo-grid",
       "blocks": {
         "image_GzxX7N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mothers-day-sale-begins-020.png",
+            "image": "shopify://shop_images/post-mother_s-02.png",
             "link": "shopify://collections/hosanna-revival-shop",
-            "width": "33"
+            "width": "25"
           }
         },
         "image_yqDrtn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mothers-day-sale-begins-03.png",
+            "image": "shopify://shop_images/post-mother_s-03.png",
             "link": "shopify://pages/hosanna-revival-gift-collection",
-            "width": "33"
+            "width": "25"
           }
         },
         "image_QyaDrD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mothers-day-sale-begins.png",
+            "image": "shopify://shop_images/post-mother_s-04.png",
             "link": "shopify://collections/best-sellers",
-            "width": "33"
+            "width": "25"
+          }
+        },
+        "image_MH7GXf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/post-mother_s-05.png",
+            "link": "",
+            "width": "25"
           }
         }
       },
       "block_order": [
         "image_GzxX7N",
         "image_yqDrtn",
-        "image_QyaDrD"
+        "image_QyaDrD",
+        "image_MH7GXf"
       ],
       "settings": {
         "full_width": true,
@@ -112,6 +133,7 @@
         "image_gRP37t",
         "image_m8pxaP"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -162,6 +184,7 @@
         "image_HMfcaG",
         "image_qGcqFP"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -172,6 +195,7 @@
     },
     "hero_video_dPXTJN": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "A gift for the\nmother in your life",
         "title_size": 40,
@@ -202,8 +226,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Mothers-day-sale-begins-025.png",
-            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-24.png",
+            "image": "shopify://shop_images/post-mother_s-06.png",
+            "image_mobile": "shopify://shop_images/post-mother_s-09.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -296,18 +320,6 @@
         "space_around": false
       }
     },
-    "featured_collection_JDUqAJ": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "shop best sellers",
-        "home_featured_products": "best-sellers",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "promo_grid_ByHJFD": {
       "type": "promo-grid",
       "blocks": {
@@ -341,6 +353,7 @@
         "image_B6TpPE",
         "image_xpdYTd"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -403,8 +416,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Mothers-day-sale-begins-015.png",
-            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-017.png",
+            "image": "shopify://shop_images/post-mother_s-07.png",
+            "image_mobile": "shopify://shop_images/post-mother_s-010.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -428,6 +441,7 @@
   },
   "order": [
     "slideshow_AeLHDb",
+    "featured_collection_JDUqAJ",
     "promo_grid_cMUWra",
     "promo_grid_dwNUkk",
     "promo_grid_LzjgqV",
@@ -436,7 +450,6 @@
     "slideshow_gyMt8x",
     "featured-collection",
     "17413753419f9a3db7",
-    "featured_collection_JDUqAJ",
     "promo_grid_ByHJFD",
     "slideshow_ydy6gN",
     "slideshow_LAdPKf"
