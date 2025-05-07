@@ -210,6 +210,19 @@
         "mobile_height": "400px"
       }
     },
+    "featured_collection_HPkeGD": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "best selling tools",
+        "home_featured_products": "best-sellers",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -437,6 +450,19 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "featured_collection_kjtqir": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "devotional library",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -446,12 +472,14 @@
     "promo_grid_dwNUkk",
     "promo_grid_LzjgqV",
     "hero_video_dPXTJN",
+    "featured_collection_HPkeGD",
     "slideshow_gW9EVE",
     "slideshow_gyMt8x",
     "featured-collection",
     "17413753419f9a3db7",
     "promo_grid_ByHJFD",
     "slideshow_ydy6gN",
-    "slideshow_LAdPKf"
+    "slideshow_LAdPKf",
+    "featured_collection_kjtqir"
   ]
 }
