@@ -35,7 +35,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Rooted-to-Rise-All-Hosanna-Devotionals-005.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +50,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_HqDrRF": {
@@ -97,6 +99,28 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
+      }
+    },
+    "text_and_image_jdGknV": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival461.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Brooke Jackson",
+        "title": "Just",
+        "text": "<p>Topic: God's Justice<br/>Type of Study: Devotional<br/>Length: 6 parts<br/>Focal Scripture: The Gospel parables<br/><br/><em>Just</em> is a 6-part devotional for those who are grieved by the injustices they see in the world but don’t know what they can do to help. <em>Just</em> invites you to look to Jesus as the ultimate bringer of justice and encourages you to follow in his footsteps. </p>",
+        "button_label": "Choose this tool",
+        "button_link": "shopify://products/just-by-brooke-jackson",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "text_and_image_Tc6pLe": {
@@ -488,7 +512,8 @@
       "settings": {
         "title": "",
         "space_above": 0,
-        "space_below": 0
+        "space_below": 0,
+        "disable_section_margin": false
       }
     },
     "featured_collection_xCqkjM": {
@@ -509,6 +534,7 @@
     "slideshow_jcqhbB",
     "rich_text_HqDrRF",
     "featured_collection_J8jTm7",
+    "text_and_image_jdGknV",
     "text_and_image_Tc6pLe",
     "text_and_image_bCxN9a",
     "text_and_image_rPawVp",
