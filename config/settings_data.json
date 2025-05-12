@@ -605,8 +605,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".policy-menu {padding-top: 20px; text-align: center; font-size: 14px;}",
-      ".policy-links {list-style: none; margin: 0; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;}"
+      ".policy-menu {text-align: center; font-size: 11px;}",
+      ".policy-links {list-style: none; margin: 0; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;}"
     ]
   }
 }
