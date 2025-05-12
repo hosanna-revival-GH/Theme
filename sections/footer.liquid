@@ -96,10 +96,11 @@
       {%- endunless -%}
     {%- endif -%}
 
-    {% if settings.policy_footer_menu and settings.policy_footer_menu.links.size > 0 %}
+    {% assign policy_menu = linklists['policy-footer-menu'] %}
+    {% if policy_menu and policy_menu.links.size > 0 %}
       <div class="policy-menu">
         <ul class="policy-links">
-          {% for link in settings.policy_footer_menu.links %}
+          {% for link in policy_menu.links %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
