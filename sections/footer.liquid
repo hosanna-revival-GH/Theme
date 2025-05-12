@@ -96,6 +96,16 @@
       {%- endunless -%}
     {%- endif -%}
 
+    {% if settings.policy_footer_menu and settings.policy_footer_menu.links.size > 0 %}
+      <div class="policy-menu">
+        <ul class="policy-links">
+          {% for link in settings.policy_footer_menu.links %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
     {%- if section.settings.show_copyright -%}
       <p class="footer__small-text">
         &copy; {{ 'now' | date: '%Y' }} {{ shop.name }}
