@@ -9,6 +9,101 @@
  */
 {
   "sections": {
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/spread-the-word",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spread-the-Word-Launch-01_49d63d5f-d461-4b0e-9d04-00940100fa3d.png",
+            "image_mobile": "shopify://shop_images/Spread-the-Word-Launch.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "hero_video_gU7cPr": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "Spread the Word Collective",
+        "title_size": 80,
+        "subheading": "empowering you to spread God’s Word with the people you love most",
+        "link_text": "Refer a friend",
+        "link": "shopify://pages/spread-the-word",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/2a341be5d78443a6aed606af7db25028.mov",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "slideshow_atfAMR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pbiyCU": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "shopify://pages/spread-the-word-toolkit",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/STW-6.png",
+            "image_mobile": "shopify://shop_images/STW-7.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_pbiyCU"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "slideshow_AeLHDb": {
       "type": "slideshow",
       "blocks": {
@@ -191,23 +286,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": false
-      }
-    },
-    "hero_video_dPXTJN": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "title": "A gift for the\nmother in your life",
-        "title_size": 40,
-        "subheading": "",
-        "link_text": "invite beauty into her home",
-        "link": "shopify://collections/one-thing-i-ask",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/954036a698f84fe88bdac1cb9e5c020f.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "400px"
       }
     },
     "featured_collection_HPkeGD": {
@@ -393,6 +471,7 @@
       "blocks": {
         "image_ifbURP": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
@@ -415,6 +494,7 @@
       "block_order": [
         "image_ifbURP"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -466,12 +546,14 @@
     }
   },
   "order": [
+    "slideshow_X4MRpa",
+    "hero_video_gU7cPr",
+    "slideshow_atfAMR",
     "slideshow_AeLHDb",
     "featured_collection_JDUqAJ",
     "promo_grid_cMUWra",
     "promo_grid_dwNUkk",
     "promo_grid_LzjgqV",
-    "hero_video_dPXTJN",
     "featured_collection_HPkeGD",
     "slideshow_gW9EVE",
     "slideshow_gyMt8x",
