@@ -53,13 +53,13 @@
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
         "title": "Spread the Word Collective",
-        "title_size": 80,
+        "title_size": 50,
         "subheading": "empowering you to spread God’s Word with the people you love most",
         "link_text": "Refer a friend",
         "link": "shopify://pages/spread-the-word",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/36018ceca6e8464cad48b47d61cb1f49.mov",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/1c52c04f4cf549b986d5c2e464943374.mp4",
         "overlay_opacity": 0,
         "section_height": "550px",
         "mobile_height": "auto"
