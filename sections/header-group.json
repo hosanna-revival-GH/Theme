@@ -44,6 +44,14 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_FNqfy6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Join our Referral program",
+            "link_text": "Spread the Word and get $10 off your next purchase when you refer a friend! ",
+            "link": "shopify://pages/spread-the-word"
+          }
+        },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
@@ -60,14 +68,6 @@
             "link": "shopify://pages/devotionals"
           }
         },
-        "announcement_FNqfy6": {
-          "type": "announcement",
-          "settings": {
-            "text": "Spread the Word Referral Program",
-            "link_text": "Get $10 off your next purchase off when you refer a friend!",
-            "link": "shopify://pages/spread-the-word"
-          }
-        },
         "announcement_mMUAeX": {
           "type": "announcement",
           "disabled": true,
@@ -79,9 +79,9 @@
         }
       },
       "block_order": [
+        "announcement_FNqfy6",
         "announcement_NXQKWa",
         "announcement-1",
-        "announcement_FNqfy6",
         "announcement_mMUAeX"
       ],
       "settings": {
