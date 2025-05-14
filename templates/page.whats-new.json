@@ -56,43 +56,16 @@
         "disable_animation": false
       }
     },
-    "single_button_z78Gx6": {
+    "single_button_JD887j": {
       "type": "single-button",
       "settings": {
-        "button_text": "Broken for you: Free holy week series",
-        "button_link": "shopify://pages/broken-for-you",
+        "button_text": "Spread the word collective",
+        "button_link": "https://hosannarevival.com/pages/spread-the-word",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_GryJY9": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Our new devotional “Just”",
-        "button_link": "shopify://pages/just",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#9ba586",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_zkaCd3": {
-      "type": "single-button",
-      "disabled": true,
-      "settings": {
-        "button_text": "Free Download \"Just\" Chapter 1",
-        "button_link": "https://hosannarevival.com/just-preview",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -106,20 +79,20 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
-    "single_button_JD887j": {
+    "single_button_GryJY9": {
       "type": "single-button",
       "settings": {
-        "button_text": "Spread the word collective",
-        "button_link": "https://hosannarevival.com/pages/spread-the-word",
+        "button_text": "Our new devotional “Just”",
+        "button_link": "shopify://pages/just",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -232,11 +205,9 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
-    "single_button_z78Gx6",
-    "single_button_GryJY9",
-    "single_button_zkaCd3",
-    "single_button_gX7jmw",
     "single_button_JD887j",
+    "single_button_gX7jmw",
+    "single_button_GryJY9",
     "single_button_KDXcyH",
     "single_button_eFchhW",
     "single_button_RAWt9g",
