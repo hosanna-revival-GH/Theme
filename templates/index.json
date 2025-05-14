@@ -59,9 +59,9 @@
         "link": "shopify://pages/spread-the-word",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/2a341be5d78443a6aed606af7db25028.mov",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/36018ceca6e8464cad48b47d61cb1f49.mov",
         "overlay_opacity": 0,
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto"
       }
     },
