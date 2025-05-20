@@ -146,13 +146,13 @@
         "disabled": false,
         "settings": {}
       },
-      "14019014016809704581": {
-        "type": "shopify://apps/sendbird-ai-chatbot/blocks/sendbird_ai_chatbot/b03eb8ba-9162-4761-90d8-4ea6e597ce98",
-        "disabled": true,
-        "settings": {}
-      },
       "15351435345818755577": {
         "type": "shopify://apps/pandectes-gdpr/blocks/banner/58c0baa2-6cc1-480c-9ea6-38d6d559556a",
+        "disabled": false,
+        "settings": {}
+      },
+      "14019014016809704581": {
+        "type": "shopify://apps/sendbird-ai-chatbot/blocks/sendbird_ai_chatbot/b03eb8ba-9162-4761-90d8-4ea6e597ce98",
         "disabled": false,
         "settings": {}
       }
@@ -608,7 +608,7 @@
       ".policy-menu {text-align: center; font-size: 11px;}",
       ".policy-links {list-style: none; margin: 0; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;}",
       ".policy-links li a {text-transform: uppercase; color: hsl(57deg 24% 31% / 60%);}",
-      "@media only screen and (max-width: 768px) {.policy-links {gap: 0 .5rem; }}"
+      "@media only screen and (max-width: 768px) {.policy-links {gap: 0 0.5rem; }}"
     ]
   }
 }
