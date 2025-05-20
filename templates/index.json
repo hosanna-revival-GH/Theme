@@ -9,6 +9,46 @@
  */
 {
   "sections": {
+    "slideshow_fehzff": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yJNXDc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/bumped-and-bruised-01.png",
+            "image_mobile": "shopify://shop_images/bumped-and-bruised-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_yJNXDc"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
@@ -546,6 +586,7 @@
     }
   },
   "order": [
+    "slideshow_fehzff",
     "slideshow_X4MRpa",
     "hero_video_gU7cPr",
     "slideshow_atfAMR",
