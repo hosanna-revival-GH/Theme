@@ -36,6 +36,7 @@
       "block_order": [
         "image_yJNXDc"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
