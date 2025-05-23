@@ -58,6 +58,7 @@
     },
     "single_button_3L6q9A": {
       "type": "single-button",
+      "disabled": true,
       "name": "Custom Button",
       "settings": {
         "button_text": "shop bumped and bruised",
@@ -66,7 +67,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -119,7 +120,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -146,7 +147,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -159,7 +160,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -172,7 +173,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -185,7 +186,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -198,7 +199,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -211,7 +212,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     }
