@@ -49,8 +49,8 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#615f3b",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 40,
+        "space_below": 39
       }
     },
     "slideshow_DzaCdq": {
@@ -70,6 +70,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/SH_Logo_Four_Color.png",
+            "image_mobile": "shopify://shop_images/SH_Logo_Four_Color.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -124,8 +125,8 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#615f3b",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 40,
+        "space_below": 40
       }
     },
     "advanced_content_RycVwR": {
@@ -159,7 +160,7 @@
         "button_link": "https://showhope.org/",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 0,
         "space_below": 20,
         "link_color_background": "#615f3b",
         "link_color_text": "#ffffff"
