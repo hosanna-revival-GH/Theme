@@ -161,7 +161,7 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 20,
+        "space_below": 40,
         "link_color_background": "#615f3b",
         "link_color_text": "#ffffff"
       }
