@@ -11,9 +11,121 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
+      }
+    },
+    "rich_text_gENYUq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GxYHJe": {
+          "type": "heading",
+          "settings": {
+            "title": "Join us for our donation Initiative"
+          }
+        },
+        "text_dk7tMj": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This month, we’re donating 10% of our proceeds to Show Hope to help fund adoption grants for five families! Join us in supporting this beautiful mission! </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_GxYHJe",
+        "text_dk7tMj"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#615f3b",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_DzaCdq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_hfzHmi": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/SH_Logo_Four_Color.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_hfzHmi"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "rich_text_qYj9Gk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mxg6TM": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_nPcGzG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Show Hope is a faith-based nonprofit organization founded in 2003 by Mary Beth and Steven Curtis Chapman, with a mission to care for orphans by engaging the Church and reducing the barriers to adoption. Through initiatives like adoption aid grants, medical care support, and advocacy, Show Hope works to help bring every waiting child into the love and permanency of a family.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_mxg6TM",
+        "text_nPcGzG"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#615f3b",
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "advanced_content_RycVwR": {
@@ -38,10 +150,28 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "single_button_qBn4Cx": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "Learn more about Show Hope",
+        "button_link": "https://showhope.org/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#615f3b",
+        "link_color_text": "#ffffff"
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_RycVwR"
+    "rich_text_gENYUq",
+    "slideshow_DzaCdq",
+    "rich_text_qYj9Gk",
+    "advanced_content_RycVwR",
+    "single_button_qBn4Cx"
   ]
 }
