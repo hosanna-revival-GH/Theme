@@ -72,9 +72,9 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Shop slightly damaged tools at a discount",
-            "link_text": "and free domestic shipping on orders over $100",
-            "link": "shopify://collections/bumped-bruised"
+            "text": "Sale on sale!",
+            "link_text": "Use code EXTRA15 for an additional 15% off already marked down tools!",
+            "link": "shopify://collections/sale"
           }
         }
       },
