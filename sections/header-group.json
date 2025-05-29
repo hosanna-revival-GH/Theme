@@ -44,6 +44,14 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Sale on sale!",
+            "link_text": "Use code EXTRA15 for an additional 15% off already marked down tools!",
+            "link": "shopify://collections/sale"
+          }
+        },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
@@ -67,22 +75,13 @@
             "link_text": " find a beautiful devotional fit for the season you’re in",
             "link": "shopify://pages/devotionals"
           }
-        },
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Sale on sale!",
-            "link_text": "Use code EXTRA15 for an additional 15% off already marked down tools!",
-            "link": "shopify://collections/sale"
-          }
         }
       },
       "block_order": [
+        "announcement_mMUAeX",
         "announcement_FNqfy6",
         "announcement_NXQKWa",
-        "announcement-1",
-        "announcement_mMUAeX"
+        "announcement-1"
       ],
       "settings": {
         "announcement_compact": true
