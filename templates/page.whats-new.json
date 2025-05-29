@@ -12,6 +12,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
+      "custom_css": [],
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
@@ -33,8 +34,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/whats-new_4ed816a4-dde3-4be6-976f-849780998aa4.png",
-            "image_mobile": "shopify://shop_images/whats-new_4ed816a4-dde3-4be6-976f-849780998aa4.png",
+            "image": "shopify://shop_images/Birthday-Homepage-14_786d7738-8fa7-49ff-a3a6-9c4ea2963555.png",
+            "image_mobile": "shopify://shop_images/Birthday-Homepage-14_786d7738-8fa7-49ff-a3a6-9c4ea2963555.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -59,7 +60,6 @@
     "single_button_3L6q9A": {
       "type": "single-button",
       "disabled": true,
-      "name": "Custom Button",
       "settings": {
         "button_text": "shop bumped and bruised",
         "button_link": "shopify://collections/bumped-bruised",
