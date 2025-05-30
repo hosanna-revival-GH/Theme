@@ -17,6 +17,45 @@
         "page_content_enable": true
       }
     },
+    "slideshow_f7iqWq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fjHmFa": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hosanna_Revival_Spring_Collection_Lock_Screens.png",
+            "image_mobile": "shopify://shop_images/Hosanna_Revival_Spring_Collection_Lock_Screens.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_fjHmFa"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "rich_text_gENYUq": {
       "type": "rich-text",
       "blocks": {
@@ -30,7 +69,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>This month, we’re donating 10% of our proceeds to Show Hope to help fund adoption grants for five families! Join us in supporting this beautiful mission! </p>",
+            "text": "<p>To celebrate our 10th birthday, we're donating 10% of our proceeds throughout the month of June to Show Hope, helping fund adoption grants for five families. Join us in supporting this beautiful mission!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -165,14 +204,103 @@
         "link_color_background": "#615f3b",
         "link_color_text": "#ffffff"
       }
+    },
+    "rich_text_XPUiTh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_n49a9U": {
+          "type": "heading",
+          "settings": {
+            "title": "Here's how you can join us on this mission!"
+          }
+        },
+        "text_4xy8cr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Find something that excites you—or someone you love—to engage with Scripture! 10% of the revenue from your order will go to Show Hope, helping fund an adoption grant for a family. Your contribution will help us meet our goal of helping 5 families receive adoption grants!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_n49a9U",
+        "text_4xy8cr"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collections_eD3UAd": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_LU6p4B": {
+          "type": "collection",
+          "settings": {
+            "collection": "beautiful-bibles",
+            "title": "bibles",
+            "focal_point": "center center"
+          }
+        },
+        "collection_qq4QgF": {
+          "type": "collection",
+          "settings": {
+            "collection": "notebooks",
+            "title": "Notebooks",
+            "focal_point": "center center"
+          }
+        },
+        "collection_GCwfxc": {
+          "type": "collection",
+          "settings": {
+            "collection": "one-thing-i-ask",
+            "title": "5-Year Prayer Journals",
+            "focal_point": "center center"
+          }
+        },
+        "collection_9FVpni": {
+          "type": "collection",
+          "settings": {
+            "collection": "devotionals",
+            "title": "Devotionals",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_LU6p4B",
+        "collection_qq4QgF",
+        "collection_GCwfxc",
+        "collection_9FVpni"
+      ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "Join our donation initiative and choose a new tool",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
     }
   },
   "order": [
     "main",
+    "slideshow_f7iqWq",
     "rich_text_gENYUq",
     "slideshow_DzaCdq",
     "rich_text_qYj9Gk",
     "advanced_content_RycVwR",
-    "single_button_qBn4Cx"
+    "single_button_qBn4Cx",
+    "rich_text_XPUiTh",
+    "featured_collections_eD3UAd"
   ]
 }
