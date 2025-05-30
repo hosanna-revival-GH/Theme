@@ -24,8 +24,8 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "Join us for our donation initiative",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -62,7 +62,7 @@
         "heading_GxYHJe": {
           "type": "heading",
           "settings": {
-            "title": "Join us for our donation Initiative"
+            "title": ""
           }
         },
         "text_dk7tMj": {
@@ -88,7 +88,7 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#615f3b",
-        "space_above": 40,
+        "space_above": 0,
         "space_below": 39
       }
     },
