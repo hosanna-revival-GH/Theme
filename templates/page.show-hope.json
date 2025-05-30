@@ -69,7 +69,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>To celebrate our 10th birthday, we're donating 10% of our proceeds throughout the month of June to Show Hope, helping fund adoption grants for five families. Join us in supporting this beautiful mission!</p>",
+            "text": "<p>To celebrate our 10th birthday, we're donating 10% of our proceeds throughout the month of June to Show Hope, helping fund adoption grants for five families. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -201,21 +201,6 @@
         "lazyload_images": true
       }
     },
-    "single_button_qBn4Cx": {
-      "type": "single-button",
-      "disabled": true,
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "Learn more about Show Hope",
-        "button_link": "https://showhope.org/",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 0,
-        "space_below": 40,
-        "link_color_background": "#615f3b",
-        "link_color_text": "#ffffff"
-      }
-    },
     "rich_text_XPUiTh": {
       "type": "rich-text",
       "blocks": {
@@ -247,8 +232,8 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
+        "color_text": "#717057",
+        "space_above": 40,
         "space_below": 75
       }
     },
@@ -371,6 +356,44 @@
         "per_row": 4,
         "enable_gutter": true
       }
+    },
+    "slideshow_V8cq96": {
+      "type": "slideshow",
+      "blocks": {
+        "image_JVRyfR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections",
+            "link_text": "Shop all",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hosanna_Revival_Spring_Collection_Lock_Screens.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_JVRyfR"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -380,9 +403,9 @@
     "slideshow_DzaCdq",
     "rich_text_qYj9Gk",
     "advanced_content_RycVwR",
-    "single_button_qBn4Cx",
     "rich_text_XPUiTh",
     "text_columns_LqyXmr",
-    "featured_collections_eD3UAd"
+    "featured_collections_eD3UAd",
+    "slideshow_V8cq96"
   ]
 }
