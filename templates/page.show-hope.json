@@ -149,11 +149,21 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "text_Wp7nmb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><a href=\"https://showhope.org/\" target=\"_blank\" title=\"https://showhope.org/\"><em>Learn more about Show Hope</em></a></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
         "heading_mxg6TM",
-        "text_nPcGzG"
+        "text_nPcGzG",
+        "text_Wp7nmb"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
@@ -193,6 +203,7 @@
     },
     "single_button_qBn4Cx": {
       "type": "single-button",
+      "disabled": true,
       "name": "Custom Button",
       "settings": {
         "button_text": "Learn more about Show Hope",
@@ -241,6 +252,75 @@
         "space_below": 75
       }
     },
+    "text_columns_LqyXmr": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_dLN8VM": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/post-mother_s-02.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "choose a beautiful Bible",
+            "button_link": ""
+          }
+        },
+        "text_block_UmKKFY": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/post-mother_s-04.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "Choose a 5-Year Prayer Journal",
+            "button_link": ""
+          }
+        },
+        "text_block_VeWtN9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/post-mother_s-03.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "Choose a devotional",
+            "button_link": ""
+          }
+        },
+        "text_block_JX8q9Q": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/post-mother_s-05.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "Choose a notebook",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_dLN8VM",
+        "text_block_UmKKFY",
+        "text_block_VeWtN9",
+        "text_block_JX8q9Q"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "featured_collections_eD3UAd": {
       "type": "featured-collections",
       "blocks": {
@@ -283,6 +363,7 @@
         "collection_GCwfxc",
         "collection_9FVpni"
       ],
+      "disabled": true,
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
         "title": "Join our donation initiative and choose a new tool",
@@ -301,6 +382,7 @@
     "advanced_content_RycVwR",
     "single_button_qBn4Cx",
     "rich_text_XPUiTh",
+    "text_columns_LqyXmr",
     "featured_collections_eD3UAd"
   ]
 }
