@@ -69,7 +69,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>To celebrate our 10th birthday, we're donating 10% of our proceeds throughout the month of June to Show Hope, helping fund adoption grants for five families. </p>",
+            "text": "<p>To celebrate our 10th birthday, we’re donating 10% of our proceeds throughout the month of June to Show Hope, helping fund adoption grants for five families. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
