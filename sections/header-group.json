@@ -46,35 +46,34 @@
       "blocks": {
         "announcement_mMUAeX": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Sale on sale!",
-            "link_text": "Use code EXTRA15 for an additional 15% off already marked down tools!",
-            "link": "shopify://collections/sale"
+            "text": "You’re a part of our donation initiative: Show Hope!",
+            "link_text": "This month, 10% of your order goes to show Hope to help fund adoption grants for five families ",
+            "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Join our Referral program",
-            "link_text": "Spread the Word and get $10 off your next purchase when you refer a friend! ",
+            "text": "10% off sitewide for our 10th birthday!",
+            "link_text": "A small token of our appreciation–we couldn’t do this without you!",
             "link": "shopify://pages/spread-the-word"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": " Your Home for Beautiful Bibles",
-            "link_text": "Find a beautiful and intentional tool to stir your hear towards Scripture!",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": "A hand painted drop AND designs from the archive?",
+            "link_text": "The countdown begins for this limited collection dropping June 13th",
+            "link": "shopify://collections/the-archive"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Explore our devotional library",
-            "link_text": " find a beautiful devotional fit for the season you’re in",
-            "link": "shopify://pages/devotionals"
+            "text": "A party favor!",
+            "link_text": "100 of you will get surprise gift cards to our shop in your order this month!",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         }
       },
