@@ -19,7 +19,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/spread-the-word",
+            "link": "shopify://collections/hosanna-revival-shop",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -57,7 +57,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/beautiful-bibles",
+            "link": "shopify://collections/the-archive",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -111,7 +111,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/spread-the-word-toolkit",
+            "link": "shopify://collections/the-archive",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -159,7 +159,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Birthday-Homepage-05.png",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative",
             "width": "50"
           }
         },
@@ -167,7 +167,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Birthday-Homepage-06.png",
-            "link": "shopify://collections/devotionals",
+            "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
         }
@@ -206,7 +206,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/devotionals",
+            "link": "shopify://pages/about",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -244,7 +244,7 @@
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "shopify://collections/spring-2025-collection",
+            "link": "shopify://pages/create-through-scripture",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",

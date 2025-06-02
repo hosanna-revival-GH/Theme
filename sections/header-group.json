@@ -46,6 +46,7 @@
       "blocks": {
         "announcement_mMUAeX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Sale on sale!",
             "link_text": "Use code EXTRA15 for an additional 15% off already marked down tools!",
