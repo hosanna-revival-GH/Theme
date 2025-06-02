@@ -44,14 +44,6 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "You’re a part of our donation initiative: Show Hope!",
-            "link_text": "This month, 10% of your order goes to show Hope to help fund adoption grants for five families ",
-            "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
-          }
-        },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
@@ -75,13 +67,21 @@
             "link_text": "100 of you will get surprise gift cards to our shop in your order this month!",
             "link": "shopify://collections/hosanna-revival-shop"
           }
+        },
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "You’re a part of our donation initiative: Show Hope!",
+            "link_text": "This month, 10% of your order goes to show Hope to help fund adoption grants for five families ",
+            "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
+          }
         }
       },
       "block_order": [
-        "announcement_mMUAeX",
         "announcement_FNqfy6",
         "announcement_NXQKWa",
-        "announcement-1"
+        "announcement-1",
+        "announcement_mMUAeX"
       ],
       "settings": {
         "announcement_compact": true
