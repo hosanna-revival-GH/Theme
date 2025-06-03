@@ -151,11 +151,6 @@
         "disabled": false,
         "settings": {}
       },
-      "14019014016809704581": {
-        "type": "shopify://apps/sendbird-ai-chatbot/blocks/sendbird_ai_chatbot/b03eb8ba-9162-4761-90d8-4ea6e597ce98",
-        "disabled": false,
-        "settings": {}
-      },
       "back-in-stock-restock-alerts-4bb73be2-b7c2-4870-949f-c528145452a3": {
         "type": "shopify://apps/stoq/blocks/main/4bb73be2-b7c2-4870-949f-c528145452a3",
         "disabled": false,
