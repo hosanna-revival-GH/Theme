@@ -55,9 +55,9 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "A hand painted drop AND designs from the archive?",
-            "link_text": "The countdown begins for this limited collection dropping June 13th",
-            "link": "shopify://collections/the-archive"
+            "text": "A hand painted collection?",
+            "link_text": "A return to our roots with a fully hand painted collection from Katie - dropping June 13th",
+            "link": "shopify://collections/the-hand-painted-collection"
           }
         },
         "announcement-1": {
