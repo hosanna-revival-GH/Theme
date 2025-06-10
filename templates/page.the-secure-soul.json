@@ -325,6 +325,7 @@
     },
     "text_and_image_g7gbnt": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival454.jpg",
         "image_mask": "none",
@@ -348,7 +349,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Purchase your copy",
-        "button_link": "https://hosannarevival.com/products/just-by-brooke-jackson",
+        "button_link": "",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -373,7 +374,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival-87.jpg",
+            "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-120.jpg",
+            "image_mobile": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-32.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -384,7 +386,7 @@
         "image_V74Rig"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -439,14 +441,14 @@
         "heading_mqtw6M": {
           "type": "heading",
           "settings": {
-            "title": "A prayer for when your heart breaks for the injustice you see in the world"
+            "title": "A Prayer for an Identity rooted in Christ"
           }
         },
         "text_4UN8Gr": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>God of justice, </em></p>",
+            "text": "<p><em>Lord, </em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -455,7 +457,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Open my eyes to see the world and the people in it like you do. Help me to recognize when injustice is present and not to turn away from it. Pierce my heart for the things that grieve yours and guide my hands and feet to the work that is mine to do. Help me to be a person who seeks the wholeness of others and who holds my own desires for justice with an open hand. Please show me what it means to follow you in living mercifully toward those around me.</p>",
+            "text": "<p>There are so many voices in my life. It seems everywhere I turn I’m getting told who I should be or what I should do. Help me, Father, to have your wisdom to tune out the lesser voices and tune into yours. Speak to me about who I am. Lead me to your truth for myself and my life, over and above anyone else’s opinion, including my own. Help me to live out what you have declared over me: what you’ve given me through Jesus and what you’ve destined for my future.</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -491,7 +493,7 @@
     "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival-37.jpg",
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-35.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
