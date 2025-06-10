@@ -34,7 +34,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
-            "image_mobile": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival417.jpg",
+            "image_mobile": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -128,14 +128,14 @@
         "heading_hNHcBY": {
           "type": "heading",
           "settings": {
-            "title": "Just: A journey into the mercy of God"
+            "title": "The Secure Soul: An identity anchored in the love of Christ"
           }
         },
         "text_9KyJ8h": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Just</em> is a six-part devotional that explores God’s heart for justice by looking at the parables and miracles of Jesus and inviting you to deepen your understanding of mercy. </p>",
+            "text": "<p><em>The Secure Soul</em> by Dr. Tammy Smith is for those longing to step into freedom from insecurity through aligning their identity with God’s truth about who they are. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -257,7 +257,7 @@
     "single_button_CRBEBN": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preview Chapter One",
+        "button_text": "",
         "button_link": "https://hosannarevival.com/just-preview",
         "button_size": "huge",
         "alignment": "center",
@@ -284,12 +284,12 @@
     "text_and_image_c87NAi": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival468.jpg",
+        "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-3.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
         "title": "This Devotional is for you if...",
-        "text": "<ul><li>You are curious what God’s heart for  social justice looks like.</li><li>You are grieved by the injustices you see in the world but don’t know what you can do to help.</li><li>You want  a deeper understanding of God's mercy for yourself and others around you.</li></ul>",
+        "text": "<ul><li>You want to align your soul and identity with God's truth about who you are.</li><li>You desire to live freely in the reality that you are a unique expression of how God wants to reveal himself to a broken world.</li><li>You're looking to live in complete security in Christ.</li></ul>",
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
@@ -305,12 +305,12 @@
     "text_and_image_kXTmWw": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival420.jpg",
+        "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-42_3b3aadd0-b528-4660-9831-ee5927e5533a.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Details",
-        "title": "Just",
-        "text": "<p><strong>Topic:</strong> Justice and Mercy<br/><strong>Length of Study:</strong> 6 sections<br/><strong>Focal Scripture:</strong> Multiple passages</p><p>“We may not be able to perform miraculous healing like Jesus or pronounce someone forgiven of their sin–that is not our job–but we can be invested in the healing and wholeness of suffering people as a way of loving our neighbor and following the example of Jesus.”<br/>—<em>Brooke Jackson, author </em></p>",
+        "title": "The Secure Soul",
+        "text": "<p><strong>Topic:</strong> Finding your true security & unshakable identity in Christ<br/><strong>Length of Study:</strong> 6 chapters<br/><strong>Focal Scripture:</strong> Multiple passages</p><p>“It’s time to live like God delights in us. Because He does. It’s time to live like we have every affection our hearts long for. Because we do. It’s time to live like someone’s favorite. Because we are. It’s time to live utterly loved.”<br/><em>- Dr. Tammy Smith, author</em></p>",
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
