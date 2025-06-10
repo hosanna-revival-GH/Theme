@@ -257,7 +257,7 @@
     "single_button_CRBEBN": {
       "type": "single-button",
       "settings": {
-        "button_text": "",
+        "button_text": "Preview Chapter one",
         "button_link": "https://hosannarevival.com/just-preview",
         "button_size": "huge",
         "alignment": "center",
@@ -484,7 +484,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#6d423a",
+        "color_bg": "#b1a057",
         "color_text": "#f5f0e6",
         "space_above": 75,
         "space_below": 75
@@ -556,13 +556,13 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/products/just-by-brooke-jackson",
-            "link_text": "shop Just: A Journey into the Mercy of God",
+            "link": "",
+            "link_text": "shop The Secure Soul: An Identity Anchored in Christ",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival-194.jpg",
+            "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-6.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
