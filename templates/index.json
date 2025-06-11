@@ -210,6 +210,57 @@
         "lazyload_images": true
       }
     },
+    "promo_grid_tVdjXe": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_ci3cYn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-09_537810e1-b257-49f9-8010-131d43e51198.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_UD8myw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-010_fe4f09e4-e99a-44c6-b718-20681ed3ad2f.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_LFw8iA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-011_173599aa-514c-40b9-86f0-86c69d35bd33.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_G9dwHg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-012.png",
+            "link": "",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "image_ci3cYn",
+        "image_UD8myw",
+        "image_LFw8iA",
+        "image_G9dwHg"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "featured_collection_HPkeGD": {
       "type": "featured-collection",
       "settings": {
@@ -409,54 +460,55 @@
         "disable_animation": false
       }
     },
-    "promo_grid_tVdjXe": {
-      "type": "promo-grid",
+    "countdown_6XgX8T": {
+      "type": "countdown",
       "blocks": {
-        "image_ci3cYn": {
-          "type": "image",
+        "content_pNi9qx": {
+          "type": "content",
           "settings": {
-            "image": "shopify://shop_images/Birthday-Homepage-09_537810e1-b257-49f9-8010-131d43e51198.png",
-            "link": "",
-            "width": "25"
+            "heading": "the hand painted drop",
+            "heading_size": "h3",
+            "text": "",
+            "content_alignment": "center"
           }
         },
-        "image_UD8myw": {
-          "type": "image",
+        "timer_BannEA": {
+          "type": "timer",
           "settings": {
-            "image": "shopify://shop_images/Birthday-Homepage-010_fe4f09e4-e99a-44c6-b718-20681ed3ad2f.png",
-            "link": "",
-            "width": "25"
+            "year": "2025",
+            "month": "06",
+            "day": "12",
+            "hour": "12",
+            "minute": "00",
+            "hide_timer": true,
+            "text": "<p>the collection is here!</p>"
           }
         },
-        "image_LFw8iA": {
-          "type": "image",
+        "button_Bz4DA7": {
+          "type": "button",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Birthday-Homepage-011_173599aa-514c-40b9-86f0-86c69d35bd33.png",
-            "link": "",
-            "width": "25"
-          }
-        },
-        "image_G9dwHg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Birthday-Homepage-012.png",
-            "link": "",
-            "width": "25"
+            "button_link": "shopify://collections/the-hand-painted-collection",
+            "button": "beauty awaits",
+            "button_style": "secondary"
           }
         }
       },
       "block_order": [
-        "image_ci3cYn",
-        "image_UD8myw",
-        "image_LFw8iA",
-        "image_G9dwHg"
+        "content_pNi9qx",
+        "timer_BannEA",
+        "button_Bz4DA7"
       ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "disabled": true,
+      "name": "t:sections.countdown.presets.countdown.name",
       "settings": {
+        "layout": "banner",
         "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
+        "text_color": "#b1a057",
+        "background_color": "#f4f0d9",
+        "background_image": "shopify://shop_images/Birthday-Giveback-Painting-Photos-Hosanna-Revival-2.jpg",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 72,
         "lazyload_images": true
       }
     }
@@ -477,6 +529,7 @@
     "17413753419f9a3db7",
     "featured_collection_kjtqir",
     "slideshow_ydy6gN",
-    "slideshow_LAdPKf"
+    "slideshow_LAdPKf",
+    "countdown_6XgX8T"
   ]
 }
