@@ -24,16 +24,16 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "When Marriage Meets Reality: \nAn Everyday Toolkit for a Christ-Centered Marriage",
+            "title": "When Marriage Meets Reality:",
             "title_size": 40,
-            "subheading": "Have you found yourself asking “What is the missing link between what I thought marriage would be like and what it actually is?\"",
+            "subheading": "An Everyday Toolkit for a Christ-Centered Marriage",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
+            "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-32.jpg",
             "image_mobile": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -53,6 +53,35 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "rich_text_dfM7JC": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bwrYnr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Have you found yourself asking “What is the missing link between what I thought marriage would be like and what it actually is? Are you trying to do the “Christian marriage” and it’s not working? You’re not alone. Marriage is beautiful, but inevitably hard. It is the coming together of two broken people, to create an imperfect harmony. </p><p><br/></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_bwrYnr"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "rich_text_CXtkw9": {
@@ -612,6 +641,7 @@
   "order": [
     "main",
     "slideshow_kM3PF6",
+    "rich_text_dfM7JC",
     "rich_text_CXtkw9",
     "1743004079ff29764c",
     "rich_text_tBwpF8",
