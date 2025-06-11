@@ -44,19 +44,11 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement_FNqfy6": {
-          "type": "announcement",
-          "settings": {
-            "text": "10% off sitewide for our 10th birthday!",
-            "link_text": "A small token of our appreciation–we couldn’t do this without you!",
-            "link": "shopify://pages/spread-the-word"
-          }
-        },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "A hand painted collection?",
-            "link_text": "A return to our roots with a fully hand painted collection from Katie - dropping June 13th",
+            "text": "The Hand Painted Collection is LIVE",
+            "link_text": "A return to our roots with a fully hand painted collection from Katie - available now!",
             "link": "shopify://collections/the-hand-painted-collection"
           }
         },
@@ -64,8 +56,16 @@
           "type": "announcement",
           "settings": {
             "text": "Don't miss the Hosanna Archive Collection!",
-            "link_text": "Retired tools from past collections available to shop for a limited time - Dropping June 13th",
+            "link_text": "Retired tools from past collections available to shop for a limited time - available now!",
             "link": "shopify://collections/the-archive"
+          }
+        },
+        "announcement_FNqfy6": {
+          "type": "announcement",
+          "settings": {
+            "text": "10% off sitewide for our 10th birthday!",
+            "link_text": "A small token of our appreciation–we couldn’t do this without you!",
+            "link": "shopify://pages/spread-the-word"
           }
         },
         "announcement-1": {
@@ -78,9 +78,9 @@
         }
       },
       "block_order": [
-        "announcement_FNqfy6",
         "announcement_NXQKWa",
         "announcement_mMUAeX",
+        "announcement_FNqfy6",
         "announcement-1"
       ],
       "settings": {
