@@ -62,7 +62,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h6>Have you found yourself asking “What is the missing link between what I thought marriage would be like and what it actually is? Are you trying to do the “Christian marriage” and it’s not working? You’re not alone. Marriage is beautiful, but inevitably hard. It is the coming together of two broken people, to create an imperfect harmony. </h6><p><br/></p>",
+            "text": "<p>Have you found yourself asking “What is the missing link between what I thought marriage would be like and what it actually is? Are you trying to do the “Christian marriage” and it’s not working? </p><p><br/></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
