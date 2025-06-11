@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Birthday-Homepage-01.png",
-            "image_mobile": "shopify://shop_images/Birthday-Homepage-02.png",
+            "image": "shopify://shop_images/Birthday-Homepage-01_7a2b3064-c817-4081-9aa6-84c0a9041abe.png",
+            "image_mobile": "shopify://shop_images/Birthday-Homepage-03_492d0c05-12c3-4066-a38e-892c1eb28cdd.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -63,8 +63,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Birthday-Homepage-00.png",
-            "image_mobile": "shopify://shop_images/Birthday-Homepage.png",
+            "image": "shopify://shop_images/Birthday-Homepage-02_630c34aa-f7cf-4339-8bc0-2504e66c36fc.png",
+            "image_mobile": "shopify://shop_images/Birthday-Homepage-04_87767f55-47a8-4f7b-acdd-9a88f3aee281.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -101,6 +101,19 @@
         "mobile_height": "250px"
       }
     },
+    "featured_collection_EQ3k8q": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "the hand painted collection",
+        "home_featured_products": "the-hand-painted-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_atfAMR": {
       "type": "slideshow",
       "blocks": {
@@ -117,8 +130,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Birthday-Homepage-03.png",
-            "image_mobile": "shopify://shop_images/Birthday-Homepage-04.png",
+            "image": "shopify://shop_images/Birthday-Homepage-05_b9b28913-5e14-4342-8f2a-52fe6e7022ee.png",
+            "image_mobile": "shopify://shop_images/Birthday-Homepage-06_3fbe3be4-e10f-4fdb-92a7-1c7ab2e190ac.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -137,6 +150,19 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "featured_collection_TmCqTt": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "the archive",
+        "home_featured_products": "the-archive",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "featured_collection_JDUqAJ": {
@@ -382,15 +408,69 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "promo_grid_tVdjXe": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_ci3cYn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-09_537810e1-b257-49f9-8010-131d43e51198.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_UD8myw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-010_fe4f09e4-e99a-44c6-b718-20681ed3ad2f.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_LFw8iA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-011_173599aa-514c-40b9-86f0-86c69d35bd33.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_G9dwHg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Birthday-Homepage-012.png",
+            "link": "",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "image_ci3cYn",
+        "image_UD8myw",
+        "image_LFw8iA",
+        "image_G9dwHg"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "slideshow_X4MRpa",
     "slideshow_AeLHDb",
     "hero_video_gU7cPr",
+    "featured_collection_EQ3k8q",
     "slideshow_atfAMR",
+    "featured_collection_TmCqTt",
     "featured_collection_JDUqAJ",
     "promo_grid_cMUWra",
+    "promo_grid_tVdjXe",
     "featured_collection_HPkeGD",
     "slideshow_gW9EVE",
     "slideshow_gyMt8x",
