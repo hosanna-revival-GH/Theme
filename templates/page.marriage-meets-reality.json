@@ -61,8 +61,8 @@
         "text_bwrYnr": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
-            "text": "<p>Have you found yourself asking “What is the missing link between what I thought marriage would be like and what it actually is? Are you trying to do the “Christian marriage” and it’s not working? You’re not alone. Marriage is beautiful, but inevitably hard. It is the coming together of two broken people, to create an imperfect harmony. </p><p><br/></p>",
+            "enlarge_text": true,
+            "text": "<h6>Have you found yourself asking “What is the missing link between what I thought marriage would be like and what it actually is? Are you trying to do the “Christian marriage” and it’s not working? You’re not alone. Marriage is beautiful, but inevitably hard. It is the coming together of two broken people, to create an imperfect harmony. </h6><p><br/></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -78,10 +78,10 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "color_bg": "#769180",
+        "color_text": "#e8e8e1",
+        "space_above": 60,
+        "space_below": 0
       }
     },
     "rich_text_CXtkw9": {
@@ -182,8 +182,8 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 35
+        "space_above": 25,
+        "space_below": 32
       }
     },
     "featured_product_8bYpPg": {
@@ -313,7 +313,7 @@
     "text_and_image_c87NAi": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-3.jpg",
+        "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-55.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
@@ -334,7 +334,7 @@
     "text_and_image_kXTmWw": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-42_3b3aadd0-b528-4660-9831-ee5927e5533a.jpg",
+        "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-7.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Details",
@@ -403,7 +403,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-120.jpg",
+            "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-72.jpg",
             "image_mobile": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-120.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
