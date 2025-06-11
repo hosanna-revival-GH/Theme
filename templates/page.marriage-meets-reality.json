@@ -33,8 +33,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-32.jpg",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
+            "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-69.jpg",
+            "image_mobile": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-69_016f80d5-2c97-460b-823a-1420b85ddef4.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -45,7 +45,7 @@
         "image_NjgGKA"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -313,7 +313,7 @@
     "text_and_image_c87NAi": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-55.jpg",
+        "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-2.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
