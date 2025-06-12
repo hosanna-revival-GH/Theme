@@ -125,7 +125,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Whether you're seeking guidance in your marriage or identity, discover healing where biblical truth meets real-life struggle—through the wisdom of Scripture and the guidance of Dr. Tammy Smith. </p><p><em>Your identity and your marriage are a spiritual matter, it's time to consider that God has more for you.</em></p>",
+            "text": "<p>Whether you're seeking guidance in your marriage or identity, discover healing where biblical truth meets real-life struggle—through the wisdom of Scripture and the guidance of Dr. Tammy Smith. </p><p><em>Your marriage and your identity are a spiritual matter, it's time to consider that God has more for you.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -247,6 +247,42 @@
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
+      }
+    },
+    "rich_text_RmApxY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_R96whr": {
+          "type": "heading",
+          "settings": {
+            "title": "Introducing Dr. Tammy Smith"
+          }
+        },
+        "text_7XtXdG": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>With over 30 years of experience as a counselor and pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering help through the truths of Christ to all people. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_R96whr",
+        "text_7XtXdG"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#f4f0d9",
+        "space_above": 23,
+        "space_below": 22
       }
     },
     "text_and_image_jfU9Lt": {
@@ -372,6 +408,7 @@
     "rich_text_3YxW93",
     "featured_product_9VxXG7",
     "featured_product_c9rcEc",
+    "rich_text_RmApxY",
     "text_and_image_jfU9Lt",
     "text_and_image_3YAWQj",
     "text_and_image_CiqXYx",
