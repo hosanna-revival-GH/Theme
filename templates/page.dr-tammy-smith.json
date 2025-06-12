@@ -155,11 +155,115 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
-        "layout": "right",
+        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "featured_product_9VxXG7": {
+      "type": "featured-product",
+      "blocks": {
+        "price_7EY9Em": {
+          "type": "price",
+          "settings": {}
+        },
+        "description_BgCJ8H": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_b4fTtV": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_3HdhjW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_7EY9Em",
+        "description_BgCJ8H",
+        "variant_picker_b4fTtV",
+        "buy_buttons_3HdhjW"
+      ],
+      "name": "t:sections.featured-product.presets.featured_product.name",
+      "settings": {
+        "featured_product": "when-marriage-meets-reality-by-tammy-smith",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "featured_product_c9rcEc": {
+      "type": "featured-product",
+      "blocks": {
+        "price_AVGMWP": {
+          "type": "price",
+          "settings": {}
+        },
+        "description_xJVetT": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_Hk4QjU": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_w3wqxf": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_AVGMWP",
+        "description_xJVetT",
+        "variant_picker_Hk4QjU",
+        "buy_buttons_w3wqxf"
+      ],
+      "name": "t:sections.featured-product.presets.featured_product.name",
+      "settings": {
+        "featured_product": "the-secure-soul-by-tammy-smith",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "right",
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
       }
     }
   },
@@ -167,6 +271,8 @@
     "main",
     "advanced_content_RycVwR",
     "slideshow_an6j93",
+    "featured_product_9VxXG7",
+    "featured_product_c9rcEc",
     "text_and_image_w9dBmk",
     "text_and_image_jfU9Lt",
     "text_and_image_3YAWQj",
