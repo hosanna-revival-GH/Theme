@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "page_title_enable": true,
         "page_content_enable": true
@@ -38,10 +39,118 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "slideshow_an6j93": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ncMFah": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Books by Dr. Tammy Smith",
+            "title_size": 50,
+            "subheading": "The Secure Soul & When Marriage Meets Reality",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-22.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_ncMFah"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "text_and_image_w9dBmk": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-81.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introduce yourself to",
+        "title": "Dr. Tammy Smith",
+        "text": "<p>As a counselor for over thirty years, Dr. Tammy Smith has given herself to helping people live in the security, freedom, peace, and joy of Christ. She is also a popular conference speaker, worship leader, avid tennis player, mom, and “Grammy.” She and her husband, Pastor Mike Smith, love sneaking away to their cabin in the woods. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jfU9Lt": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-77.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Learn more about",
+        "title": "Dr. Tammy's Credibility",
+        "text": "<p>Dr. Tammy Smith is a Licensed Professional Counselor, a National Certified Counselor, and holds a Ph.D. in Psychology. Her undergraduate and graduate studies were in counseling and Bible, fueling her passion for integrating faith and psychology. She works two days a week at her counseling practice, Threshold, and has been ministering to clients since 1993. With over 30 years of experience as both a counselor and a pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering hope through the truths of Christ.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_3YAWQj": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-165.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The marriage behind the book",
+        "title": "About Tammy and Mike",
+        "text": "<p>My marriage is a miracle. My husband and I once took personality tests that said of our two types, “the best day for these types is when their relationship ends.” That sentiment rings as true today as it did then. <br/></p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life - the curveballs, twists, turns and crushing valleys, it is a miracle - truly a miracle - that we have stayed the course.Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it.</p><p>And it’s a miracle.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_RycVwR"
+    "advanced_content_RycVwR",
+    "slideshow_an6j93",
+    "text_and_image_w9dBmk",
+    "text_and_image_jfU9Lt",
+    "text_and_image_3YAWQj"
   ]
 }
