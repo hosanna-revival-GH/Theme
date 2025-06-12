@@ -23,14 +23,14 @@
         "heading_PJRE9t": {
           "type": "heading",
           "settings": {
-            "title": "Preorder June 17 - July 14"
+            "title": "Preorder Today"
           }
         },
         "text_wUUjpW": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early deliver plus 15% off your purchase!</strong></em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -49,8 +49,8 @@
         "css-class": "",
         "color_bg": "#b1a057",
         "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 15,
+        "space_below": 15
       }
     },
     "slideshow_kM3PF6": {
