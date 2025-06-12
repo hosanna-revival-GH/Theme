@@ -46,12 +46,12 @@
         "image_ncMFah": {
           "type": "image",
           "settings": {
-            "top_subheading": "Preorder June 17 - July 14",
-            "title": "Books by Dr. Tammy Smith",
+            "top_subheading": "Dr. Tammy Smith",
+            "title": "Sit in the counselor's chair",
             "title_size": 50,
             "subheading": "The Secure Soul & When Marriage Meets Reality",
             "link": "",
-            "link_text": "",
+            "link_text": "Preorder June 17 - July 14",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -90,7 +90,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/>with early deliver plus 15% off your purchase!</em></p>",
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early deliver plus 15% off your purchase!</strong></em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -100,7 +100,6 @@
         "heading_bghEKA",
         "text_mGrdMp"
       ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -111,6 +110,41 @@
         "color_text": "#e8e8e1",
         "space_above": 24,
         "space_below": 21
+      }
+    },
+    "rich_text_3YxW93": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WE7UDw": {
+          "type": "heading",
+          "settings": {
+            "title": "Where are you searching for hope?"
+          }
+        },
+        "text_bEpwHg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Whether you're seeking guidance in your marriage <em>or</em> identity, find further healing where biblical truth meets real-life struggle through the wisdom of Scripture, guided by Dr. Tammy Smith. Your identity and your marriage are a spiritual matter, consider that God has more for you.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_WE7UDw",
+        "text_bEpwHg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "featured_product_9VxXG7": {
@@ -150,7 +184,6 @@
         "variant_picker_b4fTtV",
         "buy_buttons_3HdhjW"
       ],
-      "name": "t:sections.featured-product.presets.featured_product.name",
       "settings": {
         "featured_product": "when-marriage-meets-reality-by-tammy-smith",
         "divider": false,
@@ -202,7 +235,6 @@
         "variant_picker_Hk4QjU",
         "buy_buttons_w3wqxf"
       ],
-      "name": "t:sections.featured-product.presets.featured_product.name",
       "settings": {
         "featured_product": "the-secure-soul-by-tammy-smith",
         "divider": false,
@@ -282,7 +314,6 @@
     },
     "text_and_image_CiqXYx": {
       "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-35.jpg",
         "image_mask": "none",
@@ -301,42 +332,6 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
-    },
-    "rich_text_3YxW93": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_WE7UDw": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_bEpwHg": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_WE7UDw",
-        "text_bEpwHg"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
     }
   },
   "order": [
@@ -344,12 +339,12 @@
     "advanced_content_RycVwR",
     "slideshow_an6j93",
     "rich_text_Q9F3Vx",
+    "rich_text_3YxW93",
     "featured_product_9VxXG7",
     "featured_product_c9rcEc",
     "text_and_image_w9dBmk",
     "text_and_image_jfU9Lt",
     "text_and_image_3YAWQj",
-    "text_and_image_CiqXYx",
-    "rich_text_3YxW93"
+    "text_and_image_CiqXYx"
   ]
 }
