@@ -9,44 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Birthday-Homepage-01_7a2b3064-c817-4081-9aa6-84c0a9041abe.png",
-            "image_mobile": "shopify://shop_images/Birthday-Homepage-03_492d0c05-12c3-4066-a38e-892c1eb28cdd.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "slideshow_AeLHDb": {
       "type": "slideshow",
       "blocks": {
@@ -74,6 +36,7 @@
       "block_order": [
         "image_XjU3R9"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -87,6 +50,7 @@
     },
     "hero_video_gU7cPr": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 50,
@@ -103,7 +67,7 @@
     },
     "featured_collection_EQ3k8q": {
       "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "disabled": true,
       "settings": {
         "title": "the hand painted collection",
         "home_featured_products": "the-hand-painted-collection",
@@ -124,14 +88,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/the-archive",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Birthday-Homepage-05_b9b28913-5e14-4342-8f2a-52fe6e7022ee.png",
-            "image_mobile": "shopify://shop_images/Birthday-Homepage-06_3fbe3be4-e10f-4fdb-92a7-1c7ab2e190ac.png",
+            "image": "shopify://shop_images/Birthday-Homepage-02_c953f6a0-9ba2-45ef-9088-bd55de205ff9.png",
+            "image_mobile": "shopify://shop_images/Birthday-Homepage-03_1fbe14b7-84c0-43aa-bffc-537f3b59a2a5.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -154,7 +118,7 @@
     },
     "featured_collection_TmCqTt": {
       "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "disabled": true,
       "settings": {
         "title": "the archive",
         "home_featured_products": "the-archive",
@@ -216,7 +180,7 @@
         "image_ci3cYn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Birthday-Homepage-09_537810e1-b257-49f9-8010-131d43e51198.png",
+            "image": "shopify://shop_images/Birthday-Homepage-01_0901247e-5b33-4dfe-b592-d16394fe3a9f.png",
             "link": "",
             "width": "25"
           }
@@ -252,13 +216,50 @@
         "image_LFw8iA",
         "image_G9dwHg"
       ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
         "gutter_size": 0,
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
+      }
+    },
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Birthday-Homepage-04_b112cf73-f1ef-4c23-b3ff-473dc8edcfb8.png",
+            "image_mobile": "shopify://shop_images/Birthday-Homepage-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "featured_collection_HPkeGD": {
@@ -500,7 +501,6 @@
         "button_Bz4DA7"
       ],
       "disabled": true,
-      "name": "t:sections.countdown.presets.countdown.name",
       "settings": {
         "layout": "banner",
         "full_width": true,
@@ -518,12 +518,12 @@
     "slideshow_AeLHDb",
     "hero_video_gU7cPr",
     "featured_collection_EQ3k8q",
-    "slideshow_atfAMR",
     "featured_collection_TmCqTt",
     "featured_collection_JDUqAJ",
+    "slideshow_atfAMR",
+    "featured_collection_HPkeGD",
     "promo_grid_cMUWra",
     "promo_grid_tVdjXe",
-    "featured_collection_HPkeGD",
     "slideshow_gW9EVE",
     "slideshow_gyMt8x",
     "17413753419f9a3db7",

@@ -47,17 +47,17 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "The Hand Painted Collection is LIVE",
-            "link_text": "A return to our roots with a fully hand painted collection from Katie - available now!",
-            "link": "shopify://collections/the-hand-painted-collection"
+            "text": " You’re a part of our donation initiative: Show Hope!",
+            "link_text": "This month, 10% of your order goes to show Hope to help fund adoption grants for five families ",
+            "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Don't miss the Hosanna Archive Collection!",
-            "link_text": "Retired tools from past collections available to shop for a limited time - available now!",
-            "link": "shopify://collections/the-archive"
+            "text": "Spread the Word and receive $10 off!",
+            "link_text": "Refer a friend today",
+            "link": "shopify://pages/spread-the-word"
           }
         },
         "announcement_FNqfy6": {
