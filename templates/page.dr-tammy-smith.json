@@ -70,7 +70,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#b1a057",
-        "color_text": "#e8e8e1",
+        "color_text": "#ffffff",
         "space_above": 24,
         "space_below": 21
       }
@@ -125,7 +125,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Whether you're seeking guidance in your marriage or identity, discover healing where biblical truth meets real-life struggle—through the wisdom of Scripture and the guidance of Dr. Tammy Smith. </p><p><em>Your marriage and your identity are a spiritual matter, it's time to consider that God has more for you.</em></p>",
+            "text": "<p>Whether you’re seeking guidance in your marriage or identity, discover hope where biblical truth meets real-life struggle—through the wisdom of Scripture and the guidance of Dr. Tammy Smith. </p><p><em>Your marriage and your identity are a spiritual matter, it's time to consider that God has more for you.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -280,7 +280,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#b1a057",
-        "color_text": "#f4f0d9",
+        "color_text": "#ffffff",
         "space_above": 23,
         "space_below": 22
       }
@@ -293,7 +293,7 @@
         "image2_mask": "none",
         "subtitle": "Learn more about",
         "title": "Dr. Tammy's Experience",
-        "text": "<p>Dr. Tammy Smith is a Licensed Professional Counselor, a National Certified Counselor, and holds a Ph.D. in Psychology. Her undergraduate and graduate studies were in counseling and Bible, fueling her passion for integrating faith and psychology. She works two days a week at her counseling practice, Threshold, and has been ministering to clients since 1993. With over 30 years of experience as both a counselor and a pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering hope through the truths of Christ.</p>",
+        "text": "<p>Dr. Tammy Smith is a Licensed Professional Counselor, a National Certified Counselor, and holds a Ph.D. in Psychology. Her undergraduate and graduate studies were in counseling and Bible, fueling her passion for integrating faith and psychology. With over 30 years of experience as both a counselor and a pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering hope through the truths of Christ.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -314,7 +314,7 @@
         "image2_mask": "none",
         "subtitle": "The marriage behind the book",
         "title": "About Tammy and Mike",
-        "text": "<p>“My marriage is a miracle. My husband and I once took personality tests that said of our two types, “the best day for these types is when their relationship ends.” That sentiment rings as true today as it did then. <br/></p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life - the curveballs, twists, turns and crushing valleys, it is a miracle - truly a miracle - that we have stayed the course.Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it.</p><p>And it’s a miracle.” </p><p>- Dr. Tammy Smith</p>",
+        "text": "<p>“My marriage is a miracle. My husband and I once took personality tests that said of our two types, 'the best day for these types is when their relationship ends.' That sentiment rings as true today as it did then. <br/></p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life - the curveballs, twists, turns and crushing valleys, it is a miracle, <em>truly a miracle, </em>that we have stayed the course.Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it.</p><p>And it’s a miracle.” </p><p>- Dr. Tammy Smith</p>",
         "button_label": "Preview Chapter 1 of When marriage meets reality",
         "button_link": "",
         "button_style": "primary",
