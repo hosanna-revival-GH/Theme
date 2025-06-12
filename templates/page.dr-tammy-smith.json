@@ -46,7 +46,7 @@
         "image_ncMFah": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
+            "top_subheading": "Preorder June 17 - July 14",
             "title": "Books by Dr. Tammy Smith",
             "title_size": 50,
             "subheading": "The Secure Soul & When Marriage Meets Reality",
@@ -77,89 +77,40 @@
         "disable_animation": false
       }
     },
-    "text_and_image_w9dBmk": {
-      "type": "text-and-image",
+    "rich_text_Q9F3Vx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bghEKA": {
+          "type": "heading",
+          "settings": {
+            "title": "Preorder today"
+          }
+        },
+        "text_mGrdMp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/>with early deliver plus 15% off your purchase!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_bghEKA",
+        "text_mGrdMp"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-81.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Introduce yourself to",
-        "title": "Dr. Tammy Smith",
-        "text": "<p>As a counselor for over thirty years, Dr. Tammy Smith has given herself to helping people live in the security, freedom, peace, and joy of Christ. She is also a popular conference speaker, worship leader, avid tennis player, mom, and “Grammy.” She and her husband, Pastor Mike Smith, love sneaking away to their cabin in the woods. </p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
+        "align_text": "center",
+        "narrow_column": true,
         "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_jfU9Lt": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-77.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Learn more about",
-        "title": "Dr. Tammy's Credibility",
-        "text": "<p>Dr. Tammy Smith is a Licensed Professional Counselor, a National Certified Counselor, and holds a Ph.D. in Psychology. Her undergraduate and graduate studies were in counseling and Bible, fueling her passion for integrating faith and psychology. She works two days a week at her counseling practice, Threshold, and has been ministering to clients since 1993. With over 30 years of experience as both a counselor and a pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering hope through the truths of Christ.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_3YAWQj": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-165.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The marriage behind the book",
-        "title": "About Tammy and Mike",
-        "text": "<p>“My marriage is a miracle. My husband and I once took personality tests that said of our two types, “the best day for these types is when their relationship ends.” That sentiment rings as true today as it did then. <br/></p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life - the curveballs, twists, turns and crushing valleys, it is a miracle - truly a miracle - that we have stayed the course.Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it.</p><p>And it’s a miracle.” </p><p>- Dr. Tammy Smith</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_CiqXYx": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-35.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The heart behind",
-        "title": "The Secure Soul",
-        "text": "<p>“I am confident that if Jesus hadn’t rescued me, I would have destroyed my life long ago. A child abandoned by her mother, searching for love in all the wrong places, and performing for whatever crumb of approval she might get, I was on a path that would have led to certain self-sabotage and destruction. When the Lord graciously grabbed hold of my heart, he gave me my true identity and purpose. I can honestly say that Not a day goes by that I don’t feel the pull to forfeit that security and seek my identity in the world and in what others say about me. Some days are better than others, but knowing I have a fortress of love and grace—my soul’s true home—gives me a peace and joy that the fleeting promises and pleasures of this world could never offer.”</p><p>- Dr. Tammy Smith</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#e8e8e1",
+        "space_above": 24,
+        "space_below": 21
       }
     },
     "featured_product_9VxXG7": {
@@ -265,17 +216,140 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
+    },
+    "text_and_image_w9dBmk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-81.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introduce yourself to",
+        "title": "Dr. Tammy Smith",
+        "text": "<p>As a counselor for over thirty years, Dr. Tammy Smith has given herself to helping people live in the security, freedom, peace, and joy of Christ. She is also a popular conference speaker, worship leader, avid tennis player, mom, and “Grammy.” She and her husband, Pastor Mike Smith, love sneaking away to their cabin in the woods. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jfU9Lt": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-77.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Learn more about",
+        "title": "Dr. Tammy's Credibility",
+        "text": "<p>Dr. Tammy Smith is a Licensed Professional Counselor, a National Certified Counselor, and holds a Ph.D. in Psychology. Her undergraduate and graduate studies were in counseling and Bible, fueling her passion for integrating faith and psychology. She works two days a week at her counseling practice, Threshold, and has been ministering to clients since 1993. With over 30 years of experience as both a counselor and a pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering hope through the truths of Christ.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_3YAWQj": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-165.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The marriage behind the book",
+        "title": "About Tammy and Mike",
+        "text": "<p>“My marriage is a miracle. My husband and I once took personality tests that said of our two types, “the best day for these types is when their relationship ends.” That sentiment rings as true today as it did then. <br/></p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life - the curveballs, twists, turns and crushing valleys, it is a miracle - truly a miracle - that we have stayed the course.Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it.</p><p>And it’s a miracle.” </p><p>- Dr. Tammy Smith</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_CiqXYx": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-35.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The heart behind",
+        "title": "The Secure Soul",
+        "text": "<p>“I am confident that if Jesus hadn’t rescued me, I would have destroyed my life long ago. A child abandoned by her mother, searching for love in all the wrong places, and performing for whatever crumb of approval she might get, I was on a path that would have led to certain self-sabotage and destruction. When the Lord graciously grabbed hold of my heart, he gave me my true identity and purpose. I can honestly say that Not a day goes by that I don’t feel the pull to forfeit that security and seek my identity in the world and in what others say about me. Some days are better than others, but knowing I have a fortress of love and grace—my soul’s true home—gives me a peace and joy that the fleeting promises and pleasures of this world could never offer.”</p><p>- Dr. Tammy Smith</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_3YxW93": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WE7UDw": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_bEpwHg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_WE7UDw",
+        "text_bEpwHg"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
     "slideshow_an6j93",
+    "rich_text_Q9F3Vx",
     "featured_product_9VxXG7",
     "featured_product_c9rcEc",
     "text_and_image_w9dBmk",
     "text_and_image_jfU9Lt",
     "text_and_image_3YAWQj",
-    "text_and_image_CiqXYx"
+    "text_and_image_CiqXYx",
+    "rich_text_3YxW93"
   ]
 }
