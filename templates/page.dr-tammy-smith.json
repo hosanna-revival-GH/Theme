@@ -40,6 +40,41 @@
         "lazyload_images": true
       }
     },
+    "rich_text_Q9F3Vx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bghEKA": {
+          "type": "heading",
+          "settings": {
+            "title": "Preorder today"
+          }
+        },
+        "text_mGrdMp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early deliver plus 15% off your purchase!</strong></em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_bghEKA",
+        "text_mGrdMp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#e8e8e1",
+        "space_above": 24,
+        "space_below": 21
+      }
+    },
     "slideshow_an6j93": {
       "type": "slideshow",
       "blocks": {
@@ -75,41 +110,6 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
-      }
-    },
-    "rich_text_Q9F3Vx": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_bghEKA": {
-          "type": "heading",
-          "settings": {
-            "title": "Preorder today"
-          }
-        },
-        "text_mGrdMp": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early deliver plus 15% off your purchase!</strong></em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_bghEKA",
-        "text_mGrdMp"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b1a057",
-        "color_text": "#e8e8e1",
-        "space_above": 24,
-        "space_below": 21
       }
     },
     "rich_text_3YxW93": {
@@ -403,8 +403,8 @@
   "order": [
     "main",
     "advanced_content_RycVwR",
-    "slideshow_an6j93",
     "rich_text_Q9F3Vx",
+    "slideshow_an6j93",
     "rich_text_3YxW93",
     "featured_product_9VxXG7",
     "featured_product_c9rcEc",
