@@ -17,6 +17,42 @@
         "page_content_enable": true
       }
     },
+    "rich_text_Xkfy8z": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PJRE9t": {
+          "type": "heading",
+          "settings": {
+            "title": "Preorder June 17 - July 14"
+          }
+        },
+        "text_wUUjpW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_PJRE9t",
+        "text_wUUjpW"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "slideshow_kM3PF6": {
       "type": "slideshow",
       "blocks": {
@@ -611,6 +647,7 @@
   },
   "order": [
     "main",
+    "rich_text_Xkfy8z",
     "slideshow_kM3PF6",
     "rich_text_CXtkw9",
     "1743004079ff29764c",
