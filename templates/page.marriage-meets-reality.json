@@ -505,7 +505,7 @@
         "heading_mqtw6M": {
           "type": "heading",
           "settings": {
-            "title": "A prayer for a struggling marriage"
+            "title": "A prayer to protect marriage"
           }
         },
         "text_4UN8Gr": {
@@ -521,7 +521,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Father, I know you are good, but when times are this tough between us, it is hard to hold on to that. Please come near in palpable ways, guide us when we don’t know where to turn, and give breakthrough as only you can. Please help me to choose my spouse despite the brokenness, just like you choose me in mine. Please Lord give us gratitude when all we see is grief. You are the God of this marriage and I entrust it to you once again.</p>",
+            "text": "<h2></h2><p>Lord, thank you that our marriage is sheltered by your grace and mercy. In your enveloping love, please protect us from believing the worst of the other on the bad days and fill our hearts with gratitude on the good days. Help us be wise about the schemes of hell to disrupt and divide the true unity we have in you. </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -550,8 +550,8 @@
         "css-class": "",
         "color_bg": "#769180",
         "color_text": "#f5f0e6",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 30,
+        "space_below": 40
       }
     },
     "text_and_image_WGta8f": {
