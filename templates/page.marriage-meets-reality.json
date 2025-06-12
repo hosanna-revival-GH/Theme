@@ -17,6 +17,42 @@
         "page_content_enable": true
       }
     },
+    "rich_text_jNPwEq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7Tr8GE": {
+          "type": "heading",
+          "settings": {
+            "title": "Preorder today"
+          }
+        },
+        "text_83TYPK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early deliver plus 15% off your purchase!</strong></em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_7Tr8GE",
+        "text_83TYPK"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#769180",
+        "color_text": "#e8e8e1",
+        "space_above": 20,
+        "space_below": 25
+      }
+    },
     "slideshow_kM3PF6": {
       "type": "slideshow",
       "blocks": {
@@ -28,7 +64,7 @@
             "title_size": 40,
             "subheading": "An Everyday Toolkit for a Christ-Centered Marriage",
             "link": "",
-            "link_text": "",
+            "link_text": "Download chapter 1 preview",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -71,7 +107,6 @@
       "block_order": [
         "text_bwrYnr"
       ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -640,6 +675,7 @@
   },
   "order": [
     "main",
+    "rich_text_jNPwEq",
     "slideshow_kM3PF6",
     "rich_text_dfM7JC",
     "rich_text_CXtkw9",
