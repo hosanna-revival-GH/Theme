@@ -17,9 +17,14 @@
       padding-bottom:0;
     }
     {% endunless %}
+  {% if section.settings.background_color != blank %}
   body#what-39-s-new #MainContent {
     background: {{ section.settings.background_color }};
-}
+  }
+  #MainContent {
+    background: {{ section.settings.background_color }};
+  }
+  {% endif %}
 {% endstyle %}
 {% schema %}
 {
