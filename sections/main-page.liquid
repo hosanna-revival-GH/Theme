@@ -17,6 +17,9 @@
       padding-bottom:0;
     }
     {% endunless %}
+  body#what-39-s-new #MainContent {
+    background: {{ section.settings.background_color }};
+}
 {% endstyle %}
 {% schema %}
 {
@@ -35,6 +38,11 @@
       "label": "Content Enable",
       "default": false
     },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background Color"
+    } 
    ]
 }
 {% endschema %}
