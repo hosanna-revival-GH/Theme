@@ -648,6 +648,50 @@
         "disable_animation": false
       }
     },
+    "rich_text_hYNHYq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TMYGfU": {
+          "type": "heading",
+          "settings": {
+            "title": "Loving this? You Might Also Love “The Secure Soul”"
+          }
+        },
+        "text_AWTmHk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Explore Tammy’s book <em>The Secure Soul</em> on the topic of identity. Be invited to allow insecurity to fade as you develop the tools to build a life upon the reality that identity is found, cultivated, and fulfilled in Jesus.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_iNmaPE": {
+          "type": "button",
+          "settings": {
+            "link": "https://hosannarevival.com/products/when-marriage-meets-reality-by-tammy-smith",
+            "link_text": "Learn More"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TMYGfU",
+        "text_AWTmHk",
+        "button_iNmaPE"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#769180",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "single_button_dwk6Cy": {
       "type": "single-button",
       "settings": {
@@ -697,6 +741,7 @@
     "text_and_image_WGta8f",
     "single_button_3gmwY3",
     "slideshow_NEtP87",
+    "rich_text_hYNHYq",
     "single_button_dwk6Cy",
     "featured_collection_wb8PnE"
   ]
