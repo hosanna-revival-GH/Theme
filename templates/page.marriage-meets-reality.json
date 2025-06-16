@@ -414,7 +414,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Preorder today",
-        "button_link": "",
+        "button_link": "https://hosannarevival.com/products/when-marriage-meets-reality-by-tammy-smith",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -669,7 +669,7 @@
         "button_iNmaPE": {
           "type": "button",
           "settings": {
-            "link": "https://hosannarevival.com/products/when-marriage-meets-reality-by-tammy-smith",
+            "link": "https://hosannarevival.com/products/the-secure-soul-by-tammy-smith",
             "link_text": "Learn More"
           }
         }
