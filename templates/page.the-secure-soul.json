@@ -131,7 +131,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#abba87",
+        "color_bg": "#b1a057",
         "color_text": "#ffffff",
         "space_above": 32,
         "space_below": 32
@@ -157,6 +157,35 @@
       "settings": {
         "full_width": true,
         "space_around": false
+      }
+    },
+    "rich_text_G6xWAg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_fiE8GH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Are you chasing validation from the world and wondering why you still feel so broken inside? Have you handed your worth over to things that always leave you feeling not enough? Do you feel like no matter how hard you try, you can’t rid yourself of constant comparison?</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_fiE8GH"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#abba87",
+        "color_text": "#ffffff",
+        "space_above": 60,
+        "space_below": 60
       }
     },
     "rich_text_tBwpF8": {
@@ -696,6 +725,7 @@
     "slideshow_kM3PF6",
     "rich_text_Xkfy8z",
     "1743004079ff29764c",
+    "rich_text_G6xWAg",
     "rich_text_tBwpF8",
     "featured_product_8bYpPg",
     "rich_text_WnrikR",
