@@ -14,81 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
-      }
-    },
-    "rich_text_Xkfy8z": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_PJRE9t": {
-          "type": "heading",
-          "settings": {
-            "title": "Preorder Today"
-          }
-        },
-        "text_wUUjpW": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early delivery plus 15% off your purchase!</strong></em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_PJRE9t",
-        "text_wUUjpW"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#abba87",
-        "color_text": "#ffffff",
-        "space_above": 15,
-        "space_below": 15
-      }
-    },
-    "slideshow_kM3PF6": {
-      "type": "slideshow",
-      "blocks": {
-        "image_NjgGKA": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "The Secure Soul:\n An Identity Anchored in Christ",
-            "title_size": 40,
-            "subheading": "Are you chasing validation from the world and wondering why you still feel so broken inside?",
-            "link": "",
-            "link_text": "Download Chapter 1 preview",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_NjgGKA"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "rich_text_CXtkw9": {
@@ -134,6 +61,80 @@
         "color_text": "#eae4dc",
         "space_above": 35,
         "space_below": 35
+      }
+    },
+    "slideshow_kM3PF6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_NjgGKA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "The Secure Soul:\n An Identity Anchored in Christ",
+            "title_size": 40,
+            "subheading": "Are you chasing validation from the world and wondering why you still feel so broken inside?",
+            "link": "http://hosannarevival.com/TSS-Preview",
+            "link_text": "Download Chapter 1 Preview",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
+            "image_mobile": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_NjgGKA"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "rich_text_Xkfy8z": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PJRE9t": {
+          "type": "heading",
+          "settings": {
+            "title": "Preorder the Book Today"
+          }
+        },
+        "text_wUUjpW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read </em><em><strong>with</strong></em><em> </em><em><strong>early delivery plus 15% off each copy!</strong></em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_PJRE9t",
+        "text_wUUjpW"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#abba87",
+        "color_text": "#ffffff",
+        "space_above": 32,
+        "space_below": 32
       }
     },
     "1743004079ff29764c": {
@@ -293,8 +294,8 @@
     "single_button_CRBEBN": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preview Chapter one",
-        "button_link": "https://hosannarevival.com/just-preview",
+        "button_text": "Preview Chapter One",
+        "button_link": "http://hosannarevival.com/TSS-Preview",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -326,8 +327,8 @@
         "subtitle": "",
         "title": "This Devotional is for you if...",
         "text": "<ul><li>You want to align your soul and identity with God's truth about who you are.</li><li>You desire to live freely in the reality that you are a unique expression of how God wants to reveal himself to a broken world.</li><li>You're looking to live in complete security in Christ.</li></ul>",
-        "button_label": "Download the chapter 1 preview",
-        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+        "button_label": "Download the Chapter 1 Preview",
+        "button_link": "http://hosannarevival.com/TSS-Preview",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -347,8 +348,8 @@
         "subtitle": "The Details",
         "title": "The Secure Soul",
         "text": "<p><strong>Topic:</strong> Finding your true security & unshakable identity in Christ<br/><strong>Length of Study:</strong> 6 chapters<br/><strong>Focal Scripture:</strong> Multiple passages</p><p>“It’s time to live like God delights in us. Because He does. It’s time to live like we have every affection our hearts long for. Because we do. It’s time to live like someone’s favorite. Because we are. It’s time to live utterly loved.”<br/><em>- Dr. Tammy Smith, author</em></p>",
-        "button_label": "download the chapter 1 preview",
-        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+        "button_label": "Download the Chapter 1 Preview",
+        "button_link": "http://hosannarevival.com/TSS-Preview",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -384,8 +385,8 @@
     "single_button_3BJJYV": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preorder today",
-        "button_link": "",
+        "button_text": "Preorder Today",
+        "button_link": "https://hosannarevival.com/products/the-secure-soul-by-tammy-smith",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -526,17 +527,17 @@
         "space_below": 75
       }
     },
-    "text_and_image_WGta8f": {
+    "text_and_image_TnnR6t": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-35.jpg",
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-32_1.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
-        "title": "Dr. Tammy Smith",
-        "text": "<p>With over 30 years of experience as a counselor and pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering help through the truths of Christ to all people. In<em> The Secure Soul</em>, she combines her decades of expertise with God’s heart for deeply rooted identity, gently guiding readers toward a new level of lasting security in both heart and mind.</p>",
-        "button_label": "Learn more about Tammy here",
-        "button_link": "",
+        "title": "Tammy’s Story",
+        "text": "<p>I am confident that if Jesus hadn’t rescued me, I would have destroyed my life long ago. A child abandoned by her mother, searching for love in all the wrong places, and performing for whatever crumb of approval she might get, I was on a path that would have led to certain self-sabotage and destruction. When the Lord graciously grabbed hold of my heart, he gave me my true identity and purpose. I can honestly say that Not a day goes by that I don’t feel the pull to forfeit that security and seek my identity in the world and in what others say about me. Some days are better than others, but knowing I have a fortress of love and grace—my soul’s true home—gives me a peace and joy that the fleeting promises and pleasures of this world could never offer.</p>",
+        "button_label": "",
+        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -547,17 +548,17 @@
         "lazyload_images": true
       }
     },
-    "text_and_image_TnnR6t": {
+    "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-32_1.jpg",
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-35.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
-        "title": "Tammy's Story",
-        "text": "<p>I am confident that if Jesus hadn’t rescued me, I would have destroyed my life long ago. A child abandoned by her mother, searching for love in all the wrong places, and performing for whatever crumb of approval she might get, I was on a path that would have led to certain self-sabotage and destruction. When the Lord graciously grabbed hold of my heart, he gave me my true identity and purpose. I can honestly say that Not a day goes by that I don’t feel the pull to forfeit that security and seek my identity in the world and in what others say about me. Some days are better than others, but knowing I have a fortress of love and grace—my soul’s true home—gives me a peace and joy that the fleeting promises and pleasures of this world could never offer.</p>",
-        "button_label": "",
-        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+        "title": "Dr. Tammy Smith",
+        "text": "<p>With over 30 years of experience as a counselor and pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering help through the truths of Christ to all people. In<em> The Secure Soul</em>, she combines her decades of expertise with God’s heart for deeply rooted identity, gently guiding readers toward a new level of lasting security in both heart and mind.</p>",
+        "button_label": "More About Tammy",
+        "button_link": "https://drtammysmith.com/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -647,9 +648,9 @@
   },
   "order": [
     "main",
-    "rich_text_Xkfy8z",
-    "slideshow_kM3PF6",
     "rich_text_CXtkw9",
+    "slideshow_kM3PF6",
+    "rich_text_Xkfy8z",
     "1743004079ff29764c",
     "rich_text_tBwpF8",
     "featured_product_8bYpPg",
@@ -663,8 +664,8 @@
     "slideshow_UC7cyw",
     "slideshow_LzQNT7",
     "rich_text_hjcJjW",
-    "text_and_image_WGta8f",
     "text_and_image_TnnR6t",
+    "text_and_image_WGta8f",
     "single_button_3gmwY3",
     "slideshow_NEtP87",
     "single_button_dwk6Cy",
