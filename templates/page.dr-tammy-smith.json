@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "advanced_content_RycVwR": {
@@ -40,41 +41,6 @@
         "lazyload_images": true
       }
     },
-    "rich_text_Q9F3Vx": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_bghEKA": {
-          "type": "heading",
-          "settings": {
-            "title": "Preorder today"
-          }
-        },
-        "text_mGrdMp": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early delivery plus 15% off your purchase!</strong></em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_bghEKA",
-        "text_mGrdMp"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b1a057",
-        "color_text": "#ffffff",
-        "space_above": 24,
-        "space_below": 21
-      }
-    },
     "slideshow_an6j93": {
       "type": "slideshow",
       "blocks": {
@@ -85,7 +51,7 @@
             "title": "Sit in the counselor’s chair",
             "title_size": 50,
             "subheading": "The Secure Soul & When Marriage Meets Reality",
-            "link": "",
+            "link": "shopify://collections/devotionals",
             "link_text": "Preorder June 17 - July 14",
             "link_2": "",
             "link_text_2": "",
@@ -112,6 +78,41 @@
         "disable_animation": false
       }
     },
+    "rich_text_Q9F3Vx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bghEKA": {
+          "type": "heading",
+          "settings": {
+            "title": "Preorder Two New Books Today"
+          }
+        },
+        "text_mGrdMp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early delivery plus 15% off each copy!</strong></em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_bghEKA",
+        "text_mGrdMp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#ffffff",
+        "space_above": 24,
+        "space_below": 21
+      }
+    },
     "rich_text_3YxW93": {
       "type": "rich-text",
       "blocks": {
@@ -125,7 +126,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Whether you’re seeking guidance in your marriage or identity, discover hope where biblical truth meets real-life struggle—through the wisdom of Scripture and the guidance of Dr. Tammy Smith. </p><p><em>Your marriage and your identity are a spiritual matter, it's time to consider that God has more for you.</em></p>",
+            "text": "<p>Whether you’re seeking guidance in your marriage or identity, explore our two new books where where biblical truth meets real-life struggle—filled with the wisdom of Scripture and the guidance of licensed counselor Dr. Tammy Smith. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -262,7 +263,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>With over 30 years of experience as a counselor and pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering help through the truths of Christ to all people. </p>",
+            "text": "<p>With over 30 years of experience as a counselor and pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering help through and offering help through integrating psychology and the truth of Christ to all people. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -285,25 +286,50 @@
         "space_below": 22
       }
     },
-    "text_and_image_jfU9Lt": {
-      "type": "text-and-image",
+    "rich_text_QHCJaC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QMNwWr": {
+          "type": "heading",
+          "settings": {
+            "title": "The Marriage Behind the Book"
+          }
+        },
+        "text_dGLHzM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>About Tammy and Mike</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_RhFi4F": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>“My marriage is a miracle. My husband and I once took personality tests that said of our two types, ‘the best day for these types is when their relationship ends.’ That sentiment rings as true today as it did then. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_QMNwWr",
+        "text_dGLHzM",
+        "text_RhFi4F"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-81.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Learn more about",
-        "title": "Dr. Tammy's Experience",
-        "text": "<p>Dr. Tammy Smith is a Licensed Professional Counselor, a National Certified Counselor, and holds a Ph.D. in Psychology. Her undergraduate and graduate studies were in counseling and Bible, fueling her passion for integrating faith and psychology. With over 30 years of experience as both a counselor and a pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering hope through the truths of Christ.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
+        "align_text": "center",
+        "narrow_column": true,
         "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
       }
     },
     "text_and_image_3YAWQj": {
@@ -312,11 +338,11 @@
         "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-165.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "The marriage behind the book",
-        "title": "About Tammy and Mike",
-        "text": "<p>“My marriage is a miracle. My husband and I once took personality tests that said of our two types, 'the best day for these types is when their relationship ends.' That sentiment rings as true today as it did then. <br/></p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life - the curveballs, twists, turns and crushing valleys, it is a miracle, <em>truly a miracle, </em>that we have stayed the course.Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it.</p><p>And it’s a miracle.” </p><p>- Dr. Tammy Smith</p>",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>“Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life—the curveballs, twists, turns and crushing valleys—it is a miracle (<em>truly a miracle!</em>) that we have stayed the course. Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it. And it’s a miracle.” </p>",
         "button_label": "Preview Chapter 1 of When marriage meets reality",
-        "button_link": "",
+        "button_link": "http://hosannarevival.com/WMMR-Preview",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -335,13 +361,34 @@
         "image2_mask": "none",
         "subtitle": "The heart behind",
         "title": "The Secure Soul",
-        "text": "<p>“I am confident that if Jesus hadn’t rescued me, I would have destroyed my life long ago. A child abandoned by her mother, searching for love in all the wrong places, and performing for whatever crumb of approval she might get, I was on a path that would have led to certain self-sabotage and destruction. When the Lord graciously grabbed hold of my heart, he gave me my true identity and purpose. I can honestly say that not a day goes by that I don’t feel the pull to forfeit that security and seek my identity in the world and in what others say about me. Some days are better than others, but knowing I have a fortress of love and grace—my soul’s true home—gives me a peace and joy that the fleeting promises and pleasures of this world could never offer.”</p><p>- Dr. Tammy Smith</p>",
+        "text": "<p>“I am confident that if Jesus hadn’t rescued me, I would have destroyed my life long ago. A child abandoned by her mother, searching for love in all the wrong places, and performing for whatever crumb of approval she might get, I was on a path that would have led to certain self-sabotage and destruction. When the Lord graciously grabbed hold of my heart, he gave me my true identity and purpose. I can honestly say that not a day goes by that I don’t feel the pull to forfeit that security and seek my identity in the world and in what others say about me. Some days are better than others, but knowing I have a fortress of love and grace—my soul’s true home—gives me a peace and joy that the fleeting promises and pleasures of this world could never offer.”</p>",
         "button_label": "Preview Chapter 1 of The Secure soul",
-        "button_link": "",
+        "button_link": "http://hosannarevival.com/TSS-Preview",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
         "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jfU9Lt": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-76.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Learn more about",
+        "title": "Dr. Tammy’s Experience",
+        "text": "<p>Dr. Tammy Smith is a Licensed Professional Counselor, a National Certified Counselor, and holds a Ph.D. in Psychology. Her undergraduate and graduate studies were in counseling and Bible, fueling her passion for integrating faith and psychology. With over 30 years of experience as both a counselor and a pastor’s wife, Dr. Tammy Smith has dedicated her life to pursuing deep spiritual health and offering hope through the truths of Christ.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -357,7 +404,7 @@
             "top_subheading": "",
             "title": "",
             "title_size": 80,
-            "subheading": "“It’s time to live like God delights in us. Because He does. It’s time to live like we have every affection our hearts long for. Because we do. It’s time to live like someone’s favorite. Because we are. It’s time to live utterly loved.” - Dr. Tammy Smith",
+            "subheading": "“It’s time to live like God delights in us. Because he does. It’s time to live like we have every affection our hearts long for. Because we do. It’s time to live like someone’s favorite. Because we are. It’s time to live utterly loved.” - Dr. Tammy Smith",
             "link": "",
             "link_text": "",
             "link_2": "",
@@ -403,15 +450,16 @@
   "order": [
     "main",
     "advanced_content_RycVwR",
-    "rich_text_Q9F3Vx",
     "slideshow_an6j93",
+    "rich_text_Q9F3Vx",
     "rich_text_3YxW93",
     "featured_product_9VxXG7",
     "featured_product_c9rcEc",
     "rich_text_RmApxY",
-    "text_and_image_jfU9Lt",
+    "rich_text_QHCJaC",
     "text_and_image_3YAWQj",
     "text_and_image_CiqXYx",
+    "text_and_image_jfU9Lt",
     "slideshow_eik9Uf",
     "featured_collection_7RFNnr"
   ]
