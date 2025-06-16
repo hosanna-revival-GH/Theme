@@ -18,42 +18,6 @@
         "background_color": ""
       }
     },
-    "rich_text_jNPwEq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_7Tr8GE": {
-          "type": "heading",
-          "settings": {
-            "title": "Preorder today"
-          }
-        },
-        "text_83TYPK": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read <br/></em><em><strong>with</strong></em><em> </em><em><strong>early delivery plus 15% off your purchase!</strong></em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_7Tr8GE",
-        "text_83TYPK"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b1a057",
-        "color_text": "#e8e8e1",
-        "space_above": 20,
-        "space_below": 25
-      }
-    },
     "slideshow_kM3PF6": {
       "type": "slideshow",
       "blocks": {
@@ -64,8 +28,8 @@
             "title": "When Marriage Meets Reality:",
             "title_size": 40,
             "subheading": "An Everyday Toolkit for a Christ-Centered Marriage",
-            "link": "",
-            "link_text": "Download chapter 1 preview",
+            "link": "http://hosannarevival.com/WMMR-Preview",
+            "link_text": "Download Chapter 1 Preview",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -90,6 +54,42 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "rich_text_jNPwEq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7Tr8GE": {
+          "type": "heading",
+          "settings": {
+            "title": "Preorder the Book Today"
+          }
+        },
+        "text_83TYPK": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Preorder between June 17 - July 14 and be among the first to read </em><em><strong>with</strong></em><em> </em><em><strong>front-of-the-line delivery plus 15% off each copy!</strong></em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_7Tr8GE",
+        "text_83TYPK"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#e8e8e1",
+        "space_above": 20,
+        "space_below": 25
       }
     },
     "rich_text_dfM7JC": {
@@ -193,14 +193,14 @@
         "heading_hNHcBY": {
           "type": "heading",
           "settings": {
-            "title": "When Marriage meets Reality: An Everyday toolkit for a christ-centered marriage"
+            "title": "When Marriage meets Reality: An Everyday Toolkit for a Christ-Centered Marriage"
           }
         },
         "text_9KyJ8h": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>When Marriage Meets Reality </em>unpacks harmful beliefs about marriage, inviting you to release unrealistic expectations and fall in love with the marriage you have.</p>",
+            "text": "<p><em>When Marriage Meets Reality </em>invites you to release unrealistic expectations about marriage and fall in love with the marriage you have.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -323,7 +323,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Preview Chapter one",
-        "button_link": "https://hosannarevival.com/just-preview",
+        "button_link": "http://hosannarevival.com/WMMR-Preview",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -354,7 +354,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "This Devotional is for you if...",
-        "text": "<ul><li>You're seeking to replace your wordly perspective of marriage for one rooted in Christ.</li><li>You desire to adjust your perspective of marriage, allowing for true Christlike intimacy with your spouse.</li><li>you want to tend to your marriage before the challenges of life feel too much to handle.</li></ul>",
+        "text": "<ul><li>You’re seeking to replace your worldly perspective of marriage for one rooted in Christ.</li><li>You desire to adjust your perspective of marriage, allowing for true Christlike intimacy with your spouse.</li><li>You want to tend to your marriage before the challenges of life feel too much to handle.</li></ul>",
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
@@ -374,8 +374,8 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Details",
-        "title": "When Marriage Meets Realirt",
-        "text": "<p><strong>Topic:</strong> Navigating authentic Christ-filled marriage<br/><strong>Length of Study:</strong> 10 chapters</p><p>“Perhaps the reason your marriage is so challenging is because he or she is a spouse, not a savior.” <br/><em>- Dr. Tammy Smith, author</em></p>",
+        "title": "When Marriage Meets Reality",
+        "text": "<p><strong>Topic:</strong> Marriage<br/><strong>Length of Study:</strong> 10 chapters</p><p>“Perhaps the reason your marriage is so challenging is because he or she is a spouse, not a savior.” <br/><em>- Dr. Tammy Smith, author</em></p>",
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
@@ -506,7 +506,7 @@
         "heading_mqtw6M": {
           "type": "heading",
           "settings": {
-            "title": "A prayer to protect marriage"
+            "title": "A Prayer to Protect Your Marriage"
           }
         },
         "text_4UN8Gr": {
@@ -555,17 +555,17 @@
         "space_below": 40
       }
     },
-    "text_and_image_WGta8f": {
+    "text_and_image_TnnR6t": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-38.jpg",
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-152.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
-        "title": "Dr. Tammy Smith",
-        "text": "<p>With more than 30 years of experience as a counselor and pastor’s wife, Dr. Tammy Smith has spent her life pursuing deep spiritual health and helps through the truths of Christ for all people. In<em> When Marriage Meets Reality</em>, she combines years of expertise along with God’s heart for transformative sacrificial love to gently guide readers to a new level of real hope in their relationships.</p>",
-        "button_label": "Learn more about Tammy here",
-        "button_link": "",
+        "title": "Tammy’s Story",
+        "text": "<p>My marriage is a miracle. My husband and I once took personality tests that said of our two types, “the best day for these types is when their relationship ends.” That sentiment rings as true today as it did then. </p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life—the curveballs, twists, turns and crushing valleys—it is a miracle (<em>truly a miracle!</em>) that we have stayed the course. Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it. And it’s a miracle.</p>",
+        "button_label": "",
+        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -576,17 +576,17 @@
         "lazyload_images": true
       }
     },
-    "text_and_image_TnnR6t": {
+    "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-152.jpg",
+        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-38.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
-        "title": "Tammy's Story",
-        "text": "<p>My marriage is a miracle. My husband and I once took personality tests that said of our two types, “the best day for these types is when their relationship ends.” That sentiment rings as true today as it did then. </p><p>Mike and I have extremely different personalities, emphasis on <em>extremel</em>y. Combined with the difficulties of life - the curveballs, twists, turns and crushing valleys, it is a miracle - truly a miracle - that we have stayed the course.Through the times where I felt hopelessly trapped in a mismatched marriage, the years-in-a-row where we assumed anything but the best about each other, the intimacy struggles and sleep-on-the-couch nights, Jesus has shown us that staying the course, even if holding on by a very thin thread to marital vows, continuing to try and believe in faith year after year…it’s all worth it.</p><p>And it’s a miracle.</p>",
-        "button_label": "",
-        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+        "title": "Dr. Tammy Smith",
+        "text": "<p>With more than 30 years of experience as a counselor and pastor’s wife, Dr. Tammy Smith has spent her life pursuing deep spiritual health and helps through the truths of Christ for all people. In<em> When Marriage Meets Reality</em>, she combines years of expertise along with God’s heart for transformative sacrificial love to gently guide readers to a new level of real hope in their relationships.</p>",
+        "button_label": "Learn more about Tammy here",
+        "button_link": "https://drtammysmith.com/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -622,7 +622,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "",
-            "link_text": "shop When Marriage Meets Reality: An Everyday Toolkit for a christ-centered marriage",
+            "link_text": "Preorder Now",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -676,8 +676,8 @@
   },
   "order": [
     "main",
-    "rich_text_jNPwEq",
     "slideshow_kM3PF6",
+    "rich_text_jNPwEq",
     "rich_text_dfM7JC",
     "rich_text_CXtkw9",
     "1743004079ff29764c",
@@ -693,8 +693,8 @@
     "slideshow_UC7cyw",
     "slideshow_LzQNT7",
     "rich_text_hjcJjW",
-    "text_and_image_WGta8f",
     "text_and_image_TnnR6t",
+    "text_and_image_WGta8f",
     "single_button_3gmwY3",
     "slideshow_NEtP87",
     "single_button_dwk6Cy",
