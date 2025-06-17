@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_jcqhbB": {
@@ -116,7 +117,7 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
-        "layout": "right",
+        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
