@@ -63,16 +63,16 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": " You’re a part of our donation initiative: Show Hope!",
-            "link_text": "This month, 10% of your order goes to show Hope to help fund adoption grants for five families ",
+            "text": " You’re a part of our donation initiative",
+            "link_text": "10% of your order goes to show Hope to help fund adoption grants for five families ",
             "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Pre-order new 2 books from Dr. Tammy Smith Ph.D",
-            "link_text": "Whether you’re seeking guidance in your marriage or identity, preorder our new books where where biblical truth meets real-life struggle",
+            "text": "Pre-order 2 new books from Dr. Tammy Smith Ph.D",
+            "link_text": "Whether you’re seeking guidance in your marriage or identity",
             "link": "shopify://pages/dr-tammy-smith"
           }
         }
