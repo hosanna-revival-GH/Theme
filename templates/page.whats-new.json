@@ -15,7 +15,8 @@
       "custom_css": [],
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_xWCjYr": {
@@ -59,10 +60,22 @@
     },
     "single_button_3L6q9A": {
       "type": "single-button",
-      "disabled": true,
       "settings": {
-        "button_text": "shop bumped and bruised",
-        "button_link": "shopify://collections/bumped-bruised",
+        "button_text": "Pre-Order When Marriage meets reality",
+        "button_link": "shopify://pages/when-marriage-meets-reality",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#b5a04a",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "single_button_eFchhW": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "pre-order the secure soul",
+        "button_link": "shopify://pages/the-secure-soul",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -121,20 +134,6 @@
         "space_above": 30,
         "space_below": 20,
         "link_color_background": "#b5a04a",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_eFchhW": {
-      "type": "single-button",
-      "disabled": true,
-      "settings": {
-        "button_text": "2025 PLANNERS",
-        "button_link": "shopify://collections/planners",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#9ba586",
         "link_color_text": "#ffffff"
       }
     },
@@ -221,11 +220,11 @@
     "main",
     "slideshow_xWCjYr",
     "single_button_3L6q9A",
+    "single_button_eFchhW",
     "single_button_JD887j",
     "single_button_gX7jmw",
     "single_button_GryJY9",
     "single_button_KDXcyH",
-    "single_button_eFchhW",
     "single_button_RAWt9g",
     "single_button_WA3rcU",
     "single_button_N8Brir",
