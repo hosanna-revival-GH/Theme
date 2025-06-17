@@ -621,7 +621,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "",
+            "link": "shopify://products/when-marriage-meets-reality-by-tammy-smith",
             "link_text": "Preorder Now",
             "link_2": "",
             "link_text_2": "",
@@ -669,7 +669,7 @@
         "button_iNmaPE": {
           "type": "button",
           "settings": {
-            "link": "https://hosannarevival.com/products/the-secure-soul-by-tammy-smith",
+            "link": "shopify://pages/the-secure-soul",
             "link_text": "Learn More"
           }
         }
