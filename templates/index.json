@@ -9,6 +9,44 @@
  */
 {
   "sections": {
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Birthday-Homepage-04_b112cf73-f1ef-4c23-b3ff-473dc8edcfb8.png",
+            "image_mobile": "shopify://shop_images/Birthday-Homepage-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "slideshow_AeLHDb": {
       "type": "slideshow",
       "blocks": {
@@ -78,6 +116,32 @@
         "divider": false
       }
     },
+    "featured_collection_TmCqTt": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "the archive",
+        "home_featured_products": "the-archive",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_JDUqAJ": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "beautiful bibles",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_atfAMR": {
       "type": "slideshow",
       "blocks": {
@@ -116,22 +180,8 @@
         "disable_animation": false
       }
     },
-    "featured_collection_TmCqTt": {
+    "featured_collection_HPkeGD": {
       "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "the archive",
-        "home_featured_products": "the-archive",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_JDUqAJ": {
-      "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "beautiful bibles",
         "home_featured_products": "beautiful-bibles",
@@ -181,7 +231,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Birthday-Homepage-01_0901247e-5b33-4dfe-b592-d16394fe3a9f.png",
-            "link": "",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "25"
           }
         },
@@ -189,7 +239,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Birthday-Homepage-010_fe4f09e4-e99a-44c6-b718-20681ed3ad2f.png",
-            "link": "",
+            "link": "shopify://collections/devotionals",
             "width": "25"
           }
         },
@@ -197,7 +247,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Birthday-Homepage-011_173599aa-514c-40b9-86f0-86c69d35bd33.png",
-            "link": "",
+            "link": "shopify://pages/your-one-thing-i-ask-journal",
             "width": "25"
           }
         },
@@ -205,7 +255,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Birthday-Homepage-012.png",
-            "link": "",
+            "link": "shopify://collections/notebooks",
             "width": "25"
           }
         }
@@ -222,56 +272,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Birthday-Homepage-04_b112cf73-f1ef-4c23-b3ff-473dc8edcfb8.png",
-            "image_mobile": "shopify://shop_images/Birthday-Homepage-02.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "featured_collection_HPkeGD": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "beautiful bibles",
-        "home_featured_products": "beautiful-bibles",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_gW9EVE": {
