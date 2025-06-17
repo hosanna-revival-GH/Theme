@@ -52,6 +52,14 @@
             "link": "shopify://pages/spread-the-word"
           }
         },
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Pre-order 2 new books from Dr. Tammy Smith Ph.D",
+            "link_text": "Whether you’re seeking guidance in your marriage or identity",
+            "link": "shopify://pages/dr-tammy-smith"
+          }
+        },
         "announcement-1": {
           "type": "announcement",
           "settings": {
@@ -67,21 +75,13 @@
             "link_text": "10% of your order goes to show Hope to help fund adoption grants",
             "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
           }
-        },
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Pre-order 2 new books from Dr. Tammy Smith Ph.D",
-            "link_text": "Whether you’re seeking guidance in your marriage or identity",
-            "link": "shopify://pages/dr-tammy-smith"
-          }
         }
       },
       "block_order": [
         "announcement_FNqfy6",
+        "announcement_mMUAeX",
         "announcement-1",
-        "announcement_NXQKWa",
-        "announcement_mMUAeX"
+        "announcement_NXQKWa"
       ],
       "settings": {
         "announcement_compact": true
