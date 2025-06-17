@@ -64,7 +64,7 @@
           "type": "announcement",
           "settings": {
             "text": " You’re a part of our donation initiative",
-            "link_text": "10% of your order goes to show Hope to help fund adoption grants for five families ",
+            "link_text": "10% of your order goes to show Hope to help fund adoption grants",
             "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
           }
         },
