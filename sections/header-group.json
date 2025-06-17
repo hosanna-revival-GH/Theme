@@ -71,9 +71,9 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Spread the Word and receive $10 off!",
-            "link_text": "Refer a friend today",
-            "link": "shopify://pages/spread-the-word"
+            "text": "Pre-order",
+            "link_text": "two books from Dr. Tammy Smith Ph",
+            "link": "shopify://pages/dr-tammy-smith"
           }
         }
       },
