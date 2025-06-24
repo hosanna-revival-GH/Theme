@@ -27,7 +27,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Refresh-Shoot-Hosanna-Reading-Bibles-003.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -41,7 +42,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 7,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "combined-content-section-1": {
@@ -76,6 +78,25 @@
             "alignment": "center",
             "space_above": 0,
             "space_below": 75
+          }
+        },
+        "rich_text_N6qLPC": {
+          "type": "rich_text",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "divider": false,
+            "css-id": "",
+            "css-class": "",
+            "color_bg": "#717057",
+            "color_text": "#ffffff",
+            "space_above": 24,
+            "space_below": 24,
+            "heading": "",
+            "enlarge_text": true,
+            "text": "<p><em><strong>Looking for our free resources from the Toolkit? </strong></em><em><br/></em>Scroll to the bottom of the page for links and more!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         },
         "rich_text_FWgyr9": {
@@ -170,6 +191,7 @@
       "block_order": [
         "rich_text_pXFcWB",
         "single_button_HAKBqL",
+        "rich_text_N6qLPC",
         "rich_text_FWgyr9",
         "rich_text_RJCqVc",
         "rich_text_bGg8Fh",
@@ -199,7 +221,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-019.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -213,7 +236,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "combined-content-section-2": {
@@ -325,7 +349,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Refresh-Shoot-Hosanna-Reading-Bibles-006.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -339,7 +364,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "combined-content-section-7": {
@@ -467,7 +493,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-001.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -481,7 +508,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "combined-content-section-8": {
@@ -607,7 +635,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-006.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -621,7 +650,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_h93XC7": {
@@ -670,7 +700,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Refresh-Shoot-Hosanna-Reading-Bibles-007.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -684,7 +715,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "combined-content-section-3": {
@@ -788,7 +820,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-010_1728x_af5b7414-be8f-48aa-8267-05f63d441392.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -802,7 +835,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_7JBgdJ": {
@@ -1029,7 +1063,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-005.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -1043,7 +1078,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "combined-content-section-5": {
