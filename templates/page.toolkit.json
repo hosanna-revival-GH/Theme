@@ -63,7 +63,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p><em>Are you new to the Bible? Perhaps you’re a new believer or have been following Jesus for a bit but aren’t sure how to navigate your Bible. Or maybe you’re simply exploring what it means to follow Jesus and know the Bible has something to do with that. If you fall into any of these categories, this guide is for you.</em></p><p>Through this Bible Toolkit, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let’s dive in!</p>",
+            "text": "<p><em>Are you new to the Bible? Perhaps you’ve been following Jesus for a while but aren’t sure how to navigate your Bible. Or maybe you’re simply exploring what it means to follow Jesus and know the Bible has something to do with that. No matter what point you’re at in your journey, this guide is for you.</em></p><p>In <em>The Bible Toolkit</em>, we’ll walk you through the process of diving into the Word of God—from why you should read the Bible to navigating the pages within to what happens after you close the cover. Let’s dive in!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 20
           }
@@ -94,7 +94,7 @@
             "space_below": 24,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p><em><strong>Looking for our free resources from the Toolkit? </strong></em><em><br/></em>Scroll to the bottom of the page for links and more!</p>",
+            "text": "<p><em><strong>Looking for our free resources from the Toolkit? </strong></em><em><br/>Scroll to the bottom of this page for links and more!</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -111,9 +111,9 @@
             "color_text": "#ffffff",
             "space_above": 75,
             "space_below": 35,
-            "heading": "a note from Katie",
+            "heading": "a note from Katie, our Founder and Artist",
             "enlarge_text": true,
-            "text": "<p>If I were sitting next to you right now as you think about reading your Bible, I would want you to know a few things.</p>",
+            "text": "<p>If I were sitting next to you right now as you think about reading your Bible, I would want you to know a few things. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -132,7 +132,7 @@
             "space_below": 35,
             "heading": "",
             "enlarge_text": false,
-            "text": "<p>First, I would tell you that I am overjoyed you would even consider reading the words in this precious book, because they are truly sacred. The Bible is the tangible Word of God—the God who created the universe, sees all things, and knows your name. </p><p>Second, I would tell you that the Bible is the complete and true story of our being and purpose. When you crack this book open, you will find stories full of triumph, wilderness, waiting, and ultimately, a Savior who came in the name of love.</p><p>As you hold a copy of the Bible in your hands, I pray that you will feel that love radiating out of its pages. Please know the words inside this book and the simple act of reading them will change your life. The echoes of God’s glory will reach the ends of the earth because of the work he is doing in you.</p>",
+            "text": "<p>First, I would tell you that I am overjoyed that you would even consider reading the words in this precious book, because they are truly sacred. The Bible is the tangible Word of God—the God who created the universe, sees all things, and knows your name. </p><p>Second, I would tell you that the Bible is the complete and true story of our being and purpose. When you crack this book open, you will find stories full of triumph, wilderness, waiting, and ultimately, a Savior who came in the name of love. </p><p>As you hold a copy of the Bible in your hands, I pray that you will feel God’s love radiating out of its pages. Please know the words inside this book and the simple act of reading them will change your life. The echoes of God’s glory will reach the ends of the earth because of the work he is doing in you. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -155,37 +155,6 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
-        },
-        "rich_text_Tnjna9": {
-          "type": "rich_text",
-          "settings": {
-            "align_text": "center",
-            "narrow_column": true,
-            "divider": false,
-            "css-id": "",
-            "css-class": "",
-            "color_bg": "#ffffff",
-            "color_text": "#000000",
-            "space_above": 75,
-            "space_below": 0,
-            "heading": "Table of Contents",
-            "enlarge_text": true,
-            "text": "<p>1<br/>Intro to the Bible<br/><em>What is it and why read it?</em></p><p>2<br/>Barriers to the Bible<br/><em>Questions you might have before diving into Scripture</em></p><p>3<br/>Bible Translations<br/><em>Which translation should I choose?</em></p><p>4<br/>What’s Inside<br/><em>A few things to note before you read the Bible</em></p><p>5<br/>Navigating the Bible<br/><em>The continuous story of a Savior</em></p><p>6<br/>Reading the Bible<br/><em>A Quick Guide to ways to read, before you read, and while you read</em></p><p>7<br/>After You Read the Bible<br/><em>Finding Community</em></p><p>8<br/>When You Don’t Want to Read the Bible<br/><em>encouragement for the hard days, ruts, and dry spells</em></p><p>9<br/>Take it Farther<br/><em>Top Resources for Diving into Scripture</em></p><p>10<br/>Download the Toolkit<br/><em>the free downloadable PDF toolkit</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "single_button_R4hYYF": {
-          "type": "single-button",
-          "settings": {
-            "secondary": false,
-            "button_text": "Download the Bible Toolkit PDF",
-            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
-            "button_size": "medium",
-            "alignment": "center",
-            "space_above": 50,
-            "space_below": 0
-          }
         }
       },
       "block_order": [
@@ -194,13 +163,11 @@
         "rich_text_N6qLPC",
         "rich_text_FWgyr9",
         "rich_text_RJCqVc",
-        "rich_text_bGg8Fh",
-        "rich_text_Tnjna9",
-        "single_button_R4hYYF"
+        "rich_text_bGg8Fh"
       ],
       "settings": {
         "space_above": 0,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "slideshow_WAW3ad": {
@@ -210,7 +177,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Intro to the Bible",
+            "title": "An Introduction to the Bible",
             "title_size": 72,
             "subheading": "What is the Bible and why read it?",
             "link": "",
@@ -255,9 +222,9 @@
             "color_text": "#ffffff",
             "space_above": 75,
             "space_below": 75,
-            "heading": "What is the Bible",
+            "heading": "What is the Bible?",
             "enlarge_text": true,
-            "text": "<p>We believe that the Bible, consisting of 66 books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>",
+            "text": "<p>We believe that the Bible, consisting of sixty-six books, is the only holy, inspired, trustworthy and true Word of God. We believe there is one God, the Creator of all things, infinitely holy and eternally existent in three persons—Father, Son, and Holy Spirit. The Bible is without error, and is the only final authority in all matters of faith and practice. We believe that the true beauty of the Bible absolutely lies within its pages. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -274,7 +241,7 @@
             "color_text": "#000000",
             "space_above": 75,
             "space_below": 0,
-            "heading": "Why Read the Bible",
+            "heading": "Why Read the Bible?",
             "enlarge_text": true,
             "text": "<p>You will discover who God is.</p>",
             "align_text_block": "inherit",
@@ -295,7 +262,7 @@
             "space_below": 0,
             "heading": "",
             "enlarge_text": false,
-            "text": "<p>You will hear stories of his greatness and his might.</p><p>You will discover that God is deeply intentional and specific with every part of this world. </p><p>You will learn that his love for you burns brighter than any you’ve seen or felt before. </p><p>You will see clearly that he has a call on your life and a plan for this earth that ends in a beautiful victory. </p><p>As you read about God, you will you will be equipped to articulate and share the gospel with others.</p><p>As Scripture fills your soul, you will be able to use these words of truth to confront the enemy when he speaks lies into your mind. </p>",
+            "text": "<p>You will hear stories of his greatness and his might.</p><p>You will discover that God is deeply intentional and specific with every part of this world. </p><p>You will learn that his love for you burns brighter than any you have known before. </p><p>You will see clearly that he has a call on your life and a plan for this earth that ends in a beautiful victory. </p><p>As you read about God, you will be equipped to articulate and share the gospel with others.</p><p>As Scripture takes root in your heart, you will be able to stand on God’s truth and resist the enemy’s lies.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -314,7 +281,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p>As you read your Bible and start to believe that God is who he says he is, you will begin to put your trust in him in ways you never thought you would—strengthening your faith day by day and spreading the name of Jesus on this earth.</p>",
+            "text": "<p>As you start to believe that God is who he says he is, you will begin to put your trust in him in ways you never imagined—strengthening your faith day by day and spreading the name of Jesus on this earth.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -385,7 +352,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p>In this section, we want to address some questions you might have before even touching the Word of God. These questions might be topics you’re curious about or a barrier that sits between you and the life-giving Word of God. It’s ok to be asking these questions, because it shows you’re searching for the truth. <em>Click a dropdown arrow below to read the answer to whichever question resonates with you.</em></p>",
+            "text": "<p>In this section, we want to address some barriers that might be standing between you and the Bible. These barriers might be topics you don’t understand, doubts about who God is, or struggles with comprehending what Scripture is saying. It’s okay to wrestle with these things—it shows you’re searching for the truth. We encourage you to hold these barriers up to the light of Scripture and seek wisdom as you navigate them. God welcomes your honesty. We are safe with him. <em>Click a dropdown arrow below to read the answer to whichever question resonates with you.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -394,8 +361,8 @@
           "type": "faq",
           "settings": {
             "css-class": "",
-            "question": "How is the Bible different from the Qur'an or other holy books?",
-            "answer": "<p>The Bible was written over a period of about 1,500 years by more than 40 different men of diverse backgrounds. Among this diverse group of writers are kings (David and Solomon), a military general (Joshua), a fisherman (Peter), and even a tent maker (Paul). Some of the books of the Bible were written from prison cells, the wilderness, exile, palaces, and more. There are books of historical narrative, poetry, letters, and eyewitness accounts of Jesus’ time on earth. All of this alone makes the Bible a unique book. </p><p>But what truly sets the Bible apart from all other books—including other holy books—is that it has one ultimate author: God. Peter wrote in 2 Peter 1:21, “For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.” Every book of the Bible—though written by many different people in many different places over a long period of time—tells one perfectly unified story because its author is God himself. Every word of the Bible is “breathed out” by God (2 Timothy 3:16) and is therefore holy, without error, and perfectly true.</p>",
+            "question": "How is the Bible different from the Qur’an or other holy books?",
+            "answer": "<p>The Bible was written over a period of about 1,500 years by more than forty different men of diverse backgrounds. Among this diverse group of writers are kings (David and Solomon), a military general (Joshua), a fisherman (Peter), and even a tent maker (Paul). Some of the books of the Bible were written from prison cells, the wilderness, exile, palaces, and more. There are books of historical narrative, poetry, letters, and eyewitness accounts of Jesus’s time on earth. All of this alone makes the Bible a unique book.</p><p>What truly sets the Bible apart from all other books—including other holy books—is that it has one ultimate author: God. Peter wrote in 2 Peter 1:21, “For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit” (ESV). Every book of the Bible—though written by many different people in many different places over a long period of time—tells one perfectly unified story because its author is God himself. Every word of the Bible is “breathed out” by God (2 Timothy 3:16) and is therefore holy, without error, and perfectly true. Even when we encounter challenging content within these pages, we can enter with this foundation of truth and take our understanding and wrestling before him with the humility to seek his heart within these pages.</p>",
             "align_text": "left",
             "space_above": 75,
             "space_below": 0
@@ -405,8 +372,8 @@
           "type": "faq",
           "settings": {
             "css-class": "",
-            "question": "Why did you say above that the Bible has 66 books and not 73 like the Catholic Bible?",
-            "answer": "<p>The doctrine of which books actually belong in the Bible is called canonicity. We could spend hours diving into this doctrine, but in this Bible Toolkit, we’ll offer a simple answer that we hope will get to the heart of the issue. In his earthly ministry, Jesus <em>affirmed</em> the Old Testament and <em>authorized</em> his apostles to write the New Testament. We believe in the absolute authority of Jesus, and we therefore affirm what he affirmed. </p><p>A study of the four gospel accounts in Scripture reveals Jesus affirmed the whole of the Old Testament (Matthew 5:17-18). He affirmed it as a reliable record of history (cf. Matthew 10:15; 19:3-5; 12:40; 24:38-39) and prophetic accuracy (Matthew 26:54). He affirmed it as sufficient (Luke 16:31), unified (Luke 24:27,44), without error (Matthew 22:29; John 17:17), infallible (John 10:35), and authoritative (Matthew 21:13, 16, 42). History also shows that first century Jews did not consider the Apocryphal writings to be canonical Scripture, and neither did Jesus. He never affirmed or even cited the Apocryphal writings. </p><p></p><p><em>For more information on this topic, see </em><a href=\"https://blog.tms.edu/why-these-66-books\" target=\"_blank\" title=\"https://blog.tms.edu/why-these-66-books\"><em>this article</em></a><em>.</em></p>",
+            "question": "Why Do you say that the Bible has sixty-six books and not seventy-three like the Catholic Bible?",
+            "answer": "<p>The doctrine that defines which books are considered part of the Bible is called canonicity. We could spend hours diving into this doctrine, but in this toolkit, we’ll offer a simple answer that we hope will get to the heart of the question. For context, the additional books included in Catholic Bibles were recorded after Old Testament books but before Jesus walked this earth. These books make up what is traditionally called the <em>Apocrypha</em>. In his earthly ministry, Jesus affirmed the Old Testament and authorized his apostles to write the New Testament, but he never affirmed or even cited the apocryphal writings. We believe in the absolute authority of Jesus, and we therefore affirm what he affirmed. </p><p>A study of the four gospel accounts in Scripture reveals Jesus affirmed the whole of the Old Testament, accounting for the total of sixty-six books when paired with the New Testament writings (Matthew 5:17–18). He affirmed it as a reliable record of history (cf. Matthew 10:15; 12:40; 19:3–5; 24:38–39) and prophetic accuracy (Matthew 26:54). He affirmed it as sufficient (Luke 16:31), unified (Luke 24:27, 44), without error (Matthew 22:29; John 17:17), infallible (John 10:35), and authoritative (Matthew 21:13, 16, 42). History also shows that first-century Jews did not consider the apocryphal writings to be canonical Scripture, and neither did Jesus. So while these writings are rich with historical context, they do not serve as an essential foundation for knowing God.</p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -416,8 +383,8 @@
           "type": "faq",
           "settings": {
             "css-class": "",
-            "question": "Isn't the Bible boring?",
-            "answer": "<p>The Bible—God’s written words to us—is the primary way in which he has chosen to reveal himself to us. It is literally God’s letter to us. Imagine the feeling of receiving a letter in the mail from someone you love dearly. Are you excited to open and read it? Or does it evoke feelings of boredom? Our view of Scripture is directly related to our view of God. When our minds and hearts are aligned with the reality that God is our loving Father who desires to commune with us through his Word, it comes alive! </p><p>A couple practical ways of engaging with Scripture: read a modern translation that you understand well and journal as you read. As you journal, try to answer the following questions:</p><p>1. What does this text reveal about God?</p><p>2. How am I to live in light of that?</p><p></p><p><em>Check out our WHEN article \"</em><a href=\"https://hosannarevival.blog/when-the-bible-doesnt-feel-exciting/\" target=\"_blank\" title=\"When the Bible Doesn't Feel Exciting, a Hosanna Revival Article\"><em>When the Bible Doesn't Feel Exciting</em></a><em>\"</em></p>",
+            "question": "Isn’t the Bible boring?",
+            "answer": "<p>The Bible—God’s written words to us—is the primary way in which he has chosen to reveal himself to us. It is literally God’s letter to us. Imagine the feeling of receiving a letter in the mail from someone you love dearly. Are you excited to open and read it? Or does it evoke feelings of boredom? </p><p>In truth, our view of Scripture is directly related to our view of God. The Bible is not boring because God is not boring. A life of obedience to Christ is a life of adventure. The Bible is filled with stories where God calls his followers into this adventure. When our minds and hearts are aligned with the reality that God is our loving Father who desires to commune with us through his Word and invite us into this adventure, it comes alive! </p><p>If you are struggling to find Scripture interesting, read a modern translation that you find easy to understand. We recommend the NLT if you are just beginning or the ESV if you wish to dive into deep study right away. As you read, try journaling your thoughts and answering these questions: </p><p><strong>1. What does this text reveal about God?<br/><br/>2. How am I to live in light of that?</strong></p><p><em>Check out our WHEN article \"</em><a href=\"https://hosannarevival.blog/when-the-bible-doesnt-feel-exciting/\" target=\"_blank\" title=\"When the Bible Doesn't Feel Exciting, a Hosanna Revival Article\"><em>When the Bible Doesn't Feel Exciting</em></a><em>\"</em></p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -428,7 +395,7 @@
           "settings": {
             "css-class": "",
             "question": "What if I think some of the Bible is true, but not all of it?",
-            "answer": "<p>For many, many years, secular non-scholars have tried to spread a misconception about the authenticity and truthfulness of Scripture. However, this is simply not true. Of all the manuscripts available to us, the margin of error is less than 1%, and even then, the discrepancies do not in any way give any confusion to the meaning of the text or change the doctrine of Scripture. As a matter of fact, as more manuscripts of Bible texts are discovered, they continue to prove the accuracy of Scripture over and over again. The author of Proverbs is absolutely correct when he says, “Every word of God is true” (Proverbs 30:5).</p>",
+            "answer": "<p>For many years, modern scholars have challenged the authenticity and truthfulness of Scripture by comparing it to ancient legends and searching out errors within the text. However, a variety of evidence reveals quite the opposite. In fact, the Bible could be considered one of most astounding primary texts in history given the breadth of consistency and cross-reference both within and without the text. Between all the manuscripts available to us, the margin of error is less than 1%, and, even then, the discrepancies do not raise confusion to the meaning of the text or change the doctrine of Scripture. Thus, despite the challenges scholars have raised to the Bible, it continues to prove itself a legitimage historical text relating true events. When pairing this evidence with the claim the Bible presents of this being the very Word of God and thus revealing God’s heart for our lives, the question becomes not just, “Is it true?” but, “Will it be true for <em>me</em>?” </p><p>If you are asking this question, take a moment to explore whether there is a more specific <em>why</em> behind your ask. Have you been surrounded by people who discredit the Bible—or seem to support it blindly? Are there parts of it you are uncomfortable with or simply don’t like? The beauty of God’s character is that he does not shy away from your hard questions. We encourage you to take the time to explore your questions while at the same time challenge you to consider what it would look like to enter into reading his Word from the posture of trusting it as truth. Take heart, God delights in revealing to you the treasure you hold!</p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -439,7 +406,7 @@
           "settings": {
             "css-class": "",
             "question": "What if I find the Bible to be too complex or hard to understand?",
-            "answer": "<p>The Bible is a complex book containing deep, rich truths. But it is not unknowable. In fact, one way the Holy Spirit of God ministers to us is opening our eyes to understand the beauty and truth in the Word of God. God does not withhold good from his children, and that includes the Holy Spirit (Ephesians 1:13). If you belong to Jesus, the Holy Spirit lives in you, and will “guide you into all truth” (John 16:13). There are hard things in Scripture, but we’re never meant to understand them all on our own. A couple tips:</p><p>Find a friend to study the Bible with. </p><p>A study Bible is a great help in understanding difficult passages.</p><p>Pray! Psalm 119:18 is a wonderful prayer for each time you open the Bible: “Open my eyes, that I may behold wondrous things out of your law.”</p><p>The Holy Spirit of God authored the Bible. He is willing and ready to help you understand it.</p><p></p><p><em>For a highly literal translation, we recommend </em><a href=\"https://hosannarevival.com/collections/beautiful-bibles/esv\" target=\"_blank\" title=\"https://hosannarevival.com/collections/beautiful-bibles/esv\"><em>the ESV</em></a><em>. For something a little easier to read without sacrificing accuracy, we recommend </em><a href=\"https://hosannarevival.com/collections/beautiful-bibles/csb\" target=\"_blank\" title=\"https://hosannarevival.com/collections/beautiful-bibles/csb\"><em>the CSB</em></a><em>.</em></p>",
+            "answer": "<p>The Bible is a complex book containing deep, rich truths. It is normal to find it confusing and difficult to understand at times. But it is not unknowable. In fact, one way the Holy Spirit of God ministers to us is opening our eyes to understand the beauty and truth in the Word of God. God does not withhold good from his children, and that includes the Holy Spirit (Ephesians 1:13). If you belong to Jesus, the Holy Spirit lives in you, and will “guide you into all truth” (John 16:13). There are hard things in Scripture, but we’re never meant to understand them all on our own. A couple tips:</p><ul><li>Find a friend to study the Bible with. </li><li>Start with a Study Bible! The notes and commentary on the text provide a lot of help for understanding difficult passages.</li><li>Pray! Psalm 119:18 is a wonderful prayer for each time you open the Bible: “Open my eyes, that I may behold wondrous things out of your law.”</li><li>Find a translation that fits your current goals. For a highly literal translation, we recommend <a href=\"https://hosannarevival.com/collections/beautiful-bibles/esv\" target=\"_blank\" title=\"https://hosannarevival.com/collections/beautiful-bibles/esv\">the ESV</a>. For something easier to read without sacrificing accuracy, we recommend <a href=\"/collections/nlt-bibles\" title=\"NLT Bibles\">the NLT</a> or <a href=\"https://hosannarevival.com/collections/beautiful-bibles/csb\" target=\"_blank\" title=\"https://hosannarevival.com/collections/beautiful-bibles/csb\">CSB</a>.</li></ul><p>The Holy Spirit of God authored the Bible. He is present with you and is willing and ready to help you understand it.</p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -449,8 +416,8 @@
           "type": "faq",
           "settings": {
             "css-class": "",
-            "question": "What if I don't have time to read the Bible?",
-            "answer": "<p>Sometimes, the Bible seems like an unclimbable mountain of 66 books divided into 1,189 chapters. We can discourage ourselves by thinking we have to read a certain amount every time we open it, or that we have to read through the Bible at least once every year. Those aren’t bad things—spiritual discipline is very important in the life of the Christian. In fact, a simple 15 minutes of daily reading will get you through the whole Bible in a year. However, even though that’s a small time commitment, many us still find ourselves saying we “don’t have enough time.” If we’re honest with ourselves, however, we would probably admit that we don’t actually need more time; we simply need to better prioritize the time we have.</p><p>If we truly believe God is who he says he is and that the Bible truly is God’s Word, we will rearrange our priorities around God, rather than giving him what’s left. Below you will find many practical tips for diving into the Word of God that can spur you on to make space for God's Word.</p><p><em>Check out our WHEN article \"</em><a href=\"https://hosannarevival.blog/when-reading-the-bible-isnt-a-priority/\" target=\"_blank\" title=\"When Reading the Bible is Hard to Prioritize, an article by Hosanna Revival\"><em>When Reading the Bible is Hard to Prioritize</em></a><em>\"</em></p>",
+            "question": "What if I don’t have time to read the Bible?",
+            "answer": "<p>Sometimes, the Bible seems like an unclimbable mountain of sixty-six books divided into 1,189 chapters. We can discourage ourselves by thinking we have to read a certain amount every time we open it or that we have to read through the Bible at least once every year. Those aren’t bad things; in fact, spiritual discipline is very important in the life of the Christian. Although just fifteen minutes of daily reading will get you through the whole Bible in a year, many us still find ourselves saying we “don’t have enough time.” What if we don’t actually need more time; we simply need to better prioritize the time we have?</p><p>If we truly believe God is who he says he is and that the Bible truly is God’s Word, we will rearrange our priorities around God, rather than giving him what’s left. In this guide, you will find many practical tips that will spur you on to make space for God’s Word.</p><p><em>Check out our WHEN article \"</em><a href=\"https://hosannarevival.blog/when-reading-the-bible-isnt-a-priority/\" target=\"_blank\" title=\"When Reading the Bible is Hard to Prioritize, an article by Hosanna Revival\"><em>When Reading the Bible is Hard to Prioritize</em></a><em>\"</em></p>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 75
@@ -484,7 +451,7 @@
             "top_subheading": "",
             "title": "Bible Translations",
             "title_size": 72,
-            "subheading": "Which Translation Should I Choose?",
+            "subheading": "Which translation should I choose?",
             "link": "",
             "link_text": "",
             "link_2": "",
@@ -624,9 +591,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "What's Inside",
+            "title": "What’s Inside?",
             "title_size": 72,
-            "subheading": "a few things to note before you read the Bible",
+            "subheading": "A few things to note before you read the Bible",
             "link": "",
             "link_text": "",
             "link_2": "",
@@ -736,7 +703,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p>The Bible is broken into two big sections: the Old Testament (before Jesus’ ministry on Earth) and the New Testament (from Jesus’ life on Earth, and beyond). Together, these sections hold a total of 66 individual books inspired by God and written by more than 40 different individuals throughout history—all telling one complete account of who God is and what he has done. These individual books are broken up into chapters and verses to help locate where exactly you are reading in this grand story. Below is a breakdown of each section of the Bible. <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104\" target=\"_blank\" title=\"Hosanna Revival Bible Toolkit PDF\">Print out our guide here</a> to take alongside you as you learn.</p>",
+            "text": "<p>The Bible is divided into two main sections: the Old Testament, which covers the time before Jesus was born, and the New Testament, which focuses on Jesus’s life, ministry, and beyond. Together, these sections—containing a total of sixty-six individual books inspired by God and written by more than forty different individuals throughout history—tell one complete story of who God is and what he has done. The books are divided into chapters and verses to help you find specific parts of the story. Next, we’ve included a breakdown of each section of the Bible. <a href=\"https://hosannarevival.com/bible-toolkit-pdf\" target=\"_blank\" title=\"https://hosannarevival.com/bible-toolkit-pdf\">Print out our guide here</a> to take alongside you as you learn.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -885,7 +852,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Chronological",
-            "text": "<p>Choose a book of the Bible and read through it from beginning to end. It is helpful to find study questions or commentary as you take this bare-bones approach.</p>",
+            "text": "<p>Choose a book of the Bible and read through it from beginning to end. It can be helpful to find study questions or commentary as you take this bare-bones approach.</p>",
             "button_label": "Start in John",
             "button_link": "https://hosannarevival.com/pages/study-of-john"
           }
@@ -898,7 +865,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Guided Study",
-            "text": "<p>Follow along with a Bible study that points out different Scriptures for you to read each day. Bible studies typically include commentary and references that relate to a specific topic or guide you through a book.</p>",
+            "text": "<p>Follow along with a Bible study that points out different Scriptures for you to read each day. Bible studies typically include commentary and references that relate to a specific topic or guide you through a book. </p>",
             "button_label": "Find a Study",
             "button_link": "https://hosannarevival.com/collections/devotionals"
           }
@@ -950,7 +917,7 @@
             "space_below": 75,
             "heading": "Before You Read the Bible",
             "enlarge_text": false,
-            "text": "<p><strong>Have a Plan</strong>: Having a plan to work through a specific book of the Bible encourages routine and consistency. Knowing exactly where you’re headed before you begin helps build structure and discipline into your daily time with God.</p><p><strong>Schedule a Time</strong>: Start your day with reading the Word if you can! Choose a specific time to help build consistency into your daily rhythms, and note that time in your reminders, calendar, or planner.</p><p><strong>Set the Scene: </strong>Prepare your environment to provide a space to focus. Remember, this does not have to be perfect! What is most important is that you show up before the Lord.</p><p>- Put your phone on airplane mode to eliminate distractions</p><p>- Set a timer if you have a time limit</p><p>- Find a consistent, distraction-free reading space </p><p>- Don’t get caught up with aesthetics. Our time with God does not have to be Instagram worthy—God’s presence is everywhere!</p><p><strong>Start with Prayer: </strong><em>Always begin with prayer. </em>When you open the Bible, ask God to teach you exactly what you need through his Word. Ask him to calm your mind and give you focus and attention to hear what he has to say. Pray that your time reading the Word would spark worship in your heart. </p><p></p>",
+            "text": "<p><strong>Have a Plan</strong>: Having a plan to work through a specific book of the Bible encourages routine and consistency. Knowing exactly where you’re headed before you begin helps build structure and discipline into your daily time with God. In this toolkit, we share two reading plans to help you begin your time in the Word.</p><p><strong>Schedule a Time</strong>: Having a specific time of day that you read your Bible helps build consistency into your daily rhythms. Include it in your calendar, whether it’s in your planner, Google calendar, or in your reminders. Take a step in personal accountability by writing it down. </p><p><strong>Set the Scene: </strong>Prepare your environment to provide a space to focus. Remember, this does not have to be perfect! What is most important is that you show up before the Lord.</p><ul><li>Put your phone on airplane mode to eliminate distractions.</li><li>Set a timer if you have a time limit.</li><li>Find a consistent space and time that works for you to meet with God.  </li><li>Don’t get caught up with aesthetics. Our time with God does not have to be photo-worthy—God’s presence is everywhere!</li></ul><p><strong>Start with Prayer: </strong><em>Always begin with prayer.</em> When you open the Bible, ask God to teach you exactly what you need through his Word. Ask him to  calm your mind, help you focus, and allow you to receive what he has to say. Pray that your time reading the Word would spark worship in your heart.</p><p></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -988,7 +955,7 @@
             "space_below": 0,
             "heading": "While You Read the Bible",
             "enlarge_text": true,
-            "text": "<p>The Bible tells us to dwell on the Word. Jesus himself says in John 15:5, “Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me.” Here are some practical ways to abide in Jesus as you read Scripture.</p>",
+            "text": "<p>The Bible tells us to dwell on the Word. Jesus himself says in John 15:4, “Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me” (ESV). Here are some practical ways to abide in Jesus as you read Scripture.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1007,7 +974,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": false,
-            "text": "<p><strong>Journal Alongside Scripture </strong><br/><em>Journaling alongside the Word looks different for everyone, but here are some ways to begin.<br/>Before</em>: Lay your joys and concerns before Jesus by journaling initial thoughts or prayers.<br/><em>During</em>: Copy down meaningful verses  in a journal or directly in your Bible while you read.<br/><em>After</em>: Summarize what you just read and any application you’re taking with you.</p><p><strong>Memorize Scripture</strong><br/><em>Choose a core verse or phrase from your reading to memorize. </em></p><p><strong>Pray Scripture<br/></strong><em>Turn Scripture into a guide for prayer by praying the words over yourself or someone else. </em></p><p><strong>Supplement Scripture<br/></strong><em>Look up materials online to reference alongside your reading. </em><a href=\"https://www.studylight.org/commentary.html\" target=\"_blank\" title=\"https://www.studylight.org/commentary.html\"><em>Use StudyLight to access dozens of commentaries on any given verse.</em></a></p>",
+            "text": "<p><strong>Journal Alongside Scripture </strong><br/><em>Journaling alongside the Word looks different for everyone, but here are some ways to begin: <br/>Before</em>: Lay your joys and concerns before Jesus by journaling initial thoughts or prayers.<br/><em>During</em>: Copy down meaningful verses in a journal or directly in your Bible while you read.<br/><em>After</em>: Summarize what you just read and any application you’re taking with you.</p><p><strong>Memorize Scripture</strong><br/><em>Choose a core verse or phrase from your reading to memorize. </em></p><p><strong>Pray Scripture<br/></strong><em>Turn Scripture into a guide for prayer by praying the words over yourself or someone else. </em></p><p><strong>Supplement Scripture<br/></strong><em>Look up materials online to reference alongside your reading. Use </em><a href=\"https://www.studylight.org/commentary.html\" target=\"_blank\" title=\"https://www.studylight.org/commentary.html\"><em>StudyLight.org</em></a><em> to access dozens of commentaries on any given verse.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1099,7 +1066,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p>We hope we’ve equipped you well to dive into the Word of God on your own. But what happens after you close the pages of this book? After reading the Word, don’t let the words simply stay on the page. Instead, allow God to work in your heart to bring these words to life in your everyday. One of the first steps we encourage is to seek out community.</p>",
+            "text": "<p>We hope this toolkit has equipped you to dive into God’s Word with confidence. But what happens after you close the pages of your Bible? After reading the Word, don’t let the words stay on the page. Instead, let God write his Word on your heart, allowing it to shape your thoughts, actions, and everyday life. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1131,7 +1098,7 @@
             "image_width": 50,
             "subtitle": "After you Read",
             "title": "Seek Individuals",
-            "text": "<p>We were never meant to do this alone! Find a friend to read the Bible and share life with. This step takes an ounce of courage! Be brave and ask someone to connect you with a person to read with - maybe it’s the friend who gave you a Bible or someone from your local church. Either way, be brave and simply ask. There is someone SO excited to read the Bible with you and share life with you!</p>",
+            "text": "<p>We were never meant to do this alone! Find a friend to read the Bible and share life with. This step takes an ounce of courage! Be brave and ask someone to connect you with a person to read with—maybe it’s the friend who gave you a Bible or someone from your local church. Either way, be brave and simply ask. There is someone <em>so</em> excited to read the Bible with you and share life with you!</p>",
             "button_link": "",
             "button_label": "",
             "align_text": "left",
@@ -1146,7 +1113,7 @@
             "image_width": 50,
             "subtitle": "After you Read",
             "title": "Seek a Church",
-            "text": "<p>Our ultimate hope is that you get connected in a gospel-centered local church. Being involved in a church means becoming a part of the body of Christ, to serve and love those around you and to cultivate a community that glorifies God. If you don’t already have a home church, look up churches in your area and commit to visiting at least one within the next month. Again, this step takes so much courage. If you are finding it hard to connect, begin this step with prayer. We are confident that God will be faithful to connect you with His children in your area, so seek Him as you seek out others.</p>",
+            "text": "<p>Our greatest hope is that you get connected in a gospel-centered local church. Being involved in a church means becoming a part of the body of Christ, to serve and love those around you, and to cultivate a community that glorifies God. If you don’t already have a home church, look up churches in your area and commit to visiting at least one within the next month. Again, this step takes so much courage. If you are finding it hard to connect, begin this step with prayer. We are confident that God will be faithful to connect you with his children in your area, so seek him as you seek out others.</p>",
             "button_link": "",
             "button_label": "",
             "align_text": "left",
@@ -1172,8 +1139,8 @@
           "type": "hero",
           "settings": {
             "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-009.jpg",
-            "title": "When You Don't Want to Read the Bible",
-            "subheading": "Encouragement for the Hard Days, Ruts, and Dry Spells",
+            "title": "When You Don’t Want to Read the Bible",
+            "subheading": "Encouragement for the hard days, \nruts, and dry spells",
             "link": "",
             "link_text": "",
             "color_accent": "",
@@ -1198,7 +1165,7 @@
             "space_below": 75,
             "heading": "WHAT IF I FIND MYSELF IN A RUT OR DRY SPELL?",
             "enlarge_text": true,
-            "text": "<p>Even if you follow these steps, reading the Bible may not always be easy. The reality of life on earth is that ruts and dry spells can threaten to interrupt our time with Jesus, but pushing past these moments to stay rooted in the Word of God is worth it. Below are some specific ways to do this.</p>",
+            "text": "<p>Even if you follow these steps, reading the Bible may not always be easy. The reality of life on earth is that ruts and dry spells can threaten to interrupt our time with Jesus, but pushing past these moments to stay rooted in the Word of God is worth it. Next, we’ll share some practical examples of how you can do this.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1217,7 +1184,7 @@
             "space_below": 75,
             "heading": "Quick Tips to Pushing Past a Rut",
             "enlarge_text": false,
-            "text": "<p><strong>Lean into Community:</strong> Text a friend who knows Jesus or reach out to someone at church to meet up. Sometimes simply hearing someone else’s story will stir excitement in you as you hear how God is working right here and now.</p><p><strong>Find a New Study:</strong> We are big believers in the idea that getting your hands on something new and beautiful stirs your heart to want to jump in, so seek out a fresh perspective from an online study or grab a new devotional to fuel fresh passion!</p><p><strong>Start in the Psalms:</strong> When you are in a rough spot in life or are overwhelmed by long passages of Scripture, the Psalms is the perfect place to start. Read one a day to intentionally point your heart towards the Lord in worship.</p><p><strong>Read our WHEN articles:</strong> We’ve compiled a variety of responses to this topic from writers in our local community. <a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"Hosanna Revival WHEN articles\">Find relevant Scripture and action steps here</a>. </p>",
+            "text": "<p><strong>Lean into Community:</strong> Text a friend who knows Jesus or reach out to someone at church to meet up. Sometimes simply hearing someone else’s story will stir excitement in you as you hear how God is working right here and now.</p><p><strong>Find a New Study:</strong> We are big believers that getting your hands on something new and beautiful stirs your heart to want to jump in. Consider seeking out a fresh perspective from an online study or grab a new devotional to reignite your passion! Our <a href=\"/pages/devotionals\" title=\"Devotionals\">devotional library</a> offers a variety of topics for your specific season. </p><p><strong>Start in the Psalms:</strong> When life feels heavy or you are long passages of Scripture feel overwhleming, the book of Psalms is the perfect place to start. These brief yet powerful passages capture songs of praise, lament, and wrestling that reflect the real emotions of everyday life. Read one psalm a day to intentionally point your heart toward the Lord in worship.</p><p><strong>Read our </strong><a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"https://hosannarevival.blog/\"><em><strong>WHEN</strong></em><strong> articles</strong></a><strong>:</strong> We’ve compiled a variety of responses to this topic from writers in our local community. Find relevant Scripture and action steps <a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"https://hosannarevival.blog/\">here</a>. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1234,9 +1201,9 @@
             "color_text": "#ffffff",
             "space_above": 75,
             "space_below": 75,
-            "heading": "a note",
+            "heading": "What if I don’t feel like reading?",
             "enlarge_text": true,
-            "text": "<p>If your emotions don’t line up with what you think you should be feeling when reading the Word, remind yourself that the Bible holds THE truth—the good news—for this world. And if it is THE truth, it is fully capable of stirring the best emotions in you, even if you don’t feel them right now. </p><p>So realize that your disengagement or lack of excitement is not a result of the Bible losing any of its power or beauty, but rather simply a reflection of this broken world that clouds the beauty of the truth. </p><p>Give yourself grace for these off days when reading the Word is more of a discipline than a delight. And know that these pages are always always capable of stirring life in you because the words on them are living and active and pointing you to the one who is the Way, the Truth, and Life himself. So take heart and seek his life in these pages.</p>",
+            "text": "<p>If your emotions don’t line up with what you think you should be feeling when reading the Word, remind yourself that the Bible holds the truth—the good news—for this world. And if it is <em>the</em> <em>truth</em>, it is fully capable of stirring the best emotions in you, even if you don’t feel them right now.</p><p>Your disengagement or lack of excitement is not a result of the Bible losing any of its power or beauty, but rather a reflection of this broken world that clouds the beauty of the truth.</p><p>Be gentle with yourself for these off days when reading the Word is more of a discipline than a delight. Know that these pages are always capable of stirring life in you because the words on them are living and active, pointing you to the one who is himself the Way, the Truth, and the Life (John 14:6). So take heart, and seek life in the pages of his Word today.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1255,7 +1222,7 @@
             "space_below": 0,
             "heading": "Submit a Prayer Request",
             "enlarge_text": true,
-            "text": "<p>As you take these brave and bold steps towards walking out truth, we would love to pray for you! Submit your prayer request below...</p>",
+            "text": "<p>As you take these brave and bold steps towards walking out truth, we would love to pray for you! Submit your prayer request below.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1290,7 +1257,7 @@
           "settings": {
             "image": "shopify://shop_images/Summer-Hosanna-Bibles-Journals-Flower-Farm-Picnic-W-016.jpg",
             "title": "Take it a Step Farther",
-            "subheading": "Top Tools and Resources for Diving into Scripture",
+            "subheading": "Tools and resources to equip you to engage in Scripture",
             "link": "",
             "link_text": "",
             "color_accent": "",
@@ -1315,7 +1282,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p>You did it! You’re diving into the life-giving words of Scripture and getting to know the person of Jesus. As you continue this journey, we would like to supply you with resources and tools that are helpful for reading your Bible and navigating what it means to live life with Jesus as Lord. Below are some of our favorites.</p>",
+            "text": "<p>You did it! You’re diving into the life-giving words of Scripture and getting to know the person of Jesus. As you continue this journey, we would like to supply you with resources and tools that are helpful for reading your Bible and navigating what it means to live life with Jesus as Lord. The following are some of our favorites.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
