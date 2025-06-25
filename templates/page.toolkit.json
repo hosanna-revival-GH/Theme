@@ -18,7 +18,7 @@
             "top_subheading": "",
             "title": "Bible\nToolKit",
             "title_size": 72,
-            "subheading": "The Ultimate Guide to Reading the Bible",
+            "subheading": "A Simple Guide to Reading the Bible",
             "link": "",
             "link_text": "",
             "link_2": "",
@@ -73,7 +73,7 @@
           "settings": {
             "secondary": false,
             "button_text": "Download the Bible Toolkit PDF",
-            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
+            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival.pdf",
             "button_size": "medium",
             "alignment": "center",
             "space_above": 0,
@@ -352,7 +352,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p>In this section, we want to address some barriers that might be standing between you and the Bible. These barriers might be topics you don’t understand, doubts about who God is, or struggles with comprehending what Scripture is saying. It’s okay to wrestle with these things—it shows you’re searching for the truth. We encourage you to hold these barriers up to the light of Scripture and seek wisdom as you navigate them. God welcomes your honesty. We are safe with him. <em>Click a dropdown arrow below to read the answer to whichever question resonates with you.</em></p>",
+            "text": "<p>In this section, we want to address some barriers that might be standing between you and the Bible. These barriers might be topics you don’t understand, doubts about who God is, or struggles with comprehending what Scripture is saying. It’s okay to wrestle with these things—it shows you’re searching for the truth. We encourage you to hold these barriers up to the light of Scripture and seek wisdom as you navigate them. God welcomes your honesty. We are safe with him. Click a dropdown arrow below to explore whichever question resonates with you.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -692,7 +692,7 @@
         "rich_text_X9KaE4": {
           "type": "rich_text",
           "settings": {
-            "align_text": "center",
+            "align_text": "left",
             "narrow_column": true,
             "divider": false,
             "css-id": "",
@@ -703,7 +703,7 @@
             "space_below": 75,
             "heading": "",
             "enlarge_text": true,
-            "text": "<p>The Bible is divided into two main sections: the Old Testament, which covers the time before Jesus was born, and the New Testament, which focuses on Jesus’s life, ministry, and beyond. Together, these sections—containing a total of sixty-six individual books inspired by God and written by more than forty different individuals throughout history—tell one complete story of who God is and what he has done. The books are divided into chapters and verses to help you find specific parts of the story. Next, we’ve included a breakdown of each section of the Bible. <a href=\"https://hosannarevival.com/bible-toolkit-pdf\" target=\"_blank\" title=\"https://hosannarevival.com/bible-toolkit-pdf\">Print out our guide here</a> to take alongside you as you learn.</p>",
+            "text": "<p>The Bible is divided into two main sections: the Old Testament, which covers the time before Jesus was born, and the New Testament, which focuses on Jesus’s life, ministry, and beyond. Together, these sections—containing a total of sixty-six individual books inspired by God and written by more than forty different individuals throughout history—tell one complete story of who God is and what he has done. The books are divided into chapters and verses to help you find specific parts of the story. Next, we’ve included a breakdown of each section of the Bible. <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival.pdf\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival.pdf\">Print out our guide here</a> to take alongside you as you learn.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -752,7 +752,7 @@
             "space_below": 75,
             "heading": "Deep Dive into the Bible",
             "enlarge_text": true,
-            "text": "<p>There is much more than what we feature here. In our free downloadable PDF guide, we’ll dive even deeper into sections and individual books! <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104\" target=\"_blank\" title=\"Hosanna Revival Bible Toolkit PDF\"><em>Download and print the guide here!</em></a></p>",
+            "text": "<p>There is much more than what we feature here. In our free downloadable PDF guide, we’ll dive even deeper into sections and individual books! <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival.pdf\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival.pdf\"><em>Download and print the guide here!</em></a></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -898,7 +898,7 @@
             "space_below": 75,
             "heading": "Suggested Place to Start",
             "enlarge_text": true,
-            "text": "<p>If you are reading the Word for the first time, we suggest you start with John, a book at the beginning of the New Testament that details the life of Jesus. To get you started, <a href=\"https://hosannarevival.com/pages/study-of-john\" target=\"_blank\" title=\"Hosanna Revival John Reading Plan\">here is a reading plan of the book of John</a>. Our hope is that this guide will help you ask good questions and look at Scripture a little bit deeper.</p>",
+            "text": "<p>If you are reading the Word for the first time, we suggest you start with John, a book at the beginning of the New Testament that details the life of Jesus. To get you started, here is a <a href=\"https://hosannarevival.com/pages/study-of-john\" target=\"_blank\" title=\"https://hosannarevival.com/pages/study-of-john\">reading plan</a> of the book of John. Our hope is that this guide will help you ask good questions and look at Scripture a little bit deeper.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -1484,17 +1484,34 @@
             "image_width": 50,
             "subtitle": "Free Download",
             "title": "The Bible Toolkit PDF",
-            "text": "<p>Download our PDF version of the Bible Toolkit to take with you as you study God's Word! We pray this tool leads to know Jesus in a deeper way than ever before.</p>",
-            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival_04a1f8aa-5a7f-4f62-8b90-e210b36cc8ca.pdf?v=1627327104",
+            "text": "<p>Download our PDF version of the Bible Toolkit to take with you as you study God’s Word! We pray this tool leads to know Jesus in a deeper way than ever before.</p>",
+            "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Bible-Toolkit-Hosanna-Revival.pdf",
             "button_label": "download pdf",
             "align_text": "left",
             "lazyload_images": true
+          }
+        },
+        "hero_DgqqUK": {
+          "type": "hero",
+          "settings": {
+            "image": "shopify://shop_images/Picnic-Blanket-Hosanna-Revival.png",
+            "title": "",
+            "subheading": "",
+            "link": "shopify://pages/free-resources",
+            "link_text": "All Free Resources",
+            "color_accent": "",
+            "text_align": "left",
+            "title_size": 32,
+            "parallax": false,
+            "section_height": "450px",
+            "mobile_height": "auto"
           }
         }
       },
       "block_order": [
         "hero_W48Rgh",
-        "text_and_image_YyePqd"
+        "text_and_image_YyePqd",
+        "hero_DgqqUK"
       ],
       "custom_css": [
         ".image-wrap.loaded {padding-bottom: 100% !important;}"
