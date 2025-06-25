@@ -14,13 +14,14 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "text_and_image_Yyhqaz": {
       "type": "text-and-image",
       "custom_css": [
-        ".index-section{margin:0 0;}"
+        ".index-section {margin: 0 0;}"
       ],
       "settings": {
         "image": "shopify://shop_images/John-Reading-Plan-Hosanna-Revival_6504382f-4ce8-4b1a-8646-8c7154309ed7.jpg",
@@ -30,7 +31,7 @@
         "title": "John Reading Plan",
         "text": "<p>If you are reading the Word for the first time, we suggest you start with John, a book at the beginning of the New Testament that details the life of Jesus. Our hope is that this guide will help you ask good questions and look at Scripture a little bit deeper.</p>",
         "button_label": "Download Reading Plan",
-        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival_f567eba6-9c31-4ced-bcc7-3596d111571a.pdf?v=1627326613",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival.pdf",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
