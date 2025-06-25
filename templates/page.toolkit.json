@@ -1381,7 +1381,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/John-Reading-Plan-Hosanna-Revival_e5ecf57a-e0d4-4d3f-b1b4-ad2292ffcaf8.jpg",
+            "image": "shopify://shop_images/The-John-Reading-Plan-Hosanna-Revival-Preview.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "The John Reading Plan",
@@ -1405,20 +1405,19 @@
         },
         "text_block_XqQwGj": {
           "type": "text_block",
-          "disabled": true,
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/The-Exodus-Reading-Plan-Hosanna-Revival-Preview.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "The Exodus Reading Plan",
             "text": "<p>for the one desiring an in-depth look at the historical account of God’s deliverance in the Old Testament</p>",
-            "button_label": "Download Now",
+            "button_label": "Download the PDF",
             "button_link": "https://hosannarevival.com/pages/exodus-reading-plan"
           }
         },
         "text_block_NxHVaf": {
           "type": "text_block",
-          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Beyond-Egypt-Bible-Study-Exodus-Kari-Minter-Hosanna-Revival-001.jpg",
@@ -1432,9 +1431,9 @@
         },
         "text_block_Q8i4DH": {
           "type": "text_block",
-          "disabled": true,
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Studylight-Resource.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "StudyLight",
