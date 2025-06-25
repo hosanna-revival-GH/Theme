@@ -1330,7 +1330,7 @@
             "space_below": 0,
             "heading": "WHEN Articles",
             "enlarge_text": false,
-            "text": "<p><em>from Hosanna Revival</em></p><p>for the one searching for Scripture's truth in response to common questions</p>",
+            "text": "<p><em>from Hosanna Revival</em></p><p>for the one searching for Scripture’s truth in response to life’s questions</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 25
           }
@@ -1364,19 +1364,6 @@
     "text_columns_J9GKDy": {
       "type": "text-columns",
       "blocks": {
-        "text_block_qztLMz": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Women-of-the-Word.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Women in the Word",
-            "text": "<p><em>by Jen Wilkin</em></p><p>for the one wanting to be empowered to study the Bible in depth on her own</p>",
-            "button_label": "Choose this Book",
-            "button_link": "https://www.jenwilkin.net/books-and-studies"
-          }
-        },
         "text_block_DQhXrg": {
           "type": "text_block",
           "settings": {
@@ -1386,12 +1373,93 @@
             "image_width": 650,
             "title": "The Story Circle",
             "text": "<p><em>by Joshua Lenon</em></p><p>for the one who want to know the beauty and wonder of the continuous story God has been telling from the beginning of time</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://pages/the-story-circle-devotional"
+          }
+        },
+        "text_block_HdCyn3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/John-Reading-Plan-Hosanna-Revival_e5ecf57a-e0d4-4d3f-b1b4-ad2292ffcaf8.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The John Reading Plan",
+            "text": "<p>for the one wanting to begin with the account of Jesus on earth</p>",
+            "button_label": "Download the PDF",
+            "button_link": "shopify://pages/study-of-john"
+          }
+        },
+        "text_block_JQBhMN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/God-Our-Home-Katie-Noble-John-Bible-Study-Hosanna-Revival-01_1.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "God Our Home",
+            "text": "<p><em>by Katie Noble</em></p><p>for the one longing for a sense of rootedness that stretches beyond earthly security</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://pages/god-our-home"
+          }
+        },
+        "text_block_XqQwGj": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "The Exodus Reading Plan",
+            "text": "<p>for the one desiring an in-depth look at the historical account of God’s deliverance in the Old Testament</p>",
+            "button_label": "Download Now",
+            "button_link": "https://hosannarevival.com/pages/exodus-reading-plan"
+          }
+        },
+        "text_block_NxHVaf": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beyond-Egypt-Bible-Study-Exodus-Kari-Minter-Hosanna-Revival-001.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Beyond Egypt",
+            "text": "<p>for the one who desires to deeply understand God’s Word and wants to learn how to apply that knowledge to their daily life</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://pages/beyond-egypt"
+          }
+        },
+        "text_block_Q8i4DH": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "StudyLight",
+            "text": "<p>for the one who longs to dive deep into commentaries and perspectives from Christians across history on Scripture</p>",
+            "button_label": "Explore",
+            "button_link": "https://www.studylight.org/commentary.html"
+          }
+        },
+        "text_block_qztLMz": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Women-of-the-Word.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Women of the Word",
+            "text": "<p><em>by Jen Wilkin</em></p><p>for the one wanting to be empowered to study the Bible in depth on her own</p>",
             "button_label": "Choose this Book",
-            "button_link": "shopify://products/devotional-the-story-circle"
+            "button_link": "https://www.jenwilkin.net/books-and-studies"
           }
         },
         "text_block_jBgAHf": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Even-Better-Than-Eden.jpg",
@@ -1405,6 +1473,7 @@
         },
         "text_block_tgDRTi": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Help-Me-Teach-the-Bible-2.jpg",
@@ -1418,6 +1487,7 @@
         },
         "text_block_iEfLnE": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Journeywomen.jpg",
@@ -1431,6 +1501,7 @@
         },
         "text_block_Npj8kG": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Compelled-Podcast.jpg",
@@ -1444,8 +1515,13 @@
         }
       },
       "block_order": [
-        "text_block_qztLMz",
         "text_block_DQhXrg",
+        "text_block_HdCyn3",
+        "text_block_JQBhMN",
+        "text_block_XqQwGj",
+        "text_block_NxHVaf",
+        "text_block_Q8i4DH",
+        "text_block_qztLMz",
         "text_block_jBgAHf",
         "text_block_tgDRTi",
         "text_block_iEfLnE",
@@ -1460,7 +1536,57 @@
     "combined-content-section-10": {
       "type": "toolkit",
       "blocks": {
-        "hero_W48Rgh": {
+        "faq_PTibfq": {
+          "type": "faq",
+          "settings": {
+            "css-class": "",
+            "question": "FURTHER READING: What are some books to dive into this content further?",
+            "answer": "<ul><li><a href=\"https://www.christianbook.com/mere-christianity-c-s-lewis/9780060652920/pd/2926X\" target=\"_blank\" title=\"https://www.christianbook.com/mere-christianity-c-s-lewis/9780060652920/pd/2926X\"><em>Mere Christianity</em></a><em> </em>by C. S. Lewis</li><li><a href=\"https://www.jenwilkin.net/books-and-studies\" target=\"_blank\" title=\"https://www.jenwilkin.net/books-and-studies\"><em>Women of the Word</em></a><em> </em>by Jen Wilken</li><li><a href=\"https://www.nancyguthrie.com/even-better-than-eden\" target=\"_blank\" title=\"https://www.nancyguthrie.com/even-better-than-eden\"><em>Even Better than Eden</em></a><em> </em>by Nancy Guthrie</li><li><a href=\"/pages/start-from-here\" target=\"_blank\" title=\"Start From Here\"><em>Start From Here</em></a><em> </em>by Ness Cannon</li><li><a href=\"https://www.lifeway.com/en/product-family/seamless\" target=\"_blank\" title=\"https://www.lifeway.com/en/product-family/seamless\"><em>Seamless</em></a><em> </em>by Angie Smith</li></ul>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_VQ6rdU": {
+          "type": "faq",
+          "settings": {
+            "css-class": "",
+            "question": "PODCASTS: What are some podcasts to learn in depth about the Bible?",
+            "answer": "<ul><li><a href=\"https://www.journeywomen.org/\" target=\"_blank\" title=\"https://www.journeywomen.org/\"><em>Journeywomen</em></a><em> </em>by Hunter Beless</li><li><a href=\"https://www.thebiblerecap.com/about\" target=\"_blank\" title=\"https://www.thebiblerecap.com/about\"><em>The Bible Recap</em></a><em> </em>by Tara-Leigh Cobble</li><li><a href=\"https://www.nancyguthrie.com/help-me-teach-the-bible-podcast\" target=\"_blank\" title=\"https://www.nancyguthrie.com/help-me-teach-the-bible-podcast\"><em>Help Me Teach the Bible</em></a><em> </em>by Nancy Guthrie</li><li><a href=\"https://www.trainingthechurch.com/knowingfaith\" target=\"_blank\" title=\"https://www.trainingthechurch.com/knowingfaith\"><em>Knowing Faith</em></a><em> </em>by Jen Wilkin, J. T. English,<br/>and Kyle Worley</li></ul>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        },
+        "faq_bUHcbV": {
+          "type": "faq",
+          "settings": {
+            "css-class": "",
+            "question": "APPS: What are some apps to have on my phone to grow alongside?",
+            "answer": "<ul><li>The Bible App—YouVersion</li><li>The Bible Project</li><li>Enduring Word</li><li>Blue Letter Bible</li><li>She Reads Truth</li></ul>",
+            "align_text": "left",
+            "space_above": 0,
+            "space_below": 0
+          }
+        }
+      },
+      "block_order": [
+        "faq_PTibfq",
+        "faq_VQ6rdU",
+        "faq_bUHcbV"
+      ],
+      "custom_css": [
+        ".image-wrap.loaded {padding-bottom: 100% !important;}"
+      ],
+      "settings": {
+        "space_above": 0,
+        "space_below": 40
+      }
+    },
+    "toolkit_9KRQUF": {
+      "type": "toolkit",
+      "blocks": {
+        "hero_QAAcJE": {
           "type": "hero",
           "settings": {
             "image": "shopify://shop_images/Summer-Hosanna-Large-Print-ESV-Bible-Flower-Farm-W-003.jpg",
@@ -1476,7 +1602,7 @@
             "mobile_height": "auto"
           }
         },
-        "text_and_image_YyePqd": {
+        "text_and_image_jLqfgB": {
           "type": "text_and_image",
           "settings": {
             "layout": "left",
@@ -1491,7 +1617,7 @@
             "lazyload_images": true
           }
         },
-        "hero_DgqqUK": {
+        "hero_qMrTEt": {
           "type": "hero",
           "settings": {
             "image": "shopify://shop_images/Picnic-Blanket-Hosanna-Revival.png",
@@ -1509,12 +1635,9 @@
         }
       },
       "block_order": [
-        "hero_W48Rgh",
-        "text_and_image_YyePqd",
-        "hero_DgqqUK"
-      ],
-      "custom_css": [
-        ".image-wrap.loaded {padding-bottom: 100% !important;}"
+        "hero_QAAcJE",
+        "text_and_image_jLqfgB",
+        "hero_qMrTEt"
       ],
       "settings": {
         "space_above": 0,
@@ -1546,6 +1669,7 @@
     "contact_form_L6WKGa",
     "combined-content-section-9",
     "text_columns_J9GKDy",
-    "combined-content-section-10"
+    "combined-content-section-10",
+    "toolkit_9KRQUF"
   ]
 }
