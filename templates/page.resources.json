@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "slideshow_9RcKVi": {
@@ -227,7 +228,7 @@
         "title": "Gospel of John",
         "text": "<p>If you are reading the Word for the first time, we suggest you start with John, a book at the beginning of the New Testament that details the life of Jesus. To get you started, here is a reading plan of the book of John. Our hope is that this guide will help you ask good questions and look at Scripture a little bit deeper.</p>",
         "button_label": "Download PDF",
-        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival.pdf?v=1625250384",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/John-Reading-Plan-Hosanna-Revival.pdf",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
