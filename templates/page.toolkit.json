@@ -1299,7 +1299,7 @@
             "color_text": "#000000",
             "space_above": 75,
             "space_below": 0,
-            "heading": "Recommended Resources",
+            "heading": "Featured Resources",
             "enlarge_text": false,
             "text": "",
             "align_text_block": "inherit",
@@ -1563,7 +1563,7 @@
           "settings": {
             "css-class": "",
             "question": "APPS: What are some apps to have on my phone to grow alongside?",
-            "answer": "<ul><li>The Bible App—YouVersion</li><li>The Bible Project</li><li>Enduring Word</li><li>Blue Letter Bible</li><li>She Reads Truth</li></ul>",
+            "answer": "<ul><li><a href=\"https://www.youversion.com/the-bible-app/\" target=\"_blank\" title=\"https://www.youversion.com/the-bible-app/\">The Bible App</a>—YouVersion</li><li><a href=\"https://bibleproject.com/app/\" target=\"_blank\" title=\"https://bibleproject.com/app/\">The Bible Project</a></li><li><a href=\"https://enduringword.com/about/enduring-word-smartphone-app/\" target=\"_blank\" title=\"https://enduringword.com/about/enduring-word-smartphone-app/\">Enduring Word</a></li><li><a href=\"https://www.blueletterbible.org/apps-tools.cfm\" target=\"_blank\" title=\"https://www.blueletterbible.org/apps-tools.cfm\">Blue Letter Bible</a></li><li><a href=\"https://shereadstruth.com/welcome-to-she-reads-truth/\" target=\"_blank\" title=\"https://shereadstruth.com/welcome-to-she-reads-truth/\">She Reads Truth</a></li></ul>",
             "align_text": "left",
             "space_above": 0,
             "space_below": 0
@@ -1580,7 +1580,7 @@
       ],
       "settings": {
         "space_above": 0,
-        "space_below": 40
+        "space_below": 50
       }
     },
     "toolkit_9KRQUF": {
