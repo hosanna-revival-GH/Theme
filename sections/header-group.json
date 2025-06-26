@@ -47,33 +47,33 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "10% off sitewide for our 10th birthday!",
-            "link_text": "A small token of our appreciation–we couldn’t do this without you!",
-            "link": "shopify://pages/spread-the-word"
+            "text": "Preorder When Marriage Meets Reality at 15% off",
+            "link_text": "Release unrealistic expectations and fall in love with the marriage you have",
+            "link": "shopify://pages/when-marriage-meets-reality"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Pre-order 2 new books from Dr. Tammy Smith Ph.D",
-            "link_text": "Whether you’re seeking guidance in your marriage or identity",
-            "link": "shopify://pages/dr-tammy-smith"
+            "text": "Preorder The Secure Soul at 15% off",
+            "link_text": "Let Dr. Tammy Smith guide you through Scripture that brings healing to your identity",
+            "link": "shopify://pages/the-secure-soul"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "A party favor!",
-            "link_text": "100 of you will get surprise gift cards to our shop in your order this month!",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": "Your home for beautiful Bibles",
+            "link_text": "Choose a beautiful Bible to help you engage in Scripture",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": " You’re a part of our donation initiative",
-            "link_text": "10% of your order goes to show Hope to help fund adoption grants",
-            "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative"
+            "text": "A Beautiful Notebook is calling your name",
+            "link_text": "The perfect companion for whatever notetaking you enjoy!",
+            "link": "shopify://collections/notebooks"
           }
         }
       },
