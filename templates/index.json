@@ -19,7 +19,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
+            "link": "shopify://pages/dr-tammy-smith",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -57,7 +57,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/the-hand-painted-collection",
+            "link": "shopify://pages/dr-tammy-smith",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -92,7 +92,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-05.png",
-            "link": "shopify://pages/show-hope-join-our-june-2025-donation-initiative",
+            "link": "shopify://pages/when-marriage-meets-reality",
             "width": "50"
           }
         },
@@ -100,7 +100,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-06.png",
-            "link": "shopify://collections/hosanna-revival-shop",
+            "link": "shopify://pages/the-secure-soul",
             "width": "50"
           }
         }
@@ -127,7 +127,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/about",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -227,7 +227,7 @@
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "shopify://pages/create-through-scripture",
+            "link": "shopify://pages/spread-the-word",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
