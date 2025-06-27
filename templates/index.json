@@ -26,7 +26,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-01.png",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-02.png",
+            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-017.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -63,8 +63,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-03.png",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-04.png",
+            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-019.png",
+            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-018.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
