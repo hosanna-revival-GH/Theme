@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "advanced_content_RycVwR": {
@@ -49,7 +50,7 @@
             "top_subheading": "",
             "title": "Create through Scripture",
             "title_size": 50,
-            "subheading": "Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for our 4-week creative series to create through Scripture!",
+            "subheading": "Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for our 4-week email series to create through Scripture!",
             "link": "",
             "link_text": "",
             "link_2": "",
@@ -68,7 +69,7 @@
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "section_height": "650px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -163,7 +164,7 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "an email series",
-        "title": "A Dwelling Place: A Journey to Create through Scripture",
+        "title": "A Dwelling Place: A Journey to Create through Psalm 84",
         "text": "<p>Join us for this 4-week series: <em>A Dwelling Place: A journey to create through Psalm 84</em>. Featuring sewing, landscape painting, baking, and more! </p>",
         "button_label": "Learn more",
         "button_link": "shopify://pages/dwelling-place",

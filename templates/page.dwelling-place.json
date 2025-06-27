@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "slideshow_cfYJNP": {
@@ -50,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "1739855578e0d58267": {
@@ -249,6 +251,28 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_WzzmBt": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Create-Through-Scripture-Dwelling-Place-Email-Series-Hosanna-Revival-SQ.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Prefer to print?",
+        "title": "Download the PDF",
+        "text": "<p>We suggest signing up for the email series since it’s paced week by week and full of beautiful visuals and inspiration to guide your process, but if you are looking to do this with a group or prefer to print and would like a PDF download of the weekly prompts, you’re in the right place! Download the free series below.</p>",
+        "button_label": "Download Now",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Dwelling-Place-Create-Through-Scripture-Hosanna-Revival.pdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_E9q7Jf": {
       "type": "rich-text",
       "blocks": {
@@ -435,7 +459,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 20,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_WRxtQf": {
@@ -471,7 +497,8 @@
         "style": "bars",
         "autoplay": false,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_GbJNRy": {
@@ -527,7 +554,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 75
+        "space_below": 75,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     }
   },
@@ -541,6 +570,7 @@
     "text_columns_HHy3iV",
     "text_and_image_M9yW33",
     "text_and_image_pCX9nw",
+    "text_and_image_WzzmBt",
     "rich_text_E9q7Jf",
     "rich_text_rxTPJK",
     "text_and_image_CaV7DQ",
