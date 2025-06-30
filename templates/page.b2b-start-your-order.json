@@ -73,11 +73,21 @@
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
+        },
+        "text_cbUPjh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>With love, <br/></em>Ben, Monica, Madison and Audra</p>",
+            "align_text_block": "center",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
         "heading_FnKicL",
-        "text_XY3R7h"
+        "text_XY3R7h",
+        "text_cbUPjh"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
