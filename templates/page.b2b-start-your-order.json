@@ -102,8 +102,8 @@
             "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival337.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "SHop our B2B site!",
-            "text": "<p>Place an order on our B2B site and receive an exclusive discount!</p>",
+            "title": "Get 10% off",
+            "text": "<p>Place an order on our B2B site and receive an exclusive 10% off discount on your next order!</p>",
             "button_label": "Shop",
             "button_link": "https://b2b.hosannarevival.com/discount/Atlanta25"
           }
@@ -116,7 +116,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Shop on Faire",
-            "text": "<p>Shop our products and tools using Faire--</p>",
+            "text": "<p>Shop our products and tools using the wholesale platform, Faire. </p>",
             "button_label": "Shop on Faire",
             "button_link": "https://www.faire.com/direct/hosannarevival?signUp=direct"
           }
