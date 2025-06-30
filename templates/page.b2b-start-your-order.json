@@ -70,7 +70,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We'll miss you at AmericasMart this summer! Enjoy 10% off on your next order through the link below, begin shopping on Faire, or reach out to one of our sales representatives for any questions!  </p>",
+            "text": "<p>Although we can't make it to AmericasMart this summer, enjoy 10% off on your next order through the link below. You can also begin shopping on Faire or reach out to one of our sales representatives for any questions!  </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -114,7 +114,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Get 10% off",
-            "text": "<p>Place an order on our B2B site and receive an exclusive 10% off discount on your next order.</p>",
+            "text": "<p>Place an order on our B2B site and receive an exclusive 10% off discount on your next order. </p>",
             "button_label": "Claim Discount",
             "button_link": "https://b2b.hosannarevival.com/discount/Atlanta25"
           }
@@ -175,6 +175,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival002_1fbf3bea-4b0c-47e9-9361-eb2ed46fde7c.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival002_1fbf3bea-4b0c-47e9-9361-eb2ed46fde7c.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
