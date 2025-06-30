@@ -56,6 +56,42 @@
         "disable_animation": false
       }
     },
+    "rich_text_fYpPiJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FnKicL": {
+          "type": "heading",
+          "settings": {
+            "title": "Hello from Cincinnati!"
+          }
+        },
+        "text_XY3R7h": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We'll miss you at AmericasMart this summer! Enjoy 10% off on your next order through the link below, begin shopping on Faire, or reach out to one of our sales representatives for any questions!  </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_FnKicL",
+        "text_XY3R7h"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#fff6e0",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
     "text_columns_G6tbm3": {
       "type": "text-columns",
       "blocks": {
@@ -63,36 +99,39 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival337.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "SHop our B2B site!",
             "text": "<p>Place an order on our B2B site and receive an exclusive discount!</p>",
             "button_label": "Shop",
-            "button_link": ""
+            "button_link": "https://b2b.hosannarevival.com/discount/Atlanta25"
           }
         },
         "text_block_xN89eB": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival421.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Faire",
+            "title": "Shop on Faire",
             "text": "<p>Shop our products and tools using Faire--</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "button_label": "Shop on Faire",
+            "button_link": "https://www.faire.com/direct/hosannarevival?signUp=direct"
           }
         },
         "text_block_Qnxb7D": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival332_1.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "Get in contact with us",
+            "text": "<p>Get in contact with a sales representative to discuss next steps for your shop!</p>",
+            "button_label": "Email a sales rep",
+            "button_link": "mailto:sales@hosannarevival.com"
           }
         }
       },
@@ -112,6 +151,7 @@
   "order": [
     "main",
     "slideshow_pW9F7q",
+    "rich_text_fYpPiJ",
     "text_columns_G6tbm3"
   ]
 }
