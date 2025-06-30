@@ -157,12 +157,51 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "slideshow_d7TnqX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_YBNTM8": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://b2b.hosannarevival.com/discount/Atlanta25",
+            "link_text": "SHOP NOW",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival002_1fbf3bea-4b0c-47e9-9361-eb2ed46fde7c.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_YBNTM8"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow_pW9F7q",
     "rich_text_fYpPiJ",
-    "text_columns_G6tbm3"
+    "text_columns_G6tbm3",
+    "slideshow_d7TnqX"
   ]
 }
