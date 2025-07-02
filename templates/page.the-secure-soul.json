@@ -124,6 +124,7 @@
         "heading_PJRE9t",
         "text_wUUjpW"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
@@ -414,7 +415,7 @@
     "single_button_3BJJYV": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preorder Today",
+        "button_text": "Order now",
         "button_link": "https://hosannarevival.com/products/the-secure-soul-by-tammy-smith",
         "button_size": "huge",
         "alignment": "center",
@@ -623,7 +624,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "https://hosannarevival.com/products/the-secure-soul-by-tammy-smith",
-            "link_text": "Preorder Now",
+            "link_text": "Order Now",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
