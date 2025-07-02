@@ -52,7 +52,7 @@
             "title_size": 50,
             "subheading": "The Secure Soul & When Marriage Meets Reality",
             "link": "shopify://collections/devotionals",
-            "link_text": "Preorder June 17 - July 14",
+            "link_text": "order now",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -84,14 +84,14 @@
         "heading_bghEKA": {
           "type": "heading",
           "settings": {
-            "title": "Preorder Two New Books Today"
+            "title": "Order our Two New Books Today"
           }
         },
         "text_mGrdMp": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Launch day is July 15! Preorder today to be among the first to read with </em><em><strong>front-of-the-line delivery plus 15% off each copy!</strong></em><em> Ships on or after July 15.</em></p>",
+            "text": "",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -101,6 +101,7 @@
         "heading_bghEKA",
         "text_mGrdMp"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
