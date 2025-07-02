@@ -79,6 +79,7 @@
         "heading_7Tr8GE",
         "text_83TYPK"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
@@ -413,7 +414,7 @@
     "single_button_3BJJYV": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preorder today",
+        "button_text": "Order today",
         "button_link": "https://hosannarevival.com/products/when-marriage-meets-reality-by-tammy-smith",
         "button_size": "huge",
         "alignment": "center",
@@ -622,7 +623,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "shopify://products/when-marriage-meets-reality-by-tammy-smith",
-            "link_text": "Preorder Now",
+            "link_text": "Order now",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
