@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "background_image_text_LgLcDX": {
@@ -94,10 +95,10 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "title": "Find us on Faire",
+            "text": "<p>If your preferred Wholesale Marketplace is Faire, feel free to place an order with us there!</p>",
+            "button_label": "Order on Faire",
+            "button_link": "https://hosannarevival.faire.com"
           }
         },
         "text_block_y8bet3": {
@@ -111,24 +112,11 @@
             "button_label": "View Terms & Conditions",
             "button_link": "shopify://pages/wholesale-terms-conditions"
           }
-        },
-        "text_block_rLUrUF": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "text_block_Ja3qU4",
-        "text_block_y8bet3",
-        "text_block_rLUrUF"
+        "text_block_y8bet3"
       ],
       "settings": {
         "title": "",
