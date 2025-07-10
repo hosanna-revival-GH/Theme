@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-01.png",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-017.png",
+            "image": "shopify://shop_images/Tammy-Launch-01.png",
+            "image_mobile": "shopify://shop_images/Tammy-Launch-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -63,8 +63,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-019.png",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-018.png",
+            "image": "shopify://shop_images/Tammy-Launch-03.png",
+            "image_mobile": "shopify://shop_images/Tammy-Launch-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -91,7 +91,7 @@
         "image_GzxX7N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-05.png",
+            "image": "shopify://shop_images/Tammy-Launch-05.png",
             "link": "shopify://pages/when-marriage-meets-reality",
             "width": "50"
           }
@@ -99,8 +99,8 @@
         "image_yqDrtn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-06.png",
-            "link": "shopify://pages/the-secure-soul",
+            "image": "shopify://shop_images/Tammy-Launch-06.png",
+            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/When-Marriage-Meets-Reality-Preview-Hosanna-Revival.pdf?v=1750091846",
             "width": "50"
           }
         }
@@ -108,6 +108,38 @@
       "block_order": [
         "image_GzxX7N",
         "image_yqDrtn"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_biWGaP": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_6LLmrd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Tammy-Launch-07.png",
+            "link": "shopify://pages/the-secure-soul",
+            "width": "50"
+          }
+        },
+        "image_ph38FD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Tammy-Launch-08.png",
+            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/The-Secure-Soul-Preview-Preview-Hosanna-Revival.pdf?v=1750091847",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_6LLmrd",
+        "image_ph38FD"
       ],
       "settings": {
         "full_width": true,
@@ -173,7 +205,7 @@
         "image_ci3cYn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-09.png",
+            "image": "shopify://shop_images/Tammy-Launch-09.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "25"
           }
@@ -181,7 +213,7 @@
         "image_UD8myw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-010.png",
+            "image": "shopify://shop_images/Tammy-Launch-010.png",
             "link": "shopify://collections/devotionals",
             "width": "25"
           }
@@ -189,7 +221,7 @@
         "image_LFw8iA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-011.png",
+            "image": "shopify://shop_images/Tammy-Launch-011.png",
             "link": "shopify://pages/your-one-thing-i-ask-journal",
             "width": "25"
           }
@@ -197,7 +229,7 @@
         "image_G9dwHg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-012.png",
+            "image": "shopify://shop_images/Tammy-Launch-012.png",
             "link": "shopify://collections/notebooks",
             "width": "25"
           }
@@ -344,8 +376,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-015.png",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-016.png",
+            "image": "shopify://shop_images/Tammy-Launch-013.png",
+            "image_mobile": "shopify://shop_images/Tammy-Launch-014.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -422,6 +454,7 @@
     "slideshow_X4MRpa",
     "slideshow_AeLHDb",
     "promo_grid_cMUWra",
+    "promo_grid_biWGaP",
     "slideshow_gW9EVE",
     "featured_collection_HPkeGD",
     "promo_grid_tVdjXe",
