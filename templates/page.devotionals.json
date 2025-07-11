@@ -61,14 +61,14 @@
         "heading_xbizRg": {
           "type": "heading",
           "settings": {
-            "title": "Introducing our Devotionals"
+            "title": "Introducing our Library"
           }
         },
         "text_jDGKbX": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Each of our devotionals is written by a talented writer in the Hosanna Revival community and intended to point you to Jesus, give you practical applications for the Christian life, and stand firmly on the Word of God.</p>",
+            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Each of our devotionals, Bible studies, and books is written by a talented writer in the Hosanna Revival community and intended to point you to Jesus, give you practical applications for the Christian life, and stand firmly on the Word of God.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
