@@ -61,8 +61,8 @@
     "single_button_3L6q9A": {
       "type": "single-button",
       "settings": {
-        "button_text": "Pre-Order When Marriage meets reality",
-        "button_link": "shopify://pages/when-marriage-meets-reality",
+        "button_text": "new releases: Shop Dr. Tammy Smith's books",
+        "button_link": "shopify://pages/dr-tammy-smith",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -74,8 +74,8 @@
     "single_button_eFchhW": {
       "type": "single-button",
       "settings": {
-        "button_text": "pre-order the secure soul",
-        "button_link": "shopify://pages/the-secure-soul",
+        "button_text": "We're hiring!",
+        "button_link": "shopify://blogs/careers",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -219,8 +219,8 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
-    "single_button_3L6q9A",
     "single_button_eFchhW",
+    "single_button_3L6q9A",
     "single_button_JD887j",
     "single_button_gX7jmw",
     "single_button_GryJY9",
