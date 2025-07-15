@@ -47,33 +47,33 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "New Book: When Marriage Meets Reality",
-            "link_text": "Release unrealistic expectations and fall in love with the marriage you have",
-            "link": "shopify://pages/when-marriage-meets-reality"
+            "text": " 15% off for our Summer Sitewide Sale",
+            "link_text": "Brighten your summer with a beautiful and intentional tool",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "New Book: The Secure Soul",
-            "link_text": "Let Dr. Tammy Smith guide you through Scripture that brings healing to your identity",
-            "link": "shopify://pages/the-secure-soul"
+            "text": " SHIPPING’S ON US FOR ORDERS OVER $60",
+            "link_text": "Add a notebook or devotional to your Bible purchase and get free domestic shipping!",
+            "link": "shopify://collections"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Your home for beautiful Bibles",
-            "link_text": "Choose a beautiful Bible to help you engage in Scripture",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": " THE WAIT IS OVER",
+            "link_text": "Explore the massive restock on our most beloved tools",
+            "link": "shopify://collections/theyre-back"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "A Beautiful Notebook is calling your name",
-            "link_text": "The perfect companion for whatever notetaking you enjoy!",
-            "link": "shopify://collections/notebooks"
+            "text": "SUMMER BOOK DROP",
+            "link_text": "Our 2 new books offer wisdom for Marriage & Identity, rooted in Scripture and guided by licensed counselor Dr. Tammy Smith",
+            "link": "shopify://pages/dr-tammy-smith"
           }
         }
       },

@@ -92,23 +92,23 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-03.png",
-            "link": "shopify://pages/when-marriage-meets-reality",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
         },
         "image_yqDrtn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-04.png",
-            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/When-Marriage-Meets-Reality-Preview-Hosanna-Revival.pdf?v=1750091846",
+            "image": "shopify://shop_images/Sitewide-sale-023.png",
+            "link": "shopify://collections/devotionals",
             "width": "50"
           }
         },
         "image_T9PWGX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-05.png",
-            "link": "",
+            "image": "shopify://shop_images/Sitewide-sale-024.png",
+            "link": "shopify://collections/notebooks",
             "width": "50"
           }
         },
@@ -116,7 +116,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-06.png",
-            "link": "",
+            "link": "shopify://pages/prayer-journal",
             "width": "50"
           }
         }
@@ -145,7 +145,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/theyre-back",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -180,7 +180,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-010.png",
-            "link": "shopify://pages/the-secure-soul",
+            "link": "shopify://products/esv-study-bible-iceland-theme",
             "width": "33"
           }
         },
@@ -188,7 +188,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-09.png",
-            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/The-Secure-Soul-Preview-Preview-Hosanna-Revival.pdf?v=1750091847",
+            "link": "shopify://products/esv-study-bible-sonora-theme",
             "width": "33"
           }
         },
@@ -196,7 +196,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-011.png",
-            "link": "",
+            "link": "shopify://products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
             "width": "33"
           }
         },
@@ -204,7 +204,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-012.png",
-            "link": "",
+            "link": "shopify://products/csb-notetaking-bible-dublin-theme",
             "width": "33"
           }
         },
@@ -212,7 +212,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-013.png",
-            "link": "",
+            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
             "width": "33"
           }
         },
@@ -220,7 +220,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-014.png",
-            "link": "",
+            "link": "shopify://products/nlt-notetaking-bible-adelaide-theme",
             "width": "33"
           }
         }
@@ -263,7 +263,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "",
+            "link": "shopify://pages/dr-tammy-smith",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -299,7 +299,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-017.png",
-            "link": "shopify://pages/your-one-thing-i-ask-journal",
+            "link": "shopify://pages/when-marriage-meets-reality",
             "width": "50"
           }
         },
@@ -307,7 +307,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-018.png",
-            "link": "shopify://collections/notebooks",
+            "link": "shopify://products/the-secure-soul-by-tammy-smith",
             "width": "50"
           }
         }
