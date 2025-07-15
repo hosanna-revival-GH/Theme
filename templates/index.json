@@ -253,45 +253,66 @@
         "divider": false
       }
     },
+    "slideshow_YNbwrF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EBgzXT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sitewide-sale-015.png",
+            "image_mobile": "shopify://shop_images/Sitewide-sale-016.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_EBgzXT"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "promo_grid_tVdjXe": {
       "type": "promo-grid",
       "blocks": {
-        "image_ci3cYn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-09.png",
-            "link": "shopify://collections/beautiful-bibles",
-            "width": "25"
-          }
-        },
-        "image_UD8myw": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-010.png",
-            "link": "shopify://collections/devotionals",
-            "width": "25"
-          }
-        },
         "image_LFw8iA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-011.png",
+            "image": "shopify://shop_images/Sitewide-sale-017.png",
             "link": "shopify://pages/your-one-thing-i-ask-journal",
-            "width": "25"
+            "width": "50"
           }
         },
         "image_G9dwHg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-012.png",
+            "image": "shopify://shop_images/Sitewide-sale-018.png",
             "link": "shopify://collections/notebooks",
-            "width": "25"
+            "width": "50"
           }
         }
       },
       "block_order": [
-        "image_ci3cYn",
-        "image_UD8myw",
         "image_LFw8iA",
         "image_G9dwHg"
       ],
@@ -319,8 +340,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-013.png",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-014.png",
+            "image": "shopify://shop_images/Sitewide-sale-019.png",
+            "image_mobile": "shopify://shop_images/Sitewide-sale-020.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -430,8 +451,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tammy-Launch-013.png",
-            "image_mobile": "shopify://shop_images/Tammy-Launch-014.png",
+            "image": "shopify://shop_images/Sitewide-sale-021.png",
+            "image_mobile": "shopify://shop_images/Sitewide-sale-22.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -511,6 +532,7 @@
     "slideshow_gW9EVE",
     "promo_grid_biWGaP",
     "featured_collection_HPkeGD",
+    "slideshow_YNbwrF",
     "promo_grid_tVdjXe",
     "slideshow_gyMt8x",
     "17413753419f9a3db7",

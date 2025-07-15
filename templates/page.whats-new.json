@@ -35,8 +35,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Birthday-Homepage-14_786d7738-8fa7-49ff-a3a6-9c4ea2963555.png",
-            "image_mobile": "shopify://shop_images/Birthday-Homepage-14_786d7738-8fa7-49ff-a3a6-9c4ea2963555.png",
+            "image": "shopify://shop_images/What_s-New.png",
+            "image_mobile": "shopify://shop_images/What_s-New.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -58,11 +58,12 @@
         "disable_animation": false
       }
     },
-    "single_button_3L6q9A": {
+    "single_button_eFchhW": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
-        "button_text": "new releases: Shop Dr. Tammy Smith's books",
-        "button_link": "shopify://pages/dr-tammy-smith",
+        "button_text": "We're hiring!",
+        "button_link": "shopify://blogs/careers",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -71,11 +72,11 @@
         "link_color_text": "#ffffff"
       }
     },
-    "single_button_eFchhW": {
+    "single_button_3L6q9A": {
       "type": "single-button",
       "settings": {
-        "button_text": "We're hiring!",
-        "button_link": "shopify://blogs/careers",
+        "button_text": "new releases: Shop Dr. Tammy Smith's books",
+        "button_link": "shopify://pages/dr-tammy-smith",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
