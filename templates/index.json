@@ -9,44 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/dr-tammy-smith",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tammy-Launch-01.png",
-            "image_mobile": "shopify://shop_images/Tammy-Launch-02.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "slideshow_AeLHDb": {
       "type": "slideshow",
       "blocks": {
@@ -57,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/dr-tammy-smith",
+            "link": "shopify://collections/hosanna-revival-shop",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tammy-Launch-03.png",
-            "image_mobile": "shopify://shop_images/Tammy-Launch-04.png",
+            "image": "shopify://shop_images/Sitewide-sale-001.png",
+            "image_mobile": "shopify://shop_images/Sitewide-sale-002.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -85,13 +47,51 @@
         "disable_animation": false
       }
     },
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sitewide-sale-01.png",
+            "image_mobile": "shopify://shop_images/Sitewide-sale-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "promo_grid_cMUWra": {
       "type": "promo-grid",
       "blocks": {
         "image_GzxX7N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-05.png",
+            "image": "shopify://shop_images/Sitewide-sale-03.png",
             "link": "shopify://pages/when-marriage-meets-reality",
             "width": "50"
           }
@@ -99,47 +99,33 @@
         "image_yqDrtn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-06.png",
+            "image": "shopify://shop_images/Sitewide-sale-04.png",
             "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/When-Marriage-Meets-Reality-Preview-Hosanna-Revival.pdf?v=1750091846",
+            "width": "50"
+          }
+        },
+        "image_T9PWGX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-05.png",
+            "link": "",
+            "width": "50"
+          }
+        },
+        "image_wzNDzm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-06.png",
+            "link": "",
             "width": "50"
           }
         }
       },
       "block_order": [
         "image_GzxX7N",
-        "image_yqDrtn"
-      ],
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "promo_grid_biWGaP": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_6LLmrd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-07.png",
-            "link": "shopify://pages/the-secure-soul",
-            "width": "50"
-          }
-        },
-        "image_ph38FD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Tammy-Launch-08.png",
-            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/The-Secure-Soul-Preview-Preview-Hosanna-Revival.pdf?v=1750091847",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_6LLmrd",
-        "image_ph38FD"
+        "image_yqDrtn",
+        "image_T9PWGX",
+        "image_wzNDzm"
       ],
       "settings": {
         "full_width": true,
@@ -165,8 +151,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-Pre-Order-07.png",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-Pre-Order-08.png",
+            "image": "shopify://shop_images/Sitewide-sale-07.png",
+            "image_mobile": "shopify://shop_images/Sitewide-sale-08.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -187,11 +173,79 @@
         "disable_animation": false
       }
     },
+    "promo_grid_biWGaP": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_6LLmrd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-010.png",
+            "link": "shopify://pages/the-secure-soul",
+            "width": "33"
+          }
+        },
+        "image_ph38FD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-09.png",
+            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/The-Secure-Soul-Preview-Preview-Hosanna-Revival.pdf?v=1750091847",
+            "width": "33"
+          }
+        },
+        "image_bqtYwV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-011.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_86YXr6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-012.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_3Dkhca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-013.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_HExtUa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-014.png",
+            "link": "",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_6LLmrd",
+        "image_ph38FD",
+        "image_bqtYwV",
+        "image_86YXr6",
+        "image_3Dkhca",
+        "image_HExtUa"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "featured_collection_HPkeGD": {
       "type": "featured-collection",
       "settings": {
-        "title": "beautiful bibles",
-        "home_featured_products": "beautiful-bibles",
+        "title": "Our Top Picks",
+        "home_featured_products": "best-sellers",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -451,11 +505,11 @@
     }
   },
   "order": [
-    "slideshow_X4MRpa",
     "slideshow_AeLHDb",
+    "slideshow_X4MRpa",
     "promo_grid_cMUWra",
-    "promo_grid_biWGaP",
     "slideshow_gW9EVE",
+    "promo_grid_biWGaP",
     "featured_collection_HPkeGD",
     "promo_grid_tVdjXe",
     "slideshow_gyMt8x",
