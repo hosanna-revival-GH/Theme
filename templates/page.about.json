@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "slideshow_dCMmXw": {
@@ -483,16 +484,6 @@
             "text": "<p>Audra serves as the Systems and Sales Ops Lead at Hosanna Revival! After living in Indianapolis for 7 years, she is thrilled to be back in her hometown of Cincinnati. Audra desires to contribute to Hosanna by learning the business end-to-end and diligently working to ensure all processes function smoothly and efficiently, ultimately aiming for the widest possible impact of God’s Word on people's lives! Her relationship with God began when, as a senior in high school, she realized that living to make much of herself left her absolutely empty. Through persistent friends and a multitude of prayer warriors around her, her heart opened up to the Truth, and she has been running with the Lord ever since! In her free time, you can find her outside with her pup, watching airplanes, spending time with loved ones, or line dancing!</p>"
           }
         },
-        "team_member_Analissa": {
-          "type": "team_member",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-31.jpg",
-            "image_width": 300,
-            "title": "Analissa FLores",
-            "text": "<p>Analissa, a Texas native, moved to Cincinnati earlier this year. Just days after arriving, she discovered that Hosanna Revival was hiring—and the rest is history. Now, she spends her days creating social media content, responding to comments, selecting ribbon colors for products, and second-shooting at Hosanna photoshoots! At 18, her life was transformed when she discovered what it truly meant to live with Jesus. A thriving extrovert, Analissa finds great joy in celebrating others, spending time with friends around a table, spending hours analyzing movies, and taking long walks with her film camera. She's a self-proclaimed matcha connoisseur.</p>"
-          }
-        },
         "team_member_YYz9fq": {
           "type": "team_member",
           "settings": {
@@ -515,6 +506,7 @@
         },
         "team_member_Frankie": {
           "type": "team_member",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/14-Frankie-Hosanna-Revival-Team.jpg",
@@ -548,7 +540,6 @@
         "team_member_Jenna",
         "team_member_Hope",
         "team_member_Audra",
-        "team_member_Analissa",
         "team_member_YYz9fq",
         "team_member_QwWMkc",
         "team_member_Frankie",
