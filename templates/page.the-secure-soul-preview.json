@@ -12,36 +12,36 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "page_title_enable": true,
-        "page_content_enable": true
+        "page_title_enable": false,
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
-    "advanced_content_RycVwR": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_RpWcHE": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "code": "<div style=\"width:100%;height:500px;\" data-fillout-id=\"fBE9kEtaZQus\" data-fillout-embed-type=\"standard\" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src=\"https://server.fillout.com/embed/v1/\"></script>",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_RpWcHE"
-      ],
-      "disabled": true,
+    "text_and_image_ry9UBm": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "full_width": false,
-        "space_around": true,
+        "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-31.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Your Free PDF",
+        "title": "“The Secure Soul” Chapter One Preview",
+        "text": "<p>Download Chapter One of <em>The Secure Soul</em> to begin developing the tools to build a life upon the reality that your identity is found, cultivated, and fulfilled in Jesus. Just note, this link to the PDF works best on desktop.</p>",
+        "button_label": "Download Now",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/The-Secure-Soul-Preview-Preview-Hosanna-Revival.pdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
         "lazyload_images": true
       }
     }
   },
   "order": [
     "main",
-    "advanced_content_RycVwR"
+    "text_and_image_ry9UBm"
   ]
 }
