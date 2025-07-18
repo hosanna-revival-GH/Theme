@@ -138,9 +138,10 @@
         "text_block_3AJtT8": {
           "type": "text_block",
           "settings": {
-            "enable_image": false,
+            "enable_image": true,
+            "image": "shopify://shop_images/Icon-OTIA-Gift-Box-540x.png",
             "image_mask": "none",
-            "image_width": 650,
+            "image_width": 120,
             "title": "Return Request",
             "text": "<p>Did you change your mind or want a different tool? If you want to make a return, click below to begin the process.</p>",
             "button_label": "Start a Return",
@@ -150,9 +151,10 @@
         "text_block_TMxkGX": {
           "type": "text_block",
           "settings": {
-            "enable_image": false,
+            "enable_image": true,
+            "image": "shopify://shop_images/Icon-OTIA-Edinburgh-540x.png",
             "image_mask": "none",
-            "image_width": 650,
+            "image_width": 120,
             "title": "Order FAQs",
             "text": "<p>Whether you’re wondering which pens to use to write in your Bible or whether a discount code isn’t working, explore our most commonly-asked questions.</p>",
             "button_label": "FAQs",
@@ -162,9 +164,10 @@
         "text_block_mj8g6c": {
           "type": "text_block",
           "settings": {
-            "enable_image": false,
+            "enable_image": true,
+            "image": "shopify://shop_images/Icon-OTIA-Praying-Hands-540x.png",
             "image_mask": "none",
-            "image_width": 650,
+            "image_width": 120,
             "title": "Contact Us",
             "text": "<p>If you need assistance or want to ask a more specific question, our small team is here to help! Reach out to our customer service manager below. </p>",
             "button_label": "Contact Us",
