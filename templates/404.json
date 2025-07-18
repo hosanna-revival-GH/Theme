@@ -55,7 +55,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Below, find access to our most frequently visited pages and resources to help you find exactly what you’re looking for. In the meantime, you can visit our <a href=\"https://hosannarevival.com/\" title=\"https://hosannarevival.com/\">homepage</a>, <a href=\"/collections/hosanna-revival-shop\" title=\"Hosanna Revival Shop\">online shop</a>, or <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">lock screens</a> for a tiny free tool for today. We’re cheering you on as you engage in Scripture!</p>",
+            "text": "<p>Below you can find access to our most frequently visited pages and resources to help you find exactly what you’re looking for. You can also simply visit our <a href=\"https://hosannarevival.com/\" title=\"https://hosannarevival.com/\">homepage</a> or <a href=\"/collections/hosanna-revival-shop\" title=\"Hosanna Revival Shop\">online shop</a>—or download a <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">lock screen</a> as a tiny free tool for today. We’re cheering you on as you engage in Scripture!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
