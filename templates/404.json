@@ -87,7 +87,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Beautiful Tools",
-            "text": "<p>We exist to excite you to engage in Scripture through our beautiful and intentional tools. From <a href=\"/collections/beautiful-bibles\" title=\"Beautiful Bibles\">Bibles</a> to <a href=\"/pages/prayer-journal\" title=\"Prayer Journal\">5-Year Prayer Journals</a> to <a href=\"/pages/devotionals\" title=\"Devotionals\">devotionals</a> and more, start fresh today!</p>",
+            "text": "<p>We exist to excite you to engage in Scripture through creating beautiful and intentional tools for your life. From <a href=\"/collections/beautiful-bibles\" title=\"Beautiful Bibles\">Bibles</a> and <a href=\"/pages/prayer-journal\" title=\"Prayer Journal\">5-Year Prayer Journals</a> to <a href=\"/pages/devotionals\" title=\"Devotionals\">devotionals</a> and <a href=\"/collections/notebooks\" title=\"Notebooks\">notebooks</a>, start fresh today!</p>",
             "button_label": "Shop All",
             "button_link": "shopify://collections/all"
           }
@@ -111,7 +111,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Our “WHEN” Blog",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "text": "<p><em>WHEN </em>is a branch of Hosanna Revival <a href=\"https://hosannarevival.com/pages/publishing\" target=\"_blank\" title=\"Publishing\">Publishing</a> that partners with writers from our community to hold wild and weighty topics up to the light of Scripture. Whether you’re struggling with <a href=\"https://hosannarevival.blog/when-you-dont-know-how-to-surrender-to-god/\" target=\"_blank\" title=\"https://hosannarevival.blog/when-you-dont-know-how-to-surrender-to-god/\">surrender</a> or <a href=\"https://hosannarevival.blog/when-youre-struggling-with-sexual-sin/\" target=\"_blank\" title=\"https://hosannarevival.blog/when-youre-struggling-with-sexual-sin/\">sexual sin</a>, find the article for your season at hand.</p>",
             "button_label": "Optional button",
             "button_link": ""
           }
