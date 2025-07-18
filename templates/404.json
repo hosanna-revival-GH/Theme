@@ -255,7 +255,7 @@
       "settings": {
         "title": "View our latest collection",
         "home_featured_products": "spring-2025-collection",
-        "per_row": 4,
+        "per_row": 5,
         "rows": 2,
         "mobile_scrollable": true,
         "view_all": true,
