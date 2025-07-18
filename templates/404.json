@@ -14,21 +14,21 @@
       "disabled": true,
       "settings": {}
     },
-    "rich_text_Ww6iWw": {
+    "rich_text_xERJ9R": {
       "type": "rich-text",
       "blocks": {
-        "text_4QAB7n": {
+        "text_FVEmiD": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Psst—we couldn’t find what you’re looking for...</em></p>",
+            "text": "<p><em>We couldn’t find what you’re looking for, but...</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
-        "text_4QAB7n"
+        "text_FVEmiD"
       ],
       "settings": {
         "align_text": "center",
@@ -48,10 +48,149 @@
         "heading_Jz6kNb": {
           "type": "heading",
           "settings": {
-            "title": "But just ask Frankie in the Chat Bubble"
+            "title": "Begin with beauty here!"
           }
         },
         "text_tiRe66": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Below, find access to our most frequently visited pages and resources to help you find exactly what you’re looking for. In the meantime, you can visit our <a href=\"https://hosannarevival.com/\" title=\"https://hosannarevival.com/\">homepage</a>, <a href=\"/collections/hosanna-revival-shop\" title=\"Hosanna Revival Shop\">online shop</a>, or <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">lock screens</a> for a tiny free tool for today. We’re cheering you on as you engage in Scripture!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_Jz6kNb",
+        "text_tiRe66"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 15,
+        "space_below": 75
+      }
+    },
+    "text_columns_UET63W": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_Jd77mA": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Beautiful Tools",
+            "text": "<p>We exist to excite you to engage in Scripture through our beautiful and intentional tools. From <a href=\"/collections/beautiful-bibles\" title=\"Beautiful Bibles\">Bibles</a> to <a href=\"/pages/prayer-journal\" title=\"Prayer Journal\">5-Year Prayer Journals</a> to <a href=\"/pages/devotionals\" title=\"Devotionals\">devotionals</a> and more, start fresh today!</p>",
+            "button_label": "Shop All",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "text_block_TKUnye": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Free Resources",
+            "text": "<p>We love providing you with free, content-rich resources intended to point you to Scripture. Whether that's through a <a href=\"/pages/free-resources\" title=\"Free Resources\">free email series</a>, a <a href=\"/pages/create-through-scripture\" title=\"Create Through Scripture\">journey through creativity</a>, or our <a href=\"/blogs/lock-screens\" title=\"Lock Screens\">free lock screens</a>, be equipped today!</p>",
+            "button_label": "Free Resources",
+            "button_link": "shopify://pages/free-resources"
+          }
+        },
+        "text_block_P7dijk": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Our “WHEN” Blog",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Jd77mA",
+        "text_block_TKUnye",
+        "text_block_P7dijk"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_columns_tJmPax": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_3AJtT8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Return Request",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_TMxkGX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Order FAQs",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_mj8g6c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Contact Us",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3AJtT8",
+        "text_block_TMxkGX",
+        "text_block_mj8g6c"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_7DqDpU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TmKMqr": {
+          "type": "heading",
+          "settings": {
+            "title": "Find what you’re looking for here!"
+          }
+        },
+        "text_tfAcgW": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
@@ -60,7 +199,7 @@
             "block_bottom_space": 30
           }
         },
-        "text_QbCwd4": {
+        "text_xmgxyV": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
@@ -71,10 +210,11 @@
         }
       },
       "block_order": [
-        "heading_Jz6kNb",
-        "text_tiRe66",
-        "text_QbCwd4"
+        "heading_TmKMqr",
+        "text_tfAcgW",
+        "text_xmgxyV"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -119,8 +259,11 @@
   },
   "order": [
     "main",
-    "rich_text_Ww6iWw",
+    "rich_text_xERJ9R",
     "rich_text_gTLffy",
+    "text_columns_UET63W",
+    "text_columns_tJmPax",
+    "rich_text_7DqDpU",
     "background_image_text_Ti4HaY",
     "featured-collection"
   ]
