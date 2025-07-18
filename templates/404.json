@@ -139,7 +139,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Return Request",
-            "text": "<p>Did you change your mind? If you want to make a return, click below to begin the process.</p>",
+            "text": "<p>Did you change your mind or want a different tool? If you want to make a return, click below to begin the process.</p>",
             "button_label": "Start a Return",
             "button_link": "shopify://pages/returns"
           }
