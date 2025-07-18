@@ -140,8 +140,8 @@
             "image_width": 650,
             "title": "Return Request",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "button_label": "Start a Return",
+            "button_link": "shopify://pages/returns"
           }
         },
         "text_block_TMxkGX": {
@@ -152,8 +152,8 @@
             "image_width": 650,
             "title": "Order FAQs",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "button_label": "FAQs",
+            "button_link": "shopify://pages/faqs-support"
           }
         },
         "text_block_mj8g6c": {
@@ -164,8 +164,8 @@
             "image_width": 650,
             "title": "Contact Us",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "button_label": "Contact Us",
+            "button_link": "shopify://pages/contact"
           }
         }
       },
