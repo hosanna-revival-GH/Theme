@@ -91,7 +91,7 @@
         "image_GzxX7N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-03.png",
+            "image": "shopify://shop_images/Sitewide-sale-01_0046133e-f5a7-4f7a-bb45-6996e567ee65.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -99,7 +99,7 @@
         "image_yqDrtn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-023.png",
+            "image": "shopify://shop_images/Sitewide-sale-02_7635a08b-59be-4fe8-a309-dc1a6d72dfa8.png",
             "link": "shopify://collections/devotionals",
             "width": "50"
           }
@@ -107,7 +107,7 @@
         "image_T9PWGX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-024.png",
+            "image": "shopify://shop_images/Sitewide-sale-03_7d0a1221-d933-41e8-92c4-07bb4f03c779.png",
             "link": "shopify://collections/notebooks",
             "width": "50"
           }
@@ -115,7 +115,7 @@
         "image_wzNDzm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-06.png",
+            "image": "shopify://shop_images/Sitewide-sale-04_e57eea5d-ee77-4320-b0f4-b4b70172b8f5.png",
             "link": "shopify://pages/prayer-journal",
             "width": "50"
           }
@@ -202,6 +202,7 @@
         },
         "image_86YXr6": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-012.png",
             "link": "shopify://products/csb-notetaking-bible-dublin-theme",
@@ -210,6 +211,7 @@
         },
         "image_3Dkhca": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-013.png",
             "link": "shopify://products/nlt-notetaking-bible-coram-theme",
@@ -218,6 +220,7 @@
         },
         "image_HExtUa": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Sitewide-sale-014.png",
             "link": "shopify://products/nlt-notetaking-bible-adelaide-theme",
@@ -298,7 +301,7 @@
         "image_LFw8iA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-017.png",
+            "image": "shopify://shop_images/Sitewide-sale-06_07726582-0c00-4572-a33d-6b13e1e629a3.png",
             "link": "shopify://pages/when-marriage-meets-reality",
             "width": "50"
           }
@@ -306,7 +309,7 @@
         "image_G9dwHg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-018.png",
+            "image": "shopify://shop_images/Sitewide-sale-07_60122baf-1563-4ae5-9f3d-0ea3b3588f14.png",
             "link": "shopify://products/the-secure-soul-by-tammy-smith",
             "width": "50"
           }
