@@ -62,6 +62,7 @@
         },
         "announcement-1": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": " THE WAIT IS OVER",
             "link_text": "Explore the massive restock on our most beloved tools",
