@@ -253,7 +253,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-066_be926654-2911-4b41-b22e-cca437110821.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-299.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -470,7 +470,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-268.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-112.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -517,7 +517,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "left",
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-14.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-094.jpg",
             "image_width": 50,
             "subtitle": "1",
             "title": "Monthly Scripture",
@@ -532,7 +532,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "right",
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-23.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-100.jpg",
             "image_width": 50,
             "subtitle": "2",
             "title": "Month-at-a-Glance Spread",
@@ -547,7 +547,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "left",
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-27.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-102.jpg",
             "image_width": 50,
             "subtitle": "3",
             "title": "Calendar Spread",
@@ -562,7 +562,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "right",
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-30.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-105.jpg",
             "image_width": 50,
             "subtitle": "4",
             "title": "Weekly Spread",
@@ -838,7 +838,7 @@
         "hero_VATTHV": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-216B.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-126.jpg",
             "title": "A Faith-Based Planner",
             "subheading": "Explore the Scripture-centered features",
             "link": "",
@@ -846,7 +846,7 @@
             "color_accent": "",
             "text_align": "left",
             "title_size": 72,
-            "parallax": true,
+            "parallax": false,
             "section_height": "450px",
             "mobile_height": "auto"
           }
@@ -985,7 +985,7 @@
         "hero_UGAWgB": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-183.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-293_f9fd19a7-aeeb-41c9-a376-b5227ad90606.jpg",
             "title": "A Planner for Every Season",
             "subheading": "",
             "link": "",
@@ -994,7 +994,7 @@
             "text_align": "left",
             "title_size": 72,
             "parallax": false,
-            "section_height": "450px",
+            "section_height": "natural",
             "mobile_height": "auto"
           }
         },
