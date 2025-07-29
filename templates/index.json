@@ -176,6 +176,22 @@
     "promo_grid_biWGaP": {
       "type": "promo-grid",
       "blocks": {
+        "image_3Dkhca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-013.png",
+            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
+            "width": "50"
+          }
+        },
+        "image_86YXr6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-012.png",
+            "link": "shopify://products/csb-notetaking-bible-dublin-theme",
+            "width": "50"
+          }
+        },
         "image_6LLmrd": {
           "type": "image",
           "settings": {
@@ -200,24 +216,6 @@
             "width": "33"
           }
         },
-        "image_86YXr6": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-012.png",
-            "link": "shopify://products/csb-notetaking-bible-dublin-theme",
-            "width": "33"
-          }
-        },
-        "image_3Dkhca": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-013.png",
-            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
-            "width": "33"
-          }
-        },
         "image_HExtUa": {
           "type": "image",
           "disabled": true,
@@ -229,11 +227,11 @@
         }
       },
       "block_order": [
+        "image_3Dkhca",
+        "image_86YXr6",
         "image_6LLmrd",
         "image_ph38FD",
         "image_bqtYwV",
-        "image_86YXr6",
-        "image_3Dkhca",
         "image_HExtUa"
       ],
       "settings": {
