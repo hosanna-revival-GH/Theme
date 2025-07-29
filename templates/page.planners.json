@@ -25,9 +25,10 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-095.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-066.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -37,11 +38,12 @@
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_deHdU3": {
@@ -252,7 +254,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-123B.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -266,7 +269,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_UG8Wjy": {
@@ -467,7 +471,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-268.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -481,7 +486,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "combined-content-section-1": {
@@ -1079,7 +1085,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 75
+        "space_below": 75,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "hero_video_jFMaEt": {
@@ -1277,7 +1285,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_7tMFxX": {
@@ -1298,7 +1308,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-074.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -1312,7 +1323,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
