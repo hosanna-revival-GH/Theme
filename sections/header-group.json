@@ -44,6 +44,14 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": " THE WAIT IS OVER",
+            "link_text": "Explore the massive restock on our most beloved tools",
+            "link": "shopify://collections/theyre-back"
+          }
+        },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
@@ -60,15 +68,6 @@
             "link": "shopify://collections"
           }
         },
-        "announcement-1": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": " THE WAIT IS OVER",
-            "link_text": "Explore the massive restock on our most beloved tools",
-            "link": "shopify://collections/theyre-back"
-          }
-        },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
@@ -79,9 +78,9 @@
         }
       },
       "block_order": [
+        "announcement-1",
         "announcement_FNqfy6",
         "announcement_mMUAeX",
-        "announcement-1",
         "announcement_NXQKWa"
       ],
       "settings": {
