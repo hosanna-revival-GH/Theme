@@ -1093,6 +1093,7 @@
     },
     "hero_video_jFMaEt": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 80,
