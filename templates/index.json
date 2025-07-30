@@ -278,8 +278,8 @@
     "featured_collection_HPkeGD": {
       "type": "featured-collection",
       "settings": {
-        "title": "Our Top Picks",
-        "home_featured_products": "best-sellers",
+        "title": "Which planner will you fill?",
+        "home_featured_products": "planners",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -614,9 +614,9 @@
     "slideshow_X4MRpa",
     "promo_grid_UydWcM",
     "slideshow_8yzxct",
+    "featured_collection_HPkeGD",
     "slideshow_gW9EVE",
     "promo_grid_biWGaP",
-    "featured_collection_HPkeGD",
     "promo_grid_cMUWra",
     "slideshow_YNbwrF",
     "promo_grid_tVdjXe",
