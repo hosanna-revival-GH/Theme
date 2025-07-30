@@ -1177,7 +1177,7 @@
         "hero_qmADww": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-040.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-014.jpg",
             "title": "Intentional Tools",
             "subheading": "to pair with our planners",
             "link": "",
@@ -1186,7 +1186,7 @@
             "text_align": "left",
             "title_size": 72,
             "parallax": false,
-            "section_height": "550px",
+            "section_height": "450px",
             "mobile_height": "auto"
           }
         },
@@ -1231,7 +1231,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-293.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival331.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Matching Notebook",
