@@ -47,33 +47,33 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": " THE WAIT IS OVER",
-            "link_text": "Explore the massive restock on our most beloved tools",
-            "link": "shopify://collections/theyre-back"
+            "text": "20% OFF New Hosanna Revival Planners",
+            "link_text": "Use code PLANNER20 and begin planning with a beautiful new planner",
+            "link": "shopify://collections/planners"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": " 15% off for our Summer Sitewide Sale",
-            "link_text": "Brighten your summer with a beautiful and intentional tool",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": "We’ve Restocked the shop!",
+            "link_text": "Some of our most-loved tools are back—take a look before they’re gone again!",
+            "link": "shopify://collections/theyre-back"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": " SHIPPING’S ON US FOR ORDERS OVER $60",
-            "link_text": "Add a notebook or devotional to your Bible purchase and get free domestic shipping!",
-            "link": "shopify://collections"
+            "text": "A summer book on healing awaits!",
+            "link_text": "Check out our two newest books by licensed counselor Dr. Tammy Smith, one on identity, and one on marriage!",
+            "link": "shopify://pages/dr-tammy-smith"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "SUMMER BOOK DROP",
-            "link_text": "Our 2 new books offer wisdom for Marriage & Identity, rooted in Scripture and guided by licensed counselor Dr. Tammy Smith",
-            "link": "shopify://pages/dr-tammy-smith"
+            "text": "Create Through Scripture: Kept",
+            "link_text": "You’re invited to sign up for our annual creative challenge, this year walking through Psalm 121!",
+            "link": "shopify://pages/create-through-scripture"
           }
         }
       },
