@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Sitewide-sale-001.png",
-            "image_mobile": "shopify://shop_images/Sitewide-sale-002.png",
+            "image": "shopify://shop_images/Planner-launch-01.png",
+            "image_mobile": "shopify://shop_images/Planner-launch-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -63,8 +63,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Sitewide-sale-01.png",
-            "image_mobile": "shopify://shop_images/Sitewide-sale-02.png",
+            "image": "shopify://shop_images/Planner-launch-03.png",
+            "image_mobile": "shopify://shop_images/Planner-launch-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -83,6 +83,208 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "promo_grid_UydWcM": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_dcHMiN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Planner-launch-07.png",
+            "link": "shopify://collections/planners",
+            "width": "33"
+          }
+        },
+        "image_tnpWYx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Planner-launch-05.png",
+            "link": "shopify://collections/planners",
+            "width": "33"
+          }
+        },
+        "image_8pcdHL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Planner-launch-06.png",
+            "link": "shopify://collections/planners",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_dcHMiN",
+        "image_tnpWYx",
+        "image_8pcdHL"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_8yzxct": {
+      "type": "slideshow",
+      "blocks": {
+        "image_K4Ekm6": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/planners",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Planner-launch-08.png",
+            "image_mobile": "shopify://shop_images/Planner-launch-09.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_K4Ekm6"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/theyre-back",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sitewide-sale-07.png",
+            "image_mobile": "shopify://shop_images/Sitewide-sale-08.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "promo_grid_biWGaP": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_3Dkhca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-013.png",
+            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
+            "width": "33"
+          }
+        },
+        "image_86YXr6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-012.png",
+            "link": "shopify://products/csb-notetaking-bible-dublin-theme",
+            "width": "33"
+          }
+        },
+        "image_6LLmrd": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-010.png",
+            "link": "shopify://products/esv-study-bible-iceland-theme",
+            "width": "33"
+          }
+        },
+        "image_ph38FD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-09.png",
+            "link": "shopify://products/esv-study-bible-sonora-theme",
+            "width": "33"
+          }
+        },
+        "image_bqtYwV": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-011.png",
+            "link": "shopify://products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
+            "width": "33"
+          }
+        },
+        "image_HExtUa": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Sitewide-sale-014.png",
+            "link": "shopify://products/nlt-notetaking-bible-adelaide-theme",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_3Dkhca",
+        "image_86YXr6",
+        "image_6LLmrd",
+        "image_ph38FD",
+        "image_bqtYwV",
+        "image_HExtUa"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_HPkeGD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Top Picks",
+        "home_featured_products": "best-sellers",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "promo_grid_cMUWra": {
@@ -133,125 +335,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/theyre-back",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Sitewide-sale-07.png",
-            "image_mobile": "shopify://shop_images/Sitewide-sale-08.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "promo_grid_biWGaP": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_3Dkhca": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-013.png",
-            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
-            "width": "50"
-          }
-        },
-        "image_86YXr6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-012.png",
-            "link": "shopify://products/csb-notetaking-bible-dublin-theme",
-            "width": "50"
-          }
-        },
-        "image_6LLmrd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-010.png",
-            "link": "shopify://products/esv-study-bible-iceland-theme",
-            "width": "33"
-          }
-        },
-        "image_ph38FD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-09.png",
-            "link": "shopify://products/esv-study-bible-sonora-theme",
-            "width": "33"
-          }
-        },
-        "image_bqtYwV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-011.png",
-            "link": "shopify://products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
-            "width": "33"
-          }
-        },
-        "image_HExtUa": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-014.png",
-            "link": "shopify://products/nlt-notetaking-bible-adelaide-theme",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_3Dkhca",
-        "image_86YXr6",
-        "image_6LLmrd",
-        "image_ph38FD",
-        "image_bqtYwV",
-        "image_HExtUa"
-      ],
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "featured_collection_HPkeGD": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Our Top Picks",
-        "home_featured_products": "best-sellers",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_YNbwrF": {
@@ -529,10 +612,12 @@
   "order": [
     "slideshow_AeLHDb",
     "slideshow_X4MRpa",
-    "promo_grid_cMUWra",
+    "promo_grid_UydWcM",
+    "slideshow_8yzxct",
     "slideshow_gW9EVE",
     "promo_grid_biWGaP",
     "featured_collection_HPkeGD",
+    "promo_grid_cMUWra",
     "slideshow_YNbwrF",
     "promo_grid_tVdjXe",
     "slideshow_gyMt8x",
