@@ -1177,7 +1177,7 @@
         "hero_qmADww": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-54.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-040.jpg",
             "title": "Intentional Tools",
             "subheading": "to pair with our planners",
             "link": "",
@@ -1186,7 +1186,7 @@
             "text_align": "left",
             "title_size": 72,
             "parallax": false,
-            "section_height": "450px",
+            "section_height": "550px",
             "mobile_height": "auto"
           }
         },
