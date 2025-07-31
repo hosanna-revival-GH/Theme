@@ -804,7 +804,7 @@
         "hero_UGAWgB": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-094.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-293.jpg",
             "title": "A Planner for Every Season",
             "subheading": "So you can live your busy and beautiful life!",
             "link": "",
@@ -912,6 +912,7 @@
     },
     "hero_video_jFMaEt": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 80,
@@ -1016,7 +1017,7 @@
         "hero_qmADww": {
           "type": "hero",
           "settings": {
-            "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-52_e6559c95-735f-43a2-8a19-24ecc55ce47a.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-014.jpg",
             "title": "Intentional Tools",
             "subheading": "To pair with your planner",
             "link": "",
@@ -1051,11 +1052,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-293.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival331.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Matching Notebook",
-            "text": "<p>Choose from our beautiful lined and dotted notebooks to find the perfect pair to plan your year well.</p>",
+            "text": "<p>Choose from our beautiful lined notebooks to find the perfect pair to plan your year well.</p>",
             "button_label": "choose my notebook",
             "button_link": "shopify://collections/notebooks"
           }
