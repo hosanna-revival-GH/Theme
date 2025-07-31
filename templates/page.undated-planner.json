@@ -25,9 +25,10 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-274.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-299.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -41,7 +42,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_deHdU3": {
@@ -106,7 +108,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "left",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-030.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-525.jpg",
             "image_width": 50,
             "subtitle": "",
             "title": "The Hosanna Revival Planner is...",
@@ -240,9 +242,10 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-274.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-382.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -256,7 +259,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_UG8Wjy": {
@@ -320,7 +324,7 @@
             "image": "shopify://shop_images/2025-Academic-Planners-Flat-Lay-Hosanna-Revival-09.jpg",
             "image_width": 50,
             "subtitle": "1",
-            "title": "Open the beautiful Marlo cover.",
+            "title": "Open the beautiful cover.",
             "text": "<p>We believe beauty can spark a fresh start when you need it most. That’s why we’ve paired our best selling Marlo cover design with the following functional features to stir your excitement to open the front cover and plan your most intentional year yet. This soft leather-like cover was inspired by the dreamy shores of Marlo, an Australian beach town—a perfect place to quiet your soul and meditate on the goodness of God.</p>",
             "button_link": "",
             "button_label": "",
@@ -901,7 +905,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 75
+        "space_below": 75,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "hero_video_jFMaEt": {
@@ -1100,7 +1106,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 70
+        "space_below": 70,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_7tMFxX": {
@@ -1121,7 +1129,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-074.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -1135,10 +1144,10 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
-    },
-
+    }
   },
   "order": [
     "slideshow_Qck9Cx",
