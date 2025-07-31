@@ -1128,7 +1128,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2025-Academic-Planners-Minimal-Floral-Hosanna-Revival-074.jpg",
+            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-304.jpg",
+            "image_mobile": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-304.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -1141,7 +1142,7 @@
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
