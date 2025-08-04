@@ -380,27 +380,45 @@
             "align_text": "left",
             "lazyload_images": true
           }
-        },
-        "single_button_FTQme4": {
-          "type": "single-button",
-          "settings": {
-            "secondary": false,
-            "button_text": "Choose My Cover",
-            "button_link": "shopify://collections/planners",
-            "button_size": "huge",
-            "alignment": "center",
-            "space_above": 0,
-            "space_below": 75
-          }
         }
       },
       "block_order": [
-        "text_and_image_KbXCmK",
-        "single_button_FTQme4"
+        "text_and_image_KbXCmK"
       ],
       "settings": {
         "space_above": 0,
         "space_below": 0
+      }
+    },
+    "hero_video_K88XDk": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/9de0d86f5292461ba99621e0b0a4ffb0.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "single_button_7aaHan": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "Begin planning",
+        "button_link": "shopify://collections/planners",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_ALxDL6": {
@@ -438,23 +456,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "hero_video_K88XDk": {
-      "type": "hero-video",
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/9de0d86f5292461ba99621e0b0a4ffb0.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
       }
     },
     "combined-content-section-1": {
@@ -1044,36 +1045,6 @@
         "divider": false
       }
     },
-    "single_button_FnXkzE": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Start Fresh",
-        "button_link": "shopify://collections/planners",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 0,
-        "space_below": 75,
-        "link_color_background": "#9ba586",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "hero_video_jFMaEt": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "begin today",
-        "link": "shopify://collections/planners",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/9986942135f54d74b44d35c35083381a.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
     "combined-content-section-6": {
       "type": "toolkit",
       "blocks": {
@@ -1306,8 +1277,9 @@
     "rich_text_UG8Wjy",
     "text_columns_hFdMPw",
     "combined-content-section-5",
-    "slideshow_ALxDL6",
     "hero_video_K88XDk",
+    "single_button_7aaHan",
+    "slideshow_ALxDL6",
     "combined-content-section-1",
     "text_columns_jCgwVL",
     "combined-content-section-2",
@@ -1316,8 +1288,6 @@
     "text_columns_r8JV6r",
     "combined-content-section-7",
     "text_columns_iEWpem",
-    "single_button_FnXkzE",
-    "hero_video_jFMaEt",
     "combined-content-section-6",
     "text_columns_NQixpN",
     "single_button_8k6T9t",
