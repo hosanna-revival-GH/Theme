@@ -551,7 +551,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Create Pleasant Places",
-        "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
+        "button_link": "shopify://pages/create-through-scripture",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
