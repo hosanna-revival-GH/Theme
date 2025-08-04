@@ -79,6 +79,7 @@
     },
     "hero_video_3bHn36": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 80,
@@ -238,8 +239,8 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Featured Intentional Tools",
-        "title": "Artist Sketchbook and Notebooks",
-        "text": "<p>Need tools to begin creating? While we encourage a range of both traditional and non-traditional mediums through our prompts and artist features, you are welcome to stock up on our paintable kraft-cover notebooks—<em>Hosanna Blanks</em>—or our leather-bound sketchbook as tools for your journey.</p>",
+        "title": "Artist Notebooks",
+        "text": "<p>Need tools to begin creating? While we encourage a range of both traditional and non-traditional mediums through our prompts and artist features, you are welcome to stock up on our paintable kraft-cover notebooks—<em>Hosanna Blanks</em>—as tools for your journey.</p>",
         "button_label": "Shop Artist Tools",
         "button_link": "shopify://pages/art-resources",
         "button_style": "primary",
