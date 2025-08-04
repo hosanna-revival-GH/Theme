@@ -336,6 +336,7 @@
         "heading_xnJixW",
         "text_NcLQbg"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -443,7 +444,7 @@
         "button_link": "https://www.instagram.com/explore/tags/createthroughscripture/",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 20,
+        "space_above": 50,
         "space_below": 60,
         "link_color_background": "#9ba586",
         "link_color_text": "#ffffff"
