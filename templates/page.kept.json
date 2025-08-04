@@ -1,0 +1,586 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false,
+        "background_color": ""
+      }
+    },
+    "slideshow_cfYJNP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_idLezh": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "A Dwelling Place",
+            "title_size": 72,
+            "subheading": "A Journey to Create Through Psalm 84",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Dwelling-Place-Create-Through-Scripture-Stamp-Header-4.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_idLezh"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "1739855578e0d58267": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_rDtwqN": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "SU3jtp"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_rDtwqN"
+      ],
+      "custom_css": [
+        ".klaviyo-form-SU3jtp {background-color: #f8f2eb;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "hero_video_3bHn36": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/ce63a08946784e6b939ad80a8b760fdc.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "100vh"
+      }
+    },
+    "rich_text_gJqpCX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9nfE8V": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>an invitation to create</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_9nfE8V"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "rich_text_ecpTEx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FW69K9": {
+          "type": "heading",
+          "settings": {
+            "title": "A Dwelling Place"
+          }
+        },
+        "text_y6UaBL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 84</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_FW69K9",
+        "text_y6UaBL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 15,
+        "space_below": 75
+      }
+    },
+    "text_columns_HHy3iV": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_aTjydi": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-tubes-two-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "WHAT",
+            "text": "<p><em>a creative journey through Psalm 84 over email and Instagram</em></p><p>Each week we will introduce a new section of Psalm 84 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_cnBzqE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/stamp-flower-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "Who",
+            "text": "<p><em>for creatives and non-creatives alike</em></p><p>This journey was intentionally created to engage all levels of creativity and intended to stretch your inspiration, imagination, perception, and medium.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_PPU4PR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/paint-palette-orange-create-through-scripture-icon-360x.png",
+            "image_mask": "none",
+            "image_width": 200,
+            "title": "When",
+            "text": "<p><em>the journey begins today</em></p><p>Join the journey by signing up for the email series. We encourage you to work at your own pace and keep the main goal in mind: to creatively connect with God through his Word.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_aTjydi",
+        "text_block_cnBzqE",
+        "text_block_PPU4PR"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_and_image_M9yW33": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-153_eb7b6bfd-d193-4f71-ad3e-9d2c7e1de43b.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "About the Journey",
+        "title": "How It Works Each Week",
+        "text": "<p><strong>Day 1: Receive the prompts</strong> | You can begin creating now! Take some time to meditate on the week’s passage and create at your own pace.</p><p><strong>Day 3: Artist Highlight</strong> | Stir your inspiration by hearing from an artist on her response to the passage and consider the Scripture in a new light.</p><p><strong>Day 5: Community Feature</strong> | If you’ve finished your response and posted or shared it with us, you have a chance of being featured! Use these features as a way of meditating on the passage even further.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_pCX9nw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-047_996b629c-d323-4c90-9620-67bab6912d10.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featured Intentional Tools",
+        "title": "Artist Sketchbook and Notebooks",
+        "text": "<p>Need tools to begin creating? While we encourage a range of both traditional and non-traditional mediums through our prompts and artist features, you are welcome to stock up on our paintable kraft-cover notebooks—<em>Hosanna Blanks</em>—or our leather-bound sketchbook as tools for your journey.</p>",
+        "button_label": "Shop Artist Tools",
+        "button_link": "shopify://pages/art-resources",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_WzzmBt": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Create-Through-Scripture-Dwelling-Place-Email-Series-Hosanna-Revival-SQ.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Prefer to print?",
+        "title": "Download the PDF",
+        "text": "<p>We suggest signing up for the email series since it’s paced week by week and full of beautiful visuals and inspiration to guide your process, but if you are looking to do this with a group or prefer to print and would like a PDF download of the weekly prompts, you’re in the right place! Download the free series below.</p>",
+        "button_label": "Download Now",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Dwelling-Place-Create-Through-Scripture-Hosanna-Revival.pdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_E9q7Jf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WmaVb3": {
+          "type": "heading",
+          "settings": {
+            "title": "#CreateThroughScripture"
+          }
+        },
+        "text_HBGXke": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Follow along on Instagram @<a href=\"https://www.instagram.com/hosannarevival\" target=\"_blank\" title=\"Hosanna Revival's Instagram\">HosannaRevival</a> and share how you’re engaging with Scripture through creativity with the hashtag <a href=\"https://www.instagram.com/explore/tags/createthroughscripture/\" target=\"_blank\" title=\"https://www.instagram.com/explore/tags/createthroughscripture/\">#CreateThroughScripture</a>. We can’t wait to see what you create!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_WmaVb3",
+        "text_HBGXke"
+      ],
+      "custom_css": [
+        "a {color: #f7f0e8;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#bd6549",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_rxTPJK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xnJixW": {
+          "type": "heading",
+          "settings": {
+            "title": "Featured Artists"
+          }
+        },
+        "text_NcLQbg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Each week, we invite a talented artist to respond to the focal passage from their area of expertise. Meet them below!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_xnJixW",
+        "text_NcLQbg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "text_and_image_CaV7DQ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Caroline-Lunne.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "An Invitation to Create",
+        "title": "Caroline Lunne",
+        "text": "<p>Caroline is a writer sharing what she likes about life online. She lives in Charleston, SC, is building a marketing agency, and calls creativity her love language.</p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/carolinelunne",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_GXDFxW": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Hannah-Beimborn_ecc3ae80-042f-4a01-958d-a15a27f3d391.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week One Artist",
+        "title": "Hannah Beimborn",
+        "text": "<p>Hannah is an artist who specializes in landscape paintings, using gouache and watercolor as her primary mediums.</p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/hannahbeimborn",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_HzLzQp": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Alicia-Burrows_3be2d5f1-a546-4cd3-b9e7-5ca1d9c9ec79.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Two Artist",
+        "title": "Alicia Burrows",
+        "text": "<p>Alicia is a wedding photographer and fiber artist turned stay-at-home mom who is discovering that motherhood is a moment-by-moment opportunity to exercise creativity and imagination in a practical and fulfilling way through cooking, baking, decorating, homeschooling, and everything in between. </p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/aliciarburrows/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aNjVJg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Alisha-Cooke_2e440e32-fe26-499d-9bf1-67742db33333.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Three Artist",
+        "title": "Alisha Cooke: Ma Ma Osa",
+        "text": "<p>Alisha is the owner and designer of Ma Ma Osa, a small business that offers digital products like sewing education and sewing patterns as well as physical products from time to time. </p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/ma.ma.osa/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_LqPU4R": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Portrait-Patsy-Shaw_6fec3f78-2fa7-4ab4-9b79-491ca0c73edf.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Four Artist",
+        "title": "Patsy Shaw",
+        "text": "<p>Patsy is a painter and printmaker, making art that is rooted in Biblical truth so Christians can enjoy beautiful artwork that leads to more joy in God.</p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/shawmuchart/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_Ex6nbT": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "See what you created",
+        "button_link": "https://www.instagram.com/explore/tags/createthroughscripture/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 20,
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "slideshow_WRxtQf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_FzCpkd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://www.bible.com/bible/116/PSA.84.NLT",
+            "link_text": "Begin Creating",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-045B.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_FzCpkd"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "rich_text_GbJNRy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ezWABf": {
+          "type": "heading",
+          "settings": {
+            "title": "Pleasant Places"
+          }
+        },
+        "text_mHehn8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>a journey to create through Psalm 16</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_8ALqLW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Loving this series? Journey through Psalm 16 with us through the 4-week series <em>Pleasant Places</em>! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ezWABf",
+        "text_mHehn8",
+        "text_8ALqLW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "single_button_QXzNxr": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Create Pleasant Places",
+        "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 75,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_cfYJNP",
+    "1739855578e0d58267",
+    "hero_video_3bHn36",
+    "rich_text_gJqpCX",
+    "rich_text_ecpTEx",
+    "text_columns_HHy3iV",
+    "text_and_image_M9yW33",
+    "text_and_image_pCX9nw",
+    "text_and_image_WzzmBt",
+    "rich_text_E9q7Jf",
+    "rich_text_rxTPJK",
+    "text_and_image_CaV7DQ",
+    "text_and_image_GXDFxW",
+    "text_and_image_HzLzQp",
+    "text_and_image_aNjVJg",
+    "text_and_image_LqPU4R",
+    "single_button_Ex6nbT",
+    "slideshow_WRxtQf",
+    "rich_text_GbJNRy",
+    "single_button_QXzNxr"
+  ]
+}
