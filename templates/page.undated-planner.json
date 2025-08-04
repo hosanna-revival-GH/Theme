@@ -901,7 +901,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Begin Today",
-        "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+        "button_link": "shopify://collections/planners",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
@@ -1122,7 +1122,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+            "link": "shopify://collections/planners",
             "link_text": "Welcome to Your Most InTentional Year Yet",
             "link_2": "",
             "link_text_2": "",
