@@ -134,7 +134,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 121</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>Kept: A journey to create through Psalm 121</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -349,6 +349,7 @@
     },
     "text_and_image_CaV7DQ": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Portrait-Caroline-Lunne.jpg",
         "image_mask": "none",
@@ -370,6 +371,7 @@
     },
     "text_and_image_GXDFxW": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Portrait-Hannah-Beimborn_ecc3ae80-042f-4a01-958d-a15a27f3d391.jpg",
         "image_mask": "none",
@@ -391,6 +393,7 @@
     },
     "text_and_image_HzLzQp": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Portrait-Alicia-Burrows_3be2d5f1-a546-4cd3-b9e7-5ca1d9c9ec79.jpg",
         "image_mask": "none",
@@ -412,6 +415,7 @@
     },
     "text_and_image_aNjVJg": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Portrait-Alisha-Cooke_2e440e32-fe26-499d-9bf1-67742db33333.jpg",
         "image_mask": "none",
@@ -428,27 +432,6 @@
         "divider": false,
         "top_padding": true,
         "bottom_padding": false,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_LqPU4R": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Portrait-Patsy-Shaw_6fec3f78-2fa7-4ab4-9b79-491ca0c73edf.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Week Four Artist",
-        "title": "Patsy Shaw",
-        "text": "<p>Patsy is a painter and printmaker, making art that is rooted in Biblical truth so Christians can enjoy beautiful artwork that leads to more joy in God.</p>",
-        "button_label": "Follow her on Instagram",
-        "button_link": "https://www.instagram.com/shawmuchart/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "33",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
         "lazyload_images": true
       }
     },
@@ -578,7 +561,6 @@
     "text_and_image_GXDFxW",
     "text_and_image_HzLzQp",
     "text_and_image_aNjVJg",
-    "text_and_image_LqPU4R",
     "single_button_Ex6nbT",
     "slideshow_WRxtQf",
     "rich_text_GbJNRy",
