@@ -535,7 +535,7 @@
     "single_button_QXzNxr": {
       "type": "single-button",
       "settings": {
-        "button_text": "Create Pleasant Places",
+        "button_text": "Begin creating",
         "button_link": "shopify://pages/create-through-scripture",
         "button_size": "huge",
         "alignment": "center",
