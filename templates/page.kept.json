@@ -508,14 +508,14 @@
         "heading_ezWABf": {
           "type": "heading",
           "settings": {
-            "title": "Kept"
+            "title": "More Create through Scripture"
           }
         },
         "text_mHehn8": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>a journey to create through Psalm 121</em></p>",
+            "text": "<p><em>a journey to create through Psalm 84 and Psalm 16</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -524,7 +524,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Loving this series? Journey through Psalm 16 with us through the 4-week series <em>Pleasant Places</em>! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>",
+            "text": "<p>Loving this series? Journey through Psalm 16  or Psalm 84 with us through our previous <em>Create Through Scripture</em> series! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
