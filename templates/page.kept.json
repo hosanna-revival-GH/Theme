@@ -255,6 +255,7 @@
     },
     "text_and_image_WzzmBt": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/CTS-KEPT-Small-Block.png",
