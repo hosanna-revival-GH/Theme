@@ -127,14 +127,14 @@
         "heading_FW69K9": {
           "type": "heading",
           "settings": {
-            "title": "A Dwelling Place"
+            "title": "Kept"
           }
         },
         "text_y6UaBL": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 84</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 121</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -167,7 +167,7 @@
             "image_mask": "none",
             "image_width": 200,
             "title": "WHAT",
-            "text": "<p><em>a creative journey through Psalm 84 over email and Instagram</em></p><p>Each week we will introduce a new section of Psalm 84 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
+            "text": "<p><em>a creative journey through Psalm 121 over email and Instagram</em></p><p>Each week we will introduce a new section of Psalm 121 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -256,7 +256,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/Create-Through-Scripture-Dwelling-Place-Email-Series-Hosanna-Revival-SQ.png",
+        "image": "shopify://shop_images/CTS-KEPT-Small-Block.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Prefer to print?",
