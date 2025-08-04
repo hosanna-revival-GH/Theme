@@ -124,7 +124,7 @@
           "settings": {
             "secondary": false,
             "button_text": "Start Fresh with Undated",
-            "button_link": "https://hosannarevival.com/products/2025-undated-planner-marlo-theme",
+            "button_link": "shopify://collections/planners",
             "button_size": "huge",
             "alignment": "center",
             "space_above": 30,
