@@ -403,57 +403,6 @@
         "space_below": 0
       }
     },
-    "text_columns_CWekeH": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "The Planner for bad planners",
-            "text": "<p>I love this planner, because A: it’s pretty, and 2: I actually use it. It’s got enough to make me think through more than I normally would, but not so much that I give up trying to keep up with it.<br/>— <em>Andie </em>—</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Beautiful + Purposeful",
-            "text": "<p>This planner has been the perfect addition to my day! It's: 1. Aesthetically beautiful, 2. Centered on Christ, 3. Purposeful in helping plan out my days/weeks/months!<br/><em>— Alex —</em></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Dreamy Planner",
-            "text": "<p>I have owned enough planners over the years to know that this one is the best. It’s perfect for school or work or just life, it’s beautiful, and it has the best function of any planner I’ve encountered. <br/><em>— Alicia —</em></p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_1",
-        "text_block_2",
-        "text_block_3"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
     "slideshow_ALxDL6": {
       "type": "slideshow",
       "blocks": {
@@ -489,6 +438,23 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "hero_video_K88XDk": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/9de0d86f5292461ba99621e0b0a4ffb0.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "combined-content-section-1": {
@@ -1340,8 +1306,8 @@
     "rich_text_UG8Wjy",
     "text_columns_hFdMPw",
     "combined-content-section-5",
-    "text_columns_CWekeH",
     "slideshow_ALxDL6",
+    "hero_video_K88XDk",
     "combined-content-section-1",
     "text_columns_jCgwVL",
     "combined-content-section-2",
