@@ -55,8 +55,8 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "We’ve Restocked the shop!",
-            "link_text": "Some of our most-loved tools are back—take a look before they’re gone again!",
+            "text": "The shop is restocked!",
+            "link_text": "Beloved tools are back—grab them before they’re gone!",
             "link": "shopify://collections/theyre-back"
           }
         },
@@ -70,6 +70,7 @@
         },
         "announcement_NXQKWa": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Create Through Scripture: Kept",
             "link_text": "You’re invited to sign up for our annual creative challenge, this year walking through Psalm 121!",
