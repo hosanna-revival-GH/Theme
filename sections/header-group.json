@@ -55,8 +55,8 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "The shop is restocked!",
-            "link_text": "Beloved tools are back—grab them before they’re gone!",
+            "text": "The shop is restocked",
+            "link_text": "Beloved tools are back—grab them before they’re gone",
             "link": "shopify://collections/theyre-back"
           }
         },
