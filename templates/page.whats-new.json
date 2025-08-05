@@ -58,6 +58,20 @@
         "disable_animation": false
       }
     },
+    "single_button_qAwKEz": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "New Hosanna Revival PLanners",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#b4a04b",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_eFchhW": {
       "type": "single-button",
       "disabled": true,
@@ -220,6 +234,7 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_qAwKEz",
     "single_button_eFchhW",
     "single_button_3L6q9A",
     "single_button_JD887j",
