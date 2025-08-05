@@ -19,7 +19,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
+            "link": "shopify://collections/planners",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -57,7 +57,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
+            "link": "shopify://collections/planners",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -137,7 +137,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/planners",
+            "link": "shopify://pages/planners",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -164,6 +164,18 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "featured_collection_HPkeGD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Which planner will you fill?",
+        "home_featured_products": "planners",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "slideshow_gW9EVE": {
@@ -273,18 +285,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "featured_collection_HPkeGD": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Which planner will you fill?",
-        "home_featured_products": "planners",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "promo_grid_cMUWra": {
