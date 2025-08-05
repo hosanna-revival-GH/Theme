@@ -64,7 +64,7 @@
           "type": "announcement",
           "settings": {
             "text": "A summer book on healing awaits!",
-            "link_text": "Check out our two newest books by licensed counselor Dr. Tammy Smith, one on identity, and one on marriage!",
+            "link_text": "Two new books by counselor Dr. Tammy on identity and marriage",
             "link": "shopify://pages/dr-tammy-smith"
           }
         },
