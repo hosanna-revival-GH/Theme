@@ -404,7 +404,7 @@
         "video_url": "https://cdn.shopify.com/videos/c/o/v/9de0d86f5292461ba99621e0b0a4ffb0.mp4",
         "overlay_opacity": 0,
         "section_height": "100vh",
-        "mobile_height": "auto"
+        "mobile_height": "250px"
       }
     },
     "single_button_7aaHan": {
