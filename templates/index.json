@@ -171,7 +171,7 @@
       "settings": {
         "title": "Which planner will you fill?",
         "home_featured_products": "planners",
-        "per_row": 5,
+        "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
