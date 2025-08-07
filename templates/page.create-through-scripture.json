@@ -224,6 +224,7 @@
     },
     "hero_video_6KBbWG": {
       "type": "hero-video",
+      "disabled": true,
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
         "title": "",
