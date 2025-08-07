@@ -88,7 +88,7 @@
             "enable_image": true,
             "image": "shopify://shop_images/Paint_tube_together.png",
             "image_mask": "none",
-            "image_width": 100,
+            "image_width": 90,
             "title": "WHAT",
             "text": "<p><em>a creative journey through Scripture <br/></em><br/>Each week a new section of Scripture is introduced with three prompts to fuel your creativity, along with a featured artist’s response to the passage, and a collection of community responses to spark your inspiration.</p>",
             "button_label": "",
