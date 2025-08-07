@@ -70,10 +70,9 @@
         },
         "announcement_NXQKWa": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Create Through Scripture: Kept",
-            "link_text": "You’re invited to sign up for our annual creative challenge, this year walking through Psalm 121!",
+            "link_text": "Journey through Psalm 121 during our annual creative challenge",
             "link": "shopify://pages/create-through-scripture"
           }
         }
