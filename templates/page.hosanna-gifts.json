@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_cFeUAy": {
@@ -290,7 +291,7 @@
             "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-187.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Gifts under $50",
+            "title": "Gifts under $60",
             "text": "",
             "button_label": "shop",
             "button_link": "shopify://collections/under-60"
@@ -303,7 +304,7 @@
             "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-167.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Gifts under $75",
+            "title": "Gifts under $100",
             "text": "",
             "button_label": "shop",
             "button_link": "shopify://collections/under-100"
