@@ -189,14 +189,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/theyre-back",
+            "link": "shopify://collections/planners",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Sitewide-sale-07.png",
-            "image_mobile": "shopify://shop_images/Sitewide-sale-08.png",
+            "image": "shopify://shop_images/August-Restock-07.png",
+            "image_mobile": "shopify://shop_images/August-Restock-08.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -206,7 +206,6 @@
       "block_order": [
         "image_nrxtXn"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -216,6 +215,18 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "featured_collection_kjtqir": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "plan your beautiful life",
+        "home_featured_products": "planners",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
       }
     },
     "promo_grid_biWGaP": {
@@ -471,19 +482,6 @@
         "space_around": false
       }
     },
-    "featured_collection_kjtqir": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "devotional library",
-        "home_featured_products": "devotionals",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "slideshow_ydy6gN": {
       "type": "slideshow",
       "blocks": {
@@ -621,13 +619,13 @@
     "featured_collection_HPkeGD",
     "slideshow_8yzxct",
     "slideshow_gW9EVE",
+    "featured_collection_kjtqir",
     "promo_grid_biWGaP",
     "promo_grid_cMUWra",
     "slideshow_YNbwrF",
     "promo_grid_tVdjXe",
     "slideshow_gyMt8x",
     "17413753419f9a3db7",
-    "featured_collection_kjtqir",
     "slideshow_ydy6gN",
     "slideshow_LAdPKf",
     "countdown_6XgX8T"
