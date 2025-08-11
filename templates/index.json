@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Planner-launch-01.png",
-            "image_mobile": "shopify://shop_images/Planner-launch-02.png",
+            "image": "shopify://shop_images/August-Restock.png",
+            "image_mobile": "shopify://shop_images/August-Restock-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -74,6 +74,7 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -91,24 +92,24 @@
         "image_dcHMiN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Planner-launch-07.png",
-            "link": "shopify://collections/planners",
+            "image": "shopify://shop_images/August-Restock-02.png",
+            "link": "shopify://products/nlt-notetaking-bible-adelaide-theme",
             "width": "33"
           }
         },
         "image_tnpWYx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Planner-launch-05.png",
-            "link": "shopify://collections/planners",
+            "image": "shopify://shop_images/August-Restock-03.png",
+            "link": "shopify://products/nlt-notetaking-bible-versailles-theme",
             "width": "33"
           }
         },
         "image_8pcdHL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Planner-launch-06.png",
-            "link": "shopify://collections/planners",
+            "image": "shopify://shop_images/August-Restock-04.png",
+            "link": "shopify://products/nlt-notetaking-bible-lisbon-theme",
             "width": "33"
           }
         }
@@ -127,6 +128,18 @@
         "lazyload_images": true
       }
     },
+    "featured_collection_HPkeGD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "shop the restock",
+        "home_featured_products": "theyre-back",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_8yzxct": {
       "type": "slideshow",
       "blocks": {
@@ -137,14 +150,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/planners",
+            "link": "shopify://pages/create-through-scripture-kept",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Planner-launch-08.png",
-            "image_mobile": "shopify://shop_images/Planner-launch-09.png",
+            "image": "shopify://shop_images/August-Restock-05.png",
+            "image_mobile": "shopify://shop_images/August-Restock-06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -164,18 +177,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "featured_collection_HPkeGD": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Which planner will you fill?",
-        "home_featured_products": "planners",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_gW9EVE": {
@@ -205,6 +206,7 @@
       "block_order": [
         "image_nrxtXn"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -279,6 +281,7 @@
         "image_bqtYwV",
         "image_HExtUa"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -364,6 +367,7 @@
       "block_order": [
         "image_EBgzXT"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -400,6 +404,7 @@
         "image_LFw8iA",
         "image_G9dwHg"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -613,8 +618,8 @@
     "slideshow_AeLHDb",
     "slideshow_X4MRpa",
     "promo_grid_UydWcM",
-    "slideshow_8yzxct",
     "featured_collection_HPkeGD",
+    "slideshow_8yzxct",
     "slideshow_gW9EVE",
     "promo_grid_biWGaP",
     "promo_grid_cMUWra",
