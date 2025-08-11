@@ -307,41 +307,41 @@
         "image_GzxX7N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-01_0046133e-f5a7-4f7a-bb45-6996e567ee65.png",
+            "image": "shopify://shop_images/August-Restock-012.png",
             "link": "shopify://collections/beautiful-bibles",
-            "width": "50"
-          }
-        },
-        "image_yqDrtn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-02_7635a08b-59be-4fe8-a309-dc1a6d72dfa8.png",
-            "link": "shopify://collections/devotionals",
-            "width": "50"
-          }
-        },
-        "image_T9PWGX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-03_7d0a1221-d933-41e8-92c4-07bb4f03c779.png",
-            "link": "shopify://collections/notebooks",
             "width": "50"
           }
         },
         "image_wzNDzm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-04_e57eea5d-ee77-4320-b0f4-b4b70172b8f5.png",
+            "image": "shopify://shop_images/August-Restock-015.png",
             "link": "shopify://pages/prayer-journal",
+            "width": "50"
+          }
+        },
+        "image_T9PWGX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/August-Restock-014.png",
+            "link": "shopify://collections/notebooks",
+            "width": "50"
+          }
+        },
+        "image_yqDrtn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/August-Restock-013.png",
+            "link": "shopify://collections/devotionals",
             "width": "50"
           }
         }
       },
       "block_order": [
         "image_GzxX7N",
-        "image_yqDrtn",
+        "image_wzNDzm",
         "image_T9PWGX",
-        "image_wzNDzm"
+        "image_yqDrtn"
       ],
       "settings": {
         "full_width": true,

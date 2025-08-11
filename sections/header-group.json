@@ -47,33 +47,33 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "20% OFF New Hosanna Revival Planners",
-            "link_text": "Use code PLANNER20 and begin planning",
-            "link": "shopify://pages/planners"
+            "text": "OUR SHOP IS RESTOCKED",
+            "link_text": "the wait is over for our most beloved tools",
+            "link": "shopify://collections/theyre-back"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "The shop is restocked",
-            "link_text": "Beloved tools are back—grab them before they’re gone",
-            "link": "shopify://collections/theyre-back"
+            "text": "3 New Hosanna Revival Planners",
+            "link_text": "Where beauty meets functionality",
+            "link": "shopify://collections/planners"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "A summer book on healing awaits!",
-            "link_text": "Two new books by counselor Dr. Tammy on identity and marriage",
-            "link": "shopify://pages/dr-tammy-smith"
+            "text": "Create Through Scripture: Kept",
+            "link_text": " Journey through Psalm 121 during our annual creative journey",
+            "link": "shopify://pages/create-through-scripture-kept"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Create Through Scripture: Kept",
-            "link_text": "Journey through Psalm 121 during our annual creative challenge",
-            "link": "shopify://pages/create-through-scripture-kept"
+            "text": "Browse our devotional library",
+            "link_text": "Begin a new Bible study as you head into autumn",
+            "link": "shopify://pages/devotionals"
           }
         }
       },
