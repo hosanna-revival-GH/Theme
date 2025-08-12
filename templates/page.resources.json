@@ -88,6 +88,7 @@
       "blocks": {
         "heading_LgMrbJ": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Featured Resources"
           }
