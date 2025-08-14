@@ -178,6 +178,12 @@
     "rich_text_YRTKWV": {
       "type": "rich-text",
       "blocks": {
+        "heading_eRbFWF": {
+          "type": "heading",
+          "settings": {
+            "title": "How our mission began"
+          }
+        },
         "text_NHLBVk": {
           "type": "text",
           "settings": {
@@ -191,13 +197,14 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We pray that you experience more of God’s beauty! May the Lord’s goodness and glory unfold in your life! </p>",
+            "text": "<p>We pray that you experience more of God’s beauty. May the Lord’s goodness and glory unfold in your life! </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
+        "heading_eRbFWF",
         "text_NHLBVk",
         "text_xxnaNJ"
       ],
