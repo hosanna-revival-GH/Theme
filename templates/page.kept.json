@@ -88,9 +88,9 @@
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/ce63a08946784e6b939ad80a8b760fdc.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/4805623da5a94b15ade9f3fde09ce905.mp4",
         "overlay_opacity": 0,
-        "section_height": "650px",
+        "section_height": "100vh",
         "mobile_height": "100vh"
       }
     },
