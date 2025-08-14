@@ -1,0 +1,431 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_fezC3a": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PYetBc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Welcome to Hosanna Revival",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-161_37ed42f9-0792-4021-ae9e-1448febb980d.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_PYetBc"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "17406388731940a538": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_q7tPF4": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "WmyFam"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_q7tPF4"
+      ],
+      "custom_css": [
+        "div {background-color: #f7f0e8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "rich_text_WCfJew": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_V896dA": {
+          "type": "heading",
+          "settings": {
+            "title": "Your Home for Beautiful Bibles"
+          }
+        },
+        "text_e9zNGA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives.</p><p>What if a new and beautiful Bible would lead you to engage in the beauty of God’s Word? Refresh your heart and soul with a beautiful and intentional tool.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_V896dA",
+        "text_e9zNGA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_Y7Wi6d": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Shop Hosanna Revival",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 75
+      }
+    },
+    "rich_text_fGaCc9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_i3fana": {
+          "type": "heading",
+          "settings": {
+            "title": "Find Your Beautiful and Intentional Tool"
+          }
+        },
+        "text_3DNdaT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>take note of how God is meeting you in these pages</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_i3fana",
+        "text_3DNdaT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "image_row_LiQbUw": {
+      "type": "image-row",
+      "blocks": {
+        "image_46": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-008.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://pages/beautiful-bibles"
+          }
+        },
+        "image_47": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-061.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://pages/devotionals"
+          }
+        },
+        "image_48": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Summer-Picnic-Refresh-Hosanna-Revival-Beautiful-Bibles-071.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": "shopify://collections/notebooks"
+          }
+        }
+      },
+      "block_order": [
+        "image_46",
+        "image_47",
+        "image_48"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    },
+    "text_and_image_taTtJk": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Eternity-In-Our-Hearts-Ecclesiastes-Bible-Study-Picnic-21.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free Downloadable PDF",
+        "title": "Eternity in Our Hearts: Week One",
+        "text": "<p>Download Week One of our devotional, <em>Eternity in our Hearts</em>, a 7-week Bible study written for those who want to live a rich and meaningful life. If you’re longing to understand more of life’s purpose, this study is a great place to start!</p>",
+        "button_label": "Download the PDF",
+        "button_link": "https://hosannarevival.com/EIOH-Week-One",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_UEgrCb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Summer-5-Year-Prayer-Journal-One-Thing-I-Ask-022B.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featured Intentional Tool",
+        "title": "The 5-Year Prayer Journal",
+        "text": "<p>A Tool to Remember the Faithfulness of God: The <em>One Thing I Ask</em> 5-Year Prayer Journal was designed to help you remember the faithfulness of God by journaling your prayers. As you journal your prayers daily on each page labeled by date, you will be reminded of the things you were praising God for and praying for over the previous years. Over the next five years, this journal will become an active record of God’s movement in your life.</p>",
+        "button_label": "Shop Now",
+        "button_link": "shopify://pages/your-one-thing-i-ask-journal",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_y3bj6P": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-222.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Free content",
+        "title": "Free Resources",
+        "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This mission extends to free, content-rich resources intended to point you to Scripture. We pray these resources will meet you at the right place as you seek to know Jesus and grow to love his Word.</p>",
+        "button_label": "Explore Free Resources",
+        "button_link": "shopify://pages/free-resources",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_QPm8Aw": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Shop All",
+        "button_link": "shopify://collections",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "rich_text_R6aJyA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MTEYkz": {
+          "type": "heading",
+          "settings": {
+            "title": "Why We Believe Beauty Matters"
+          }
+        },
+        "text_fnLzKM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>featuring our founder and artist, Katie Guiliano</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_MTEYkz",
+        "text_fnLzKM"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#717057",
+        "color_text": "#e6e6e6",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "hero_video_HGA3z4": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c843a9d1c00c4e10b3ebaa997f9f7223.mp4",
+        "overlay_opacity": 0,
+        "section_height": "750px",
+        "mobile_height": "100vh"
+      }
+    },
+    "rich_text_YRTKWV": {
+      "type": "rich-text",
+      "blocks": {
+        "text_NHLBVk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>In 2015 while studying in Spain, our founder Katie had the idea to re-bind and paint her plain black bilingual Bible. She wanted her Bible to be beautiful and personal, reflecting the way the words on the inside made her feel. Katie immediately saw the ministry that this could become.</p><p>We are convinced that a beautiful Bible can lead even the darkest heart to crack it open and consider the words inside of it. We are convinced that a beautiful Bible can revive the heart of a believer gone astray by motivating them and reminding them of the truth beyond the cover. We are convinced that an active Christ follower will be drawn to the foot of the cross each morning by the Scripture within their precious tool. Above all else, we are convinced that the words inside of this timeless book will revive our world.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_xxnaNJ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We pray that you experience more of God’s beauty! May the Lord’s goodness and glory unfold in your life! </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_NHLBVk",
+        "text_xxnaNJ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_JmbC3K": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin with Beauty",
+        "button_link": "shopify://collections",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "slideshow_rtPHfc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pF7aj3": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections",
+            "link_text": "Shop All",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-443.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_pF7aj3"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_fezC3a",
+    "17406388731940a538",
+    "rich_text_WCfJew",
+    "single_button_Y7Wi6d",
+    "rich_text_fGaCc9",
+    "image_row_LiQbUw",
+    "text_and_image_taTtJk",
+    "text_and_image_UEgrCb",
+    "text_and_image_y3bj6P",
+    "single_button_QPm8Aw",
+    "rich_text_R6aJyA",
+    "hero_video_HGA3z4",
+    "rich_text_YRTKWV",
+    "single_button_JmbC3K",
+    "slideshow_rtPHfc"
+  ]
+}
