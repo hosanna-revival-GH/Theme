@@ -337,7 +337,6 @@
         "heading_xnJixW",
         "text_NcLQbg"
       ],
-      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -352,9 +351,8 @@
     },
     "text_and_image_CaV7DQ": {
       "type": "text-and-image",
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Portrait-Caroline-Lunne.jpg",
+        "image": "shopify://shop_images/DSC01291.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Week one Artist",
@@ -374,9 +372,8 @@
     },
     "text_and_image_GXDFxW": {
       "type": "text-and-image",
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Portrait-Hannah-Beimborn_ecc3ae80-042f-4a01-958d-a15a27f3d391.jpg",
+        "image": "shopify://shop_images/Photo_of_Madison.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Week Two Artist",
@@ -396,14 +393,13 @@
     },
     "text_and_image_HzLzQp": {
       "type": "text-and-image",
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Portrait-Alicia-Burrows_3be2d5f1-a546-4cd3-b9e7-5ca1d9c9ec79.jpg",
+        "image": "shopify://shop_images/Rebekah-Sarah_profile_photo.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Week Three Artist",
         "title": "Rebekah-Sarah: New Living Designs",
-        "text": "<p>Alicia is a wedding photographer and fiber artist turned stay-at-home mom who is discovering that motherhood is a moment-by-moment opportunity to exercise creativity and imagination in a practical and fulfilling way through cooking, baking, decorating, homeschooling, and everything in between. </p>",
+        "text": "<p>Rebekah-Sarah is a disciple of Jesus. She creates small-batch handmade ceramics and Christian posters that are crafted to point others to our beautiful and matchless Lord. </p>",
         "button_label": "Follow her on Instagram",
         "button_link": "https://www.instagram.com/aliciarburrows/",
         "button_style": "primary",
@@ -418,16 +414,15 @@
     },
     "text_and_image_aNjVJg": {
       "type": "text-and-image",
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Portrait-Alisha-Cooke_2e440e32-fe26-499d-9bf1-67742db33333.jpg",
+        "image": "shopify://shop_images/IMG_7024_Original.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Week Four Artist",
         "title": "Elizabeth Jirek: Lizzie Letters",
-        "text": "<p>Alisha is the owner and designer of Ma Ma Osa, a small business that offers digital products like sewing education and sewing patterns as well as physical products from time to time. </p>",
+        "text": "<p>Lizzie has loved making art and collecting words for as long as she can remember, and has been creating for social media and the glory of God as Lizzie Letters for 6 years. </p>",
         "button_label": "Follow her on Instagram",
-        "button_link": "https://www.instagram.com/ma.ma.osa/",
+        "button_link": "https://www.instagram.com/lizzie_letters/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "33",
