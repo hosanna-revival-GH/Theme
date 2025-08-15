@@ -60,6 +60,7 @@
     "quick_shop_text": "Quick shop",
     "product_grid_image_size": "natural",
     "product_hover_image": true,
+    "enable_swatches": true,
     "collection_grid_style": "overlaid-box",
     "collection_grid_shape": "square",
     "collection_grid_image": "product",
