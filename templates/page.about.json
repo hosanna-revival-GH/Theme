@@ -396,6 +396,7 @@
         },
         "team_member_AnnaClaire": {
           "type": "team_member",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-38.jpg",
