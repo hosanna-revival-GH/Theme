@@ -44,7 +44,7 @@
           "type": "inventory_status",
           "settings": {
             "inventory_threshold": 20,
-            "inventory_transfers_enable": true
+            "inventory_transfers_enable": false
           }
         },
         "buy_buttons": {
@@ -139,7 +139,10 @@
       "blocks": {
         "judge_me_reviews_review_widget_DD84df": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
         }
       },
       "block_order": [
