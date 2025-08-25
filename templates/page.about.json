@@ -505,6 +505,26 @@
             "text": "<p>As our Fulfillment Manager, Blaise handles everything that helps an order make its way from our warehouse to your doorstep! She’s an easy leader to follow—driven, kind, and genuinely fun to be around. A proud Cincinnati native, Blaise knows her hometown of Sharonville inside and out (we wouldn’t be surprised if she became mayor someday!). She came to know the Lord in high school and has been ministering to others ever since, touching many lives along the way. When she’s off the clock, Blaise is usually hanging with her favorite crew—her husband Nick, their goofy dog Goose, and their cat Maverick.</p>"
           }
         },
+        "team_member_9zUeTp": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Bella_Headshot_1.jpg",
+            "image_width": 300,
+            "title": "Bella Johnson",
+            "text": "<p>Bella is our team’s art and beauty loving graphic designer! She spends her days designing the emails you get in your inbox and collaborating with the creative team on new design projects. Bella grew up in a Christian family with two of the world’s best parents and six of the world's best siblings. She’s known Jesus as her Savior for as long as she can remember, but began a personal relationship with him at age 12 and has been growing deeper in relationship with him ever since. In her free time, you can find her going on dates with her wonderful husband, Nate, enjoying her role as passenger princess (ideally with a coffee in hand), making art, cooking, hanging out with her family, or working on the next renovation in her and her husband's 1930 home.</p>"
+          }
+        },
+        "team_member_VwYqhk": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Christina_Headshot_1.jpg",
+            "image_width": 300,
+            "title": "Christina Eustrom",
+            "text": "<p>Christina is our Marketing Integration Manager, working closely with the design and marketing team to help keep projects and timelines on track. She met Jesus at 18, shortly after graduating high school and after making the decision to live for Jesus, she has been growing in friendship with him ever since. Originally from the Bahamas, she moved to Cincinnati in 2024 after serving in full-time missions across the world and the USA for a number of years. When she’s not at work, Christina loves crafting, traveling the world, getting outdoors and spending time with friends and family, especially her nieces and nephew. Christina loves people and is passionate about seeing people experience the truth of God’s word in their lives and walking in true freedom!</p>"
+          }
+        },
         "team_member_Frankie": {
           "type": "team_member",
           "disabled": true,
@@ -543,6 +563,8 @@
         "team_member_Audra",
         "team_member_YYz9fq",
         "team_member_QwWMkc",
+        "team_member_9zUeTp",
+        "team_member_VwYqhk",
         "team_member_Frankie",
         "team_member_Pippa"
       ],
