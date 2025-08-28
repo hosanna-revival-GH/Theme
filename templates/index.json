@@ -57,7 +57,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/planners",
+            "link": "shopify://pages/bible-translations",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -136,6 +136,44 @@
         "lazyload_images": true
       }
     },
+    "slideshow_ydy6gN": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ifbURP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify://pages/create-through-scripture-kept",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Generic-Homepage-019.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-020.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_ifbURP"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "slideshow_8yzxct": {
       "type": "slideshow",
       "blocks": {
@@ -152,8 +190,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/August-Restock-05.png",
-            "image_mobile": "shopify://shop_images/August-Restock-06.png",
+            "image": "shopify://shop_images/Generic-Homepage-018.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-017.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -366,7 +404,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Generic-Homepage-010.png",
-            "link": "shopify://pages/prayer-journal",
+            "link": "shopify://collections/devotionals",
             "width": "50"
           }
         },
@@ -382,7 +420,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Generic-Homepage-012.png",
-            "link": "shopify://collections/devotionals",
+            "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
         }
@@ -530,46 +568,6 @@
         "space_around": false
       }
     },
-    "slideshow_ydy6gN": {
-      "type": "slideshow",
-      "blocks": {
-        "image_ifbURP": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "shopify://pages/spread-the-word",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post-Just-Launch-06.png",
-            "image_mobile": "shopify://shop_images/Post-Just-Launch-05.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_ifbURP"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "countdown_6XgX8T": {
       "type": "countdown",
       "blocks": {
@@ -626,6 +624,7 @@
     "slideshow_AeLHDb",
     "slideshow_X4MRpa",
     "promo_grid_UydWcM",
+    "slideshow_ydy6gN",
     "slideshow_8yzxct",
     "featured_collection_HPkeGD",
     "slideshow_gW9EVE",
@@ -637,7 +636,6 @@
     "slideshow_gyMt8x",
     "slideshow_LAdPKf",
     "17413753419f9a3db7",
-    "slideshow_ydy6gN",
     "countdown_6XgX8T"
   ]
 }

@@ -47,21 +47,22 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "OUR SHOP IS RESTOCKED",
-            "link_text": "the wait is over for our most beloved tools",
-            "link": "shopify://collections/theyre-back"
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Have you found a Bible that excites you to engage in Scripture?",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "3 New Hosanna Revival Planners",
-            "link_text": "Where beauty meets functionality",
-            "link": "shopify://collections/planners"
+            "text": " Create Through Scripture: Kept - Happening now!",
+            "link_text": "Sign up for the creative journey through Psalm 121",
+            "link": "shopify://pages/create-through-scripture-kept"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Create Through Scripture: Kept",
             "link_text": " Journey through Psalm 121 during our annual creative journey",
@@ -71,9 +72,9 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Browse our devotional library",
-            "link_text": "Begin a new Bible study as you head into autumn",
-            "link": "shopify://pages/devotionals"
+            "text": "Mystery Notebooks - Now Available",
+            "link_text": "Surprise yourself with a discounted mystery notebook! ",
+            "link": "shopify://products/mystery-notebook"
           }
         }
       },
