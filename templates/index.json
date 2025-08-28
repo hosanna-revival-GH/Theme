@@ -9,6 +9,133 @@
  */
 {
   "sections": {
+    "slideshow_AeLHDb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XjU3R9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/beautiful-bibles",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Generic-Homepage-01.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_XjU3R9"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/planners",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Generic-Homepage-03.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-04.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "promo_grid_UydWcM": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_8pcdHL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Generic-Homepage-07.png",
+            "link": "shopify://collections/csb-bibles",
+            "width": "25"
+          }
+        },
+        "image_dcHMiN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Generic-Homepage-06.png",
+            "link": "shopify://collections/esv-bibles",
+            "width": "25"
+          }
+        },
+        "image_Gm3rH7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Generic-Homepage-08.png",
+            "link": "shopify://collections/kjv-bibles",
+            "width": "25"
+          }
+        },
+        "image_tnpWYx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Generic-Homepage-05.png",
+            "link": "shopify://collections/nlt-bibles",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "image_8pcdHL",
+        "image_dcHMiN",
+        "image_Gm3rH7",
+        "image_tnpWYx"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "slideshow_8yzxct": {
       "type": "slideshow",
       "blocks": {
@@ -48,127 +175,9 @@
         "disable_animation": false
       }
     },
-    "slideshow_AeLHDb": {
-      "type": "slideshow",
-      "blocks": {
-        "image_XjU3R9": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/theyre-back",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/August-Restock.png",
-            "image_mobile": "shopify://shop_images/August-Restock-01.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_XjU3R9"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/planners",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Planner-launch-03.png",
-            "image_mobile": "shopify://shop_images/Planner-launch-04.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "promo_grid_UydWcM": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_dcHMiN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/August-Restock-02.png",
-            "link": "shopify://products/nlt-notetaking-bible-adelaide-theme",
-            "width": "33"
-          }
-        },
-        "image_tnpWYx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/August-Restock-03.png",
-            "link": "shopify://products/nlt-notetaking-bible-versailles-theme",
-            "width": "33"
-          }
-        },
-        "image_8pcdHL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/August-Restock-04.png",
-            "link": "shopify://products/nlt-notetaking-bible-lisbon-theme",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_dcHMiN",
-        "image_tnpWYx",
-        "image_8pcdHL"
-      ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "featured_collection_HPkeGD": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "shop the restock",
         "home_featured_products": "theyre-back",
@@ -206,6 +215,7 @@
       "block_order": [
         "image_nrxtXn"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -219,6 +229,7 @@
     },
     "featured_collection_kjtqir": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "plan your beautiful life",
         "home_featured_products": "planners",
@@ -301,13 +312,52 @@
         "lazyload_images": true
       }
     },
+    "slideshow_YNbwrF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EBgzXT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Generic-Homepage-015.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-016.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_EBgzXT"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "promo_grid_cMUWra": {
       "type": "promo-grid",
       "blocks": {
         "image_GzxX7N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/August-Restock-012.png",
+            "image": "shopify://shop_images/Generic-Homepage-09.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -315,7 +365,7 @@
         "image_wzNDzm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/August-Restock-015.png",
+            "image": "shopify://shop_images/Generic-Homepage-010.png",
             "link": "shopify://pages/prayer-journal",
             "width": "50"
           }
@@ -323,7 +373,7 @@
         "image_T9PWGX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/August-Restock-014.png",
+            "image": "shopify://shop_images/Generic-Homepage-011.png",
             "link": "shopify://collections/notebooks",
             "width": "50"
           }
@@ -331,7 +381,7 @@
         "image_yqDrtn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/August-Restock-013.png",
+            "image": "shopify://shop_images/Generic-Homepage-012.png",
             "link": "shopify://collections/devotionals",
             "width": "50"
           }
@@ -349,46 +399,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_YNbwrF": {
-      "type": "slideshow",
-      "blocks": {
-        "image_EBgzXT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/dr-tammy-smith",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Sitewide-sale-015.png",
-            "image_mobile": "shopify://shop_images/Sitewide-sale-016.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_EBgzXT"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "promo_grid_tVdjXe": {
@@ -462,6 +472,44 @@
         "disable_animation": false
       }
     },
+    "slideshow_LAdPKf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_DCAUgJ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "shopify://pages/about",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Generic-Homepage-013.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-014.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_DCAUgJ"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "17413753419f9a3db7": {
       "type": "apps",
       "blocks": {
@@ -522,44 +570,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_LAdPKf": {
-      "type": "slideshow",
-      "blocks": {
-        "image_DCAUgJ": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "shopify://pages/about",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Sitewide-sale-021.png",
-            "image_mobile": "shopify://shop_images/Sitewide-sale-22.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_DCAUgJ"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "minimal",
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "countdown_6XgX8T": {
       "type": "countdown",
       "blocks": {
@@ -613,21 +623,21 @@
     }
   },
   "order": [
-    "slideshow_8yzxct",
     "slideshow_AeLHDb",
     "slideshow_X4MRpa",
     "promo_grid_UydWcM",
+    "slideshow_8yzxct",
     "featured_collection_HPkeGD",
     "slideshow_gW9EVE",
     "featured_collection_kjtqir",
     "promo_grid_biWGaP",
-    "promo_grid_cMUWra",
     "slideshow_YNbwrF",
+    "promo_grid_cMUWra",
     "promo_grid_tVdjXe",
     "slideshow_gyMt8x",
+    "slideshow_LAdPKf",
     "17413753419f9a3db7",
     "slideshow_ydy6gN",
-    "slideshow_LAdPKf",
     "countdown_6XgX8T"
   ]
 }
