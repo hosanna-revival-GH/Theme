@@ -19,7 +19,7 @@
         "blog_show_comments": false,
         "blog_show_author": false,
         "blog_show_excerpt": true,
-        "blog_image_size": "wide"
+        "blog_image_size": "landscape"
       }
     }
   },
