@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo-sale-homepage-013.png",
-            "image_mobile": "shopify://shop_images/Devo-sale-homepage-014.png",
+            "image": "shopify://shop_images/Devo_sale_homepage-02.png",
+            "image_mobile": "shopify://shop_images/Devo_sale_homepage-20.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
