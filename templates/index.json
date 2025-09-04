@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_sale_homepage-02.png",
-            "image_mobile": "shopify://shop_images/Devo_sale_homepage-20.png",
+            "image": "shopify://shop_images/Devo_sale_homepage-02_63fe99bc-15e3-44e5-8cc1-f0f6052eabe2.png",
+            "image_mobile": "shopify://shop_images/Devo_sale_homepage-20_3f3c46cc-7738-481b-9dc1-941ee00582ca.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -273,8 +273,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo-sale-homepage-012.png",
-            "image_mobile": "shopify://shop_images/Devo-sale-homepage-08.png",
+            "image": "shopify://shop_images/Devo_sale_homepage-18.png",
+            "image_mobile": "shopify://shop_images/Devo_sale_homepage-19.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
