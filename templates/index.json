@@ -9,6 +9,85 @@
  */
 {
   "sections": {
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/devotionals",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Devo-sale-homepage-01_b793801c-60ab-43e7-9867-ef203d19e6cc.png",
+            "image_mobile": "shopify://shop_images/Devo-sale-homepage-02_0859fea3-3b90-44e9-89a3-a98c307bed8b.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "promo_grid_tVdjXe": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_LFw8iA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Devo-sale-homepage-09.png",
+            "link": "shopify://collections/devos",
+            "width": "33"
+          }
+        },
+        "image_rGYtTW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Devo-sale-homepage-010.png",
+            "link": "shopify://collections/bible-studies",
+            "width": "33"
+          }
+        },
+        "image_G9dwHg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Devo-sale-homepage-011.png",
+            "link": "shopify://collections/books",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_LFw8iA",
+        "image_rGYtTW",
+        "image_G9dwHg"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "slideshow_AeLHDb": {
       "type": "slideshow",
       "blocks": {
@@ -36,6 +115,7 @@
       "block_order": [
         "image_XjU3R9"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -74,6 +154,7 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -127,6 +208,7 @@
         "image_Gm3rH7",
         "image_tnpWYx"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -163,6 +245,7 @@
       "block_order": [
         "image_ifbURP"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -172,6 +255,70 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/devotionals",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Devo-sale-homepage-012.png",
+            "image_mobile": "shopify://shop_images/Devo-sale-homepage-08.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "featured_collection_HPkeGD": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "our library",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_kjtqir": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "plan your beautiful life",
+        "home_featured_products": "planners",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
       }
     },
     "slideshow_8yzxct": {
@@ -211,71 +358,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "featured_collection_HPkeGD": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "shop the restock",
-        "home_featured_products": "theyre-back",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/planners",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/August-Restock-07.png",
-            "image_mobile": "shopify://shop_images/August-Restock-08.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "featured_collection_kjtqir": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "plan your beautiful life",
-        "home_featured_products": "planners",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
       }
     },
     "promo_grid_biWGaP": {
@@ -439,39 +521,6 @@
         "lazyload_images": true
       }
     },
-    "promo_grid_tVdjXe": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_LFw8iA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-06_07726582-0c00-4572-a33d-6b13e1e629a3.png",
-            "link": "shopify://pages/when-marriage-meets-reality",
-            "width": "50"
-          }
-        },
-        "image_G9dwHg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-07_60122baf-1563-4ae5-9f3d-0ea3b3588f14.png",
-            "link": "shopify://products/the-secure-soul-by-tammy-smith",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_LFw8iA",
-        "image_G9dwHg"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "slideshow_gyMt8x": {
       "type": "slideshow",
       "blocks": {
@@ -621,18 +670,19 @@
     }
   },
   "order": [
+    "slideshow_gW9EVE",
+    "promo_grid_tVdjXe",
     "slideshow_AeLHDb",
     "slideshow_X4MRpa",
     "promo_grid_UydWcM",
     "slideshow_ydy6gN",
-    "slideshow_8yzxct",
+    "slideshow_8GYyKV",
     "featured_collection_HPkeGD",
-    "slideshow_gW9EVE",
     "featured_collection_kjtqir",
+    "slideshow_8yzxct",
     "promo_grid_biWGaP",
     "slideshow_YNbwrF",
     "promo_grid_cMUWra",
-    "promo_grid_tVdjXe",
     "slideshow_gyMt8x",
     "slideshow_LAdPKf",
     "17413753419f9a3db7",

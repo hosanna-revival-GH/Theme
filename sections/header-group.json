@@ -47,26 +47,25 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Have you found a Bible that excites you to engage in Scripture?",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": "Devotionals – 2 for $30 or 8 for $100",
+            "link_text": "Study Scripture with the guidance of a devotional",
+            "link": "shopify://collections/devotionals"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": " Create Through Scripture: Kept - Happening now!",
-            "link_text": "Sign up for the creative journey through Psalm 121",
-            "link": "shopify://pages/create-through-scripture-kept"
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Have you found a Bible that excites you to engage in Scripture?",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Create Through Scripture: Kept",
-            "link_text": " Journey through Psalm 121 during our annual creative journey",
-            "link": "shopify://pages/create-through-scripture-kept"
+            "text": "Free shipping on orders over $100",
+            "link_text": "Stock up on beautiful tools for yourself or to gift a friend",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement_NXQKWa": {
