@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "slideshow_Gt3RMG": {
@@ -35,7 +36,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Breakfast-Table-Songs-for-the-Suffering-Devo-Hosanna-Revival-W-002.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "text_columns_wQPhN8": {
@@ -57,6 +60,7 @@
       "blocks": {
         "text_block_twnFQt": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": false,
             "image_mask": "none",
@@ -69,6 +73,7 @@
         },
         "text_block_3cxdd9": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": false,
             "image_mask": "none",
