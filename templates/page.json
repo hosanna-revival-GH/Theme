@@ -13,7 +13,8 @@
       "type": "main-page",
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "advanced_content_RycVwR": {
@@ -38,10 +39,48 @@
         "space_around": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_jDDMVz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jyQNt8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_bTpBgV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We’re so grateful you want to shop Hosanna Revival in person! Please note that while these stores carry our products, we cannot guarantee that the specific item you’re looking for will be in stock. We recommend reaching out to the store directly for the most up-to-date information on what they currently have available.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_jyQNt8",
+        "text_bTpBgV"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
-    "advanced_content_RycVwR"
+    "advanced_content_RycVwR",
+    "rich_text_jDDMVz"
   ]
 }
