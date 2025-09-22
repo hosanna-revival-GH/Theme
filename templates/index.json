@@ -13,17 +13,17 @@
       "type": "hero-video",
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
-        "title": "Bring your\nbrand to life.",
-        "title_size": 80,
+        "title": "",
+        "title_size": 100,
         "subheading": "",
         "link_text": "explore the prayer toolkit",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/c3d4d656197f499bb3fbb1aea3ba8fba.mov",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/55b0b4ce2d864cd0b598548bbea8bb22.mp4",
         "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "section_height": "450px",
+        "mobile_height": "250px"
       }
     },
     "slideshow_gW9EVE": {
@@ -42,8 +42,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_sale_homepage-02_63fe99bc-15e3-44e5-8cc1-f0f6052eabe2.png",
-            "image_mobile": "shopify://shop_images/Devo_sale_homepage-20_3f3c46cc-7738-481b-9dc1-941ee00582ca.png",
+            "image": "shopify://shop_images/OTIA-Sale-HP-01.png",
+            "image_mobile": "shopify://shop_images/OTIA-Sale-HP-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -97,6 +97,7 @@
         "image_rGYtTW",
         "image_G9dwHg"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -121,8 +122,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-01_09fe360b-cbc3-4ddd-933e-6316cb3810f4.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-02_429efe1c-9e8d-497a-befc-8ae07a98da06.png",
+            "image": "shopify://shop_images/OTIA-Sale-HP-03.png",
+            "image_mobile": "shopify://shop_images/OTIA-Sale-HP-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -132,7 +133,6 @@
       "block_order": [
         "image_XjU3R9"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -301,6 +301,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -316,8 +317,8 @@
     "featured_collection_HPkeGD": {
       "type": "featured-collection",
       "settings": {
-        "title": "our library",
-        "home_featured_products": "devotionals",
+        "title": "One thing i ask journals",
+        "home_featured_products": "one-thing-i-ask",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -365,6 +366,7 @@
       "block_order": [
         "image_K4Ekm6"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -518,8 +520,8 @@
         "image_yqDrtn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-012.png",
-            "link": "shopify://collections/one-thing-i-ask",
+            "image": "shopify://shop_images/OTIA-Sale-HP-05.png",
+            "link": "shopify://pages/planners",
             "width": "50"
           }
         }
