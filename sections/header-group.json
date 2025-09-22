@@ -47,9 +47,9 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Devotionals – 2 for $30 or 8 for $100",
-            "link_text": "use codes: 2for30 or 8for100 | Study Scripture with the guidance of a devotional",
-            "link": "shopify://collections/devotionals"
+            "text": "Get $10 off a 5-Year Prayer Journal",
+            "link_text": "We’re celebrating 5 years of prayer journals with your first year covered.",
+            "link": "shopify://pages/your-one-thing-i-ask-journal"
           }
         },
         "announcement_FNqfy6": {
@@ -71,9 +71,9 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Mystery Notebooks - Now Available",
-            "link_text": "Surprise yourself with a discounted mystery notebook! ",
-            "link": "shopify://products/mystery-notebook"
+            "text": "Beautiful Undated Planners",
+            "link_text": "Designed to beautifully fit your schedule",
+            "link": "shopify://pages/planners"
           }
         }
       },
