@@ -9,6 +9,23 @@
  */
 {
   "sections": {
+    "hero_video_HaNT4H": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "explore the prayer toolkit",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c3d4d656197f499bb3fbb1aea3ba8fba.mov",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -670,6 +687,7 @@
     }
   },
   "order": [
+    "hero_video_HaNT4H",
     "slideshow_gW9EVE",
     "promo_grid_tVdjXe",
     "slideshow_AeLHDb",
