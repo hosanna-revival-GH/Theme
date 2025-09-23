@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/OTIA-Sale-HP-08.png",
-            "image_mobile": "shopify://shop_images/OTIA-Sale-HP-09.png",
+            "image": "shopify://shop_images/OTIA-Sale-HP-001.png",
+            "image_mobile": "shopify://shop_images/OTIA-Sale-HP-002.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
