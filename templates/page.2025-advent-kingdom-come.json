@@ -27,7 +27,7 @@
             "top_subheading": "",
             "title": "Kingdom Come",
             "title_size": 72,
-            "subheading": "a 4-week Advent study of God’s Kingdom as it appears in Scripture and our daily lives.",
+            "subheading": "a 4-week Advent study on God’s Kingdom as it appears in Scripture and our daily lives.",
             "link": "",
             "link_text": "",
             "link_2": "",
@@ -140,34 +140,6 @@
         "space_below": 50
       }
     },
-    "rich_text_ctMnBW": {
-      "type": "rich-text",
-      "blocks": {
-        "text_Tc7Kch": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Sign up above to get the introduction in your inbox today!</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "text_Tc7Kch"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 75
-      }
-    },
     "rich_text_nEE3HM": {
       "type": "rich-text",
       "blocks": {
@@ -204,6 +176,74 @@
         "space_below": 75
       }
     },
+    "rich_text_crFNaB": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7bpG7L": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>What's Included</p>",
+            "align_text_block": "center",
+            "block_bottom_space": 30
+          }
+        },
+        "text_HjxEqC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Each week is anchored by readings, meditations, and written responses, while also incorporating traditional Advent practices like Sabbath rest, candle lighting, and even celebrating feast days that connect us to the wider story of God’s people. With thoughtful teaching, space for journaling, and opportunities for both remembrance and waiting, <em>Kingdom Come</em> offers a meaningful framework to help you slow down, savor the season, and embrace your identity as a citizen of God’s kingdom.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_7bpG7L",
+        "text_HjxEqC"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "rich_text_ctMnBW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Tc7Kch": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Sign up above to get the introduction in your inbox today!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_Tc7Kch"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
     "rich_text_E8HgXw": {
       "type": "rich-text",
       "blocks": {
@@ -238,6 +278,28 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "text_and_image_CMPWbJ": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Lords-Prayer-Devotional-Author-Katie-Noble-024_1080x_542cfaec-cc10-491d-b8af-0cc65d99c648.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Katie Noble",
+        "text": "<p>Katie Noble is the author of our two devotionals, <em>Pray Like This: Christ’s Guide to Praying the Scriptures </em>and <em>God Our Home: A Study of the Gospel of John. </em>She and her husband live and work in Ohio with their four children.</p>",
+        "button_label": "Explore Katie's Devotionals",
+        "button_link": "shopify://collections/katie-noble-collection",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -246,8 +308,10 @@
     "1740555518048a608e",
     "rich_text_btRiYb",
     "rich_text_MfQYez",
-    "rich_text_ctMnBW",
     "rich_text_nEE3HM",
-    "rich_text_E8HgXw"
+    "rich_text_crFNaB",
+    "rich_text_ctMnBW",
+    "rich_text_E8HgXw",
+    "text_and_image_CMPWbJ"
   ]
 }
