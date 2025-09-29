@@ -1,0 +1,504 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_RMbHtX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_7m6TiN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "When the Holidays Are Hard",
+            "title_size": 72,
+            "subheading": "A 9-Day Email Series on Biblical Wisdom for Navigating Relationships in This Season",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Bed-2024-Hosanna-Revival-1206.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_7m6TiN"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "1740555518048a608e": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_NKfU7c": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Sd2m2m"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_NKfU7c"
+      ],
+      "custom_css": [
+        "div {background-color: #f7f0e8;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "rich_text_btRiYb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UbNhfc": {
+          "type": "heading",
+          "settings": {
+            "title": "When the Holidays are Hard"
+          }
+        },
+        "text_8q77eV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>a 9-day email series on biblical wisdom for navigating relationships in this season</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_UbNhfc",
+        "text_8q77eV"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 35
+      }
+    },
+    "rich_text_MfQYez": {
+      "type": "rich-text",
+      "blocks": {
+        "text_6axCTg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>It’s the most wonderful time of the year... or is it? For you, it may be more accurate to say this time of year feels more dreadful and dark than merry and bright. More crazy than cozy. And you’re not alone. </p><p>Thanksgiving and Christmas are usually portrayed with perfectly set table tops, mouth-watering side dishes, pretty little packages, and smiles all around. You don’t often see the social media influencer posting about the argument at their family gathering. Catalogs don’t show us the girls who actually read them, wishing they could look like the models on the pages. Ads for our favorite brands aren’t trying to appeal to the woman mourning the loss of a loved one. Yet these realities are all too familiar for many of us during the holiday season.</p><p><em>When the Holidays Are Hard</em> will acknowledge some of the challenges we face in our relationships with others during this time of year. Over these next nine days, you will receive a short, topical study containing practical, biblical wisdom from writers we love. Whether you feel weighed down by the stressful expectations of hosting and gifting, apprehensive about seeing certain family members, worried about what the gossip will be at the table this year, or just simply alone, I hope something in this series will hold your hand as you walk into the weary days ahead. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_6axCTg"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "rich_text_ctMnBW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Tc7Kch": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Sign up above to get the introduction in your inbox today!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_Tc7Kch"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 75
+      }
+    },
+    "rich_text_nEE3HM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BY6WfA": {
+          "type": "heading",
+          "settings": {
+            "title": "Table of Contents"
+          }
+        },
+        "text_UHxkjf": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Introduction — Malory Smith<br/></em>When the Holidays Are Hard</p><p><em>Day One — Alicia Hamilton</em><br/>The Holiday Tradition of Gossip</p><p><em>Day Two — Kelly O’Donohoe</em><br/>The Art of Restful Giving and Receiving<em> </em></p><p><em>Day Three — Hannah Jessen Conway</em><br/>Holy Boundaries in the Hustle and Bustle </p><p><em>Day Four — Kayla Carthel</em><br/>Feeling Isolated During the Holidays </p><p><em>Day Five — Amanda Devlin</em><br/>A Survival Guide for Controversy at Christmas</p><p><em>Day Six — Candace Echols</em><br/>The Hospitality of Jesus and HGTV</p><p><em>Day Seven — Leah Jolly</em><br/>Walking with the Grieving This Holiday Season</p><p><em>Day Eight — Ela Alvarado</em><br/>Celebration over Comparison</p><p><em>Day Nine — Lauren Bowerman</em><br/>How Christ’s Love Compels Us to Love When It’s Hard</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BY6WfA",
+        "text_UHxkjf"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f7f0e8",
+        "color_text": "#475a41",
+        "space_above": 25,
+        "space_below": 75
+      }
+    },
+    "text_and_image_hC948e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/When-the-Holidays-Are-Hard-Holiday-Email-Series-Hosanna-Revival-SQ.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Prefer to print?",
+        "title": "Download the PDF",
+        "text": "<p>While we encourage you to pace yourself with the day-by-day email series, if you prefer to print out the study to go at your own pace or share with friends, download the full PDF below. We pray God meets you in your holiday season ahead.</p>",
+        "button_label": "Download Now",
+        "button_link": "https://hosannarevival.com/when-the-holidays-are-hard-series-PDF",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_zQkKNQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ErtCUw": {
+          "type": "heading",
+          "settings": {
+            "title": "Meet the Writers"
+          }
+        },
+        "text_tKn3tN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This devotional series features trusted writers from our <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"WHEN Articles from Hosanna Revival\"><em>WHEN</em></a><em> </em>blog, a free resource by Hosanna Revival that brings life’s wild and weighty questions into the light of Scripture. We have seen these authors write for <em>WHEN</em> with both grace and truth, navigating difficult topics with care. We pray their contributions to this series will offer the same kind of practical insight and encouragement to meet you wherever you find yourself this season. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ErtCUw",
+        "text_tKn3tN"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "text_and_image_hC948e_1": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/1-Alicia-Hamilton-Writer-Headshot-2.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day One",
+        "title": "Alicia Hamilton",
+        "text": "<p>Alicia Hamilton and her husband, Jack, are planted in beautiful New Hampshire where she spends her days ministering to college, high school, and middle school students. She is passionate about discipleship in the local church, biblical literacy, and chai lattes. Alicia writes about God’s beauty, Scripture’s intricacy, and Jesus’s care in suffering at <a href=\"http://aliciahamilton.substack.com\">AliciaHamilton.Substack.com</a> and on Instagram @<a href=\"https://www.instagram.com/alicia.lynn.hamilton/\">Alicia.Lynn.Hamilton</a>. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/alicia-hamilton/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/2-Kelly-Odonohoe-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Two",
+        "title": "Kelly O'Donohoe",
+        "text": "<p>Kelly is a follower of Jesus, wife to Scott, mom of 5, keeper of plants, and lover of both stories and spreadsheets. She leads women’s discipleship at her local church in Hamilton, Ohio alongside some of her favorite people. Kelly’s natural curiosity makes her an eager learner, and she’s passionate about sharing the truth of the Scriptures with others. When she’s not working, studying biblical Hebrew, or volunteering for her kids’ school, you can probably find Kelly eating chips and watching reruns of Frasier. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/kelly-odonohoe/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/3-Hannah-Jessen-Conway-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Three",
+        "title": "Hannah Jessen Conway",
+        "text": "<p>Hannah Jessen Conway intentionally pursues themes of faith, motherhood, and mental health in her writing. She works in nonprofit marketing and published her first children’s book in the fall of 2024, inspired by the birth of her deaf son. She’s a Jesus follower, wife to her college sweetheart, and mama of two boys. You can usually find her cheering on the Tar Heels, enjoying the North Carolina sunshine, or writing in a local coffee shop. Read more of her work at <a href=\"http://hjconway.com\">HJConway.com</a>. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/hannah-jessen-conway/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/4-Kayla-Carthel-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Four",
+        "title": "Kayla Carthel",
+        "text": "<p>Kayla Carthel is a dog mom, future counselor, lover of all iced coffees, and devoted daughter of God. You can typically find her twirling in flowy dresses, listening to true crime documentaries, belting the <em>Hamilton</em> soundtrack, and redecorating the house for the millionth time (much to the consternation of her husband).</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/kayla-carthel/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/5-Amanda-Devlin-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Five",
+        "title": "Amanda Devlin",
+        "text": "<p>Amanda is a professional cellist and writer living in sunny California. She has three beautiful kids and is blessed to be married to her best friend. You can find her most days chauffeuring her kids around town, meeting with friends for coffee, or visiting her favorite place: the beach. </p>",
+        "button_label": "Read her WHEN Article",
+        "button_link": "https://hosannarevival.blog/author/amanda-devlin/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/6-Candace-Echols-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Six",
+        "title": "Candace Echols",
+        "text": "<p>Candace and her husband Jim enjoy raising their five children in Tennessee. Candace also writes a weekly column for the Daily Memphian and for publications like The Gospel Coalition and Risen Motherhood. She dreams of having her own writing cottage in Oxford someday (England is the dream, but Mississippi's not bad either). You can find Candace on Instagram @CandaceEcholsWrites or on her website at CandaceEchols.com.</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/candace-echols/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/7-Leah-Jolly-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Seven",
+        "title": "Leah Jolly",
+        "text": "<p>Leah Jolly is a graduate of Wheaton College where she studied international relations and Spanish. She lives in the Grand Rapids area with her husband, Logan, and is pursuing her MDiv at Calvin Theological Seminary. She attends Harvest OPC in Wyoming, Michigan. You can connect with Leah on Substack.</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/leah-jolly/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/8-Ela-Alvarado-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Eight",
+        "title": "Ela Alvarado",
+        "text": "<p>Long before Ela knew storytelling could be a vehicle for gospel-fueled transformation, she was crafting stories with hopeful endings. Her journey took a drastic turn when she went to Taylor University and encountered hope in God. He was the ultimate hope she was searching for amidst her stories. With that knowledge came new layers of storytelling—photography, baking, videography, and more. She now enjoys studying the Word of her personal God and sharing what he is teaching her through the art of writing. </p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/ela-alvarado/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_hC948e_9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/9-Lauren-Bowerman-Writer-Headshot.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Day Nine",
+        "title": "Lauren Bowerman",
+        "text": "<p>Lauren Bowerman is a writer, the wife of Matthew, and the mother of Charlotte and a baby boy on the way. She has been privileged to call many cities, states, and countries home, and it is this nomadic lifestyle that cultivated in her a love for people, cultures, and missions. She has received her Masters in Christian and Intercultural Studies from Southeastern Baptist Theological Seminary. She is particularly passionate about writing on the intersection between suffering and faith, specifically in her experiences with depression, doubt, and infertility. Read her work on Substack and our blog WHEN.</p>",
+        "button_label": "Read her WHEN Articles",
+        "button_link": "https://hosannarevival.blog/author/lauren-bowerman/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_E8HgXw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BpJqhG": {
+          "type": "heading",
+          "settings": {
+            "title": "Looking for more free resources?"
+          }
+        },
+        "text_6dEPDy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Check out our full library <a href=\"/pages/free-resources\" title=\"Free Resources\"><em>here</em></a>!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_BpJqhG",
+        "text_6dEPDy"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#46382c",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_RMbHtX",
+    "1740555518048a608e",
+    "rich_text_btRiYb",
+    "rich_text_MfQYez",
+    "rich_text_ctMnBW",
+    "rich_text_nEE3HM",
+    "text_and_image_hC948e",
+    "rich_text_zQkKNQ",
+    "text_and_image_hC948e_1",
+    "text_and_image_hC948e_2",
+    "text_and_image_hC948e_3",
+    "text_and_image_hC948e_4",
+    "text_and_image_hC948e_5",
+    "text_and_image_hC948e_6",
+    "text_and_image_hC948e_7",
+    "text_and_image_hC948e_8",
+    "text_and_image_hC948e_9",
+    "rich_text_E8HgXw"
+  ]
+}
