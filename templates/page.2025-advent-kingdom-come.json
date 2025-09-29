@@ -62,7 +62,7 @@
         "klaviyo_email_marketing_sms_form_embed_block_NKfU7c": {
           "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "formId": "<div class=\"klaviyo-form-WFwjf7\"></div>"
+            "formId": ""
           }
         }
       },
@@ -244,6 +244,28 @@
         "space_below": 50
       }
     },
+    "text_and_image_CMPWbJ": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Lords-Prayer-Devotional-Author-Katie-Noble-024_1080x_542cfaec-cc10-491d-b8af-0cc65d99c648.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the Author",
+        "title": "Katie Noble",
+        "text": "<p>Katie Noble is the author of our two devotionals, <em>Pray Like This: Christ’s Guide to Praying the Scriptures </em>and <em>God Our Home: A Study of the Gospel of John. </em>She and her husband live and work in Ohio with their four children.</p>",
+        "button_label": "Explore Katie's Devotionals",
+        "button_link": "shopify://collections/katie-noble-collection",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_E8HgXw": {
       "type": "rich-text",
       "blocks": {
@@ -278,28 +300,6 @@
         "space_above": 75,
         "space_below": 75
       }
-    },
-    "text_and_image_CMPWbJ": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Lords-Prayer-Devotional-Author-Katie-Noble-024_1080x_542cfaec-cc10-491d-b8af-0cc65d99c648.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Meet the Author",
-        "title": "Katie Noble",
-        "text": "<p>Katie Noble is the author of our two devotionals, <em>Pray Like This: Christ’s Guide to Praying the Scriptures </em>and <em>God Our Home: A Study of the Gospel of John. </em>She and her husband live and work in Ohio with their four children.</p>",
-        "button_label": "Explore Katie's Devotionals",
-        "button_link": "shopify://collections/katie-noble-collection",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -311,7 +311,7 @@
     "rich_text_nEE3HM",
     "rich_text_crFNaB",
     "rich_text_ctMnBW",
-    "rich_text_E8HgXw",
-    "text_and_image_CMPWbJ"
+    "text_and_image_CMPWbJ",
+    "rich_text_E8HgXw"
   ]
 }
