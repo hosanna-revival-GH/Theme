@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_RMbHtX": {
@@ -24,18 +25,20 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "When the Holidays Are Hard",
+            "title": "Kingdom Come",
             "title_size": 72,
-            "subheading": "A 9-Day Email Series on Biblical Wisdom for Navigating Relationships in This Season",
+            "subheading": "a 4-week Advent study of God’s Kingdom as it appears in Scripture and our daily lives.",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Bed-2024-Hosanna-Revival-1206.jpg",
+            "image": "shopify://shop_images/Kingdom-Come-Header-1_1.png",
+            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-1_1.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +52,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "1740555518048a608e": {
@@ -79,14 +83,14 @@
         "heading_UbNhfc": {
           "type": "heading",
           "settings": {
-            "title": "When the Holidays are Hard"
+            "title": "Kingdom Come"
           }
         },
         "text_8q77eV": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>a 9-day email series on biblical wisdom for navigating relationships in this season</em></p>",
+            "text": "<p> A 4-week study focussing on the birth of Christ and its real-life implications for Christians today</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -115,7 +119,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>It’s the most wonderful time of the year... or is it? For you, it may be more accurate to say this time of year feels more dreadful and dark than merry and bright. More crazy than cozy. And you’re not alone. </p><p>Thanksgiving and Christmas are usually portrayed with perfectly set table tops, mouth-watering side dishes, pretty little packages, and smiles all around. You don’t often see the social media influencer posting about the argument at their family gathering. Catalogs don’t show us the girls who actually read them, wishing they could look like the models on the pages. Ads for our favorite brands aren’t trying to appeal to the woman mourning the loss of a loved one. Yet these realities are all too familiar for many of us during the holiday season.</p><p><em>When the Holidays Are Hard</em> will acknowledge some of the challenges we face in our relationships with others during this time of year. Over these next nine days, you will receive a short, topical study containing practical, biblical wisdom from writers we love. Whether you feel weighed down by the stressful expectations of hosting and gifting, apprehensive about seeing certain family members, worried about what the gossip will be at the table this year, or just simply alone, I hope something in this series will hold your hand as you walk into the weary days ahead. </p>",
+            "text": "<p>This Advent study, <em>Kingdom Come</em>, invites you to step into the sacred season with fresh eyes and an expectant heart.</p><p>Over the course of four weeks, you’ll be guided through rhythms of prayer, Scripture, reflection, and embodied practices that help you enter fully into both the joy of Christ’s first coming and the longing for his return. </p><p>Each week is anchored by readings, meditations, and written responses, while also incorporating traditional Advent practices like Sabbath rest, candle lighting, and even celebrating feast days that connect us to the wider story of God’s people. With thoughtful teaching, space for journaling, and opportunities for both remembrance and waiting, <em>Kingdom Come</em> offers a meaningful framework to help you slow down, savor the season, and embrace your identity as a citizen of God’s kingdom.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
