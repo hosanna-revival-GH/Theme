@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_MEhH4x": {
@@ -35,7 +36,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/hero-custom.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_CQDJrD": {
@@ -65,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Custom hand-painted Bibles are the product that started Hosanna Revival. As we have grown, our artist and founder, Katie, spends her time designing new products, leading our team, and growing the company. She no longer has the capacity to accept custom hand-painted orders at regular intervals. However, because custom work is near and dear to her heart, we have created a custom design submission process! Anyone interested in a custom hand-painted Bible can submit their design idea using the form below. We will review the submissions periodically and select custom projects that are a good fit for our brand and design capacity. We love to review your ideas and see your creativity!</p><p><em>*If you are in a rush, we wouldn't recommend this process and encourage you to find another artist on Etsy or consider our beautiful printed Bibles in our shop.</em></p>",
+            "text": "<p>Custom hand-painted Bibles are where the Hosanna Revival story began. What started with Katie painting her own Bible while studying abroad in Spain grew into the heart of our mission: to create beautiful Bibles that draw people closer to God’s Word. As Hosanna Revival has grown, Katie now pours her creativity into designing new collections, leading our team, and dreaming up what’s next for our community.</p><p>Because of this, she is not accepting new custom Bible submissions at this time. While we know this might be disappointing, we encourage you to explore the many incredible artists on Etsy who continue to offer custom painted Bibles. And of course, our own collection of beautifully designed printed Bibles is always available in our shop—created with the same heart and vision that started it all.</p><p>We hope that one day in the future we’ll be able to open custom submissions again, but until then, thank you for being part of this journey with us!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -176,10 +179,12 @@
         "question_zw8mWE",
         "question_9a9cNT"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "space_above": 0,
-        "space_below": 0
+        "space_below": 0,
+        "disable_section_margin": false
       }
     },
     "174045949336af68ae": {
@@ -196,6 +201,7 @@
       "block_order": [
         "acerill_form_builder_custom_form_RgLQJx"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true
