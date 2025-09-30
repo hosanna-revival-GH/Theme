@@ -9,6 +9,45 @@
  */
 {
   "sections": {
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Kingdom-Come-Header-005.png",
+            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-06.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
@@ -19,14 +58,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/one-thing-i-ask",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/OTIA-Sale-HP-001.png",
-            "image_mobile": "shopify://shop_images/OTIA-Sale-HP-002.png",
+            "image": "shopify://shop_images/Generic-Homepage-01_09fe360b-cbc3-4ddd-933e-6316cb3810f4.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-02_429efe1c-9e8d-497a-befc-8ae07a98da06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -47,23 +86,6 @@
         "disable_animation": false
       }
     },
-    "hero_video_HaNT4H": {
-      "type": "hero-video",
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "",
-        "title_size": 100,
-        "subheading": "",
-        "link_text": "explore the prayer toolkit",
-        "link": "shopify://pages/prayer-toolkit",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/55b0b4ce2d864cd0b598548bbea8bb22.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "250px"
-      }
-    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -74,14 +96,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/one-thing-i-ask",
+            "link": "shopify://pages/about-translations",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/OTIA-Sale-HP-01.png",
-            "image_mobile": "shopify://shop_images/OTIA-Sale-HP-02.png",
+            "image": "shopify://shop_images/Generic-Homepage-03.png",
+            "image_mobile": "shopify://shop_images/Generic-Homepage-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -90,86 +112,6 @@
       },
       "block_order": [
         "image_nrxtXn"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "promo_grid_tVdjXe": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_LFw8iA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Devo-sale-homepage-09.png",
-            "link": "shopify://collections/devos",
-            "width": "33"
-          }
-        },
-        "image_rGYtTW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Devo-sale-homepage-010.png",
-            "link": "shopify://collections/bible-studies",
-            "width": "33"
-          }
-        },
-        "image_G9dwHg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Devo-sale-homepage-011.png",
-            "link": "shopify://collections/books",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_LFw8iA",
-        "image_rGYtTW",
-        "image_G9dwHg"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "slideshow_AeLHDb": {
-      "type": "slideshow",
-      "blocks": {
-        "image_XjU3R9": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/your-one-thing-i-ask-journal",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/OTIA-Sale-HP-03.png",
-            "image_mobile": "shopify://shop_images/OTIA-Sale-HP-04.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_XjU3R9"
       ],
       "settings": {
         "section_height": "natural",
@@ -224,224 +166,7 @@
         "image_Gm3rH7",
         "image_tnpWYx"
       ],
-      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "slideshow_ydy6gN": {
-      "type": "slideshow",
-      "blocks": {
-        "image_ifbURP": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "shopify://pages/create-through-scripture-kept",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-019.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-020.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_ifbURP"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/devotionals",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_sale_homepage-18.png",
-            "image_mobile": "shopify://shop_images/Devo_sale_homepage-19.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "featured_collection_HPkeGD": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "One thing i ask journals",
-        "home_featured_products": "one-thing-i-ask",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_kjtqir": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "plan your beautiful life",
-        "home_featured_products": "planners",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
-    "slideshow_8yzxct": {
-      "type": "slideshow",
-      "blocks": {
-        "image_K4Ekm6": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/create-through-scripture-kept",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-018.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-017.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_K4Ekm6"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "promo_grid_biWGaP": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_3Dkhca": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-013.png",
-            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
-            "width": "33"
-          }
-        },
-        "image_86YXr6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-012.png",
-            "link": "shopify://products/csb-notetaking-bible-dublin-theme",
-            "width": "33"
-          }
-        },
-        "image_6LLmrd": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-010.png",
-            "link": "shopify://products/esv-study-bible-iceland-theme",
-            "width": "33"
-          }
-        },
-        "image_ph38FD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-09.png",
-            "link": "shopify://products/esv-study-bible-sonora-theme",
-            "width": "33"
-          }
-        },
-        "image_bqtYwV": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-011.png",
-            "link": "shopify://products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
-            "width": "33"
-          }
-        },
-        "image_HExtUa": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Sitewide-sale-014.png",
-            "link": "shopify://products/nlt-notetaking-bible-adelaide-theme",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_3Dkhca",
-        "image_86YXr6",
-        "image_6LLmrd",
-        "image_ph38FD",
-        "image_bqtYwV",
-        "image_HExtUa"
-      ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -688,18 +413,10 @@
     }
   },
   "order": [
-    "slideshow_X4MRpa",
-    "hero_video_HaNT4H",
-    "slideshow_gW9EVE",
-    "promo_grid_tVdjXe",
-    "slideshow_AeLHDb",
-    "promo_grid_UydWcM",
-    "slideshow_ydy6gN",
     "slideshow_8GYyKV",
-    "featured_collection_HPkeGD",
-    "featured_collection_kjtqir",
-    "slideshow_8yzxct",
-    "promo_grid_biWGaP",
+    "slideshow_X4MRpa",
+    "slideshow_gW9EVE",
+    "promo_grid_UydWcM",
     "slideshow_YNbwrF",
     "promo_grid_cMUWra",
     "slideshow_gyMt8x",

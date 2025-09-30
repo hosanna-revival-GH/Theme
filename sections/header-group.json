@@ -46,6 +46,7 @@
       "blocks": {
         "announcement-1": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Get $10 off a 5-Year Prayer Journal",
             "link_text": "We’re celebrating 5 years of prayer journals with your first year covered.",
