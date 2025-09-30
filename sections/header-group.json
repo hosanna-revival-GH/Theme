@@ -44,21 +44,21 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement-1": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Get $10 off a 5-Year Prayer Journal",
-            "link_text": "We’re celebrating 5 years of prayer journals with your first year covered.",
-            "link": "shopify://pages/your-one-thing-i-ask-journal"
-          }
-        },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
             "text": "Your Home for Beautiful Bibles",
             "link_text": "Have you found a Bible that excites you to engage in Scripture?",
             "link": "shopify://collections/beautiful-bibles"
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Sign up for Kingdom Come",
+            "link_text": "a 4-week free email series during advent",
+            "link": "https://hosannarevival.com/pages/kingdom-come"
           }
         },
         "announcement_mMUAeX": {
@@ -79,8 +79,8 @@
         }
       },
       "block_order": [
-        "announcement-1",
         "announcement_FNqfy6",
+        "announcement-1",
         "announcement_mMUAeX",
         "announcement_NXQKWa"
       ],
