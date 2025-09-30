@@ -61,8 +61,8 @@
     "single_button_eFchhW": {
       "type": "single-button",
       "settings": {
-        "button_text": "Join Create Through Scripture",
-        "button_link": "shopify://pages/create-through-scripture-kept",
+        "button_text": "Kingdom Come: A study for advent",
+        "button_link": "https://hosannarevival.com/pages/kingdom-come",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
