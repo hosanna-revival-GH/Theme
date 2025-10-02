@@ -104,6 +104,10 @@
           "settings": {
             "theme_id": "143344861362"
           }
+        },
+        "smartbot_product_highlights_xk9wLm": {
+          "type": "shopify://apps/smartbot/blocks/product-highlights/d9407b81-7d3e-4612-91c3-2020086e2073",
+          "settings": {}
         }
       },
       "block_order": [
@@ -119,7 +123,8 @@
         "tab",
         "contact",
         "share",
-        "shopacado_discounts_discount_table_7ydxeF"
+        "shopacado_discounts_discount_table_7ydxeF",
+        "smartbot_product_highlights_xk9wLm"
       ],
       "settings": {
         "sku_enable": false,
