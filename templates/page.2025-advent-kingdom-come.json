@@ -216,6 +216,25 @@
         "space_below": 75
       }
     },
+    "1759511818ada4a763": {
+      "type": "apps",
+      "blocks": {
+        "acerill_form_builder_custom_form_ceKYrj": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "1c9c32e0-e94a-4455-ad9a-5f45b6d195eb",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "acerill_form_builder_custom_form_ceKYrj"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "rich_text_ctMnBW": {
       "type": "rich-text",
       "blocks": {
@@ -310,6 +329,7 @@
     "rich_text_MfQYez",
     "rich_text_nEE3HM",
     "rich_text_crFNaB",
+    "1759511818ada4a763",
     "rich_text_ctMnBW",
     "text_and_image_CMPWbJ",
     "rich_text_E8HgXw"
