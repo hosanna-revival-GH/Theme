@@ -176,65 +176,6 @@
         "space_below": 75
       }
     },
-    "rich_text_crFNaB": {
-      "type": "rich-text",
-      "blocks": {
-        "text_7bpG7L": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>What's Included</p>",
-            "align_text_block": "center",
-            "block_bottom_space": 30
-          }
-        },
-        "text_HjxEqC": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Each week is anchored by readings, meditations, and written responses, while also incorporating traditional Advent practices like Sabbath rest, candle lighting, and even celebrating feast days that connect us to the wider story of God’s people. With thoughtful teaching, space for journaling, and opportunities for both remembrance and waiting, <em>Kingdom Come</em> offers a meaningful framework to help you slow down, savor the season, and embrace your identity as a citizen of God’s kingdom.</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "text_7bpG7L",
-        "text_HjxEqC"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 75
-      }
-    },
-    "1759511818ada4a763": {
-      "type": "apps",
-      "blocks": {
-        "acerill_form_builder_custom_form_ceKYrj": {
-          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
-          "settings": {
-            "formId": "1c9c32e0-e94a-4455-ad9a-5f45b6d195eb",
-            "behavior": "standard"
-          }
-        }
-      },
-      "block_order": [
-        "acerill_form_builder_custom_form_ceKYrj"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "rich_text_ctMnBW": {
       "type": "rich-text",
       "blocks": {
@@ -328,8 +269,6 @@
     "rich_text_btRiYb",
     "rich_text_MfQYez",
     "rich_text_nEE3HM",
-    "rich_text_crFNaB",
-    "1759511818ada4a763",
     "rich_text_ctMnBW",
     "text_and_image_CMPWbJ",
     "rich_text_E8HgXw"
