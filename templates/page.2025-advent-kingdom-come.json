@@ -90,7 +90,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p> A 4-week study focussing on the birth of Christ and its real-life implications for Christians today</p>",
+            "text": "<p> A 4-week study focusing on the birth of Christ and its real-life implications for Christians today</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
