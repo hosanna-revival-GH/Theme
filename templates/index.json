@@ -405,8 +405,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Kingdom-Come-Header-005.png",
-            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-06.png",
+            "image": "shopify://shop_images/Kingdom-Come-Header-015.png",
+            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-016.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
