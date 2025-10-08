@@ -14,15 +14,16 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "hero_video_Y4DnTE": {
       "type": "hero-video",
       "settings": {
-        "title": "Winter Collection\n2024",
+        "title": "Winter Collection\n2025",
         "title_size": 60,
-        "subheading": "experience the peaceful presence of your Good Shepherd as you engage in Scripture",
+        "subheading": "Awaken wonder with the beauty of Scripture",
         "link_text": "Shop the Collection",
         "link": "shopify://collections/winter-2024-collection",
         "color_accent": "rgba(0,0,0,0)",
@@ -101,7 +102,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "featured_collection_YcQbAb": {
@@ -124,7 +126,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "image_row_CNhFMK": {
@@ -319,7 +323,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
