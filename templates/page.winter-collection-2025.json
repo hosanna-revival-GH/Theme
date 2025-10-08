@@ -180,7 +180,7 @@
     "text_and_image_Yh9cNV": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-752.jpg",
+        "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-205.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Featuring a new ESV Study Bible",
@@ -198,20 +198,41 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_xEJ9TN": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "The NLT Life Application Study Bible",
+        "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. This unique study Bible helps you understand Scripture in its context and apply its truth to your daily life.</p><p>This Bible features over 10,000 study tools that bring Scripture to life, showing how its people, teachings, and events apply to everyday life. Each book includes helpful introductions, 100+ Life Application profiles, 500+ maps and charts, and 16 pages of full-color maps. A built-in harmony of the Gospels reveals parallels in Jesus’ life, while a dictionary/concordance and extensive cross-references make deeper study easy.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_W93Rri": {
       "type": "rich-text",
       "blocks": {
         "heading_ckVMti": {
           "type": "heading",
           "settings": {
-            "title": "Choose your NLT Compact Bibles"
+            "title": "Introducing the NLT Life Application Study Bible"
           }
         },
         "text_4zi7mj": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Take the beauty of Scripture with you wherever you go with our new NLT Compact Bibles. These beautiful Bibles are included in our 2024 Winter Collection.</p>",
+            "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. As it has done for millions of others, this unique study Bible will help you clearly understand what the Bible says in its context and what that <em>means</em> for you today. It also guides you to <em>apply</em> these insights to your daily life, <em>transforming understanding into lived truth</em>.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -337,6 +358,7 @@
     "single_button_jJhiGP",
     "image_row_CNhFMK",
     "text_and_image_Yh9cNV",
+    "text_and_image_xEJ9TN",
     "rich_text_W93Rri",
     "featured_collection_yQpiQz",
     "rich_text_KkwPiq",
