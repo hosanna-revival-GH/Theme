@@ -35,8 +35,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-021.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-021.png",
+            "image": "shopify://shop_images/Winter-Collection-Launch-Whats-New.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-Whats-New.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -58,6 +58,19 @@
         "disable_animation": false
       }
     },
+    "single_button_3L6q9A": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Explore The Winter Collection",
+        "button_link": "shopify://pages/dr-tammy-smith",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#c5a09f",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_eFchhW": {
       "type": "single-button",
       "settings": {
@@ -67,7 +80,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -81,21 +94,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b4a04b",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_3L6q9A": {
-      "type": "single-button",
-      "disabled": true,
-      "settings": {
-        "button_text": "Shop Dr. Tammy Smith's books",
-        "button_link": "shopify://pages/dr-tammy-smith",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -108,7 +107,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -150,7 +149,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -163,7 +162,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -176,7 +175,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -189,7 +188,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -202,7 +201,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -215,7 +214,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -228,7 +227,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#b5a04a",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     }
@@ -236,9 +235,9 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_3L6q9A",
     "single_button_eFchhW",
     "single_button_qAwKEz",
-    "single_button_3L6q9A",
     "single_button_JD887j",
     "single_button_gX7jmw",
     "single_button_GryJY9",

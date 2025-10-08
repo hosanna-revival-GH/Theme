@@ -9,43 +9,21 @@
  */
 {
   "sections": {
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://Hosannarevival.com/pages/kingdom-come",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Kingdom-Come-Header-005.png",
-            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-06.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+    "hero_video_EzmjCm": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Winter Collection",
+        "link": "shopify://collections/winter-2024-collection",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c05535d119a34791a75627aef1e96428.mp4",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "250px"
       }
     },
     "slideshow_X4MRpa": {
@@ -64,8 +42,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-01_09fe360b-cbc3-4ddd-933e-6316cb3810f4.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-02_429efe1c-9e8d-497a-befc-8ae07a98da06.png",
+            "image": "shopify://shop_images/Winter-Collection-Launch-01.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -96,14 +74,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/about-translations",
+            "link": "shopify://collections/bible-tabs",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-03.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-04.png",
+            "image": "shopify://shop_images/Winter-Collection-Launch-03.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -124,57 +102,6 @@
         "disable_animation": false
       }
     },
-    "promo_grid_UydWcM": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_8pcdHL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-07.png",
-            "link": "shopify://collections/csb-bibles",
-            "width": "25"
-          }
-        },
-        "image_dcHMiN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-06.png",
-            "link": "shopify://collections/esv-bibles",
-            "width": "25"
-          }
-        },
-        "image_Gm3rH7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-08.png",
-            "link": "shopify://collections/kjv-bibles",
-            "width": "25"
-          }
-        },
-        "image_tnpWYx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-05.png",
-            "link": "shopify://collections/nlt-bibles",
-            "width": "25"
-          }
-        }
-      },
-      "block_order": [
-        "image_8pcdHL",
-        "image_dcHMiN",
-        "image_Gm3rH7",
-        "image_tnpWYx"
-      ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "slideshow_YNbwrF": {
       "type": "slideshow",
       "blocks": {
@@ -191,8 +118,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-015.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-016.png",
+            "image": "shopify://shop_images/Winter-Collection-Launch-013_0976afb9-5927-4d63-8ca9-49452219cfe2.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -212,6 +139,48 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "promo_grid_UydWcM": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_8pcdHL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/B2b-Winter-Collection-05.png",
+            "link": "shopify://collections/csb-bibles",
+            "width": "33"
+          }
+        },
+        "image_dcHMiN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/B2b-Winter-Collection-06.png",
+            "link": "shopify://collections/esv-bibles",
+            "width": "33"
+          }
+        },
+        "image_Gm3rH7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/B2b-Winter-Collection-07.png",
+            "link": "shopify://collections/kjv-bibles",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_8pcdHL",
+        "image_dcHMiN",
+        "image_Gm3rH7"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "promo_grid_cMUWra": {
@@ -256,12 +225,91 @@
         "image_T9PWGX",
         "image_yqDrtn"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
+      }
+    },
+    "slideshow_GcPDX3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nrgk3e": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Launch-07.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-08.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Nrgk3e"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_JzgDYA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QVcitx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Launch-09.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-010.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QVcitx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "slideshow_gyMt8x": {
@@ -291,6 +339,7 @@
       "block_order": [
         "image_X9NdWT"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -318,8 +367,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Generic-Homepage-013.png",
-            "image_mobile": "shopify://shop_images/Generic-Homepage-014.png",
+            "image": "shopify://shop_images/Winter-Collection-Launch-011.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-012.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -340,88 +389,57 @@
         "disable_animation": false
       }
     },
-    "17413753419f9a3db7": {
-      "type": "apps",
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
       "blocks": {
-        "rivo_loyalty_rewards_referrals_lp_referral_campaign_Cj7ghK": {
-          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-referral-campaign/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+        "image_AXTDqX": {
+          "type": "image",
           "settings": {
-            "background_color": "",
-            "referral_campaign_id": ""
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://Hosannarevival.com/pages/kingdom-come",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Kingdom-Come-Header-005.png",
+            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-06.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
       "block_order": [
-        "rivo_loyalty_rewards_referrals_lp_referral_campaign_Cj7ghK"
+        "image_AXTDqX"
       ],
-      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "full_width": true,
-        "space_around": false
-      }
-    },
-    "countdown_6XgX8T": {
-      "type": "countdown",
-      "blocks": {
-        "content_pNi9qx": {
-          "type": "content",
-          "settings": {
-            "heading": "the hand painted drop",
-            "heading_size": "h3",
-            "text": "",
-            "content_alignment": "center"
-          }
-        },
-        "timer_BannEA": {
-          "type": "timer",
-          "settings": {
-            "year": "2025",
-            "month": "06",
-            "day": "12",
-            "hour": "12",
-            "minute": "00",
-            "hide_timer": true,
-            "text": "<p>the collection is here!</p>"
-          }
-        },
-        "button_Bz4DA7": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_link": "shopify://collections/the-hand-painted-collection",
-            "button": "beauty awaits",
-            "button_style": "secondary"
-          }
-        }
-      },
-      "block_order": [
-        "content_pNi9qx",
-        "timer_BannEA",
-        "button_Bz4DA7"
-      ],
-      "disabled": true,
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#b1a057",
-        "background_color": "#f4f0d9",
-        "background_image": "shopify://shop_images/Birthday-Giveback-Painting-Photos-Hosanna-Revival-2.jpg",
-        "overlay_color": "#ffffff",
-        "overlay_opacity": 72,
-        "lazyload_images": true
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
   "order": [
-    "slideshow_8GYyKV",
+    "hero_video_EzmjCm",
     "slideshow_X4MRpa",
     "slideshow_gW9EVE",
-    "promo_grid_UydWcM",
     "slideshow_YNbwrF",
+    "promo_grid_UydWcM",
     "promo_grid_cMUWra",
+    "slideshow_GcPDX3",
+    "slideshow_JzgDYA",
     "slideshow_gyMt8x",
     "slideshow_LAdPKf",
-    "17413753419f9a3db7",
-    "countdown_6XgX8T"
+    "slideshow_8GYyKV"
   ]
 }

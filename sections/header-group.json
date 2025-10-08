@@ -47,8 +47,8 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Have you found a Bible that excites you to engage in Scripture?",
+            "text": "Winter Collection is here!",
+            "link_text": " Add free Bible tabs to your order when you spend $75",
             "link": "shopify://collections/beautiful-bibles"
           }
         },
@@ -56,25 +56,25 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Sign up for Kingdom Come",
-            "link_text": "a 4-week free email series during advent",
+            "text": " NLT Life Application Study Bible now available",
+            "link_text": " Explore the Study Bible that guides you through Scripture",
             "link": "https://hosannarevival.com/pages/kingdom-come"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Free US domestic shipping on orders over $100",
-            "link_text": "Stock up on beautiful tools for yourself or to gift a friend",
+            "text": " Preorder our new devotional, Wonder",
+            "link_text": "Rediscover your awe of God through 7 Psalms",
             "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Beautiful Undated Planners",
-            "link_text": "Designed to beautifully fit your schedule",
-            "link": "shopify://pages/planners"
+            "text": "Free US Domestic Shipping on orders over $100",
+            "link_text": "Stock up on beautiful tools for yourself or to gift a friend!",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         }
       },
