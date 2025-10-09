@@ -35,22 +35,6 @@
         "mobile_height": "auto"
       }
     },
-    "hero_video_Y4DnTE": {
-      "type": "hero-video",
-      "settings": {
-        "title": "Winter Collection\n2025",
-        "title_size": 60,
-        "subheading": "Awaken wonder with the beauty of Scripture",
-        "link_text": "Shop the Collection",
-        "link": "shopify://collections/winter-2024-collection",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/cdeac11042044dae877ad48b74b2a8cb.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
     "rich_text_ChdjdK": {
       "type": "rich-text",
       "blocks": {
@@ -93,8 +77,8 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "The Winter Collection \n2025",
+            "title_size": 63,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -372,7 +356,6 @@
   "order": [
     "main",
     "hero_video_TkRRh9",
-    "hero_video_Y4DnTE",
     "rich_text_ChdjdK",
     "slideshow_fKC7bk",
     "featured_collection_YcQbAb",
