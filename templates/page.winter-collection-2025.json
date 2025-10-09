@@ -35,41 +35,6 @@
         "mobile_height": "auto"
       }
     },
-    "rich_text_ChdjdK": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_w7tiaQ": {
-          "type": "heading",
-          "settings": {
-            "title": "to the weary one,"
-          }
-        },
-        "text_jPe36a": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>We pray that this collection draws you in to experience the mighty power and perfect peace of God’s character. Through the eight Bibles, six notebooks, and two 5-Year Prayer Journals, our heart is that you will be reminded of the true rest and steadfast love God offers. Whether you are drawn to the serene landscape of our Dublin design or the powerful simplicity of our Jerusalem design, we pray that you are anchored in the truth that God is your Good Shepherd, Redeemer, the Alpha and Omega, and the One True King. As you draw near to him, may his presence become your safest refuge, and may you experience his precious love for you in beautiful new ways.</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_w7tiaQ",
-        "text_jPe36a"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#475a41",
-        "color_text": "#e8e8e1",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
     "slideshow_fKC7bk": {
       "type": "slideshow",
       "blocks": {
@@ -107,11 +72,46 @@
         "disable_animation": false
       }
     },
+    "rich_text_ChdjdK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w7tiaQ": {
+          "type": "heading",
+          "settings": {
+            "title": "A prayer of gratitude for the joy of belonging to Jesus"
+          }
+        },
+        "text_jPe36a": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We pray that this collection draws you in to experience the mighty power and perfect peace of God’s character. Through the eight Bibles, six notebooks, and two 5-Year Prayer Journals, our heart is that you will be reminded of the true rest and steadfast love God offers. Whether you are drawn to the serene landscape of our Dublin design or the powerful simplicity of our Jerusalem design, we pray that you are anchored in the truth that God is your Good Shepherd, Redeemer, the Alpha and Omega, and the One True King. As you draw near to him, may his presence become your safest refuge, and may you experience his precious love for you in beautiful new ways.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_w7tiaQ",
+        "text_jPe36a"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#c5a09f",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "featured_collection_YcQbAb": {
       "type": "featured-collection",
       "settings": {
         "title": "the collection designed to usher in rest",
-        "home_featured_products": "winter-2024-collection",
+        "home_featured_products": "by-collection",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
@@ -128,7 +128,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 60,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -326,7 +326,7 @@
             "title_size": 72,
             "subheading": "",
             "link": "shopify://collections/winter-2024-collection",
-            "link_text": "Shop 2024 Winter Collection",
+            "link_text": "Shop 2025 Winter Collection",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -356,8 +356,8 @@
   "order": [
     "main",
     "hero_video_TkRRh9",
-    "rich_text_ChdjdK",
     "slideshow_fKC7bk",
+    "rich_text_ChdjdK",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
     "image_row_CNhFMK",
