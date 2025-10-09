@@ -18,6 +18,23 @@
         "background_color": ""
       }
     },
+    "hero_video_TkRRh9": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c05535d119a34791a75627aef1e96428.mp4",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "auto"
+      }
+    },
     "hero_video_Y4DnTE": {
       "type": "hero-video",
       "settings": {
@@ -354,6 +371,7 @@
   },
   "order": [
     "main",
+    "hero_video_TkRRh9",
     "hero_video_Y4DnTE",
     "rich_text_ChdjdK",
     "slideshow_fKC7bk",
