@@ -360,7 +360,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "title": "",
+            "title": "Bibles",
             "focal_point": "center center"
           }
         },
@@ -368,7 +368,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "title": "",
+            "title": "Notebooks",
             "focal_point": "center center"
           }
         },
@@ -376,15 +376,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "collection_8FLHLM": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
+            "title": "5-Year Prayer Journal",
             "focal_point": "center center"
           }
         }
@@ -392,12 +384,11 @@
       "block_order": [
         "collection_7mxHyc",
         "collection_g8iGrq",
-        "collection_CrnNPE",
-        "collection_8FLHLM"
+        "collection_CrnNPE"
       ],
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
-        "title": "Collection list",
+        "title": "",
         "divider": false,
         "per_row": 4,
         "enable_gutter": true
