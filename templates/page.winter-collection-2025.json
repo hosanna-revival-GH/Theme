@@ -132,50 +132,45 @@
         "link_color_text": "#ffffff"
       }
     },
-    "image_row_CNhFMK": {
-      "type": "image-row",
+    "featured_collections_iYnhdN": {
+      "type": "featured-collections",
       "blocks": {
-        "image_110": {
-          "type": "image",
+        "collection_7mxHyc": {
+          "type": "collection",
           "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-02_959efd07-3988-45b6-8e5c-1c4ae6158ca5.png",
-            "image_width": 650,
-            "caption": "",
-            "link": "shopify://collections/beautiful-bibles"
+            "collection": "",
+            "title": "Bibles",
+            "focal_point": "center center"
           }
         },
-        "image_111": {
-          "type": "image",
+        "collection_g8iGrq": {
+          "type": "collection",
           "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-01.png",
-            "image_width": 650,
-            "caption": "",
-            "link": "shopify://collections/notebooks"
+            "collection": "",
+            "title": "Notebooks",
+            "focal_point": "center center"
           }
         },
-        "image_112": {
-          "type": "image",
+        "collection_CrnNPE": {
+          "type": "collection",
           "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/winter_collection_2024_landing_page_1_Recovered_-03.png",
-            "image_width": 650,
-            "caption": "",
-            "link": "shopify://collections/one-thing-i-ask"
+            "collection": "",
+            "title": "5-Year Prayer Journal",
+            "focal_point": "center center"
           }
         }
       },
       "block_order": [
-        "image_110",
-        "image_111",
-        "image_112"
+        "collection_7mxHyc",
+        "collection_g8iGrq",
+        "collection_CrnNPE"
       ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
         "title": "",
-        "align_text": "center",
-        "enable_spacing": true,
-        "enable_zoom": false
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
       }
     },
     "text_and_image_Yh9cNV": {
@@ -352,47 +347,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "featured_collections_iYnhdN": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_7mxHyc": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "Bibles",
-            "focal_point": "center center"
-          }
-        },
-        "collection_g8iGrq": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "Notebooks",
-            "focal_point": "center center"
-          }
-        },
-        "collection_CrnNPE": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "5-Year Prayer Journal",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_7mxHyc",
-        "collection_g8iGrq",
-        "collection_CrnNPE"
-      ],
-      "name": "t:sections.featured-collections.presets.collection_list.name",
-      "settings": {
-        "title": "",
-        "divider": false,
-        "per_row": 4,
-        "enable_gutter": true
-      }
     }
   },
   "order": [
@@ -402,13 +356,12 @@
     "rich_text_ChdjdK",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
-    "image_row_CNhFMK",
+    "featured_collections_iYnhdN",
     "text_and_image_Yh9cNV",
     "text_and_image_xEJ9TN",
     "rich_text_W93Rri",
     "featured_collection_yQpiQz",
     "rich_text_KkwPiq",
-    "slideshow_nMLnw7",
-    "featured_collections_iYnhdN"
+    "slideshow_nMLnw7"
   ]
 }
