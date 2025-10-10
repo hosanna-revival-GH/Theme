@@ -132,6 +132,28 @@
         "link_color_text": "#ffffff"
       }
     },
+    "text_and_image_xEJ9TN": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-532.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "The NLT Life Application Study Bible",
+        "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. This unique study Bible helps you understand Scripture in its context and apply its truth to your daily life.</p><p>This Bible features over 10,000 study tools that bring Scripture to life, showing how its people, teachings, and events apply to everyday life. Each book includes helpful introductions, 100+ Life Application profiles, 500+ maps and charts, and 16 pages of full-color maps. A built-in harmony of the Gospels reveals parallels in Jesus’ life, while a dictionary/concordance and extensive cross-references make deeper study easy.</p>",
+        "button_label": "Shop NLT Study BIbles",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "featured_collections_iYnhdN": {
       "type": "featured-collections",
       "blocks": {
@@ -188,28 +210,6 @@
         "align_text": "left",
         "image_width": "33",
         "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_xEJ9TN": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-532.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Introducing",
-        "title": "The NLT Life Application Study Bible",
-        "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. This unique study Bible helps you understand Scripture in its context and apply its truth to your daily life.</p><p>This Bible features over 10,000 study tools that bring Scripture to life, showing how its people, teachings, and events apply to everyday life. Each book includes helpful introductions, 100+ Life Application profiles, 500+ maps and charts, and 16 pages of full-color maps. A built-in harmony of the Gospels reveals parallels in Jesus’ life, while a dictionary/concordance and extensive cross-references make deeper study easy.</p>",
-        "button_label": "Shop NLT Study BIbles",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -358,8 +358,8 @@
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
     "featured_collections_iYnhdN",
-    "text_and_image_Yh9cNV",
     "text_and_image_xEJ9TN",
+    "text_and_image_Yh9cNV",
     "rich_text_W93Rri",
     "featured_collection_yQpiQz",
     "rich_text_KkwPiq",
