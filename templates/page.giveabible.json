@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_QdFXA6": {
@@ -50,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_yzYjRK": {
@@ -157,7 +159,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "rich_text_JKfTHm": {
@@ -216,27 +220,6 @@
         "lazyload_images": true
       }
     },
-    "9a51c368-4f34-46d2-8d33-93193d8a531a": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Full_logo_large_-_color_1.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Love One",
-        "text": "<p><strong>Location: </strong>Brentwood, TN<strong><br/>Mission: </strong>We exist to transform the lives of children and families in Uganda through life-saving medical care, family preservation and sharing the love of Jesus. </p>",
-        "button_label": "Learn More Here",
-        "button_link": "https://www.loveoneinternational.org/core-values/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "403ce5a5-a366-47dd-86fb-5006650ee54b": {
       "type": "text-and-image",
       "settings": {
@@ -252,48 +235,6 @@
         "align_text": "left",
         "image_width": "50",
         "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "ea2a9dab-8399-49bd-aa27-05cf0101993d": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/shlogoblack2x.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Scarlet Hope",
-        "text": "<p><strong>Location: </strong>Kentucky (8 locations nationwide)<br/><strong>Mission:</strong> Scarlet Hope exists to share the hope and love of Jesus with women in the adult entertainment industry. Their vision is to see women in the adult entertainment industry all over the world engaged with the Gospel of Jesus Christ, teaching them they are loved by the Creator of the universe and were made in His image while equipping and empowering them to change their lives through gospel-centered community and resources.</p>",
-        "button_label": "Learn More Here",
-        "button_link": "https://scarlethope.org/about/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "dbc8ea1f-ddbb-4205-8115-da2327f750d3": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "The 4/7",
-        "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission:</strong> Through a relationship with Christian community, ​The Four-Seven is committed to equipping the lives of the incarcerated and their families with tools and resources that lead to transformation.</p>",
-        "button_label": "Learn More Here",
-        "button_link": "https://www.thefourseven.org/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -321,17 +262,17 @@
         "lazyload_images": true
       }
     },
-    "3f271f8c-0764-4d79-8656-17aabbbf9016": {
+    "ea2a9dab-8399-49bd-aa27-05cf0101993d": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/BLOC_Ministries.png",
+        "image": "shopify://shop_images/shlogoblack2x.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Bloc Ministries",
-        "text": "<p><strong>Location: </strong>Cincinnati, OH<br/><strong>Mission: </strong>Bloc Ministries is a faith-based non-profit that focuses on healthy, personal relationships and activities that help to build hope, purpose, and vital life skills. Their mission is to build connections and safe spaces for students, families and adults to thrive and succeed in spite of difficult circumstances. </p>",
+        "title": "Scarlet Hope",
+        "text": "<p><strong>Location: </strong>Kentucky (8 locations nationwide)<br/><strong>Mission:</strong> Scarlet Hope exists to share the hope and love of Jesus with women in the adult entertainment industry. Their vision is to see women in the adult entertainment industry all over the world engaged with the Gospel of Jesus Christ, teaching them they are loved by the Creator of the universe and were made in His image while equipping and empowering them to change their lives through gospel-centered community and resources.</p>",
         "button_label": "Learn More Here",
-        "button_link": "http://www.onebloc.org/",
+        "button_link": "https://scarlethope.org/about/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -342,20 +283,20 @@
         "lazyload_images": true
       }
     },
-    "13241240-9631-451f-af9c-a3f33ac609c2": {
+    "444e1ed3-523d-4065-a37f-6e5deebf4b3f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/20_Rescue_Her_Logo_blue_79e28390-48a2-4342-8ea6-127cb79fe181.png",
+        "image": "shopify://shop_images/1.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Rescue Her",
-        "text": "<p><strong>Location: </strong>Euless, TX<br/><strong>Mission: </strong>The vision of Rescue Her is to empower survivors of sex trafficking to live in freedom. Our mission is to raise awareness, assist with rescues, and restore. We raise awareness through speaking events, educational resources, and awareness campaigns. We assist with rescues of victims through crisis response and collaboration with law enforcement. We offer restorative services to survivors through our long-term Empower Program.</p>",
-        "button_label": "Learn More Here",
-        "button_link": "https://www.rescueher.org/",
+        "title": "The Glow Mission",
+        "text": "<p><strong>Location: </strong>Kannapolis, NC<br/><strong>Mission:</strong> As GLOW stands for “Go Love Others Well,” the scope of GLOW’s work has expanded to include care for widows and needy elderly in Ukraine, and now encompasses the vision to restore hope by restoring homes damaged and destroyed during the war and caring for refugees. GLOW continues to work with our orphan grads, giving them opportunities to “give back” and love well as they have been loved.</p>",
+        "button_label": "Learn More here",
+        "button_link": "https://glowmission.org/about-us/",
         "button_style": "primary",
         "align_text": "left",
-        "image_width": "50",
+        "image_width": "33",
         "layout": "right",
         "divider": false,
         "top_padding": true,
@@ -384,20 +325,20 @@
         "lazyload_images": true
       }
     },
-    "a26056e0-883c-46a4-8404-a165bca14eb3": {
+    "9a51c368-4f34-46d2-8d33-93193d8a531a": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/A21_SupportingLogo_A_White.png",
+        "image": "shopify://shop_images/Family_Hope_Logo_1_copy.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "A21",
-        "text": "<p><strong>Location: </strong>Fort Worth, TX<br/><strong>Mission: </strong>In 2008, a few ordinary people set out to do the impossible... abolish slavery everywhere, forever. To see a world where women are no longer sold for sex. Where men are no longer sold for labor. Where children are no longer taken from their families and exploited. A world where every single person is <em>free.</em></p>",
+        "title": "Family Hope",
+        "text": "<p><strong>Location: </strong>Indianapolis, IN<strong><br/>Mission: </strong>Family Hope is a collaboration of area churches in Central Indiana providing supportive relationships for vulnerable families. We are a Christian, non-profit operating through our team of trained and vetted volunteers who offer temporary hosting of children, connections and guidance for parents, and a bridge to family stability.</p>",
         "button_label": "Learn More Here",
-        "button_link": "https://www.a21.org/content/get-to-know-us/grd33s",
+        "button_link": "https://www.familyhope.info/",
         "button_style": "primary",
         "align_text": "left",
-        "image_width": "50",
+        "image_width": "33",
         "layout": "right",
         "divider": false,
         "top_padding": true,
@@ -426,21 +367,83 @@
         "lazyload_images": true
       }
     },
-    "444e1ed3-523d-4065-a37f-6e5deebf4b3f": {
+    "a26056e0-883c-46a4-8404-a165bca14eb3": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/1.png",
+        "image": "shopify://shop_images/Thrive_Logo.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "The Glow Mission",
-        "text": "<p><strong>Location: </strong>Kannapolis, NC<br/><strong>Mission:</strong> As GLOW stands for “Go Love Others Well,” the scope of GLOW’s work has expanded to include care for widows and needy elderly in Ukraine, and now encompasses the vision to restore hope by restoring homes damaged and destroyed during the war and caring for refugees. GLOW continues to work with our orphan grads, giving them opportunities to “give back” and love well as they have been loved.</p>",
-        "button_label": "Learn More here",
-        "button_link": "https://glowmission.org/about-us/",
+        "title": "Thrive Lonsdale",
+        "text": "<p><strong>Location: </strong>Knoxville, TN<br/><strong>Mission: </strong>Thrive seeks to connect caring adults with at-risk youth through gospel-centered relationships and to see communities transformed by the Gospel. </p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://www.helpusthrive.com/",
         "button_style": "primary",
         "align_text": "left",
-        "image_width": "50",
+        "image_width": "33",
         "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "13241240-9631-451f-af9c-a3f33ac609c2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/true-id_logo_w-byline_PANTONES-C_1.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "True ID",
+        "text": "<p><strong>Location: </strong>Euless, TX<br/><strong>Mission: </strong>True ID exists to aid survivors of human trafficking and exploitation in reintegrating back into society through safe and affordable reintegration housing, personalized care plans, trauma-informed mentorship, financial and workforce development, and faith-based community support. Our mission is to help each woman rediscover her God-given identity, rebuild her life, and thrive in sustainable freedom.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://www.mytrueid.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "dbc8ea1f-ddbb-4205-8115-da2327f750d3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/71Five_MARK_653_GRY.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "71Five",
+        "text": "<p><strong>Location: </strong>Medford, OR<br/><strong>Mission:</strong> 71Five exists to share God’s story of hope with young people through trusting relationships in any relevant way. ‘Lord God, you are my hope. I have trusted in you since I was young’ Psalm 71:5</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://www.71five.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3f271f8c-0764-4d79-8656-17aabbbf9016": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "A Brighter Day",
+        "text": "<p><strong>Location: </strong>San Antonio, TX<br/><strong>Mission: </strong>A Brighter Day’s mission is to be a support system for pregnant and parenting individuals, many of whom are facing financial hardship, unexpected pregnancies, or lack of family support. We provide practical resources such as diapers, wipes, baby food, clothing, blankets, and parenting classes, ensuring that families have access to the essentials they need to care for their children</p>",
+        "button_label": "",
+        "button_link": "http://www.onebloc.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -456,7 +459,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "rich_text_xmhqjE": {
@@ -503,17 +508,17 @@
     "single_button_aEmAiK",
     "rich_text_JKfTHm",
     "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe",
-    "9a51c368-4f34-46d2-8d33-93193d8a531a",
     "403ce5a5-a366-47dd-86fb-5006650ee54b",
-    "ea2a9dab-8399-49bd-aa27-05cf0101993d",
-    "dbc8ea1f-ddbb-4205-8115-da2327f750d3",
     "2d4443b2-b026-4883-abd8-68cf2d767caf",
-    "3f271f8c-0764-4d79-8656-17aabbbf9016",
-    "13241240-9631-451f-af9c-a3f33ac609c2",
-    "7153e79b-eb25-425a-9032-815690b0c535",
-    "a26056e0-883c-46a4-8404-a165bca14eb3",
-    "3d0c272a-1e4a-477d-a79d-42a43f62d8cf",
+    "ea2a9dab-8399-49bd-aa27-05cf0101993d",
     "444e1ed3-523d-4065-a37f-6e5deebf4b3f",
+    "7153e79b-eb25-425a-9032-815690b0c535",
+    "9a51c368-4f34-46d2-8d33-93193d8a531a",
+    "3d0c272a-1e4a-477d-a79d-42a43f62d8cf",
+    "a26056e0-883c-46a4-8404-a165bca14eb3",
+    "13241240-9631-451f-af9c-a3f33ac609c2",
+    "dbc8ea1f-ddbb-4205-8115-da2327f750d3",
+    "3f271f8c-0764-4d79-8656-17aabbbf9016",
     "55401b2d-65ef-489e-b538-fceb204e053e",
     "rich_text_xmhqjE"
   ]
