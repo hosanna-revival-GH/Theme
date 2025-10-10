@@ -450,9 +450,29 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_hzCaVn": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Lighthouse Acres",
+        "text": "",
+        "button_label": "learn more here",
+        "button_link": "https://www.lighthouseacres.com/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "55401b2d-65ef-489e-b538-fceb204e053e": {
       "type": "single-button",
-      "disabled": true,
       "settings": {
         "button_text": "GIVE A BIBLE HERE",
         "button_link": "",
@@ -519,6 +539,7 @@
     "13241240-9631-451f-af9c-a3f33ac609c2",
     "dbc8ea1f-ddbb-4205-8115-da2327f750d3",
     "3f271f8c-0764-4d79-8656-17aabbbf9016",
+    "text_and_image_hzCaVn",
     "55401b2d-65ef-489e-b538-fceb204e053e",
     "rich_text_xmhqjE"
   ]
