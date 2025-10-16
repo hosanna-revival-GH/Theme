@@ -141,6 +141,7 @@
       "blocks": {
         "collection_7mxHyc": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "title": "Bibles",
@@ -149,6 +150,7 @@
         },
         "collection_g8iGrq": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "title": "Notebooks",
@@ -157,6 +159,7 @@
         },
         "collection_CrnNPE": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "title": "5-Year Prayer Journal",
