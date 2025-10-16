@@ -172,6 +172,7 @@
         "collection_g8iGrq",
         "collection_CrnNPE"
       ],
+      "disabled": true,
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
         "title": "",
