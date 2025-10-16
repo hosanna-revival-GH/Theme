@@ -17,7 +17,7 @@
         "title_size": 80,
         "subheading": "",
         "link_text": "Winter Collection",
-        "link": "shopify://collections/winter-2024-collection",
+        "link": "shopify://collections/winter-2025-collection",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-center",
         "video_url": "https://cdn.shopify.com/videos/c/o/v/c05535d119a34791a75627aef1e96428.mp4",
@@ -36,7 +36,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/winter-2025-collection",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -112,7 +112,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections",
+            "link": "shopify://collections/winter-2025-nlt-life-application-study-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -148,7 +148,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/B2b-Winter-Collection-05.png",
-            "link": "shopify://collections/csb-bibles",
+            "link": "shopify://products/esv-study-bible-bethany-theme",
             "width": "33"
           }
         },
@@ -156,7 +156,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/B2b-Winter-Collection-06.png",
-            "link": "shopify://collections/esv-bibles",
+            "link": "shopify://collections/winter-2025-csb-bibles",
             "width": "33"
           }
         },
@@ -164,7 +164,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/B2b-Winter-Collection-07.png",
-            "link": "shopify://collections/kjv-bibles",
+            "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-mauves-theme",
             "width": "33"
           }
         }
@@ -244,8 +244,8 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "",
-            "link_text": "Optional button",
+            "link": "shopify://collections/winter-2025-collection",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -284,7 +284,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
