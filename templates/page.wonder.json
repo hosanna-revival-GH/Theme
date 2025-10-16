@@ -442,7 +442,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-079.jpg",
-            "image_mobile": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-120.jpg",
+            "image_mobile": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-079_0c78106c-ad84-46ff-a8e0-52ce2d9cad2f.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -551,7 +551,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#9ba586",
+        "color_bg": "#c5a09f",
         "color_text": "#f5f0e6",
         "space_above": 75,
         "space_below": 75
@@ -688,7 +688,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#9ba586",
+        "color_bg": "#c5a09f",
         "color_text": "#ffffff",
         "space_above": 75,
         "space_below": 75
