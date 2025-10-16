@@ -70,9 +70,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "The Secure Soul:\n An Identity Anchored in Christ",
+            "title": "Wonder",
             "title_size": 40,
-            "subheading": "Are you chasing validation from the world and wondering why you still feel so broken inside?",
+            "subheading": "Rediscovering Our Awe of God and Reclaiming a Childlike Faith",
             "link": "http://hosannarevival.com/TSS-Preview",
             "link_text": "Download Chapter 1 Preview",
             "link_2": "",
@@ -167,7 +167,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Are you chasing validation from the world and wondering why you still feel so broken inside? Have you handed your worth over to things that always leave you feeling not enough? Do you feel like no matter how hard you try, you can’t rid yourself of constant comparison?</p>",
+            "text": "<p>Are you walking through a dry season, longing for your heart to awaken again to the delight, awe, and joy of Christ? Are you looking to rediscover childlike faith in your relationship with Christ? Do you desire to experience true wonder?</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -195,14 +195,14 @@
         "heading_hNHcBY": {
           "type": "heading",
           "settings": {
-            "title": "The Secure Soul: An identity anchored in the love of Christ"
+            "title": "Wonder: Rediscovering Our Awe of God and Reclaiming a Childlike Faith"
           }
         },
         "text_9KyJ8h": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>The Secure Soul</em> by Dr. Tammy Smith is for those longing to step into freedom from insecurity through aligning their identity with God’s truth about who they are. </p>",
+            "text": "<p><em>Wonder </em>is a seven-week devotional journey for anyone who longs for spiritual refreshment and desires to be delighted all over again by the beauty of our Creator.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -262,11 +262,11 @@
         "buy_buttons_ahxUNr"
       ],
       "settings": {
-        "featured_product": "the-secure-soul-by-tammy-smith",
+        "featured_product": "wonder-by-alicia-hamilton",
         "divider": false,
         "sku_enable": false,
         "image_position": "left",
-        "image_size": "medium",
+        "image_size": "large",
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
         "thumbnail_arrows": false,
