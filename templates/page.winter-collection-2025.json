@@ -72,45 +72,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_6xgrG6": {
-      "type": "slideshow",
-      "blocks": {
-        "image_qUyFfK": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Launch-prayer.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-Prayer-02.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_qUyFfK"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "100vh",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "featured_collection_YcQbAb": {
       "type": "featured-collection",
       "settings": {
@@ -191,7 +152,7 @@
         "title": "The NLT Life Application Study Bible",
         "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. This unique study Bible helps you understand Scripture in its context and apply its truth to your daily life.</p><p>This Bible features over 10,000 study tools that bring Scripture to life, showing how its people, teachings, and events apply to everyday life. Each book includes helpful introductions, 100+ Life Application profiles, 500+ maps and charts, and 16 pages of full-color maps. A built-in harmony of the Gospels reveals parallels in Jesus’ life, while a dictionary/concordance and extensive cross-references make deeper study easy.</p>",
         "button_label": "Shop NLT Study BIbles",
-        "button_link": "",
+        "button_link": "shopify://collections/winter-2025-nlt-life-application-study-bibles",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -212,7 +173,7 @@
         "title": "The Bethany ESV Study Bible",
         "text": "<p>We’ve paired our beautiful Bethany design with the beloved ESV Study Bible. For years, the ESV Study Bible has been an invaluable resource for people all over the world. Nearly one hundred reputable biblical scholars and theologians from nine different countries contributed to this incredible work. With beautiful full-color maps, charts, articles, and more, this Study Bible has been designed to help you understand the Bible in a deeper way. As you utilize this Study Bible to spend time with the Lord, may you see more of God’s restoring hand in your life, until the day we experience complete restoration in heaven.</p>",
         "button_label": "Shop the Bethany Study Bible",
-        "button_link": "shopify://products/esv-study-bible-sonora-theme",
+        "button_link": "shopify://products/esv-study-bible-bethany-theme",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "33",
@@ -316,6 +277,45 @@
         "color_text": "#ffffff",
         "space_above": 75,
         "space_below": 75
+      }
+    },
+    "slideshow_6xgrG6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_qUyFfK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Launch-prayer.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-Prayer-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_qUyFfK"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "100vh",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "slideshow_nMLnw7": {
