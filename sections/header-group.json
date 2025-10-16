@@ -49,16 +49,15 @@
           "settings": {
             "text": "Winter Collection is here!",
             "link_text": " Add free Bible tabs to your order when you spend $75",
-            "link": "shopify://collections/beautiful-bibles"
+            "link": "shopify://collections/winter-2025-collection"
           }
         },
         "announcement-1": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": " NLT Life Application Study Bible now available",
             "link_text": " Explore the Study Bible that guides you through Scripture",
-            "link": "https://hosannarevival.com/pages/kingdom-come"
+            "link": "shopify://collections/winter-2025-nlt-life-application-study-bibles"
           }
         },
         "announcement_mMUAeX": {
@@ -66,7 +65,7 @@
           "settings": {
             "text": " Preorder our new devotional, Wonder",
             "link_text": "Rediscover your awe of God through 7 Psalms",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "link": "shopify://products/wonder-by-alicia-hamilton"
           }
         },
         "announcement_NXQKWa": {
