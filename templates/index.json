@@ -102,6 +102,19 @@
         "disable_animation": false
       }
     },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "The Winter Collection",
+        "home_featured_products": "winter-2025-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_YNbwrF": {
       "type": "slideshow",
       "blocks": {
@@ -433,6 +446,7 @@
     "hero_video_EzmjCm",
     "slideshow_X4MRpa",
     "slideshow_gW9EVE",
+    "featured_collection_AbN8iP",
     "slideshow_YNbwrF",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",
