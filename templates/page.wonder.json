@@ -80,7 +80,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-038.jpg",
-            "image_mobile": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
+            "image_mobile": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-045.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -629,7 +629,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-6.jpg",
+            "image": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-115.jpg",
+            "image_mobile": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-115.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -640,7 +641,7 @@
         "image_TYeAyb"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "650px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
