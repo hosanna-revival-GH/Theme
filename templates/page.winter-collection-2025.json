@@ -125,6 +125,7 @@
     },
     "single_button_jJhiGP": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "shop winter collection",
         "button_link": "shopify://collections/winter-2024-collection",
@@ -141,18 +142,16 @@
       "blocks": {
         "collection_7mxHyc": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "collection": "",
+            "collection": "winter-2025-bibles",
             "title": "Bibles",
             "focal_point": "center center"
           }
         },
         "collection_g8iGrq": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "collection": "",
+            "collection": "winter-2025-notebooks",
             "title": "Notebooks",
             "focal_point": "center center"
           }
@@ -362,7 +361,6 @@
     "main",
     "hero_video_TkRRh9",
     "slideshow_fKC7bk",
-    "slideshow_6xgrG6",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
     "featured_collections_iYnhdN",
@@ -371,6 +369,7 @@
     "rich_text_W93Rri",
     "featured_collection_yQpiQz",
     "rich_text_KkwPiq",
+    "slideshow_6xgrG6",
     "slideshow_nMLnw7"
   ]
 }
