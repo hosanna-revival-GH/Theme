@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_WEntwg": {
@@ -33,9 +34,10 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-2024-Hosanna-Revival-1286.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-136.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_Rjp9BA": {
@@ -149,7 +152,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "rich_text_BBka3J": {
@@ -207,7 +212,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "rich_text_N6qbhj": {
@@ -248,16 +255,6 @@
     "image_row_WkcAdA": {
       "type": "image-row",
       "blocks": {
-        "image_FDyVya": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0006.jpg",
-            "image_width": 650,
-            "caption": "Beautiful Bible Gift Under The Tree",
-            "link": ""
-          }
-        },
         "image_EgGtgm": {
           "type": "image",
           "settings": {
@@ -265,6 +262,16 @@
             "image": "shopify://shop_images/A-Hosanna-Revival-Christmas-Tree-Gift-Intentionally-346.jpg",
             "image_width": 650,
             "caption": "Hosanna Revival Christmas Tree Gift",
+            "link": ""
+          }
+        },
+        "image_FDyVya": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-130.jpg",
+            "image_width": 650,
+            "caption": "Beautiful Bible Gift Under The Tree",
             "link": ""
           }
         },
@@ -290,8 +297,8 @@
         }
       },
       "block_order": [
-        "image_FDyVya",
         "image_EgGtgm",
+        "image_FDyVya",
         "image_w8MzHJ",
         "image_P8dtkM"
       ],
@@ -305,16 +312,6 @@
     "image_row_TbwtcA": {
       "type": "image-row",
       "blocks": {
-        "image_ViPiih": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0010.jpg",
-            "image_width": 650,
-            "caption": "Christian Gift Under The Tree 2024",
-            "link": ""
-          }
-        },
         "image_cUD7yV": {
           "type": "image",
           "settings": {
@@ -344,13 +341,23 @@
             "caption": "Beautiful Bible - Christmas 2024",
             "link": ""
           }
+        },
+        "image_ViPiih": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-172.jpg",
+            "image_width": 650,
+            "caption": "Christian Gift Under The Tree 2024",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "image_ViPiih",
         "image_cUD7yV",
         "image_F3y3WX",
-        "image_xRNhYt"
+        "image_xRNhYt",
+        "image_ViPiih"
       ],
       "settings": {
         "title": "",
@@ -401,7 +408,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0570.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-214.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "The 5-Year Prayer Journal",
@@ -414,7 +421,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0574.png",
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-438.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Intentional Devotionals",
@@ -427,7 +434,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0578.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-246.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Beautiful Notebooks",
@@ -464,9 +471,10 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Christmas-Holiday-Beautiful-Bible-Christian-Gift-Under-The-Tree-2024-Hosanna-Revival-0559_80de332f-edbc-41dd-b808-161c5f273d74.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-260.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -480,7 +488,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
