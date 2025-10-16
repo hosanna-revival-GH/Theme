@@ -62,7 +62,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Explore The Winter Collection",
-        "button_link": "shopify://pages/dr-tammy-smith",
+        "button_link": "shopify://collections/winter-2025-collection",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
