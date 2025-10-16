@@ -34,7 +34,7 @@
     "color_modal_overlays": "#e6e6e6",
     "color_image_overlay": "#000000",
     "color_image_overlay_text_shadow": 20,
-    "type_header_font_family": "baskervville_n4",
+    "type_header_font_family": "libre_baskerville_n4",
     "type_header_spacing": "0",
     "type_header_base_size": 38,
     "type_header_line_height": 1,
