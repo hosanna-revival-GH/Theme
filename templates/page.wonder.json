@@ -487,19 +487,6 @@
         "space_below": 75
       }
     },
-    "single_button_dwk6Cy": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "BACK TO DEVOTIONAL LIBRARY",
-        "button_link": "shopify://pages/devotionals",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 60,
-        "space_below": 60,
-        "link_color_background": "#203854",
-        "link_color_text": "#ffffff"
-      }
-    },
     "featured_collection_wb8PnE": {
       "type": "featured-collection",
       "settings": {
@@ -509,7 +496,7 @@
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
-        "divider": false
+        "divider": true
       }
     }
   },
@@ -529,7 +516,6 @@
     "rich_text_GXp7hG",
     "slideshow_NEtP87",
     "rich_text_N7g7Tz",
-    "single_button_dwk6Cy",
     "featured_collection_wb8PnE"
   ]
 }
