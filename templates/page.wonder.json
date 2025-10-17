@@ -183,7 +183,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#c5a09f",
+        "color_bg": "#203854",
         "color_text": "#ffffff",
         "space_above": 60,
         "space_below": 60
@@ -330,7 +330,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 30,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#203854",
         "link_color_text": "#ffffff"
       }
     },
@@ -421,7 +421,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 60,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#203854",
         "link_color_text": "#ffffff"
       }
     },
@@ -551,7 +551,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#c5a09f",
+        "color_bg": "#203854",
         "color_text": "#f5f0e6",
         "space_above": 75,
         "space_below": 75
@@ -560,7 +560,7 @@
     "text_and_image_TnnR6t": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-32_1.jpg",
+        "image": "shopify://shop_images/et_20251006_hosanna-alicia-0421-Edit.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
@@ -581,7 +581,7 @@
     "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-35.jpg",
+        "image": "shopify://shop_images/et_20251006_hosanna-alicia-0950.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
@@ -689,7 +689,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#c5a09f",
+        "color_bg": "#203854",
         "color_text": "#ffffff",
         "space_above": 75,
         "space_below": 75
@@ -704,7 +704,7 @@
         "alignment": "center",
         "space_above": 60,
         "space_below": 60,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#203854",
         "link_color_text": "#ffffff"
       }
     },
