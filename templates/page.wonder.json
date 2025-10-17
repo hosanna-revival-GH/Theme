@@ -73,7 +73,7 @@
             "title": "Wonder",
             "title_size": 40,
             "subheading": "Rediscovering Our Awe of God and Reclaiming a Childlike Faith",
-            "link": "http://hosannarevival.com/TSS-Preview",
+            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Wonder-Hosanna-Revival-Week-One-Preview-Devotional-PDF.pdf?v=1759867085",
             "link_text": "Download Chapter 1 Preview",
             "link_2": "",
             "link_text_2": "",
@@ -325,12 +325,12 @@
       "type": "single-button",
       "settings": {
         "button_text": "Preview Chapter One",
-        "button_link": "http://hosannarevival.com/TSS-Preview",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Wonder-Hosanna-Revival-Week-One-Preview-Devotional-PDF.pdf?v=1759867085",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 30,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -379,7 +379,7 @@
         "title": "Wonder",
         "text": "<p><strong>Topic:</strong> Rediscovering the awe of God<br/><strong>Length of Study:</strong> 7 Weeks<br/><strong>Focal Scripture:</strong> Psalms</p><p>“You and I were made to wonder. We were designed to delight in the majesty, beauty, and goodness of the God who created all things.  ”<br/><em>- Alicia Hamilton, author</em></p>",
         "button_label": "Download the Chapter 1 Preview",
-        "button_link": "http://hosannarevival.com/TSS-Preview",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Wonder-Hosanna-Revival-Week-One-Preview-Devotional-PDF.pdf?v=1759867085",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -415,13 +415,13 @@
     "single_button_3BJJYV": {
       "type": "single-button",
       "settings": {
-        "button_text": "Order now",
-        "button_link": "https://hosannarevival.com/products/the-secure-soul-by-tammy-smith",
+        "button_text": "Preorder",
+        "button_link": "shopify://products/wonder-by-alicia-hamilton",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 60,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#c5a09f",
         "link_color_text": "#ffffff"
       }
     },
@@ -624,7 +624,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "https://hosannarevival.com/products/the-secure-soul-by-tammy-smith",
-            "link_text": "Order Now",
+            "link_text": "Preorder",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
