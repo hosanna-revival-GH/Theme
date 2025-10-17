@@ -135,6 +135,7 @@
         },
         "variant_picker_6PfJU7": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "variant_labels": true,
             "picker_type": "button",
@@ -194,7 +195,7 @@
         "title": "This Devotional is for you if...",
         "text": "<ul><li>You are seeking a renewed sense of childlike faith</li><li>You are in a dry season and need to see God in a new way</li><li>You want to fall in love with your Creator all over again</li></ul>",
         "button_label": "Download the Chapter 1 Preview",
-        "button_link": "http://hosannarevival.com/TSS-Preview",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Wonder-Hosanna-Revival-Week-One-Preview-Devotional-PDF.pdf?v=1759867085",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
