@@ -63,7 +63,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Are you walking through a dry season, longing for your heart to awaken again to the delight, awe, and joy of Christ? Are you looking to rediscover childlike faith in your relationship with Christ? Do you desire to experience true wonder?</p>",
+            "text": "<p>Are you walking through a dry season, longing for your heart to awaken again to the delight, awe, and joy of Christ? Are you looking to rediscover childlike faith? Do you desire to experience true wonder towards Jesus?</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -226,19 +226,6 @@
         "lazyload_images": true
       }
     },
-    "single_button_3BJJYV": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Preorder",
-        "button_link": "shopify://products/wonder-by-alicia-hamilton",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 60,
-        "link_color_background": "#203854",
-        "link_color_text": "#ffffff"
-      }
-    },
     "slideshow_UC7cyw": {
       "type": "slideshow",
       "blocks": {
@@ -249,8 +236,8 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "",
-            "link_text": "",
+            "link": "shopify://products/wonder-by-alicia-hamilton",
+            "link_text": "Preorder",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -535,7 +522,6 @@
     "single_button_CRBEBN",
     "text_and_image_c87NAi",
     "text_and_image_kXTmWw",
-    "single_button_3BJJYV",
     "slideshow_UC7cyw",
     "rich_text_hjcJjW",
     "text_and_image_TnnR6t",
