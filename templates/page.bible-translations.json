@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_F4tNbB": {
@@ -35,7 +36,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0276.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_6RgKXG": {
@@ -184,7 +187,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "rich_text_BBmXCT": {
@@ -291,7 +296,7 @@
         "image": "shopify://shop_images/Winter-Collection-Styled-at-Home-Leather-Bibles-Hosanna-Revival-354_73e15b6e-3f5b-44e7-94ca-be9352ed56c8.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "Thought for Thought",
+        "subtitle": "Meaning for Meaning",
         "title": "NLT: The New Living Translation",
         "text": "<p><strong>For the one who</strong>: Is new to the Bible or is looking for an easy-to-understand translation<br/></p><p><strong>Romans 8:6 in NLT</strong>: “So letting your sinful nature control your mind leads to death. But letting the Spirit control your mind leads to life and peace.”</p><p><strong>Find it here</strong>: <a href=\"/collections/nlt-bibles\" title=\"NLT Bibles\">Notetaking Bibles</a></p><p></p>",
         "button_label": "Select My NLT",
@@ -326,7 +331,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "f7028665-9679-4e47-91c1-88df1da1574d": {
@@ -368,7 +375,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Best-Aesthetic-Christian-Christmas-Gifts-Beautiful-Bible-Hosanna-Revival-0218.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -382,7 +390,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
