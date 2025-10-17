@@ -145,8 +145,9 @@
         },
         "buy_buttons_ahxUNr": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "surface_pickup_enable": true,
             "show_gift_card_recipient": false
           }
@@ -175,11 +176,11 @@
     "single_button_CRBEBN": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preview Chapter One",
-        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Wonder-Hosanna-Revival-Week-One-Preview-Devotional-PDF.pdf?v=1759867085",
+        "button_text": "Preorder",
+        "button_link": "shopify://products/wonder-by-alicia-hamilton",
         "button_size": "huge",
         "alignment": "center",
-        "space_above": 30,
+        "space_above": 0,
         "space_below": 30,
         "link_color_background": "#203854",
         "link_color_text": "#ffffff"
