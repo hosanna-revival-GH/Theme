@@ -18,51 +18,6 @@
         "background_color": ""
       }
     },
-    "rich_text_CXtkw9": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_waUTU6": {
-          "type": "heading",
-          "settings": {
-            "title": "Available April 1st"
-          }
-        },
-        "text_AMiwDV": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><a href=\"https://hosannarevival.com/products/just-by-brooke-jackson\" title=\"https://hosannarevival.com/products/just-by-brooke-jackson\"><em>Sign up</em></a><em> to be notified when it launches </em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 25
-          }
-        },
-        "button_zLNbiP": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "https://hosannarevival.com/products/just-by-brooke-jackson",
-            "link_text": "Sign up to be notified"
-          }
-        }
-      },
-      "block_order": [
-        "heading_waUTU6",
-        "text_AMiwDV",
-        "button_zLNbiP"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#6d423a",
-        "color_text": "#eae4dc",
-        "space_above": 35,
-        "space_below": 35
-      }
-    },
     "slideshow_kM3PF6": {
       "type": "slideshow",
       "blocks": {
@@ -99,65 +54,6 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
-      }
-    },
-    "rich_text_Xkfy8z": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_PJRE9t": {
-          "type": "heading",
-          "settings": {
-            "title": "Preorder the Book Today"
-          }
-        },
-        "text_wUUjpW": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Launch day is July 15! Preorder today to be among the first to read with </em><em><strong>front-of-the-line delivery plus 15% off each copy!</strong></em><em> </em><a href=\"https://hosannarevival.com/products/the-secure-soul-by-tammy-smith\" title=\"https://hosannarevival.com/products/the-secure-soul-by-tammy-smith\"><em>Preorder now</em></a><em>. Ships on or after July 15.</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_PJRE9t",
-        "text_wUUjpW"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b1a057",
-        "color_text": "#ffffff",
-        "space_above": 32,
-        "space_below": 32
-      }
-    },
-    "1743004079ff29764c": {
-      "type": "apps",
-      "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_NwEqDy": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "VY5sgh"
-          }
-        }
-      },
-      "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_NwEqDy"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".klaviyo-form-VY5sgh {background-color: #f8f2eb;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false
       }
     },
     "rich_text_G6xWAg": {
@@ -275,52 +171,6 @@
         "product_video_style": "muted"
       }
     },
-    "rich_text_WnrikR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Ymzk4q": {
-          "type": "heading",
-          "settings": {
-            "title": "Just: A journey into the mercy of God"
-          }
-        },
-        "text_ex9p9E": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Just</em> is a six-part devotional that explores God’s heart for justice by looking at the parables and miracles of Jesus and inviting you to deepen your understanding of mercy. </p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_JH9QTg": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Have you ever wondered how God feels about social justice? Have you ever been so overwhelmed by the topic that your first instinct is to block it out? Have you ever felt confused about the world’s response to injustice, unsure of how to respond yourself?</p><p>If so, we encourage you to open up <em>Just: A Journey into the Mercy of God</em>. Through these pages, author Brooke Jackson leads with love as she gently invites you to examine your own belief about injustice by looking at how Jesus interacted with people while walking this earth. If you are challenged by these questions and desire to understand God’s heart for justice, this devotional is for you.</p><p>Over six sections, <em>Just</em> invites you to discover God’s just character through the accounts and actions of Jesus. God’s mercy and compassion towards those in the margins is evident throughout Scripture. Through bite-sized readings and thought-provoking questions, you will unpack stories of Jesus as he heals those who are physically and spiritually bereft while observing how he teaches about the true nature of justice in the kingdom of God. We pray that <em>Just</em> would meet you where you’re at and bring you deeper into the loving and merciful character of Christ as you discover more of his heart for justice. </p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ymzk4q",
-        "text_ex9p9E",
-        "text_JH9QTg"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 35
-      }
-    },
     "single_button_CRBEBN": {
       "type": "single-button",
       "settings": {
@@ -331,20 +181,6 @@
         "space_above": 30,
         "space_below": 30,
         "link_color_background": "#203854",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_6yzNy9": {
-      "type": "single-button",
-      "disabled": true,
-      "settings": {
-        "button_text": "Buy Now",
-        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 30,
-        "link_color_background": "#9ba586",
         "link_color_text": "#ffffff"
       }
     },
@@ -384,28 +220,6 @@
         "align_text": "left",
         "image_width": "50",
         "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_g7gbnt": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival454.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Peek Inside",
-        "title": "The Devotional Structure",
-        "text": "<ul><li>6 sections featuring daily reading</li><li>Daily scripture and reflection questions</li><li>A prayer and journaling prompt at the end of each section<br/></li></ul><p>This devotional is divided into six sections, each of which has several “days” of readings. As such, there is no pressure to complete it within a certain number of days or weeks. Feel free to move through the devotional at your own pace, especially if some days’ readings are more dense than others and you would like more time to think through the passages and questions.</p>",
-        "button_label": "",
-        "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -456,45 +270,6 @@
         "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_LzQNT7": {
-      "type": "slideshow",
-      "blocks": {
-        "image_CQc4pX": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "",
-            "title": "BONUS CONTENT",
-            "title_size": 72,
-            "subheading": "For \"Just\"",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival-215.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_CQc4pX"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": true,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
@@ -599,18 +374,48 @@
         "lazyload_images": true
       }
     },
-    "single_button_3gmwY3": {
-      "type": "single-button",
-      "disabled": true,
+    "rich_text_GXp7hG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JrbT6M": {
+          "type": "heading",
+          "settings": {
+            "title": "Are you a Bible Study leader looking for extra content to guide your group?"
+          }
+        },
+        "text_A78JMU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Download the FREE Eternity In Our Hearts Leader Guide here. This guide provides discussion questions from the text, group activities, and weekly topics to help you lead participants through this study.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_C39LR9": {
+          "type": "button",
+          "settings": {
+            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Wonder-Bible-Study-Leader-Guide-Hosanna-Revival.pdf?v=1760461165",
+            "link_text": "Download the Leader guide"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JrbT6M",
+        "text_A78JMU",
+        "button_C39LR9"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
-        "button_text": "Choose Just",
-        "button_link": "https://hosannarevival.com/products/just-by-brooke-jackson",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 60,
-        "link_color_background": "#9ba586",
-        "link_color_text": "#ffffff"
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#203854",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "slideshow_NEtP87": {
@@ -664,7 +469,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Explore Tammy’s book “When Marriage Meets Reality” that invites you to release unrealistic expectations about marriage and fall in love with the marriage you have.</p>",
+            "text": "<p><em>Eternity in Our Hearts </em>by Alicia Hamilton,<em> </em>leads readers to discover the literary masterpiece, timeless truths, upside-down kingdom wisdom, and eternal perspective of Ecclesiastes.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -672,7 +477,7 @@
         "button_gEpMca": {
           "type": "button",
           "settings": {
-            "link": "https://hosannarevival.com/products/when-marriage-meets-reality-by-tammy-smith",
+            "link": "shopify://pages/eternity-in-our-hearts",
             "link_text": "Learn More"
           }
         }
@@ -723,26 +528,19 @@
   },
   "order": [
     "main",
-    "rich_text_CXtkw9",
     "slideshow_kM3PF6",
-    "rich_text_Xkfy8z",
-    "1743004079ff29764c",
     "rich_text_G6xWAg",
     "rich_text_tBwpF8",
     "featured_product_8bYpPg",
-    "rich_text_WnrikR",
     "single_button_CRBEBN",
-    "single_button_6yzNy9",
     "text_and_image_c87NAi",
     "text_and_image_kXTmWw",
-    "text_and_image_g7gbnt",
     "single_button_3BJJYV",
     "slideshow_UC7cyw",
-    "slideshow_LzQNT7",
     "rich_text_hjcJjW",
     "text_and_image_TnnR6t",
     "text_and_image_WGta8f",
-    "single_button_3gmwY3",
+    "rich_text_GXp7hG",
     "slideshow_NEtP87",
     "rich_text_N7g7Tz",
     "single_button_dwk6Cy",
