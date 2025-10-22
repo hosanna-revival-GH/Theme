@@ -11,6 +11,7 @@
   "sections": {
     "hero_video_EzmjCm": {
       "type": "hero-video",
+      "disabled": true,
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
         "title": "",
@@ -59,44 +60,6 @@
         "parallax": false,
         "style": "bars",
         "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/bible-tabs",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Launch-03.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-04.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
@@ -151,6 +114,44 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://products/wonder-by-alicia-hamilton",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Post-Winter-Collection-Launch-03.png",
+            "image_mobile": "shopify://shop_images/Post-Winter-Collection-Launch-04.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
         "disable_animation": false
       }
     },
@@ -445,15 +446,15 @@
   "order": [
     "hero_video_EzmjCm",
     "slideshow_X4MRpa",
-    "slideshow_gW9EVE",
     "featured_collection_AbN8iP",
     "slideshow_YNbwrF",
+    "slideshow_gW9EVE",
+    "slideshow_8GYyKV",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",
     "slideshow_GcPDX3",
     "slideshow_JzgDYA",
     "slideshow_gyMt8x",
-    "slideshow_LAdPKf",
-    "slideshow_8GYyKV"
+    "slideshow_LAdPKf"
   ]
 }
