@@ -47,23 +47,23 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Winter Collection is here!",
-            "link_text": " Add free Bible tabs to your order when you spend $75",
+            "text": "The Winter Collection",
+            "link_text": " The splendor of Scripture awaits with our new Winter Collection",
             "link": "shopify://collections/winter-2025-collection"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": " NLT Life Application Study Bible now available",
-            "link_text": " Explore the Study Bible that guides you through Scripture",
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Find a new tool to excite your time in Scripture",
             "link": "shopify://collections/winter-2025-nlt-life-application-study-bibles"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": " Preorder our new devotional, Wonder",
+            "text": "Preorder our new devotional, Wonder",
             "link_text": "Rediscover your awe of God through 7 Psalms",
             "link": "shopify://products/wonder-by-alicia-hamilton"
           }
