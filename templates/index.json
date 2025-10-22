@@ -155,6 +155,45 @@
         "disable_animation": false
       }
     },
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://Hosannarevival.com/pages/kingdom-come",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Kingdom-Come-Header-015.png",
+            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-016.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "promo_grid_UydWcM": {
       "type": "promo-grid",
       "blocks": {
@@ -403,24 +442,24 @@
         "disable_animation": false
       }
     },
-    "slideshow_8GYyKV": {
+    "slideshow_bGCPEX": {
       "type": "slideshow",
       "blocks": {
-        "image_AXTDqX": {
+        "image_fVEef3": {
           "type": "image",
           "settings": {
             "top_subheading": "",
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://Hosannarevival.com/pages/kingdom-come",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Kingdom-Come-Header-015.png",
-            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-016.png",
+            "image": "shopify://shop_images/Post-Winter-Collection-Launch-02.png",
+            "image_mobile": "shopify://shop_images/Post-Winter-Collection-Launch-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -428,7 +467,7 @@
         }
       },
       "block_order": [
-        "image_AXTDqX"
+        "image_fVEef3"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
@@ -445,16 +484,17 @@
   },
   "order": [
     "hero_video_EzmjCm",
+    "slideshow_gW9EVE",
+    "slideshow_8GYyKV",
     "slideshow_X4MRpa",
     "featured_collection_AbN8iP",
     "slideshow_YNbwrF",
-    "slideshow_gW9EVE",
-    "slideshow_8GYyKV",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",
     "slideshow_GcPDX3",
     "slideshow_JzgDYA",
     "slideshow_gyMt8x",
+    "slideshow_bGCPEX",
     "slideshow_LAdPKf"
   ]
 }
