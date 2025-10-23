@@ -457,6 +457,7 @@
         },
         "team_member_Jenna": {
           "type": "team_member",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/13-Jenna-Hosanna-Revival-Team.jpg",
