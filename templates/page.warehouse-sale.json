@@ -176,6 +176,7 @@
         "heading_VMxB8X",
         "text_EtARan"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
