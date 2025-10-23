@@ -90,7 +90,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "rich_text_K9b8pU": {
@@ -184,7 +185,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/10-0ff-03.png",
+            "image": "shopify://shop_images/STW-Notebooks.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Notebooks",
@@ -197,7 +198,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/10-0ff-01.png",
+            "image": "shopify://shop_images/STW-Devotionals.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Devotionals",
@@ -210,7 +211,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/10-0ff-05.png",
+            "image": "shopify://shop_images/STW-Compact-Bibles.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Compact Bibles",
@@ -223,7 +224,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/10-0ff-04.png",
+            "image": "shopify://shop_images/STW-Notetaking-Bibles.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "Notetaking Bibles",
@@ -236,7 +237,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/10-0ff-06.png",
+            "image": "shopify://shop_images/STW-OTIA.png",
             "image_mask": "none",
             "image_width": 650,
             "title": "5-year Prayer journals",
@@ -249,10 +250,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/10-0ff-02.png",
+            "image": "shopify://shop_images/STW-study-bibles.png",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Study Bib;es",
+            "title": "Study Bibles",
             "text": "<p>Pursue deep study with a friend and share what stuck out to you with a Bible Study.</p>",
             "button_label": "Explore Study Bibles",
             "button_link": "shopify://collections/study-bibles"
