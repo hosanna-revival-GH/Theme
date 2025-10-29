@@ -251,12 +251,14 @@
         },
         "heading_PE8edc": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Other Translations"
           }
         },
         "text_UKpTUH": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<p>If you’re looking for a Catholic Bible (particularly a Catholic journaling Bible), you might be interested in <a href=\"https://blessedisshe.net/product/the-catholic-journaling-bible/\" target=\"_blank\">this one</a>. </p>",
