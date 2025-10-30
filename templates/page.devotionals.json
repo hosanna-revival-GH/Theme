@@ -126,8 +126,8 @@
       ],
       "name": "Combined Content",
       "settings": {
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "text_and_image_i9HfGc": {
