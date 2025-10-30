@@ -58,6 +58,20 @@
         "disable_animation": false
       }
     },
+    "single_button_hCmA7f": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "Get your copy of Wonder by alicia Hamilton",
+        "button_link": "shopify://products/wonder-by-alicia-hamilton",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#311720",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_3L6q9A": {
       "type": "single-button",
       "settings": {
@@ -67,7 +81,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -80,7 +94,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -94,7 +108,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -107,7 +121,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -149,7 +163,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -162,7 +176,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -175,7 +189,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -188,7 +202,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -201,7 +215,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -214,7 +228,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -227,7 +241,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#c5a09f",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     }
@@ -235,6 +249,7 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_hCmA7f",
     "single_button_3L6q9A",
     "single_button_eFchhW",
     "single_button_qAwKEz",

@@ -44,28 +44,28 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Explore our new devotional, Wonder!",
+            "link_text": "Order today and get 2 for $4",
+            "link": "shopify://products/wonder-by-alicia-hamilton"
+          }
+        },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "The Winter Collection",
-            "link_text": " The splendor of Scripture awaits with our new Winter Collection",
-            "link": "shopify://collections/winter-2025-collection"
+            "text": "Save the date for our Annual Warehouse Sale",
+            "link_text": "Join us on 12/13 to shop in-person!",
+            "link": "shopify://pages/warehouse-sale"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Find a new tool to excite your time in Scripture",
-            "link": "shopify://collections/beautiful-bibles"
-          }
-        },
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Preorder our new devotional, Wonder",
-            "link_text": "Rediscover your awe of God through 7 Psalms",
-            "link": "shopify://products/wonder-by-alicia-hamilton"
+            "text": "Journey through Advent with Kingdom Come",
+            "link_text": "Sign up for the free email series - begins 11/30",
+            "link": "shopify://pages/kingdom-come"
           }
         },
         "announcement_NXQKWa": {
@@ -78,9 +78,9 @@
         }
       },
       "block_order": [
+        "announcement_mMUAeX",
         "announcement_FNqfy6",
         "announcement-1",
-        "announcement_mMUAeX",
         "announcement_NXQKWa"
       ],
       "settings": {

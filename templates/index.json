@@ -43,8 +43,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post-Winter-Collection-Launch-03.png",
-            "image_mobile": "shopify://shop_images/Post-Winter-Collection-Launch-04.png",
+            "image": "shopify://shop_images/Wonder-launch-01.png",
+            "image_mobile": "shopify://shop_images/Wonder-launch-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -65,45 +65,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://Hosannarevival.com/pages/kingdom-come",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Kingdom-Come-Header-015.png",
-            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-016.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
@@ -114,14 +75,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/winter-2025-collection",
+            "link": "shopify://pages/wonder",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Launch-01.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-02.png",
+            "image": "shopify://shop_images/Wonder-launch-03.png",
+            "image_mobile": "shopify://shop_images/Wonder-launch-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -142,19 +103,6 @@
         "disable_animation": false
       }
     },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "The Winter Collection",
-        "home_featured_products": "winter-2025-collection",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "slideshow_YNbwrF": {
       "type": "slideshow",
       "blocks": {
@@ -165,14 +113,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/winter-2025-nlt-life-application-study-bibles",
+            "link": "shopify://products/wonder-by-alicia-hamilton",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter_Collection_Launch_20.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-06.png",
+            "image": "shopify://shop_images/Wonder-launch-05.png",
+            "image_mobile": "shopify://shop_images/Wonder-launch-06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -192,6 +140,97 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "slideshow_GcPDX3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nrgk3e": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://www.instagram.com/alicialynnhamilton/",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Author_Block.png",
+            "image_mobile": "shopify://shop_images/Wonder_Author_Block_mobilr.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Nrgk3e"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_JzgDYA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QVcitx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/beautiful-bibles",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Wonder-launch-07.png",
+            "image_mobile": "shopify://shop_images/Wonder-launch-08.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QVcitx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "beautiful Bibles",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "promo_grid_UydWcM": {
@@ -227,6 +266,7 @@
         "image_dcHMiN",
         "image_Gm3rH7"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -287,24 +327,24 @@
         "lazyload_images": true
       }
     },
-    "slideshow_GcPDX3": {
+    "slideshow_8GYyKV": {
       "type": "slideshow",
       "blocks": {
-        "image_Nrgk3e": {
+        "image_AXTDqX": {
           "type": "image",
           "settings": {
             "top_subheading": "",
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/winter-2025-collection",
+            "link": "https://Hosannarevival.com/pages/kingdom-come",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Launch-prayer.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-Prayer-02.png",
+            "image": "shopify://shop_images/Woner-launch-9.png",
+            "image_mobile": "shopify://shop_images/Woner-launch-010.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -312,46 +352,7 @@
         }
       },
       "block_order": [
-        "image_Nrgk3e"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_JzgDYA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QVcitx": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/winter-collection-2025",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Launch-09.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-010.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QVcitx"
+        "image_AXTDqX"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
@@ -459,8 +460,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Launch-011.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-012.png",
+            "image": "shopify://shop_images/Woner-launch-011.png",
+            "image_mobile": "shopify://shop_images/Wonder-launch-012.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -485,14 +486,14 @@
   "order": [
     "hero_video_EzmjCm",
     "slideshow_gW9EVE",
-    "slideshow_8GYyKV",
     "slideshow_X4MRpa",
-    "featured_collection_AbN8iP",
     "slideshow_YNbwrF",
-    "promo_grid_UydWcM",
-    "promo_grid_cMUWra",
     "slideshow_GcPDX3",
     "slideshow_JzgDYA",
+    "featured_collection_AbN8iP",
+    "promo_grid_UydWcM",
+    "promo_grid_cMUWra",
+    "slideshow_8GYyKV",
     "slideshow_gyMt8x",
     "slideshow_bGCPEX",
     "slideshow_LAdPKf"
