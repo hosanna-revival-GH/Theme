@@ -102,6 +102,33 @@
         "divider": false
       }
     },
+    "toolkit_ykR3HX": {
+      "type": "toolkit",
+      "blocks": {
+        "text_and_image_kUBGyX": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image_width": 50,
+            "subtitle": "By Alicia Hamilton",
+            "title": "Wonder",
+            "text": "<p>Topic: Reclaiming a childlike awe of God<br/>Type of Study: Devotional<br/>Length: 7 weeks<br/>Focal Scripture: Psalms<br/><br/></p>",
+            "button_link": "",
+            "button_label": "",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        }
+      },
+      "block_order": [
+        "text_and_image_kUBGyX"
+      ],
+      "name": "Combined Content",
+      "settings": {
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "text_and_image_i9HfGc": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -560,18 +587,6 @@
         "space_below": 0,
         "disable_section_margin": false
       }
-    },
-    "featured_collection_xCqkjM": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Shop All Devotionals",
-        "home_featured_products": "devotionals",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -579,6 +594,7 @@
     "slideshow_jcqhbB",
     "rich_text_HqDrRF",
     "featured_collection_J8jTm7",
+    "toolkit_ykR3HX",
     "text_and_image_i9HfGc",
     "text_and_image_n9EMHx",
     "text_and_image_jdGknV",
@@ -598,7 +614,6 @@
     "baa00edd-f647-46b5-9af6-b1a133454696",
     "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
     "rich_text_BnUh4E",
-    "faq_7pWgCb",
-    "featured_collection_xCqkjM"
+    "faq_7pWgCb"
   ]
 }
