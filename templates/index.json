@@ -44,7 +44,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Woner_launch.png",
-            "image_mobile": "shopify://shop_images/Wonder-launch-02_aaea5d3d-39e3-40f6-9251-6ef9424d3091.png",
+            "image_mobile": "shopify://shop_images/Wonder-launch-header.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
