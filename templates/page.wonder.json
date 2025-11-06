@@ -176,7 +176,7 @@
     "single_button_CRBEBN": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preorder",
+        "button_text": "shop",
         "button_link": "shopify://products/wonder-by-alicia-hamilton",
         "button_size": "huge",
         "alignment": "center",
@@ -239,7 +239,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "shopify://products/wonder-by-alicia-hamilton",
-            "link_text": "Preorder",
+            "link_text": "shop",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -418,7 +418,7 @@
             "title_size": 80,
             "subheading": "",
             "link": "shopify://products/wonder-by-alicia-hamilton",
-            "link_text": "Preorder",
+            "link_text": "shop",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
