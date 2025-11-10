@@ -47,25 +47,25 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Explore our new devotional, Wonder!",
-            "link_text": "Order today and get 2 for $40",
-            "link": "shopify://products/wonder-by-alicia-hamilton"
+            "text": "Welcome to Your Home for Beautiful Bibles",
+            "link_text": "Tools that stir hearts towards Scripture",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Save the date for our Annual Warehouse Sale",
-            "link_text": "Join us on 12/13 to shop in-person!",
-            "link": "shopify://pages/warehouse-sale"
+            "text": " Sign up for our Advent Study, Kingdom Come",
+            "link_text": "a free 4-week email series through December ",
+            "link": "shopify://pages/kingdom-come"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Journey through Advent with Kingdom Come",
-            "link_text": "Sign up for the free email series - begins 11/30",
-            "link": "shopify://pages/kingdom-come"
+            "text": "Gift Intentionally this Season",
+            "link_text": "find a gift they will truly cherish",
+            "link": "shopify://pages/gift-intentionally-christmas"
           }
         },
         "announcement_NXQKWa": {
