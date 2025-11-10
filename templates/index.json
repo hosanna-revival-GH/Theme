@@ -43,8 +43,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-01.png",
-            "image_mobile": "shopify://shop_images/Pre-Black-Friday-HP-02.png",
+            "image": "shopify://shop_images/Pre_Black_Friday_HP-07.png",
+            "image_mobile": "shopify://shop_images/Pre_Black_Friday_HP-03.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
