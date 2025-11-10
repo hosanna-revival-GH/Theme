@@ -27,6 +27,44 @@
         "mobile_height": "250px"
       }
     },
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-01.png",
+            "image_mobile": "shopify://shop_images/Pre-Black-Friday-HP-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -37,14 +75,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/wonder-by-alicia-hamilton",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Woner_launch.png",
-            "image_mobile": "shopify://shop_images/Wonder-launch-header.png",
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-03.png",
+            "image_mobile": "shopify://shop_images/Pre-Black-Friday-HP-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -65,42 +103,87 @@
         "disable_animation": false
       }
     },
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
+    "promo_grid_UydWcM": {
+      "type": "promo-grid",
       "blocks": {
-        "image_PDEHTW": {
+        "image_8pcdHL": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/wonder",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Wonder-launch-03.png",
-            "image_mobile": "shopify://shop_images/Wonder-launch-04.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-06.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "33"
+          }
+        },
+        "image_dcHMiN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-07.png",
+            "link": "shopify://collections/notebooks",
+            "width": "33"
+          }
+        },
+        "image_Gm3rH7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-08.png",
+            "link": "shopify://collections/one-thing-i-ask",
+            "width": "33"
           }
         }
       },
       "block_order": [
-        "image_PDEHTW"
+        "image_8pcdHL",
+        "image_dcHMiN",
+        "image_Gm3rH7"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_cMUWra": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_GzxX7N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-09.png",
+            "link": "shopify://collections/devotionals",
+            "width": "33"
+          }
+        },
+        "image_wzNDzm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-011.png",
+            "link": "shopify://collections/planners",
+            "width": "33"
+          }
+        },
+        "image_T9PWGX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-010.png",
+            "link": "shopify://collections/stickers",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_GzxX7N",
+        "image_wzNDzm",
+        "image_T9PWGX"
       ],
       "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_YNbwrF": {
@@ -130,6 +213,7 @@
       "block_order": [
         "image_EBgzXT"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -169,6 +253,7 @@
       "block_order": [
         "image_Nrgk3e"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -191,14 +276,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/best-sellers",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Wonder-launch-07.png",
-            "image_mobile": "shopify://shop_images/Wonder-launch-08.png",
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-012.png",
+            "image_mobile": "shopify://shop_images/Pre-Black-Friday-HP-013.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -231,100 +316,6 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
-      }
-    },
-    "promo_grid_UydWcM": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_8pcdHL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/B2b-Winter-Collection-05.png",
-            "link": "shopify://products/esv-study-bible-bethany-theme",
-            "width": "33"
-          }
-        },
-        "image_dcHMiN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/B2b-Winter-Collection-06.png",
-            "link": "shopify://collections/winter-2025-csb-bibles",
-            "width": "33"
-          }
-        },
-        "image_Gm3rH7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/B2b-Winter-Collection-07.png",
-            "link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-mauves-theme",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_8pcdHL",
-        "image_dcHMiN",
-        "image_Gm3rH7"
-      ],
-      "disabled": true,
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "promo_grid_cMUWra": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_GzxX7N": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-09.png",
-            "link": "shopify://collections/beautiful-bibles",
-            "width": "50"
-          }
-        },
-        "image_wzNDzm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-010.png",
-            "link": "shopify://collections/devotionals",
-            "width": "50"
-          }
-        },
-        "image_T9PWGX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generic-Homepage-011.png",
-            "link": "shopify://collections/notebooks",
-            "width": "50"
-          }
-        },
-        "image_yqDrtn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/OTIA-Sale-HP-05.png",
-            "link": "shopify://pages/planners",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_GzxX7N",
-        "image_wzNDzm",
-        "image_T9PWGX",
-        "image_yqDrtn"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
       }
     },
     "slideshow_8GYyKV": {
@@ -460,8 +451,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Woner-launch-011_48463a3a-858c-40f6-ad98-2dcd6fb54cac.png",
-            "image_mobile": "shopify://shop_images/Wonder-launch-012_1329a9f2-6af6-4c57-b6d7-42a880551a41.png",
+            "image": "shopify://shop_images/Pre-Black-Friday-HP-014.png",
+            "image_mobile": "shopify://shop_images/Pre-Black-Friday-HP-015.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -485,14 +476,14 @@
   },
   "order": [
     "hero_video_EzmjCm",
-    "slideshow_gW9EVE",
     "slideshow_X4MRpa",
+    "slideshow_gW9EVE",
+    "promo_grid_UydWcM",
+    "promo_grid_cMUWra",
     "slideshow_YNbwrF",
     "slideshow_GcPDX3",
     "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
-    "promo_grid_UydWcM",
-    "promo_grid_cMUWra",
     "slideshow_8GYyKV",
     "slideshow_gyMt8x",
     "slideshow_bGCPEX",
