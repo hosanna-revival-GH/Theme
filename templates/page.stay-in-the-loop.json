@@ -24,18 +24,18 @@
         "image_7m6TiN": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "Kingdom Come",
-            "title_size": 72,
-            "subheading": "a 4-week Advent study on God’s Kingdom as it appears in Scripture and our daily lives.",
+            "top_subheading": "This Christmas,",
+            "title": "Prepare to gift intentionally",
+            "title_size": 51,
+            "subheading": "",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Kingdom-Come-Header-1_1.png",
-            "image_mobile": "shopify://shop_images/Kingdom-Come-Header-1_1.png",
+            "image": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-140.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-Gifting-Christmas-Hosanna-Revival-140.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -46,7 +46,7 @@
         "image_7m6TiN"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -59,218 +59,26 @@
     "1740555518048a608e": {
       "type": "apps",
       "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_NKfU7c": {
+        "klaviyo_email_marketing_sms_form_embed_block_Tbhjqx": {
           "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "formId": "<div class=\"klaviyo-form-WFwjf7\"></div>"
+            "formId": "<div class=\"klaviyo-form-SFWVNt\"></div>"
           }
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_NKfU7c"
+        "klaviyo_email_marketing_sms_form_embed_block_Tbhjqx"
       ],
-      "custom_css": [
-        "div {background-color: #f7f0e8;}"
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "space_around": false
-      }
-    },
-    "rich_text_btRiYb": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_UbNhfc": {
-          "type": "heading",
-          "settings": {
-            "title": "Kingdom Come"
-          }
-        },
-        "text_8q77eV": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p> A 4-week study focusing on the birth of Christ and its real-life implications for Christians today</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_UbNhfc",
-        "text_8q77eV"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 35
-      }
-    },
-    "rich_text_MfQYez": {
-      "type": "rich-text",
-      "blocks": {
-        "text_6axCTg": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>This Advent study, <em>Kingdom Come</em>, invites you to step into the sacred season with fresh eyes and an expectant heart.</p><p>Over the course of four weeks, you’ll be guided through rhythms of prayer, Scripture, reflection, and embodied practices that help you enter fully into both the joy of Christ’s first coming and the longing for his return. </p><p>Each week is anchored by readings, meditations, and written responses, while also incorporating traditional Advent practices like Sabbath rest, candle lighting, and even celebrating feast days that connect us to the wider story of God’s people. With thoughtful teaching, space for journaling, and opportunities for both remembrance and waiting, <em>Kingdom Come</em> offers a meaningful framework to help you slow down, savor the season, and embrace your identity as a citizen of God’s kingdom.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "text_6axCTg"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 50
-      }
-    },
-    "rich_text_nEE3HM": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_BY6WfA": {
-          "type": "heading",
-          "settings": {
-            "title": "Table of Contents"
-          }
-        },
-        "text_UHxkjf": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Introduction — Malory Smith<br/></em>When the Holidays Are Hard</p><p><em>Day One — Alicia Hamilton</em><br/>The Holiday Tradition of Gossip</p><p><em>Day Two — Kelly O’Donohoe</em><br/>The Art of Restful Giving and Receiving<em> </em></p><p><em>Day Three — Hannah Jessen Conway</em><br/>Holy Boundaries in the Hustle and Bustle </p><p><em>Day Four — Kayla Carthel</em><br/>Feeling Isolated During the Holidays </p><p><em>Day Five — Amanda Devlin</em><br/>A Survival Guide for Controversy at Christmas</p><p><em>Day Six — Candace Echols</em><br/>The Hospitality of Jesus and HGTV</p><p><em>Day Seven — Leah Jolly</em><br/>Walking with the Grieving This Holiday Season</p><p><em>Day Eight — Ela Alvarado</em><br/>Celebration over Comparison</p><p><em>Day Nine — Lauren Bowerman</em><br/>How Christ’s Love Compels Us to Love When It’s Hard</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_BY6WfA",
-        "text_UHxkjf"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#f7f0e8",
-        "color_text": "#475a41",
-        "space_above": 25,
-        "space_below": 75
-      }
-    },
-    "rich_text_ctMnBW": {
-      "type": "rich-text",
-      "blocks": {
-        "text_Tc7Kch": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Sign up above to get the introduction in your inbox today!</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "text_Tc7Kch"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 50
-      }
-    },
-    "text_and_image_CMPWbJ": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Lords-Prayer-Devotional-Author-Katie-Noble-024_1080x_542cfaec-cc10-491d-b8af-0cc65d99c648.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Meet the Author",
-        "title": "Katie Noble",
-        "text": "<p>Katie Noble is the author of our two devotionals, <em>Pray Like This: Christ’s Guide to Praying the Scriptures </em>and <em>God Our Home: A Study of the Gospel of John. </em>She and her husband live and work in Ohio with their four children.</p>",
-        "button_label": "Explore Katie's Devotionals",
-        "button_link": "shopify://collections/katie-noble-collection",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "rich_text_E8HgXw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_BpJqhG": {
-          "type": "heading",
-          "settings": {
-            "title": "Looking for more free resources?"
-          }
-        },
-        "text_6dEPDy": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Check out our full library <a href=\"/pages/free-resources\" title=\"Free Resources\"><em>here</em></a>!</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_BpJqhG",
-        "text_6dEPDy"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#935441",
-        "color_text": "#f7f0e8",
-        "space_above": 75,
-        "space_below": 75
       }
     }
   },
   "order": [
     "main",
     "slideshow_RMbHtX",
-    "1740555518048a608e",
-    "rich_text_btRiYb",
-    "rich_text_MfQYez",
-    "rich_text_nEE3HM",
-    "rich_text_ctMnBW",
-    "text_and_image_CMPWbJ",
-    "rich_text_E8HgXw"
+    "1740555518048a608e"
   ]
 }
