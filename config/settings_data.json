@@ -81,6 +81,8 @@
     "show_breadcrumbs": false,
     "winter_mode": "true",
     "num_snowflakes": 40,
+    "snowflake_color_2": "#ffffff",
+    "snowflake_color_3": "#ffffff",
     "gravity": 0.6,
     "breadcrumb": false,
     "checkout_accent_color": "#111111",
