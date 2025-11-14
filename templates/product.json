@@ -170,7 +170,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "product_recommendations_heading": "You may also like",
+        "product_recommendations_heading": "You may also like{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products_display.value }}",
         "related_count": 3,
         "products_per_row": 3
       }
