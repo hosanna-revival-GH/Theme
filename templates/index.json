@@ -75,7 +75,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/pages/sign-up-this-christmas",
+            "link": "shopify://pages/hosanna-revival-gift-collection",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -110,7 +110,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-05_a40b2941-7d50-4cab-91ef-dd09a9232540.png",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/by-price",
             "width": "33"
           }
         },
@@ -118,7 +118,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-06_e92dd7dd-da18-4050-afbb-1c6220afae6a.png",
-            "link": "shopify://collections/notebooks",
+            "link": "shopify://collections/under-60",
             "width": "33"
           }
         },
@@ -126,7 +126,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-07_e1e291d3-3b08-484d-b98e-21f2bc76c9c7.png",
-            "link": "shopify://collections/one-thing-i-ask",
+            "link": "shopify://collections/under-100",
             "width": "33"
           }
         }
@@ -152,7 +152,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-08_4d158909-140d-44b8-87c8-593637137287.png",
-            "link": "",
+            "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
         },
@@ -160,7 +160,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-09_eac13849-76dc-42e8-92d5-e0b9fb17e922.png",
-            "link": "",
+            "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
         }
@@ -188,7 +188,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/wonder-by-alicia-hamilton",
+            "link": "shopify://pages/gift-intentionally-christmas",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -264,7 +264,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-012_8f83baa9-db99-4674-8ac7-6401a396c383.png",
-            "link": "shopify://collections/devotionals",
+            "link": "shopify://pages/your-one-thing-i-ask-journal",
             "width": "33"
           }
         },
@@ -272,7 +272,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-013.png",
-            "link": "shopify://collections/planners",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "33"
           }
         },
@@ -280,7 +280,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-014.png",
-            "link": "shopify://collections/stickers",
+            "link": "shopify://collections/devotionals",
             "width": "33"
           }
         }
@@ -305,7 +305,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-015.png",
-            "link": "",
+            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
             "width": "33"
           }
         },
@@ -313,7 +313,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-016.png",
-            "link": "",
+            "link": "shopify://products/csb-notetaking-bible-vienna-theme",
             "width": "33"
           }
         },
@@ -321,7 +321,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BFCM-Begins-Homepage-017.png",
-            "link": "",
+            "link": "shopify://products/nlt-life-application-study-bible-edinburgh-theme",
             "width": "33"
           }
         }
