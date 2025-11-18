@@ -43,8 +43,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Pre_Black_Friday_HP-018.png",
-            "image_mobile": "shopify://shop_images/Pre_Black_Friday_HP-03_20db1a81-fbf5-4f1b-888e-c0820cc3caf7.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-01_c73b456f-36be-483b-903d-5fa480d93f30.png",
+            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-02_def9c5c2-9b58-48ee-a54d-fb14778623d5.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -81,8 +81,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-03.png",
-            "image_mobile": "shopify://shop_images/Pre-Black-Friday-HP-04.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-03_08d898bb-dab8-4f4b-ac8d-3ef3a353d189.png",
+            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-04_ed7ce922-83a4-4eda-95eb-63f53f13392e.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -109,7 +109,7 @@
         "image_8pcdHL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-06.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-05_a40b2941-7d50-4cab-91ef-dd09a9232540.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "33"
           }
@@ -117,7 +117,7 @@
         "image_dcHMiN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-07.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-06_e92dd7dd-da18-4050-afbb-1c6220afae6a.png",
             "link": "shopify://collections/notebooks",
             "width": "33"
           }
@@ -125,7 +125,7 @@
         "image_Gm3rH7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-08.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-07_e1e291d3-3b08-484d-b98e-21f2bc76c9c7.png",
             "link": "shopify://collections/one-thing-i-ask",
             "width": "33"
           }
@@ -145,39 +145,31 @@
         "lazyload_images": true
       }
     },
-    "promo_grid_cMUWra": {
+    "promo_grid_BftCNi": {
       "type": "promo-grid",
       "blocks": {
-        "image_GzxX7N": {
+        "image_AxXinN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-09.png",
-            "link": "shopify://collections/devotionals",
-            "width": "33"
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-08_4d158909-140d-44b8-87c8-593637137287.png",
+            "link": "",
+            "width": "50"
           }
         },
-        "image_wzNDzm": {
+        "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-011.png",
-            "link": "shopify://collections/planners",
-            "width": "33"
-          }
-        },
-        "image_T9PWGX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-010.png",
-            "link": "shopify://collections/stickers",
-            "width": "33"
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-09_eac13849-76dc-42e8-92d5-e0b9fb17e922.png",
+            "link": "",
+            "width": "50"
           }
         }
       },
       "block_order": [
-        "image_GzxX7N",
-        "image_wzNDzm",
-        "image_T9PWGX"
+        "image_AxXinN",
+        "image_9fzeMq"
       ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -202,8 +194,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Wonder-launch-05_17ac37e6-7e3e-4d01-8a37-21bca1b5db85.png",
-            "image_mobile": "shopify://shop_images/Wonder-launch-06.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-010_51099c7e-d47b-4853-b90e-58dcc0ec4964.png",
+            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-011_6c68d64c-6dc7-4eb2-af07-3a58187c8339.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -213,7 +205,6 @@
       "block_order": [
         "image_EBgzXT"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -266,6 +257,89 @@
         "disable_animation": false
       }
     },
+    "promo_grid_cMUWra": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_GzxX7N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-012_8f83baa9-db99-4674-8ac7-6401a396c383.png",
+            "link": "shopify://collections/devotionals",
+            "width": "33"
+          }
+        },
+        "image_wzNDzm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-013.png",
+            "link": "shopify://collections/planners",
+            "width": "33"
+          }
+        },
+        "image_T9PWGX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-014.png",
+            "link": "shopify://collections/stickers",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_GzxX7N",
+        "image_wzNDzm",
+        "image_T9PWGX"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_MmC94X": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_AbVRfx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-015.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_pXrCHx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-016.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_wHrqXB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-017.png",
+            "link": "",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_AbVRfx",
+        "image_pXrCHx",
+        "image_wHrqXB"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "slideshow_JzgDYA": {
       "type": "slideshow",
       "blocks": {
@@ -293,6 +367,7 @@
       "block_order": [
         "image_QVcitx"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -307,6 +382,7 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "beautiful Bibles",
@@ -334,8 +410,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Woner-launch-9.png",
-            "image_mobile": "shopify://shop_images/Woner-launch-010.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-021_7b75978b-9ab4-4f82-b7b0-092813d761cc.png",
+            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-021.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -412,8 +488,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post-Winter-Collection-Launch-02.png",
-            "image_mobile": "shopify://shop_images/Post-Winter-Collection-Launch-01.png",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-20.png",
+            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-019_547f79e9-bab8-4092-8d29-a4bcca09c590.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -479,9 +555,11 @@
     "slideshow_X4MRpa",
     "slideshow_gW9EVE",
     "promo_grid_UydWcM",
-    "promo_grid_cMUWra",
+    "promo_grid_BftCNi",
     "slideshow_YNbwrF",
     "slideshow_GcPDX3",
+    "promo_grid_cMUWra",
+    "promo_grid_MmC94X",
     "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
     "slideshow_8GYyKV",
