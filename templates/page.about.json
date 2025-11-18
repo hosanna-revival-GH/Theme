@@ -455,17 +455,6 @@
             "text": "<p>As a Senior Account Executive on our B2B team, Monica spends her days building strong relationships with our wholesale partners to make sure stores all over the country are carrying our Bibles so they are readily available to you! Monica grew up in a Christian family and has been following the Lord for the majority of her life. After a year in full-time ministry, she found Hosanna to be the perfect opportunity to engage in work involving Christ in the marketplace. She loves her community and is passionate about loving people well and following the Spirit as he leads in her conversations. An avid connoisseur of Mexican food (especially queso), Monica enjoys visiting new restaurants with her husband, being a pop-culture enthusiast, and consuming her daily quota of Diet Coke.</p>"
           }
         },
-        "team_member_Jenna": {
-          "type": "team_member",
-          "disabled": true,
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/13-Jenna-Hosanna-Revival-Team.jpg",
-            "image_width": 300,
-            "title": "Jenna Martin",
-            "text": "<p>Jenna is our photo-video gal and brings our creative visions to life through capturing our tools in beautiful settings. She first picked up her Grandpa’s camera at the age of 15 and has since used her skills both locally as a wedding photographer and globally working with a ministry in Israel. Jenna grew up walking with Christ but started taking her faith seriously the summer before her Freshman year of college. She is passionate about music, songwriting, worshiping the Lord, and soup year round. When not working in the office you can find her shooting weddings, going to farmers markets for the fresh blooms, going on evening walks with her husband, and consuming her daily iced vanilla matcha latte.</p>"
-          }
-        },
         "team_member_Hope": {
           "type": "team_member",
           "settings": {
@@ -526,6 +515,16 @@
             "text": "<p>Christina is our Marketing Integration Manager, working closely with the design and marketing team to help keep projects and timelines on track. She met Jesus at 18, shortly after graduating high school and after making the decision to live for Jesus, she has been growing in friendship with him ever since. Originally from the Bahamas, she moved to Cincinnati in 2024 after serving in full-time missions across the world and the USA for a number of years. When she’s not at work, Christina loves crafting, traveling the world, getting outdoors and spending time with friends and family, especially her nieces and nephew. Christina loves people and is passionate about seeing people experience the truth of God’s word in their lives and walking in true freedom!</p>"
           }
         },
+        "team_member_Jenna": {
+          "type": "team_member",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Kyla-Hosanna-Revival-Headshot-02.jpg",
+            "image_width": 300,
+            "title": "Kyla Mckenzie",
+            "text": "<p>Working on our Creative Marketing team, Kyla spends her days designing Instagram posts, capturing product photography, and tackling other fun design projects. Originally from the Lone Star State, she moved to Cincinnati in 2025 with her husband Andrew, their dog Austin, and their cat Milo. Though she grew up in a Christian family, she rediscovered her love for Christ at 18, realizing life is so much better with Jesus at the center. In her free time, you can find Kyla watching the sunset with her husband, a sweet tea and good book in hand, exploring nature, baking while jamming to a good playlist, or hopping on FaceTime to catch up with friends and family.</p>"
+          }
+        },
         "team_member_Frankie": {
           "type": "team_member",
           "disabled": true,
@@ -559,13 +558,13 @@
         "team_member_Christine",
         "team_member_Maddie",
         "team_member_Monica",
-        "team_member_Jenna",
         "team_member_Hope",
         "team_member_Audra",
         "team_member_YYz9fq",
         "team_member_QwWMkc",
         "team_member_9zUeTp",
         "team_member_VwYqhk",
+        "team_member_Jenna",
         "team_member_Frankie",
         "team_member_Pippa"
       ],
