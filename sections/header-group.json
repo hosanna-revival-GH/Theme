@@ -44,43 +44,43 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement_mMUAeX": {
+        "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to Your Home for Beautiful Bibles",
-            "link_text": "Tools that stir hearts towards Scripture",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": " Shop 30% Off Sitewide",
+            "link_text": " Hosanna Revival Black Friday has begun",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": " Sign up for our Advent Study, Kingdom Come",
-            "link_text": "a free 4-week email series through December ",
-            "link": "shopify://pages/kingdom-come"
+            "text": " Gift Intentionally This Christmas",
+            "link_text": "your guide to gifting a beautiful tool",
+            "link": "shopify://pages/gift-intentionally-christmas"
           }
         },
-        "announcement-1": {
+        "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Gift Intentionally this Season",
-            "link_text": "find a gift they will truly cherish",
-            "link": "shopify://pages/gift-intentionally-christmas"
+            "text": "Sign up for our Advent Study, Kingdom Come",
+            "link_text": "a free 4-week email series through December",
+            "link": "shopify://pages/kingdom-come"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
             "text": "Free US Domestic Shipping on orders over $100",
-            "link_text": "Stock up on beautiful tools for yourself or to gift a friend!",
+            "link_text": "Stock up on gifts and we’ll cover the shipping costs",
             "link": "shopify://collections/hosanna-revival-shop"
           }
         }
       },
       "block_order": [
-        "announcement_mMUAeX",
-        "announcement_FNqfy6",
         "announcement-1",
+        "announcement_FNqfy6",
+        "announcement_mMUAeX",
         "announcement_NXQKWa"
       ],
       "settings": {

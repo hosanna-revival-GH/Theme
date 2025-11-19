@@ -43,8 +43,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-01_c73b456f-36be-483b-903d-5fa480d93f30.png",
-            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-02_def9c5c2-9b58-48ee-a54d-fb14778623d5.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-08.png",
+            "image_mobile": "shopify://shop_images/BFCM_Begins_Homepage-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -81,7 +81,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-03_08d898bb-dab8-4f4b-ac8d-3ef3a353d189.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-03.png",
             "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-04_ed7ce922-83a4-4eda-95eb-63f53f13392e.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -151,7 +151,7 @@
         "image_AxXinN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-08_4d158909-140d-44b8-87c8-593637137287.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-06.png",
             "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
@@ -159,7 +159,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-09_eac13849-76dc-42e8-92d5-e0b9fb17e922.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-07.png",
             "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
@@ -194,7 +194,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-010_51099c7e-d47b-4853-b90e-58dcc0ec4964.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-05.png",
             "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-011_6c68d64c-6dc7-4eb2-af07-3a58187c8339.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
