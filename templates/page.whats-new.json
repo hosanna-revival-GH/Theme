@@ -72,6 +72,19 @@
         "link_color_text": "#ffffff"
       }
     },
+    "single_button_eFchhW": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Kingdom Come: A study for advent",
+        "button_link": "https://hosannarevival.com/pages/kingdom-come",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#311720",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_QbwFRq": {
       "type": "single-button",
       "name": "Custom Button",
@@ -105,19 +118,6 @@
       "settings": {
         "button_text": "Explore The Winter Collection",
         "button_link": "shopify://collections/winter-2025-collection",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#311720",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_eFchhW": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Kingdom Come: A study for advent",
-        "button_link": "https://hosannarevival.com/pages/kingdom-come",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -264,10 +264,10 @@
     "main",
     "slideshow_xWCjYr",
     "single_button_qAwKEz",
+    "single_button_eFchhW",
     "single_button_QbwFRq",
     "single_button_hCmA7f",
     "single_button_3L6q9A",
-    "single_button_eFchhW",
     "single_button_JD887j",
     "single_button_gX7jmw",
     "single_button_GryJY9",
