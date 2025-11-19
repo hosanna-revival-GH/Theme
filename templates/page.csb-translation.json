@@ -14,11 +14,13 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "featured_video_P9ycHY": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "title": "",
         "video_url": "https://player.vimeo.com/video/212979979?title=0&byline=0&portrait=0",
