@@ -151,7 +151,7 @@
         "image_AxXinN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BFCM_Begins_Homepage-06.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-06_d62fe56c-0881-4c74-98f4-0909880da69b.png",
             "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
@@ -194,7 +194,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM_Begins_Homepage-05_af926d88-c70a-4b42-8d30-0f26afd20017.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-05_24e446e8-c9a3-4382-80c8-e5c38e15a285.png",
             "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-011_6c68d64c-6dc7-4eb2-af07-3a58187c8339.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
