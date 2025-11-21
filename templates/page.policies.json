@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "parallax-hero-ababd59b": {
@@ -35,7 +36,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-042.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 7,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "text-columns-1591994278767": {
@@ -62,7 +65,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Shipping & Fulfillment",
-            "text": "<p><strong>Shipping and Processing Time</strong></p><p>Hosanna Revival currently ships all orders from our warehouse located in Cincinnati, OH. Our small shipping team works hard to process your order quickly! Our typical turnaround time is 1-3 business days. In busy seasons our processing time can vary from 4-7 business days. We do not process orders on holidays or weekends. We appreciate your patience as we continue to grow as a small business.</p><p>All shipping estimates are calculated at checkout & depends on the shipping method you select. USPS Media Mail arrives within 2-4 weeks. Our fastest method is FedEx Express, which will deliver within 1-3 business days. Once the package leaves our warehouse we have no control over the delivery process. </p><p></p><p><strong>International Shipping</strong></p><p>Hosanna Revival is not responsible for any customs fees or duties incurred on international shipments as these are the responsibility of the purchaser. If your shipment is returned to us due to an unpaid customs invoice or incorrect address, shipping costs cannot be refunded. If your international order is lost in transit, Hosanna Revival will cover the cost of one additional shipment. If the order is lost more than once in transit, we will issue a refund of the order; you can then place a new order at any time. Please pay close attention to your tracking number and contact the shipping carrier if your shipment is on hold and awaiting a payment.a</p>",
+            "text": "<p><strong>Shipping and Processing Time</strong></p><p>Hosanna Revival currently ships all orders from our warehouse located in Cincinnati, OH. Our small shipping team works hard to process your order quickly! Our typical turnaround time is 1-3 business days. In busy seasons our processing time can vary from 4-7 business days. We do not process orders on holidays or weekends. We appreciate your patience as we continue to grow as a small business.</p><p>All shipping estimates are calculated at checkout & depends on the shipping method you select. Standard Shipping arrives within 1-3 weeks. Our fastest method is FedEx Express, which will deliver within 1-3 business days once shipped. Once the package leaves our warehouse we have no control over the delivery process. </p><p></p><p><strong>International Shipping</strong></p><p>Hosanna Revival is not responsible for any customs fees or duties incurred on international shipments as these are the responsibility of the purchaser. If your shipment is returned to us due to an unpaid customs invoice or incorrect address, shipping costs cannot be refunded. If your international order is lost in transit, Hosanna Revival will cover the cost of one additional shipment. If the order is lost more than once in transit, we will issue a refund of the order; you can then place a new order at any time. Please pay close attention to your tracking number and contact the shipping carrier if your shipment is on hold and awaiting a payment.a</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -156,7 +159,7 @@
           "type": "question",
           "settings": {
             "title": "My cart isn’t saying I have free shipping. Why?",
-            "text": "<p>When we offer sales and promotions on free shipping, the minimum is always $10. Make sure your purchases match that criteria!</p>"
+            "text": "<p>We are currently offering free shipping over $100 in the domestic US! Make sure your purchas matches that criteria!</p>"
           }
         },
         "question_Hgw6EW": {
@@ -253,7 +256,10 @@
       ],
       "custom_css": [],
       "settings": {
-        "title": "Frequently Asked Questions"
+        "title": "Frequently Asked Questions",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
       }
     },
     "rich_text_QXt6BR": {
@@ -269,7 +275,9 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>If you have questions about custom Bibles, please <a href=\"/pages/custom-hand-painted-bibles\" title=\"Custom Hand-Painted Bibles\">click here<br/></a> for more info. </p>"
+            "text": "<p>If you have questions about custom Bibles, please <a href=\"/pages/custom-hand-painted-bibles\" title=\"Custom Hand-Painted Bibles\">click here<br/></a> for more info. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
           }
         }
       },
