@@ -142,7 +142,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Orders may be returned so long as:</p><p>• You are located in the United States</p><ul><li>The order is new, unused/unworn, and in the original packaging</li></ul><p>• The order is returned within <strong>30</strong> days of receipt*</p><p>• The order was not purchased on final sale<br/></p><p><strong>*Note: All returns are subject to a 10% restocking fee, and we do not refund original shipping costs. Make sure to tape the sides of your package prior to returning the package to ensure it arrives back to us in pristine condition. If the package arrives empty we cannot issue a refund of the item.</strong></p>",
+            "text": "<p>Orders may be returned so long as:</p><p>• You are located in the United States</p><ul><li>The order is new, unused/unworn, and in the original packaging</li></ul><p>• The order is returned within <strong>45</strong> days of receipt*</p><p>• The order was not purchased on final sale<br/></p><p><strong>*Note: All returns are subject to a 10% restocking fee, and we do not refund original shipping costs. Make sure to tape the sides of your package prior to returning the package to ensure it arrives back to us in pristine condition. If the package arrives empty we cannot issue a refund of the item.</strong></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
