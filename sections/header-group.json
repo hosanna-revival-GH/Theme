@@ -47,8 +47,8 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": " Shop 30% Off Sitewide",
-            "link_text": " Hosanna Revival Black Friday has begun",
+            "text": " Enjoy 10% Off Sitewide",
+            "link_text": "and free domestic shipping over $100",
             "link": "shopify://collections/hosanna-revival-shop"
           }
         },
@@ -63,17 +63,17 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Sign up for our Advent Study, Kingdom Come",
-            "link_text": "a free 4-week email series through December",
-            "link": "shopify://pages/kingdom-come"
+            "text": "Join us for our Warehouse Sale",
+            "link_text": "Shop in person with us on 12/13",
+            "link": "shopify://pages/warehouse-sale"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Free US Domestic Shipping on orders over $100",
-            "link_text": "Stock up on gifts and we’ll cover the shipping costs",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Gift a beautiful Bible that will stir their heart towards the beauty of Christ",
+            "link": "shopify://pages/beautiful-bibles"
           }
         }
       },
