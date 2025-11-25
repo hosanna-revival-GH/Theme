@@ -158,7 +158,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BFCM_Begins_Homepage-07.png",
+            "image": "shopify://shop_images/Cyber_Monday-02_38df8573-5432-4f9a-be4d-3e166af44784.png",
             "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
@@ -175,6 +175,45 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
+      }
+    },
+    "slideshow_GcPDX3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nrgk3e": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/gift-intentionally-christmas",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/BF_Homepage_Artboard_2_copy_14.png",
+            "image_mobile": "shopify://shop_images/BF_Homepage_Artboard_2_copy_13-07.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Nrgk3e"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "slideshow_YNbwrF": {
@@ -211,46 +250,6 @@
         "parallax": false,
         "style": "bars",
         "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_GcPDX3": {
-      "type": "slideshow",
-      "blocks": {
-        "image_Nrgk3e": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://www.instagram.com/alicialynnhamilton/",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Author_Block.png",
-            "image_mobile": "shopify://shop_images/Wonder_Author_Block_mobilr.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_Nrgk3e"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
@@ -582,8 +581,8 @@
     "slideshow_gW9EVE",
     "promo_grid_UydWcM",
     "promo_grid_BftCNi",
-    "slideshow_YNbwrF",
     "slideshow_GcPDX3",
+    "slideshow_YNbwrF",
     "promo_grid_cMUWra",
     "promo_grid_MmC94X",
     "slideshow_JzgDYA",
