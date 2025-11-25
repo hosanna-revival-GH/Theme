@@ -9,24 +9,6 @@
  */
 {
   "sections": {
-    "hero_video_EzmjCm": {
-      "type": "hero-video",
-      "disabled": true,
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Winter Collection",
-        "link": "shopify://pages/winter-collection-2025",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/c05535d119a34791a75627aef1e96428.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "250px"
-      }
-    },
     "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
@@ -43,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM_Begins_Homepage-08.png",
-            "image_mobile": "shopify://shop_images/BFCM_Begins_Homepage-01.png",
+            "image": "shopify://shop_images/December_02_and_beyond-02.png",
+            "image_mobile": "shopify://shop_images/December_02_and_beyond-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -63,6 +45,23 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "hero_video_EzmjCm": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "shopify://pages/winter-collection-2025",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/7b78ce5a17f04c6f94716e524a39e411.mp4",
+        "overlay_opacity": 0,
+        "section_height": "550px",
+        "mobile_height": "250px"
       }
     },
     "slideshow_gW9EVE": {
@@ -271,7 +270,7 @@
         "image_wzNDzm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-013.png",
+            "image": "shopify://shop_images/December_02_and_beyond-04_686bdea5-0d09-48be-a2bf-62515fb2bfe5.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "33"
           }
@@ -283,12 +282,39 @@
             "link": "shopify://collections/devotionals",
             "width": "33"
           }
+        },
+        "image_eFkJk4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/December_02_and_beyond-06.png",
+            "link": "shopify://collections/notebooks",
+            "width": "33"
+          }
+        },
+        "image_jfUqn4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/December_02_and_beyond-07.png",
+            "link": "shopify://collections/stocking-stuffers",
+            "width": "33"
+          }
+        },
+        "image_6AwjAt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/December_02_and_beyond-08.png",
+            "link": "shopify://collections/planners",
+            "width": "33"
+          }
         }
       },
       "block_order": [
         "image_GzxX7N",
         "image_wzNDzm",
-        "image_T9PWGX"
+        "image_T9PWGX",
+        "image_eFkJk4",
+        "image_jfUqn4",
+        "image_6AwjAt"
       ],
       "settings": {
         "full_width": true,
@@ -551,8 +577,8 @@
     }
   },
   "order": [
-    "hero_video_EzmjCm",
     "slideshow_X4MRpa",
+    "hero_video_EzmjCm",
     "slideshow_gW9EVE",
     "promo_grid_UydWcM",
     "promo_grid_BftCNi",
