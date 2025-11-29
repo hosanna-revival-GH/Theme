@@ -220,6 +220,19 @@
     "text_columns_Uekccm": {
       "type": "text-columns",
       "blocks": {
+        "text_block_76": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-585_2.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "WINTER 2025 COLLECTION",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/winter-2025-collection"
+          }
+        },
         "text_block_74": {
           "type": "text_block",
           "settings": {
@@ -245,25 +258,12 @@
             "button_label": "SHOP",
             "button_link": "shopify://collections/winter-2024-collection"
           }
-        },
-        "text_block_76": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Spring-Collection-Beautiful-Bibles-Hosanna-Revival-164.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "SPRING 2024 COLLECTION",
-            "text": "",
-            "button_label": "SHOP",
-            "button_link": "shopify://collections/spring-2024-collection"
-          }
         }
       },
       "block_order": [
+        "text_block_76",
         "text_block_74",
-        "text_block_75",
-        "text_block_76"
+        "text_block_75"
       ],
       "settings": {
         "title": "SHOP BY COLLECTION",
