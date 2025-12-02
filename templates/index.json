@@ -47,6 +47,45 @@
         "disable_animation": false
       }
     },
+    "slideshow_bGCPEX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fVEef3": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/pages/warehouse-sale",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-024.png",
+            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-019_547f79e9-bab8-4092-8d29-a4bcca09c590.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_fVEef3"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "hero_video_EzmjCm": {
       "type": "hero-video",
       "name": "t:sections.hero-video.presets.video_hero.name",
@@ -497,45 +536,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_bGCPEX": {
-      "type": "slideshow",
-      "blocks": {
-        "image_fVEef3": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/pages/warehouse-sale",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-024.png",
-            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-019_547f79e9-bab8-4092-8d29-a4bcca09c590.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_fVEef3"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -577,6 +577,7 @@
   },
   "order": [
     "slideshow_X4MRpa",
+    "slideshow_bGCPEX",
     "hero_video_EzmjCm",
     "slideshow_gW9EVE",
     "promo_grid_UydWcM",
@@ -589,7 +590,6 @@
     "featured_collection_AbN8iP",
     "slideshow_8GYyKV",
     "slideshow_gyMt8x",
-    "slideshow_bGCPEX",
     "slideshow_LAdPKf"
   ]
 }
