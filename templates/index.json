@@ -334,14 +334,6 @@
             "width": "33"
           }
         },
-        "image_pXrCHx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-016.png",
-            "link": "shopify://products/csb-notetaking-bible-vienna-theme",
-            "width": "33"
-          }
-        },
         "image_wHrqXB": {
           "type": "image",
           "settings": {
@@ -349,12 +341,20 @@
             "link": "shopify://products/nlt-life-application-study-bible-edinburgh-theme",
             "width": "33"
           }
+        },
+        "image_pXrCHx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM-Begins-Homepage-016.png",
+            "link": "shopify://products/csb-notetaking-bible-vienna-theme",
+            "width": "33"
+          }
         }
       },
       "block_order": [
         "image_AbVRfx",
-        "image_pXrCHx",
-        "image_wHrqXB"
+        "image_wHrqXB",
+        "image_pXrCHx"
       ],
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
