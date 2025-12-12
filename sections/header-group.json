@@ -44,6 +44,14 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "SHIPPING ALERT: Order by 12/15 for Christmas Delivery",
+            "link_text": "with Standard Shipping",
+            "link": "shopify://collections/hosanna-revival-shop"
+          }
+        },
         "announcement-1": {
           "type": "announcement",
           "settings": {
@@ -60,14 +68,6 @@
             "link": "shopify://pages/gift-intentionally-christmas"
           }
         },
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Join us for our Warehouse Sale",
-            "link_text": "Shop in person with us on 12/13",
-            "link": "shopify://pages/warehouse-sale"
-          }
-        },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
@@ -78,9 +78,9 @@
         }
       },
       "block_order": [
+        "announcement_mMUAeX",
         "announcement-1",
         "announcement_FNqfy6",
-        "announcement_mMUAeX",
         "announcement_NXQKWa"
       ],
       "settings": {
