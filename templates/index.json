@@ -47,6 +47,23 @@
         "disable_animation": false
       }
     },
+    "hero_video_EzmjCm": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "shopify://pages/winter-collection-2025",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/7b78ce5a17f04c6f94716e524a39e411.mp4",
+        "overlay_opacity": 0,
+        "section_height": "550px",
+        "mobile_height": "250px"
+      }
+    },
     "slideshow_bGCPEX": {
       "type": "slideshow",
       "blocks": {
@@ -57,13 +74,13 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/pages/warehouse-sale",
+            "link": "shopify://collections/planners",
             "link_text": "",
             "link_2": "shopify://collections/planners",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Warehouse_SAle-04.png",
+            "image": "shopify://shop_images/Warehouse-SAle-04.png",
             "image_mobile": "shopify://shop_images/Warehouse_SAle-03.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -84,23 +101,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "hero_video_EzmjCm": {
-      "type": "hero-video",
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "shopify://pages/winter-collection-2025",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/7b78ce5a17f04c6f94716e524a39e411.mp4",
-        "overlay_opacity": 0,
-        "section_height": "550px",
-        "mobile_height": "250px"
       }
     },
     "slideshow_gW9EVE": {
