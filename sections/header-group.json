@@ -47,8 +47,8 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "SHIPPING ALERT: Order with FedEx Express by 12/18",
-            "link_text": "for Christmas Delivery",
+            "text": "SHIPPING ALERT: Last day for Christmas delivery!",
+            "link_text": "Order with FedEx Express by midnight on 12/18",
             "link": "shopify://collections/hosanna-revival-shop"
           }
         },
