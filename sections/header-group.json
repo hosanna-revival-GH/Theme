@@ -47,9 +47,9 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "SHIPPING ALERT: Last day for Christmas delivery!",
-            "link_text": "Order with FedEx Express by midnight on 12/18",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": " Your Home for Beautiful Bibles",
+            "link_text": "Gift a beautiful Bible that will stir their heart towards the beauty of Christ",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement-1": {
@@ -63,17 +63,17 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": " Gift Intentionally This Christmas",
-            "link_text": "your guide to gifting a beautiful tool",
-            "link": "shopify://pages/gift-intentionally-christmas"
+            "text": "Need a last minute intentional gift?",
+            "link_text": "Choose a Hosanna Revival Gift Card",
+            "link": "shopify://products/gift-card"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Gift a beautiful Bible that will stir their heart towards the beauty of Christ",
-            "link": "shopify://pages/beautiful-bibles"
+            "text": " Shipping Alert",
+            "link_text": "We’re taking our annual Sabbath and resume shipping on 1/05",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         }
       },

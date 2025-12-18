@@ -19,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/December_02_and_beyond-02.png",
-            "image_mobile": "shopify://shop_images/December_02_and_beyond-01.png",
+            "image": "shopify://shop_images/12-23-25_web-02.png",
+            "image_mobile": "shopify://shop_images/12-23-25_web-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -47,23 +47,6 @@
         "disable_animation": false
       }
     },
-    "hero_video_EzmjCm": {
-      "type": "hero-video",
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "shopify://pages/winter-collection-2025",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/7b78ce5a17f04c6f94716e524a39e411.mp4",
-        "overlay_opacity": 0,
-        "section_height": "550px",
-        "mobile_height": "250px"
-      }
-    },
     "slideshow_bGCPEX": {
       "type": "slideshow",
       "blocks": {
@@ -74,14 +57,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/planners",
+            "link": "",
             "link_text": "",
-            "link_2": "shopify://collections/planners",
+            "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Warehouse-SAle-04.png",
-            "image_mobile": "shopify://shop_images/Warehouse_SAle-03.png",
+            "image": "shopify://shop_images/12-23-25_web-03.png",
+            "image_mobile": "shopify://shop_images/12-23-25_web-05.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -113,14 +96,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/gift-intentionally-christmas",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM_Begins_Homepage-03.png",
-            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-04_ed7ce922-83a4-4eda-95eb-63f53f13392e.png",
+            "image": "shopify://shop_images/12-23-25_web-01_ec1dc59e-7dc5-4f3d-8603-969ddbcc16ed.png",
+            "image_mobile": "shopify://shop_images/12-23-25_web-06_17105ff3-8384-4992-b117-4b8d529728c2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -139,6 +122,24 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "hero_video_EzmjCm": {
+      "type": "hero-video",
+      "disabled": true,
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "shopify://pages/winter-collection-2025",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/7b78ce5a17f04c6f94716e524a39e411.mp4",
+        "overlay_opacity": 0,
+        "section_height": "550px",
+        "mobile_height": "250px"
       }
     },
     "promo_grid_UydWcM": {
@@ -174,6 +175,7 @@
         "image_dcHMiN",
         "image_Gm3rH7"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -207,6 +209,7 @@
         "image_AxXinN",
         "image_9fzeMq"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -243,6 +246,7 @@
       "block_order": [
         "image_Nrgk3e"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -282,6 +286,7 @@
       "block_order": [
         "image_EBgzXT"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -354,6 +359,7 @@
         "image_jfUqn4",
         "image_6AwjAt"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -395,6 +401,7 @@
         "image_wHrqXB",
         "image_pXrCHx"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -485,6 +492,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -552,8 +560,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Pre-Black-Friday-HP-014.png",
-            "image_mobile": "shopify://shop_images/Pre-Black-Friday-HP-015.png",
+            "image": "shopify://shop_images/12-23-25_web_Artboard_2_copy_59.png",
+            "image_mobile": "shopify://shop_images/12-23-25_web_Artboard_176_copy_17.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -577,9 +585,9 @@
   },
   "order": [
     "slideshow_X4MRpa",
-    "hero_video_EzmjCm",
     "slideshow_bGCPEX",
     "slideshow_gW9EVE",
+    "hero_video_EzmjCm",
     "promo_grid_UydWcM",
     "promo_grid_BftCNi",
     "slideshow_GcPDX3",
