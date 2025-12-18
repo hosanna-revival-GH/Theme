@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/12-23-25_web-02.png",
-            "image_mobile": "shopify://shop_images/12-23-25_web-04.png",
+            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_7.png",
+            "image_mobile": "shopify://shop_images/12-26-25_web-02_ec949387-0146-4462-82f7-7bf43324f40a.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -63,8 +63,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/12-23-25_web-03.png",
-            "image_mobile": "shopify://shop_images/12-23-25_web-05.png",
+            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_2-04.png",
+            "image_mobile": "shopify://shop_images/12-26-25_web_Artboard_2_copy.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -145,37 +145,45 @@
     "promo_grid_UydWcM": {
       "type": "promo-grid",
       "blocks": {
+        "image_JHPNPj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_29.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "50"
+          }
+        },
         "image_8pcdHL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-05_41551524-c395-4546-8473-24c7aad750b6.png",
-            "link": "shopify://collections/by-price",
-            "width": "33"
+            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_39.png",
+            "link": "shopify://collections/devotionals",
+            "width": "50"
           }
         },
         "image_dcHMiN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-06_e92dd7dd-da18-4050-afbb-1c6220afae6a.png",
-            "link": "shopify://collections/under-60",
-            "width": "33"
+            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_34.png",
+            "link": "shopify://collections/notebooks",
+            "width": "50"
           }
         },
         "image_Gm3rH7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/December-02-and-beyond.png",
-            "link": "shopify://collections/under-100",
-            "width": "33"
+            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_47.png",
+            "link": "shopify://collections/one-thing-i-ask",
+            "width": "50"
           }
         }
       },
       "block_order": [
+        "image_JHPNPj",
         "image_8pcdHL",
         "image_dcHMiN",
         "image_Gm3rH7"
       ],
-      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -229,14 +237,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/gift-intentionally-christmas",
+            "link": "shopify://collections/planners",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BF_Homepage_Artboard_2_copy_14.png",
-            "image_mobile": "shopify://shop_images/BF_Homepage_Artboard_2_copy_13-07.png",
+            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_4.png",
+            "image_mobile": "shopify://shop_images/12-26-25_web_Artboard_2_copy_3-11.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -246,7 +254,6 @@
       "block_order": [
         "image_Nrgk3e"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
