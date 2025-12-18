@@ -63,16 +63,16 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Need a last minute intentional gift?",
-            "link_text": "Choose a Hosanna Revival Gift Card",
-            "link": "shopify://products/gift-card"
+            "text": "Choose a planner for 2026",
+            "link_text": "Start your year with a beautiful and intentional planner",
+            "link": "shopify://collections/planners"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": " Shipping Alert",
-            "link_text": "We’re taking our annual Sabbath and resume shipping on 1/05",
+            "text": "We’re Home for the Holidays",
+            "link_text": "All orders will resume shipping in January",
             "link": "shopify://collections/hosanna-revival-shop"
           }
         }
