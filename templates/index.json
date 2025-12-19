@@ -125,6 +125,19 @@
         "disable_animation": false
       }
     },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "beautiful Bibles",
+        "home_featured_products": "beautiful-bibles",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -457,19 +470,6 @@
         "lazyload_images": true
       }
     },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "beautiful Bibles",
-        "home_featured_products": "beautiful-bibles",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "slideshow_8GYyKV": {
       "type": "slideshow",
       "blocks": {
@@ -592,6 +592,7 @@
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
     "slideshow_bGCPEX",
+    "featured_collection_AbN8iP",
     "slideshow_gW9EVE",
     "hero_video_EzmjCm",
     "promo_grid_UydWcM",
@@ -600,7 +601,6 @@
     "slideshow_YNbwrF",
     "promo_grid_cMUWra",
     "promo_grid_MmC94X",
-    "featured_collection_AbN8iP",
     "slideshow_8GYyKV",
     "slideshow_gyMt8x",
     "slideshow_LAdPKf"
