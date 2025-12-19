@@ -55,7 +55,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": " Enjoy 10% Off Sitewide",
+            "text": " Free Shipping over $100",
             "link_text": "and free domestic shipping over $100",
             "link": "shopify://collections/hosanna-revival-shop"
           }
@@ -71,9 +71,9 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "We’re Home for the Holidays",
-            "link_text": "All orders will resume shipping in January",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": "Explore our free resources",
+            "link_text": "Lock screens, free studies, our WHEN blog and more!",
+            "link": "shopify://pages/free-resources"
           }
         }
       },
