@@ -74,6 +74,7 @@
     },
     "single_button_eFchhW": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Kingdom Come: A study for advent",
         "button_link": "https://hosannarevival.com/pages/kingdom-come",
@@ -87,6 +88,7 @@
     },
     "single_button_QbwFRq": {
       "type": "single-button",
+      "disabled": true,
       "name": "Custom Button",
       "settings": {
         "button_text": "the Warehouse Sale! Join us in person",
