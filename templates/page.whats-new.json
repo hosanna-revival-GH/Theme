@@ -62,8 +62,8 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "shop intentional gifts",
-        "button_link": "shopify://collections/hosanna-revival-shop",
+        "button_text": "new articles",
+        "button_link": "https://hosannarevival.blog/category/monthly-highlights/january-2026-spiritual-disciplines-and-habits/",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
