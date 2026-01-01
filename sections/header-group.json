@@ -56,7 +56,7 @@
           "type": "announcement",
           "settings": {
             "text": " Free Shipping over $100",
-            "link_text": "and free domestic shipping over $100",
+            "link_text": "for the domestic US",
             "link": "shopify://collections/hosanna-revival-shop"
           }
         },
