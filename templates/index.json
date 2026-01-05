@@ -587,56 +587,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "countdown_zQRhtN": {
-      "type": "countdown",
-      "blocks": {
-        "content_FJ8AKA": {
-          "type": "content",
-          "settings": {
-            "heading": "Countdown",
-            "heading_size": "h2",
-            "text": "<p>Use this timer to create urgency and boost sales.</p>",
-            "content_alignment": "left"
-          }
-        },
-        "timer_YhNVbk": {
-          "type": "timer",
-          "settings": {
-            "year": "2025",
-            "month": "01",
-            "day": "10",
-            "hour": "09",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        },
-        "button_f6HrhT": {
-          "type": "button",
-          "settings": {
-            "button_link": "",
-            "button": "Shop Collection",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_FJ8AKA",
-        "timer_YhNVbk",
-        "button_f6HrhT"
-      ],
-      "disabled": true,
-      "name": "t:sections.countdown.presets.countdown.name",
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#000",
-        "background_color": "#FFF",
-        "overlay_color": "#000",
-        "overlay_opacity": 0,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -654,7 +604,6 @@
     "promo_grid_MmC94X",
     "slideshow_8GYyKV",
     "slideshow_gyMt8x",
-    "slideshow_LAdPKf",
-    "countdown_zQRhtN"
+    "slideshow_LAdPKf"
   ]
 }
