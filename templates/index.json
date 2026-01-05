@@ -626,6 +626,7 @@
         "timer_YhNVbk",
         "button_f6HrhT"
       ],
+      "disabled": true,
       "name": "t:sections.countdown.presets.countdown.name",
       "settings": {
         "layout": "banner",
