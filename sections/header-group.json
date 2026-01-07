@@ -44,6 +44,30 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_NXQKWa": {
+          "type": "announcement",
+          "settings": {
+            "text": "Preorder our new book: Heaven & Earth",
+            "link_text": "for those looking for a more vibrant understanding of Heaven",
+            "link": ""
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Select Best Sellers 20% Off + Free US Shipping",
+            "link_text": "Find a beautiful tool to begin your year with",
+            "link": "shopify://collections/best-sellers"
+          }
+        },
+        "announcement_FNqfy6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Begin the year with a new Undated Planner",
+            "link_text": "Beautiful and functional planners for your year",
+            "link": "shopify://collections/planners"
+          }
+        },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
@@ -51,37 +75,13 @@
             "link_text": "Gift a beautiful Bible that will stir their heart towards the beauty of Christ",
             "link": "shopify://collections/beautiful-bibles"
           }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": " Free Shipping over $100",
-            "link_text": "for the domestic US",
-            "link": "shopify://collections/hosanna-revival-shop"
-          }
-        },
-        "announcement_FNqfy6": {
-          "type": "announcement",
-          "settings": {
-            "text": "Choose a planner for 2026",
-            "link_text": "Start your year with a beautiful and intentional planner",
-            "link": "shopify://collections/planners"
-          }
-        },
-        "announcement_NXQKWa": {
-          "type": "announcement",
-          "settings": {
-            "text": "Explore our free resources",
-            "link_text": "Lock screens, free studies, our WHEN blog and more!",
-            "link": "shopify://pages/free-resources"
-          }
         }
       },
       "block_order": [
-        "announcement_mMUAeX",
+        "announcement_NXQKWa",
         "announcement-1",
         "announcement_FNqfy6",
-        "announcement_NXQKWa"
+        "announcement_mMUAeX"
       ],
       "settings": {
         "announcement_compact": true
