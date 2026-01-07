@@ -183,7 +183,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#abba87",
+        "color_bg": "#2a3e28",
         "color_text": "#ffffff",
         "space_above": 60,
         "space_below": 60
@@ -330,7 +330,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 30,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#2a3e28",
         "link_color_text": "#ffffff"
       }
     },
@@ -362,7 +362,7 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
-        "layout": "left",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -383,7 +383,7 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
-        "layout": "right",
+        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -421,7 +421,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 60,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#2a3e28",
         "link_color_text": "#ffffff"
       }
     },
@@ -552,7 +552,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#9ba586",
+        "color_bg": "#2a3e28",
         "color_text": "#f5f0e6",
         "space_above": 75,
         "space_below": 75
@@ -570,9 +570,9 @@
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "center",
         "image_width": "50",
-        "layout": "left",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -661,7 +661,7 @@
         "alignment": "center",
         "space_above": 60,
         "space_below": 60,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#2a3e28",
         "link_color_text": "#ffffff"
       }
     },
