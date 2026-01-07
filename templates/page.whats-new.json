@@ -35,8 +35,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/whats-new_491326d5-089c-4128-8155-1a1477297d5a.png",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-Whats-New.png",
+            "image": "shopify://shop_images/Best_Sellers_Sale-11.png",
+            "image_mobile": "shopify://shop_images/Best_Sellers_Sale-11.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -68,7 +68,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -105,13 +105,13 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "Get your copy of Wonder by alicia Hamilton",
-        "button_link": "shopify://products/wonder-by-alicia-hamilton",
+        "button_text": "Preorder Heaven and Earth by Jordan Moody",
+        "button_link": "https://hosannarevival.com/products/heaven-earth-by-jordan-moody",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -124,7 +124,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -137,7 +137,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -179,7 +179,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -192,7 +192,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -205,7 +205,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -218,7 +218,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -231,7 +231,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -244,7 +244,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     },
@@ -257,7 +257,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#311720",
+        "link_color_background": "#839276",
         "link_color_text": "#ffffff"
       }
     }
