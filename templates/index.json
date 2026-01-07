@@ -75,6 +75,7 @@
       "block_order": [
         "image_QVcitx"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -103,8 +104,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_2.png",
-            "image_mobile": "shopify://shop_images/1_web_Artboard_2_copy_5.png",
+            "image": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_2.png",
+            "image_mobile": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_5.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -130,8 +131,8 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "beautiful Bibles",
-        "home_featured_products": "beautiful-bibles",
+        "title": "Which Tool will excite you to engage in Scripture?",
+        "home_featured_products": "best-sellers",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -155,8 +156,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_4.png",
-            "image_mobile": "shopify://shop_images/1_web_Artboard_2_copy_3.png",
+            "image": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_4.png",
+            "image_mobile": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_3.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -566,8 +567,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/12-23-25_web_Artboard_2_copy_59.png",
-            "image_mobile": "shopify://shop_images/12-23-25_web_Artboard_176_copy_17.png",
+            "image": "shopify://shop_images/Best_Sellers_Sale_Artboard_176_copy_3.png",
+            "image_mobile": "shopify://shop_images/Best_Sellers_Sale_Artboard_176_copy_13.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
