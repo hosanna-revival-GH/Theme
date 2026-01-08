@@ -407,6 +407,7 @@
         },
         "team_member_Bernie": {
           "type": "team_member",
+          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-36.jpg",
@@ -422,7 +423,7 @@
             "image": "shopify://shop_images/Hosanna-Revival-Team-Photos-44.jpg",
             "image_width": 300,
             "title": "Charlotte Schwartz",
-            "text": "<p>Originally from Charlotte, NC, Charlotte moved from one Queen City to another with her husband, Alex, in early 2021. As our Creative Director at Hosanna, she leads the Creative Team, designs our homepages and beautiful devotionals! Growing up as the middle of seven children in a creative Christian family, Charlotte was encouraged to explore her faith and creativity from a young age. Though she always knew about God, her relationship with him was rekindled at 18 during an internship at her local church.She is passionate about great coffee, more coffee, really good food, baking bread, trying to do too many creative projects at once, thrifting material for new sewing projects, and keeping too many houseplants alive! She is most excited when people in her life say “YES!!” to living their lives wholeheartedly for Jesus! </p>"
+            "text": "<p>Originally from Charlotte, NC, Charlotte moved from one Queen City to another with her husband, Alex, in early 2021. As our Creative Director at Hosanna, she leads the Creative Team, designs our homepages and beautiful devotionals! Growing up as the middle of seven children in a creative Christian family, Charlotte was encouraged to explore her faith and creativity from a young age. Though she always knew about God, her relationship with him was rekindled at 18 during an internship at her local church. She is passionate about great coffee, more coffee, really good food, baking bread, trying to do too many creative projects at once, thrifting material for new sewing projects, and keeping too many houseplants alive! She is most excited when people in her life say “YES!!” to living their lives wholeheartedly for Jesus! </p>"
           }
         },
         "team_member_Christine": {
