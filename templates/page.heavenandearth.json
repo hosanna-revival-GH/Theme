@@ -78,9 +78,9 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Jordan_Moody_Author_Photo_Nov_2025.jpg",
-            "image_mobile": "shopify://shop_images/Jordan_Moody_Author_Photo_Nov_2025.jpg",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book.jpg",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book_2.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
