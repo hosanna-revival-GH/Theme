@@ -323,41 +323,6 @@
         "disable_animation": false
       }
     },
-    "79659a6a-b971-4648-ac78-fb8a8d600061": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_MtDTqm": {
-          "type": "heading",
-          "settings": {
-            "title": "A Space for your Questions"
-          }
-        },
-        "text_ARVHzb": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Have a study topic or specific theme that is not addressed through our free resources above? <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"https://hosannarevival.blog\">Head to <em>WHEN</em></a>, our online space where life's questions meet Scripture's answers.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_MtDTqm",
-        "text_ARVHzb"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
     "1768333141b24f136c": {
       "type": "_blocks",
       "blocks": {
@@ -373,6 +338,66 @@
         "ai_gen_block_a02e7d2_qAyyCh"
       ],
       "settings": {}
+    },
+    "text_and_image_edxqRx": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/WHEN-site.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "A Space for your questions",
+        "title": "The WHEN Blog",
+        "text": "<p>Have a study topic or specific theme that is not addressed through our free resources above? <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"https://hosannarevival.blog\">Head to <em>WHEN</em></a>, our online space where life's questions meet Scripture's answers.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_actwJf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aExQbe": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/",
+            "link_text": "Back to homepage",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-402.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_aExQbe"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -387,7 +412,8 @@
     "blocks_bJp9Ak",
     "rich_text_9GjWhF",
     "slideshow_7QERea",
-    "79659a6a-b971-4648-ac78-fb8a8d600061",
-    "1768333141b24f136c"
+    "1768333141b24f136c",
+    "text_and_image_edxqRx",
+    "slideshow_actwJf"
   ]
 }
