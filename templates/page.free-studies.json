@@ -25,7 +25,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Free Resources",
+            "title": "Free Studies",
             "title_size": 72,
             "subheading": "",
             "link": "",
@@ -62,7 +62,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This mission extends to free, content-rich resources intended to point you to Scripture.</p><p><em>We pray these resources will meet you at the right place as you seek to know Jesus and grow to love his Word. Explore these tools below!</em></p>",
+            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This mission extends to free, content-rich studies intended to point you to Scripture.</p><p><em>We pray these studies will meet you at the right place as you seek to know Jesus and grow to love his Word. </em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -126,16 +126,16 @@
         "heading_7NexdR": {
           "type": "heading",
           "settings": {
-            "title": "Study Resources"
+            "title": "Studies through specific Books in the Bible"
           }
         },
         "text_ARVHzb": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Tools to equip you to know and love God’s Word</em></p>",
+            "text": "<p><em>to help you understand God's Word deeper</em></p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "block_bottom_space": 0
           }
         }
       },
@@ -155,70 +155,6 @@
         "space_below": 75
       }
     },
-    "text_and_image_crcx4e": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Bible-Toolkit-Hosanna-Revival-Cover-01_1080x_png.webp",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Introductory Guide",
-        "title": "Bible Toolkit",
-        "text": "<p>Are you new to reading the Bible? If so, this guide is for you! Through our <em>Bible Toolkit</em>, we’ll walk you through the process of diving into the Word of God, from choosing a Bible to navigating the pages inside to what happens after you close the cover. Let's dive in!</p>",
-        "button_label": "Explore Toolkit",
-        "button_link": "shopify://pages/bible-toolkit",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": false,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_yyJzPF": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Prayer-Toolkit-Hosanna-Revival_2062a1e5-8239-47da-b22d-f20349a8d875.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Introductory Guide",
-        "title": "Prayer Toolkit",
-        "text": "<p>Whether you have just begun your journey of following Jesus or have been a Christian for many years, you have likely had questions about prayer. Wherever you are, this guide is for you. In this toolkit, we will discuss what prayer is (and isn’t), struggles we encounter when praying, and how to practice prayer as a spiritual discipline. Let’s get started!</p>",
-        "button_label": "Explore Toolkit",
-        "button_link": "shopify://pages/prayer-toolkit",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_AL4mXe": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Spread-the-Word-Toolkit-Hosanna-Revival-2.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Introductory Guide",
-        "title": "Spread the Word Toolkit",
-        "text": "<p>Sharing the Gospel isn’t always easy. Maybe you’re unsure where to start, or perhaps fear and hesitation hold you back. That’s why we created the Spread the Word Toolkit—a practical guide designed to equip and encourage you to share your faith with confidence and love. In it we will explore common hangups when it comes to sharing your faith and offer practical tips to take the first step. Join us in spreading the Word!</p>",
-        "button_label": "Explore Toolkit",
-        "button_link": "http://hosannarevival.com/stw-pdf",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "text_and_image_pFFz7W": {
       "type": "text-and-image",
       "settings": {
@@ -235,7 +171,7 @@
         "image_width": "50",
         "layout": "right",
         "divider": false,
-        "top_padding": true,
+        "top_padding": false,
         "bottom_padding": true,
         "lazyload_images": true
       }
@@ -257,70 +193,7 @@
         "layout": "left",
         "divider": false,
         "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "f1879c68-6ab4-486f-ac66-4de42d233767": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/HR-ComeToTheTable-RE-sm.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "a holiday email series",
-        "title": "Come to the Table: Lessons Learned from Mealtimes with Jesus",
-        "text": "<p><em>Come to the Table</em> is a 9-day email series that will consider eight different mealtimes with Jesus recorded in the Gospel of Luke and will challenge and encourage you to remember and be grateful for the God who welcomes all to his table.</p>",
-        "button_label": "Sign Up Today",
-        "button_link": "shopify://pages/come-to-the-table",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_B4p3Ej": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/When-the-Holidays-Are-Hard-Holiday-Email-Series-Hosanna-Revival-SQ.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "A Holiday Email Series",
-        "title": "When the Holidays Are Hard",
-        "text": "<p>Christmas is the most wonderful time of the year... or is it? For you, it may be more accurate to say this time of year feels more dreadful and dark than merry and bright. More crazy than cozy. And you’re not alone. <em>When the Holidays Are Hard</em> is a 9-day email series that will acknowledge some of the challenges we face in our relationships with others during this season. Each day you will receive a short, topical study containing practical, biblical wisdom from writers we love. We pray this series will hold your hand as you walk into the weary days ahead. </p>",
-        "button_label": "Sign Up Today",
-        "button_link": "shopify://pages/when-the-holidays-are-hard",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_937ThN": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/WHEN-site.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Hosanna Revival Publishing",
-        "title": "WHEN: Life’s Questions, Scripture’s Answers",
-        "text": "<p><em>WHEN</em> is a branch of <a href=\"/pages/publishing\" target=\"_blank\" title=\"Publishing\">Hosanna Revival Publishing</a> that partners with writers from our community to hold wild and weighty topics up to the light of Scripture. Find the article that relates to your question or heartache in this season.</p>",
-        "button_label": "Begin Reading",
-        "button_link": "https://hosannarevival.blog/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
@@ -330,16 +203,16 @@
         "heading_nqbh3J": {
           "type": "heading",
           "settings": {
-            "title": "Creative Series"
+            "title": "Holiday and Advent Studies"
           }
         },
         "text_ARVHzb": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>To encourage you to connect with God’s Word through creativity</em></p>",
+            "text": "<p><em>to prepare your heart for the Christmas season</em></p>",
             "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "block_bottom_space": 0
           }
         }
       },
@@ -359,94 +232,38 @@
         "space_below": 75
       }
     },
-    "text_and_image_7kKf4P": {
+    "f1879c68-6ab4-486f-ac66-4de42d233767": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Create-Through-Scripture-Dwelling-Place-Email-Series-Hosanna-Revival-SQ.png",
+        "image": "shopify://shop_images/HR-ComeToTheTable-RE-sm.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "A Creative Email Series",
-        "title": "Create Through Scripture: A Dwelling Place",
-        "text": "<p>You’re invited to engage with Scripture in a new and beautiful way through intentional creativity! Join us for this 4-week series <em>A Dwelling Place: A journey to create through Psalm 84</em>. Each week we will introduce a new section of Psalm 84 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration. We pray that this series fuels you to to creatively connect with God through his Word.</p>",
+        "subtitle": "a holiday email series",
+        "title": "Come to the Table: Lessons Learned from Mealtimes with Jesus",
+        "text": "<p><em>Come to the Table</em> is a 9-day email series that will consider eight different mealtimes with Jesus recorded in the Gospel of Luke and will challenge and encourage you to remember and be grateful for the God who welcomes all to his table.</p>",
         "button_label": "Sign Up Today",
-        "button_link": "shopify://pages/dwelling-place",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "c4701f6d-4c30-40bb-b56b-0ce241aa0a67": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Pleasant-Places-Psalm-16-Hosanna-Revival-1.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "A Creative Email Series",
-        "title": "Pleasant Places: An Invitation to Create through Psalm 16",
-        "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for the 4-week journey <em>Pleasant Places: An invitation to create through Psalm 16. </em>Sign up for the free email series, invite a friend, and prepare to create.</p>",
-        "button_label": "Sign up",
-        "button_link": "shopify://pages/an-invitation-to-create-pleasant-places",
+        "button_link": "shopify://pages/come-to-the-table",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
         "layout": "right",
         "divider": false,
-        "top_padding": true,
+        "top_padding": false,
         "bottom_padding": true,
         "lazyload_images": true
       }
     },
-    "044c0ab9-0c6f-400a-832e-426b0d772a1c": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_pmDXXB": {
-          "type": "heading",
-          "settings": {
-            "title": "LOCKSCREENS"
-          }
-        },
-        "text_ARVHzb": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>free downloadable art paired with Scripture for your phone</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_pmDXXB",
-        "text_ARVHzb"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "f8bb912b-0265-46cc-8d43-80f37f698c19": {
+    "text_and_image_B4p3Ej": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/lockscreens.jpg",
+        "image": "shopify://shop_images/When-the-Holidays-Are-Hard-Holiday-Email-Series-Hosanna-Revival-SQ.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "Hosanna Revival",
-        "title": "Lockscreens",
-        "text": "<p>We are so excited to have free downloadable lock screens for you! We hope you will use these lock screens in two ways: First, as a regular reminder of truth. And second, as a Scripture memorization tool.</p>",
-        "button_label": "View All",
-        "button_link": "shopify://blogs/lock-screens",
+        "subtitle": "A Holiday Email Series",
+        "title": "When the Holidays Are Hard",
+        "text": "<p>Christmas is the most wonderful time of the year... or is it? For you, it may be more accurate to say this time of year feels more dreadful and dark than merry and bright. More crazy than cozy. And you’re not alone. <em>When the Holidays Are Hard</em> is a 9-day email series that will acknowledge some of the challenges we face in our relationships with others during this season. Each day you will receive a short, topical study containing practical, biblical wisdom from writers we love. We pray this series will hold your hand as you walk into the weary days ahead. </p>",
+        "button_label": "Sign Up Today",
+        "button_link": "shopify://pages/when-the-holidays-are-hard",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -490,6 +307,28 @@
         "color_text": "#000000",
         "space_above": 0,
         "space_below": 0
+      }
+    },
+    "f8bb912b-0265-46cc-8d43-80f37f698c19": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/lockscreens.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Hosanna Revival",
+        "title": "Lockscreens",
+        "text": "<p>We are so excited to have free downloadable lock screens for you! We hope you will use these lock screens in two ways: First, as a regular reminder of truth. And second, as a Scripture memorization tool.</p>",
+        "button_label": "View All",
+        "button_link": "shopify://blogs/lock-screens",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "text_and_image_FfLNxM": {
@@ -576,6 +415,27 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_937ThN": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/WHEN-site.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Hosanna Revival Publishing",
+        "title": "WHEN: Life’s Questions, Scripture’s Answers",
+        "text": "<p><em>WHEN</em> is a branch of <a href=\"/pages/publishing\" target=\"_blank\" title=\"Publishing\">Hosanna Revival Publishing</a> that partners with writers from our community to hold wild and weighty topics up to the light of Scripture. Find the article that relates to your question or heartache in this season.</p>",
+        "button_label": "Begin Reading",
+        "button_link": "https://hosannarevival.blog/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "d9fef651-cc0c-4a72-8e0d-9fcea74120ab": {
       "type": "text-and-image",
       "settings": {
@@ -596,41 +456,6 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
-    },
-    "79659a6a-b971-4648-ac78-fb8a8d600061": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_MtDTqm": {
-          "type": "heading",
-          "settings": {
-            "title": "A Space for your Questions"
-          }
-        },
-        "text_ARVHzb": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Have a study topic or specific theme that is not addressed through our free resources above? <a href=\"https://hosannarevival.blog\" target=\"_blank\" title=\"https://hosannarevival.blog\">Head to <em>WHEN</em></a>, our online space where life's questions meet Scripture's answers.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_MtDTqm",
-        "text_ARVHzb"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
     }
   },
   "order": [
@@ -639,25 +464,18 @@
     "rich_text_wXk4Ga",
     "rich_text_CxTEHi",
     "rich_text_YXVYKW",
-    "text_and_image_crcx4e",
-    "text_and_image_yyJzPF",
-    "text_and_image_AL4mXe",
     "text_and_image_pFFz7W",
     "text_and_image_ziBT9g",
+    "rich_text_6MKzkQ",
     "f1879c68-6ab4-486f-ac66-4de42d233767",
     "text_and_image_B4p3Ej",
-    "text_and_image_937ThN",
-    "rich_text_6MKzkQ",
-    "text_and_image_7kKf4P",
-    "c4701f6d-4c30-40bb-b56b-0ce241aa0a67",
-    "044c0ab9-0c6f-400a-832e-426b0d772a1c",
-    "f8bb912b-0265-46cc-8d43-80f37f698c19",
     "eb1ed871-41ce-4970-8e1e-297bf7c9bf94",
+    "f8bb912b-0265-46cc-8d43-80f37f698c19",
     "text_and_image_FfLNxM",
     "text_and_image_UP4bNh",
     "6f2fbd9e-5b49-4ccc-a381-5923f6db891b",
     "c36f87ae-55a5-446e-9a7b-b0a8fc17e85c",
-    "d9fef651-cc0c-4a72-8e0d-9fcea74120ab",
-    "79659a6a-b971-4648-ac78-fb8a8d600061"
+    "text_and_image_937ThN",
+    "d9fef651-cc0c-4a72-8e0d-9fcea74120ab"
   ]
 }
