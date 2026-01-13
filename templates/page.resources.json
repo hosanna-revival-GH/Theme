@@ -97,7 +97,7 @@
             "link_text": "Explore",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#e6e6e6",
+            "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-402.jpg",
             "parallax_direction": "top",
