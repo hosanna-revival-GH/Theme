@@ -456,6 +456,63 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "slideshow_XknFrE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jcRwBd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify://pages/free-resources",
+            "link_text": "Explore other Free Resources",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-398.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        },
+        "image_TJ8mp3": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_jcRwBd",
+        "image_TJ8mp3"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -476,6 +533,7 @@
     "6f2fbd9e-5b49-4ccc-a381-5923f6db891b",
     "c36f87ae-55a5-446e-9a7b-b0a8fc17e85c",
     "text_and_image_937ThN",
-    "d9fef651-cc0c-4a72-8e0d-9fcea74120ab"
+    "d9fef651-cc0c-4a72-8e0d-9fcea74120ab",
+    "slideshow_XknFrE"
   ]
 }
