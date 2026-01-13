@@ -260,6 +260,44 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "slideshow_DeyHNQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EihW9V": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/free-resources",
+            "link_text": "Explore other Free Resources",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-331.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_EihW9V"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -272,6 +310,7 @@
     "text_and_image_yyJzPF",
     "text_and_image_AL4mXe",
     "text_and_image_pFFz7W",
-    "text_and_image_ziBT9g"
+    "text_and_image_ziBT9g",
+    "slideshow_DeyHNQ"
   ]
 }
