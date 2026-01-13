@@ -83,43 +83,6 @@
         "space_below": 0
       }
     },
-    "rich_text_CxTEHi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_LgMrbJ": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Featured Resources"
-          }
-        },
-        "text_FRhrFe": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>intentional tools for this season</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_LgMrbJ",
-        "text_FRhrFe"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
     "rich_text_YXVYKW": {
       "type": "rich-text",
       "blocks": {
@@ -309,28 +272,6 @@
         "space_below": 0
       }
     },
-    "f8bb912b-0265-46cc-8d43-80f37f698c19": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/lockscreens.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Hosanna Revival",
-        "title": "Lockscreens",
-        "text": "<p>We are so excited to have free downloadable lock screens for you! We hope you will use these lock screens in two ways: First, as a regular reminder of truth. And second, as a Scripture memorization tool.</p>",
-        "button_label": "View All",
-        "button_link": "shopify://blogs/lock-screens",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "text_and_image_FfLNxM": {
       "type": "text-and-image",
       "settings": {
@@ -500,7 +441,6 @@
     "main",
     "slideshow_9RcKVi",
     "rich_text_wXk4Ga",
-    "rich_text_CxTEHi",
     "rich_text_YXVYKW",
     "text_and_image_pFFz7W",
     "text_and_image_ziBT9g",
@@ -508,7 +448,6 @@
     "f1879c68-6ab4-486f-ac66-4de42d233767",
     "text_and_image_B4p3Ej",
     "eb1ed871-41ce-4970-8e1e-297bf7c9bf94",
-    "f8bb912b-0265-46cc-8d43-80f37f698c19",
     "text_and_image_FfLNxM",
     "text_and_image_UP4bNh",
     "6f2fbd9e-5b49-4ccc-a381-5923f6db891b",
