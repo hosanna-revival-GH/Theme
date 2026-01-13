@@ -80,7 +80,7 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 50,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "rich_text_CxTEHi": {
@@ -478,35 +478,16 @@
             "overlay_opacity": 0,
             "disable_border_button": false
           }
-        },
-        "image_TJ8mp3": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
         }
       },
       "block_order": [
-        "image_jcRwBd",
-        "image_TJ8mp3"
+        "image_jcRwBd"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
