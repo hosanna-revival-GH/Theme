@@ -299,7 +299,7 @@
             "link_text": "Explore",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#717057",
+            "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/lockscreens.jpg",
             "parallax_direction": "top",
