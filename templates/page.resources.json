@@ -121,6 +121,23 @@
         "disable_animation": false
       }
     },
+    "blocks_haCLic": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_a02e7d2_QVDjdx": {
+          "type": "ai_gen_block_a02e7d2",
+          "settings": {
+            "desktop_width_percent": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_a02e7d2_QVDjdx"
+      ],
+      "name": "Blank block",
+      "settings": {}
+    },
     "slideshow_cbdcXw": {
       "type": "slideshow",
       "blocks": {
@@ -356,23 +373,6 @@
         "ai_gen_block_a02e7d2_qAyyCh"
       ],
       "settings": {}
-    },
-    "blocks_haCLic": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_a02e7d2_QVDjdx": {
-          "type": "ai_gen_block_a02e7d2",
-          "settings": {
-            "desktop_width_percent": 100
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_a02e7d2_QVDjdx"
-      ],
-      "name": "Blank block",
-      "settings": {}
     }
   },
   "order": [
@@ -380,6 +380,7 @@
     "slideshow_9RcKVi",
     "rich_text_wXk4Ga",
     "slideshow_aQLr4W",
+    "blocks_haCLic",
     "slideshow_cbdcXw",
     "blocks_MhEcYU",
     "slideshow_naeeGB",
@@ -387,7 +388,6 @@
     "rich_text_9GjWhF",
     "slideshow_7QERea",
     "79659a6a-b971-4648-ac78-fb8a8d600061",
-    "1768333141b24f136c",
-    "blocks_haCLic"
+    "1768333141b24f136c"
   ]
 }
