@@ -323,22 +323,6 @@
         "disable_animation": false
       }
     },
-    "1768333141b24f136c": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_a02e7d2_qAyyCh": {
-          "type": "ai_gen_block_a02e7d2",
-          "settings": {
-            "desktop_width_percent": 100
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_a02e7d2_qAyyCh"
-      ],
-      "settings": {}
-    },
     "text_and_image_edxqRx": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -412,7 +396,6 @@
     "blocks_bJp9Ak",
     "rich_text_9GjWhF",
     "slideshow_7QERea",
-    "1768333141b24f136c",
     "text_and_image_edxqRx",
     "slideshow_actwJf"
   ]
