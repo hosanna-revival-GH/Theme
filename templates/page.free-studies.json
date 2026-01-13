@@ -133,7 +133,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>to help you understand God's Word deeper</em></p>",
+            "text": "<p><em>to help you understand God</em>’<em>s Word deeper</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 0
           }
