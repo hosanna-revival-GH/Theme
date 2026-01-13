@@ -356,27 +356,6 @@
         "lazyload_images": true
       }
     },
-    "text_and_image_937ThN": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/WHEN-site.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "Hosanna Revival Publishing",
-        "title": "WHEN: Life’s Questions, Scripture’s Answers",
-        "text": "<p><em>WHEN</em> is a branch of <a href=\"/pages/publishing\" target=\"_blank\" title=\"Publishing\">Hosanna Revival Publishing</a> that partners with writers from our community to hold wild and weighty topics up to the light of Scripture. Find the article that relates to your question or heartache in this season.</p>",
-        "button_label": "Begin Reading",
-        "button_link": "https://hosannarevival.blog/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "d9fef651-cc0c-4a72-8e0d-9fcea74120ab": {
       "type": "text-and-image",
       "settings": {
@@ -452,7 +431,6 @@
     "text_and_image_UP4bNh",
     "6f2fbd9e-5b49-4ccc-a381-5923f6db891b",
     "c36f87ae-55a5-446e-9a7b-b0a8fc17e85c",
-    "text_and_image_937ThN",
     "d9fef651-cc0c-4a72-8e0d-9fcea74120ab",
     "slideshow_XknFrE"
   ]
