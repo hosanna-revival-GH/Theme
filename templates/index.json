@@ -104,8 +104,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_2.png",
-            "image_mobile": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_5.png",
+            "image": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_2.png",
+            "image_mobile": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_176_copy_9.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -125,19 +125,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Which Tool will excite you to engage in Scripture?",
-        "home_featured_products": "best-sellers",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_gW9EVE": {
@@ -175,6 +162,97 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "slideshow_GcPDX3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nrgk3e": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/devotionals",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_7.png",
+            "image_mobile": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_6.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Nrgk3e"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Choose your study",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/bible-toolkit",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_10.png",
+            "image_mobile": "shopify://shop_images/Post_Best_Sellers_Sale-16.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -279,46 +357,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_GcPDX3": {
-      "type": "slideshow",
-      "blocks": {
-        "image_Nrgk3e": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/planners",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/12-26-25_web_Artboard_2_copy_4.png",
-            "image_mobile": "shopify://shop_images/12-26-25_web_Artboard_2_copy_3-11.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_Nrgk3e"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "slideshow_YNbwrF": {
@@ -472,46 +510,6 @@
         "lazyload_images": true
       }
     },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://Hosannarevival.com/pages/kingdom-come",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-023.png",
-            "image_mobile": "shopify://shop_images/BFCM-Begins-Homepage-021_7b75978b-9ab4-4f82-b7b0-092813d761cc.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_gyMt8x": {
       "type": "slideshow",
       "blocks": {
@@ -594,16 +592,16 @@
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
     "slideshow_bGCPEX",
-    "featured_collection_AbN8iP",
     "slideshow_gW9EVE",
+    "slideshow_GcPDX3",
+    "featured_collection_AbN8iP",
+    "slideshow_8GYyKV",
     "hero_video_EzmjCm",
     "promo_grid_UydWcM",
     "promo_grid_BftCNi",
-    "slideshow_GcPDX3",
     "slideshow_YNbwrF",
     "promo_grid_cMUWra",
     "promo_grid_MmC94X",
-    "slideshow_8GYyKV",
     "slideshow_gyMt8x",
     "slideshow_LAdPKf"
   ]
