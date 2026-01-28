@@ -1,0 +1,208 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true,
+        "background_color": ""
+      }
+    },
+    "slideshow_pW9F7q": {
+      "type": "slideshow",
+      "blocks": {
+        "image_wkrdTM": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/B2b-Greetings-From-Cincy_1.png",
+            "image_mobile": "shopify://shop_images/B2b-Greetings-From-Cincy_1.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_wkrdTM"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "rich_text_fYpPiJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FnKicL": {
+          "type": "heading",
+          "settings": {
+            "title": "Hello from Cincinnati!"
+          }
+        },
+        "text_XY3R7h": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Although we can't make it to AmericasMart this summer, enjoy 10% off on your next order through the link below. You can also begin shopping on Faire or reach out to one of our sales representatives for any questions!  </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_cbUPjh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>With love, <br/></em>Ben, Monica, Madison and Audra</p>",
+            "align_text_block": "center",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_FnKicL",
+        "text_XY3R7h",
+        "text_cbUPjh"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b1a057",
+        "color_text": "#fff6e0",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "text_columns_G6tbm3": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_LcMzkf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival337.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Get 10% off",
+            "text": "<p>Place an order on our B2B site and receive an exclusive 10% off discount on your next order. </p>",
+            "button_label": "Claim Discount",
+            "button_link": "https://b2b.hosannarevival.com/discount/Atlanta25"
+          }
+        },
+        "text_block_xN89eB": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival421.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Shop on Faire",
+            "text": "<p>Shop our products and tools using the wholesale platform, Faire. </p>",
+            "button_label": "Shop on Faire",
+            "button_link": "https://www.faire.com/direct/hosannarevival?signUp=direct"
+          }
+        },
+        "text_block_Qnxb7D": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival332_1.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Get in contact with us",
+            "text": "<p>Get in contact with a sales representative to discuss next steps for your shop!</p>",
+            "button_label": "Email a sales rep",
+            "button_link": "mailto:sales@hosannarevival.com"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_LcMzkf",
+        "text_block_xN89eB",
+        "text_block_Qnxb7D"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_d7TnqX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_YBNTM8": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://b2b.hosannarevival.com/discount/Atlanta25",
+            "link_text": "SHOP NOW",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival002_1fbf3bea-4b0c-47e9-9361-eb2ed46fde7c.jpg",
+            "image_mobile": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival002_1fbf3bea-4b0c-47e9-9361-eb2ed46fde7c.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_YBNTM8"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_pW9F7q",
+    "rich_text_fYpPiJ",
+    "text_columns_G6tbm3",
+    "slideshow_d7TnqX"
+  ]
+}
