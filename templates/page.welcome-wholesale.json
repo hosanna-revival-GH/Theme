@@ -18,44 +18,6 @@
         "background_color": ""
       }
     },
-    "slideshow_Rh396J": {
-      "type": "slideshow",
-      "blocks": {
-        "image_pmC9mq": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival008.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_pmC9mq"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "17696319479c4373ac": {
       "type": "_blocks",
       "blocks": {
@@ -72,8 +34,8 @@
             "border_hover_color": "#e8e8e1",
             "border_width": 0,
             "border_radius": 0,
-            "font_size": 20,
-            "font_size_mobile": 20,
+            "font_size": 18,
+            "font_size_mobile": 16,
             "font_weight": "600",
             "text_transform": "uppercase",
             "letter_spacing": 1,
@@ -129,6 +91,44 @@
       "name": "Full width button",
       "settings": {}
     },
+    "slideshow_Rh396J": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pmC9mq": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://b2b.hosannarevival.com/",
+            "link_text": "shop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival008.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_pmC9mq"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "text_columns_G6tbm3": {
       "type": "text-columns",
       "blocks": {
@@ -177,50 +177,12 @@
         "text_block_xN89eB",
         "text_block_Qnxb7D"
       ],
+      "disabled": true,
       "name": "t:sections.text-columns.presets.text_columns_with_images.name",
       "settings": {
         "title": "",
         "align_text": "center",
         "divider": false
-      }
-    },
-    "slideshow_d7TnqX": {
-      "type": "slideshow",
-      "blocks": {
-        "image_YBNTM8": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://b2b.hosannarevival.com/discount/Atlanta25",
-            "link_text": "SHOP NOW",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival002_1fbf3bea-4b0c-47e9-9361-eb2ed46fde7c.jpg",
-            "image_mobile": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival002_1fbf3bea-4b0c-47e9-9361-eb2ed46fde7c.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_YBNTM8"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     }
   },
@@ -229,7 +191,6 @@
     "17696319479c4373ac",
     "blocks_Yp7cfX",
     "slideshow_Rh396J",
-    "text_columns_G6tbm3",
-    "slideshow_d7TnqX"
+    "text_columns_G6tbm3"
   ]
 }
