@@ -18,90 +18,78 @@
         "background_color": ""
       }
     },
-    "slideshow_pW9F7q": {
-      "type": "slideshow",
+    "17696319479c4373ac": {
+      "type": "_blocks",
       "blocks": {
-        "image_wkrdTM": {
-          "type": "image",
+        "ai_gen_block_71b341e_D7KBBm": {
+          "type": "ai_gen_block_71b341e",
           "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/B2b-Greetings-From-Cincy_1.png",
-            "image_mobile": "shopify://shop_images/B2b-Greetings-From-Cincy_1.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
+            "button_text": "Log Into B2b.Hosannarevival.com",
+            "button_link": "",
+            "button_color": "#b5a04a",
+            "button_hover_color": "#f5eee5",
+            "button_text_color": "#f5eee5",
+            "button_hover_text_color": "#b5a04a",
+            "border_color": "#e8e8e1",
+            "border_hover_color": "#e8e8e1",
+            "border_width": 0,
+            "border_radius": 0,
+            "font_size": 20,
+            "font_size_mobile": 20,
+            "font_weight": "600",
+            "text_transform": "uppercase",
+            "letter_spacing": 1,
+            "button_padding": 48,
+            "button_padding_mobile": 28,
+            "vertical_padding": 20,
+            "vertical_padding_mobile": 15,
+            "horizontal_padding": 0,
+            "horizontal_padding_mobile": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "image_wkrdTM"
+        "ai_gen_block_71b341e_D7KBBm"
       ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
+      "settings": {}
     },
-    "rich_text_fYpPiJ": {
-      "type": "rich-text",
+    "blocks_Yp7cfX": {
+      "type": "_blocks",
       "blocks": {
-        "heading_FnKicL": {
-          "type": "heading",
+        "ai_gen_block_71b341e_caEMq8": {
+          "type": "ai_gen_block_71b341e",
           "settings": {
-            "title": "Hello from Cincinnati!"
-          }
-        },
-        "text_XY3R7h": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Although we can't make it to AmericasMart this summer, enjoy 10% off on your next order through the link below. You can also begin shopping on Faire or reach out to one of our sales representatives for any questions!  </p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
-        "text_cbUPjh": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><em>With love, <br/></em>Ben, Monica, Madison and Audra</p>",
-            "align_text_block": "center",
-            "block_bottom_space": 30
-          }
+            "button_text": "Don't have an account? Email sales@hosannarevival.com",
+            "button_link": "",
+            "button_color": "#b5a04a",
+            "button_hover_color": "#f5eee5",
+            "button_text_color": "#f5eee5",
+            "button_hover_text_color": "#b5a04a",
+            "border_color": "#e8e8e1",
+            "border_hover_color": "#717057",
+            "border_width": 0,
+            "border_radius": 0,
+            "font_size": 18,
+            "font_size_mobile": 16,
+            "font_weight": "600",
+            "text_transform": "uppercase",
+            "letter_spacing": 1,
+            "button_padding": 50,
+            "button_padding_mobile": 28,
+            "vertical_padding": 20,
+            "vertical_padding_mobile": 15,
+            "horizontal_padding": 0,
+            "horizontal_padding_mobile": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "heading_FnKicL",
-        "text_XY3R7h",
-        "text_cbUPjh"
+        "ai_gen_block_71b341e_caEMq8"
       ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#b1a057",
-        "color_text": "#fff6e0",
-        "space_above": 30,
-        "space_below": 30
-      }
+      "name": "Full width button",
+      "settings": {}
     },
     "text_columns_G6tbm3": {
       "type": "text-columns",
@@ -200,8 +188,8 @@
   },
   "order": [
     "main",
-    "slideshow_pW9F7q",
-    "rich_text_fYpPiJ",
+    "17696319479c4373ac",
+    "blocks_Yp7cfX",
     "text_columns_G6tbm3",
     "slideshow_d7TnqX"
   ]
