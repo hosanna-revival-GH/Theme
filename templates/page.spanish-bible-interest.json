@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_TVRQX7": {
@@ -24,18 +25,19 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "The Spanish Bible Survey",
-            "title_size": 72,
-            "subheading": "Encuesta para Biblias en Español",
+            "title": "Beautiful Spanish Bibles",
+            "title_size": 44,
+            "subheading": "Coming July 2026",
             "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link",
-            "link_text": "Take the Survey",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Web-Spanish-Bible-Survey-Header-03.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_pAXzYJ": {
@@ -65,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>¡Ayúdanos a crear hermosas Biblias en Español llenando esta encuesta!</p>",
+            "text": "<p>¿Quieres una Biblia hermosa en español? Regístrate para ser de los primeros en recibir noticias cuando estén disponibles.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -87,41 +90,6 @@
         "space_below": 35
       }
     },
-    "image_row_RYP8Kz": {
-      "type": "image-row",
-      "blocks": {
-        "image_77": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Button-Take-Survey-Spanish.jpg",
-            "image_width": 650,
-            "caption": "",
-            "link": "https://docs.google.com/forms/d/e/1FAIpQLSdSLww89bRDo0s6H_aHVrbTuGkhwMEhY8EDOAuRMCH7nYVffw/viewform?usp=sf_link"
-          }
-        },
-        "image_78": {
-          "type": "image",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Button-Take-Survey-English.jpg",
-            "image_width": 650,
-            "caption": "",
-            "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link"
-          }
-        }
-      },
-      "block_order": [
-        "image_77",
-        "image_78"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "enable_spacing": true,
-        "enable_zoom": false
-      }
-    },
     "faq_WiR73L": {
       "type": "faq",
       "blocks": {
@@ -129,13 +97,14 @@
           "type": "question",
           "settings": {
             "title": "Read this page in English",
-            "text": "<p><strong>Do you want a beautiful Spanish Bible? Help us create beautiful Spanish Bibles by taking </strong><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link\" target=\"_blank\" title=\"The Spanish Bible Survey from Hosanna Revival - in English\"><strong>our survey</strong></a><strong>!</strong></p><p><strong>Why beautiful Spanish Bibles? </strong>For years we have dreamt of creating a beautiful Spanish Bible. Our founder Katie’s first hand-painted Bible was a Spanish-English translation, and now, 9 years later, our growing small business is ready to explore creating Hosanna Revival Spanish Bibles. </p><p><strong>Is this survey for you? </strong>Do you (or someone you know) want a beautiful Spanish Bible? To consider bringing this project to life,<strong> we need at least 2000 responses</strong> to this survey. If you are not interested in Spanish Bibles to buy for yourself or a friend, share this survey with friends and family—anyone who would love one!</p><p><strong>Get 20% Off</strong>: If we launch beautiful Spanish Bibles, we want to celebrate your part in making this happen. As a thank you, on launch day we’ll send you a 20% off code to use towards our Hosanna Revival Spanish Bible collection. </p><p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link\" target=\"_blank\" title=\"Spanish Bible Survey from Hosanna Revival - in English\"><strong>Click here</strong></a><strong> to take the survey.</strong></p>"
+            "text": ""
           }
         }
       },
       "block_order": [
         "question_yBW66d"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "title": "",
@@ -157,6 +126,7 @@
       "block_order": [
         "heading_Mf7zXA"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -175,7 +145,7 @@
         "image": "shopify://shop_images/Hosanna-Revival-History-About-Us-011.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "Acerca de Nosotros",
+        "subtitle": "",
         "title": "¿Por qué crear hermosas Biblias en Español?",
         "text": "<p>Por años hemos soñado con la creación de una hermosa Biblia en Español. La primera Biblia pintada a mano de nuestra fundadora, Katie, fué una traducción Bilingüe en Inglés y Español, ahora, 9 años después, nuestro pequeño negocio crece, y estamos listos para explorar la producción de las Biblias en Español de Hosanna Revival. </p>",
         "button_label": "",
@@ -192,6 +162,7 @@
     },
     "text_and_image_j9E3eP": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-60.jpg",
         "image_mask": "none",
@@ -213,13 +184,16 @@
     },
     "single_button_CHkCz7": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Llena la Encuesta",
         "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSdSLww89bRDo0s6H_aHVrbTuGkhwMEhY8EDOAuRMCH7nYVffw/viewform?usp=sf_link",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "rich_text_8JHTTE": {
@@ -245,6 +219,7 @@
         "heading_3p9rmM",
         "text_UYcwRa"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -268,20 +243,22 @@
             "title_size": 80,
             "subheading": "",
             "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link",
-            "link_text": "Take the Survey",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-001.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
       "block_order": [
         "image_j8hLVa"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "550px",
         "mobile_height": "auto",
@@ -289,7 +266,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
@@ -297,7 +275,6 @@
     "main",
     "slideshow_TVRQX7",
     "rich_text_pAXzYJ",
-    "image_row_RYP8Kz",
     "faq_WiR73L",
     "rich_text_m9xRmb",
     "text_and_image_dmaU4R",
