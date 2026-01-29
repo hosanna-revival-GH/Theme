@@ -200,7 +200,16 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>“Join me in this Holy Week devotional as we journey from tree to tree to discover the stories they tell. We will explore the important lessons associated with the palm tree, sycamore tree, fig tree, olive tree, and others. I hope the images of these trees will help us see how God has brought us all from death to life and marvel at Jesus’s great sacrifice. After all, it is Christ who “bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed” (1 Peter 2:24).”</p><p><em>- Author, Jordan Moody</em></p>",
+            "text": "<p>“Join me in this Holy Week devotional as we journey from tree to tree to discover the stories they tell. We will explore the important lessons associated with the palm tree, sycamore tree, fig tree, olive tree, and others. I hope the images of these trees will help us see how God has brought us all from death to life and marvel at Jesus’s great sacrifice. After all, it is Christ who “bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed” (1 Peter 2:24).”</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_JQk6KD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>- Author, Jordan Moody</em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -208,7 +217,8 @@
       },
       "block_order": [
         "heading_e7agQd",
-        "text_UyBy4T"
+        "text_UyBy4T",
+        "text_JQk6KD"
       ],
       "settings": {
         "align_text": "center",
