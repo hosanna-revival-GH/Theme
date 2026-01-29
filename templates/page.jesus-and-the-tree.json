@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "advanced_content_RycVwR": {
@@ -44,6 +45,7 @@
       "blocks": {
         "image_QEwKdQ": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
@@ -66,6 +68,7 @@
       "block_order": [
         "image_QEwKdQ"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -83,7 +86,7 @@
         "klaviyo_email_marketing_sms_form_embed_block_chM9AH": {
           "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "formId": "<div class=\"klaviyo-form-XeFNZT\"></div>"
+            "formId": ""
           }
         }
       },
@@ -104,14 +107,14 @@
         "heading_gxycHK": {
           "type": "heading",
           "settings": {
-            "title": "Broken for you: a holy week study"
+            "title": "Jesus & the Tree: a holy week study"
           }
         },
         "text_3PPgBT": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>This free, 8-day Holy Week email series by Brooke Jackson explores the brokenness of the cross and the lessons we can learn from Jesus.</em></p>",
+            "text": "<p><em>This free, 8-day Holy Week email series by Jordan Moody guides readers through Scripture, tracing the story of salvation from the Garden of Eden to the empty tomb—moving from the tree of the knowledge of good and evil, to the cross, and ultimately to the tree of life.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -167,7 +170,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "When",
-            "text": "<p>Begins with Day One<br/>in your inbox today</p>",
+            "text": "<p>Begins with the introduction in your inbox on March 28th.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -187,17 +190,24 @@
     "rich_text_c4Jkjm": {
       "type": "rich-text",
       "blocks": {
+        "heading_e7agQd": {
+          "type": "heading",
+          "settings": {
+            "title": "From the author"
+          }
+        },
         "text_UyBy4T": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Broken for You</em> invites followers of Jesus to walk through Holy Week with him, witnessing his brokenness along the way and considering what his example means for us. </p><p>It extends an invitation for us to take up our cross and follow Jesus into brokenness. Are we willing to give up ease and reputation for the benefit of others? Or is it easier to remain comfortable in our faith, unwilling to walk the path Jesus did? </p><p><em>Broken for You</em> beckons readers to participate in God’s kingdom, even when it is uncomfortable, and to see the riches of his glory that accompany a life surrendered to his use. </p>",
+            "text": "<p>“Join me in this Holy Week devotional as we journey from tree to tree to discover the stories they tell. We will explore the important lessons associated with the palm tree, sycamore tree, fig tree, olive tree, and others. I hope the images of these trees will help us see how God has brought us all from death to life and marvel at Jesus’s great sacrifice. After all, it is Christ who “bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed” (1 Peter 2:24).”</p><p><em>- Author, Jordan Moody</em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
+        "heading_e7agQd",
         "text_UyBy4T"
       ],
       "settings": {
@@ -215,12 +225,12 @@
     "text_and_image_e8aLL4": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/BROOKE-JACKSON-3.jpg",
+        "image": "shopify://shop_images/Jordan_Moody_Author_Photo_Nov_2025_3.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "From our author Brooke Jackson",
-        "title": "The Heart Behind the Series",
-        "text": "<p>“One of my favorite childhood photos is from Easter Sunday thirty-five years ago. My cousins and I are in the church parking lot after service. We’re all dressed to impress—little suits and frilly dresses, tights, and shiny patent leather shoes. They are smiling ear to ear while I scowl at the camera, arms tightly crossed. I can’t tell you what I was mad about at that exact moment, but I know that spending hours in itchy clothes and sitting on uncomfortable pews for the longest service of the year was not my jam. Back then, I did not understand why this Sunday was such a big deal compared to all the others. Decades later, I have learned to see Easter a lot differently.”</p>",
+        "subtitle": "Introducing",
+        "title": "Jordan Moody",
+        "text": "<p>Jordan Moody is the lead pastor at Hope Fellowship Church in Jaffrey, New Hampshire, and a graduate of Bob Jones University and Liberty Theological Seminary. When he’s not writing or reading, Jordan enjoys cheering on his favorite sports teams, triathlons, hiking, skiing, and coaching soccer. Above all, he treasures quality time with his wife and children. He is the author of our newest book, <a href=\"/pages/heaven-and-earth\" title=\"Heaven & Earth\">Heaven & Earth</a>.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -235,6 +245,7 @@
     },
     "text_and_image_73PWdj": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-096.jpg",
         "image_mask": "none",
@@ -256,6 +267,7 @@
     },
     "text_and_image_JeiczU": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image_mask": "none",
         "image2": "shopify://shop_images/Broken-for-You-Holy-Week-Series-Hosanna-Revival.png",
@@ -277,6 +289,7 @@
     },
     "text_and_image_EBFKWm": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival-188.jpg",
         "image_mask": "none",
