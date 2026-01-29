@@ -131,7 +131,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_text": "#311720",
         "space_above": 75,
         "space_below": 30
       }
@@ -217,7 +217,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_text": "#311720",
         "space_above": 0,
         "space_below": 30
       }
@@ -318,7 +318,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 40,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     }
