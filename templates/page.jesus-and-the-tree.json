@@ -1,0 +1,327 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "advanced_content_RycVwR": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_RpWcHE": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"width:100%;height:500px;\" data-fillout-id=\"fBE9kEtaZQus\" data-fillout-embed-type=\"standard\" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src=\"https://server.fillout.com/embed/v1/\"></script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_RpWcHE"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_XhTnCC": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QEwKdQ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 45,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/broken-for-you-header-01_1.png",
+            "image_mobile": "shopify://shop_images/broken-for-you-header-02_1.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QEwKdQ"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "174138386876df961a": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_chM9AH": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "<div class=\"klaviyo-form-XeFNZT\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_chM9AH"
+      ],
+      "custom_css": [
+        ".klaviyo-form-XeFNZT {background-color: rgb(247, 240, 232);}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "rich_text_bhi4yf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gxycHK": {
+          "type": "heading",
+          "settings": {
+            "title": "Broken for you: a holy week study"
+          }
+        },
+        "text_3PPgBT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>This free, 8-day Holy Week email series by Brooke Jackson explores the brokenness of the cross and the lessons we can learn from Jesus.</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_gxycHK",
+        "text_3PPgBT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 30
+      }
+    },
+    "text_columns_VdrNGW": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_HTHeGR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "What",
+            "text": "<p>Our annual 8-day <br/>Holy Week email series</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_VG3YTN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Why",
+            "text": "<p>To prepare your heart <br/>to celebrate Easter</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_3Yyach": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "When",
+            "text": "<p>Begins with Day One<br/>in your inbox today</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HTHeGR",
+        "text_block_VG3YTN",
+        "text_block_3Yyach"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "rich_text_c4Jkjm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_UyBy4T": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Broken for You</em> invites followers of Jesus to walk through Holy Week with him, witnessing his brokenness along the way and considering what his example means for us. </p><p>It extends an invitation for us to take up our cross and follow Jesus into brokenness. Are we willing to give up ease and reputation for the benefit of others? Or is it easier to remain comfortable in our faith, unwilling to walk the path Jesus did? </p><p><em>Broken for You</em> beckons readers to participate in God’s kingdom, even when it is uncomfortable, and to see the riches of his glory that accompany a life surrendered to his use. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_UyBy4T"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 30
+      }
+    },
+    "text_and_image_e8aLL4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/BROOKE-JACKSON-3.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "From our author Brooke Jackson",
+        "title": "The Heart Behind the Series",
+        "text": "<p>“One of my favorite childhood photos is from Easter Sunday thirty-five years ago. My cousins and I are in the church parking lot after service. We’re all dressed to impress—little suits and frilly dresses, tights, and shiny patent leather shoes. They are smiling ear to ear while I scowl at the camera, arms tightly crossed. I can’t tell you what I was mad about at that exact moment, but I know that spending hours in itchy clothes and sitting on uncomfortable pews for the longest service of the year was not my jam. Back then, I did not understand why this Sunday was such a big deal compared to all the others. Decades later, I have learned to see Easter a lot differently.”</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_73PWdj": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-096.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>“Though not as flashy as Christmas celebrations can be, the week of Jesus’s passion—Holy Week—is the centerpiece around which our faith revolves. Jesus’s death and resurrection are the moment of redemption. And while that is something we mostly rejoice in, the week leading up to the resurrection was not wholly celebratory. Instead, it was full of sorrow, pain, and rejection. It was a week in which Jesus was abandoned by his friends, ridiculed and mocked by the religious and those in power, and ultimately condemned to die. In that week, Jesus was broken. Yet it is only in his brokenness that our salvation is realized.”</p><p><em>— Brooke Jackson</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JeiczU": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2": "shopify://shop_images/Broken-for-You-Holy-Week-Series-Hosanna-Revival.png",
+        "image2_mask": "none",
+        "subtitle": "Download for Free",
+        "title": "Broken for You PDF",
+        "text": "<p>Prefer to work at your own pace or print out this study to go through with a group? Download the whole PDF below!</p>",
+        "button_label": "Download for Free",
+        "button_link": "https://hosannarevival.com/broken-for-you-pdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EBFKWm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival-188.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Meet the author",
+        "title": "About Brooke Jackson",
+        "text": "<p>Brooke Jackson has been a public defender since 2006, advocating for children and teenagers in Ohio’s legal system and representing them in state and federal court. She came to her work as she was being drawn into God’s heart for those who are vulnerable and in need. Brooke has been a follower of Jesus since she was a teenager. While earning her degree in English (with a focus on creative writing), she was active in various campus ministries, worked with other college students, and led and taught Bible studies, devotionals, and women’s retreats. Brooke’s career has given her opportunities to utilize a Christ-centered lens to train faith communities on the intersection of faith and justice.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_wAyPa7": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Explore other free studies",
+        "button_link": "shopify://pages/free-resources",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 40,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "advanced_content_RycVwR",
+    "slideshow_XhTnCC",
+    "174138386876df961a",
+    "rich_text_bhi4yf",
+    "text_columns_VdrNGW",
+    "rich_text_c4Jkjm",
+    "text_and_image_e8aLL4",
+    "text_and_image_73PWdj",
+    "text_and_image_JeiczU",
+    "text_and_image_EBFKWm",
+    "single_button_wAyPa7"
+  ]
+}
