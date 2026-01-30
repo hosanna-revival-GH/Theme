@@ -18,6 +18,45 @@
         "background_color": ""
       }
     },
+    "slideshow_gBChLN": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KCH7md": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/B2b_Header_for_Spring_Collection_Preview.png",
+            "image_mobile": "shopify://shop_images/B2b_Header_for_Spring_Collection_Preview.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_KCH7md"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "17696319479c4373ac": {
       "type": "_blocks",
       "blocks": {
@@ -26,10 +65,10 @@
           "settings": {
             "button_text": "Log Into B2b.Hosannarevival.com",
             "button_link": "",
-            "button_color": "#b5a04a",
-            "button_hover_color": "#f5eee5",
+            "button_color": "#839276",
+            "button_hover_color": "#839276",
             "button_text_color": "#f5eee5",
-            "button_hover_text_color": "#b5a04a",
+            "button_hover_text_color": "#ffffff",
             "border_color": "#e8e8e1",
             "border_hover_color": "#e8e8e1",
             "border_width": 0,
@@ -39,8 +78,8 @@
             "font_weight": "600",
             "text_transform": "uppercase",
             "letter_spacing": 1,
-            "button_padding": 48,
-            "button_padding_mobile": 28,
+            "button_padding": 50,
+            "button_padding_mobile": 38,
             "vertical_padding": 20,
             "vertical_padding_mobile": 15,
             "horizontal_padding": 0,
@@ -61,11 +100,11 @@
           "type": "ai_gen_block_71b341e",
           "settings": {
             "button_text": "Don't have an account? Email sales@hosannarevival.com",
-            "button_link": "",
-            "button_color": "#b5a04a",
-            "button_hover_color": "#f5eee5",
+            "button_link": "mailto:sales@hosannarevival.com",
+            "button_color": "#839276",
+            "button_hover_color": "#839276",
             "button_text_color": "#f5eee5",
-            "button_hover_text_color": "#b5a04a",
+            "button_hover_text_color": "#ffffff",
             "border_color": "#e8e8e1",
             "border_hover_color": "#717057",
             "border_width": 0,
@@ -188,6 +227,7 @@
   },
   "order": [
     "main",
+    "slideshow_gBChLN",
     "17696319479c4373ac",
     "blocks_Yp7cfX",
     "slideshow_Rh396J",
