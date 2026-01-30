@@ -80,7 +80,7 @@
             "text_transform": "uppercase",
             "letter_spacing": 2,
             "button_padding": 32,
-            "button_padding_mobile": 28,
+            "button_padding_mobile": 36,
             "vertical_padding": 30,
             "vertical_padding_mobile": 25,
             "horizontal_padding": 0,
@@ -102,7 +102,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p><strong>Don't have an account?<br/></strong></p>",
+            "text": "<p><em>Don't have an account?<br/></em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 0
           }
@@ -146,7 +146,7 @@
             "text_transform": "uppercase",
             "letter_spacing": 2,
             "button_padding": 32,
-            "button_padding_mobile": 28,
+            "button_padding_mobile": 30,
             "vertical_padding": 20,
             "vertical_padding_mobile": 15,
             "horizontal_padding": 0,
