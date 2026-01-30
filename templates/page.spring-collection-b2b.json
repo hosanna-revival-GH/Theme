@@ -35,8 +35,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Best_Sellers_Sale-11.png",
-            "image_mobile": "shopify://shop_images/Best_Sellers_Sale-11.png",
+            "image": "shopify://shop_images/B2b_Header_for_Spring_Collection_Preview.png",
+            "image_mobile": "shopify://shop_images/B2b_Header_for_Spring_Collection_Preview.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -62,7 +62,7 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "10 articles on Spiritual Disciplines and Habits",
+        "button_text": "Log Into the wholesale site",
         "button_link": "https://hosannarevival.blog/category/monthly-highlights/january-2026-spiritual-disciplines-and-habits/",
         "button_size": "huge",
         "alignment": "center",
@@ -72,187 +72,41 @@
         "link_color_text": "#ffffff"
       }
     },
-    "single_button_eFchhW": {
-      "type": "single-button",
-      "disabled": true,
+    "rich_text_3iAh8b": {
+      "type": "rich-text",
+      "blocks": {
+        "text_KnFiN3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Don't have an account?<br/></strong><em>Email sales@hosannarevival.com to get set up</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_KnFiN3"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
-        "button_text": "Kingdom Come: A study for advent",
-        "button_link": "https://hosannarevival.com/pages/kingdom-come",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#311720",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_QbwFRq": {
-      "type": "single-button",
-      "disabled": true,
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "the Warehouse Sale! Join us in person",
-        "button_link": "shopify://pages/warehouse-sale",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#311720",
-        "link_color_text": "#ffffff"
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "single_button_hCmA7f": {
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "Preorder Heaven and Earth by Jordan Moody",
+        "button_text": "Send and email",
         "button_link": "https://hosannarevival.com/products/heaven-earth-by-jordan-moody",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_3L6q9A": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Explore The Winter Collection",
-        "button_link": "shopify://collections/winter-2025-collection",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_JD887j": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Spread the word collective",
-        "button_link": "https://hosannarevival.com/pages/spread-the-word",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_gX7jmw": {
-      "type": "single-button",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "button_text": "The 2025 spring collection",
-        "button_link": "shopify://collections/spring-2025-collection",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#b5a04a",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_GryJY9": {
-      "type": "single-button",
-      "disabled": true,
-      "settings": {
-        "button_text": "Our new devotional “Just”",
-        "button_link": "shopify://pages/just",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#b5a04a",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_KDXcyH": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Your new compact bible",
-        "button_link": "shopify://collections/nlt-compact-bibles",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_RAWt9g": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Prayer Journals",
-        "button_link": "shopify://collections/one-thing-i-ask",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_WA3rcU": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Choose Your Beautiful Bible",
-        "button_link": "shopify://collections/beautiful-bibles",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_N8Brir": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Read our latest \"WHEN\" article",
-        "button_link": "https://hosannarevival.blog",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_Hb3fCE": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Free Bible Toolkit",
-        "button_link": "shopify://pages/bible-toolkit",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_W8edVB": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Free Prayer Toolkit",
-        "button_link": "shopify://pages/prayer-toolkit",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_hTfmBz": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Free Lock Screens",
-        "button_link": "shopify://blogs/lock-screens",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -266,19 +120,7 @@
     "main",
     "slideshow_xWCjYr",
     "single_button_qAwKEz",
-    "single_button_eFchhW",
-    "single_button_QbwFRq",
-    "single_button_hCmA7f",
-    "single_button_3L6q9A",
-    "single_button_JD887j",
-    "single_button_gX7jmw",
-    "single_button_GryJY9",
-    "single_button_KDXcyH",
-    "single_button_RAWt9g",
-    "single_button_WA3rcU",
-    "single_button_N8Brir",
-    "single_button_Hb3fCE",
-    "single_button_W8edVB",
-    "single_button_hTfmBz"
+    "rich_text_3iAh8b",
+    "single_button_hCmA7f"
   ]
 }
