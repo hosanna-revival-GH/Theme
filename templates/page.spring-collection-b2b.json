@@ -160,6 +160,45 @@
       ],
       "name": "Full width button",
       "settings": {}
+    },
+    "slideshow_3JCFJw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_G7Wxbi": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-398.jpg",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-398.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_G7Wxbi"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -167,6 +206,7 @@
     "slideshow_xWCjYr",
     "blocks_88YDfV",
     "rich_text_3iAh8b",
-    "blocks_AqBBnV"
+    "blocks_AqBBnV",
+    "slideshow_3JCFJw"
   ]
 }
