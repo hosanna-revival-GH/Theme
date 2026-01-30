@@ -18,27 +18,6 @@
         "background_color": ""
       }
     },
-    "1769803330271faf56": {
-      "type": "apps",
-      "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_F8LBqg": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "RVkpDp"
-          }
-        }
-      },
-      "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_F8LBqg"
-      ],
-      "custom_css": [
-        ".klaviyo-form-RVkpDp {background-color: rgb(247, 240, 232);}"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false
-      }
-    },
     "slideshow_TVRQX7": {
       "type": "slideshow",
       "blocks": {
@@ -74,6 +53,27 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "1769803330271faf56": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_F8LBqg": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "RVkpDp"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_F8LBqg"
+      ],
+      "custom_css": [
+        ".klaviyo-form-RVkpDp {background-color: rgb(247, 240, 232);}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
       }
     },
     "text_and_image_pGnEkB": {
@@ -196,7 +196,7 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
-        "layout": "left",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -316,8 +316,8 @@
   },
   "order": [
     "main",
-    "1769803330271faf56",
     "slideshow_TVRQX7",
+    "1769803330271faf56",
     "text_and_image_pGnEkB",
     "rich_text_pAXzYJ",
     "faq_WiR73L",
