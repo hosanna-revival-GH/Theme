@@ -76,6 +76,28 @@
         "disable_animation": false
       }
     },
+    "text_and_image_pGnEkB": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Hosanna-Revival-History-About-Us-011.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Why create beautiful Bibles in Spanish?",
+        "text": "<p>For years, we have dreamed of creating a beautiful Bible in Spanish. The first Bible hand-painted by our founder, Katie, was a bilingual English–Spanish translation. Now, nine years later, our small business has grown, and we are ready to explore producing Hosanna Revival Spanish Bibles.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_pAXzYJ": {
       "type": "rich-text",
       "blocks": {
@@ -111,42 +133,6 @@
         "space_below": 35
       }
     },
-    "rich_text_f8TdbR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_CjinyU": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_CX3gxX": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_CjinyU",
-        "text_CX3gxX"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
     "faq_WiR73L": {
       "type": "faq",
       "blocks": {
@@ -161,6 +147,7 @@
       "block_order": [
         "question_yBW66d"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "title": "",
@@ -331,8 +318,8 @@
     "main",
     "1769803330271faf56",
     "slideshow_TVRQX7",
+    "text_and_image_pGnEkB",
     "rich_text_pAXzYJ",
-    "rich_text_f8TdbR",
     "faq_WiR73L",
     "rich_text_m9xRmb",
     "text_and_image_dmaU4R",
