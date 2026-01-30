@@ -111,6 +111,42 @@
         "space_below": 35
       }
     },
+    "rich_text_f8TdbR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CjinyU": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_CX3gxX": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_CjinyU",
+        "text_CX3gxX"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "faq_WiR73L": {
       "type": "faq",
       "blocks": {
@@ -125,7 +161,6 @@
       "block_order": [
         "question_yBW66d"
       ],
-      "disabled": true,
       "custom_css": [],
       "settings": {
         "title": "",
@@ -297,6 +332,7 @@
     "1769803330271faf56",
     "slideshow_TVRQX7",
     "rich_text_pAXzYJ",
+    "rich_text_f8TdbR",
     "faq_WiR73L",
     "rich_text_m9xRmb",
     "text_and_image_dmaU4R",
