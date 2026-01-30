@@ -128,7 +128,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#f5eee5",
+        "color_bg": "#ffffff",
         "color_text": "#2c3e1d",
         "space_above": 75,
         "space_below": 30
@@ -224,7 +224,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#f5eee5",
+        "color_bg": "#ffffff",
         "color_text": "#2c3e1d",
         "space_above": 0,
         "space_below": 30
