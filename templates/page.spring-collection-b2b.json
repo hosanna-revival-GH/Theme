@@ -65,7 +65,7 @@
           "type": "ai_gen_block_71b341e",
           "settings": {
             "button_text": "log into b2b.HosannaRevival.com",
-            "button_link": "",
+            "button_link": "https://b2b.hosannarevival.com",
             "button_color": "#839276",
             "button_hover_color": "#839276",
             "button_text_color": "#f5eee5",
@@ -131,7 +131,7 @@
           "type": "ai_gen_block_71b341e",
           "settings": {
             "button_text": "Email Sales@hosannarevival.com to make an account",
-            "button_link": "",
+            "button_link": "mailto:sales@hosannarevival.com",
             "button_color": "#839276",
             "button_hover_color": "#839276",
             "button_text_color": "#f5eee5",
