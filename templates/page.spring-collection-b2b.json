@@ -58,19 +58,42 @@
         "disable_animation": false
       }
     },
-    "single_button_qAwKEz": {
-      "type": "single-button",
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "Log Into the wholesale site",
-        "button_link": "https://hosannarevival.blog/category/monthly-highlights/january-2026-spiritual-disciplines-and-habits/",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
+    "blocks_88YDfV": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_71b341e_CrP3Jj": {
+          "type": "ai_gen_block_71b341e",
+          "settings": {
+            "button_text": "log into b2b.HosannaRevival.com",
+            "button_link": "",
+            "button_color": "#839276",
+            "button_hover_color": "#839276",
+            "button_text_color": "#f5eee5",
+            "button_hover_text_color": "#ffffff",
+            "border_color": "#e8e8e1",
+            "border_hover_color": "#717057",
+            "border_width": 0,
+            "border_radius": 0,
+            "font_size": 18,
+            "font_size_mobile": 16,
+            "font_weight": "600",
+            "text_transform": "uppercase",
+            "letter_spacing": 2,
+            "button_padding": 32,
+            "button_padding_mobile": 28,
+            "vertical_padding": 30,
+            "vertical_padding_mobile": 25,
+            "horizontal_padding": 0,
+            "horizontal_padding_mobile": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_71b341e_CrP3Jj"
+      ],
+      "name": "Full width button",
+      "settings": {}
     },
     "rich_text_3iAh8b": {
       "type": "rich-text",
@@ -79,7 +102,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p><strong>Don't have an account?<br/></strong><em>Email sales@hosannarevival.com to get set up</em></p>",
+            "text": "<p><strong>Don't have an account?<br/></strong></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 0
           }
@@ -95,32 +118,55 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
+        "color_bg": "#f5eee5",
         "color_text": "#000000",
         "space_above": 0,
         "space_below": 0
       }
     },
-    "single_button_hCmA7f": {
-      "type": "single-button",
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "Send and email",
-        "button_link": "https://hosannarevival.com/products/heaven-earth-by-jordan-moody",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
+    "blocks_AqBBnV": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_71b341e_xTcxRU": {
+          "type": "ai_gen_block_71b341e",
+          "settings": {
+            "button_text": "Email Sales@hosannarevival.com to make an account",
+            "button_link": "",
+            "button_color": "#839276",
+            "button_hover_color": "#839276",
+            "button_text_color": "#f5eee5",
+            "button_hover_text_color": "#f5eee5",
+            "border_color": "#e8e8e1",
+            "border_hover_color": "#717057",
+            "border_width": 0,
+            "border_radius": 0,
+            "font_size": 18,
+            "font_size_mobile": 16,
+            "font_weight": "600",
+            "text_transform": "uppercase",
+            "letter_spacing": 2,
+            "button_padding": 32,
+            "button_padding_mobile": 28,
+            "vertical_padding": 20,
+            "vertical_padding_mobile": 15,
+            "horizontal_padding": 0,
+            "horizontal_padding_mobile": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_71b341e_xTcxRU"
+      ],
+      "name": "Full width button",
+      "settings": {}
     }
   },
   "order": [
     "main",
     "slideshow_xWCjYr",
-    "single_button_qAwKEz",
+    "blocks_88YDfV",
     "rich_text_3iAh8b",
-    "single_button_hCmA7f"
+    "blocks_AqBBnV"
   ]
 }
