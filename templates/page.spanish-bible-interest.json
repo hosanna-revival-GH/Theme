@@ -76,6 +76,35 @@
         "space_around": false
       }
     },
+    "rich_text_rjGEr3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_P8dYQR": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Para leer esta página en español, sigue bajando.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_P8dYQR"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f5eee5",
+        "color_text": "#839276",
+        "space_above": 10,
+        "space_below": 10
+      }
+    },
     "text_and_image_pGnEkB": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -132,6 +161,23 @@
         "space_above": 40,
         "space_below": 40
       }
+    },
+    "blocks_NWeWHJ": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_a02e7d2_YTibMx": {
+          "type": "ai_gen_block_a02e7d2",
+          "settings": {
+            "desktop_width_percent": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_a02e7d2_YTibMx"
+      ],
+      "name": "Blank block",
+      "settings": {}
     },
     "rich_text_pAXzYJ": {
       "type": "rich-text",
@@ -353,8 +399,10 @@
     "main",
     "slideshow_TVRQX7",
     "1769803330271faf56",
+    "rich_text_rjGEr3",
     "text_and_image_pGnEkB",
     "rich_text_8JHTTE",
+    "blocks_NWeWHJ",
     "rich_text_pAXzYJ",
     "faq_WiR73L",
     "rich_text_m9xRmb",
