@@ -9,85 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_7_433a670b-fcdf-4359-9313-fd59eec43dd4.png",
-            "image_mobile": "shopify://shop_images/1_web-01.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_JzgDYA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QVcitx": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_8.png",
-            "image_mobile": "shopify://shop_images/1_web-12.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QVcitx"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_bGCPEX": {
       "type": "slideshow",
       "blocks": {
@@ -104,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_2.png",
-            "image_mobile": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_176_copy_9.png",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_10.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch-06.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -143,8 +64,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_4.png",
-            "image_mobile": "shopify://shop_images/Best_Sellers_Sale_Artboard_2_copy_3.png",
+            "image": "shopify://shop_images/Heaven-and-Earth-launch.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_5.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -181,8 +102,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_7.png",
-            "image_mobile": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_6.png",
+            "image": "shopify://shop_images/Heaven-and-Earth-launch_Artboard-2-copy-2.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_6.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -204,8 +125,86 @@
         "disable_animation": false
       }
     },
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_4.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_3.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "slideshow_JzgDYA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QVcitx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_12.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_11.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QVcitx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Choose your study",
@@ -244,6 +243,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -254,24 +254,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "hero_video_EzmjCm": {
-      "type": "hero-video",
-      "disabled": true,
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "shopify://pages/winter-collection-2025",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/7b78ce5a17f04c6f94716e524a39e411.mp4",
-        "overlay_opacity": 0,
-        "section_height": "550px",
-        "mobile_height": "250px"
       }
     },
     "promo_grid_UydWcM": {
@@ -331,7 +313,7 @@
         "image_AxXinN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Updated-Shipping-Block-Again.png",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_30.png",
             "link": "shopify://collections/hosanna-revival-shop",
             "width": "50"
           }
@@ -339,7 +321,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Cyber_Monday-02_38df8573-5432-4f9a-be4d-3e166af44784.png",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_40.png",
             "link": "shopify://pages/loaded-bible",
             "width": "50"
           }
@@ -349,7 +331,6 @@
         "image_AxXinN",
         "image_9fzeMq"
       ],
-      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -375,8 +356,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_9.png",
-            "image_mobile": "shopify://shop_images/1_web-16.png",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_9.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch-10.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -565,8 +546,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Best_Sellers_Sale_Artboard_176_copy_3.png",
-            "image_mobile": "shopify://shop_images/Best_Sellers_Sale_Artboard_176_copy_13.png",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_176_copy_3.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_176_copy_13.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -589,14 +570,13 @@
     }
   },
   "order": [
-    "slideshow_X4MRpa",
-    "slideshow_JzgDYA",
     "slideshow_bGCPEX",
     "slideshow_gW9EVE",
     "slideshow_GcPDX3",
+    "slideshow_X4MRpa",
+    "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
     "slideshow_8GYyKV",
-    "hero_video_EzmjCm",
     "promo_grid_UydWcM",
     "promo_grid_BftCNi",
     "slideshow_YNbwrF",
