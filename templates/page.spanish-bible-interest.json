@@ -98,6 +98,41 @@
         "lazyload_images": true
       }
     },
+    "rich_text_8JHTTE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3p9rmM": {
+          "type": "heading",
+          "settings": {
+            "title": "Beauty Awaits!"
+          }
+        },
+        "text_UYcwRa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We are so excited to bring Hosanna Revival Spanish Bibles to life. If you know someone else who would be interested, send them the link to this page. Thank you for your support.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_3p9rmM",
+        "text_UYcwRa"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#839276",
+        "color_text": "#f5eee5",
+        "space_above": 40,
+        "space_below": 40
+      }
+    },
     "rich_text_pAXzYJ": {
       "type": "rich-text",
       "blocks": {
@@ -128,7 +163,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#839276",
-        "color_text": "#e8e8e1",
+        "color_text": "#f5eee5",
         "space_above": 35,
         "space_below": 35
       }
@@ -239,40 +274,40 @@
         "link_color_text": "#ffffff"
       }
     },
-    "rich_text_8JHTTE": {
+    "rich_text_KtEpck": {
       "type": "rich-text",
       "blocks": {
-        "heading_3p9rmM": {
+        "heading_fkkWqQ": {
           "type": "heading",
           "settings": {
-            "title": "Obtén un 20% de Descuento"
+            "title": "¡La belleza te espera!"
           }
         },
-        "text_UYcwRa": {
+        "text_PmeGCH": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
-            "text": "<p>Si lanzamos las Biblias en Español, queremos celebrar tu parte en hacer posible este proyecto. Como agradecimiento, el día de nuestro lanzamiento te enviaremos un código de un 20% de descuento, para ser usado en nuestra colección en Español de Biblias Hosanna Revival. </p>",
+            "enlarge_text": true,
+            "text": "<p>Estamos muy emocionados de dar vida a las Biblias en Español de Hosanna Revival. Si conoces a alguien más que pueda estar interesado, envíale el enlace a esta página. ¡Gracias por tu apoyo!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
-        "heading_3p9rmM",
-        "text_UYcwRa"
+        "heading_fkkWqQ",
+        "text_PmeGCH"
       ],
-      "disabled": true,
+      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#717057",
-        "color_text": "#e8e8e1",
-        "space_above": 40,
-        "space_below": 40
+        "color_bg": "#839276",
+        "color_text": "#f5eee5",
+        "space_above": 30,
+        "space_below": 31
       }
     },
     "slideshow_krBmyn": {
@@ -284,14 +319,14 @@
             "top_subheading": "",
             "title": "",
             "title_size": 80,
-            "subheading": "",
+            "subheading": "“Estamos muy emocionados de dar vida a las Biblias en Español de Hosanna Revival. Si conoces a alguien más que pueda estar interesado, envíale el enlace a esta página. ¡Gracias por tu apoyo! ¡La belleza te espera!”",
             "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Refresh-Product-Photos-Beautiful-Bibles-Hosanna-Revival-001.jpg",
+            "image": "shopify://shop_images/Lisbon-NLT-Notetaking-Bible-Embroidered-Floral-Frame-Blue-Green-Hosanna-Revival-09_44b3a6a7-5a1e-498e-aa07-f363494495ff.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -303,7 +338,7 @@
       ],
       "disabled": true,
       "settings": {
-        "section_height": "550px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -319,13 +354,14 @@
     "slideshow_TVRQX7",
     "1769803330271faf56",
     "text_and_image_pGnEkB",
+    "rich_text_8JHTTE",
     "rich_text_pAXzYJ",
     "faq_WiR73L",
     "rich_text_m9xRmb",
     "text_and_image_dmaU4R",
     "text_and_image_j9E3eP",
     "single_button_CHkCz7",
-    "rich_text_8JHTTE",
+    "rich_text_KtEpck",
     "slideshow_krBmyn"
   ]
 }
