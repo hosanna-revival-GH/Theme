@@ -47,17 +47,17 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Start your year with a tool that excites you to engage with Scripture",
-            "link_text": "Shop all",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": "Curious about Heaven?",
+            "link_text": "Get 2 for $40 of our new book that offers a more vivid picture of eternity",
+            "link": "shopify://pages/heaven-and-earth"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Preorder our new book: Heaven & Earth",
-            "link_text": "for those looking for a more vibrant understanding of Heaven",
-            "link": "shopify://products/heaven-earth-by-jordan-moody"
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Find a beautiful new Bible to excite you to engage in Scripture",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_FNqfy6": {
@@ -70,6 +70,7 @@
         },
         "announcement_mMUAeX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": " Looking for a study to start this year?",
             "link_text": "Explore our devotional library",
