@@ -82,7 +82,7 @@
         "text_P8dYQR": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
+            "enlarge_text": true,
             "text": "<p>Para leer esta página en español, sigue bajando.</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
@@ -100,7 +100,7 @@
         "css-id": "",
         "css-class": "",
         "color_bg": "#f5eee5",
-        "color_text": "#839276",
+        "color_text": "#000000",
         "space_above": 10,
         "space_below": 10
       }
@@ -114,7 +114,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "Why create beautiful Bibles in Spanish?",
-        "text": "<p>For years, we have dreamed of creating a beautiful Bible in Spanish. The first Bible hand-painted by our founder, Katie, was a bilingual English–Spanish translation. Now, nine years later, our small business has grown, and we are excited to launch Hosanna Revival Spanish Bibles.</p>",
+        "text": "<p>For years, we have dreamed of creating a beautiful Bible in Spanish. The first Bible hand-painted by our founder, Katie, was a bilingual English–Spanish translation. Now, eleven years later, our small business has grown, and we are excited to launch Hosanna Revival Spanish Bibles.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -271,7 +271,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "¿Por qué crear hermosas Biblias en Español?",
-        "text": "<p>Por años hemos soñado con la creación de una hermosa Biblia en Español. La primera Biblia pintada a mano de nuestra fundadora, Katie, fué una traducción Bilingüe en Inglés y Español, ahora, 9 años después, nuestro pequeño negocio crece, y estamos listos para explorar la producción de las Biblias en Español de Hosanna Revival. </p>",
+        "text": "<p>Por años hemos soñado con la creación de una hermosa Biblia en Español. La primera Biblia pintada a mano de nuestra fundadora, Katie, fué una traducción Bilingüe en Inglés y Español, ahora, 11 años después, nuestro pequeño negocio crece, y estamos listos para explorar la producción de las Biblias en Español de Hosanna Revival. </p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
