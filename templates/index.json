@@ -9,45 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_bGCPEX": {
-      "type": "slideshow",
-      "blocks": {
-        "image_fVEef3": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://products/heaven-earth-by-jordan-moody",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_10.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch-06.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_fVEef3"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -83,6 +44,46 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "slideshow_bGCPEX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fVEef3": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://products/heaven-earth-by-jordan-moody",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_10.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch-06.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_fVEef3"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -570,8 +571,8 @@
     }
   },
   "order": [
-    "slideshow_bGCPEX",
     "slideshow_gW9EVE",
+    "slideshow_bGCPEX",
     "slideshow_GcPDX3",
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
