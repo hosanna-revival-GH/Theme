@@ -26,7 +26,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Heaven-and-Earth-launch.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_5.png",
+            "image_mobile": "shopify://shop_images/Heaven-and-Earth-launch-mobile.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
