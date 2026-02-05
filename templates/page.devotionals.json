@@ -102,6 +102,28 @@
         "divider": false
       }
     },
+    "text_and_image_yanWF7": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book_3.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Jordan Moody",
+        "title": "Heaven  & Earth",
+        "text": "<p>Topic: Heaven <br/>Type of Study: Book<br/>Length: 8 Chapters<br/>Focal Scripture: Multiple Passages<br/></p><p><em>Heaven & Earth</em> is for anyone longing for clarity and hope as they wrestle with heaven, eternity, and the promises of Jesus Christ. Author Jordan Moody invites readers to lift their eyes from the weight of today and rest in the unshakable hope promised by Jesus Christ—who is coming again to wipe away every tear, renew all things, and welcome his people into a real, joyful, and eternal life with God.</p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/heaven-and-earth",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "toolkit_ykR3HX": {
       "type": "toolkit",
       "blocks": {
@@ -511,31 +533,6 @@
         "lazyload_images": true
       }
     },
-    "rich_text_BnUh4E": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_WeK7jp": {
-          "type": "heading",
-          "settings": {
-            "title": "Questions about our Devotionals"
-          }
-        }
-      },
-      "block_order": [
-        "heading_WeK7jp"
-      ],
-      "settings": {
-        "align_text": "left",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 25
-      }
-    },
     "faq_7pWgCb": {
       "type": "faq",
       "blocks": {
@@ -582,6 +579,7 @@
         "question_Uv9Wkd",
         "question_Lm3Qnd"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "space_above": 0,
@@ -595,6 +593,7 @@
     "slideshow_jcqhbB",
     "rich_text_HqDrRF",
     "featured_collection_J8jTm7",
+    "text_and_image_yanWF7",
     "toolkit_ykR3HX",
     "text_and_image_i9HfGc",
     "text_and_image_n9EMHx",
@@ -614,7 +613,6 @@
     "25184cd1-0b17-4ee9-9002-8893cfd688a0",
     "baa00edd-f647-46b5-9af6-b1a133454696",
     "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
-    "rich_text_BnUh4E",
     "faq_7pWgCb"
   ]
 }
