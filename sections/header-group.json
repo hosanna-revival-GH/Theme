@@ -47,8 +47,8 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Curious about Heaven?",
-            "link_text": "Get 2 for $40 of our new book that offers a more vivid picture of eternity",
+            "text": "Order our new book: Heaven & Earth",
+            "link_text": "for those looking for a more vibrant understanding of Heaven",
             "link": "shopify://pages/heaven-and-earth"
           }
         },
@@ -56,25 +56,24 @@
           "type": "announcement",
           "settings": {
             "text": "Your Home for Beautiful Bibles",
-            "link_text": "Find a beautiful new Bible to excite you to engage in Scripture",
+            "link_text": "Find a tool that excites you to engage in Scripture",
             "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Begin the year with a new Undated Planner",
-            "link_text": "Beautiful and functional planners for your year",
-            "link": "shopify://collections/planners"
+            "text": "Sign up for our free Holy Week Study",
+            "link_text": "Sign up for our email series leading up to Holy Week beginning 3/28",
+            "link": "shopify://pages/jesus-and-the-tree"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": " Looking for a study to start this year?",
-            "link_text": "Explore our devotional library",
-            "link": "shopify://pages/devotionals"
+            "text": "Free Shipping on Orders over $125",
+            "link_text": "Stock up and enjoy free shipping on us!",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         }
       },

@@ -9,44 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/heaven-and-earth",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven-and-Earth-launch.png",
-            "image_mobile": "shopify://shop_images/Heaven-and-Earth-launch-mobile.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "slideshow_bGCPEX": {
       "type": "slideshow",
       "blocks": {
@@ -57,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/heaven-earth-by-jordan-moody",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_10.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch-06.png",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_2_f3b5a607-854b-4fbc-8ce6-61e96b5ef910.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_6_a0bc4a9b-927f-4c08-b7a2-85f6a42c6442.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -74,7 +36,6 @@
       "block_order": [
         "image_fVEef3"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -82,45 +43,6 @@
         "parallax": false,
         "style": "bars",
         "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_GcPDX3": {
-      "type": "slideshow",
-      "blocks": {
-        "image_Nrgk3e": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://www.instagram.com/jordantmoody/",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven-and-Earth-launch_Artboard-2-copy-2.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_6.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_Nrgk3e"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
@@ -153,6 +75,7 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -191,6 +114,7 @@
       "block_order": [
         "image_QVcitx"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -205,16 +129,92 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "Choose your study",
-        "home_featured_products": "devotionals",
+        "title": "beautiful bibles",
+        "home_featured_products": "beautiful-bibles",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
+      }
+    },
+    "slideshow_GcPDX3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nrgk3e": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/jesus-and-the-tree",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_13_8eef86a8-d55b-4df2-a10e-b7f3411fb6da.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_11_fd502c87-db74-4577-9c80-c93b9844cfe7.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Nrgk3e"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/heaven-and-earth",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Heaven-and-Earth-launch_ff6023cb-df38-41e8-aaf7-275c1680cc2b.png",
+            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_5_a771e3d9-559b-4f45-8f95-654f48a61802.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "slideshow_8GYyKV": {
@@ -244,7 +244,6 @@
       "block_order": [
         "image_AXTDqX"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -332,6 +331,7 @@
         "image_AxXinN",
         "image_9fzeMq"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -571,12 +571,12 @@
     }
   },
   "order": [
-    "slideshow_gW9EVE",
     "slideshow_bGCPEX",
-    "slideshow_GcPDX3",
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
+    "slideshow_GcPDX3",
+    "slideshow_gW9EVE",
     "slideshow_8GYyKV",
     "promo_grid_UydWcM",
     "promo_grid_BftCNi",
