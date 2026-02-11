@@ -58,6 +58,19 @@
         "disable_animation": false
       }
     },
+    "single_button_eFchhW": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Freek holy week study: jesus & the tree",
+        "button_link": "shopify://pages/jesus-and-the-tree",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#839276",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_qAwKEz": {
       "type": "single-button",
       "name": "Custom Button",
@@ -69,20 +82,6 @@
         "space_above": 30,
         "space_below": 20,
         "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_eFchhW": {
-      "type": "single-button",
-      "disabled": true,
-      "settings": {
-        "button_text": "Kingdom Come: A study for advent",
-        "button_link": "https://hosannarevival.com/pages/kingdom-come",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -265,8 +264,8 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
-    "single_button_qAwKEz",
     "single_button_eFchhW",
+    "single_button_qAwKEz",
     "single_button_QbwFRq",
     "single_button_hCmA7f",
     "single_button_3L6q9A",
