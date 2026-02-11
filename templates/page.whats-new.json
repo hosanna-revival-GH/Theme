@@ -62,8 +62,8 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "10 articles on Spiritual Disciplines and Habits",
-        "button_link": "https://hosannarevival.blog/category/monthly-highlights/january-2026-spiritual-disciplines-and-habits/",
+        "button_text": "10 articles on Trials and Suffering",
+        "button_link": "https://hosannarevival.blog/category/monthly-highlights/february-2026-trials-suffering/",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -105,7 +105,7 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "Preorder Heaven and Earth by Jordan Moody",
+        "button_text": "Heaven and Earth by Jordan Moody",
         "button_link": "https://hosannarevival.com/products/heaven-earth-by-jordan-moody",
         "button_size": "huge",
         "alignment": "center",
