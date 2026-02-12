@@ -58,6 +58,20 @@
         "disable_animation": false
       }
     },
+    "single_button_QbwFRq": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "Sale on sale! Use code extra20",
+        "button_link": "shopify://collections/sale",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#839276",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_eFchhW": {
       "type": "single-button",
       "settings": {
@@ -82,21 +96,6 @@
         "space_above": 30,
         "space_below": 20,
         "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_QbwFRq": {
-      "type": "single-button",
-      "disabled": true,
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "the Warehouse Sale! Join us in person",
-        "button_link": "shopify://pages/warehouse-sale",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#311720",
         "link_color_text": "#ffffff"
       }
     },
@@ -264,9 +263,9 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_QbwFRq",
     "single_button_eFchhW",
     "single_button_qAwKEz",
-    "single_button_QbwFRq",
     "single_button_hCmA7f",
     "single_button_3L6q9A",
     "single_button_JD887j",

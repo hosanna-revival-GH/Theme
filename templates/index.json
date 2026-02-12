@@ -19,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/sale",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven-and-Earth-launch-02.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_6_a0bc4a9b-927f-4c08-b7a2-85f6a42c6442.png",
+            "image": "shopify://shop_images/Spring_Cleaning_Artboard_2_copy_2.png",
+            "image_mobile": "shopify://shop_images/Spring_Cleaning_Artboard_2_copy_20.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -46,6 +46,57 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "promo_grid_MmC94X": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_J9rbT7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Cleaning-17.png",
+            "link": "",
+            "width": "25"
+          }
+        },
+        "image_AbVRfx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Cleaning-18.png",
+            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
+            "width": "25"
+          }
+        },
+        "image_wHrqXB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Cleaning-19.png",
+            "link": "shopify://products/esv-study-bible-iceland-theme",
+            "width": "25"
+          }
+        },
+        "image_pXrCHx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Cleaning-20.png",
+            "link": "shopify://products/csb-notetaking-bible-amelia-theme",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "image_J9rbT7",
+        "image_AbVRfx",
+        "image_wHrqXB",
+        "image_pXrCHx"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_X4MRpa": {
@@ -131,13 +182,46 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "beautiful bibles",
-        "home_featured_products": "beautiful-bibles",
+        "title": "Shop the sale on sale",
+        "home_featured_products": "sale",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
+      }
+    },
+    "promo_grid_BftCNi": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_AxXinN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_30.png",
+            "link": "shopify://pages/jesus-and-the-tree",
+            "width": "50"
+          }
+        },
+        "image_9fzeMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_40.png",
+            "link": "shopify://pages/bible-toolkit",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_AxXinN",
+        "image_9fzeMq"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_GcPDX3": {
@@ -167,6 +251,7 @@
       "block_order": [
         "image_Nrgk3e"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -244,6 +329,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -298,40 +384,6 @@
         "image_dcHMiN",
         "image_Gm3rH7"
       ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "promo_grid_BftCNi": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_AxXinN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_30.png",
-            "link": "shopify://pages/jesus-and-the-tree",
-            "width": "50"
-          }
-        },
-        "image_9fzeMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_40.png",
-            "link": "shopify://pages/bible-toolkit",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_AxXinN",
-        "image_9fzeMq"
-      ],
-      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -449,49 +501,6 @@
         "lazyload_images": true
       }
     },
-    "promo_grid_MmC94X": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_AbVRfx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-015.png",
-            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
-            "width": "33"
-          }
-        },
-        "image_wHrqXB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-017.png",
-            "link": "shopify://products/nlt-life-application-study-bible-edinburgh-theme",
-            "width": "33"
-          }
-        },
-        "image_pXrCHx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-016.png",
-            "link": "shopify://products/csb-notetaking-bible-vienna-theme",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_AbVRfx",
-        "image_wHrqXB",
-        "image_pXrCHx"
-      ],
-      "disabled": true,
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "slideshow_gyMt8x": {
       "type": "slideshow",
       "blocks": {
@@ -572,17 +581,17 @@
   },
   "order": [
     "slideshow_bGCPEX",
+    "promo_grid_MmC94X",
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
+    "promo_grid_BftCNi",
     "slideshow_GcPDX3",
     "slideshow_gW9EVE",
     "slideshow_8GYyKV",
     "promo_grid_UydWcM",
-    "promo_grid_BftCNi",
     "slideshow_YNbwrF",
     "promo_grid_cMUWra",
-    "promo_grid_MmC94X",
     "slideshow_gyMt8x",
     "slideshow_LAdPKf"
   ]
