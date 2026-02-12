@@ -24,6 +24,10 @@
           "type": "price",
           "settings": {}
         },
+        "quantity_selector_8fLaVW": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -114,6 +118,7 @@
         "judge_me_reviews_preview_badge_c4h3wr",
         "separator",
         "price",
+        "quantity_selector_8fLaVW",
         "variant_picker",
         "sales_point",
         "inventory_status",
