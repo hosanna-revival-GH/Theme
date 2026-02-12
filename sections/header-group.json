@@ -47,17 +47,17 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Order our new book: Heaven & Earth",
-            "link_text": "for those looking for a more vibrant understanding of Heaven",
-            "link": "shopify://pages/heaven-and-earth"
+            "text": "Sale on Sale!",
+            "link_text": "Use code EXTRA20 to get an additional 20% off our sale section",
+            "link": "shopify://collections/sale"
           }
         },
-        "announcement-1": {
+        "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Find a tool that excites you to engage in Scripture",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": "Free Shipping on Orders over $100",
+            "link_text": "Stock up and enjoy free shipping on us!",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement_FNqfy6": {
@@ -68,20 +68,20 @@
             "link": "shopify://pages/jesus-and-the-tree"
           }
         },
-        "announcement_mMUAeX": {
+        "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Free Shipping on Orders over $125",
-            "link_text": "Stock up and enjoy free shipping on us!",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Find a tool that excites you to engage in Scripture",
+            "link": "shopify://collections/beautiful-bibles"
           }
         }
       },
       "block_order": [
         "announcement_NXQKWa",
-        "announcement-1",
+        "announcement_mMUAeX",
         "announcement_FNqfy6",
-        "announcement_mMUAeX"
+        "announcement-1"
       ],
       "settings": {
         "announcement_compact": true
