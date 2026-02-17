@@ -55,7 +55,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Cleaning-17.png",
-            "link": "",
+            "link": "shopify://products/csb-notetaking-bible-dorset-theme",
             "width": "25"
           }
         },
@@ -63,7 +63,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Cleaning-18.png",
-            "link": "shopify://products/nlt-notetaking-bible-coram-theme",
+            "link": "shopify://products/esv-large-print-journaling-bible-nara-theme",
             "width": "25"
           }
         },
