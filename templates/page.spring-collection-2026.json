@@ -67,7 +67,7 @@
         "text_CQyQJh": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>This collection was designed to reflect the all-encompassing, rich and deep love of God. A love that restores, pursues, and gently reminds us that we are seen and chosen. Each piece is designed to draw you into the deep well of his presence: steady, renewing, and full of grace.</p><p>Including 2 ESV Journaling Bibles, 3 NLT notetaking Bibles, 2 Women's CSB Study Bibles, and 4 notebooks, this collection is an invitation to rest, to be restored, and to remember that you are deeply loved by a God who meets you in your weariness, brings light into darkness, and faithfully leads your heart back to peace.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 5
@@ -88,6 +88,32 @@
         "color_text": "#71865b",
         "space_above": 75,
         "space_below": 75
+      }
+    },
+    "rich_text_xjbQme": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GgcTpa": {
+          "type": "heading",
+          "settings": {
+            "title": "3 New Landscape designs"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GgcTpa"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#d8b7c5",
+        "color_text": "#f3ece3",
+        "space_above": 15,
+        "space_below": 15
       }
     },
     "featured_collection_YcQbAb": {
@@ -113,6 +139,61 @@
         "space_below": 60,
         "link_color_background": "#d8b7c5",
         "link_color_text": "#ffffff"
+      }
+    },
+    "text_columns_JR3fGQ": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_dqkeLX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring_Collection_Bibles_13.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Santa Lucia ESV Journaling Bible",
+            "text": "<p>The artwork on this beautiful Bible reflects the quiet tension between darkness and dawn and the stillness before his light breaks through. The back features the words “Satisfied in You,” a reminder that we can rest in his sustaining love.</p>",
+            "button_label": "Shop",
+            "button_link": ""
+          }
+        },
+        "text_block_cK6Fqe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring_Collection_Bibles_12.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Cana NLT Notetaking Bible",
+            "text": "<p>The deep purple and blue hues, combined with vibrant red flowers, reflect the richness of his generosity and the joy he pours out. They serve as a reminder that God does not merely meet our needs,  he delights in rejoicing over us. </p>",
+            "button_label": "Shop",
+            "button_link": ""
+          }
+        },
+        "text_block_mftjPR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring_Collection_Bibles_11.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Rosemary Beach NLT NOtetaking Bible",
+            "text": "<p>Sunsets along Florida’s coast overlooking the Gulf of Mexico produce vibrant, pink skies, inspiring the colors on this beautiful Rosemary Beach Bible. The hand-painted skies on the cover reflect a radiant beauty, echoing God’s character.</p>",
+            "button_label": "Shop",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_dqkeLX",
+        "text_block_cK6Fqe",
+        "text_block_mftjPR"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     },
     "featured_collections_iYnhdN": {
@@ -284,8 +365,10 @@
     "main",
     "slideshow_fKC7bk",
     "rich_text_KkwPiq",
+    "rich_text_xjbQme",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
+    "text_columns_JR3fGQ",
     "featured_collections_iYnhdN",
     "text_and_image_xEJ9TN",
     "text_and_image_Yh9cNV",
