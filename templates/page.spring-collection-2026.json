@@ -256,6 +256,7 @@
     },
     "single_button_jJhiGP": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "shop Spring collection",
         "button_link": "shopify://collections/winter-2024-collection",
