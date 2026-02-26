@@ -443,6 +443,28 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "text_and_image_KDTJN4": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_18.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featuring a new KJV Design",
+        "title": "Coram KJV Large Print Notetaking Bible",
+        "text": "",
+        "button_label": "Shop Coram KJV",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -460,6 +482,7 @@
     "text_and_image_Yh9cNV",
     "slideshow_6xgrG6",
     "featured_collection_YcQbAb",
-    "slideshow_nMLnw7"
+    "slideshow_nMLnw7",
+    "text_and_image_KDTJN4"
   ]
 }
