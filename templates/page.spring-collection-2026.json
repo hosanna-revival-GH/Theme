@@ -55,6 +55,41 @@
         "disable_animation": false
       }
     },
+    "rich_text_KkwPiq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9XLEt7": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_CQyQJh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Fall into the depth of God’s love for you as you engage in Scripture<br/></p><p></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 5
+          }
+        }
+      },
+      "block_order": [
+        "heading_9XLEt7",
+        "text_CQyQJh"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "featured_collection_YcQbAb": {
       "type": "featured-collection",
       "settings": {
@@ -69,9 +104,8 @@
     },
     "single_button_jJhiGP": {
       "type": "single-button",
-      "disabled": true,
       "settings": {
-        "button_text": "shop winter collection",
+        "button_text": "shop Spring collection",
         "button_link": "shopify://collections/winter-2024-collection",
         "button_size": "huge",
         "alignment": "center",
@@ -167,101 +201,6 @@
         "lazyload_images": true
       }
     },
-    "rich_text_W93Rri": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ckVMti": {
-          "type": "heading",
-          "settings": {
-            "title": "Introducing the NLT Life Application Study Bible"
-          }
-        },
-        "text_4zi7mj": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. As it has done for millions of others, this unique study Bible will help you clearly understand what the Bible says in its context and what that <em>means</em> for you today. It also guides you to <em>apply</em> these insights to your daily life, <em>transforming understanding into lived truth</em>.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_ckVMti",
-        "text_4zi7mj"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#475a41",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "featured_collection_yQpiQz": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "NLT COMPACT BIBLES",
-        "home_featured_products": "nlt-compact-bibles",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": true
-      }
-    },
-    "rich_text_KkwPiq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_9XLEt7": {
-          "type": "heading",
-          "settings": {
-            "title": "Tune your heart to the truth of Psalm 23"
-          }
-        },
-        "text_CQyQJh": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>The Scripture that inspired this collection, found on our Dublin CSB Bible.</em><br/></p><p></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 5
-          }
-        },
-        "text_jTG4pd": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>“The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He leads me in paths of righteousness for his name's sake. Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows. Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.”</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_9XLEt7",
-        "text_CQyQJh",
-        "text_jTG4pd"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#475a41",
-        "color_text": "#ffffff",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
     "slideshow_6xgrG6": {
       "type": "slideshow",
       "blocks": {
@@ -318,8 +257,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-509.jpg",
-            "image_mobile": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-331.jpg",
+            "image": "shopify://shop_images/Spring_Collection_Bibles_7_5b7e88ec-2f30-4611-afa2-464549a05acd.jpg",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Bibles_7_d7e1afd0-9a4c-49f4-9393-05925d354d12.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -344,14 +283,12 @@
   "order": [
     "main",
     "slideshow_fKC7bk",
+    "rich_text_KkwPiq",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
     "featured_collections_iYnhdN",
     "text_and_image_xEJ9TN",
     "text_and_image_Yh9cNV",
-    "rich_text_W93Rri",
-    "featured_collection_yQpiQz",
-    "rich_text_KkwPiq",
     "slideshow_6xgrG6",
     "slideshow_nMLnw7"
   ]
