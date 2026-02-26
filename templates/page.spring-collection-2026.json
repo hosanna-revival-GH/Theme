@@ -155,7 +155,7 @@
         "subtitle": "Featuring a new 5-Year Prayer Journal",
         "title": "The Coram One Thing I Ask 5-Year Prayer Journal",
         "text": "<p>Now in our best-selling Coram design, our <em>One Thing I Ask</em> is our signature 5-Year Prayer Journal dreamt up and designed by Hosanna Revival. These beautiful journals were designed to help you remember the faithfulness of God as you journal your prayers. This keepsake journal contains 366 unprompted daily spreads with five entries per day to document your prayers over five years. Each date offers seven lines per day where you can summarize your prayers into short phrases, or jot them down as bullet points. Over the next five years, this journal will become an active record of God’s movement in your life.</p>",
-        "button_label": "Shop the Bethany Study Bible",
+        "button_label": "Shop the Coram 5-Year Prayer Journal",
         "button_link": "shopify://products/esv-study-bible-bethany-theme",
         "button_style": "primary",
         "align_text": "left",
@@ -289,6 +289,7 @@
       "block_order": [
         "image_qUyFfK"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
