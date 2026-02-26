@@ -61,14 +61,14 @@
         "heading_9XLEt7": {
           "type": "heading",
           "settings": {
-            "title": ""
+            "title": "Welcome to the 2026 Spring Collection"
           }
         },
         "text_CQyQJh": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Fall into the depth of God’s love for you as you engage in Scripture<br/></p><p></p>",
+            "enlarge_text": false,
+            "text": "<p>This collection was designed to reflect the all-encompassing, rich and deep love of God. A love that restores, pursues, and gently reminds us that we are seen and chosen. Each piece is designed to draw you into the deep well of his presence: steady, renewing, and full of grace.</p><p>This collection is an invitation to rest, to be restored, and to remember that you are deeply loved by a God who meets you in your weariness, brings light into darkness, and faithfully leads your heart back to peace.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 5
           }
