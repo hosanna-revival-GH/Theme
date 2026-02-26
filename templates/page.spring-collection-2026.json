@@ -18,40 +18,23 @@
         "background_color": ""
       }
     },
-    "hero_video_TkRRh9": {
-      "type": "hero-video",
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/c05535d119a34791a75627aef1e96428.mp4",
-        "overlay_opacity": 0,
-        "section_height": "450px",
-        "mobile_height": "auto"
-      }
-    },
     "slideshow_fKC7bk": {
       "type": "slideshow",
       "blocks": {
         "image_UGkbDz": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 63,
-            "subheading": "",
-            "link": "https://hosannarevival.com/collections/winter-collection-2025",
+            "top_subheading": "Introducing",
+            "title": "The Spring Collection",
+            "title_size": 40,
+            "subheading": "Let the truth of Scripture restore your heart",
+            "link": "https://hosannarevival.com/collections/spring-2026-collection",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Winter-Collection-Launch-01.png",
+            "image": "shopify://shop_images/Spring_Collection_Bibles.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -75,7 +58,7 @@
     "featured_collection_YcQbAb": {
       "type": "featured-collection",
       "settings": {
-        "title": "the collection designed to reawaken wonder",
+        "title": "Explore the collection",
         "home_featured_products": "winter-2025-collection",
         "per_row": 4,
         "rows": 2,
@@ -145,13 +128,13 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-532.jpg",
+        "image": "shopify://shop_images/Spring_Collection_Bibles_4.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Introducing",
-        "title": "The NLT Life Application Study Bible",
-        "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. This unique study Bible helps you understand Scripture in its context and apply its truth to your daily life.</p><p>This Bible features over 10,000 study tools that bring Scripture to life, showing how its people, teachings, and events apply to everyday life. Each book includes helpful introductions, 100+ Life Application profiles, 500+ maps and charts, and 16 pages of full-color maps. A built-in harmony of the Gospels reveals parallels in Jesus’ life, while a dictionary/concordance and extensive cross-references make deeper study easy.</p>",
-        "button_label": "Shop NLT Study BIbles",
+        "title": "The CSB Women's Study Bible",
+        "text": "<p>The <em>CSB Women’s Study Bible, </em>is designed to help women of all ages know and be transformed by God’s Word, keeping the beauty and majesty of Scripture primary on every page. </p><p>This robust, full-color study Bible, created for women and by women, features helpful study notes paired with carefully placed articles, profiles, word studies, photographs, charts, timelines, maps, and more presented on the same page as the biblical text they refer to. For both deep study and daily reading, this Bible is uniquely crafted to equip women to dig deeper into Scripture themselves and disciple other women in their life to do the same.</p>",
+        "button_label": "Shop CSB Women's Study Bible",
         "button_link": "shopify://collections/nlt-life-application-study-bibles",
         "button_style": "primary",
         "align_text": "left",
@@ -169,8 +152,8 @@
         "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-205.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "Featuring a new ESV Study Bible",
-        "title": "The Bethany ESV Study Bible",
+        "subtitle": "Featuring a new 5-Year Prayer Journal",
+        "title": "The Coram One Thing I Ask 5-Year Prayer Journal",
         "text": "<p>We’ve paired our beautiful Bethany design with the beloved ESV Study Bible. For years, the ESV Study Bible has been an invaluable resource for people all over the world. Nearly one hundred reputable biblical scholars and theologians from nine different countries contributed to this incredible work. With beautiful full-color maps, charts, articles, and more, this Study Bible has been designed to help you understand the Bible in a deeper way. As you utilize this Study Bible to spend time with the Lord, may you see more of God’s restoring hand in your life, until the day we experience complete restoration in heaven.</p>",
         "button_label": "Shop the Bethany Study Bible",
         "button_link": "shopify://products/esv-study-bible-bethany-theme",
@@ -359,7 +342,6 @@
   },
   "order": [
     "main",
-    "hero_video_TkRRh9",
     "slideshow_fKC7bk",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
