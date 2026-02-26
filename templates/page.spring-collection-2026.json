@@ -116,31 +116,6 @@
         "space_below": 15
       }
     },
-    "featured_collection_YcQbAb": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Explore the collection",
-        "home_featured_products": "winter-2025-collection",
-        "per_row": 4,
-        "rows": 2,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": true
-      }
-    },
-    "single_button_jJhiGP": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "shop Spring collection",
-        "button_link": "shopify://collections/winter-2024-collection",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 60,
-        "link_color_background": "#d8b7c5",
-        "link_color_text": "#ffffff"
-      }
-    },
     "text_columns_JR3fGQ": {
       "type": "text-columns",
       "blocks": {
@@ -194,6 +169,31 @@
         "title": "",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "featured_collection_YcQbAb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore the collection",
+        "home_featured_products": "winter-2025-collection",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "single_button_jJhiGP": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "shop Spring collection",
+        "button_link": "shopify://collections/winter-2024-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60,
+        "link_color_background": "#d8b7c5",
+        "link_color_text": "#ffffff"
       }
     },
     "featured_collections_iYnhdN": {
@@ -359,6 +359,28 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "text_and_image_VdWRMG": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_14.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "Palma ESV Journaling Bible",
+        "text": "<p>The deep, brown color and delicate gold foiling outlining the embossed florals of this Bible were inspired by the beauty of The Cathedral of Palma in Mallorca, Spain. The intricate architecture inspired the detailed florals and arched design. Our heart behind this design is that it would remind you of the rich depth that the Word of God carries. Within every detail of his Word is wisdom that reveals and points us toward Christ. May the gold foiling be a reminder that within this book, you will unveil truth that is more precious than gold.</p>",
+        "button_label": "Shop Palma",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -366,13 +388,14 @@
     "slideshow_fKC7bk",
     "rich_text_KkwPiq",
     "rich_text_xjbQme",
+    "text_columns_JR3fGQ",
     "featured_collection_YcQbAb",
     "single_button_jJhiGP",
-    "text_columns_JR3fGQ",
     "featured_collections_iYnhdN",
     "text_and_image_xEJ9TN",
     "text_and_image_Yh9cNV",
     "slideshow_6xgrG6",
-    "slideshow_nMLnw7"
+    "slideshow_nMLnw7",
+    "text_and_image_VdWRMG"
   ]
 }
