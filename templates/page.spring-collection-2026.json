@@ -99,7 +99,7 @@
         "rows": 2,
         "mobile_scrollable": true,
         "view_all": true,
-        "divider": false
+        "divider": true
       }
     },
     "single_button_jJhiGP": {
