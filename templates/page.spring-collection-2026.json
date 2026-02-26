@@ -381,6 +381,28 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_6wkmVR": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_15.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "Belfast NLT Notetaking Bible",
+        "text": "<p>Our Belfast Bible’s delicate, soft yellow color features an embossed daffodil. After a long winter, the daffodil is the first to make its return in the Spring. These flowers can endure harsh conditions, symbolizing a pure and gentle resilience, one we ourselves can receive through Christ’s strength within us. Through his power within us, we are able to endure, relying on his strength alone.</p>",
+        "button_label": "Shop Belfast",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -396,6 +418,7 @@
     "text_and_image_Yh9cNV",
     "slideshow_6xgrG6",
     "slideshow_nMLnw7",
-    "text_and_image_VdWRMG"
+    "text_and_image_VdWRMG",
+    "text_and_image_6wkmVR"
   ]
 }
