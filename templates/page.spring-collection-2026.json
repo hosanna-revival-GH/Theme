@@ -215,18 +215,6 @@
         "lazyload_images": true
       }
     },
-    "featured_collection_YcQbAb": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Explore the collection",
-        "home_featured_products": "winter-2025-collection",
-        "per_row": 4,
-        "rows": 2,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": true
-      }
-    },
     "single_button_jJhiGP": {
       "type": "single-button",
       "settings": {
@@ -366,6 +354,18 @@
         "disable_animation": false
       }
     },
+    "featured_collection_YcQbAb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore the collection",
+        "home_featured_products": "winter-2025-collection",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    },
     "slideshow_nMLnw7": {
       "type": "slideshow",
       "blocks": {
@@ -403,6 +403,45 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "slideshow_zHFQXR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_weKapr": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "featuring",
+            "title": "four new notebooks",
+            "title_size": 60,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Spring_Collection_Bibles_16_16714e12-4cc7-4dd8-a1a6-625c0c3b9fd5.jpg",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Bibles_16.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_weKapr"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -413,12 +452,13 @@
     "text_columns_JR3fGQ",
     "text_and_image_VdWRMG",
     "text_and_image_6wkmVR",
-    "featured_collection_YcQbAb",
     "single_button_jJhiGP",
     "featured_collections_iYnhdN",
     "text_and_image_xEJ9TN",
     "text_and_image_Yh9cNV",
     "slideshow_6xgrG6",
-    "slideshow_nMLnw7"
+    "featured_collection_YcQbAb",
+    "slideshow_nMLnw7",
+    "slideshow_zHFQXR"
   ]
 }
