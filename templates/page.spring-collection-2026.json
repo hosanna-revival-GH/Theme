@@ -1,0 +1,375 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true,
+        "background_color": ""
+      }
+    },
+    "hero_video_TkRRh9": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c05535d119a34791a75627aef1e96428.mp4",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "auto"
+      }
+    },
+    "slideshow_fKC7bk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_UGkbDz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 63,
+            "subheading": "",
+            "link": "https://hosannarevival.com/collections/winter-collection-2025",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Launch-01.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_UGkbDz"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "featured_collection_YcQbAb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "the collection designed to reawaken wonder",
+        "home_featured_products": "winter-2025-collection",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "single_button_jJhiGP": {
+      "type": "single-button",
+      "disabled": true,
+      "settings": {
+        "button_text": "shop winter collection",
+        "button_link": "shopify://collections/winter-2024-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60,
+        "link_color_background": "#c5a09f",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "featured_collections_iYnhdN": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_7mxHyc": {
+          "type": "collection",
+          "settings": {
+            "collection": "winter-2025-bibles",
+            "title": "Bibles",
+            "focal_point": "center center"
+          }
+        },
+        "collection_g8iGrq": {
+          "type": "collection",
+          "settings": {
+            "collection": "winter-2025-notebooks",
+            "title": "Notebooks",
+            "focal_point": "center center"
+          }
+        },
+        "collection_CrnNPE": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "5-Year Prayer Journal",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_7mxHyc",
+        "collection_g8iGrq",
+        "collection_CrnNPE"
+      ],
+      "disabled": true,
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "text_and_image_xEJ9TN": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-532.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "The NLT Life Application Study Bible",
+        "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. This unique study Bible helps you understand Scripture in its context and apply its truth to your daily life.</p><p>This Bible features over 10,000 study tools that bring Scripture to life, showing how its people, teachings, and events apply to everyday life. Each book includes helpful introductions, 100+ Life Application profiles, 500+ maps and charts, and 16 pages of full-color maps. A built-in harmony of the Gospels reveals parallels in Jesus’ life, while a dictionary/concordance and extensive cross-references make deeper study easy.</p>",
+        "button_label": "Shop NLT Study BIbles",
+        "button_link": "shopify://collections/nlt-life-application-study-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Yh9cNV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-205.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featuring a new ESV Study Bible",
+        "title": "The Bethany ESV Study Bible",
+        "text": "<p>We’ve paired our beautiful Bethany design with the beloved ESV Study Bible. For years, the ESV Study Bible has been an invaluable resource for people all over the world. Nearly one hundred reputable biblical scholars and theologians from nine different countries contributed to this incredible work. With beautiful full-color maps, charts, articles, and more, this Study Bible has been designed to help you understand the Bible in a deeper way. As you utilize this Study Bible to spend time with the Lord, may you see more of God’s restoring hand in your life, until the day we experience complete restoration in heaven.</p>",
+        "button_label": "Shop the Bethany Study Bible",
+        "button_link": "shopify://products/esv-study-bible-bethany-theme",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_W93Rri": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ckVMti": {
+          "type": "heading",
+          "settings": {
+            "title": "Introducing the NLT Life Application Study Bible"
+          }
+        },
+        "text_4zi7mj": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The <em>Life Application Study Bible</em> brings the Bible’s <em>original meaning</em> off the page and into your life. As it has done for millions of others, this unique study Bible will help you clearly understand what the Bible says in its context and what that <em>means</em> for you today. It also guides you to <em>apply</em> these insights to your daily life, <em>transforming understanding into lived truth</em>.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ckVMti",
+        "text_4zi7mj"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_yQpiQz": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "NLT COMPACT BIBLES",
+        "home_featured_products": "nlt-compact-bibles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "rich_text_KkwPiq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9XLEt7": {
+          "type": "heading",
+          "settings": {
+            "title": "Tune your heart to the truth of Psalm 23"
+          }
+        },
+        "text_CQyQJh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>The Scripture that inspired this collection, found on our Dublin CSB Bible.</em><br/></p><p></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 5
+          }
+        },
+        "text_jTG4pd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He leads me in paths of righteousness for his name's sake. Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows. Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.”</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9XLEt7",
+        "text_CQyQJh",
+        "text_jTG4pd"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#475a41",
+        "color_text": "#ffffff",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_6xgrG6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_qUyFfK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Launch-prayer.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-Prayer-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_qUyFfK"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_nMLnw7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tVcxNQ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "shopify://collections/winter-2025-collection",
+            "link_text": "Shop 2025 Winter Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-509.jpg",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-331.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_tVcxNQ"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_video_TkRRh9",
+    "slideshow_fKC7bk",
+    "featured_collection_YcQbAb",
+    "single_button_jJhiGP",
+    "featured_collections_iYnhdN",
+    "text_and_image_xEJ9TN",
+    "text_and_image_Yh9cNV",
+    "rich_text_W93Rri",
+    "featured_collection_yQpiQz",
+    "rich_text_KkwPiq",
+    "slideshow_6xgrG6",
+    "slideshow_nMLnw7"
+  ]
+}
