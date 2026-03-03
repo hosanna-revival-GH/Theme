@@ -125,6 +125,19 @@
         "disable_animation": false
       }
     },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "the spring collection",
+        "home_featured_products": "sale",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "promo_grid_MmC94X": {
       "type": "promo-grid",
       "blocks": {
@@ -165,20 +178,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Shop the sale on sale",
-        "home_featured_products": "sale",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_GcPDX3": {
@@ -583,8 +582,8 @@
     "slideshow_bGCPEX",
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
-    "promo_grid_MmC94X",
     "featured_collection_AbN8iP",
+    "promo_grid_MmC94X",
     "slideshow_GcPDX3",
     "slideshow_gW9EVE",
     "promo_grid_BftCNi",
