@@ -19,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/sale",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Cleaning_Artboard_2_copy_2.png",
-            "image_mobile": "shopify://shop_images/Spring_Cleaning_Artboard_2_copy_20.png",
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_2.png",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_20.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -48,57 +48,6 @@
         "disable_animation": false
       }
     },
-    "promo_grid_MmC94X": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_J9rbT7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring_Cleaning-17.png",
-            "link": "shopify://products/csb-notetaking-bible-dorset-theme",
-            "width": "25"
-          }
-        },
-        "image_AbVRfx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring_Cleaning-18.png",
-            "link": "shopify://products/esv-large-print-journaling-bible-nara-theme",
-            "width": "25"
-          }
-        },
-        "image_wHrqXB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring_Cleaning-19.png",
-            "link": "shopify://products/esv-study-bible-iceland-theme",
-            "width": "25"
-          }
-        },
-        "image_pXrCHx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring-Cleaning-Amelia.png",
-            "link": "shopify://products/csb-notetaking-bible-amelia-theme",
-            "width": "25"
-          }
-        }
-      },
-      "block_order": [
-        "image_J9rbT7",
-        "image_AbVRfx",
-        "image_wHrqXB",
-        "image_pXrCHx"
-      ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
@@ -109,14 +58,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Heaven-and-Earth-Chapter-1-Hosanna-Revival-Preview-PDF.pdf?v=1767732625",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_4.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_3.png",
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_3.png",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_3.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -126,7 +75,6 @@
       "block_order": [
         "image_PDEHTW"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -154,8 +102,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_12.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_11.png",
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_4.png",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_28.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -165,7 +113,6 @@
       "block_order": [
         "image_QVcitx"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -176,6 +123,48 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "promo_grid_MmC94X": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_J9rbT7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_30.png",
+            "link": "shopify://products/csb-notetaking-bible-dorset-theme",
+            "width": "33"
+          }
+        },
+        "image_AbVRfx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_40.png",
+            "link": "shopify://products/esv-large-print-journaling-bible-nara-theme",
+            "width": "33"
+          }
+        },
+        "image_wHrqXB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_42.png",
+            "link": "shopify://products/esv-study-bible-iceland-theme",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_J9rbT7",
+        "image_AbVRfx",
+        "image_wHrqXB"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "featured_collection_AbN8iP": {
@@ -581,9 +570,9 @@
   },
   "order": [
     "slideshow_bGCPEX",
-    "promo_grid_MmC94X",
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
+    "promo_grid_MmC94X",
     "featured_collection_AbN8iP",
     "promo_grid_BftCNi",
     "slideshow_GcPDX3",
