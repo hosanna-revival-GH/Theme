@@ -169,6 +169,7 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Shop the sale on sale",
@@ -178,39 +179,6 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
-      }
-    },
-    "promo_grid_BftCNi": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_AxXinN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_30.png",
-            "link": "shopify://pages/jesus-and-the-tree",
-            "width": "50"
-          }
-        },
-        "image_9fzeMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_40.png",
-            "link": "shopify://pages/bible-toolkit",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_AxXinN",
-        "image_9fzeMq"
-      ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
       }
     },
     "slideshow_GcPDX3": {
@@ -229,8 +197,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_13_8eef86a8-d55b-4df2-a10e-b7f3411fb6da.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_11_fd502c87-db74-4577-9c80-c93b9844cfe7.png",
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_15.png",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_25.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -240,7 +208,6 @@
       "block_order": [
         "image_Nrgk3e"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -269,8 +236,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven-and-Earth-launch_ff6023cb-df38-41e8-aaf7-275c1680cc2b.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_5_a771e3d9-559b-4f45-8f95-654f48a61802.png",
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_5.png",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_36.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -289,6 +256,48 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "promo_grid_BftCNi": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_NWGAkF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_35.png",
+            "link": "",
+            "width": "33"
+          }
+        },
+        "image_AxXinN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_45.png",
+            "link": "shopify://pages/jesus-and-the-tree",
+            "width": "33"
+          }
+        },
+        "image_9fzeMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_46.png",
+            "link": "shopify://pages/bible-toolkit",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_NWGAkF",
+        "image_AxXinN",
+        "image_9fzeMq"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_8GYyKV": {
@@ -373,6 +382,7 @@
         "image_dcHMiN",
         "image_Gm3rH7"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -409,6 +419,7 @@
       "block_order": [
         "image_EBgzXT"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -545,8 +556,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_176_copy_3.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_176_copy_13.png",
+            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_176_copy_3.png",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_176_copy_13.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -574,9 +585,9 @@
     "slideshow_JzgDYA",
     "promo_grid_MmC94X",
     "featured_collection_AbN8iP",
-    "promo_grid_BftCNi",
     "slideshow_GcPDX3",
     "slideshow_gW9EVE",
+    "promo_grid_BftCNi",
     "slideshow_8GYyKV",
     "promo_grid_UydWcM",
     "slideshow_YNbwrF",
