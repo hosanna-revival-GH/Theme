@@ -35,8 +35,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Best_Sellers_Sale-11.png",
-            "image_mobile": "shopify://shop_images/Best_Sellers_Sale-11.png",
+            "image": "shopify://shop_images/Spring_Collection_Launch-04.png",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Launch-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -62,14 +62,14 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "Sale on sale! Use code extra20",
-        "button_link": "shopify://collections/sale",
+        "button_text": "Shop the Spring Collection",
+        "button_link": "",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
+        "link_color_background": "#d7b8c6",
+        "link_color_text": "#5c4462"
       }
     },
     "single_button_eFchhW": {
@@ -81,21 +81,21 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
-        "link_color_text": "#ffffff"
+        "link_color_background": "#d7b8c6",
+        "link_color_text": "#5c4462"
       }
     },
     "single_button_qAwKEz": {
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "10 articles on Trials and Suffering",
-        "button_link": "https://hosannarevival.blog/category/monthly-highlights/february-2026-trials-suffering/",
+        "button_text": "10 articles on Relationships",
+        "button_link": "https://hosannarevival.blog/category/monthly-highlights/march-2026-relationships/",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -109,12 +109,13 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
     "single_button_3L6q9A": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Explore The Winter Collection",
         "button_link": "shopify://collections/winter-2025-collection",
@@ -122,7 +123,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -135,7 +136,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -177,7 +178,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -190,7 +191,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -203,12 +204,13 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
     "single_button_N8Brir": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Read our latest \"WHEN\" article",
         "button_link": "https://hosannarevival.blog",
@@ -229,7 +231,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -242,7 +244,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -255,7 +257,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#839276",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     }
