@@ -264,7 +264,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_35.png",
-            "link": "",
+            "link": "shopify://products/motherhood-and-the-good-life",
             "width": "33"
           }
         },
@@ -280,7 +280,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_46.png",
-            "link": "shopify://pages/bible-toolkit",
+            "link": "https://hosannarevival.blog/category/monthly-highlights/march-2026-relationships/",
             "width": "33"
           }
         }
