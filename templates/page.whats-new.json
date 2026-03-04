@@ -85,6 +85,20 @@
         "link_color_text": "#ffffff"
       }
     },
+    "single_button_gX7jmw": {
+      "type": "single-button",
+      "custom_css": [],
+      "settings": {
+        "button_text": "be reminded when spanish bibles are here",
+        "button_link": "shopify://pages/spanish-bible-interest",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#d7b8c6",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_eFchhW": {
       "type": "single-button",
       "settings": {
@@ -136,21 +150,6 @@
         "space_above": 30,
         "space_below": 20,
         "link_color_background": "#d7b8c6",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_gX7jmw": {
-      "type": "single-button",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "button_text": "The 2025 spring collection",
-        "button_link": "shopify://collections/spring-2025-collection",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#b5a04a",
         "link_color_text": "#ffffff"
       }
     },
@@ -266,11 +265,11 @@
     "slideshow_xWCjYr",
     "single_button_QbwFRq",
     "single_button_3L6q9A",
+    "single_button_gX7jmw",
     "single_button_eFchhW",
     "single_button_qAwKEz",
     "single_button_hCmA7f",
     "single_button_JD887j",
-    "single_button_gX7jmw",
     "single_button_GryJY9",
     "single_button_KDXcyH",
     "single_button_RAWt9g",
