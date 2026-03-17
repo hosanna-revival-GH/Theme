@@ -183,7 +183,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#d7b8c6",
+        "color_bg": "#be7a6f",
         "color_text": "#ffffff",
         "space_above": 60,
         "space_below": 60
@@ -330,7 +330,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 30,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#be7a6f",
         "link_color_text": "#ffffff"
       }
     },
@@ -553,7 +553,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#d7b8c6",
+        "color_bg": "#be7a6f",
         "color_text": "#f5f0e6",
         "space_above": 75,
         "space_below": 75
@@ -662,7 +662,7 @@
         "alignment": "center",
         "space_above": 60,
         "space_below": 60,
-        "link_color_background": "#2a3e28",
+        "link_color_background": "#be7a6f",
         "link_color_text": "#ffffff"
       }
     },
