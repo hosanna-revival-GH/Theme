@@ -562,34 +562,34 @@
     "rich_text_btt7iF": {
       "type": "rich-text",
       "blocks": {
-        "heading_AVFQ6N": {
-          "type": "heading",
-          "settings": {
-            "title": "Meet the AUthor"
-          }
-        },
         "text_NDfGyh": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Katie</em>’s<em> Story</em></p>",
+            "text": "<p><em>Meet the Author</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
+          }
+        },
+        "heading_AVFQ6N": {
+          "type": "heading",
+          "settings": {
+            "title": "Katie Noble’s Story"
           }
         },
         "text_i4wTjQ": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>The easy thing to say is that I became a mother before I was ‘ready’. But no woman is ever <em>truly</em> ready to receive all that motherhood brings with it. So the true thing to say is that I became a mother before I meant to, before we’d gotten our ducks in a row, before I’d accomplished all the things I planned, before I’d agreed to allow motherhood to slow me down. </p><p>When my son was born, I promised myself I wouldn’t succumb to all the stereotypes of new mothers: I wouldn’t ‘lose myself’ in motherhood, wouldn’t give up control over my life, wouldn’t let fear dictate my parenting decisions, wouldn’t crumble under the pressure to get it all right. But, of course, all of those things came to pass. The life I’d been led to believe was <em>good</em> was one of ultimate control, full of margin and ease and aligning with my preferences. Life as a mother was not that. And I was left scrambling to patch together a feasible argument to call my life good.</p><p>I didn’t realize that I’d internalized beliefs about motherhood and the good life that did not agree with God’s heart nor the scriptures. I’d subconsciously come to agree with untruths about what makes life valuable, what makes a woman worthy of love, and what it means to truly offer <em>all</em> things to Christ who came life and life to the full. It took me years (and I am still far from arriving fully at the truth) to allow God to refashion my heart to receive <em>his</em> vision for the good life. I was amazed to see that this good life isn’t merely accessible within motherhood, but that motherhood can be a path directly into such a life, as it offers women many of the mandatory postures of a disciple of Christ: humility, self-forgetfulness, care for others, sacrificial love, and persistent reliance upon God.</p><p>If you’ve ever felt disillusioned in motherhood, burdened by cultural narratives that treat children (and, by extension, their mothers) with disdain, or simply weary from the legitimate and long labor of motherhood, I hope this book will offer a measure of reprieve. I hope you’ll see with clarity that motherhood is a station fashioned with intention and delight by God himself to expand his Kingdom through and within us, the mothers.</p>",
-            "align_text_block": "inherit",
+            "align_text_block": "left",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
-        "heading_AVFQ6N",
         "text_NDfGyh",
+        "heading_AVFQ6N",
         "text_i4wTjQ"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
