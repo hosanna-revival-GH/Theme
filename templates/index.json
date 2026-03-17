@@ -48,6 +48,23 @@
         "disable_animation": false
       }
     },
+    "hero_video_k84RfB": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "the spring collection",
+        "title_size": 40,
+        "subheading": "within the pages of Scripture, be met by the Father who restores",
+        "link_text": "shop now",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/93d01a42d030422096801719725d8a8b.mp4",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "400px"
+      }
+    },
     "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
@@ -75,6 +92,7 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -580,6 +598,7 @@
   },
   "order": [
     "slideshow_bGCPEX",
+    "hero_video_k84RfB",
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
