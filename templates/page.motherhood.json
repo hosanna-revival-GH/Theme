@@ -607,6 +607,7 @@
     },
     "text_and_image_TnnR6t": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_6.jpg",
         "image_mask": "none",
@@ -629,14 +630,14 @@
     "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_7.jpg",
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_6.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
-        "title": "Jordan Moody",
-        "text": "<p>Jordan Moody is the lead pastor at Hope Fellowship Church in Jaffrey, New Hampshire, and a graduate of Bob Jones University and Liberty Theological Seminary. When he’s not writing or reading, Jordan enjoys cheering on his favorite sports teams, triathlons, hiking, skiing, and coaching soccer. Above all, he treasures quality time with his wife and children.</p>",
-        "button_label": "Follow Jordan",
-        "button_link": "https://www.instagram.com/jordantmoody/",
+        "title": "Katie Noble",
+        "text": "<p>Katie Noble is the author of <a href=\"/products/pray-like-this\" title=\"Pray Like This by Katie Noble\"><em>Pray Like This:</em></a><em> Christ’s Guide to Praying the Scriptures</em> and <a href=\"/products/god-our-home\" title=\"God Our Home by Katie Noble\"><em>God Our Home:</em></a><em> A Study of the Gospel of John. </em>She and her husband live and work in Ohio with their four children.</p>",
+        "button_label": "Follow Katie",
+        "button_link": "https://www.instagram.com/katie.noble/",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
