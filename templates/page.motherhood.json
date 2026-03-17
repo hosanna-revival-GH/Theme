@@ -235,7 +235,7 @@
         "description_kPn7xA": {
           "type": "description",
           "settings": {
-            "is_tab": false
+            "is_tab": true
           }
         },
         "variant_picker_6PfJU7": {
