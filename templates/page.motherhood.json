@@ -78,9 +78,9 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book.jpg",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book_2.jpg",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_1.jpg",
+            "image_mobile": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_2.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -91,7 +91,7 @@
         "image_NjgGKA"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -167,7 +167,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Have you ever wondered what really happens after we die? Or pictured eternity as distant or unclear? Have you ever struggled to find hope after loss?</p>",
+            "text": "<p>Have you ever felt as though motherhood and happiness cannot coexist? Has the sacred, daily work of motherhood ever felt both overwhelming and unsatisfying? Have you felt the weight of motherhood carrying a stigma in today’s culture? </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -183,7 +183,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#2a3e28",
+        "color_bg": "#d7b8c6",
         "color_text": "#ffffff",
         "space_above": 60,
         "space_below": 60
@@ -195,14 +195,14 @@
         "heading_hNHcBY": {
           "type": "heading",
           "settings": {
-            "title": "Heaven & Earth: Awakening Hope for Eternity with God"
+            "title": "Motherhood & The Good life"
           }
         },
         "text_9KyJ8h": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Heaven & Earth</em> is for anyone longing for clarity and hope as they wrestle with heaven, eternity, and the promises of Jesus Christ.</p>",
+            "text": "<p>is a book for those who long for a spiritual understanding of the significance of motherhood and for those fearful to start a family because they’ve been told children block the path to the good life.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -262,7 +262,7 @@
         "buy_buttons_ahxUNr"
       ],
       "settings": {
-        "featured_product": "heaven-earth-by-jordan-moody",
+        "featured_product": "motherhood-and-the-good-life",
         "divider": false,
         "sku_enable": false,
         "image_position": "left",
@@ -351,7 +351,7 @@
     "text_and_image_c87NAi": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Jordan_Moody_Author_Photo_Nov_13_2025_1.jpg",
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_3.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
