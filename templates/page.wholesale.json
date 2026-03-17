@@ -68,10 +68,10 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Wholesale Catalog",
-            "text": "<p>Click below to view the most recent version of the Hosanna Revival wholesale catalog.</p>",
-            "button_label": "Wholesale Catalog",
-            "button_link": "https://e.issuu.com/embed.html?d=b2b-catalog&u=hosannarevival"
+            "title": "Find us on Faire",
+            "text": "<p>If your preferred Wholesale Marketplace is Faire, feel free to place an order with us there!</p>",
+            "button_label": "Order on Faire",
+            "button_link": "https://hosannarevival.faire.com"
           }
         }
       },
@@ -95,10 +95,10 @@
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
-            "title": "Find us on Faire",
-            "text": "<p>If your preferred Wholesale Marketplace is Faire, feel free to place an order with us there!</p>",
-            "button_label": "Order on Faire",
-            "button_link": "https://hosannarevival.faire.com"
+            "title": "Wholesale Catalog",
+            "text": "<p>Click below to view the most recent version of the Hosanna Revival wholesale catalog.</p>",
+            "button_label": "Wholesale Catalog",
+            "button_link": "https://e.issuu.com/embed.html?d=b2b-catalog&u=hosannarevival"
           }
         },
         "text_block_y8bet3": {
