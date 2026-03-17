@@ -109,7 +109,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/Hosanna-Revival-History-About-Us-011.jpg",
+        "image": "shopify://shop_images/First-Spanish-Bible-Hosanna-Revival04.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
@@ -266,7 +266,7 @@
     "text_and_image_dmaU4R": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Hosanna-Revival-History-About-Us-011.jpg",
+        "image": "shopify://shop_images/First-Spanish-Bible-Hosanna-Revival04.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
