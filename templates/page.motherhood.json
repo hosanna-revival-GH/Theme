@@ -325,12 +325,12 @@
       "type": "single-button",
       "settings": {
         "button_text": "Preview Chapter One",
-        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Heaven-and-Earth-Chapter-1-Hosanna-Revival-Preview-PDF.pdf?v=1767732625",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Motherhood-And-The-Good-Life-Hosanna-Revival-Preview.pdf?v=1772138636",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 30,
-        "link_color_background": "#2a3e28",
+        "link_color_background": "#d7b8c6",
         "link_color_text": "#ffffff"
       }
     },
@@ -372,7 +372,7 @@
     "text_and_image_kXTmWw": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book_1.jpg",
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_5.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Details",
@@ -510,14 +510,14 @@
         "heading_mqtw6M": {
           "type": "heading",
           "settings": {
-            "title": "A prayer for when your heart aches for Heaven"
+            "title": "A prayer for the mother who desires to live in Biblical truth"
           }
         },
         "text_4UN8Gr": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Father, </em></p>",
+            "text": "<p><em>Dearest Lord of Truth and Beauty,</em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -526,7 +526,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>This world feels heavy, and my heart is homesick. Lift my eyes to the hills, for when I look up, I see where my help comes from, for my help comes from the Lord, the maker of heaven and earth. </p><p>Jesus, you are the founder of my faith and the author of my salvation. Turn my longing into hope and my tears into anticipation for the day I see you face to face and find my eternal home with you. Come quickly.</p>",
+            "text": "<p>You have ordered the world to tell of your goodness; indeed, all of creation sings your praise! The stars and the sun, the birds and meadows are poems of your faithfulness. </p><p>In your wisdom and kindness, you’ve appointed your truth to be proclaimed from the mouths of babes. These little ones you’ve given to me are proof of your love, and it is to them that your kingdom belongs. Despite their youth, you bestow your truth upon them. It is upon these tender hearts that your truth can be written.</p><p>Forgive me, Father, for forgetting the wisdom of children, for trading their wonder for harder, sharper, smaller things: my own understanding, my own fear, my own hand-cobbled identity, my faltering ability and ego. Forgive me for trading the soft, fleshy heart of my youth for an aged heart of stone. </p><p>Create in me a new heart, O God! Restore in me the joy of your salvation! As I spend my days with these little ones, soften my heart to once again receive and rejoice in your truth. </p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -553,7 +553,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#2a3e28",
+        "color_bg": "#d7b8c6",
         "color_text": "#f5f0e6",
         "space_above": 75,
         "space_below": 75
@@ -562,7 +562,7 @@
     "text_and_image_TnnR6t": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Jordan_Moody_Author_Photo_Nov_13_2025_4.jpg",
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_6.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
@@ -583,7 +583,7 @@
     "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Jordan_Moody_Author_Photo_Nov_13_2025_2.jpg",
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_7.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
