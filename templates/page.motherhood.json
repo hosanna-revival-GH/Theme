@@ -559,6 +559,52 @@
         "space_below": 75
       }
     },
+    "rich_text_btt7iF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AVFQ6N": {
+          "type": "heading",
+          "settings": {
+            "title": "Meet the AUthor"
+          }
+        },
+        "text_NDfGyh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Katie</em>’s<em> Story</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_i4wTjQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The easy thing to say is that I became a mother before I was ‘ready’. But no woman is ever <em>truly</em> ready to receive all that motherhood brings with it. So the true thing to say is that I became a mother before I meant to, before we’d gotten our ducks in a row, before I’d accomplished all the things I planned, before I’d agreed to allow motherhood to slow me down. </p><p>When my son was born, I promised myself I wouldn’t succumb to all the stereotypes of new mothers: I wouldn’t ‘lose myself’ in motherhood, wouldn’t give up control over my life, wouldn’t let fear dictate my parenting decisions, wouldn’t crumble under the pressure to get it all right. But, of course, all of those things came to pass. The life I’d been led to believe was <em>good</em> was one of ultimate control, full of margin and ease and aligning with my preferences. Life as a mother was not that. And I was left scrambling to patch together a feasible argument to call my life good.</p><p>I didn’t realize that I’d internalized beliefs about motherhood and the good life that did not agree with God’s heart nor the scriptures. I’d subconsciously come to agree with untruths about what makes life valuable, what makes a woman worthy of love, and what it means to truly offer <em>all</em> things to Christ who came life and life to the full. It took me years (and I am still far from arriving fully at the truth) to allow God to refashion my heart to receive <em>his</em> vision for the good life. I was amazed to see that this good life isn’t merely accessible within motherhood, but that motherhood can be a path directly into such a life, as it offers women many of the mandatory postures of a disciple of Christ: humility, self-forgetfulness, care for others, sacrificial love, and persistent reliance upon God.</p><p>If you’ve ever felt disillusioned in motherhood, burdened by cultural narratives that treat children (and, by extension, their mothers) with disdain, or simply weary from the legitimate and long labor of motherhood, I hope this book will offer a measure of reprieve. I hope you’ll see with clarity that motherhood is a station fashioned with intention and delight by God himself to expand his Kingdom through and within us, the mothers.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_AVFQ6N",
+        "text_NDfGyh",
+        "text_i4wTjQ"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "text_and_image_TnnR6t": {
       "type": "text-and-image",
       "settings": {
@@ -567,7 +613,7 @@
         "image2_mask": "none",
         "subtitle": "Meet the Author",
         "title": "Jordan’s Story",
-        "text": "<p>I never anticipated that my journey would be profoundly influenced by grief. Yet, there I was, driving home after conducting my own father's funeral at my home church, suddenly grappling with questions I had spent years helping others navigate. Until my dad died of cancer, I hadn’t thought much about heaven. I believed in eternal life, preached hope, and quoted John 3:16, yet I often felt unsure how to offer real comfort. Behind the pulpit, I proclaimed hope; inside, I wasn’t always certain what that hope actually meant.</p><p>That loss forced me to search the Scriptures with new urgency. I had grown up in church, familiar with end-times debates, but I realized how little I understood about life <em>after</em> death: about what eternity with God actually looks like. Was heaven the end of all the things I love or the beginning of something better? Those questions launched me on a journey to discover what the Bible really says about the world to come, and to learn how to grieve with hope, not without it.</p>",
+        "text": "<p>The easy thing to say is that I became a mother before I was ‘ready’. But no woman is ever <em>truly</em> ready to receive all that motherhood brings with it. So the true thing to say is that I became a mother before I meant to, before we’d gotten our ducks in a row, before I’d accomplished all the things I planned, before I’d agreed to allow motherhood to slow me down. </p><p>When my son was born, I promised myself I wouldn’t succumb to all the stereotypes of new mothers: I wouldn’t ‘lose myself’ in motherhood, wouldn’t give up control over my life, wouldn’t let fear dictate my parenting decisions, wouldn’t crumble under the pressure to get it all right. But, of course, all of those things came to pass. The life I’d been led to believe was <em>good</em> was one of ultimate control, full of margin and ease and aligning with my preferences. Life as a mother was not that. And I was left scrambling to patch together a feasible argument to call my life good.</p><p>I didn’t realize that I’d internalized beliefs about motherhood and the good life that did not agree with God’s heart nor the scriptures. I’d subconsciously come to agree with untruths about what makes life valuable, what makes a woman worthy of love, and what it means to truly offer <em>all</em> things to Christ who came life and life to the full. It took me years (and I am still far from arriving fully at the truth) to allow God to refashion my heart to receive <em>his</em> vision for the good life. I was amazed to see that this good life isn’t merely accessible within motherhood, but that motherhood can be a path directly into such a life, as it offers women many of the mandatory postures of a disciple of Christ: humility, self-forgetfulness, care for others, sacrificial love, and persistent reliance upon God.</p><p>If you’ve ever felt disillusioned in motherhood, burdened by cultural narratives that treat children (and, by extension, their mothers) with disdain, or simply weary from the legitimate and long labor of motherhood, I hope this book will offer a measure of reprieve. I hope you’ll see with clarity that motherhood is a station fashioned with intention and delight by God himself to expand his Kingdom through and within us, the mothers.</p>",
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
@@ -698,6 +744,7 @@
     "slideshow_UC7cyw",
     "slideshow_LzQNT7",
     "rich_text_hjcJjW",
+    "rich_text_btt7iF",
     "text_and_image_TnnR6t",
     "text_and_image_WGta8f",
     "single_button_3gmwY3",
