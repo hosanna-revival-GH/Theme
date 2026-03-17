@@ -212,6 +212,7 @@
         "heading_hNHcBY",
         "text_9KyJ8h"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -376,10 +377,10 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Details",
-        "title": "Heaven & Earth",
+        "title": "Motherhood & The Good Life",
         "text": "<p><strong>Topic:</strong> Early Motherhood<br/><strong>Length of Study: </strong>20 chapters<br/><strong>Focal Scripture:</strong> Multiple passages</p><p>“We’ve grown profoundly ignorant to the fact that God himself decided to perpetually bless the world with new life through <em>mothers</em>; that the act of mothering is a primary means by which God continues to expand his kingdom of image bearers, generation after generation; that God himself chose to enter the world not by opening the skies but by opening the womb of a woman.”<br/><em>- Katie Noble, author</em></p>",
         "button_label": "shop",
-        "button_link": "shopify://products/heaven-earth-by-jordan-moody",
+        "button_link": "shopify://products/motherhood-and-the-good-life",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
