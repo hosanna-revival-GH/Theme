@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "advanced_content_RycVwR": {
@@ -23,7 +24,7 @@
         "liquid_RpWcHE": {
           "type": "liquid",
           "settings": {
-            "code": "<div style=\"width:100%;height:500px;\" data-fillout-id=\"fBE9kEtaZQus\" data-fillout-embed-type=\"standard\" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src=\"https://server.fillout.com/embed/v1/\"></script>",
+            "code": "<script\n  id=\"os-embed-widget\"\n  data-wt=\"form\"\n  data-os=\"36db9400-4c05-4c52-b9b1-66d123daafee\"\n  data-base=\"https://app.overjoy.ai\"\n>\n  (function (o, v, e, r, see) {\n    o = document.createElement(\"script\");\n    v = o.src = \"https://app.overjoy.ai/embed/v2/embed.js\";\n    e = o.async = 1;\n    r = document.getElementsByTagName(\"script\")[0];\n    see = r.parentNode.insertBefore(o, r);\n  })();\n</script>",
             "width": "100%",
             "alignment": "center"
           }
