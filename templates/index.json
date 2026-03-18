@@ -19,7 +19,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "",
+            "link": "shopify://collections/spring-2026-collection",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -56,7 +56,7 @@
         "title_size": 40,
         "subheading": "within the pages of Scripture, be met by the Father who restores",
         "link_text": "shop now",
-        "link": "",
+        "link": "shopify://collections/spring-2026-collection",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https://cdn.shopify.com/videos/c/o/v/93d01a42d030422096801719725d8a8b.mp4",
@@ -114,7 +114,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/heaven-and-earth",
+            "link": "shopify://collections/notebooks",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -148,7 +148,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "the spring collection",
-        "home_featured_products": "sale",
+        "home_featured_products": "spring-2026-collection",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -163,7 +163,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_30.png",
-            "link": "shopify://products/csb-notetaking-bible-dorset-theme",
+            "link": "shopify://products/esv-journaling-bible-palma-theme",
             "width": "33"
           }
         },
@@ -171,7 +171,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_40.png",
-            "link": "shopify://products/esv-large-print-journaling-bible-nara-theme",
+            "link": "",
             "width": "33"
           }
         },
@@ -179,7 +179,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_42.png",
-            "link": "shopify://products/esv-study-bible-iceland-theme",
+            "link": "shopify://products/nlt-notetaking-bible-belfast-theme",
             "width": "33"
           }
         }
@@ -208,7 +208,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/jesus-and-the-tree",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -247,7 +247,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/heaven-and-earth",
+            "link": "shopify://collections/stickers",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
