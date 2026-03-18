@@ -47,33 +47,33 @@
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Sale on Sale!",
-            "link_text": "Use code EXTRA20 to get an additional 20% off our sale section",
-            "link": "shopify://collections/sale"
+            "text": "The Spring Collection is Here",
+            "link_text": "Add a free notebook to your cart when you spend $75",
+            "link": "shopify://collections/spring-2026-collection"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Free Shipping on Orders over $100",
-            "link_text": "Stock up and enjoy free shipping on us!",
+            "text": "New CSB Women’s Study Bible",
+            "link_text": " Learn more about our newest Study Bibles!",
             "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Sign up for our free Holy Week Study",
-            "link_text": "Sign up for our email series leading up to Holy Week beginning 3/28",
-            "link": "shopify://pages/jesus-and-the-tree"
+            "text": "Motherhood & The Good Life",
+            "link_text": "Preorder our newest book by Katie Noble",
+            "link": "shopify://products/motherhood-and-the-good-life"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Find a tool that excites you to engage in Scripture",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": "Sign up for our free Holy Week Study",
+            "link_text": "Sign up for our email series leading up to Holy Week beginning 3/28",
+            "link": "shopify://pages/jesus-and-the-tree"
           }
         }
       },
