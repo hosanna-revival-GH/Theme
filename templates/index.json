@@ -171,7 +171,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_40.png",
-            "link": "",
+            "link": "shopify://collections/spring-2026-collection-landscapes",
             "width": "33"
           }
         },
