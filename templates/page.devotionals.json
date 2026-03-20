@@ -90,28 +90,6 @@
         "space_below": 75
       }
     },
-    "text_and_image_a4ekiP": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_8.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "by Katie Noble",
-        "title": "Motherhood & the Good Life",
-        "text": "<p>Topic: Holy Motherhood<br/>Type of Study: Book<br/>Length: 20 Chapters<br/>Focal Scripture: Multiple Passages</p><p><em>Motherhood & the Good Life </em>by Katie Noble is a book for those who long for a spiritual understanding of the significance of motherhood and for those fearful to start a family because they’ve been told children block the path to the good life.</p>",
-        "button_label": "Learn More",
-        "button_link": "shopify://pages/motherhood-the-good-life",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "featured_collection_J8jTm7": {
       "type": "featured-collection",
       "settings": {
@@ -122,6 +100,28 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
+      }
+    },
+    "text_and_image_a4ekiP": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_8.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Katie Noble",
+        "title": "Motherhood & the Good Life",
+        "text": "<p>Topic: Motherhood in God’s Eyes<br/>Type of Study: Book<br/>Length: 20 Chapters<br/>Focal Scripture: Multiple Passages</p><p><em>Motherhood & the Good Life </em>by Katie Noble is a book for those who long for a spiritual understanding of the significance of motherhood and for those fearful to start a family because they’ve been told children block the path to the good life.</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/motherhood-the-good-life",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "text_and_image_yanWF7": {
