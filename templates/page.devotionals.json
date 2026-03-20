@@ -152,6 +152,28 @@
         "space_below": 0
       }
     },
+    "text_and_image_a4ekiP": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_8.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Katie Noble",
+        "title": "Motherhood & the Good Life",
+        "text": "<p>Topic: Holy Motherhood<br/>Type of Study: Book<br/>Length: 20 Chapters<br/>Focal Scripture: Multiple Passages</p><p><em>Motherhood & the Good Life </em>by Katie Noble is a book for those who long for a spiritual understanding of the significance of motherhood and for those fearful to start a family because they’ve been told children block the path to the good life.</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/motherhood-the-good-life",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "text_and_image_i9HfGc": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -359,27 +381,6 @@
         "align_text": "left",
         "image_width": "50",
         "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "3c65e0e5-8468-47e5-a894-04f8b7fbbbb7": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/storycircle_photo_540x_3026036c-8652-40bb-8a83-108298814e4e.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "by paige stitt-mcbride",
-        "title": "Beauty Not Beheld",
-        "text": "<p><strong>Topic: Beauty and Identity</strong><br/><strong>Type of Study: </strong>Book<br/><strong>Length of Study: </strong>6 weeks <br/><strong>Focal Scripture: </strong>Multiple passages<br/><strong>Structure: </strong>6 daily entries per week, reflection questions</p><p><em>Beauty Not Beheld</em> is a 6-week book for those who want to learn to see themselves and the world through the eyes of God. Each week provides six studies contrasting a common sentiment in society with a biblical truth. After reading the given passage of Scripture and commentary, readers are given reflection questions to verbalize and apply what they are learning.</p><p></p>",
-        "button_label": "Learn More",
-        "button_link": "shopify://pages/beauty-not-beheld-devotional",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -595,6 +596,7 @@
     "featured_collection_J8jTm7",
     "text_and_image_yanWF7",
     "toolkit_ykR3HX",
+    "text_and_image_a4ekiP",
     "text_and_image_i9HfGc",
     "text_and_image_n9EMHx",
     "text_and_image_jdGknV",
@@ -605,7 +607,6 @@
     "4653de44-9af4-4c49-bea6-347f6c9b80a7",
     "9ec6d794-b421-41d2-8332-7076d55dfbe0",
     "2fcd114d-417b-466e-9775-0479cfef8b3c",
-    "3c65e0e5-8468-47e5-a894-04f8b7fbbbb7",
     "e670311d-a86a-4a77-8af4-e0c1e8c89db9",
     "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5",
     "076f66e3-006f-408d-aa70-c3f928ac15bb",
