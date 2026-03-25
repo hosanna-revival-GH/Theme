@@ -7,7 +7,7 @@
   <div class="grid">
     <div class="grid__item small--one-third">
       {%- if article.image -%}
-        <a href="{{ article.url }}" class="article__grid-image" aria-label="{{ article.title | escape }}">
+        <a href="{{ article.url }}" class="article__grid-image article__grid-image--hoverable" aria-label="{{ article.title | escape }}">
           {%- if fixed_aspect_ratio -%}
             <div class="image-wrap">
               <div
@@ -28,6 +28,9 @@
               -%}
             </div>
           {%- endif -%}
+          <div class="article__grid-overlay">
+            <span class="article__grid-overlay-btn">View All</span>
+          </div>
         </a>
       {%- else -%}
         <div class="article__grid-image">
