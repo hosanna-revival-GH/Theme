@@ -9,6 +9,45 @@
  */
 {
   "sections": {
+    "slideshow_JzgDYA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QVcitx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/jesus-and-the-tree",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Pre-Holy-Week-Web_Artboard_2_copy_2-03.png",
+            "image_mobile": "shopify://shop_images/Pre-Holy-Week-Web_Artboard_2_copy_20-05.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QVcitx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "slideshow_bGCPEX": {
       "type": "slideshow",
       "blocks": {
@@ -101,45 +140,6 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_JzgDYA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QVcitx": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/notebooks",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_4.png",
-            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_28.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QVcitx"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -281,31 +281,22 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_35.png",
+            "image": "shopify://shop_images/Pre-Holy-Week-Web_Artboard_2_copy_35-02.png",
             "link": "shopify://products/motherhood-and-the-good-life",
-            "width": "33"
-          }
-        },
-        "image_AxXinN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_45.png",
-            "link": "shopify://pages/jesus-and-the-tree",
-            "width": "33"
+            "width": "50"
           }
         },
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_46.png",
+            "image": "shopify://shop_images/Pre-Holy-Week-Web-08.png",
             "link": "https://hosannarevival.blog/category/monthly-highlights/march-2026-relationships/",
-            "width": "33"
+            "width": "50"
           }
         }
       },
       "block_order": [
         "image_NWGAkF",
-        "image_AxXinN",
         "image_9fzeMq"
       ],
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
@@ -597,10 +588,10 @@
     }
   },
   "order": [
+    "slideshow_JzgDYA",
     "slideshow_bGCPEX",
     "hero_video_k84RfB",
     "slideshow_X4MRpa",
-    "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
     "promo_grid_MmC94X",
     "slideshow_GcPDX3",
