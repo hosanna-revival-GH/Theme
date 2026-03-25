@@ -44,11 +44,19 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Sign up for our free Holy Week Study",
+            "link_text": "Sign up for our email series leading up to Holy Week beginning 3/28",
+            "link": "shopify://pages/jesus-and-the-tree"
+          }
+        },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
             "text": "The Spring Collection is Here",
-            "link_text": "Add a free notebook to your cart when you spend $75",
+            "link_text": "Explore new beautiful Bibles",
             "link": "shopify://collections/spring-2026-collection"
           }
         },
@@ -67,21 +75,13 @@
             "link_text": "Preorder our newest book by Katie Noble",
             "link": "shopify://products/motherhood-and-the-good-life"
           }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "Sign up for our free Holy Week Study",
-            "link_text": "Sign up for our email series leading up to Holy Week beginning 3/28",
-            "link": "shopify://pages/jesus-and-the-tree"
-          }
         }
       },
       "block_order": [
+        "announcement-1",
         "announcement_NXQKWa",
         "announcement_mMUAeX",
-        "announcement_FNqfy6",
-        "announcement-1"
+        "announcement_FNqfy6"
       ],
       "settings": {
         "announcement_compact": true
