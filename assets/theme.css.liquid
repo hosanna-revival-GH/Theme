@@ -10119,7 +10119,38 @@ html[dir=rtl] .grid-product__content{
   font-size:max(calc(var(--typeBaseSize)*0.7), 12px);
   margin-bottom:3px;
 }
+.article__grid-image--hoverable {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
 
+.article__grid-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.25);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.article__grid-image--hoverable:hover .article__grid-overlay {
+  opacity: 1;
+}
+
+.article__grid-overlay-btn {
+  display: inline-block;
+  padding: 8px 20px;
+  border: 1.5px solid #fff;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-radius: 2px;
+  background: transparent;
+}
 .section-header .article__date{
     margin-bottom:15px;
 }
@@ -13508,33 +13539,32 @@ body#careers.template-blog [data-section-type="blog"] a:hover {
 .jdgm-rev__icon::after, .jdgm-rev__verification-badge-img {display: none !important;}
 
 
-/*** BFCM 2025 - CHANGE SURPRISE TAB TO BE RED for CHRISTMAS ***/
+/*** BFCM 2024 - CHANGE SURPRISE TAB TO BE RED for CHRISTMAS ***/
 
 
-a[href*="/pages/the-christmas-story"] {
+a[href="/pages/the-christmas-story"] {
     color: #a52a2a;
 }
 
-a[href*="/pages/the-christmas-story"]:hover {
+a[href="/pages/the-christmas-story"]:hover {
     color: #90322b;
 }
 
-a.mobile-nav__link[href*="/pages/the-christmas-story"] {
+a.mobile-nav__link[href="/pages/the-christmas-story"] {
     color: #a52a2a;
 }
 
-a.mobile-nav__link[href*="/pages/the-christmas-story"]:hover {
+a.mobile-nav__link[href="/pages/the-christmas-story"]:hover {
     color: #90322b;
 }
 
-.site-nav__link--underline[href*="/pages/the-christmas-story"]:after {
+.site-nav__link--underline[href="/pages/the-christmas-story"]:after {
   border-bottom-color: #90322b;
 }
 
 .grid-product__tag--sale {
   background-color: #903631; 
 }
-
 
 /*** Judge.Me Reviews Tweak: Add margin to the left and right on mobile. ***/
 div.jdgm-rev-widg {
