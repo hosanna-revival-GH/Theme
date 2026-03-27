@@ -130,7 +130,7 @@
         "liquid_tHBK7E": {
           "type": "liquid",
           "settings": {
-            "code": "<h3>Wholesale Catalog</h3>\n\n<p>Click below to view the most recent version of the Hosanna Revival wholesale catalog.</p>\n\n<a href=\"#\" class=\"button\" onclick=\"window._klOnsite = window._klOnsite || []; window._klOnsite.push(['openForm', 'UkQdnZ']); return false;\">WHOLESALE CATALOG</a>\n\n<script type=\"text/javascript\">\n\tdocument.querySelector('.klaviyo_form_trigger').addEventListener('click', function (){\n\t\twindow._klOnsite = window._klOnsite || []; \n\t\twindow._klOnsite.push(['openForm', 'FORM_ID']);\n\t});\n</script>",
+            "code": "<h3>Wholesale Catalog</h3>\n\n<p>Click below to view the most recent version of the Hosanna Revival wholesale catalog.</p>\n\n<a href=\"#\" class=\"button\" onclick=\"window._klOnsite = window._klOnsite || []; window._klOnsite.push(['openForm', 'UkQdnZ']); return false;\">WHOLESALE CATALOG</a>\n\n<script type=\"text/javascript\">\n\tdocument.querySelector('.klaviyo_form_trigger').addEventListener('click', function (){\n\t\twindow._klOnsite = window._klOnsite || []; \n\t\twindow._klOnsite.push(['openForm', 'UkQdnZ']);\n\t});\n</script>",
             "width": "50%",
             "alignment": "center"
           }
