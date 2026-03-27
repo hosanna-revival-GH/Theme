@@ -129,6 +129,7 @@
       "blocks": {
         "liquid_tHBK7E": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<h3>Wholesale Catalog</h3>\n\n<p>Click below to view the most recent version of the Hosanna Revival wholesale catalog.</p>\n\n<a href=\"#\" class=\"button\" onclick=\"window._klOnsite = window._klOnsite || []; window._klOnsite.push(['openForm', 'UkQdnZ']); return false;\">WHOLESALE CATALOG</a>\n\n<script type=\"text/javascript\">\n\tdocument.querySelector('.klaviyo_form_trigger').addEventListener('click', function (){\n\t\twindow._klOnsite = window._klOnsite || []; \n\t\twindow._klOnsite.push(['openForm', 'UkQdnZ']);\n\t});\n</script>",
             "width": "50%",
@@ -137,6 +138,7 @@
         },
         "liquid_eDXKhN": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<h3>Terms &amp; Conditions</h3>\n\n<p>Click below to review our updated wholesale terms &amp; conditions.</p>\n\n<a href=\"/pages/wholesale-terms-conditions\" class=\"btn btn--secondary btn--small\" aco-visited=\"true\">\n            View Terms &amp; Conditions\n          </a>",
             "width": "50%",
@@ -148,6 +150,7 @@
         "liquid_tHBK7E",
         "liquid_eDXKhN"
       ],
+      "disabled": true,
       "name": "t:sections.advanced-content.presets.custom_content.name",
       "settings": {
         "full_width": false,
