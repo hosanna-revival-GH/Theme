@@ -123,12 +123,44 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "advanced_content_XzzfGj": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_tHBK7E": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>Wholesale Catalog</h3>\n\n<p>Click below to view the most recent version of the Hosanna Revival wholesale catalog.</p>\n\n<a href=\"#\" class=\"button\" onclick=\"window._klOnsite = window._klOnsite || []; window._klOnsite.push(['openForm', 'UkQdnZ']); return false;\">WHOLESALE CATALOG</a>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_eDXKhN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>Terms &amp; Conditions</h3>\n\n<p>Click below to review our updated wholesale terms &amp; conditions.</p>\n\n<a href=\"/pages/wholesale-terms-conditions\" class=\"btn btn--secondary btn--small\" aco-visited=\"true\">\n            View Terms &amp; Conditions\n          </a>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_tHBK7E",
+        "liquid_eDXKhN"
+      ],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": false
+      }
     }
   },
   "order": [
     "main",
     "background_image_text_LgLcDX",
     "text_columns_hLmqiY",
-    "text_columns_RXY6qM"
+    "text_columns_RXY6qM",
+    "advanced_content_XzzfGj"
   ]
 }
