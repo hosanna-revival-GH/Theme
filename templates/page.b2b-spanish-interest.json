@@ -27,7 +27,7 @@
             "top_subheading": "",
             "title": "Beautiful Spanish Bibles",
             "title_size": 44,
-            "subheading": "Coming July 2026",
+            "subheading": "",
             "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link",
             "link_text": "",
             "link_2": "",
@@ -45,7 +45,7 @@
         "image_gN8n6J"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
