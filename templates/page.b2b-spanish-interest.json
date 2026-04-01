@@ -69,7 +69,7 @@
         "klaviyo_email_marketing_sms_form_embed_block_F8LBqg"
       ],
       "custom_css": [
-        ".klaviyo-form-RVkpDp {background-color: rgb(247, 240, 232);}"
+        ".klaviyo-form-UmLdSy {background-color: rgb(247, 240, 232);}"
       ],
       "settings": {
         "full_width": true,
@@ -92,6 +92,7 @@
       "block_order": [
         "text_P8dYQR"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
@@ -150,6 +151,7 @@
         "heading_3p9rmM",
         "text_UYcwRa"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -202,6 +204,7 @@
         "heading_d8x4jB",
         "text_Ujw3tr"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -265,6 +268,7 @@
     },
     "text_and_image_dmaU4R": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/First-Spanish-Bible-Hosanna-Revival04.jpg",
         "image_mask": "none",
@@ -343,6 +347,7 @@
         "heading_fkkWqQ",
         "text_PmeGCH"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
