@@ -329,6 +329,42 @@
         "link_color_background": "#2c3e1d",
         "link_color_text": "#ffffff"
       }
+    },
+    "rich_text_XqLyXd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hrrG7E": {
+          "type": "heading",
+          "settings": {
+            "title": "Download Jesus and the Tree"
+          }
+        },
+        "text_hHFhwg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Click <a href=\"https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Jesus-and-the-Tree-Hosanna-Revival-Holy-Week-2026-Study.pdf?v=1773860734\" title=\"Jesus and the Tree: An 8-Day Holy Week Series\">here</a> to download the full Jesus and the Tree study PDF</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_hrrG7E",
+        "text_hHFhwg"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#2c3e1d",
+        "color_text": "#e8e8e1",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -343,6 +379,7 @@
     "text_and_image_73PWdj",
     "text_and_image_JeiczU",
     "text_and_image_EBFKWm",
-    "single_button_wAyPa7"
+    "single_button_wAyPa7",
+    "rich_text_XqLyXd"
   ]
 }
