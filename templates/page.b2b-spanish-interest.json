@@ -1,0 +1,415 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true,
+        "background_color": ""
+      }
+    },
+    "slideshow_TVRQX7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gN8n6J": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Beautiful Spanish Bibles",
+            "title_size": 44,
+            "subheading": "Coming July 2026",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Web-Spanish-Bible-Survey-Header-03.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_gN8n6J"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "1769803330271faf56": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_F8LBqg": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "RVkpDp"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_F8LBqg"
+      ],
+      "custom_css": [
+        ".klaviyo-form-RVkpDp {background-color: rgb(247, 240, 232);}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "rich_text_rjGEr3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_P8dYQR": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Para leer esta página en español, sigue bajando.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_P8dYQR"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#839276",
+        "color_text": "#f5eee5",
+        "space_above": 10,
+        "space_below": 10
+      }
+    },
+    "text_and_image_pGnEkB": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/First-Spanish-Bible-Hosanna-Revival04.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Why create beautiful Bibles in Spanish?",
+        "text": "<p>For years, we have dreamed of creating a beautiful Bible in Spanish. The first Bible hand-painted by our founder, Katie, was a bilingual English–Spanish translation. Now, eleven years later, our small business has grown, and we are excited to launch Hosanna Revival Spanish Bibles.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_8JHTTE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3p9rmM": {
+          "type": "heading",
+          "settings": {
+            "title": "Beauty Awaits!"
+          }
+        },
+        "text_UYcwRa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We are so excited to bring Hosanna Revival Spanish Bibles to life. If you know someone else who would be interested, send them the link to this page. Thank you for your support.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_3p9rmM",
+        "text_UYcwRa"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#839276",
+        "color_text": "#f5eee5",
+        "space_above": 40,
+        "space_below": 40
+      }
+    },
+    "blocks_NWeWHJ": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_a02e7d2_YTibMx": {
+          "type": "ai_gen_block_a02e7d2",
+          "settings": {
+            "desktop_width_percent": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_a02e7d2_YTibMx"
+      ],
+      "name": "Blank block",
+      "settings": {}
+    },
+    "rich_text_pAXzYJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_d8x4jB": {
+          "type": "heading",
+          "settings": {
+            "title": "¿Quieres una Biblia hermosa en Español?"
+          }
+        },
+        "text_Ujw3tr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>¿Quieres una Biblia hermosa en español? Regístrate para ser de los primeros en recibir noticias cuando estén disponibles.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_d8x4jB",
+        "text_Ujw3tr"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#839276",
+        "color_text": "#f5eee5",
+        "space_above": 35,
+        "space_below": 35
+      }
+    },
+    "faq_WiR73L": {
+      "type": "faq",
+      "blocks": {
+        "question_yBW66d": {
+          "type": "question",
+          "settings": {
+            "title": "Read this page in English",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "question_yBW66d"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": true
+      }
+    },
+    "rich_text_m9xRmb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Mf7zXA": {
+          "type": "heading",
+          "settings": {
+            "title": "Acerca del Proyecto"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mf7zXA"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 40,
+        "space_below": 0
+      }
+    },
+    "text_and_image_dmaU4R": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/First-Spanish-Bible-Hosanna-Revival04.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "¿Por qué crear hermosas Biblias en Español?",
+        "text": "<p>Por años hemos soñado con la creación de una hermosa Biblia en Español. La primera Biblia pintada a mano de nuestra fundadora, Katie, fué una traducción Bilingüe en Inglés y Español, ahora, 11 años después, nuestro pequeño negocio crece, y estamos listos para explorar la producción de las Biblias en Español de Hosanna Revival. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_j9E3eP": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Hosanna-Revival-Beautiful-KJV-Leather-Bibles-Minimal-Photoshoot-60.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Necesitamos Tu Ayuda",
+        "title": "¿Es esta encuesta para ti?",
+        "text": "<p>¿Quieres tú (o alguien a quien conozcas) una Biblia en Español que sea hermosa? Para considerar el hacer de este proyecto una realidad, <strong>necesitamos por lo menos 2000 respuestas</strong> a esta encuesta. ¡Si no estás interesada/o en las Biblias en Español, comparte con tus amigas/os!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_CHkCz7": {
+      "type": "single-button",
+      "disabled": true,
+      "settings": {
+        "button_text": "Llena la Encuesta",
+        "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSdSLww89bRDo0s6H_aHVrbTuGkhwMEhY8EDOAuRMCH7nYVffw/viewform?usp=sf_link",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "rich_text_KtEpck": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fkkWqQ": {
+          "type": "heading",
+          "settings": {
+            "title": "¡La belleza te espera!"
+          }
+        },
+        "text_PmeGCH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Estamos muy emocionados de dar vida a las Biblias en Español de Hosanna Revival. Si conoces a alguien más que pueda estar interesado, envíale el enlace a esta página. ¡Gracias por tu apoyo!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_fkkWqQ",
+        "text_PmeGCH"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#839276",
+        "color_text": "#f5eee5",
+        "space_above": 30,
+        "space_below": 31
+      }
+    },
+    "slideshow_krBmyn": {
+      "type": "slideshow",
+      "blocks": {
+        "image_j8hLVa": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "“Estamos muy emocionados de dar vida a las Biblias en Español de Hosanna Revival. Si conoces a alguien más que pueda estar interesado, envíale el enlace a esta página. ¡Gracias por tu apoyo! ¡La belleza te espera!”",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2SDihd18rm-joPLrpVwZPEaFWWRuC_wsyftHcyYkXki1bsQ/viewform?usp=sf_link",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Lisbon-NLT-Notetaking-Bible-Embroidered-Floral-Frame-Blue-Green-Hosanna-Revival-09_44b3a6a7-5a1e-498e-aa07-f363494495ff.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_j8hLVa"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_TVRQX7",
+    "1769803330271faf56",
+    "rich_text_rjGEr3",
+    "text_and_image_pGnEkB",
+    "rich_text_8JHTTE",
+    "blocks_NWeWHJ",
+    "rich_text_pAXzYJ",
+    "faq_WiR73L",
+    "rich_text_m9xRmb",
+    "text_and_image_dmaU4R",
+    "text_and_image_j9E3eP",
+    "single_button_CHkCz7",
+    "rich_text_KtEpck",
+    "slideshow_krBmyn"
+  ]
+}
