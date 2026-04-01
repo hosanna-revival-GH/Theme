@@ -251,6 +251,28 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_73PWdj": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-096.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>“Though not as flashy as Christmas celebrations can be, the week of Jesus’s passion—Holy Week—is the centerpiece around which our faith revolves. Jesus’s death and resurrection are the moment of redemption. And while that is something we mostly rejoice in, the week leading up to the resurrection was not wholly celebratory. Instead, it was full of sorrow, pain, and rejection. It was a week in which Jesus was abandoned by his friends, ridiculed and mocked by the religious and those in power, and ultimately condemned to die. In that week, Jesus was broken. Yet it is only in his brokenness that our salvation is realized.”</p><p><em>— Brooke Jackson</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_XqLyXd": {
       "type": "rich-text",
       "blocks": {
@@ -278,28 +300,6 @@
         "color_text": "#e8e8e1",
         "space_above": 35,
         "space_below": 35
-      }
-    },
-    "text_and_image_73PWdj": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-096.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "",
-        "text": "<p>“Though not as flashy as Christmas celebrations can be, the week of Jesus’s passion—Holy Week—is the centerpiece around which our faith revolves. Jesus’s death and resurrection are the moment of redemption. And while that is something we mostly rejoice in, the week leading up to the resurrection was not wholly celebratory. Instead, it was full of sorrow, pain, and rejection. It was a week in which Jesus was abandoned by his friends, ridiculed and mocked by the religious and those in power, and ultimately condemned to die. In that week, Jesus was broken. Yet it is only in his brokenness that our salvation is realized.”</p><p><em>— Brooke Jackson</em></p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     },
     "text_and_image_JeiczU": {
@@ -348,6 +348,7 @@
     },
     "single_button_wAyPa7": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Explore other free studies",
         "button_link": "shopify://pages/free-resources",
@@ -369,8 +370,8 @@
     "text_columns_VdrNGW",
     "rich_text_c4Jkjm",
     "text_and_image_e8aLL4",
-    "rich_text_XqLyXd",
     "text_and_image_73PWdj",
+    "rich_text_XqLyXd",
     "text_and_image_JeiczU",
     "text_and_image_EBFKWm",
     "single_button_wAyPa7"
