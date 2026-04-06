@@ -46,6 +46,7 @@
       "blocks": {
         "announcement-1": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Sign up for our free Holy Week Study",
             "link_text": "Jump in on our Holy Week email series",
