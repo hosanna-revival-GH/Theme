@@ -46,35 +46,34 @@
       "blocks": {
         "announcement-1": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Sign up for our free Holy Week Study",
-            "link_text": "Jump in on our Holy Week email series",
-            "link": "shopify://pages/jesus-and-the-tree"
+            "text": "Available Today: Motherhood & the Good Life",
+            "link_text": "get 2 for $40 and free shipping!",
+            "link": "shopify://products/motherhood-and-the-good-life"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
             "text": "The Spring Collection is Here",
-            "link_text": "Explore new beautiful Bibles",
+            "link_text": "May the beauty of Scripture restore your heart",
             "link": "shopify://collections/spring-2026-collection"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "New CSB Women’s Study Bible",
-            "link_text": " Learn more about our newest Study Bibles!",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": "Interested in a beautiful Spanish Bible?",
+            "link_text": "Sign up here to be one of the first notified when these launch",
+            "link": "shopify://pages/spanish-bible-interest"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Motherhood & The Good Life",
-            "link_text": "Preorder our newest book by Katie Noble",
-            "link": "shopify://products/motherhood-and-the-good-life"
+            "text": "Check out the WHEN blog",
+            "link_text": "Articles that meet life’s questions with the truth of Scripture",
+            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/"
           }
         }
       },

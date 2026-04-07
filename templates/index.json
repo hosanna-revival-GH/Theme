@@ -9,46 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_JzgDYA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QVcitx": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/jesus-and-the-tree",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Pre-Holy-Week-Web_Artboard_2_copy_2-04.png",
-            "image_mobile": "shopify://shop_images/Pre-Holy-Week-Web_Artboard_2_copy_20-09.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QVcitx"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "slideshow_bGCPEX": {
       "type": "slideshow",
       "blocks": {
@@ -59,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/spring-collection-2026",
+            "link": "shopify://products/motherhood-and-the-good-life",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_2.png",
-            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_20.png",
+            "image": "shopify://shop_images/Desktop-011.png",
+            "image_mobile": "shopify://shop_images/Mobile-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -88,21 +48,43 @@
         "disable_animation": false
       }
     },
-    "hero_video_k84RfB": {
-      "type": "hero-video",
-      "name": "t:sections.hero-video.presets.video_hero.name",
+    "slideshow_JzgDYA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QVcitx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/motherhood-the-good-life",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Desktop-02.png",
+            "image_mobile": "shopify://shop_images/Mobile-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QVcitx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "title": "the spring collection",
-        "title_size": 40,
-        "subheading": "within the pages of Scripture, be met by the Father who restores",
-        "link_text": "shop now",
-        "link": "shopify://collections/spring-2026-collection",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/93d01a42d030422096801719725d8a8b.mp4",
-        "overlay_opacity": 0,
-        "section_height": "550px",
-        "mobile_height": "400px"
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "slideshow_X4MRpa": {
@@ -115,14 +97,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "",
+            "link": "shopify://pages/motherhood-the-good-life",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_3.png",
-            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_3.png",
+            "image": "shopify://shop_images/Desktop-03.png",
+            "image_mobile": "shopify://shop_images/Mobile-03.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -132,7 +114,6 @@
       "block_order": [
         "image_PDEHTW"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -144,17 +125,120 @@
         "disable_animation": false
       }
     },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Motherhood-And-The-Good-Life-Hosanna-Revival-Preview.pdf?v=1772138636",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Desktop-04.png",
+            "image_mobile": "shopify://shop_images/Mobile-04.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "title": "the spring collection",
-        "home_featured_products": "spring-2026-collection",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_YNbwrF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EBgzXT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://www.instagram.com/katie.noble/",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Desktop-05.png",
+            "image_mobile": "shopify://shop_images/Mobile-05.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_EBgzXT"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_gyMt8x": {
+      "type": "slideshow",
+      "blocks": {
+        "image_X9NdWT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify://pages/spring-collection-2026",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Desktop-06.png",
+            "image_mobile": "shopify://shop_images/Mobile-06.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_X9NdWT"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "promo_grid_MmC94X": {
@@ -163,7 +247,7 @@
         "image_J9rbT7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_30.png",
+            "image": "shopify://shop_images/Desktop-07.png",
             "link": "shopify://products/esv-journaling-bible-palma-theme",
             "width": "33"
           }
@@ -171,7 +255,7 @@
         "image_AbVRfx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_40.png",
+            "image": "shopify://shop_images/Desktop-08.png",
             "link": "shopify://collections/spring-2026-collection-landscapes",
             "width": "33"
           }
@@ -179,7 +263,7 @@
         "image_wHrqXB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_42.png",
+            "image": "shopify://shop_images/Desktop-09.png",
             "link": "shopify://products/nlt-notetaking-bible-belfast-theme",
             "width": "33"
           }
@@ -215,8 +299,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_15.png",
-            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_25.png",
+            "image": "shopify://shop_images/Desktop-10.png",
+            "image_mobile": "shopify://shop_images/Mobile-07.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -236,6 +320,19 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "the spring collection",
+        "home_featured_products": "spring-2026-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "slideshow_gW9EVE": {
@@ -265,6 +362,7 @@
       "block_order": [
         "image_nrxtXn"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -282,16 +380,16 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Pre-Holy-Week-Web_Artboard_2_copy_35-02.png",
-            "link": "shopify://products/motherhood-and-the-good-life",
+            "image": "shopify://shop_images/Desktop-11.png",
+            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
             "width": "50"
           }
         },
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/april-WHEN.png",
-            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
+            "image": "shopify://shop_images/Desktop-12.png",
+            "link": "shopify://collections/stickers",
             "width": "50"
           }
         }
@@ -307,46 +405,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/bible-toolkit",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post_Best_Sellers_Sale_Artboard_2_copy_10.png",
-            "image_mobile": "shopify://shop_images/Post_Best_Sellers_Sale-16.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "promo_grid_UydWcM": {
@@ -399,46 +457,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_YNbwrF": {
-      "type": "slideshow",
-      "blocks": {
-        "image_EBgzXT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.blog/category/monthly-highlights/february-2026-trials-suffering/",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Heaven_and_Earth_launch_Artboard_2_copy_9.png",
-            "image_mobile": "shopify://shop_images/Heaven_and_Earth_launch-10.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_EBgzXT"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "promo_grid_cMUWra": {
@@ -510,45 +528,6 @@
         "lazyload_images": true
       }
     },
-    "slideshow_gyMt8x": {
-      "type": "slideshow",
-      "blocks": {
-        "image_X9NdWT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "shopify://pages/spread-the-word",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Sitewide-sale-019.png",
-            "image_mobile": "shopify://shop_images/Sitewide-sale-020.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_X9NdWT"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -565,8 +544,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_176_copy_3.png",
-            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_176_copy_13.png",
+            "image": "shopify://shop_images/Desktop-13.png",
+            "image_mobile": "shopify://shop_images/Mobile-08.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -589,20 +568,19 @@
     }
   },
   "order": [
-    "slideshow_JzgDYA",
     "slideshow_bGCPEX",
-    "hero_video_k84RfB",
+    "slideshow_JzgDYA",
     "slideshow_X4MRpa",
-    "featured_collection_AbN8iP",
+    "slideshow_8GYyKV",
+    "slideshow_YNbwrF",
+    "slideshow_gyMt8x",
     "promo_grid_MmC94X",
     "slideshow_GcPDX3",
+    "featured_collection_AbN8iP",
     "slideshow_gW9EVE",
     "promo_grid_BftCNi",
-    "slideshow_8GYyKV",
     "promo_grid_UydWcM",
-    "slideshow_YNbwrF",
     "promo_grid_cMUWra",
-    "slideshow_gyMt8x",
     "slideshow_LAdPKf"
   ]
 }
