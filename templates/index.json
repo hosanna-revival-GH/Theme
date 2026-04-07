@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-011.png",
-            "image_mobile": "shopify://shop_images/Mobile-01.png",
+            "image": "shopify://shop_images/Desktop-01.png",
+            "image_mobile": "shopify://shop_images/Mobile-01_017a6f59-453a-4334-8391-ef0e64e23dbb.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -64,8 +64,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-02_64cf19b0-db67-4dfb-af14-22059009158d.png",
-            "image_mobile": "shopify://shop_images/Mobile-02_bc728689-f237-4fa6-b4a4-c46e0118671d.png",
+            "image": "shopify://shop_images/Desktop-02_a531b083-7239-48a9-a9c8-e4361a251487.png",
+            "image_mobile": "shopify://shop_images/Mobile-02_a407daf7-e1e7-45a6-8c75-fa05a583f4b2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -103,8 +103,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-03_56a45a4b-4337-417b-8e9e-e4d66d63f4bb.png",
-            "image_mobile": "shopify://shop_images/Mobile-03_14ccb545-3475-47dd-9e51-b5a1e12e3750.png",
+            "image": "shopify://shop_images/Desktop-03_41af991b-704c-4736-8cab-fd42c647aad0.png",
+            "image_mobile": "shopify://shop_images/Mobile-03_b9bed1bd-0dd0-4d00-9342-a57dcb8533de.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
