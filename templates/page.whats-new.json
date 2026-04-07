@@ -35,7 +35,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Collection_Launch-04.png",
+            "image": "shopify://shop_images/whats-new_4aaece67-7263-4cc0-a650-df12bd422ff5.png",
             "image_mobile": "shopify://shop_images/Spring_Collection_Launch-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -58,6 +58,19 @@
         "disable_animation": false
       }
     },
+    "single_button_3L6q9A": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Order Motherhood and the good life",
+        "button_link": "shopify://products/motherhood-and-the-good-life",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#a67469",
+        "link_color_text": "#f8f1ea"
+      }
+    },
     "single_button_QbwFRq": {
       "type": "single-button",
       "name": "Custom Button",
@@ -68,75 +81,21 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
-        "link_color_text": "#5c4462"
-      }
-    },
-    "single_button_3L6q9A": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Preorder Motherhood and the good life",
-        "button_link": "shopify://products/motherhood-and-the-good-life",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#d7b8c6",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_gX7jmw": {
-      "type": "single-button",
-      "custom_css": [],
-      "settings": {
-        "button_text": "be reminded when spanish bibles are here",
-        "button_link": "shopify://pages/spanish-bible-interest",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#d7b8c6",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_eFchhW": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "Free holy week study: jesus & the tree",
-        "button_link": "shopify://pages/jesus-and-the-tree",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#d7b8c6",
-        "link_color_text": "#5c4462"
+        "link_color_background": "#a67469",
+        "link_color_text": "#f8f1ea"
       }
     },
     "single_button_qAwKEz": {
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "10 articles on Relationships",
-        "button_link": "https://hosannarevival.blog/category/monthly-highlights/march-2026-relationships/",
+        "button_text": "10 articles on Spiritual Growth",
+        "button_link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_hCmA7f": {
-      "type": "single-button",
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "Heaven and Earth by Jordan Moody",
-        "button_link": "https://hosannarevival.com/products/heaven-earth-by-jordan-moody",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     },
@@ -149,7 +108,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     },
@@ -176,7 +135,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     },
@@ -189,7 +148,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     },
@@ -202,7 +161,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     },
@@ -229,7 +188,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     },
@@ -242,7 +201,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     },
@@ -255,7 +214,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#d7b8c6",
+        "link_color_background": "#a67469",
         "link_color_text": "#ffffff"
       }
     }
@@ -263,12 +222,9 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
-    "single_button_QbwFRq",
     "single_button_3L6q9A",
-    "single_button_gX7jmw",
-    "single_button_eFchhW",
+    "single_button_QbwFRq",
     "single_button_qAwKEz",
-    "single_button_hCmA7f",
     "single_button_JD887j",
     "single_button_GryJY9",
     "single_button_KDXcyH",
