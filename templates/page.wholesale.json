@@ -18,21 +18,61 @@
         "background_color": ""
       }
     },
-    "background_image_text_LgLcDX": {
-      "type": "background-image-text",
+    "slideshow_TrUTTd": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CeTeza": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "welcome to",
+            "title": "Hosanna Revival Wholesale",
+            "title_size": 40,
+            "subheading": "If you're looking to sell Hosanna Revival Bibles, notebooks, devotionals, stickers and more in your shop, you're in the right place!",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-585_2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        },
+        "image_idLwQz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_CeTeza",
+        "image_idLwQz"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "subtitle": "Hosanna Revival",
-        "title": "Wholesale",
-        "text": "<p>If you are interested in selling Hosanna Revival Bibles, prayer journals, notebooks, devotionals, stickers, or any other products in your store, in your church bookstore, or at your conference, you’re in the right place. </p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify://shop_images/Beautiful-Christian-Tools-Gifting-Bibles-Hosanna-Revival-192B.jpg",
-        "layout": "left",
-        "height": 550,
-        "framed": false,
+        "section_height": "450px",
+        "mobile_height": "auto",
         "parallax": false,
-        "parallax_direction": "top",
-        "lazyload_images": false
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "text_columns_hLmqiY": {
@@ -123,12 +163,49 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "rich_text_K7izG8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kHQNhf": {
+          "type": "heading",
+          "settings": {
+            "title": "From a Retailer"
+          }
+        },
+        "text_dNhhhz": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>“Hosanna Revival is one of my absolute brands! Their bibles are beautiful and thoughtfully designed. My order shipped quickly and I was more than satisfied with my order fulfillment. I will be ordering from this brand again!” - Tonya</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_kHQNhf",
+        "text_dNhhhz"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#717057",
+        "color_text": "#f8f1ea",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
-    "background_image_text_LgLcDX",
+    "slideshow_TrUTTd",
     "text_columns_hLmqiY",
-    "text_columns_RXY6qM"
+    "text_columns_RXY6qM",
+    "rich_text_K7izG8"
   ]
 }
