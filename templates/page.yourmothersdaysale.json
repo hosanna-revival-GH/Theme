@@ -321,7 +321,7 @@
         "subtitle": "Hand painted",
         "title": "Landscape Bibles",
         "text": "<p>Bless her with a landscape Bible to excite her to engage with the Word of God. </p>",
-        "button_label": "Learn more",
+        "button_label": "",
         "button_link": "shopify://pages/everyday-banquet",
         "button_style": "primary",
         "align_text": "left",
@@ -337,12 +337,12 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "More Landscape Bibles",
+        "title": "",
         "home_featured_products": "landscape",
-        "per_row": 4,
+        "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
-        "view_all": true,
+        "view_all": false,
         "divider": false
       }
     },
