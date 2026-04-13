@@ -384,18 +384,6 @@
         "divider": false
       }
     },
-    "35a474bd-e122-4855-93ca-65b5b1bd12e9": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Our most loved",
-        "home_featured_products": "best-sellers",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "text_columns_CD8fn8": {
       "type": "text-columns",
       "blocks": {
@@ -465,7 +453,6 @@
     "slideshow_MyCXyq",
     "text_and_image_yRQU9i",
     "featured_collection_7LWg9q",
-    "35a474bd-e122-4855-93ca-65b5b1bd12e9",
     "text_columns_CD8fn8"
   ]
 }
