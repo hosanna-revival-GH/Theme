@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_9h4HYL": {
@@ -44,6 +45,7 @@
       "block_order": [
         "image_39QpcX"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -58,7 +60,7 @@
     "hero_video_G4YzjU": {
       "type": "hero-video",
       "settings": {
-        "title": "",
+        "title": "Because Mother’s deserve the very best",
         "title_size": 40,
         "subheading": "",
         "link_text": "",
@@ -84,7 +86,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This Mother's Day, give the gift of beauty to a mom in your life to revive their excitement about engaging in God’s Word. Shop our entire site for an extra 20-30% off! All orders over $75+ will receive a FREE spring tote bag! <br/><em>*While supplies last*</em></p>",
+            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This Mother's Day, give the gift of beauty to a mom in your life to revive their excitement about engaging in God’s Word. Shop our entire site for an extra 20-30% off!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
