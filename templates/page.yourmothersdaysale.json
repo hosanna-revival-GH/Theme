@@ -156,6 +156,7 @@
         "text_block_60",
         "text_block_61"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -164,6 +165,7 @@
     },
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "GIFT INTENTIONALLY",
         "button_link": "shopify://collections/mothers-day-shop",
