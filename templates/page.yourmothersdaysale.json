@@ -193,6 +193,44 @@
         "divider": false
       }
     },
+    "slideshow_T68JKE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WCKFjx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Tend to her heart",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful_Bibles_for_Mother_s_Day.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_WCKFjx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "text_and_image_UHXpMY": {
       "type": "text-and-image",
       "settings": {
@@ -420,6 +458,7 @@
     "text_columns_QrRQrx",
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32",
     "text_columns_UBeGzy",
+    "slideshow_T68JKE",
     "text_and_image_UHXpMY",
     "slideshow_cX7NVq",
     "text_and_image_FDYr39",
