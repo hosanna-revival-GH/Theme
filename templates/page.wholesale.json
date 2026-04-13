@@ -218,6 +218,44 @@
         "space_below": 0,
         "disable_section_margin": false
       }
+    },
+    "slideshow_GFLhFP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9ETYpq": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/wholesale-application",
+            "link_text": "Apply to be a retailer",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-398.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_9ETYpq"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -226,6 +264,7 @@
     "text_columns_hLmqiY",
     "text_columns_RXY6qM",
     "rich_text_K7izG8",
-    "faq_7chMgb"
+    "faq_7chMgb",
+    "slideshow_GFLhFP"
   ]
 }
