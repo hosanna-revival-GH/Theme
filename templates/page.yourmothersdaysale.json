@@ -44,54 +44,6 @@
         "space_below": 75
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "page_title_enable": true,
-        "page_content_enable": true,
-        "background_color": ""
-      }
-    },
-    "slideshow_9h4HYL": {
-      "type": "slideshow",
-      "blocks": {
-        "image_39QpcX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Mothers-day-header-01.png",
-            "image_mobile": "shopify://shop_images/Mothers-day-header-02.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_39QpcX"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "hero_video_G4YzjU": {
       "type": "hero-video",
       "settings": {
@@ -106,6 +58,15 @@
         "overlay_opacity": 0,
         "section_height": "550px",
         "mobile_height": "auto"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "text_columns_QrRQrx": {
@@ -184,7 +145,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-173_2.jpg",
+            "image": "shopify://shop_images/Beautiful_Bibles_for_Mother_s_Day_1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "A Hosanna Revival Bible",
@@ -197,10 +158,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-210.jpg",
+            "image": "shopify://shop_images/Beautiful_Bibles_for_Mother_s_Day_3.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "A Hosanna Revival Devotional",
+            "title": "A Hosanna Revival Book or devotional",
             "text": "<p>Our devotionals make the sweetest gifts to pair with our beautiful Bibles and to deepen engagement with God’s Word. Browse our devotional library and topics to choose a beautiful study today. </p>",
             "button_label": "shop devotionals",
             "button_link": "shopify://collections/devotionals"
@@ -210,7 +171,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-196.jpg",
+            "image": "shopify://shop_images/Beautiful_Bibles_for_Mother_s_Day_2.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "A Hosanna Revival 5-Year Prayer Journal",
@@ -373,51 +334,12 @@
         "align_text": "center",
         "divider": false
       }
-    },
-    "slideshow_kdDFgM": {
-      "type": "slideshow",
-      "blocks": {
-        "image_YDGYTK": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Mothers-day-sale-begins-023.png",
-            "image_mobile": "shopify://shop_images/Mothers-day-sale-begins-022.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_YDGYTK"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
     }
   },
   "order": [
     "rich_text_xgdjGx",
-    "main",
-    "slideshow_9h4HYL",
     "hero_video_G4YzjU",
+    "main",
     "text_columns_QrRQrx",
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32",
     "text_columns_UBeGzy",
@@ -425,7 +347,6 @@
     "text_and_image_UHXpMY",
     "text_and_image_yRQU9i",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
-    "text_columns_CD8fn8",
-    "slideshow_kdDFgM"
+    "text_columns_CD8fn8"
   ]
 }
