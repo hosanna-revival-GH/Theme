@@ -39,29 +39,10 @@
             "overlay_opacity": 0,
             "disable_border_button": false
           }
-        },
-        "image_idLwQz": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
         }
       },
       "block_order": [
-        "image_CeTeza",
-        "image_idLwQz"
+        "image_CeTeza"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
@@ -199,6 +180,44 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "faq_7chMgb": {
+      "type": "faq",
+      "blocks": {
+        "question_pKcfHz": {
+          "type": "question",
+          "settings": {
+            "title": "How would I best showcase Hosanna Revival products in my store?",
+            "text": "<p>We believe in the impact and quality of our products and want to support you in finding the best way to showcase them in your space! Some quick tips are to print out our display materials found <a href=\"https://b2b.hosannarevival.com/pages/display-materials\" target=\"_blank\">here</a> and to leave a copy unwrapped so people can flip through it and make an informed purchasing decision.</p>"
+          }
+        },
+        "question_C4XLKc": {
+          "type": "question",
+          "settings": {
+            "title": "What’s the order minimum for wholesalers?",
+            "text": "<p>The minimum order value for wholesale purchase is $300.</p>"
+          }
+        },
+        "question_7ftRGz": {
+          "type": "question",
+          "settings": {
+            "title": "Can Bible designs and translations be customized?",
+            "text": "<p>No, we’re not able to customize Bible translations to match a specific cover design. All of our products are batch ordered and each Bible cover is intentionally paired with a specific translation. We choose these combinations thoughtfully, and they are not available for custom changes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_pKcfHz",
+        "question_C4XLKc",
+        "question_7ftRGz"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "Quick FAQ’s",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
+      }
     }
   },
   "order": [
@@ -206,6 +225,7 @@
     "slideshow_TrUTTd",
     "text_columns_hLmqiY",
     "text_columns_RXY6qM",
-    "rich_text_K7izG8"
+    "rich_text_K7izG8",
+    "faq_7chMgb"
   ]
 }
