@@ -333,6 +333,19 @@
         "lazyload_images": true
       }
     },
+    "featured_collection_7LWg9q": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "More Landscape Bibles",
+        "home_featured_products": "landscape",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "35a474bd-e122-4855-93ca-65b5b1bd12e9": {
       "type": "featured-collection",
       "settings": {
@@ -412,6 +425,7 @@
     "text_and_image_FDYr39",
     "slideshow_MyCXyq",
     "text_and_image_yRQU9i",
+    "featured_collection_7LWg9q",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
     "text_columns_CD8fn8"
   ]
