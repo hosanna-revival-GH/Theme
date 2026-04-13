@@ -344,6 +344,44 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "slideshow_MyCXyq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_RYENEG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "The book that empathizes",
+            "title": "Motherhood and The Good Life",
+            "title_size": 40,
+            "subheading": "For those longing for a spiritual understanding of the significance of motherhood.",
+            "link": "shopify://products/motherhood-and-the-good-life",
+            "link_text": "Shop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_9.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_RYENEG"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -358,6 +396,7 @@
     "text_and_image_LnYdc3",
     "text_and_image_yRQU9i",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
-    "text_columns_CD8fn8"
+    "text_columns_CD8fn8",
+    "slideshow_MyCXyq"
   ]
 }
