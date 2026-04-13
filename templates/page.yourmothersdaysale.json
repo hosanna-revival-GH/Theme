@@ -214,6 +214,44 @@
         "lazyload_images": true
       }
     },
+    "slideshow_cX7NVq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QaHLpN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "For the one who is always pouring out",
+            "title": "Hosanna Revival Study Bibles",
+            "title_size": 40,
+            "subheading": "Investment in her",
+            "link": "shopify://collections/study-bibles",
+            "link_text": "SHOP",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful_Bibles_for_Mother_s_Day_5.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QaHLpN"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "text_and_image_FDYr39": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -359,44 +397,6 @@
         "title": "WHAT THEY’RE SAYING:",
         "align_text": "center",
         "divider": false
-      }
-    },
-    "slideshow_cX7NVq": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QaHLpN": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "Where wisdom overflows",
-            "title": "Hosanna Revival Study Bibles",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Beautiful_Bibles_for_Mother_s_Day_5.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QaHLpN"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "550px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     }
   },
