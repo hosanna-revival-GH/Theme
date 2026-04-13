@@ -9,6 +9,41 @@
  */
 {
   "sections": {
+    "rich_text_xgdjGx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6wxUHV": {
+          "type": "heading",
+          "settings": {
+            "title": "YOUR HOME FOR BEAUTIFUL BIBLES"
+          }
+        },
+        "text_xQNFVE": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This Mother's Day, give the gift of beauty to a mom in your life to revive their excitement about engaging in God’s Word. Shop our entire site for an extra 20-30% off!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_6wxUHV",
+        "text_xQNFVE"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#87504d",
+        "color_text": "#f8f1ea",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -71,41 +106,6 @@
         "overlay_opacity": 0,
         "section_height": "550px",
         "mobile_height": "auto"
-      }
-    },
-    "rich_text_xgdjGx": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_6wxUHV": {
-          "type": "heading",
-          "settings": {
-            "title": "YOUR HOME FOR BEAUTIFUL BIBLES"
-          }
-        },
-        "text_xQNFVE": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We exist to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. This Mother's Day, give the gift of beauty to a mom in your life to revive their excitement about engaging in God’s Word. Shop our entire site for an extra 20-30% off!</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_6wxUHV",
-        "text_xQNFVE"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
       }
     },
     "text_columns_QrRQrx": {
@@ -412,10 +412,10 @@
     }
   },
   "order": [
+    "rich_text_xgdjGx",
     "main",
     "slideshow_9h4HYL",
     "hero_video_G4YzjU",
-    "rich_text_xgdjGx",
     "text_columns_QrRQrx",
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32",
     "text_columns_UBeGzy",
