@@ -236,28 +236,6 @@
         "lazyload_images": true
       }
     },
-    "text_and_image_LnYdc3": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_9.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The book that empathizes with her",
-        "title": "Motherhood and The Good Life",
-        "text": "<p><em>Motherhood & the Good Life </em>by Katie Noble is a book for those who long for a spiritual understanding of the significance of motherhood.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "text_and_image_yRQU9i": {
       "type": "text-and-image",
       "settings": {
@@ -277,6 +255,44 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "slideshow_MyCXyq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_RYENEG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "The book that empathizes",
+            "title": "Motherhood and The Good Life",
+            "title_size": 40,
+            "subheading": "For those longing for a spiritual understanding of the significance of motherhood.",
+            "link": "shopify://products/motherhood-and-the-good-life",
+            "link_text": "Shop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_9.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_RYENEG"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "35a474bd-e122-4855-93ca-65b5b1bd12e9": {
@@ -345,23 +361,23 @@
         "divider": false
       }
     },
-    "slideshow_MyCXyq": {
+    "slideshow_cX7NVq": {
       "type": "slideshow",
       "blocks": {
-        "image_RYENEG": {
+        "image_QaHLpN": {
           "type": "image",
           "settings": {
-            "top_subheading": "The book that empathizes",
-            "title": "Motherhood and The Good Life",
-            "title_size": 40,
-            "subheading": "For those longing for a spiritual understanding of the significance of motherhood.",
-            "link": "shopify://products/motherhood-and-the-good-life",
-            "link_text": "Shop",
+            "top_subheading": "Where wisdom overflows",
+            "title": "Hosanna Revival Study Bibles",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_9.jpg",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful_Bibles_for_Mother_s_Day_5.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -369,11 +385,11 @@
         }
       },
       "block_order": [
-        "image_RYENEG"
+        "image_QaHLpN"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "section_height": "natural",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -393,10 +409,10 @@
     "text_columns_UBeGzy",
     "text_and_image_UHXpMY",
     "text_and_image_FDYr39",
-    "text_and_image_LnYdc3",
     "text_and_image_yRQU9i",
+    "slideshow_MyCXyq",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
     "text_columns_CD8fn8",
-    "slideshow_MyCXyq"
+    "slideshow_cX7NVq"
   ]
 }
