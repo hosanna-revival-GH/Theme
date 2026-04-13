@@ -197,12 +197,12 @@
       "type": "text-and-image",
       "settings": {
         "image_mask": "none",
-        "image2": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-191.jpg",
+        "image2": "shopify://shop_images/Mothers_Day_Giftable_Beautiful_Bibles.jpg",
         "image2_mask": "none",
-        "subtitle": "",
-        "title": "Large Print Bibles",
-        "text": "<p>Invest in a beautiful Large Print Bible for yourself or to gift someone else! These Bible’s are single-column and feature a 9.5 font which makes for easy readability and study! </p>",
-        "button_label": "Explore Large Print Bible’s",
+        "subtitle": "Belfast NLT Notetaking BIble",
+        "title": "The Daffodil Bible she'll adore",
+        "text": "<p>After a long winter, the daffodil is the first to make its return in the spring. These flowers can endure harsh conditions, symbolizing a pure and gentle resilience, one we ourselves can receive through Christ’s strength within us.</p>",
+        "button_label": "Choose Belfast for her",
         "button_link": "shopify://collections/large-print-bibles",
         "button_style": "primary",
         "align_text": "left",
@@ -300,6 +300,28 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "text_and_image_FDYr39": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Mothers_Day_Giftable_Bibles.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Because Mother's deserve the best",
+        "title": "Embroidery Bibles",
+        "text": "<p>Our embroidered Bibles are our most intricate covers, each one adorned with threadwork that gives a uniqe heirloom feel.</p>",
+        "button_label": "Shop Embroidered Bibles",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -312,6 +334,7 @@
     "text_and_image_UHXpMY",
     "text_and_image_yRQU9i",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
-    "text_columns_CD8fn8"
+    "text_columns_CD8fn8",
+    "text_and_image_FDYr39"
   ]
 }
