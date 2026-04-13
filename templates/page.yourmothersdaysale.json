@@ -32,13 +32,14 @@
         "heading_6wxUHV",
         "text_xQNFVE"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#87504d",
+        "color_bg": "#d89180",
         "color_text": "#f8f1ea",
         "space_above": 75,
         "space_below": 75
@@ -47,9 +48,9 @@
     "hero_video_G4YzjU": {
       "type": "hero-video",
       "settings": {
-        "title": "Because Mother’s deserve the very best",
+        "title": "For the Mother in your Life",
         "title_size": 40,
-        "subheading": "",
+        "subheading": "Gift the lasting promise of Scripture",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
@@ -192,41 +193,6 @@
         "divider": false
       }
     },
-    "rich_text_6TfXXt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GCq8iX": {
-          "type": "heading",
-          "settings": {
-            "title": "Looking for a mother's day gift?"
-          }
-        },
-        "text_Q8q8xx": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>Find an intentional gift that will stir their hearts towards beauty</em></p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_GCq8iX",
-        "text_Q8q8xx"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 0
-      }
-    },
     "text_and_image_UHXpMY": {
       "type": "text-and-image",
       "settings": {
@@ -343,7 +309,6 @@
     "text_columns_QrRQrx",
     "716e4f14-e19a-4f95-8de4-3f7f5f76ee32",
     "text_columns_UBeGzy",
-    "rich_text_6TfXXt",
     "text_and_image_UHXpMY",
     "text_and_image_yRQU9i",
     "35a474bd-e122-4855-93ca-65b5b1bd12e9",
