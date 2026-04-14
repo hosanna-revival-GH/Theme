@@ -36,6 +36,7 @@
       "block_order": [
         "image_fVEef3"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -152,6 +153,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
