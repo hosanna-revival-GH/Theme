@@ -90,6 +90,23 @@
         "space_below": 75
       }
     },
+    "hero_video_dWyMXi": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "The Mother’s Day Gift Guide",
+        "title_size": 40,
+        "subheading": "Find a gift she’ll truly cherish",
+        "link_text": "Shop",
+        "link": "shopify://pages/your-mothers-day-sale",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/954036a698f84fe88bdac1cb9e5c020f.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "text_columns_FdDd96": {
       "type": "text-columns",
       "blocks": {
@@ -591,6 +608,7 @@
     "main",
     "slideshow_cFeUAy",
     "rich_text_MgYrmf",
+    "hero_video_dWyMXi",
     "text_columns_FdDd96",
     "rich_text_3zRiRP",
     "text_columns_DwipUV",
