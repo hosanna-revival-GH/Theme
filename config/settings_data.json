@@ -178,6 +178,14 @@
         "type": "shopify://apps/stoq/blocks/main/4bb73be2-b7c2-4870-949f-c528145452a3",
         "disabled": true,
         "settings": {}
+      },
+      "4941657242646030402": {
+        "type": "shopify://apps/savify-discounts/blocks/announcement/27bd0922-fafc-4963-bb2d-d5be59ffc7f4",
+        "disabled": false,
+        "settings": {
+          "background_color": "#000",
+          "text_color": "#fff"
+        }
       }
     }
   },
