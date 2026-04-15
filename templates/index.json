@@ -65,8 +65,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-02_a531b083-7239-48a9-a9c8-e4361a251487.png",
-            "image_mobile": "shopify://shop_images/Mobile-02_a407daf7-e1e7-45a6-8c75-fa05a583f4b2.png",
+            "image": "shopify://shop_images/post-1.png",
+            "image_mobile": "shopify://shop_images/post-11.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
