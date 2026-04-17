@@ -59,14 +59,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/motherhood-the-good-life",
+            "link": "shopify://collections/mothers-day-shop",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/post-1.png",
-            "image_mobile": "shopify://shop_images/post-11.png",
+            "image": "shopify://shop_images/01.png",
+            "image_mobile": "shopify://shop_images/mobile-01_d3e62e24-59bf-48cc-8d0e-be2f7eeb8873.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -98,14 +98,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/motherhood-the-good-life",
+            "link": "shopify://collections/mothers-day-shop",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-03_41af991b-704c-4736-8cab-fd42c647aad0.png",
-            "image_mobile": "shopify://shop_images/Mobile-03_b9bed1bd-0dd0-4d00-9342-a57dcb8533de.png",
+            "image": "shopify://shop_images/03.png",
+            "image_mobile": "shopify://shop_images/web-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -176,14 +176,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://www.instagram.com/katie.noble/",
+            "link": "shopify://collections/mothers-day-shop",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-05.png",
-            "image_mobile": "shopify://shop_images/Mobile-05.png",
+            "image": "shopify://shop_images/04.png",
+            "image_mobile": "shopify://shop_images/web-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -205,67 +205,29 @@
         "disable_animation": false
       }
     },
-    "slideshow_gyMt8x": {
-      "type": "slideshow",
-      "blocks": {
-        "image_X9NdWT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "shopify://pages/spring-collection-2026",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-06.png",
-            "image_mobile": "shopify://shop_images/Mobile-06.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_X9NdWT"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "promo_grid_MmC94X": {
       "type": "promo-grid",
       "blocks": {
         "image_J9rbT7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Desktop-07.png",
-            "link": "shopify://products/esv-journaling-bible-palma-theme",
+            "image": "shopify://shop_images/05.png",
+            "link": "shopify://products/motherhood-and-the-good-life",
             "width": "33"
           }
         },
         "image_AbVRfx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Desktop-08.png",
-            "link": "shopify://collections/spring-2026-collection-landscapes",
+            "image": "shopify://shop_images/06.png",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "33"
           }
         },
         "image_wHrqXB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Desktop-09.png",
+            "image": "shopify://shop_images/07.png",
             "link": "shopify://products/nlt-notetaking-bible-belfast-theme",
             "width": "33"
           }
@@ -295,14 +257,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/csb-womens-study-bibles",
+            "link": "shopify://collections/mothers-day-shop",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-10.png",
-            "image_mobile": "shopify://shop_images/Mobile-07.png",
+            "image": "shopify://shop_images/08.png",
+            "image_mobile": "shopify://shop_images/web-03.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -322,6 +284,39 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "promo_grid_BftCNi": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_NWGAkF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/09.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "50"
+          }
+        },
+        "image_9fzeMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/10.png",
+            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_NWGAkF",
+        "image_9fzeMq"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "featured_collection_AbN8iP": {
@@ -374,39 +369,6 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
-      }
-    },
-    "promo_grid_BftCNi": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_NWGAkF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Desktop-11.png",
-            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
-            "width": "50"
-          }
-        },
-        "image_9fzeMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Desktop-12.png",
-            "link": "shopify://collections/stickers",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_NWGAkF",
-        "image_9fzeMq"
-      ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
       }
     },
     "promo_grid_UydWcM": {
@@ -546,8 +508,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-13.png",
-            "image_mobile": "shopify://shop_images/Mobile-08.png",
+            "image": "shopify://shop_images/11.png",
+            "image_mobile": "shopify://shop_images/web-04.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -575,12 +537,11 @@
     "slideshow_X4MRpa",
     "slideshow_8GYyKV",
     "slideshow_YNbwrF",
-    "slideshow_gyMt8x",
     "promo_grid_MmC94X",
     "slideshow_GcPDX3",
+    "promo_grid_BftCNi",
     "featured_collection_AbN8iP",
     "slideshow_gW9EVE",
-    "promo_grid_BftCNi",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",
     "slideshow_LAdPKf"
