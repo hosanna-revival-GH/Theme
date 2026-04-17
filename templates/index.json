@@ -176,7 +176,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/mothers-day-shop",
+            "link": "https://hosannarevival.com/pages/hosanna-revival-gift-collection",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -219,7 +219,7 @@
         "image_AbVRfx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/06.png",
+            "image": "shopify://shop_images/06_b5f53b13-7efe-4502-b1b8-747d5b7daaf0.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "33"
           }
@@ -287,6 +287,19 @@
         "disable_animation": false
       }
     },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "the spring collection",
+        "home_featured_products": "spring-2026-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "promo_grid_BftCNi": {
       "type": "promo-grid",
       "blocks": {
@@ -318,19 +331,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "the spring collection",
-        "home_featured_products": "spring-2026-collection",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "slideshow_gW9EVE": {
@@ -540,8 +540,8 @@
     "slideshow_YNbwrF",
     "promo_grid_MmC94X",
     "slideshow_GcPDX3",
-    "promo_grid_BftCNi",
     "featured_collection_AbN8iP",
+    "promo_grid_BftCNi",
     "slideshow_gW9EVE",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",

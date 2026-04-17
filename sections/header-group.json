@@ -47,16 +47,16 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Shop our new book “Motherhood and The Good Life”",
-            "link_text": "for those longing for a spiritual understanding of motherhood",
+            "text": "30% off Sitewide",
+            "link_text": "celebrate the mother in your life with beauty",
             "link": "shopify://products/motherhood-and-the-good-life"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "The Spring Collection is Here",
-            "link_text": "May the beauty of Scripture restore your heart",
+            "text": "Motherhood and The Good Life",
+            "link_text": "our new book for those longing for a spiritual understanding of motherhood",
             "link": "shopify://collections/spring-2026-collection"
           }
         },
