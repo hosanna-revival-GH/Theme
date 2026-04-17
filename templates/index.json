@@ -274,6 +274,7 @@
       "block_order": [
         "image_Nrgk3e"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
