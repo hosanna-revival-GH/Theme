@@ -62,7 +62,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Shop the mother's day sale",
-        "button_link": "shopify://pages/just",
+        "button_link": "shopify://collections/mothers-day-shop",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
