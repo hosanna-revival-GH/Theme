@@ -65,8 +65,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/01.png",
-            "image_mobile": "shopify://shop_images/mobile-01_d3e62e24-59bf-48cc-8d0e-be2f7eeb8873.png",
+            "image": "shopify://shop_images/desktop-header.png",
+            "image_mobile": "shopify://shop_images/mobile-header.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -104,8 +104,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/03.png",
-            "image_mobile": "shopify://shop_images/web-01.png",
+            "image": "shopify://shop_images/desktop-shipping.png",
+            "image_mobile": "shopify://shop_images/mobile-shipping.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -287,6 +287,44 @@
         "disable_animation": false
       }
     },
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/mothers-day-shop",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/desktop-prayer.png",
+            "image_mobile": "shopify://shop_images/mobile-prayer.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
@@ -331,45 +369,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/stickers",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_5.png",
-            "image_mobile": "shopify://shop_images/Spring_Collection_Launch_Artboard_2_copy_36.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
       }
     },
     "promo_grid_UydWcM": {
@@ -540,9 +539,9 @@
     "slideshow_YNbwrF",
     "promo_grid_MmC94X",
     "slideshow_GcPDX3",
+    "slideshow_gW9EVE",
     "featured_collection_AbN8iP",
     "promo_grid_BftCNi",
-    "slideshow_gW9EVE",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",
     "slideshow_LAdPKf"
