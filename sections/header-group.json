@@ -44,6 +44,14 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping on Orders Over $100",
+            "link_text": "Stock up and enjoy free shipping on us",
+            "link": "shopify://collections"
+          }
+        },
         "announcement-1": {
           "type": "announcement",
           "settings": {
@@ -60,14 +68,6 @@
             "link": "shopify://collections/spring-2026-collection"
           }
         },
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Shipping on Orders Over $100",
-            "link_text": "Stock and enjoy free shipping on us",
-            "link": "shopify://pages/spanish-bible-interest"
-          }
-        },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
@@ -78,9 +78,9 @@
         }
       },
       "block_order": [
+        "announcement_mMUAeX",
         "announcement-1",
         "announcement_NXQKWa",
-        "announcement_mMUAeX",
         "announcement_FNqfy6"
       ],
       "settings": {
