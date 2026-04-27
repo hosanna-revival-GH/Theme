@@ -55,7 +55,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "30% off Sitewide",
+            "text": "20% off Sitewide",
             "link_text": "celebrate the mother in your life with beauty",
             "link": "shopify://products/motherhood-and-the-good-life"
           }
