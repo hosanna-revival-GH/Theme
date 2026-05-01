@@ -179,18 +179,18 @@
         "disabled": true,
         "settings": {}
       },
-      "4941657242646030402": {
-        "type": "shopify://apps/savify-discounts/blocks/announcement/27bd0922-fafc-4963-bb2d-d5be59ffc7f4",
-        "disabled": false,
-        "settings": {
-          "background_color": "#000",
-          "text_color": "#fff"
-        }
-      },
       "12657775114333427046": {
         "type": "shopify://apps/essential-countdown-timer/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
+      },
+      "4941657242646030402": {
+        "type": "shopify://apps/savify-discounts/blocks/announcement/27bd0922-fafc-4963-bb2d-d5be59ffc7f4",
+        "disabled": true,
+        "settings": {
+          "background_color": "#000000",
+          "text_color": "#ffffff"
+        }
       }
     }
   },
