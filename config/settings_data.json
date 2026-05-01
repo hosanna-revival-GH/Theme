@@ -160,13 +160,6 @@
         "disabled": false,
         "settings": {}
       },
-      "10605408327587305396": {
-        "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
-        "disabled": true,
-        "settings": {
-          "version": "v3"
-        }
-      },
       "9431864395560886015": {
         "type": "shopify://apps/polar-analytics/blocks/polar-tracker/019c2e93-19fa-7dab-8368-903d1c54902c",
         "disabled": false,
@@ -190,6 +183,13 @@
         "settings": {
           "background_color": "#000000",
           "text_color": "#ffffff"
+        }
+      },
+      "10605408327587305396": {
+        "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
+        "disabled": false,
+        "settings": {
+          "version": "v3"
         }
       }
     }
