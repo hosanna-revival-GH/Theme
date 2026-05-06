@@ -55,17 +55,17 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "20% off Sitewide",
-            "link_text": "celebrate the mother in your life with beauty",
-            "link": "shopify://products/motherhood-and-the-good-life"
+            "text": "Beautiful Spanish Bibles Coming Soon",
+            "link_text": "sign up here to be one of the first to hear when these launch",
+            "link": "shopify://pages/spanish-bible-interest"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Shop our new book \"Motherhood and The Good Life\"",
-            "link_text": "for those longing for a spiritual understanding of motherhood",
-            "link": "shopify://collections/spring-2026-collection"
+            "text": "Start your summer with a new devotional",
+            "link_text": "explore our devotional library and find something fit for your season",
+            "link": "shopify://pages/devotionals"
           }
         },
         "announcement_FNqfy6": {

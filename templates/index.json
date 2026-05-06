@@ -65,8 +65,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/desktop-header.png",
-            "image_mobile": "shopify://shop_images/mobile-header.png",
+            "image": "shopify://shop_images/01_83f2b999-91d4-4fb2-8c34-dbc829ee7fdf.png",
+            "image_mobile": "shopify://shop_images/mobile-01_4a4669ab-4839-4825-b8f3-1f6c9244e66e.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -86,6 +86,85 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Best Sellers",
+        "home_featured_products": "best-sellers",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "promo_grid_BftCNi": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_NWGAkF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/02_8dc648c6-b97d-4eca-8d33-588347444f9b.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "50"
+          }
+        },
+        "image_9fzeMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/03_208e553b-f03a-445b-b467-aaa00f72ef04.png",
+            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_NWGAkF",
+        "image_9fzeMq"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_pwwBNx": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_e7NFe9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/04_3bbe47eb-0d77-421a-8201-6d2d19318eab.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "50"
+          }
+        },
+        "image_PaJnE3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/05_0df5ab68-16c6-409b-bd02-3d822252c4a6.png",
+            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_e7NFe9",
+        "image_PaJnE3"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_X4MRpa": {
@@ -115,12 +194,90 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
         "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "slideshow_YNbwrF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EBgzXT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/pages/hosanna-revival-gift-collection",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/06_ebc85006-2d68-4bbb-b117-736f17eb626a.png",
+            "image_mobile": "shopify://shop_images/web-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_EBgzXT"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/mothers-day-shop",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/07_28446c4a-7249-4982-a889-63de42f84a77.png",
+            "image_mobile": "shopify://shop_images/mobile-prayer.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
@@ -166,45 +323,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_YNbwrF": {
-      "type": "slideshow",
-      "blocks": {
-        "image_EBgzXT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/pages/hosanna-revival-gift-collection",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/04.png",
-            "image_mobile": "shopify://shop_images/web-02.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_EBgzXT"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "promo_grid_MmC94X": {
       "type": "promo-grid",
       "blocks": {
@@ -238,6 +356,7 @@
         "image_AbVRfx",
         "image_wHrqXB"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -285,90 +404,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/mothers-day-shop",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/desktop-prayer.png",
-            "image_mobile": "shopify://shop_images/mobile-prayer.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Best Selling Gifts",
-        "home_featured_products": "best-sellers",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "promo_grid_BftCNi": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_NWGAkF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/09.png",
-            "link": "shopify://collections/beautiful-bibles",
-            "width": "50"
-          }
-        },
-        "image_9fzeMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/10.png",
-            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_NWGAkF",
-        "image_9fzeMq"
-      ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
       }
     },
     "promo_grid_UydWcM": {
@@ -508,8 +543,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/11.png",
-            "image_mobile": "shopify://shop_images/web-04.png",
+            "image": "shopify://shop_images/08_9b74f5b1-0209-4226-8726-483e5bfe054b.png",
+            "image_mobile": "shopify://shop_images/mobile-04_38e5f200-2109-448f-b928-217889afdbb7.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -534,14 +569,15 @@
   "order": [
     "slideshow_bGCPEX",
     "slideshow_JzgDYA",
-    "slideshow_X4MRpa",
-    "slideshow_8GYyKV",
-    "slideshow_YNbwrF",
-    "promo_grid_MmC94X",
-    "slideshow_GcPDX3",
-    "slideshow_gW9EVE",
     "featured_collection_AbN8iP",
     "promo_grid_BftCNi",
+    "promo_grid_pwwBNx",
+    "slideshow_X4MRpa",
+    "slideshow_YNbwrF",
+    "slideshow_gW9EVE",
+    "slideshow_8GYyKV",
+    "promo_grid_MmC94X",
+    "slideshow_GcPDX3",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",
     "slideshow_LAdPKf"
