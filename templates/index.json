@@ -65,8 +65,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/01_83f2b999-91d4-4fb2-8c34-dbc829ee7fdf.png",
-            "image_mobile": "shopify://shop_images/mobile-01_4a4669ab-4839-4825-b8f3-1f6c9244e66e.png",
+            "image": "shopify://shop_images/Mother_s-Day-Sale-copy-2.png",
+            "image_mobile": "shopify://shop_images/mobile-01_2efea040-c94e-4b26-88b8-6b3ea71285aa.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -88,8 +88,47 @@
         "disable_animation": false
       }
     },
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/mothers-day-shop",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/022_5fa3a80f-0448-4c49-8542-3d46d5f9f295.png",
+            "image_mobile": "shopify://shop_images/web-o22.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Best Sellers",
@@ -107,7 +146,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/02_8dc648c6-b97d-4eca-8d33-588347444f9b.png",
+            "image": "shopify://shop_images/02_9dc6112a-65b5-4955-8749-7a1e51cf9e2a.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -115,7 +154,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/03_208e553b-f03a-445b-b467-aaa00f72ef04.png",
+            "image": "shopify://shop_images/03_844d2d61-e5e4-410a-9de4-2539715eeb98.png",
             "link": "shopify://collections/notebooks",
             "width": "50"
           }
@@ -140,7 +179,7 @@
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/04_3bbe47eb-0d77-421a-8201-6d2d19318eab.png",
+            "image": "shopify://shop_images/04_41f9a773-13df-4d19-8525-4356f3ed72fc.png",
             "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
@@ -148,7 +187,7 @@
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/05_713f6bf1-c1ec-4155-830f-cc4d532afe12.png",
+            "image": "shopify://shop_images/05_04a6287e-d8c9-4537-95ef-591ff6080926.png",
             "link": "shopify://pages/devotionals",
             "width": "50"
           }
@@ -165,45 +204,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/mothers-day-shop",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/desktop-shipping.png",
-            "image_mobile": "shopify://shop_images/mobile-shipping.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
       }
     },
     "slideshow_YNbwrF": {
@@ -223,7 +223,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/06_ebc85006-2d68-4bbb-b117-736f17eb626a.png",
-            "image_mobile": "shopify://shop_images/web-02.png",
+            "image_mobile": "shopify://shop_images/mobile-02_14b020c0-2266-486b-9dbe-94a9c2736745.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -262,7 +262,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/07_28446c4a-7249-4982-a889-63de42f84a77.png",
-            "image_mobile": "shopify://shop_images/mobile-prayer.png",
+            "image_mobile": "shopify://shop_images/mobile-03_804a8da7-9a14-4941-b616-b1e388615434.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -569,10 +569,10 @@
   "order": [
     "slideshow_bGCPEX",
     "slideshow_JzgDYA",
+    "slideshow_X4MRpa",
     "featured_collection_AbN8iP",
     "promo_grid_BftCNi",
     "promo_grid_pwwBNx",
-    "slideshow_X4MRpa",
     "slideshow_YNbwrF",
     "slideshow_gW9EVE",
     "slideshow_8GYyKV",
