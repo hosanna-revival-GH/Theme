@@ -59,7 +59,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/your-mothers-day-gift-guide",
+            "link": "shopify://pages/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -116,7 +116,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/03_208e553b-f03a-445b-b467-aaa00f72ef04.png",
-            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
+            "link": "shopify://collections/notebooks",
             "width": "50"
           }
         }
@@ -141,7 +141,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/04_3bbe47eb-0d77-421a-8201-6d2d19318eab.png",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
         },
@@ -149,7 +149,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/05_713f6bf1-c1ec-4155-830f-cc4d532afe12.png",
-            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
+            "link": "shopify://pages/devotionals",
             "width": "50"
           }
         }
