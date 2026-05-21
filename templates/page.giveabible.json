@@ -220,27 +220,6 @@
         "lazyload_images": true
       }
     },
-    "403ce5a5-a366-47dd-86fb-5006650ee54b": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Artwork-12-3x-8_2.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Young Life",
-        "text": "<p><strong>Location:</strong> Colorado Springs, CO (nationwide and international) <br/><strong>Mission: </strong>Young Life is a Christian ministry that reaches out to middle school, high school, and college students in all 50 of the United States and in more than 100 countries around the world. Young Life's mission is to introduce adolescents to Jesus Christ and help them grow in their faith.</p>",
-        "button_label": "Learn More Here",
-        "button_link": "https://younglife.org/",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "2d4443b2-b026-4883-abd8-68cf2d767caf": {
       "type": "text-and-image",
       "settings": {
@@ -432,6 +411,7 @@
     },
     "3f271f8c-0764-4d79-8656-17aabbbf9016": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image_mask": "none",
         "image2_mask": "none",
@@ -452,6 +432,7 @@
     },
     "text_and_image_hzCaVn": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image_mask": "none",
@@ -471,8 +452,30 @@
         "lazyload_images": true
       }
     },
+    "403ce5a5-a366-47dd-86fb-5006650ee54b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artwork-12-3x-8_2.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Young Life",
+        "text": "<p><strong>Location:</strong> Colorado Springs, CO (nationwide and international) <br/><strong>Mission: </strong>Young Life is a Christian ministry that reaches out to middle school, high school, and college students in all 50 of the United States and in more than 100 countries around the world. Young Life's mission is to introduce adolescents to Jesus Christ and help them grow in their faith.</p>",
+        "button_label": "Learn More Here",
+        "button_link": "https://younglife.org/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "55401b2d-65ef-489e-b538-fceb204e053e": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "GIVE A BIBLE HERE",
         "button_link": "",
@@ -528,7 +531,6 @@
     "single_button_aEmAiK",
     "rich_text_JKfTHm",
     "ee7879e4-4d5b-4b1e-8839-6cf9f7ec14fe",
-    "403ce5a5-a366-47dd-86fb-5006650ee54b",
     "2d4443b2-b026-4883-abd8-68cf2d767caf",
     "ea2a9dab-8399-49bd-aa27-05cf0101993d",
     "444e1ed3-523d-4065-a37f-6e5deebf4b3f",
@@ -540,6 +542,7 @@
     "dbc8ea1f-ddbb-4205-8115-da2327f750d3",
     "3f271f8c-0764-4d79-8656-17aabbbf9016",
     "text_and_image_hzCaVn",
+    "403ce5a5-a366-47dd-86fb-5006650ee54b",
     "55401b2d-65ef-489e-b538-fceb204e053e",
     "rich_text_xmhqjE"
   ]
