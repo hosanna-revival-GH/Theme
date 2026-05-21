@@ -25,17 +25,17 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Kept",
+            "title": "Still Waters",
             "title_size": 72,
-            "subheading": "A Journey to Create Through Psalm 121",
+            "subheading": "A Journey to Create Through Psalm 23",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/CTS-KEPT-HEADER.png",
-            "image_mobile": "shopify://shop_images/CTS-KEPT-HEADER.png",
+            "image": "shopify://shop_images/CTS_Web_Header.png",
+            "image_mobile": "shopify://shop_images/CTS_Web_Header.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -46,7 +46,7 @@
         "image_idLezh"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -128,14 +128,14 @@
         "heading_FW69K9": {
           "type": "heading",
           "settings": {
-            "title": "Kept: a creative journey through psalm 121"
+            "title": "Kept: a creative journey through psalm 23"
           }
         },
         "text_y6UaBL": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>Kept: A journey to create through Psalm 121</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>Still Waters: A journey to create through Psalm 23</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -194,7 +194,7 @@
             "image_mask": "none",
             "image_width": 90,
             "title": "When",
-            "text": "<p><em>the journey begins today</em></p><p>Join the journey by signing up for the email series. We encourage you to work at your own pace and keep the main goal in mind: to creatively connect with God through his Word.</p>",
+            "text": "<p><em>the journey begins July 1st</em></p><p>Join the journey by signing up for the email series. We encourage you to work at your own pace and keep the main goal in mind: to creatively connect with God through his Word.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -351,6 +351,7 @@
     },
     "text_and_image_CaV7DQ": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/DSC01291.jpg",
         "image_mask": "none",
@@ -372,6 +373,7 @@
     },
     "text_and_image_GXDFxW": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Photo_of_Madison.jpg",
         "image_mask": "none",
@@ -393,6 +395,7 @@
     },
     "text_and_image_HzLzQp": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Rebekah-Sarah_profile_photo.jpg",
         "image_mask": "none",
@@ -414,6 +417,7 @@
     },
     "text_and_image_aNjVJg": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_7024_Original.jpg",
         "image_mask": "none",
@@ -435,6 +439,7 @@
     },
     "single_button_Ex6nbT": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "See what you created",
         "button_link": "https://www.instagram.com/explore/tags/createthroughscripture/",
