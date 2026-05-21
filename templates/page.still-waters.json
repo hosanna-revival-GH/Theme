@@ -1,0 +1,567 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": false,
+        "page_content_enable": false,
+        "background_color": ""
+      }
+    },
+    "slideshow_cfYJNP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_idLezh": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Kept",
+            "title_size": 72,
+            "subheading": "A Journey to Create Through Psalm 121",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/CTS-KEPT-HEADER.png",
+            "image_mobile": "shopify://shop_images/CTS-KEPT-HEADER.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_idLezh"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "1739855578e0d58267": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_rDtwqN": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "UE8XSi"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_rDtwqN"
+      ],
+      "custom_css": [
+        ".klaviyo-form-UE8XSi {background-color: #f8f2eb;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "hero_video_3bHn36": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/4805623da5a94b15ade9f3fde09ce905.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "100vh"
+      }
+    },
+    "rich_text_gJqpCX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9nfE8V": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>an invitation to create</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_9nfE8V"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "rich_text_ecpTEx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FW69K9": {
+          "type": "heading",
+          "settings": {
+            "title": "Kept: a creative journey through psalm 121"
+          }
+        },
+        "text_y6UaBL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Welcome to your invitation to engage with Scripture in a new and beautiful way through intentional creativity. Join us for this 4-week series <em>Kept: A journey to create through Psalm 121</em>. Invite a friend, and prepare to create. Sign up for the free email series above to begin today. </p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_FW69K9",
+        "text_y6UaBL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 15,
+        "space_below": 75
+      }
+    },
+    "text_columns_HHy3iV": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_aTjydi": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Paint_tube_together.png",
+            "image_mask": "none",
+            "image_width": 130,
+            "title": "WHAT",
+            "text": "<p><em>a creative journey through Psalm 121 over email and Instagram</em></p><p>Each week we will introduce a new section of Psalm 121 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_cnBzqE": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Stamp.png",
+            "image_mask": "none",
+            "image_width": 70,
+            "title": "Who",
+            "text": "<p><em>for creatives and non-creatives alike</em></p><p>This journey was intentionally created to engage all levels of creativity and intended to stretch your inspiration, imagination, perception, and medium.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_PPU4PR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/artpalette.png",
+            "image_mask": "none",
+            "image_width": 90,
+            "title": "When",
+            "text": "<p><em>the journey begins today</em></p><p>Join the journey by signing up for the email series. We encourage you to work at your own pace and keep the main goal in mind: to creatively connect with God through his Word.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_aTjydi",
+        "text_block_cnBzqE",
+        "text_block_PPU4PR"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "text_and_image_M9yW33": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-153_eb7b6bfd-d193-4f71-ad3e-9d2c7e1de43b.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "About the Journey",
+        "title": "How It Works Each Week",
+        "text": "<p><strong>Day 1: Receive the prompts</strong> | You can begin creating now! Take some time to meditate on the week’s passage and create at your own pace.</p><p><strong>Day 3: Artist Highlight</strong> | Stir your inspiration by hearing from an artist on her response to the passage and consider the Scripture in a new light.</p><p><strong>Day 5: Community Feature</strong> | If you’ve finished your response and posted or shared it with us, you have a chance of being featured! Use these features as a way of meditating on the passage even further.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_pCX9nw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-047_996b629c-d323-4c90-9620-67bab6912d10.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featured Intentional Tools",
+        "title": "Artist Notebooks",
+        "text": "<p>Need tools to begin creating? While we encourage a range of both traditional and non-traditional mediums through our prompts and artist features, you are welcome to stock up on our paintable kraft-cover notebooks—<em>Hosanna Blanks</em>—as tools for your journey.</p>",
+        "button_label": "Shop Artist Tools",
+        "button_link": "shopify://pages/art-resources",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_WzzmBt": {
+      "type": "text-and-image",
+      "disabled": true,
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/CTS-KEPT-Small-Block.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Prefer to print?",
+        "title": "Download the PDF",
+        "text": "<p>We suggest signing up for the email series since it’s paced week by week and full of beautiful visuals and inspiration to guide your process, but if you are looking to do this with a group or prefer to print and would like a PDF download of the weekly prompts, you’re in the right place! Download the free series below.</p>",
+        "button_label": "Download Now",
+        "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Dwelling-Place-Create-Through-Scripture-Hosanna-Revival.pdf",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_E9q7Jf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WmaVb3": {
+          "type": "heading",
+          "settings": {
+            "title": "#CreateThroughScripture"
+          }
+        },
+        "text_HBGXke": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Follow along on Instagram @<a href=\"https://www.instagram.com/hosannarevival\" target=\"_blank\" title=\"Hosanna Revival's Instagram\">HosannaRevival</a> and share how you’re engaging with Scripture through creativity with the hashtag <a href=\"https://www.instagram.com/explore/tags/createthroughscripture/\" target=\"_blank\" title=\"https://www.instagram.com/explore/tags/createthroughscripture/\">#CreateThroughScripture</a>. We can’t wait to see what you create!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_WmaVb3",
+        "text_HBGXke"
+      ],
+      "custom_css": [
+        "a {color: #f7f0e8;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#b4a04b",
+        "color_text": "#f7f0e8",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_rxTPJK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xnJixW": {
+          "type": "heading",
+          "settings": {
+            "title": "Featured Artists"
+          }
+        },
+        "text_NcLQbg": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Each week, we invite a talented artist to respond to the focal passage from their area of expertise. Meet them below!</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_xnJixW",
+        "text_NcLQbg"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "text_and_image_CaV7DQ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/DSC01291.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week one Artist",
+        "title": "David Brazier",
+        "text": "<p>David Brazier is an oil painter currently based in Greenville, SC, and his work is primarily inspired by the beauty of God’s creation. </p>",
+        "button_label": "Follow him on Instagram",
+        "button_link": "https://www.instagram.com/davidbrazierart/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_GXDFxW": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Photo_of_Madison.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Two Artist",
+        "title": "Madison Andres",
+        "text": "<p>Madison Andres is a Christian dietitian and content creator whose mission is to reach, awaken, call, and equip believers to pursue a faith-first approach to fitness and nutrition.</p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/dietitian.madison/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_HzLzQp": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Rebekah-Sarah_profile_photo.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Three Artist",
+        "title": "Rebekah-Sarah: New Living Designs",
+        "text": "<p>Rebekah-Sarah is a disciple of Jesus. She creates small-batch handmade ceramics and Christian posters that are crafted to point others to our beautiful and matchless Lord. </p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/newliving_designs/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_aNjVJg": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/IMG_7024_Original.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Week Four Artist",
+        "title": "Elizabeth Jirek: Lizzie Letters",
+        "text": "<p>Lizzie has loved making art and collecting words for as long as she can remember, and has been creating for social media and the glory of God as Lizzie Letters for 6 years. </p>",
+        "button_label": "Follow her on Instagram",
+        "button_link": "https://www.instagram.com/lizzie_letters/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "single_button_Ex6nbT": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "See what you created",
+        "button_link": "https://www.instagram.com/explore/tags/createthroughscripture/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 50,
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "slideshow_WRxtQf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_FzCpkd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://www.bible.com/bible/121/PSA.121.NLT",
+            "link_text": "Begin Creating",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sketchbook-Hosanna-Revival-Artist-Loft-045B.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_FzCpkd"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "rich_text_GbJNRy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ezWABf": {
+          "type": "heading",
+          "settings": {
+            "title": "Looking for More creative series like this?"
+          }
+        },
+        "text_mHehn8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>same journey, different Scripture</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_8ALqLW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Loving this series? Journey through passages like Psalm 16  or Psalm 84 with us through our previous <em>Create Through Scripture</em> series! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ezWABf",
+        "text_mHehn8",
+        "text_8ALqLW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 0
+      }
+    },
+    "single_button_QXzNxr": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Begin creating",
+        "button_link": "shopify://pages/create-through-scripture",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 75,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_cfYJNP",
+    "1739855578e0d58267",
+    "hero_video_3bHn36",
+    "rich_text_gJqpCX",
+    "rich_text_ecpTEx",
+    "text_columns_HHy3iV",
+    "text_and_image_M9yW33",
+    "text_and_image_pCX9nw",
+    "text_and_image_WzzmBt",
+    "rich_text_E9q7Jf",
+    "rich_text_rxTPJK",
+    "text_and_image_CaV7DQ",
+    "text_and_image_GXDFxW",
+    "text_and_image_HzLzQp",
+    "text_and_image_aNjVJg",
+    "single_button_Ex6nbT",
+    "slideshow_WRxtQf",
+    "rich_text_GbJNRy",
+    "single_button_QXzNxr"
+  ]
+}
