@@ -62,7 +62,7 @@
         "klaviyo_email_marketing_sms_form_embed_block_rDtwqN": {
           "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "formId": "UE8XSi"
+            "formId": "Rb77x5"
           }
         }
       },
@@ -70,7 +70,7 @@
         "klaviyo_email_marketing_sms_form_embed_block_rDtwqN"
       ],
       "custom_css": [
-        ".klaviyo-form-UE8XSi {background-color: #f8f2eb;}"
+        ".klaviyo-form-Rb77x5 {background-color: #FFF9F1;}"
       ],
       "settings": {
         "full_width": true,
