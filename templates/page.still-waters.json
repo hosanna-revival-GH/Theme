@@ -70,7 +70,7 @@
         "klaviyo_email_marketing_sms_form_embed_block_rDtwqN"
       ],
       "custom_css": [
-        ".klaviyo-form-Rb77x5 {background-color: #FFF9F1;}"
+        ".klaviyo-form-Rb77x5 {background-color: #fff9f1;}"
       ],
       "settings": {
         "full_width": true,
@@ -308,7 +308,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#b4a04b",
+        "color_bg": "#2e4164",
         "color_text": "#f7f0e8",
         "space_above": 75,
         "space_below": 75
@@ -542,7 +542,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 75,
-        "link_color_background": "#9ba586",
+        "link_color_background": "#2e4164",
         "link_color_text": "#ffffff"
       }
     }
