@@ -19,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/motherhood-and-the-good-life",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-01_00a4b7a4-b146-4650-ba20-39e251c1340a.png",
-            "image_mobile": "shopify://shop_images/Mobile-01_8885c64c-da4e-43aa-a060-363c7bf221d9.png",
+            "image": "shopify://shop_images/desktop-01_9017e897-c2ab-4452-9c77-79b13afabeb9.png",
+            "image_mobile": "shopify://shop_images/mobile-01_7834baf5-21dd-45d7-a907-7c71c32e7b14.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -36,7 +36,45 @@
       "block_order": [
         "image_fVEef3"
       ],
-      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/desktop-02_1e0daff3-f355-4f97-8745-2f1756e1305e.png",
+            "image_mobile": "shopify://shop_images/mobile-02_1ea03f4b-e59a-49ff-9000-4775dfb7b993.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -280,46 +318,6 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Motherhood-And-The-Good-Life-Hosanna-Revival-Preview.pdf?v=1772138636",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Desktop-04.png",
-            "image_mobile": "shopify://shop_images/Mobile-04.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -568,6 +566,7 @@
   },
   "order": [
     "slideshow_bGCPEX",
+    "slideshow_8GYyKV",
     "slideshow_JzgDYA",
     "slideshow_X4MRpa",
     "featured_collection_AbN8iP",
@@ -575,7 +574,6 @@
     "promo_grid_pwwBNx",
     "slideshow_YNbwrF",
     "slideshow_gW9EVE",
-    "slideshow_8GYyKV",
     "promo_grid_MmC94X",
     "slideshow_GcPDX3",
     "promo_grid_UydWcM",
