@@ -61,8 +61,8 @@
     "single_button_GryJY9": {
       "type": "single-button",
       "settings": {
-        "button_text": "Shop the mother's day sale",
-        "button_link": "shopify://collections/mothers-day-shop",
+        "button_text": "Shop the Bumped and Bruised Sale",
+        "button_link": "shopify://collections/bumped-bruised",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
