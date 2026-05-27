@@ -128,8 +128,8 @@
     "single_button_KDXcyH": {
       "type": "single-button",
       "settings": {
-        "button_text": "Your new compact bible",
-        "button_link": "shopify://collections/nlt-compact-bibles",
+        "button_text": "Sign up for Spanish Bible updates",
+        "button_link": "shopify://pages/spanish-bible-interest",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
