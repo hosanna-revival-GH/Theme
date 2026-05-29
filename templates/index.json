@@ -105,7 +105,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/02_5ef83fa7-ad38-485e-8250-88faa0307325.png",
-            "image_mobile": "shopify://shop_images/02_e461bef6-fa93-4dee-b6cc-bf969a850178.png",
+            "image_mobile": "shopify://shop_images/02_96824f56-c63c-4eaf-a233-8dfbbdbaae5f.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -143,7 +143,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/03_0d81d63e-f41a-4205-a56d-cae11a924e89.png",
-            "image_mobile": "shopify://shop_images/03_8f80c576-d77c-43c4-9978-1c591cf63852.png",
+            "image_mobile": "shopify://shop_images/03_f8566937-2c03-4890-91e4-c8697d2716e5.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -186,7 +186,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/04_a6435218-d554-429b-8d77-71c732fc7902.png",
-            "link": "shopify://collections/devotionals",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
         },
@@ -194,7 +194,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/05_7e82b1dc-af2a-49c1-8189-42c17f14ab37.png",
-            "link": "shopify://collections/notebooks",
+            "link": "shopify://collections/devotionals",
             "width": "50"
           }
         }
@@ -255,7 +255,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/spanish-bible-interest",
+            "link": "shopify://pages/still-waters",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",

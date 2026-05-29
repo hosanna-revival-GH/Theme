@@ -49,7 +49,7 @@
           "settings": {
             "text": "It's our birthday",
             "link_text": "Help us celebrate by donating one for just $6",
-            "link": "shopify://collections"
+            "link": "shopify://pages/give-a-bible"
           }
         },
         "announcement-1": {
@@ -57,7 +57,7 @@
           "settings": {
             "text": "THOUSANDS of BIBLES DONATED",
             "link_text": "Over the years your generosity has allowed us to donate over 5300 beautiful Bibles",
-            "link": "shopify://pages/spanish-bible-interest"
+            "link": "shopify://pages/give-a-bible"
           }
         },
         "announcement_NXQKWa": {
@@ -65,7 +65,7 @@
           "settings": {
             "text": "YOUR HOME FOR BEAUTIFUL BIBLES",
             "link_text": "Find a beautiful tool to invite you to engage with Scripture",
-            "link": "shopify://pages/devotionals"
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_FNqfy6": {
@@ -73,7 +73,7 @@
           "settings": {
             "text": "FREE SHIPPING OVER $100",
             "link_text": "Stock up and enjoy free shipping on us!",
-            "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/"
+            "link": "shopify://collections"
           }
         }
       },
