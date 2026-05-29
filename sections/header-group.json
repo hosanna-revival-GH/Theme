@@ -48,7 +48,7 @@
           "type": "announcement",
           "settings": {
             "text": "It's our birthday",
-            "link_text": "Help us celebrate by donating one for just $6",
+            "link_text": "Help us celebrate by donating a Bible for just $6",
             "link": "shopify://pages/give-a-bible"
           }
         },
@@ -56,7 +56,7 @@
           "type": "announcement",
           "settings": {
             "text": "THOUSANDS of BIBLES DONATED",
-            "link_text": "Over the years your generosity has allowed us to donate over 5300 beautiful Bibles",
+            "link_text": "Over the years your generosity has allowed us to donate over 5,300 beautiful Bibles",
             "link": "shopify://pages/give-a-bible"
           }
         },
