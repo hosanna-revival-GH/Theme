@@ -47,32 +47,32 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "50% Off Bumped and Bruised + Free Shipping on Orders $65+",
-            "link_text": "Shop products with light wear and tear",
+            "text": "It's our birthday",
+            "link_text": "Help us celebrate by donating one for just $6",
             "link": "shopify://collections"
           }
         },
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Beautiful Spanish Bibles Coming Soon",
-            "link_text": "sign up here to be one of the first to hear when these launch",
+            "text": "THOUSANDS of BIBLES DONATED",
+            "link_text": "Over the years your generosity has allowed us to donate over 5300 beautiful Bibles",
             "link": "shopify://pages/spanish-bible-interest"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Start your summer with a new devotional",
-            "link_text": "explore our devotional library and find something fit for your season",
+            "text": "YOUR HOME FOR BEAUTIFUL BIBLES",
+            "link_text": "Find a beautiful tool to invite you to engage with Scripture",
             "link": "shopify://pages/devotionals"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Check out the WHEN blog",
-            "link_text": "Articles that meet life’s questions with the truth of Scripture",
+            "text": "FREE SHIPPING OVER $100",
+            "link_text": "Stock up and enjoy free shipping on us!",
             "link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/"
           }
         }
