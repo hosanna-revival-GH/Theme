@@ -49,46 +49,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/collections/bumped-bruised",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/desktop-02_1e0daff3-f355-4f97-8745-2f1756e1305e.png",
-            "image_mobile": "shopify://shop_images/mobile-02_1ea03f4b-e59a-49ff-9000-4775dfb7b993.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_JzgDYA": {
       "type": "slideshow",
       "blocks": {
@@ -99,14 +59,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/beautiful-bibles",
+            "link": "shopify://pages/give-a-bible",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Mother_s-Day-Sale-copy-2.png",
-            "image_mobile": "shopify://shop_images/mobile-01_2efea040-c94e-4b26-88b8-6b3ea71285aa.png",
+            "image": "shopify://shop_images/01_39614639-6754-4bd1-ab42-3e26dbc384cd.png",
+            "image_mobile": "shopify://shop_images/01_c240e45d-f925-4141-bbbc-9e07b06ee8fd.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -138,14 +98,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/best-sellers",
+            "link": "shopify://pages/give-a-bible",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/022_5fa3a80f-0448-4c49-8542-3d46d5f9f295.png",
-            "image_mobile": "shopify://shop_images/web-o22.png",
+            "image": "shopify://shop_images/02_5ef83fa7-ad38-485e-8250-88faa0307325.png",
+            "image_mobile": "shopify://shop_images/02_e461bef6-fa93-4dee-b6cc-bf969a850178.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -163,6 +123,45 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/about",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/03_0d81d63e-f41a-4205-a56d-cae11a924e89.png",
+            "image_mobile": "shopify://shop_images/03_8f80c576-d77c-43c4-9978-1c591cf63852.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -186,15 +185,15 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/02_9dc6112a-65b5-4955-8749-7a1e51cf9e2a.png",
-            "link": "shopify://collections/beautiful-bibles",
+            "image": "shopify://shop_images/04_a6435218-d554-429b-8d77-71c732fc7902.png",
+            "link": "shopify://collections/devotionals",
             "width": "50"
           }
         },
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/03_844d2d61-e5e4-410a-9de4-2539715eeb98.png",
+            "image": "shopify://shop_images/05_7e82b1dc-af2a-49c1-8189-42c17f14ab37.png",
             "link": "shopify://collections/notebooks",
             "width": "50"
           }
@@ -219,16 +218,16 @@
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/04_41f9a773-13df-4d19-8525-4356f3ed72fc.png",
-            "link": "shopify://collections/one-thing-i-ask",
+            "image": "shopify://shop_images/06_bd742a73-4c4f-4ff1-87fa-4ad78390e822.png",
+            "link": "shopify://collections/notebooks",
             "width": "50"
           }
         },
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/05_04a6287e-d8c9-4537-95ef-591ff6080926.png",
-            "link": "shopify://pages/devotionals",
+            "image": "shopify://shop_images/07_be862d11-855e-4c41-bccc-dd8eeb05c2c3.png",
+            "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
         }
@@ -262,8 +261,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/06_973538bc-55b7-4ea6-ac67-b730cf364eeb.png",
-            "image_mobile": "shopify://shop_images/mobile-02_bb261e8c-030e-4d8a-bab5-adc3b7ce5660.png",
+            "image": "shopify://shop_images/10_2b01b662-5c2f-48b7-a809-6687ce9428b9.png",
+            "image_mobile": "shopify://shop_images/04_0f84c2f9-0ef8-4fb7-aca0-892d4e99a2e0.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -301,8 +300,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/07_28446c4a-7249-4982-a889-63de42f84a77.png",
-            "image_mobile": "shopify://shop_images/mobile-03_804a8da7-9a14-4941-b616-b1e388615434.png",
+            "image": "shopify://shop_images/11_15cebca9-a3f5-4f4f-9788-57d9164ad581.png",
+            "image_mobile": "shopify://shop_images/05_a83e9f7c-3d61-46b9-ac33-eae4d5a828f1.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -543,8 +542,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/08_9b74f5b1-0209-4226-8726-483e5bfe054b.png",
-            "image_mobile": "shopify://shop_images/mobile-04_38e5f200-2109-448f-b928-217889afdbb7.png",
+            "image": "shopify://shop_images/12.png",
+            "image_mobile": "shopify://shop_images/06_d50db554-2310-4188-9653-ea70b567025c.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -568,9 +567,9 @@
   },
   "order": [
     "slideshow_bGCPEX",
-    "slideshow_8GYyKV",
     "slideshow_JzgDYA",
     "slideshow_X4MRpa",
+    "slideshow_8GYyKV",
     "featured_collection_AbN8iP",
     "promo_grid_BftCNi",
     "promo_grid_pwwBNx",
