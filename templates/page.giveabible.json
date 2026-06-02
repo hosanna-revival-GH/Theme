@@ -68,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Cover the cost to donate a Bible for only $9.99</em></p>",
+            "text": "<p><em>Cover the cost to donate a Bible for only $9.99 ($6 for the month of June)</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
