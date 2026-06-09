@@ -22,9 +22,62 @@
         "blog_show_excerpt": true,
         "blog_image_size": "landscape"
       }
+    },
+    "when_blog_hero_MRnBgX": {
+      "type": "when-blog-hero",
+      "blocks": {
+        "slide_YCyRRU": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        },
+        "slide_wCEw7w": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        },
+        "slide_jifnEd": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        },
+        "slide_Pyhf8A": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_YCyRRU",
+        "slide_wCEw7w",
+        "slide_jifnEd",
+        "slide_Pyhf8A"
+      ],
+      "name": "WHEN Blog Hero",
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 6
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "when_blog_hero_MRnBgX"
   ]
 }
