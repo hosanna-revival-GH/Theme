@@ -1,0 +1,414 @@
+{{ 'when-blog.css' | asset_url | stylesheet_tag }}
+
+{%- paginate blog.articles by 6 -%}
+
+  {%- assign is_tag_page = false -%}
+  {%- if current_tags.size > 0 -%}
+    {%- assign is_tag_page = true -%}
+  {%- endif -%}
+
+  <div class="when-blog" data-section-id="{{ section.id }}">
+
+    {%- if is_tag_page -%}
+
+      {%- comment -%} ============================================================
+        TAG PAGE
+      ============================================================ {%- endcomment -%}
+
+      <div class="when-tag-header">
+        <div class="when-page-width">
+          <div class="when-tag-header__nav">
+            <a href="{{ blog.url }}" class="when-tag-header__back">&larr; Back to all articles</a>
+            <a href="/pages/blog-topics" class="when-tag-header__topics">View All Topics</a>
+          </div>
+          <h1 class="when-tag-header__title">{{ current_tags | join: ' + ' | replace: '-', ' ' }}</h1>
+          <p class="when-tag-header__count">{{ blog.articles_count }} article{% if blog.articles_count != 1 %}s{% endif %}</p>
+        </div>
+      </div>
+
+      <div class="when-tag-grid-wrap">
+        <div class="when-page-width">
+          <div class="when-grid">
+            {%- for article in blog.articles -%}
+              {%- if article.metafields.custom.author.value != blank -%}
+                {%- assign card_author_name = article.metafields.custom.author.value.name -%}
+              {%- else -%}
+                {%- assign card_author_name = article.author -%}
+              {%- endif -%}
+              <article class="when-card">
+                <a href="{{ article.url }}" class="when-card__link" tabindex="-1" aria-hidden="true">
+                  {%- if article.image -%}
+                    <div class="when-card__image">
+                      <img
+                        src="{{ article.image | image_url: width: 600 }}"
+                        alt="{{ article.image.alt | escape }}"
+                        loading="lazy"
+                        width="600"
+                        height="375"
+                      >
+                    </div>
+                  {%- else -%}
+                    <div class="when-card__image when-card__image--placeholder">
+                      <span>WHEN</span>
+                    </div>
+                  {%- endif -%}
+                </a>
+                <div class="when-card__body">
+                  <h3 class="when-card__title">
+                    <a href="{{ article.url }}">{{ article.title }}</a>
+                  </h3>
+                  {%- if card_author_name != blank -%}
+                    <div class="when-card__author">{{ card_author_name }}</div>
+                  {%- endif -%}
+                  <div class="when-card__date">{{ article.published_at | date: '%B %-d, %Y' }}</div>
+                </div>
+              </article>
+            {%- endfor -%}
+          </div>
+
+          {%- if paginate.pages > 1 -%}
+            <nav class="when-pagination" role="navigation" aria-label="Pagination">
+              {%- if paginate.previous -%}
+                <a href="{{ paginate.previous.url }}" class="when-pagination__arrow" aria-label="Previous page" rel="prev">&larr;</a>
+              {%- else -%}
+                <span class="when-pagination__arrow is-disabled" aria-hidden="true">&larr;</span>
+              {%- endif -%}
+              <ul class="when-pagination__pages">
+                {%- for part in paginate.parts -%}
+                  <li>
+                    {%- if part.is_link -%}
+                      <a href="{{ part.url }}" class="when-pagination__page" aria-label="Page {{ part.title }}">{{ part.title }}</a>
+                    {%- elsif part.title == paginate.current_page -%}
+                      <span class="when-pagination__page is-current" aria-current="page">{{ part.title }}</span>
+                    {%- else -%}
+                      <span class="when-pagination__page is-gap" aria-hidden="true">{{ part.title }}</span>
+                    {%- endif -%}
+                  </li>
+                {%- endfor -%}
+              </ul>
+              {%- if paginate.next -%}
+                <a href="{{ paginate.next.url }}" class="when-pagination__arrow" aria-label="Next page" rel="next">&rarr;</a>
+              {%- else -%}
+                <span class="when-pagination__arrow is-disabled" aria-hidden="true">&rarr;</span>
+              {%- endif -%}
+            </nav>
+          {%- endif -%}
+
+        </div>
+      </div>
+
+    {%- else -%}
+
+    
+      {%- if paginate.current_page == 1 -%}
+
+        {%- assign most_read_count = 0 -%}
+        {%- for block in section.blocks -%}
+          {%- if block.type == 'most_read_item' and block.settings.article != blank -%}
+            {%- assign most_read_count = most_read_count | plus: 1 -%}
+          {%- endif -%}
+        {%- endfor -%}
+
+        {%- if most_read_count > 0 -%}
+          <div class="when-section">
+            <div class="when-page-width">
+              <div class="when-section__head">
+                <h2 class="when-section__title">{{ section.settings.most_read_heading | default: 'Most Read' }}</h2>
+              </div>
+              <div class="when-grid when-grid--scrollable">
+                {%- for block in section.blocks -%}
+                  {%- if block.type == 'most_read_item' and block.settings.article != blank -%}
+                    {%- assign article = block.settings.article -%}
+                    {%- if article.metafields.custom.author.value != blank -%}
+                      {%- assign card_author_name = article.metafields.custom.author.value.name -%}
+                    {%- else -%}
+                      {%- assign card_author_name = article.author -%}
+                    {%- endif -%}
+                    <article class="when-card" {{ block.shopify_attributes }}>
+                      <a href="{{ article.url }}" class="when-card__link" tabindex="-1" aria-hidden="true">
+                        {%- if article.image -%}
+                          <div class="when-card__image">
+                            <img
+                              src="{{ article.image | image_url: width: 600 }}"
+                              alt="{{ article.image.alt | escape }}"
+                              loading="lazy"
+                              width="600"
+                              height="375"
+                            >
+                          </div>
+                        {%- else -%}
+                          <div class="when-card__image when-card__image--placeholder"><span>WHEN</span></div>
+                        {%- endif -%}
+                      </a>
+                      <div class="when-card__body">
+                        <h3 class="when-card__title"><a href="{{ article.url }}">{{ article.title }}</a></h3>
+                        {%- if card_author_name != blank -%}
+                          <div class="when-card__author">{{ card_author_name }}</div>
+                        {%- endif -%}
+                        <div class="when-card__date">{{ article.published_at | date: '%B %-d, %Y' }}</div>
+                      </div>
+                    </article>
+                  {%- endif -%}
+                {%- endfor -%}
+              </div>
+            </div>
+          </div>
+        {%- endif -%}
+
+      {%- endif -%}
+
+      {%- comment -%} ===== NEW ARTICLES — full article loop, paginated by 6 ===== {%- endcomment -%}
+      <div class="when-section">
+        <div class="when-page-width">
+          <div class="when-section__head">
+            <h2 class="when-section__title">{{ section.settings.new_articles_heading | default: 'New Articles' }}</h2>
+          </div>
+          <div class="when-grid{% if paginate.current_page == 1 %} when-grid--scrollable{% endif %}">
+            {%- for article in blog.articles -%}
+              {%- if article.metafields.custom.author.value != blank -%}
+                {%- assign card_author_name = article.metafields.custom.author.value.name -%}
+              {%- else -%}
+                {%- assign card_author_name = article.author -%}
+              {%- endif -%}
+              <article class="when-card">
+                <a href="{{ article.url }}" class="when-card__link" tabindex="-1" aria-hidden="true">
+                  {%- if article.image -%}
+                    <div class="when-card__image">
+                      <img
+                        src="{{ article.image | image_url: width: 600 }}"
+                        alt="{{ article.image.alt | escape }}"
+                        loading="lazy"
+                        width="600"
+                        height="375"
+                      >
+                    </div>
+                  {%- else -%}
+                    <div class="when-card__image when-card__image--placeholder"><span>WHEN</span></div>
+                  {%- endif -%}
+                </a>
+                <div class="when-card__body">
+                  <h3 class="when-card__title"><a href="{{ article.url }}">{{ article.title }}</a></h3>
+                  {%- if card_author_name != blank -%}
+                    <div class="when-card__author">{{ card_author_name }}</div>
+                  {%- endif -%}
+                  <div class="when-card__date">{{ article.published_at | date: '%B %-d, %Y' }}</div>
+                </div>
+              </article>
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+
+      {%- comment -%} ===== PAGINATION ===== {%- endcomment -%}
+      {%- if paginate.pages > 1 -%}
+        <nav class="when-pagination when-page-width" role="navigation" aria-label="Pagination">
+          {%- if paginate.previous -%}
+            <a href="{{ paginate.previous.url }}" class="when-pagination__arrow" aria-label="Previous page" rel="prev">&larr;</a>
+          {%- else -%}
+            <span class="when-pagination__arrow is-disabled" aria-hidden="true">&larr;</span>
+          {%- endif -%}
+          <ul class="when-pagination__pages">
+            {%- for part in paginate.parts -%}
+              <li>
+                {%- if part.is_link -%}
+                  <a href="{{ part.url }}" class="when-pagination__page" aria-label="Page {{ part.title }}">{{ part.title }}</a>
+                {%- elsif part.title == paginate.current_page -%}
+                  <span class="when-pagination__page is-current" aria-current="page">{{ part.title }}</span>
+                {%- else -%}
+                  <span class="when-pagination__page is-gap" aria-hidden="true">{{ part.title }}</span>
+                {%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+          {%- if paginate.next -%}
+            <a href="{{ paginate.next.url }}" class="when-pagination__arrow" aria-label="Next page" rel="next">&rarr;</a>
+          {%- else -%}
+            <span class="when-pagination__arrow is-disabled" aria-hidden="true">&rarr;</span>
+          {%- endif -%}
+        </nav>
+      {%- endif -%}
+
+      {%- comment -%} ===== WRITE FOR US ===== {%- endcomment -%}
+      {%- if section.settings.write_for_us_show -%}
+        <div class="when-write-for-us">
+          <div class="when-page-width">
+            <div class="when-write-for-us__inner">
+              {%- if section.settings.write_for_us_eyebrow != blank -%}
+                <span class="when-write-for-us__eyebrow">{{ section.settings.write_for_us_eyebrow }}</span>
+              {%- endif -%}
+              {%- if section.settings.write_for_us_text != blank -%}
+                <div class="when-write-for-us__text">{{ section.settings.write_for_us_text }}</div>
+              {%- endif -%}
+              {%- if section.settings.write_for_us_url != blank -%}
+                <a
+                  href="{{ section.settings.write_for_us_url }}"
+                  class="when-write-for-us__button"
+                >{{ section.settings.write_for_us_button_label | default: 'Submit' }}</a>
+              {%- endif -%}
+            </div>
+          </div>
+        </div>
+      {%- endif -%}
+
+      {%- comment -%} ===== NEWSLETTER (full-width Klaviyo block) ===== {%- endcomment -%}
+      {%- if section.settings.klaviyo_embed != blank -%}
+        <div
+          class="when-newsletter-block"
+          style="background-color: {{ section.settings.newsletter_bg_color }};"
+        >
+          <div class="when-page-width">
+            <div class="when-newsletter-block__inner">
+              {%- if section.settings.newsletter_eyebrow != blank -%}
+                <div class="when-newsletter-block__eyebrow">{{ section.settings.newsletter_eyebrow }}</div>
+              {%- endif -%}
+              {%- if section.settings.newsletter_heading != blank -%}
+                <h2 class="when-newsletter-block__heading">{{ section.settings.newsletter_heading }}</h2>
+              {%- endif -%}
+              <div class="when-newsletter-block__form">
+                {{ section.settings.klaviyo_embed }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {%- endif -%}
+
+      {%- comment -%} ===== WELCOME TO WHEN footer ===== {%- endcomment -%}
+      {%- if section.settings.welcome_heading != blank or section.settings.welcome_text != blank -%}
+        <div class="when-welcome">
+          <div class="when-page-width">
+            <div class="when-welcome__inner">
+              {%- if section.settings.welcome_heading != blank -%}
+                <h2 class="when-welcome__heading">{{ section.settings.welcome_heading }}</h2>
+              {%- endif -%}
+              {%- if section.settings.welcome_text != blank -%}
+                <div class="when-welcome__text">{{ section.settings.welcome_text }}</div>
+              {%- endif -%}
+            </div>
+          </div>
+        </div>
+      {%- endif -%}
+
+    {%- endif -%}
+
+  </div>
+
+{%- endpaginate -%}
+
+{% schema %}
+{
+  "name": "WHEN Blog Template",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Section headings"
+    },
+    {
+      "type": "text",
+      "id": "most_read_heading",
+      "label": "Most Read heading",
+      "default": "Most Read",
+      "info": "Articles selected via the 'Most Read article' blocks below appear here (up to 3). Only shown on page 1."
+    },
+    {
+      "type": "text",
+      "id": "new_articles_heading",
+      "label": "New Articles heading",
+      "default": "New Articles"
+    },
+    {
+      "type": "header",
+      "content": "Write For Us"
+    },
+    {
+      "type": "checkbox",
+      "id": "write_for_us_show",
+      "label": "Show Write For Us section",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "write_for_us_eyebrow",
+      "label": "Heading",
+      "default": "Write For Us"
+    },
+    {
+      "type": "richtext",
+      "id": "write_for_us_text",
+      "label": "Description text",
+      "default": "<p>Are you an author or writer? We welcome article submissions from our community because at the core of WHEN is writing by our community, for our community. Submit your article or blog post below!</p>"
+    },
+    {
+      "type": "text",
+      "id": "write_for_us_button_label",
+      "label": "Button label",
+      "default": "Submit"
+    },
+    {
+      "type": "url",
+      "id": "write_for_us_url",
+      "label": "Button link",
+      "info": "Link to your submission page or external form"
+    },
+    {
+      "type": "header",
+      "content": "Newsletter (full-width)"
+    },
+    {
+      "type": "color",
+      "id": "newsletter_bg_color",
+      "label": "Background color",
+      "default": "#F7F5F0"
+    },
+    {
+      "type": "text",
+      "id": "newsletter_eyebrow",
+      "label": "Eyebrow label",
+      "default": "Stay in the Word"
+    },
+    {
+      "type": "text",
+      "id": "newsletter_heading",
+      "label": "Heading"
+    },
+    {
+      "type": "html",
+      "id": "klaviyo_embed",
+      "label": "Klaviyo embed code",
+      "info": "Paste your full Klaviyo signup embed snippet here. Leave blank to hide section."
+    },
+    {
+      "type": "header",
+      "content": "Welcome to WHEN"
+    },
+    {
+      "type": "text",
+      "id": "welcome_heading",
+      "label": "Heading",
+      "default": "Welcome to WHEN, a space where life's questions meet Scripture's answers."
+    },
+    {
+      "type": "richtext",
+      "id": "welcome_text",
+      "label": "Description",
+      "default": "<p>WHEN is a branch of Hosanna Revival Publishing that provides high-quality free content to point you to Scripture. Through collaborating with gifted writers across our community, we at Hosanna Revival have crafted a space where your wild and weighty questions are held up to the light of Scripture, and then paired with application questions and Scripture-reading to carry with you.</p><p><em>We firmly believe the Word of God provides the foundation of truth that equips us to respond to life's questions with wisdom and greater purpose, and we pray that this space will probe honestly and vulnerably into your questions and in turn, lead you closer to One who is the way, the truth, and the life.</em></p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "most_read_item",
+      "name": "Most Read article",
+      "limit": 3,
+      "settings": [
+        {
+          "type": "article",
+          "id": "article",
+          "label": "Article"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["footer", "header", "custom.popups"]
+  }
+}
+{% endschema %}
