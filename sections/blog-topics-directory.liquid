@@ -1,0 +1,125 @@
+{{ 'when-blog.css' | asset_url | stylesheet_tag }}
+
+{%- assign target_blog = blogs[section.settings.blog] -%}
+{%- assign all_tags = target_blog.all_tags | sort -%}
+{%- assign topic_objects = target_blog.metafields.custom.blog_topic.value -%}
+{%- assign letters = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z' | split: ',' -%}
+
+<div class="when-topics-directory">
+  <div class="when-page-width">
+
+    <div class="when-topics-directory__header">
+      {%- if target_blog != blank -%}
+        <a href="{{ target_blog.url }}" class="when-topics-directory__back">← Back to {{ target_blog.title }}</a>
+      {%- endif -%}
+      {%- if section.settings.heading != blank -%}
+        <h1 class="when-topics-directory__title">{{ section.settings.heading }}</h1>
+      {%- endif -%}
+      {%- if section.settings.intro != blank -%}
+        <div class="when-topics-directory__intro">{{ section.settings.intro }}</div>
+      {%- endif -%}
+      {%- if all_tags.size > 0 -%}
+        <p class="when-topics-directory__count">{{ all_tags.size }} topic{% if all_tags.size != 1 %}s{% endif %}</p>
+      {%- endif -%}
+    </div>
+
+    {%- if section.settings.show_curated and topic_objects != blank -%}
+      <div class="when-topics-directory__curated">
+        <h2 class="when-topics-directory__section-title">Popular Topics</h2>
+        <div class="when-pills">
+          {%- for topic in topic_objects -%}
+            <a href="{{ target_blog.url }}/tagged/{{ topic.topic_handle }}" class="when-pill">{{ topic.label }}</a>
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- endif -%}
+
+    {%- if all_tags.size > 0 -%}
+
+      <nav class="when-topics-directory__anchors" aria-label="Topics alphabet navigation">
+        {%- for letter in letters -%}
+          {%- assign has_match = false -%}
+          {%- for tag in all_tags -%}
+            {%- assign tl = tag | slice: 0 | upcase -%}
+            {%- if tl == letter -%}{%- assign has_match = true -%}{%- break -%}{%- endif -%}
+          {%- endfor -%}
+          {%- if has_match -%}
+            <a href="#letter-{{ letter }}" class="when-topics-directory__anchor">{{ letter }}</a>
+          {%- else -%}
+            <span class="when-topics-directory__anchor is-empty" aria-hidden="true">{{ letter }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </nav>
+
+      <div class="when-topics-directory__groups">
+        {%- for letter in letters -%}
+          {%- assign has_match = false -%}
+          {%- for tag in all_tags -%}
+            {%- assign tl = tag | slice: 0 | upcase -%}
+            {%- if tl == letter -%}{%- assign has_match = true -%}{%- break -%}{%- endif -%}
+          {%- endfor -%}
+          {%- if has_match -%}
+            <section class="when-topics-group" id="letter-{{ letter }}">
+              <h2 class="when-topics-group__letter">{{ letter }}</h2>
+              <ul class="when-topics-group__list">
+                {%- for tag in all_tags -%}
+                  {%- assign tl = tag | slice: 0 | upcase -%}
+                  {%- if tl == letter -%}
+                    <li>
+                      <a href="{{ target_blog.url }}/tagged/{{ tag | handleize }}" class="when-topics-group__link">
+                        {{ tag | replace: '-', ' ' }}
+                      </a>
+                    </li>
+                  {%- endif -%}
+                {%- endfor -%}
+              </ul>
+            </section>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+
+    {%- else -%}
+      <p class="when-topics-directory__empty">No topics yet. Check back soon.</p>
+    {%- endif -%}
+
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Blog Topics Directory",
+  "settings": [
+    {
+      "type": "blog",
+      "id": "blog",
+      "label": "Blog to pull topics from",
+      "info": "Tags/topics will be pulled from this blog's all_tags."
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Page heading",
+      "default": "All Blog Topics"
+    },
+    {
+      "type": "richtext",
+      "id": "intro",
+      "label": "Intro text",
+      "default": "<p>Browse every topic we've written about.</p>"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_curated",
+      "label": "Show Popular Topics block at top",
+      "info": "Pulls curated topics from the blog's custom.blog_topic metaobject list.",
+      "default": true
+    }
+  ],
+  "presets": [
+    {
+      "name": "Blog Topics Directory",
+      "category": "Blog"
+    }
+  ]
+}
+{% endschema %}
