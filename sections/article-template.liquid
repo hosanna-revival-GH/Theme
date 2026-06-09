@@ -1,7 +1,15 @@
+{{ 'when-blog.css' | asset_url | stylesheet_tag }}
+
 {%- liquid
   assign number_of_comments = article.comments_count
   if comment.status == 'pending'
     assign number_of_comments = article.comments_count | plus: 1
+  endif
+
+  assign meta_author = article.metafields.custom.author.value
+  assign show_meta_author = false
+  if blog.handle == 'when-blog' and meta_author != blank
+    assign show_meta_author = true
   endif
 -%}
 
@@ -42,7 +50,7 @@
             </h1>
 
             {%- if section.settings.blog_show_author -%}
-              <div class="article__author">by {{ article.author }}</div>
+              <div class="article__author">by {% if show_meta_author %}{{ meta_author.name }}{% else %}{{ article.author }}{% endif %}</div>
             {%- endif -%}
           </div>
         </header>
@@ -78,7 +86,7 @@
         {%- endif -%}
         <h1 class="section-header__title">{{ article.title }}</h1>
         {%- if section.settings.blog_show_author -%}
-          <div class="article__author">by {{ article.author }}</div>
+          <div class="article__author">by {% if show_meta_author %}{{ meta_author.name }}{% else %}{{ article.author }}{% endif %}</div>
         {%- endif -%}
       </header>
     {%- endunless -%}
@@ -86,6 +94,8 @@
     <div class="article__body rte">
       {{ article.content }}
     </div>
+
+    {%- render 'author-bio' -%}
 
     {%- if section.settings.social_sharing_blog -%}
       {%- render 'social-sharing', share_title: article.title, share_permalink: article.url, share_image: article.image -%}
@@ -218,7 +228,7 @@
   "dateCreated": {{ article.created_at | date: '%Y-%m-%dT%H:%M:%SZ' | json }},
   "author": {
     "@type": "Person",
-    "name": {{ article.author | json }}
+    "name": {% if show_meta_author %}{{ meta_author.name | json }}{% else %}{{ article.author | json }}{% endif %}
   },
   "publisher": {
     "@type": "Organization",
