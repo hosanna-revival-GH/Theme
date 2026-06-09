@@ -46,13 +46,6 @@
             "label": "Life Issues",
             "url": "/blogs/when-blog/tagged/life-issues"
           }
-        },
-        "nav_item_nerm3x": {
-          "type": "nav_item",
-          "settings": {
-            "label": "Read All",
-            "url": ""
-          }
         }
       },
       "block_order": [
@@ -60,8 +53,7 @@
         "nav_item_imnyii",
         "nav_item_MnQhLN",
         "nav_item_gwKk6x",
-        "nav_item_9UTPfM",
-        "nav_item_nerm3x"
+        "nav_item_9UTPfM"
       ],
       "name": "WHEN Blog Masthead",
       "settings": {
