@@ -9,10 +9,48 @@
  */
 {
   "sections": {
+    "slideshow_3QXyhJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dbqqH3": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Submission Guidelines",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/21-02-waiting-on-God-EmileeCarpenter-2-scaled.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_dbqqH3"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "500px",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
-        "page_title_enable": true,
+        "page_title_enable": false,
         "page_content_enable": true,
         "background_color": ""
       }
@@ -88,12 +126,59 @@
         "intro": "<p>Browse every topic we've written about.</p>",
         "show_curated": true
       }
+    },
+    "advanced_content_g7kRT3": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_TPUmBT": {
+          "type": "liquid",
+          "settings": {
+            "code": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_TPUmBT"
+      ],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JzMB6V": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-034.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Have an idea for a printed devotional?",
+        "text": "<p><em>WHEN </em>is a blog by <a href=\"https://hosannarevival.com/pages/publishing\" target=\"_blank\">Hosanna Revival Publishing</a>, which also publishes printed devotionals (<a href=\"https://hosannarevival.com/collections/devotionals\" target=\"_blank\">sold in our shop</a>). If you have a pitch for a devotional you would love to see published, we’d love to hear from you. Submit your devotional pitch below!</p>",
+        "button_label": "submit my pitch",
+        "button_link": "https://hosannarevival.com/pages/publishing",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
+    "slideshow_3QXyhJ",
     "main",
     "advanced_content_RycVwR",
     "rich_text_jDDMVz",
-    "blog_topics_directory_LUDrQc"
+    "blog_topics_directory_LUDrQc",
+    "advanced_content_g7kRT3",
+    "text_and_image_JzMB6V"
   ]
 }
