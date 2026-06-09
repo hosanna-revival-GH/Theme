@@ -1,0 +1,173 @@
+{%- comment -%}
+  WHEN Blog Hero Slideshow
+  --------------------------------------------------------
+  Horizontal flex track. Slides physically live side-by-side
+  in a row. JS moves the track with transform: translateX.
+  No opacity stacking, no z-index gymnastics.
+{%- endcomment -%}
+
+<script src="{{ 'when-blog.js' | asset_url }}" defer="defer"></script>
+
+  <div
+    class="when-hero-slideshow"
+    data-when-slideshow
+    data-autoplay="{{ section.settings.autoplay }}"
+    data-autoplay-speed="{{ section.settings.autoplay_speed }}"
+  >
+    <div class="when-hero-slideshow__track" data-when-track>
+
+      {%- for block in section.blocks -%}
+        {%- assign picked_article = block.settings.article -%}
+
+        {%- if block.settings.override_image != blank -%}
+          {%- assign slide_image = block.settings.override_image -%}
+        {%- else -%}
+          {%- assign slide_image = picked_article.image -%}
+        {%- endif -%}
+
+        {%- if block.settings.override_title != blank -%}
+          {%- assign slide_title = block.settings.override_title -%}
+        {%- else -%}
+          {%- assign slide_title = picked_article.title -%}
+        {%- endif -%}
+
+        {%- if block.settings.override_author != blank -%}
+          {%- assign slide_author = block.settings.override_author -%}
+        {%- elsif picked_article.metafields.custom.author.value != blank -%}
+          {%- assign slide_author = picked_article.metafields.custom.author.value.name -%}
+        {%- else -%}
+          {%- assign slide_author = picked_article.author -%}
+        {%- endif -%}
+
+        {%- if block.settings.override_url != blank -%}
+          {%- assign slide_url = block.settings.override_url -%}
+        {%- else -%}
+          {%- assign slide_url = picked_article.url -%}
+        {%- endif -%}
+
+        <div class="when-hero-slide" {{ block.shopify_attributes }}>
+          {%- if slide_image != blank -%}
+            <div class="when-hero-slide__image">
+              <img
+                src="{{ slide_image | image_url: width: 2000 }}"
+                srcset="{{ slide_image | image_url: width: 800 }} 800w, {{ slide_image | image_url: width: 1200 }} 1200w, {{ slide_image | image_url: width: 1600 }} 1600w, {{ slide_image | image_url: width: 2000 }} 2000w"
+                sizes="100vw"
+                alt="{{ slide_image.alt | default: slide_title | escape }}"
+                loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"
+                width="2000"
+                height="800"
+              >
+            </div>
+          {%- else -%}
+            <div class="when-hero-slide__image when-hero-slide__image--placeholder"></div>
+          {%- endif -%}
+
+          <div class="when-hero-slide__overlay" aria-hidden="true"></div>
+
+          <a href="{{ slide_url }}" class="when-hero-slide__content">
+            {%- if slide_title != blank -%}
+              <h2 class="when-hero-slide__title">{{ slide_title }}</h2>
+            {%- endif -%}
+            {%- if slide_author != blank -%}
+              <div class="when-hero-slide__author">{{ slide_author }}</div>
+            {%- endif -%}
+          </a>
+        </div>
+
+      {%- endfor -%}
+
+    </div>
+
+    {%- if section.blocks.size > 1 -%}
+      <button type="button" class="when-hero-slideshow__arrow when-hero-slideshow__arrow--prev" aria-label="Previous slide" data-when-prev>
+        <svg class="when-hero-slideshow__arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+      </button>
+      <button type="button" class="when-hero-slideshow__arrow when-hero-slideshow__arrow--next" aria-label="Next slide" data-when-next>
+        <svg class="when-hero-slideshow__arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </button>
+    {%- endif -%}
+
+  </div>
+
+{% schema %}
+{
+  "name": "WHEN Blog Hero",
+  "tag": "section",
+  "class": "shopify-section--when-blog-hero",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "autoplay",
+      "label": "Autoplay slideshow",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "autoplay_speed",
+      "label": "Autoplay speed (seconds)",
+      "min": 3,
+      "max": 12,
+      "step": 1,
+      "default": 6,
+      "unit": "s"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "slide",
+      "name": "Slide",
+      "limit": 8,
+      "settings": [
+        {
+          "type": "article",
+          "id": "article",
+          "label": "Article",
+          "info": "Slide title, author, image and link default to this article."
+        },
+        {
+          "type": "header",
+          "content": "Overrides (optional)"
+        },
+        {
+          "type": "image_picker",
+          "id": "override_image",
+          "label": "Background image",
+          "info": "Wide, darker images work best for legibility. Recommended 2000x800."
+        },
+        {
+          "type": "text",
+          "id": "override_title",
+          "label": "Title"
+        },
+        {
+          "type": "text",
+          "id": "override_author",
+          "label": "Author"
+        },
+        {
+          "type": "url",
+          "id": "override_url",
+          "label": "Link"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "WHEN Blog Hero",
+      "blocks": [
+        { "type": "slide" },
+        { "type": "slide" },
+        { "type": "slide" }
+      ]
+    }
+  ],
+  "enabled_on": {
+    "templates": ["blog"]
+  }
+}
+{% endschema %}
