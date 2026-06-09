@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "blog-template",
+      "disabled": true,
       "settings": {
         "blog_show_tag_filter": false,
         "blog_show_rss": false,
