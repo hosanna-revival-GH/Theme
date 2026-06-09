@@ -127,26 +127,23 @@
         "show_curated": true
       }
     },
-    "advanced_content_g7kRT3": {
-      "type": "advanced-content",
+    "1781038969cc816354": {
+      "type": "apps",
       "blocks": {
-        "liquid_TPUmBT": {
-          "type": "liquid",
+        "acerill_form_builder_custom_form_RCLjRJ": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
           "settings": {
-            "code": "",
-            "width": "50%",
-            "alignment": "center"
+            "formId": "a64f1cd8-18aa-4745-88c6-7dfa042b5a2d",
+            "behavior": "standard"
           }
         }
       },
       "block_order": [
-        "liquid_TPUmBT"
+        "acerill_form_builder_custom_form_RCLjRJ"
       ],
-      "name": "t:sections.advanced-content.presets.custom_content.name",
       "settings": {
         "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
+        "space_around": true
       }
     },
     "text_and_image_JzMB6V": {
@@ -170,6 +167,61 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "rich_text_hw7DDJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QHA4pc": {
+          "type": "heading",
+          "settings": {
+            "title": "Submit Photography"
+          }
+        },
+        "text_rTK6Qh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Are you a photographer? Each article is paired with a stunning, high-resolution image from a creative in our community, so if you would like to contribute to our image database, please fill out the photography submission form on this page.</strong></p><p>If you have photos you would like to submit to us for use across our site and to pair with articles, we would love to add them to our image database. Please review the terms and conditions fill out the form below and review the terms and conditions before submitting.</p><p>Upon submitting this form, you agree to allow us to add your photos to our image database. If your image is chosen for an article, we will credit you and link to your social media at the bottom of the article.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_QHA4pc",
+        "text_rTK6Qh"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 11
+      }
+    },
+    "17810394205f83a274": {
+      "type": "apps",
+      "blocks": {
+        "acerill_form_builder_custom_form_barfXk": {
+          "type": "shopify://apps/acerill-form-builder/blocks/custom-form/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "6b5ddcab-1fea-407c-9854-6e9c72525aea",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "acerill_form_builder_custom_form_barfXk"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -178,7 +230,9 @@
     "advanced_content_RycVwR",
     "rich_text_jDDMVz",
     "blog_topics_directory_LUDrQc",
-    "advanced_content_g7kRT3",
-    "text_and_image_JzMB6V"
+    "1781038969cc816354",
+    "text_and_image_JzMB6V",
+    "rich_text_hw7DDJ",
+    "17810394205f83a274"
   ]
 }
