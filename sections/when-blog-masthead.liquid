@@ -1,0 +1,114 @@
+{%- comment -%}
+  WHEN Blog Masthead
+  --------------------------------------------------------
+  Cream band with the WHEN logo + hand-curated horizontal nav.
+  Each nav link is a section block.
+
+  Place this section ABOVE the WHEN Blog Hero in templates/blog.json
+  (or via the theme editor).
+
+  Auto-hidden on blog tag pages.
+{%- endcomment -%}
+
+{{ 'when-blog.css' | asset_url | stylesheet_tag }}
+
+{%- unless current_tags.size > 0 -%}
+
+  <div class="when-masthead">
+    <div class="when-page-width">
+      <div class="when-masthead__inner">
+
+        {%- if section.settings.masthead_logo != blank -%}
+          <a href="{{ blog.url }}" class="when-masthead__logo" aria-label="WHEN">
+            <img
+              src="{{ section.settings.masthead_logo | image_url: width: 400 }}"
+              alt="WHEN"
+              width="160"
+              height="160"
+              loading="eager"
+            >
+          </a>
+        {%- endif -%}
+
+        {%- if section.blocks.size > 0 or section.settings.show_view_all_topics -%}
+          <nav class="when-masthead__nav" aria-label="Blog navigation">
+            {%- for block in section.blocks -%}
+              {%- if block.type == 'nav_item' -%}
+                {%- if block.settings.url != blank or block.settings.label != blank -%}
+                  <a
+                    href="{{ block.settings.url | default: '#' }}"
+                    class="when-masthead__nav-link"
+                    {{ block.shopify_attributes }}
+                  >{{ block.settings.label }}</a>
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+            {%- if section.settings.show_view_all_topics -%}
+              <a href="/pages/blog-topics" class="when-masthead__nav-link when-masthead__nav-link--alt">View All Topics</a>
+            {%- endif -%}
+          </nav>
+        {%- endif -%}
+
+      </div>
+    </div>
+  </div>
+
+{%- endunless -%}
+
+{% schema %}
+{
+  "name": "WHEN Blog Masthead",
+  "tag": "section",
+  "class": "shopify-section--when-blog-masthead",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "masthead_logo",
+      "label": "WHEN logo",
+      "info": "Recommended: square PNG, around 400x400px"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_view_all_topics",
+      "label": "Append 'View All Topics' link to nav",
+      "default": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "nav_item",
+      "name": "Nav link",
+      "limit": 8,
+      "settings": [
+        {
+          "type": "text",
+          "id": "label",
+          "label": "Label",
+          "default": "Link"
+        },
+        {
+          "type": "url",
+          "id": "url",
+          "label": "Link"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "WHEN Blog Masthead",
+      "blocks": [
+        { "type": "nav_item", "settings": { "label": "New Articles" } },
+        { "type": "nav_item", "settings": { "label": "Featured" } },
+        { "type": "nav_item", "settings": { "label": "New to Following Jesus" } },
+        { "type": "nav_item", "settings": { "label": "Spiritual Growth" } },
+        { "type": "nav_item", "settings": { "label": "Life Issues" } },
+        { "type": "nav_item", "settings": { "label": "Read All" } }
+      ]
+    }
+  ],
+  "enabled_on": {
+    "templates": ["blog"]
+  }
+}
+{% endschema %}
