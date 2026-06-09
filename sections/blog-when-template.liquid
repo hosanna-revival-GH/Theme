@@ -19,7 +19,7 @@
         <div class="when-page-width">
           <div class="when-tag-header__nav">
             <a href="{{ blog.url }}" class="when-tag-header__back">&larr; Back to all articles</a>
-            <a href="/pages/topics" class="when-tag-header__topics">View All Topics</a>
+            <a href="/pages/blog-topics" class="when-tag-header__topics">View All Topics</a>
           </div>
           <h1 class="when-tag-header__title">{{ current_tags | join: ' + ' | replace: '-', ' ' }}</h1>
           <p class="when-tag-header__count">{{ blog.articles_count }} article{% if blog.articles_count != 1 %}s{% endif %}</p>
