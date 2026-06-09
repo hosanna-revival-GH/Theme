@@ -81,10 +81,53 @@
       "settings": {
         "show_view_all_topics": true
       }
+    },
+    "when_blog_hero_hiHBFX": {
+      "type": "when-blog-hero",
+      "blocks": {
+        "slide_kHq6by": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        },
+        "slide_NGK87T": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        },
+        "slide_LFF3bQ": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_kHq6by",
+        "slide_NGK87T",
+        "slide_LFF3bQ"
+      ],
+      "name": "WHEN Blog Hero",
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 6
+      }
     }
   },
   "order": [
     "main",
-    "when_blog_masthead_wdfegD"
+    "when_blog_masthead_wdfegD",
+    "when_blog_hero_hiHBFX"
   ]
 }
