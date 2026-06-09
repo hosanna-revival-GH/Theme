@@ -23,61 +23,68 @@
         "blog_image_size": "landscape"
       }
     },
-    "when_blog_hero_MRnBgX": {
-      "type": "when-blog-hero",
+    "when_blog_masthead_wdfegD": {
+      "type": "when-blog-masthead",
       "blocks": {
-        "slide_YCyRRU": {
-          "type": "slide",
+        "nav_item_XmbzgF": {
+          "type": "nav_item",
           "settings": {
-            "article": "",
-            "override_title": "",
-            "override_author": "",
-            "override_url": ""
+            "label": "New Articles",
+            "url": ""
           }
         },
-        "slide_wCEw7w": {
-          "type": "slide",
+        "nav_item_imnyii": {
+          "type": "nav_item",
           "settings": {
-            "article": "",
-            "override_title": "",
-            "override_author": "",
-            "override_url": ""
+            "label": "Featured",
+            "url": ""
           }
         },
-        "slide_jifnEd": {
-          "type": "slide",
+        "nav_item_MnQhLN": {
+          "type": "nav_item",
           "settings": {
-            "article": "",
-            "override_title": "",
-            "override_author": "",
-            "override_url": ""
+            "label": "New to Following Jesus",
+            "url": ""
           }
         },
-        "slide_Pyhf8A": {
-          "type": "slide",
+        "nav_item_gwKk6x": {
+          "type": "nav_item",
           "settings": {
-            "article": "",
-            "override_title": "",
-            "override_author": "",
-            "override_url": ""
+            "label": "Spiritual Growth",
+            "url": ""
+          }
+        },
+        "nav_item_9UTPfM": {
+          "type": "nav_item",
+          "settings": {
+            "label": "Life Issues",
+            "url": ""
+          }
+        },
+        "nav_item_nerm3x": {
+          "type": "nav_item",
+          "settings": {
+            "label": "Read All",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "slide_YCyRRU",
-        "slide_wCEw7w",
-        "slide_jifnEd",
-        "slide_Pyhf8A"
+        "nav_item_XmbzgF",
+        "nav_item_imnyii",
+        "nav_item_MnQhLN",
+        "nav_item_gwKk6x",
+        "nav_item_9UTPfM",
+        "nav_item_nerm3x"
       ],
-      "name": "WHEN Blog Hero",
+      "name": "WHEN Blog Masthead",
       "settings": {
-        "autoplay": true,
-        "autoplay_speed": 6
+        "show_view_all_topics": true
       }
     }
   },
   "order": [
     "main",
-    "when_blog_hero_MRnBgX"
+    "when_blog_masthead_wdfegD"
   ]
 }
