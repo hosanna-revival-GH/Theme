@@ -783,6 +783,10 @@
   align-items: center;
 }
 
+.when-author-bio__photo {
+    flex-basis: 90%;
+}
+
 .when-author-bio__social a {
   color: #333;
   transition: color 0.2s;
