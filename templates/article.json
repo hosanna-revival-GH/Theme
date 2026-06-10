@@ -12,11 +12,11 @@
     "main": {
       "type": "article-template",
       "settings": {
-        "image_hero": false,
+        "image_hero": true,
         "blog_show_tags": true,
         "blog_show_date": false,
         "blog_show_comments": false,
-        "blog_show_author": false,
+        "blog_show_author": true,
         "social_sharing_blog": true
       }
     }
