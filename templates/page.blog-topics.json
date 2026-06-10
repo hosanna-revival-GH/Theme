@@ -83,7 +83,7 @@
       "type": "blog-topics-directory",
       "name": "Blog Topics Directory",
       "settings": {
-        "blog": "",
+        "blog": "when-blog",
         "heading": "All Blog Topics",
         "intro": "<p>Browse every topic we've written about.</p>",
         "show_curated": true
