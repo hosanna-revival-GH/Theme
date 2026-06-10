@@ -90,12 +90,22 @@
             "override_author": "",
             "override_url": ""
           }
+        },
+        "slide_WT3G7y": {
+          "type": "slide",
+          "settings": {
+            "article": "",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
         }
       },
       "block_order": [
         "slide_k7jepJ",
         "slide_cdCTBP",
-        "slide_MKpJ8V"
+        "slide_MKpJ8V",
+        "slide_WT3G7y"
       ],
       "name": "WHEN Blog Hero",
       "settings": {
@@ -106,29 +116,29 @@
     "main": {
       "type": "blog-when-template",
       "blocks": {
-        "most_read_item_R3y9t8": {
+        "most_read_item_M3dVdz": {
           "type": "most_read_item",
           "settings": {
-            "article": "when-blog/when-you-have-a-big-decision-to-make"
+            "article": "when-blog/when-you-dont-know-how-to-surrender-to-god"
           }
         },
-        "most_read_item_CfMTYi": {
+        "most_read_item_CAWYB8": {
           "type": "most_read_item",
           "settings": {
-            "article": "when-blog/when-youve-lost-your-wonder-for-god"
+            "article": "when-blog/when-we-trust-god-in-the-midst-of-our-pain"
           }
         },
-        "most_read_item_k3FkKA": {
+        "most_read_item_wVBtiX": {
           "type": "most_read_item",
           "settings": {
-            "article": "when-blog/when-you-watch-a-christmas-movie"
+            "article": "when-blog/when-god-seems-silent"
           }
         }
       },
       "block_order": [
-        "most_read_item_R3y9t8",
-        "most_read_item_CfMTYi",
-        "most_read_item_k3FkKA"
+        "most_read_item_M3dVdz",
+        "most_read_item_CAWYB8",
+        "most_read_item_wVBtiX"
       ],
       "settings": {
         "most_read_heading": "Most Read",
