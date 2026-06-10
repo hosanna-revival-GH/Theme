@@ -4,7 +4,12 @@
   Horizontal flex track. Slides physically live side-by-side
   in a row. JS moves the track with transform: translateX.
   No opacity stacking, no z-index gymnastics.
+
+  Visibility: shown ONLY on the main blog landing (page 1,
+  no tag filter). Hidden on /tagged/* and paginated pages.
 {%- endcomment -%}
+
+{%- unless current_tags or current_page > 1 -%}
 
 <script src="{{ 'when-blog.js' | asset_url }}" defer="defer"></script>
 
@@ -92,6 +97,8 @@
     {%- endif -%}
 
   </div>
+
+{%- endunless -%}
 
 {% schema %}
 {
