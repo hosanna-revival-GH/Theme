@@ -94,7 +94,16 @@
         "slide_WT3G7y": {
           "type": "slide",
           "settings": {
-            "article": "",
+            "article": "when-blog/when-change-feels-impossible",
+            "override_title": "",
+            "override_author": "",
+            "override_url": ""
+          }
+        },
+        "slide_yN44xK": {
+          "type": "slide",
+          "settings": {
+            "article": "when-blog/when-you-feel-stuck-in-your-faith",
             "override_title": "",
             "override_author": "",
             "override_url": ""
@@ -105,7 +114,8 @@
         "slide_k7jepJ",
         "slide_cdCTBP",
         "slide_MKpJ8V",
-        "slide_WT3G7y"
+        "slide_WT3G7y",
+        "slide_yN44xK"
       ],
       "name": "WHEN Blog Hero",
       "settings": {
