@@ -57,34 +57,35 @@
       ],
       "name": "WHEN Blog Masthead",
       "settings": {
+        "masthead_logo": "shopify://shop_images/when-logo.png",
         "show_view_all_topics": true
       }
     },
     "when_blog_hero_hiHBFX": {
       "type": "when-blog-hero",
       "blocks": {
-        "slide_kHq6by": {
+        "slide_k7jepJ": {
           "type": "slide",
           "settings": {
-            "article": "",
+            "article": "when-blog/when-youve-lost-your-wonder-for-god",
             "override_title": "",
             "override_author": "",
             "override_url": ""
           }
         },
-        "slide_NGK87T": {
+        "slide_cdCTBP": {
           "type": "slide",
           "settings": {
-            "article": "",
+            "article": "when-blog/when-all-you-have-to-give-is-all-thats-left",
             "override_title": "",
             "override_author": "",
             "override_url": ""
           }
         },
-        "slide_LFF3bQ": {
+        "slide_MKpJ8V": {
           "type": "slide",
           "settings": {
-            "article": "",
+            "article": "when-blog/when-you-have-a-big-decision-to-make",
             "override_title": "",
             "override_author": "",
             "override_url": ""
@@ -92,9 +93,9 @@
         }
       },
       "block_order": [
-        "slide_kHq6by",
-        "slide_NGK87T",
-        "slide_LFF3bQ"
+        "slide_k7jepJ",
+        "slide_cdCTBP",
+        "slide_MKpJ8V"
       ],
       "name": "WHEN Blog Hero",
       "settings": {
