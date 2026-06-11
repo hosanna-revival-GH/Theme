@@ -29,7 +29,13 @@
   font-family: proxima-nova-condensed, serif;
 }
 {% endstyle %}
-  {%- render 'seo-title' -%}
+
+
+   {%- if request.page_type == 'blog' and current_tags != blank -%}
+    <title>{{ current_tags.first | escape }} - {{ blog.title | escape }}</title>
+  {%- else -%}
+    {%- render 'seo-title' -%}
+  {%- endif -%}
 
   {%- if page_description -%}
   <meta name="description" content="{{ page_description | escape }}">
