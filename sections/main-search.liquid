@@ -21,6 +21,44 @@
         {%- endif -%}
       </div>
 
+       {%- comment -%} ===== Author pages matching the search (metaobjects aren't natively indexed) ===== {%- endcomment -%}
+      {%- if current_page == 1 -%}
+        {%- assign q = search.terms | replace: '*', '' | downcase | strip -%}
+        {%- if q.size >= 3 -%}
+          {%- capture author_results -%}
+            {%- paginate shop.metaobjects.author.values by 250 -%}
+              {%- for a in shop.metaobjects.author.values -%}
+                {%- if a.system.url == blank or a.name == blank -%}{%- continue -%}{%- endif -%}
+                {%- assign nm = a.name | downcase -%}
+                {%- if nm contains q or q contains nm -%}
+                  <li>
+                    <a href="{{ a.system.url }}" class="search-author__link">
+                      {%- if a.photo != blank -%}
+                        <img src="{{ a.photo | image_url: width: 96 }}" alt="{{ a.name | escape }}" width="48" height="48" loading="lazy">
+                      {%- endif -%}
+                      <span class="h4">{{ a.name }}</span>
+                    </a>
+                  </li>
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endpaginate -%}
+          {%- endcapture -%}
+          {%- if author_results contains '<li>' -%}
+            <div class="search-author">
+              <p class="h6 predictive__label">Authors</p>
+              <ul class="no-bullets search-author__list">{{ author_results }}</ul>
+            </div>
+            {% style %}
+              .search-author { margin: 0 0 1.5rem; }
+              .search-author__list { display: flex; flex-wrap: wrap; gap: 1rem; list-style: none; padding: 0; margin: .5rem 0 0; }
+              .search-author__link { display: inline-flex; align-items: center; gap: .6rem; text-decoration: none; }
+              .search-author__link img { width: 48px; height: 48px; border-radius: 50%; object-fit: cover; }
+            {% endstyle %}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endif -%}
+
+
       {%- if search.results_count != 0 -%}
 
         {%- assign paginate_by = section.settings.per_row | times: section.settings.rows_per_page -%}
