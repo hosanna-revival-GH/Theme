@@ -1,0 +1,129 @@
+{{ 'when-blog.css' | asset_url | stylesheet_tag }}
+
+{%- assign target_blog = blogs[section.settings.blog] -%}
+{%- assign featured = target_blog.metafields.custom.featured_author.value -%}
+{%- assign letters = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z' | split: ',' -%}
+
+<div class="when-topics-directory when-topics-directory--authors">
+  <div class="when-page-width">
+    {%- paginate shop.metaobjects.author.values by 250 -%}
+      {%- assign authors = shop.metaobjects.author.values | sort_natural: 'name' -%}
+
+      <div class="when-topics-directory__header">
+        {%- if target_blog != blank -%}
+          <a href="{{ target_blog.url }}" class="when-topics-directory__back">← Back to {{ target_blog.title }}</a>
+        {%- endif -%}
+        {%- if section.settings.heading != blank -%}
+          <h1 class="when-topics-directory__title">{{ section.settings.heading }}</h1>
+        {%- endif -%}
+        {%- if section.settings.intro != blank -%}
+          <div class="when-topics-directory__intro">{{ section.settings.intro }}</div>
+        {%- endif -%}
+        {%- if authors.size > 0 -%}
+          <p class="when-topics-directory__count">{{ authors.size }} author{% if authors.size != 1 %}s{% endif %}</p>
+        {%- endif -%}
+      </div>
+
+      {%- if section.settings.show_curated and featured != blank -%}
+        <div class="when-topics-directory__curated">
+          <h2 class="when-topics-directory__section-title">Featured Authors</h2>
+          <div class="when-pills">
+            {%- for author in featured -%}
+              {%- if author.system.url != blank -%}
+                <a href="{{ author.system.url }}" class="when-pill">{{ author.name }}</a>
+              {%- endif -%}
+            {%- endfor -%}
+          </div>
+        </div>
+      {%- endif -%}
+
+      {%- if authors.size > 0 -%}
+
+        <nav class="when-topics-directory__anchors" aria-label="Authors alphabet navigation">
+          {%- for letter in letters -%}
+            {%- assign has_match = false -%}
+            {%- for author in authors -%}
+              {%- assign al = author.name | slice: 0 | upcase -%}
+              {%- if al == letter -%}{%- assign has_match = true -%}{%- break -%}{%- endif -%}
+            {%- endfor -%}
+            {%- if has_match -%}
+              <a href="#letter-{{ letter }}" class="when-topics-directory__anchor">{{ letter }}</a>
+            {%- else -%}
+              <span class="when-topics-directory__anchor is-empty" aria-hidden="true">{{ letter }}</span>
+            {%- endif -%}
+          {%- endfor -%}
+        </nav>
+
+        <div class="when-topics-directory__groups">
+          {%- for letter in letters -%}
+            {%- assign has_match = false -%}
+            {%- for author in authors -%}
+              {%- assign al = author.name | slice: 0 | upcase -%}
+              {%- if al == letter -%}{%- assign has_match = true -%}{%- break -%}{%- endif -%}
+            {%- endfor -%}
+            {%- if has_match -%}
+              <section class="when-topics-group" id="letter-{{ letter }}">
+                <h2 class="when-topics-group__letter">{{ letter }}</h2>
+                <ul class="when-topics-group__list">
+                  {%- for author in authors -%}
+                    {%- assign al = author.name | slice: 0 | upcase -%}
+                    {%- if al == letter and author.system.url != blank -%}
+                      <li>
+                        <a href="{{ author.system.url }}" class="when-topics-group__link">
+                          {{ author.name }}
+                        </a>
+                      </li>
+                    {%- endif -%}
+                  {%- endfor -%}
+                </ul>
+              </section>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+
+      {%- else -%}
+        <p class="when-topics-directory__empty">No authors yet. Check back soon.</p>
+      {%- endif -%}
+
+    {%- endpaginate -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Blog Authors Directory",
+  "settings": [
+    {
+      "type": "blog",
+      "id": "blog",
+      "label": "Blog for the 'back' link",
+      "info": "Used for the back link and (optionally) a Featured Authors list from the blog metafield custom.featured_author."
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Page heading",
+      "default": "All Authors"
+    },
+    {
+      "type": "richtext",
+      "id": "intro",
+      "label": "Intro text",
+      "default": "<p>Browse every writer who's contributed to WHEN.</p>"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_curated",
+      "label": "Show Featured Authors block at top",
+      "info": "Pulls a curated list from the blog's custom.featured_author metafield (list of author references).",
+      "default": true
+    }
+  ],
+  "presets": [
+    {
+      "name": "Blog Authors Directory",
+      "category": "Blog"
+    }
+  ]
+}
+{% endschema %}
