@@ -168,7 +168,7 @@
             "image_mask": "none",
             "image_width": 130,
             "title": "WHAT",
-            "text": "<p><em>a creative journey through Psalm 121 over email and Instagram</em></p><p>Each week we will introduce a new section of Psalm 121 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
+            "text": "<p><em>a creative journey through Psalm 23 over email and Instagram</em></p><p>Each week we will introduce a new section of Psalm 23 with three prompts to fuel your creativity, share a featured artist’s response to the passage, and send a collection of community responses to spark your inspiration.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -319,12 +319,14 @@
       "blocks": {
         "heading_xnJixW": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Featured Artists"
           }
         },
         "text_NcLQbg": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p><em>Each week, we invite a talented artist to respond to the focal passage from their area of expertise. Meet them below!</em></p>",
@@ -337,6 +339,7 @@
         "heading_xnJixW",
         "text_NcLQbg"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -510,7 +513,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Loving this series? Journey through passages like Psalm 16  or Psalm 84 with us through our previous <em>Create Through Scripture</em> series! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>",
+            "text": "<p>Loving this series? Journey through passages like Psalm 121, Psalm 16 and Psalm 84 with us through our previous <em>Create Through Scripture</em> series! Follow the same pattern of responding to God’s Word with different prompts and fresh Scripture.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
