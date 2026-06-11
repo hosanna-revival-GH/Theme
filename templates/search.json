@@ -85,11 +85,13 @@
       "type": "single-button",
       "settings": {
         "button_text": "Search articles",
-        "button_link": "https://hosannarevival.blog/search",
+        "button_link": "https://hosannarevival.com/blogs/when-blog",
         "button_size": "medium",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 75
+        "space_below": 75,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     }
   },
