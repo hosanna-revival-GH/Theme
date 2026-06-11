@@ -81,11 +81,31 @@
     },
     "blog_topics_directory_LUDrQc": {
       "type": "blog-topics-directory",
+      "disabled": true,
       "name": "Blog Topics Directory",
       "settings": {
         "blog": "",
         "heading": "All Blog Topics",
         "intro": "<p>Browse every topic we've written about.</p>",
+        "show_curated": true
+      }
+    },
+    "main_author_KXrqE6": {
+      "type": "main-author",
+      "name": "Author page",
+      "settings": {
+        "blog_handle": "when-blog",
+        "heading": "Articles by",
+        "empty_text": "No articles yet."
+      }
+    },
+    "authors_directory_h3C3Nh": {
+      "type": "authors-directory",
+      "name": "Blog Authors Directory",
+      "settings": {
+        "blog": "when-blog",
+        "heading": "All Authors",
+        "intro": "<p>Browse every writer who's contributed to WHEN.</p>",
         "show_curated": true
       }
     }
@@ -94,6 +114,8 @@
     "main",
     "advanced_content_RycVwR",
     "rich_text_jDDMVz",
-    "blog_topics_directory_LUDrQc"
+    "blog_topics_directory_LUDrQc",
+    "main_author_KXrqE6",
+    "authors_directory_h3C3Nh"
   ]
 }
