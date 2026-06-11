@@ -8,6 +8,18 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "main_author_FLTUh7": {
+      "type": "main-author",
+      "name": "Author page",
+      "settings": {
+        "blog_handle": "when-blog",
+        "heading": "Articles by",
+        "empty_text": "No articles yet."
+      }
+    }
+  },
+  "order": [
+    "main_author_FLTUh7"
+  ]
 }
