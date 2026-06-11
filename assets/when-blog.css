@@ -1139,3 +1139,16 @@ a.when-topics-directory__anchor:focus-visible {
 h1.section-header__title{
   padding: .5rem 0;
 }
+
+input#email_01KTVBTS1VK42D177CGY193NVN {
+    border-color: rgba(140, 138, 98, 1) !important;
+}
+
+input#last_name_01KTVBTS1PPH54GSMKC13F12H0 {
+    background: #fff;
+    border-color: rgba(140, 138, 98, 1);
+}
+
+input#first_name_01KTVBTS1GKXWFDM9NS7PK79QZ {
+    background: #fff;
+}
