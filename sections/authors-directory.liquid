@@ -1,5 +1,20 @@
 {{ 'when-blog.css' | asset_url | stylesheet_tag }}
 
+{% style %}
+  .when-topics-directory--authors .when-topics-group__link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .when-topics-directory--authors .when-topics-group__avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+{% endstyle %}
+
 {%- assign target_blog = blogs[section.settings.blog] -%}
 {%- assign featured = target_blog.metafields.custom.featured_author.value -%}
 {%- assign letters = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z' | split: ',' -%}
@@ -70,6 +85,9 @@
                     {%- if al == letter and author.system.url != blank -%}
                       <li>
                         <a href="{{ author.system.url }}" class="when-topics-group__link">
+                          {%- if author.photo != blank -%}
+                            <img src="{{ author.photo | image_url: width: 96 }}" alt="{{ author.name | escape }}" width="48" height="48" loading="lazy" class="when-topics-group__avatar">
+                          {%- endif -%}
                           {{ author.name }}
                         </a>
                       </li>
