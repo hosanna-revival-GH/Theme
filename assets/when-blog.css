@@ -455,46 +455,6 @@
   margin: 0 auto;
 }
 
-/* Klaviyo embed overrides — keep the form on-brand */
-.when-newsletter-block__form .klaviyo-form,
-.when-newsletter-block__form [data-testid="klaviyo-form"] {
-  background: transparent !important;
-  padding: 0 !important;
-}
-.when-newsletter-block__form input[type="email"] {
-  border: 1px solid var(--when-border) !important;
-  border-radius: 3px !important;
-  font-family: var(--typeBasePrimary), sans-serif !important;
-  font-size: 13px !important;
-  color: var(--when-text) !important;
-  background: var(--when-white) !important;
-  padding: 12px 16px !important;
-}
-.when-newsletter-block__form input[type="email"]:focus {
-  outline: 2px solid var(--when-primary) !important;
-  outline-offset: 0 !important;
-  border-color: var(--when-primary) !important;
-}
-.when-newsletter-block__form button[type="submit"],
-.when-newsletter-block__form input[type="submit"] {
-  background: var(--when-primary-dark) !important;
-  color: var(--when-white) !important;
-  border: none !important;
-  border-radius: 3px !important;
-  font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback, sans-serif) !important;
-  font-size: 11px !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.14em !important;
-  text-transform: uppercase !important;
-  padding: 12px 28px !important;
-  cursor: pointer !important;
-  transition: background 0.15s ease !important;
-}
-.when-newsletter-block__form button[type="submit"]:hover,
-.when-newsletter-block__form input[type="submit"]:hover {
-  background: var(--when-primary) !important;
-}
-
 /* ============================================================
    WELCOME TO WHEN (footer text)
 ============================================================ */
@@ -1138,17 +1098,4 @@ a.when-topics-directory__anchor:focus-visible {
 
 h1.section-header__title{
   padding: .5rem 0;
-}
-
-input#email_01KTVBTS1VK42D177CGY193NVN {
-    border-color: rgba(140, 138, 98, 1) !important;
-}
-
-input#last_name_01KTVBTS1PPH54GSMKC13F12H0 {
-    background: #fff;
-    border-color: rgba(140, 138, 98, 1);
-}
-
-input#first_name_01KTVBTS1GKXWFDM9NS7PK79QZ {
-    background: #fff;
 }
