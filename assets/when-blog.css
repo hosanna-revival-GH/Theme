@@ -455,6 +455,34 @@
   margin: 0 auto;
 }
 
+/* Klaviyo embed overrides — keep the form on-brand */
+.when-newsletter-block__form .klaviyo-form,
+.when-newsletter-block__form [data-testid="klaviyo-form"] {
+  background: transparent !important;
+  padding: 0 !important;
+}
+
+
+.when-newsletter-block__form button[type="submit"],
+.when-newsletter-block__form input[type="submit"] {
+  background: var(--when-primary-dark) !important;
+  color: var(--when-white) !important;
+  border: none !important;
+  border-radius: 3px !important;
+  font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback, sans-serif) !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.14em !important;
+  text-transform: uppercase !important;
+  padding: 12px 28px !important;
+  cursor: pointer !important;
+  transition: background 0.15s ease !important;
+}
+.when-newsletter-block__form button[type="submit"]:hover,
+.when-newsletter-block__form input[type="submit"]:hover {
+  background: var(--when-primary) !important;
+}
+
 /* ============================================================
    WELCOME TO WHEN (footer text)
 ============================================================ */
