@@ -59,14 +59,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/give-a-bible",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
-            "link_2": "",
+            "link_2": "shopify://collections/beautiful-bibles",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/01_39614639-6754-4bd1-ab42-3e26dbc384cd.png",
-            "image_mobile": "shopify://shop_images/01_738825db-f200-4f49-b617-70f82ed75ba8.png",
+            "image": "shopify://shop_images/01_a0de8b2a-9866-4b5c-b972-cbacc96f67a7.png",
+            "image_mobile": "shopify://shop_images/01_aa70ec8d-520b-4b8d-816d-0d9cf70f4301.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -98,14 +98,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/give-a-bible",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/02_5802be16-1719-4fd8-8790-8f49e3746ed7.png",
-            "image_mobile": "shopify://shop_images/02_2b25d9fe-02b4-4371-9e69-18d531f38500.png",
+            "image": "shopify://shop_images/02_94893fe9-9210-4783-827f-33cbd1e47638.png",
+            "image_mobile": "shopify://shop_images/02_7ecfaffa-9983-4853-b936-c235cff1824c.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -136,14 +136,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/about",
+            "link": "shopify://pages/give-a-bible",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/03_0d81d63e-f41a-4205-a56d-cae11a924e89.png",
-            "image_mobile": "shopify://shop_images/03_f8566937-2c03-4890-91e4-c8697d2716e5.png",
+            "image": "shopify://shop_images/03_47318d6a-ee12-4f69-939a-e83cab4fe483.png",
+            "image_mobile": "shopify://shop_images/when.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -185,7 +185,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/04_a6435218-d554-429b-8d77-71c732fc7902.png",
+            "image": "shopify://shop_images/03_1085ba8a-5177-4f57-96b9-b38314974a72.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -193,7 +193,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/05_7e82b1dc-af2a-49c1-8189-42c17f14ab37.png",
+            "image": "shopify://shop_images/04_24d96117-afe5-422e-8a62-bc67146b608c.png",
             "link": "shopify://collections/devotionals",
             "width": "50"
           }
@@ -218,7 +218,7 @@
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/06_bd742a73-4c4f-4ff1-87fa-4ad78390e822.png",
+            "image": "shopify://shop_images/05_2b5277dc-0979-49e2-aa89-8e962a757da1.png",
             "link": "shopify://collections/notebooks",
             "width": "50"
           }
@@ -226,7 +226,7 @@
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/07_be862d11-855e-4c41-bccc-dd8eeb05c2c3.png",
+            "image": "shopify://shop_images/06_acbd1ecb-5791-4344-b5d8-92e4d964f282.png",
             "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
@@ -300,8 +300,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/11_c260eb14-9ca9-45dc-bd39-5d3bb3102473.png",
-            "image_mobile": "shopify://shop_images/05_a85ac57f-0eed-45e9-8467-3f8730a526a1.png",
+            "image": "shopify://shop_images/WHEN_0550d515-0378-4ef8-8193-6512caf4259f.png",
+            "image_mobile": "shopify://shop_images/when-when.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
