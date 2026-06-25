@@ -59,14 +59,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://pages/still-waters",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/01_38007cc2-12b7-4145-9bd1-30e69d65d433.png",
-            "image_mobile": "shopify://shop_images/01_0b5fc2d2-3f4e-4c08-85a2-3c5592f302e4.png",
+            "image": "shopify://shop_images/01_c3f83b9e-32bc-4fd7-a7b5-829f1718d4b7.png",
+            "image_mobile": "shopify://shop_images/01_0dd1a294-c164-4a68-802d-50c4ef42b630.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -104,8 +104,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/02_94893fe9-9210-4783-827f-33cbd1e47638.png",
-            "image_mobile": "shopify://shop_images/02_7ecfaffa-9983-4853-b936-c235cff1824c.png",
+            "image": "shopify://shop_images/02_2e9aec78-e54b-48f0-93c5-28a7b9e99d5a.png",
+            "image_mobile": "shopify://shop_images/02_b0dd7a31-c72a-4829-96b7-cc26a73a279c.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -153,6 +153,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -167,7 +168,6 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Best Sellers",
@@ -185,7 +185,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/03_1085ba8a-5177-4f57-96b9-b38314974a72.png",
+            "image": "shopify://shop_images/03_f5bc2b74-98bb-4783-9e4c-9e1722aa090e.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -193,7 +193,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/04_24d96117-afe5-422e-8a62-bc67146b608c.png",
+            "image": "shopify://shop_images/04_7678a738-e8d2-40ac-b1a3-9cbf88a7519a.png",
             "link": "shopify://collections/devotionals",
             "width": "50"
           }
@@ -218,7 +218,7 @@
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/05_2b5277dc-0979-49e2-aa89-8e962a757da1.png",
+            "image": "shopify://shop_images/05_6761edcc-cdc9-44ce-af8e-5dac5cbfd255.png",
             "link": "shopify://collections/notebooks",
             "width": "50"
           }
@@ -226,7 +226,7 @@
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/06_acbd1ecb-5791-4344-b5d8-92e4d964f282.png",
+            "image": "shopify://shop_images/06_19d7e9c2-39e5-4235-9a25-569a483b42f4.png",
             "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
@@ -272,6 +272,7 @@
       "block_order": [
         "image_EBgzXT"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",

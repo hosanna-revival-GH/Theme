@@ -44,28 +44,28 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement_mMUAeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "All Bibles are 20% Off",
-            "link_text": "as a thank you for supporting our mission!",
-            "link": "shopify://collections/beautiful-bibles"
-          }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "ITS OUR BIRTHDAY",
-            "link_text": "Celebrate with us and donate a Bible for only $6",
-            "link": "shopify://pages/give-a-bible"
-          }
-        },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
             "text": "CREATE THROUGH SCRIPTURE: STILL WATERS",
             "link_text": "Sign up for our annual creative email series through Psalm 23",
             "link": "shopify://pages/still-waters"
+          }
+        },
+        "announcement_mMUAeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Check out our WHEN blog",
+            "link_text": "Scripture's answers to life's questions",
+            "link": "shopify://blogs/when-blog"
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Start your summer with a new devotional",
+            "link_text": "explore our devotional library and find something fit for your reason",
+            "link": "shopify://pages/give-a-bible"
           }
         },
         "announcement_FNqfy6": {
@@ -78,9 +78,9 @@
         }
       },
       "block_order": [
+        "announcement_NXQKWa",
         "announcement_mMUAeX",
         "announcement-1",
-        "announcement_NXQKWa",
         "announcement_FNqfy6"
       ],
       "settings": {
