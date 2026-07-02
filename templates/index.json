@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/desktop-01_93c6e3d9-a416-4033-b870-023ab9613ebf.png",
-            "image_mobile": "shopify://shop_images/mobile-01_6063e8fd-f99b-4fc8-bd63-6fd32573b25d.png",
+            "image": "shopify://shop_images/01_508306c2-a71c-433d-941f-2415e1c1f69e.png",
+            "image_mobile": "shopify://shop_images/01_47732343-5ba4-4aa2-8750-1b0f65ce24d1.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -36,7 +36,6 @@
       "block_order": [
         "image_fVEef3"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -46,45 +45,6 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
-    "slideshow_JzgDYA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QVcitx": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/still-waters",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/01_c3f83b9e-32bc-4fd7-a7b5-829f1718d4b7.png",
-            "image_mobile": "shopify://shop_images/01_0dd1a294-c164-4a68-802d-50c4ef42b630.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QVcitx"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
         "disable_animation": false
       }
     },
@@ -98,14 +58,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/best-sellers",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/02_8a75326d-339e-48a4-8713-70262793c7aa.png",
-            "image_mobile": "shopify://shop_images/02_f3ad97a3-6dc6-4c52-bc18-0d9416944a8b.png",
+            "image": "shopify://shop_images/02_04df33a2-e067-455f-974e-2c8f0994791b.png",
+            "image_mobile": "shopify://shop_images/022_76289643-b274-42e5-81b9-3ae8e2b8503a.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -136,13 +96,13 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/give-a-bible",
+            "link": "shopify://products/nlt-notetaking-bible-cordova-theme",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/03_47318d6a-ee12-4f69-939a-e83cab4fe483.png",
+            "image": "shopify://shop_images/03_2a3b798a-700e-4d58-89c1-62f5f6c00e96.png",
             "image_mobile": "shopify://shop_images/when.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -153,7 +113,6 @@
       "block_order": [
         "image_AXTDqX"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -168,6 +127,7 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Best Sellers",
@@ -185,7 +145,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/03_f5bc2b74-98bb-4783-9e4c-9e1722aa090e.png",
+            "image": "shopify://shop_images/04_626731c1-0523-4488-b212-4f3eb802a752.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -193,7 +153,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/04_7678a738-e8d2-40ac-b1a3-9cbf88a7519a.png",
+            "image": "shopify://shop_images/05_d8642fdf-127f-405b-96e6-971e39fd7538.png",
             "link": "shopify://collections/devotionals",
             "width": "50"
           }
@@ -218,16 +178,16 @@
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/05_6761edcc-cdc9-44ce-af8e-5dac5cbfd255.png",
-            "link": "shopify://collections/notebooks",
+            "image": "shopify://shop_images/06_f1faba37-2242-470f-aac9-92f9215a4564.png",
+            "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
         },
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/06_19d7e9c2-39e5-4235-9a25-569a483b42f4.png",
-            "link": "shopify://collections/one-thing-i-ask",
+            "image": "shopify://shop_images/07_0f00ae86-45ca-406a-9435-b63d65424135.png",
+            "link": "shopify://collections/notebooks",
             "width": "50"
           }
         }
@@ -255,14 +215,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/still-waters",
+            "link": "shopify://products/nlt-notetaking-bible-rosemary-beach-theme",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/10_2b01b662-5c2f-48b7-a809-6687ce9428b9.png",
-            "image_mobile": "shopify://shop_images/04_0f84c2f9-0ef8-4fb7-aca0-892d4e99a2e0.png",
+            "image": "shopify://shop_images/08_33d46a3a-3710-42ba-b3de-d65e0583d5b4.png",
+            "image_mobile": "shopify://shop_images/02_d37ddc58-d1c7-4210-8ae5-0facfac7d797.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -272,7 +232,6 @@
       "block_order": [
         "image_EBgzXT"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -528,6 +487,45 @@
         "lazyload_images": true
       }
     },
+    "slideshow_JzgDYA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QVcitx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/still-waters",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/01_c3f83b9e-32bc-4fd7-a7b5-829f1718d4b7.png",
+            "image_mobile": "shopify://shop_images/01_0dd1a294-c164-4a68-802d-50c4ef42b630.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QVcitx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -569,7 +567,6 @@
   },
   "order": [
     "slideshow_bGCPEX",
-    "slideshow_JzgDYA",
     "slideshow_X4MRpa",
     "slideshow_8GYyKV",
     "featured_collection_AbN8iP",
@@ -581,6 +578,7 @@
     "slideshow_GcPDX3",
     "promo_grid_UydWcM",
     "promo_grid_cMUWra",
+    "slideshow_JzgDYA",
     "slideshow_LAdPKf"
   ]
 }

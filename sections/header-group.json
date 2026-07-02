@@ -44,28 +44,12 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement_NXQKWa": {
-          "type": "announcement",
-          "settings": {
-            "text": "CREATE THROUGH SCRIPTURE: STILL WATERS",
-            "link_text": "Sign up for our annual creative email series through Psalm 23",
-            "link": "shopify://pages/still-waters"
-          }
-        },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "Check out our WHEN blog",
-            "link_text": "Scripture's answers to life's questions",
-            "link": "shopify://blogs/when-blog"
-          }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "Start your summer with a new devotional",
-            "link_text": "explore our devotional library and find something fit for your reason",
-            "link": "shopify://pages/give-a-bible"
+            "text": "15% Off Sitewide",
+            "link_text": "fill your days with time in God's Word",
+            "link": "shopify://collections"
           }
         },
         "announcement_FNqfy6": {
@@ -75,13 +59,20 @@
             "link_text": "Stock up and enjoy free shipping on us!",
             "link": "shopify://collections"
           }
+        },
+        "announcement_NXQKWa": {
+          "type": "announcement",
+          "settings": {
+            "text": "Join Create Through Scripture: Still Waters",
+            "link_text": "Jump into our free email series on Psalm 23",
+            "link": "shopify://pages/still-waters"
+          }
         }
       },
       "block_order": [
-        "announcement_NXQKWa",
         "announcement_mMUAeX",
-        "announcement-1",
-        "announcement_FNqfy6"
+        "announcement_FNqfy6",
+        "announcement_NXQKWa"
       ],
       "settings": {
         "announcement_compact": true
