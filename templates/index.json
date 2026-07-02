@@ -102,7 +102,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/03_2a3b798a-700e-4d58-89c1-62f5f6c00e96.png",
+            "image": "shopify://shop_images/03_dff67c9d-6109-4732-a0be-7ad652433b01.png",
             "image_mobile": "shopify://shop_images/03_1812830a-0fe3-4d17-83e3-b824d1cfd453.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -145,7 +145,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/04_626731c1-0523-4488-b212-4f3eb802a752.png",
+            "image": "shopify://shop_images/04_f40e4078-473d-424f-843e-c9a4c986366c.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -153,7 +153,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/05_d8642fdf-127f-405b-96e6-971e39fd7538.png",
+            "image": "shopify://shop_images/05_f04418bc-45be-44f0-b7e7-137a3b6a34d4.png",
             "link": "shopify://collections/devotionals",
             "width": "50"
           }
@@ -178,7 +178,7 @@
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/06_f1faba37-2242-470f-aac9-92f9215a4564.png",
+            "image": "shopify://shop_images/06_c41f16c1-9489-47ef-9597-efa338641af3.png",
             "link": "shopify://collections/one-thing-i-ask",
             "width": "50"
           }
@@ -186,7 +186,7 @@
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/07_0f00ae86-45ca-406a-9435-b63d65424135.png",
+            "image": "shopify://shop_images/07_728b44b1-bf1b-4b7b-b871-c8435c3f606a.png",
             "link": "shopify://collections/notebooks",
             "width": "50"
           }
