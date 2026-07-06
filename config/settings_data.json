@@ -186,7 +186,7 @@
       },
       "4941657242646030402": {
         "type": "shopify://apps/savify-discounts/blocks/announcement/27bd0922-fafc-4963-bb2d-d5be59ffc7f4",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "background_color": "#000000",
           "text_color": "#ffffff"
