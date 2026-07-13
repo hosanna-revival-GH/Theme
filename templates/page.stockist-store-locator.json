@@ -20,9 +20,16 @@
     "advanced_content_RycVwR": {
       "type": "advanced-content",
       "blocks": {
+        "liquid_fercxT": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Start Stockist.co widget -->\n<stockist-store-locator data-stockist-widget-tag=\"map_rq4z9v2q\">\n  Loading store locator from <a href=\"https://stockist.co\">Stockist store locator</a>...\n</stockist-store-locator>\n<script async src=\"https://stockist.co/embed/v1/widget.min.js\"></script>\n<!-- End Stockist.co widget -->",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
         "liquid_RpWcHE": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "code": "<div style=\"width:100%;height:500px;\" data-fillout-id=\"fBE9kEtaZQus\" data-fillout-embed-type=\"standard\" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src=\"https://server.fillout.com/embed/v1/\"></script>",
             "width": "100%",
@@ -31,6 +38,7 @@
         }
       },
       "block_order": [
+        "liquid_fercxT",
         "liquid_RpWcHE"
       ],
       "disabled": true,
