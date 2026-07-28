@@ -104,6 +104,7 @@
     },
     "text_and_image_a4ekiP": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_8.jpg",
@@ -126,6 +127,7 @@
     },
     "text_and_image_yanWF7": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book_3.jpg",
@@ -168,6 +170,7 @@
       "block_order": [
         "text_and_image_kUBGyX"
       ],
+      "disabled": true,
       "name": "Combined Content",
       "settings": {
         "space_above": 0,
@@ -176,6 +179,7 @@
     },
     "text_and_image_i9HfGc": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-45_1.jpg",
@@ -198,6 +202,7 @@
     },
     "text_and_image_n9EMHx": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
@@ -263,6 +268,7 @@
     },
     "text_and_image_bCxN9a": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IWAR-Landing-Page-01.png",
         "image_mask": "none",
@@ -284,6 +290,7 @@
     },
     "text_and_image_rPawVp": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/BE-Landing-02.png",
         "image_mask": "none",
@@ -305,6 +312,7 @@
     },
     "4bec0d40-1318-4161-87fb-2498589cd535": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
         "image_mask": "none",
@@ -326,6 +334,7 @@
     },
     "4653de44-9af4-4c49-bea6-347f6c9b80a7": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Artboard_2_copy_2a171484-e948-4f19-a517-75718acd87b5.png",
         "image_mask": "none",
@@ -389,6 +398,7 @@
     },
     "e670311d-a86a-4a77-8af4-e0c1e8c89db9": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/storycircle_photo.png",
         "image_mask": "none",
@@ -452,6 +462,7 @@
     },
     "84809a14-9439-4977-96cc-d3e02c9555de": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Yet-Devo-Pg-002.jpg",
         "image_mask": "none",
@@ -515,6 +526,7 @@
     },
     "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-01.png",
         "image_mask": "none",
