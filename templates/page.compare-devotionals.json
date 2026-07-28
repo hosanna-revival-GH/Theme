@@ -94,8 +94,8 @@
       "type": "featured-collection",
       "settings": {
         "title": "Explore Our Library",
-        "home_featured_products": "devotionals",
-        "per_row": 5,
+        "home_featured_products": "hosanna-revival-devotionals",
+        "per_row": 4,
         "rows": 3,
         "mobile_scrollable": true,
         "view_all": true,
