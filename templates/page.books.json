@@ -95,7 +95,7 @@
       "settings": {
         "title": "Explore Our Books",
         "home_featured_products": "books",
-        "per_row": 5,
+        "per_row": 4,
         "rows": 3,
         "mobile_scrollable": true,
         "view_all": true,
