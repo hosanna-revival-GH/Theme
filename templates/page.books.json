@@ -25,7 +25,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Hosanna Devotionals",
+            "title": "Hosanna Books",
             "title_size": 80,
             "subheading": "by our community, for our community",
             "link": "",
@@ -61,14 +61,14 @@
         "heading_xbizRg": {
           "type": "heading",
           "settings": {
-            "title": "Introducing our Library"
+            "title": "Hosanna Revival Books"
           }
         },
         "text_jDGKbX": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Each of our devotionals, Bible studies, and books is written by a talented writer in the Hosanna Revival community and intended to point you to Jesus, give you practical applications for the Christian life, and stand firmly on the Word of God.</p>",
+            "text": "<p>As our publishing library has grown, so has what we offer! Alongside our devotionals, we now publish books in a traditional chapter format, for when you want something longer to sit with. Take a look below and find the right one for this season.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -93,8 +93,8 @@
     "featured_collection_J8jTm7": {
       "type": "featured-collection",
       "settings": {
-        "title": "Explore Our Library",
-        "home_featured_products": "devotionals",
+        "title": "Explore Our Books",
+        "home_featured_products": "books",
         "per_row": 5,
         "rows": 3,
         "mobile_scrollable": true,
@@ -168,6 +168,7 @@
       "block_order": [
         "text_and_image_kUBGyX"
       ],
+      "disabled": true,
       "name": "Combined Content",
       "settings": {
         "space_above": 0,
@@ -220,6 +221,7 @@
     },
     "text_and_image_jdGknV": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival462.jpg",
@@ -242,6 +244,7 @@
     },
     "text_and_image_Tc6pLe": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-09_1.jpg",
         "image_mask": "none",
@@ -284,6 +287,7 @@
     },
     "text_and_image_rPawVp": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/BE-Landing-02.png",
         "image_mask": "none",
@@ -305,6 +309,7 @@
     },
     "4bec0d40-1318-4161-87fb-2498589cd535": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
         "image_mask": "none",
@@ -326,6 +331,7 @@
     },
     "4653de44-9af4-4c49-bea6-347f6c9b80a7": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Artboard_2_copy_2a171484-e948-4f19-a517-75718acd87b5.png",
         "image_mask": "none",
@@ -347,6 +353,7 @@
     },
     "9ec6d794-b421-41d2-8332-7076d55dfbe0": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/SFH-Library-03.png",
         "image_mask": "none",
@@ -368,6 +375,7 @@
     },
     "2fcd114d-417b-466e-9775-0479cfef8b3c": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/UnfoldLibraryImages_02.png",
         "image_mask": "none",
@@ -410,6 +418,7 @@
     },
     "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/God-of-Forever-Devo-Pg-001.jpg",
         "image_mask": "none",
@@ -431,6 +440,7 @@
     },
     "076f66e3-006f-408d-aa70-c3f928ac15bb": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-131.jpg",
         "image_mask": "none",
@@ -452,6 +462,7 @@
     },
     "84809a14-9439-4977-96cc-d3e02c9555de": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Yet-Devo-Pg-002.jpg",
         "image_mask": "none",
@@ -473,6 +484,7 @@
     },
     "25184cd1-0b17-4ee9-9002-8893cfd688a0": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Songs-for-the-Suffering-Devo-Pg-001.jpg",
         "image_mask": "none",
@@ -494,6 +506,7 @@
     },
     "baa00edd-f647-46b5-9af6-b1a133454696": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/I-Am-Not-In-Charge-Devo-Pg-001.jpg",
         "image_mask": "none",
@@ -507,27 +520,6 @@
         "align_text": "left",
         "image_width": "50",
         "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-01.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "By Katie Noble",
-        "title": "Pray Like This",
-        "text": "<p><strong>Topic: Prayer<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Matthew 6:9-13<br/><strong>Structure</strong>: Daily entries, questions, guided prayer, weekly introduction</p><p>This 8-week study traverses through the depths of the Lord’s Prayer, drawing us nearer to the foot of the cross while shaping the way we pray and commune with God.</p><p></p>",
-        "button_label": "Learn More",
-        "button_link": "shopify://pages/pray-like-this",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -613,7 +605,6 @@
     "84809a14-9439-4977-96cc-d3e02c9555de",
     "25184cd1-0b17-4ee9-9002-8893cfd688a0",
     "baa00edd-f647-46b5-9af6-b1a133454696",
-    "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
     "faq_7pWgCb"
   ]
 }
