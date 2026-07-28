@@ -1,0 +1,619 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true,
+        "background_color": ""
+      }
+    },
+    "slideshow_jcqhbB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WbLbY9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Hosanna Devotionals",
+            "title_size": 80,
+            "subheading": "by our community, for our community",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Devotional-Summer-SaleHosanna-Revival226.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_WbLbY9"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "rich_text_HqDrRF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xbizRg": {
+          "type": "heading",
+          "settings": {
+            "title": "Introducing our Library"
+          }
+        },
+        "text_jDGKbX": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Each of our devotionals, Bible studies, and books is written by a talented writer in the Hosanna Revival community and intended to point you to Jesus, give you practical applications for the Christian life, and stand firmly on the Word of God.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_xbizRg",
+        "text_jDGKbX"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "featured_collection_J8jTm7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore Our Library",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 3,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "text_and_image_a4ekiP": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_8.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Katie Noble",
+        "title": "Motherhood & the Good Life",
+        "text": "<p>Topic: Motherhood in God’s Eyes<br/>Type of Study: Book<br/>Length: 20 Chapters<br/>Focal Scripture: Multiple Passages</p><p><em>Motherhood & the Good Life </em>by Katie Noble is a book for those who long for a spiritual understanding of the significance of motherhood and for those fearful to start a family because they’ve been told children block the path to the good life.</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/motherhood-the-good-life",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_yanWF7": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book_3.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Jordan Moody",
+        "title": "Heaven  & Earth",
+        "text": "<p>Topic: Heaven <br/>Type of Study: Book<br/>Length: 8 Chapters<br/>Focal Scripture: Multiple Passages<br/></p><p><em>Heaven & Earth</em> is for anyone longing for clarity and hope as they wrestle with heaven, eternity, and the promises of Jesus Christ. Author Jordan Moody invites readers to lift their eyes from the weight of today and rest in the unshakable hope promised by Jesus Christ—who is coming again to wipe away every tear, renew all things, and welcome his people into a real, joyful, and eternal life with God.</p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/heaven-and-earth",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "toolkit_ykR3HX": {
+      "type": "toolkit",
+      "blocks": {
+        "text_and_image_kUBGyX": {
+          "type": "text_and_image",
+          "settings": {
+            "layout": "right",
+            "image": "shopify://shop_images/Wonder-devotional-awe-of-God-alicia-hamilton-20250930hosanna-revival-006.jpg",
+            "image_width": 50,
+            "subtitle": "By Alicia Hamilton",
+            "title": "Wonder",
+            "text": "<p><strong>Topic:</strong> <strong>The awe of God</strong><br/>Type of Study: Devotional<br/>Length: 7 weeks<br/>Focal Scripture: Psalms<br/><br/><em>Wonder: Rediscovering Our Awe of God and Reclaiming a Childlike Faith</em> is devotional journey for anyone who longs for spiritual refreshment and desires to be delighted all over again by the beauty of our Creator. Author Alicia Hamilton leads readers through seven psalms that invite us to marvel at the majesty and care of God. </p>",
+            "button_link": "shopify://products/wonder-by-alicia-hamilton",
+            "button_label": "Learn more",
+            "align_text": "left",
+            "lazyload_images": true
+          }
+        }
+      },
+      "block_order": [
+        "text_and_image_kUBGyX"
+      ],
+      "name": "Combined Content",
+      "settings": {
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "text_and_image_i9HfGc": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-45_1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Dr. Tammy Smith",
+        "title": "When Marriage Meets Reality",
+        "text": "<p><strong>Topic: Marriage</strong><br/>Type of Study: Book<br/>Length: 10 Chapters <br/>Focal Scripture: Multiple passages<br/><strong><br/></strong><em>When Marriage Meets Reality </em>unpacks harmful beliefs about marriage, inviting you to release unrealistic expectations and fall in love with the marriage you have. Author Dr. Tammy Smith combines her more than 30 years of counseling experience with her three decades of marriage to Pastor Mike Smith to gently guide readers from a worldly view of marriage to one rooted in Christ.</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/when-marriage-meets-reality",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_n9EMHx": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Dr. Tammy Smith",
+        "title": "The Secure Soul",
+        "text": "<p><strong>Topic: Identity</strong><br/>Type of Study: Book<br/>Length: 6 Chapters<br/>Focal Scripture: Multiple passages<br/><br/><em>The Secure Soul </em>is for those longing to step into freedom from insecurity through aligning their identity with God’s truth about who they are while guided by licensed counselor Dr. Tammy Smith.</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/the-secure-soul",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jdGknV": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival462.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Brooke Jackson",
+        "title": "Just",
+        "text": "<p><strong>Topic: God’s Justice</strong><br/>Type of Study: Devotional<br/>Length: 6 parts<br/>Focal Scripture: The Gospel parables<br/><br/><em>Just</em> is a 6-part devotional for those who are grieved by the injustices they see in the world but don’t know what they can do to help. <em>Just</em> invites you to look to Jesus as the ultimate bringer of justice and encourages you to follow in his footsteps. </p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/just",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Tc6pLe": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-09_1.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By SarahRuth Owens",
+        "title": "The Everyday Banquet",
+        "text": "<p><strong>Topic: Family Discipleship</strong><br/><strong>Type of Study: </strong>Devotional <br/><strong>Length of Study: </strong>52 Weeks<br/><strong>Focal Scripture:</strong> Multiple passages <br/><strong>Structure:</strong> 52 Weekly entries divided into 4 seasons with 4 recipes and 4 hymns per season. </p><p><em>The Everyday Banquet </em>invites families to interrupt their daily busyness and return to the table of discipleship. Together, families will prepare meals, engage in discussion, read God’s Word, and worship. While practicing these rhythms, families will be given the tools to naturally discuss God together as they cultivate the ancient practice of a “sabbath meal” around the table.</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/everyday-banquet",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_bCxN9a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/IWAR-Landing-Page-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Paige Stitt Mcbride",
+        "title": "In Weeping and Rejoicing",
+        "text": "<p><strong>Topic: Emotional Wellness </strong><br/><strong>Type of Study:</strong> Book <br/><strong>Length of Study:</strong> 8 chapters <br/><strong>Focal Scripture</strong>: multiple passages</p><p><em>In Weeping and Rejoicing</em> breaks down a biblical understanding of emotions and offers readers a practical way forward in their emotional struggles. </p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/in-weeping-and-rejoicing",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_rPawVp": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/BE-Landing-02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "BY KARI MINTER",
+        "title": "Beyond Egypt",
+        "text": "<p><strong>Topic: Freedom and obedience</strong><br/><strong>Type of Study: </strong>Bible Study<strong><br/>Length of Study:</strong> 7 weeks<strong><br/>Focal Scripture: </strong>Exodus</p><p><em>Beyond Egypt</em> is an inductive Bible study on Exodus for those who desire to deeply understand God’s Word and want to learn how to apply that knowledge to their daily life. </p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/beyond-egypt",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4bec0d40-1318-4161-87fb-2498589cd535": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "BY KATIE NOBLE",
+        "title": "God Our Home",
+        "text": "<p><strong>Topic: Rootedness</strong><br/><strong>Type of Study: </strong>Bible Study<strong><br/>Length of Study: </strong>10<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>The Gospel of John</p><p><em>God Our Home</em> is a 10-part Bible study on the Gospel of John for the one longing for a sense of rootedness that stretches beyond earthly security.</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/god-our-home",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "4653de44-9af4-4c49-bea6-347f6c9b80a7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_2_copy_2a171484-e948-4f19-a517-75718acd87b5.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Alicia Hamilton",
+        "title": "Eternity In Our Hearts",
+        "text": "<p><strong>Topic: Purpose and the meaning of life</strong><br/><strong>Type of Study: </strong>Bible Study<strong><br/>Length of Study: </strong>7<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>The Book of Ecclesiastes</p><p><em>Eternity in Our Hearts</em> leads readers to discover the literary masterpiece, timeless truths, upside-down kingdom wisdom, and eternal perspective of Ecclesiastes. </p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/eternity-in-our-hearts",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "9ec6d794-b421-41d2-8332-7076d55dfbe0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/SFH-Library-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Ness Cannon",
+        "title": "Start From Here",
+        "text": "<p><strong>Topic: God’s Character</strong><br/><strong>Type of Study: </strong>Devotional<strong><br/>Length of Study: </strong>6<strong> </strong>weeks<strong><br/>Focal Scripture: </strong>multiple passages</p><p><em>Start From Here</em> is a 6-week devotional for those who feel distant from God and want to begin an honest journey to finding Jesus in a new way.</p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/start-from-here",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2fcd114d-417b-466e-9775-0479cfef8b3c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/UnfoldLibraryImages_02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Liesl Lamprecht",
+        "title": "Unfold",
+        "text": "<p><strong>Topic: Repentance</strong><br/><strong>Length of Study: </strong>6 weeks<br/><strong>Type of Study: </strong>Devotional<br/><strong>Focal Scripture: </strong>Multiple passages<br/><strong>Structure: </strong>Daily entries per week with 3 sections: Reflect, Repent, and Rejoice </p><p>“Search me, O God, and know my heart! . . . And see if there be any grievous way in me, and lead me in the way everlasting!” (Psalm 139:23-24). If you are ready to align the posture of your heart with these words of David, then we encourage you to pick up a copy of <em>Unfold</em>. Readers will be invited into a time of deep introspection in the Word as they discover (or rediscover) the light of Christ.</p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/unfold-devotional",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e670311d-a86a-4a77-8af4-e0c1e8c89db9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/storycircle_photo.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "BY JOSHUA LENON",
+        "title": "The Story Circle",
+        "text": "<p><strong>Topic: The beauty and continuity of the Biblical story</strong><br/><strong>Type of Study: </strong>Book<br/><strong>Length of Study: </strong>6 weeks<br/><strong>Focal Scripture: </strong>Multiple passages<br/><strong>Structure: </strong>1 main weekly reading divided into sections, weekly reflection questions </p><p></p><p><em>The Story Circle </em>is a 6-part study that will draw your mind and imagination into God's beautiful story that has been unfolding since the very dawn of time. </p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/the-story-circle-devotional",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/God-of-Forever-Devo-Pg-001.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Haylee J. Williams",
+        "title": "God of Forever",
+        "text": "<p><strong>Topic: The character of God<br/>Type of Study: </strong>Bible Study<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Multiple passages<br/><strong>Structure</strong>: 5 daily entries per week, questions, weekly introduction</p><p><em>God of Forever</em> is an 8-week study where author Haylee Williams provides an introductory study of the God of Scripture through an emphasis on studying the Word and seeing the magnificence of God from Genesis to Revelation. </p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/god-of-forever-devotional",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "076f66e3-006f-408d-aa70-c3f928ac15bb": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-131.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Haley Crabtree",
+        "title": "Rooted to Rise",
+        "text": "<p><strong>Topic: Growing in Christ for high school girls<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 10 weeks<br/><strong>Focal Scripture</strong>: Multiple passages<br/><strong>Structure</strong>: 7 daily entries per week, questions, guided prayer, weekly introduction</p><p><em>Rooted to Rise</em> is for any high school girl who desires to grow in her faith. Through the practice of reading God’s Word, journaling, and spending intentional time in prayer, this devotional will help establish daily rhythms with the Lord.</p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/rooted-to-rise",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "84809a14-9439-4977-96cc-d3e02c9555de": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Yet-Devo-Pg-002.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "by Erica Boden",
+        "title": "YET: The Promise in Habakkuk for Those in Transition",
+        "text": "<p><strong>Topic: Seasons of transition<br/>Type of Study: </strong>Bible Study<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: Habakkuk<br/><strong>Structure</strong>: 7 daily entries per week, questions</p><p><em>YET</em> is a 6-week devotional for people in seasons of transition who are walking through the in-between. This tool will encourage you that God is available daily, active in your life, and longing to hear your voice. </p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/yet-devotional",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "25184cd1-0b17-4ee9-9002-8893cfd688a0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Songs-for-the-Suffering-Devo-Pg-001.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Julia Allspaw",
+        "title": "Songs for the Suffering",
+        "text": "<p><strong>Topic: Suffering and grief<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 6 weeks<br/><strong>Focal Scripture</strong>: Multiple passages<br/><strong>Structure</strong>: 1 main weekly reading, questions, end-of-chapter summary, journaling margins</p><p>In <em>Songs for the Suffering,</em> you will journey through the questions, fears, and doubts that come when suffering strikes and discover how the Word of God doesn’t ignore your pain, but rather, invites you to come to the table <em>with</em> it. </p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/songs-for-the-suffering",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "baa00edd-f647-46b5-9af6-b1a133454696": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/I-Am-Not-In-Charge-Devo-Pg-001.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Ness Cannon",
+        "title": "I Am Not in Charge",
+        "text": "<p><strong>Topic: Control<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Jesus' ministry in the gospels<br/><strong>Structure</strong>: 1 main weekly reading, questions, action steps</p><p><em>I Am Not in Charge</em> is an 8-week devotional where author Ness Cannon shows us— through her own story, Scripture, and thought-provoking questions—how to take baby steps toward peace and connection through accepting what we can—and can't—control.</p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/i-am-not-in-charge",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By Katie Noble",
+        "title": "Pray Like This",
+        "text": "<p><strong>Topic: Prayer<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Matthew 6:9-13<br/><strong>Structure</strong>: Daily entries, questions, guided prayer, weekly introduction</p><p>This 8-week study traverses through the depths of the Lord’s Prayer, drawing us nearer to the foot of the cross while shaping the way we pray and commune with God.</p><p></p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/pray-like-this",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "faq_7pWgCb": {
+      "type": "faq",
+      "blocks": {
+        "question_WJGJLd": {
+          "type": "question",
+          "settings": {
+            "title": "How do I choose which devotional is right for me?",
+            "text": "<p>Each of our devotionals covers a specific topic or passage of Scripture in light of the Word of God. Use the topic summaries above to see which topic relates to how you are seeking to grow in Christ in this specific season. We also encourage you to watch our devotional trailers, read about the author, and browse the in-depth pages linked below each description to learn more as you make your choice.</p><p>Don't see your topic addressed? We are continually working on new devotionals behind the scenes, so even if the topic on your mind hasn't yet been addressed, be on the lookout for future releases. Also, we run an online publication titled <em>WHEN</em> where we invite writers from our community to shed the light of Scripture on specific topics in shorter, more digestible pieces. <a href=\"https://hosannarevival.blog/\" target=\"_blank\" title=\"WHEN, a Hosanna Revival Publication\">Check out <em>WHEN</em> to see if your topic is addressed here</a>!</p>"
+          }
+        },
+        "question_Xpif3c": {
+          "type": "question",
+          "settings": {
+            "title": "What are Hosanna Revival devotionals?",
+            "text": "<p>Hosanna Revival devotionals are topical Bible studies broken up into weekly readings that cover a specific focus or passage of Scripture and contain interactive elements such as questions and space to journal. These beautiful tools are created to help you engage more deeply with Jesus and his Word.</p><p>Each of our devotionals is unique in structure. Some have each week broken up into daily sections while others contain simply a single long section per week. Within these weeks you can find interactive elements unique to each devotional such as journaling margins, note pages, fill-in-the-blank, and more!</p><p>These tools are perfect for individual spiritual growth as well as within a community. While our devotionals are not designed with a designated leader guide, we encourage our community to study these tools alongside your local church group or with a friend and use the questions and Scripture covered each week to guide discussion.</p>"
+          }
+        },
+        "question_YZi8Kd": {
+          "type": "question",
+          "settings": {
+            "title": "Who writes Hosanna Revival devotionals?",
+            "text": "<p>Our devotionals are each written by a member of our Hosanna Revival community. We work side-by-side with authors and aspiring authors to create beautiful, high-quality devotional content. As authors pitch their devotional ideas to us, we prayerfully consider each one as we seek to identify our next author. What you see here on this page is a beautiful testament to God using the incredible gifts of one's words and experiences to direct our eyes to Scripture!</p><p>If you are looking to pitch an idea for our next devotional, <a href=\"https://hosannarevival.com/pages/publishing\" target=\"_blank\" title=\"https://hosannarevival.com/pages/publishing\">head to our Publishing page</a>.</p>"
+          }
+        },
+        "question_Uv9Wkd": {
+          "type": "question",
+          "settings": {
+            "title": "How are Hosanna Revival devotionals created?",
+            "text": "<p>Each of our devotionals is uniquely designed by our in-house team to pair the content of the study with beautiful visuals that direct your eyes toward Scripture.</p><p>To break the process down, our team first identifies our author from community submissions. Next, the author crafts the full manuscript. Once the devotional content is completed, our incredible editing team works closely with this author to refine the manuscript. Meanwhile, our design team works with our lead product designer, Katie Guiliano, to uniquely design the visuals of the devotional around the content. Once we pair the beautiful visuals with the words, we send the final study to print and, come launch day, the devotional makes its way into your hands!</p><p>You can learn more about our incredible team that makes this all possible <a href=\"/pages/about\" target=\"_blank\" title=\"About Us\">here on our About Page</a>.</p>"
+          }
+        },
+        "question_Lm3Qnd": {
+          "type": "question",
+          "settings": {
+            "title": "Can I study this devotional with a group?",
+            "text": "<p><strong>Did you know if you buy 10 or more of a devotional, you automatically get a $5 discount per copy?</strong> We want to make it easy for you to study these within the context of community and are cheering you on!</p><p>While our devotionals are not designed with a designated leader guide, we encourage you to study these tools alongside your local church group or with a friend and use the questions and Scripture covered each week to guide discussion.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_WJGJLd",
+        "question_Xpif3c",
+        "question_YZi8Kd",
+        "question_Uv9Wkd",
+        "question_Lm3Qnd"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "space_above": 0,
+        "space_below": 0,
+        "disable_section_margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_jcqhbB",
+    "rich_text_HqDrRF",
+    "featured_collection_J8jTm7",
+    "text_and_image_a4ekiP",
+    "text_and_image_yanWF7",
+    "toolkit_ykR3HX",
+    "text_and_image_i9HfGc",
+    "text_and_image_n9EMHx",
+    "text_and_image_jdGknV",
+    "text_and_image_Tc6pLe",
+    "text_and_image_bCxN9a",
+    "text_and_image_rPawVp",
+    "4bec0d40-1318-4161-87fb-2498589cd535",
+    "4653de44-9af4-4c49-bea6-347f6c9b80a7",
+    "9ec6d794-b421-41d2-8332-7076d55dfbe0",
+    "2fcd114d-417b-466e-9775-0479cfef8b3c",
+    "e670311d-a86a-4a77-8af4-e0c1e8c89db9",
+    "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5",
+    "076f66e3-006f-408d-aa70-c3f928ac15bb",
+    "84809a14-9439-4977-96cc-d3e02c9555de",
+    "25184cd1-0b17-4ee9-9002-8893cfd688a0",
+    "baa00edd-f647-46b5-9af6-b1a133454696",
+    "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
+    "faq_7pWgCb"
+  ]
+}
