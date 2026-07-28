@@ -104,6 +104,7 @@
     },
     "text_and_image_a4ekiP": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/Motherhood_Author_Shoot_Katie_Noble_8.jpg",
@@ -126,6 +127,7 @@
     },
     "text_and_image_yanWF7": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/Heaven_and_Earth_Jordan_Moody_Book_3.jpg",
@@ -176,6 +178,7 @@
     },
     "text_and_image_i9HfGc": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-45_1.jpg",
@@ -198,6 +201,7 @@
     },
     "text_and_image_n9EMHx": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/The-Secure-Soul-WMMR-Devotional-Tammy-Smith-Hosanna-Revival-52.jpg",
@@ -220,6 +224,7 @@
     },
     "text_and_image_jdGknV": {
       "type": "text-and-image",
+      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/Just-Social-Justice-Bible-Study-Devotional-Brooke-Jackson-Hosanna-Revival462.jpg",
@@ -242,6 +247,7 @@
     },
     "text_and_image_Tc6pLe": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Everyday-Banquet-Flatlay-Seasonal-Family-Discipleship-Devotional-SarahRuth-Owens-Hosanna-Revival-09_1.jpg",
         "image_mask": "none",
@@ -263,6 +269,7 @@
     },
     "text_and_image_bCxN9a": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IWAR-Landing-Page-01.png",
         "image_mask": "none",
@@ -347,6 +354,7 @@
     },
     "9ec6d794-b421-41d2-8332-7076d55dfbe0": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/SFH-Library-03.png",
         "image_mask": "none",
@@ -368,6 +376,7 @@
     },
     "2fcd114d-417b-466e-9775-0479cfef8b3c": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/UnfoldLibraryImages_02.png",
         "image_mask": "none",
@@ -389,6 +398,7 @@
     },
     "e670311d-a86a-4a77-8af4-e0c1e8c89db9": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/storycircle_photo.png",
         "image_mask": "none",
@@ -410,6 +420,7 @@
     },
     "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/God-of-Forever-Devo-Pg-001.jpg",
         "image_mask": "none",
@@ -431,6 +442,7 @@
     },
     "076f66e3-006f-408d-aa70-c3f928ac15bb": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Rooted-to-Rise-Devotional-Styled-Coffeeshop-131.jpg",
         "image_mask": "none",
@@ -473,6 +485,7 @@
     },
     "25184cd1-0b17-4ee9-9002-8893cfd688a0": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Songs-for-the-Suffering-Devo-Pg-001.jpg",
         "image_mask": "none",
@@ -494,6 +507,7 @@
     },
     "baa00edd-f647-46b5-9af6-b1a133454696": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/I-Am-Not-In-Charge-Devo-Pg-001.jpg",
         "image_mask": "none",
