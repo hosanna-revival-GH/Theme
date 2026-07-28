@@ -524,28 +524,6 @@
         "lazyload_images": true
       }
     },
-    "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/PrayLikeThis-Relaunch-LP-01.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "By Katie Noble",
-        "title": "Pray Like This",
-        "text": "<p><strong>Topic: Prayer<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Matthew 6:9-13<br/><strong>Structure</strong>: Daily entries, questions, guided prayer, weekly introduction</p><p>This 8-week study traverses through the depths of the Lord’s Prayer, drawing us nearer to the foot of the cross while shaping the way we pray and commune with God.</p><p></p>",
-        "button_label": "Learn More",
-        "button_link": "shopify://pages/pray-like-this",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "faq_7pWgCb": {
       "type": "faq",
       "blocks": {
@@ -599,6 +577,63 @@
         "space_below": 0,
         "disable_section_margin": false
       }
+    },
+    "slideshow_cjU7h9": {
+      "type": "slideshow",
+      "blocks": {
+        "image_MUiGXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Explore the full Library",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Devotional-Summer-SaleHosanna-Revival122.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        },
+        "image_wcEawy": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_MUiGXn",
+        "image_wcEawy"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -625,7 +660,7 @@
     "84809a14-9439-4977-96cc-d3e02c9555de",
     "25184cd1-0b17-4ee9-9002-8893cfd688a0",
     "baa00edd-f647-46b5-9af6-b1a133454696",
-    "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
-    "faq_7pWgCb"
+    "faq_7pWgCb",
+    "slideshow_cjU7h9"
   ]
 }
