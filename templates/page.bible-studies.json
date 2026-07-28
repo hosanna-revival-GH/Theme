@@ -505,28 +505,6 @@
         "lazyload_images": true
       }
     },
-    "baa00edd-f647-46b5-9af6-b1a133454696": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/I-Am-Not-In-Charge-Devo-Pg-001.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "By Ness Cannon",
-        "title": "I Am Not in Charge",
-        "text": "<p><strong>Topic: Control<br/>Type of Study: </strong>Devotional<br/><strong>Length of Study</strong>: 8 weeks<br/><strong>Focal Scripture</strong>: Jesus' ministry in the gospels<br/><strong>Structure</strong>: 1 main weekly reading, questions, action steps</p><p><em>I Am Not in Charge</em> is an 8-week devotional where author Ness Cannon shows us— through her own story, Scripture, and thought-provoking questions—how to take baby steps toward peace and connection through accepting what we can—and can't—control.</p><p></p>",
-        "button_label": "Learn More",
-        "button_link": "shopify://pages/i-am-not-in-charge",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7": {
       "type": "text-and-image",
       "settings": {
@@ -601,6 +579,44 @@
         "space_below": 0,
         "disable_section_margin": false
       }
+    },
+    "slideshow_gzJVad": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nYqKxC": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/devotionals",
+            "link_text": "explore the full library",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Devotional-Summer-SaleHosanna-Revival122.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nYqKxC"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -626,8 +642,8 @@
     "076f66e3-006f-408d-aa70-c3f928ac15bb",
     "84809a14-9439-4977-96cc-d3e02c9555de",
     "25184cd1-0b17-4ee9-9002-8893cfd688a0",
-    "baa00edd-f647-46b5-9af6-b1a133454696",
     "b0780de4-d2c4-4ff7-adb2-9db2f047dcd7",
-    "faq_7pWgCb"
+    "faq_7pWgCb",
+    "slideshow_gzJVad"
   ]
 }
