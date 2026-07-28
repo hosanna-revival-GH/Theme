@@ -307,6 +307,63 @@
         "space_below": 0,
         "disable_section_margin": false
       }
+    },
+    "slideshow_Qhd3cn": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fUkCe9": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/devotionals",
+            "link_text": "Explore the Full Library",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Devotional-Summer-SaleHosanna-Revival122.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        },
+        "image_8QW8EE": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_fUkCe9",
+        "image_8QW8EE"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -321,6 +378,7 @@
     "text_and_image_bCxN9a",
     "text_and_image_cxMxcg",
     "e670311d-a86a-4a77-8af4-e0c1e8c89db9",
-    "faq_7pWgCb"
+    "faq_7pWgCb",
+    "slideshow_Qhd3cn"
   ]
 }
