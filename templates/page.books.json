@@ -579,6 +579,28 @@
         "space_below": 0,
         "disable_section_margin": false
       }
+    },
+    "text_and_image_cxMxcg": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Beauty-Not-Beheld-Devotional-Hosanna-Revival-Floral-Nest-076.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "By PAIge Stitt McBride",
+        "title": "Beauty Not Beheld",
+        "text": "<p>Topic: Beauty through God's eyes<br/>Type of Study: Book<br/>Length: 6 Chapters<br/>Structure: Each week sets a cultural narrative side by side with what God's Word actually says.<br/><br/><em>Beauty Not Beheld </em>is a 6-week book where author Paige Stitt McBride guides readers through the lies about identity and beauty that creep into minds through our culture and the truths that will set us free.</p>",
+        "button_label": "Learn more",
+        "button_link": "shopify://pages/beauty-not-beheld-devotional",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -599,6 +621,7 @@
     "4653de44-9af4-4c49-bea6-347f6c9b80a7",
     "9ec6d794-b421-41d2-8332-7076d55dfbe0",
     "2fcd114d-417b-466e-9775-0479cfef8b3c",
+    "text_and_image_cxMxcg",
     "e670311d-a86a-4a77-8af4-e0c1e8c89db9",
     "ae51cad3-c9b2-4a1e-a6a4-60784c716cc5",
     "076f66e3-006f-408d-aa70-c3f928ac15bb",
