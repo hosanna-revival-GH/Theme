@@ -95,7 +95,7 @@
       "settings": {
         "title": "Explore Bible Studies",
         "home_featured_products": "bible-studies",
-        "per_row": 5,
+        "per_row": 3,
         "rows": 3,
         "mobile_scrollable": true,
         "view_all": true,
