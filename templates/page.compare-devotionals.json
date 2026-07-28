@@ -68,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "",
+            "text": "<p>Our devotionals are intentionally written to walk you through a specific topic, grounded in the wisdom of Scripture. Choose one that fits your season, or one you feel drawn to.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
