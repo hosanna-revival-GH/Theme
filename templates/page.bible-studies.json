@@ -93,8 +93,8 @@
     "featured_collection_J8jTm7": {
       "type": "featured-collection",
       "settings": {
-        "title": "Explore Our Library",
-        "home_featured_products": "devotionals",
+        "title": "Explore Bible Studies",
+        "home_featured_products": "bible-studies",
         "per_row": 5,
         "rows": 3,
         "mobile_scrollable": true,
