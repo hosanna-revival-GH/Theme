@@ -25,7 +25,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Hosanna Revival Publishing",
+            "title": "Hosanna Revival Devotionals",
             "title_size": 60,
             "subheading": "by our community, for our community",
             "link": "",
@@ -34,7 +34,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devotional-Summer-SaleHosanna-Revival226.jpg",
+            "image": "shopify://shop_images/Unfold-HosannaRevival-90.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -61,14 +61,14 @@
         "heading_xbizRg": {
           "type": "heading",
           "settings": {
-            "title": "Introducing our Library"
+            "title": "Introducing our Devotionals"
           }
         },
         "text_jDGKbX": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Our mission at Hosanna Revival is to excite you about engaging in Scripture by creating beautiful and intentional tools for your life. Each of our devotionals, Bible studies, and books is written by a talented writer in the Hosanna Revival community and intended to point you to Jesus, give you practical applications for the Christian life, and stand firmly on the Word of God.</p>",
+            "text": "",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
