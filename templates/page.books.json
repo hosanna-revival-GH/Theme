@@ -34,7 +34,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devotional-Summer-SaleHosanna-Revival226.jpg",
+            "image": "shopify://shop_images/Beautiful-Bibles-And-Tools-Hosanna-Revival272.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -329,29 +329,10 @@
             "overlay_opacity": 0,
             "disable_border_button": false
           }
-        },
-        "image_8QW8EE": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
         }
       },
       "block_order": [
-        "image_fUkCe9",
-        "image_8QW8EE"
+        "image_fUkCe9"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
