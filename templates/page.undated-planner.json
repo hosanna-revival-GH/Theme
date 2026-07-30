@@ -17,7 +17,7 @@
           "settings": {
             "top_subheading": "",
             "title": "The Hosanna Revival Undated Planner",
-            "title_size": 72,
+            "title_size": 40,
             "subheading": "The planner that fits beautifully into your life",
             "link": "shopify://collections/planners",
             "link_text": "Start Fresh",
@@ -25,7 +25,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-299.jpg",
+            "image": "shopify://shop_images/Hosanna_Revival_Planners.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -36,9 +36,9 @@
         "image_6PHRiP"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "550px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
@@ -108,7 +108,7 @@
           "type": "text_and_image",
           "settings": {
             "layout": "left",
-            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-525.jpg",
+            "image": "shopify://shop_images/Undated_Planners_Hosanna_Revival_1.jpg",
             "image_width": 50,
             "subtitle": "",
             "title": "The Hosanna Revival Planner is...",
@@ -242,7 +242,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Undated-Twelve-Month-Weekly-Planner-Styled-Hosanna-Revival-382.jpg",
+            "image": "shopify://shop_images/Undated_Planners_Hosanna_Revival_2.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
