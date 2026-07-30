@@ -9,45 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_bGCPEX": {
-      "type": "slideshow",
-      "blocks": {
-        "image_fVEef3": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/01_508306c2-a71c-433d-941f-2415e1c1f69e.png",
-            "image_mobile": "shopify://shop_images/01_47732343-5ba4-4aa2-8750-1b0f65ce24d1.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_fVEef3"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
@@ -58,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/best-sellers",
+            "link": "shopify://pages/devotionals",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/02_04df33a2-e067-455f-974e-2c8f0994791b.png",
-            "image_mobile": "shopify://shop_images/022_76289643-b274-42e5-81b9-3ae8e2b8503a.png",
+            "image": "shopify://shop_images/Devo_Sale-03.png",
+            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_3.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -86,6 +47,48 @@
         "disable_animation": false
       }
     },
+    "promo_grid_BftCNi": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_wLbLxt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Devo_Sale-04.png",
+            "link": "shopify://collections/books",
+            "width": "33"
+          }
+        },
+        "image_NWGAkF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Devo_Sale-05.png",
+            "link": "shopify://collections/bible-studies",
+            "width": "33"
+          }
+        },
+        "image_9fzeMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Devo_Sale-06.png",
+            "link": "shopify://collections/devotionals",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_wLbLxt",
+        "image_NWGAkF",
+        "image_9fzeMq"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "slideshow_8GYyKV": {
       "type": "slideshow",
       "blocks": {
@@ -96,14 +99,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/nlt-notetaking-bible-cordova-theme",
+            "link": "shopify://collections/the-everyday-banquet",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/03_dc0aeb69-a387-4cae-a992-dd915b40135f.png",
-            "image_mobile": "shopify://shop_images/03_1812830a-0fe3-4d17-83e3-b824d1cfd453.png",
+            "image": "shopify://shop_images/Devo_Sale_Artboard_26.png",
+            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -127,11 +130,10 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "Best Sellers",
-        "home_featured_products": "best-sellers",
+        "title": "our Library",
+        "home_featured_products": "devotionals",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
@@ -139,60 +141,36 @@
         "divider": false
       }
     },
-    "promo_grid_BftCNi": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_NWGAkF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/04_f40e4078-473d-424f-843e-c9a4c986366c.png",
-            "link": "shopify://collections/beautiful-bibles",
-            "width": "50"
-          }
-        },
-        "image_9fzeMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/05_f04418bc-45be-44f0-b7e7-137a3b6a34d4.png",
-            "link": "shopify://collections/devotionals",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_NWGAkF",
-        "image_9fzeMq"
-      ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "promo_grid_pwwBNx": {
       "type": "promo-grid",
       "blocks": {
+        "image_jTMdmz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Devo_Sale_Artboard_2_copy_45.png",
+            "link": "shopify://collections/notebooks",
+            "width": "33"
+          }
+        },
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/06_c41f16c1-9489-47ef-9597-efa338641af3.png",
+            "image": "shopify://shop_images/Devo_Sale_Artboard_2_copy_35.png",
             "link": "shopify://collections/one-thing-i-ask",
-            "width": "50"
+            "width": "33"
           }
         },
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/07_728b44b1-bf1b-4b7b-b871-c8435c3f606a.png",
-            "link": "shopify://collections/notebooks",
-            "width": "50"
+            "image": "shopify://shop_images/Devo_Sale_Artboard_2_copy_46.png",
+            "link": "shopify://blogs/when-blog",
+            "width": "33"
           }
         }
       },
       "block_order": [
+        "image_jTMdmz",
         "image_e7NFe9",
         "image_PaJnE3"
       ],
@@ -215,14 +193,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/nlt-notetaking-bible-rosemary-beach-theme",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/08_33d46a3a-3710-42ba-b3de-d65e0583d5b4.png",
-            "image_mobile": "shopify://shop_images/02_d37ddc58-d1c7-4210-8ae5-0facfac7d797.png",
+            "image": "shopify://shop_images/Devo_Sale-12.png",
+            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -514,6 +492,7 @@
       "block_order": [
         "image_QVcitx"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -542,8 +521,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/12.png",
-            "image_mobile": "shopify://shop_images/06_d50db554-2310-4188-9653-ea70b567025c.png",
+            "image": "shopify://shop_images/Devo_Sale-02.png",
+            "image_mobile": "shopify://shop_images/Devo_Sale-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -566,11 +545,10 @@
     }
   },
   "order": [
-    "slideshow_bGCPEX",
     "slideshow_X4MRpa",
+    "promo_grid_BftCNi",
     "slideshow_8GYyKV",
     "featured_collection_AbN8iP",
-    "promo_grid_BftCNi",
     "promo_grid_pwwBNx",
     "slideshow_YNbwrF",
     "slideshow_gW9EVE",
