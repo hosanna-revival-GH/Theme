@@ -22,10 +22,10 @@
     "color_large_image_bg": "#0f0f0f",
     "color_header": "#ffffff",
     "color_header_text": "#000000",
-    "color_announcement": "#BE618C",
+    "color_announcement": "#867237",
     "color_announcement_text": "#ffffff",
     "color_footer": "#f8f1ea",
-    "color_footer_text": "#BE618C",
+    "color_footer_text": "#867237",
     "color_drawer_background": "#ffffff",
     "color_drawer_text": "#000000",
     "color_drawer_border": "#e8e8e1",
@@ -136,9 +136,7 @@
       "5460929749692845798": {
         "type": "shopify://apps/shopacado-discounts/blocks/enable/5950831a-4e4e-40a4-82b0-674110b50a14",
         "disabled": false,
-        "settings": {
-          "theme_id": "143344861362"
-        }
+        "settings": {}
       },
       "11560147490181472608": {
         "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/app-embed/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",

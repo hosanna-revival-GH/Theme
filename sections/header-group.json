@@ -47,25 +47,25 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "15% Off Sitewide",
-            "link_text": "fill your days with time in God's Word",
-            "link": "shopify://collections"
+            "text": "30% off the devotional library all month long",
+            "link_text": "Choose a study fit for the season you’re in",
+            "link": "shopify://collections/devotionals"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "FREE SHIPPING OVER $100",
-            "link_text": "Stock up and enjoy free shipping on us!",
-            "link": "shopify://collections"
+            "text": "Beautiful Spanish Bibles",
+            "link_text": " now available—choose yours",
+            "link": "shopify://collections/beautiful-spanish-bibles"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Join Create Through Scripture: Still Waters",
-            "link_text": "Jump into our free email series on Psalm 23",
-            "link": "shopify://pages/still-waters"
+            "text": "Explore our WHEN blog",
+            "link_text": "Scripture-based answers to life’s questions",
+            "link": "shopify://blogs/when-blog"
           }
         }
       },
