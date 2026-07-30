@@ -141,6 +141,45 @@
         "divider": false
       }
     },
+    "slideshow_YNbwrF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EBgzXT": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/beautiful-bibles",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Devo_Sale-12.png",
+            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_2.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_EBgzXT"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "promo_grid_pwwBNx": {
       "type": "promo-grid",
       "blocks": {
@@ -181,45 +220,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_YNbwrF": {
-      "type": "slideshow",
-      "blocks": {
-        "image_EBgzXT": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/beautiful-bibles",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_Sale-12.png",
-            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_2.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_EBgzXT"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "slideshow_gW9EVE": {
@@ -521,8 +521,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_Sale-02.png",
-            "image_mobile": "shopify://shop_images/Devo_Sale-01.png",
+            "image": "shopify://shop_images/Devo-Sale-02_63c63834-e738-4da7-90a0-c85dc69cc140.png",
+            "image_mobile": "shopify://shop_images/Devo-Sale-01_bdab3b6f-523f-4400-b33f-116fd54386dd.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -549,8 +549,8 @@
     "promo_grid_BftCNi",
     "slideshow_8GYyKV",
     "featured_collection_AbN8iP",
-    "promo_grid_pwwBNx",
     "slideshow_YNbwrF",
+    "promo_grid_pwwBNx",
     "slideshow_gW9EVE",
     "promo_grid_MmC94X",
     "slideshow_GcPDX3",
