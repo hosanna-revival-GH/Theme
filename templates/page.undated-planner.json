@@ -253,7 +253,7 @@
         "image_M4xbER"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": true,
         "style": "bars",
