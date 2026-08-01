@@ -103,7 +103,7 @@
             "title": "Compare all Devotionals",
             "text": "",
             "button_label": "explore",
-            "button_link": ""
+            "button_link": "shopify://pages/compare-hosanna-revival-devotionals"
           }
         },
         "text_block_zahrX8": {
@@ -116,7 +116,7 @@
             "title": "Compare all Books",
             "text": "",
             "button_label": "explore",
-            "button_link": ""
+            "button_link": "shopify://pages/compare-hosanna-revival-books"
           }
         },
         "text_block_eBVJx3": {
@@ -129,7 +129,7 @@
             "title": "Compare all Bible Studies",
             "text": "",
             "button_label": "explore",
-            "button_link": ""
+            "button_link": "shopify://pages/compare-hosanna-revival-bible-studies"
           }
         }
       },
@@ -628,7 +628,7 @@
             "title": "Publishing Library",
             "title_size": 50,
             "subheading": "",
-            "link": "",
+            "link": "shopify://collections/devotionals",
             "link_text": "browse",
             "link_2": "",
             "link_text_2": "",
