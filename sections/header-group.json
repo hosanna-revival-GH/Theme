@@ -44,6 +44,14 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_BUQCL9": {
+          "type": "announcement",
+          "settings": {
+            "text": "New planners are here",
+            "link_text": "choose a new planner and get 15% off + a beautiful notepad",
+            "link": "shopify://pages/planners"
+          }
+        },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
@@ -70,6 +78,7 @@
         }
       },
       "block_order": [
+        "announcement_BUQCL9",
         "announcement_mMUAeX",
         "announcement_FNqfy6",
         "announcement_NXQKWa"
