@@ -35,8 +35,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/whats-new_4aaece67-7263-4cc0-a650-df12bd422ff5.png",
-            "image_mobile": "shopify://shop_images/Spring_Collection_Launch-04.png",
+            "image": "shopify://shop_images/Whats-new_870ac95e-d1b0-4a62-b554-5682277217c4.png",
+            "image_mobile": "shopify://shop_images/Whats-new_870ac95e-d1b0-4a62-b554-5682277217c4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -56,6 +56,20 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "single_button_qAwKEz": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "New Planners",
+        "button_link": "shopify://collections/planners",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#a67469",
+        "link_color_text": "#ffffff"
       }
     },
     "single_button_GryJY9": {
@@ -96,21 +110,6 @@
         "space_below": 20,
         "link_color_background": "#a67469",
         "link_color_text": "#f8f1ea"
-      }
-    },
-    "single_button_qAwKEz": {
-      "type": "single-button",
-      "disabled": true,
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "10 articles on Spiritual Growth",
-        "button_link": "https://hosannarevival.blog/category/monthly-highlights/april-2026-spiritual-growth/",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#a67469",
-        "link_color_text": "#ffffff"
       }
     },
     "single_button_JD887j": {
@@ -223,10 +222,10 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_qAwKEz",
     "single_button_GryJY9",
     "single_button_3L6q9A",
     "single_button_QbwFRq",
-    "single_button_qAwKEz",
     "single_button_JD887j",
     "single_button_KDXcyH",
     "single_button_RAWt9g",

@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_Sale-03.png",
-            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_3.png",
+            "image": "shopify://shop_images/Devo_Sale-03_f7f6ea4b-a11b-4896-b86b-abe457c694a6.png",
+            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_3_72158208-2e9c-438c-bfe1-52f19321e72a.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -53,7 +53,7 @@
         "image_wLbLxt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale-04.png",
+            "image": "shopify://shop_images/Devo_Sale-04_3caf8b9b-1567-4592-8ed8-4cc20fb8df67.png",
             "link": "shopify://collections/books",
             "width": "33"
           }
@@ -61,7 +61,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale-05.png",
+            "image": "shopify://shop_images/Devo_Sale-05_89c7c2b3-1b82-4369-8df0-d5b657100f86.png",
             "link": "shopify://collections/bible-studies",
             "width": "33"
           }
@@ -69,7 +69,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale-06.png",
+            "image": "shopify://shop_images/Devo_Sale-06_327ad768-e7b7-4d1c-bb08-f7d49ffa6401.png",
             "link": "shopify://collections/devotionals",
             "width": "33"
           }
@@ -105,8 +105,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_Sale_Artboard_26_5cd8a06c-e14e-4db0-b34d-bef5a573b88d.png",
-            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy.png",
+            "image": "shopify://shop_images/Devo_Sale_Artboard_26_5f8d1064-a30c-4965-8cbf-a6f26ff1817c.png",
+            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_cd7c9206-0ebe-43bd-852d-2a214158d9ab.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
