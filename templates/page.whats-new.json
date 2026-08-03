@@ -100,6 +100,7 @@
     },
     "single_button_qAwKEz": {
       "type": "single-button",
+      "disabled": true,
       "name": "Custom Button",
       "settings": {
         "button_text": "10 articles on Spiritual Growth",
@@ -127,6 +128,7 @@
     },
     "single_button_KDXcyH": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "Sign up for Spanish Bible updates",
         "button_link": "shopify://pages/spanish-bible-interest",
