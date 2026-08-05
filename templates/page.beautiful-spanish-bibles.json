@@ -27,13 +27,14 @@
             "top_subheading": "Introducing",
             "title": "Beautiful Spanish Bibles",
             "title_size": 41,
-            "subheading": "Designed to point you towards the beauty of Scripture",
+            "subheading": "designed to point you towards the beauty of Scripture",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_3.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -54,10 +55,198 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "image_row_x3ahB6": {
+      "type": "image-row",
+      "blocks": {
+        "image_NRJU6Q": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_9.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_XGziMP": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_8.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        },
+        "image_KLxTTc": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_10.jpg",
+            "image_width": 650,
+            "caption": "Image Caption",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NRJU6Q",
+        "image_XGziMP",
+        "image_KLxTTc"
+      ],
+      "name": "Image gallery",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "enable_spacing": true,
+        "enable_zoom": false
+      }
+    },
+    "single_button_cUhhUq": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "Choose your Beautiful Spanish Bible",
+        "button_link": "/",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "rich_text_c8BwXy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hEtexK": {
+          "type": "heading",
+          "settings": {
+            "title": "An Invitation to God’s Word"
+          }
+        },
+        "text_mg6Xtk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>For years, we have dreamed of creating a beautiful Bible in Spanish. The first Bible hand-painted by our founder, Katie, was a bilingual English-Spanish translation. Now, eleven years later, our small business has grown, and we are excited to launch Hosanna Revival Spanish Bibles in three beloved designs.</p><p>Our prayer is that we can reach even more people and invite them into God’s Word through a beautiful cover. </p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_hEtexK",
+        "text_mg6Xtk"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#647B60",
+        "space_above": 30,
+        "space_below": 75
+      }
+    },
+    "featured_collection_rBmtQP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "",
+        "home_featured_products": "beautiful-spanish-bibles",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "rich_text_URhgdQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KhjWz6": {
+          "type": "heading",
+          "settings": {
+            "title": "All about our newest Spanish Translation"
+          }
+        },
+        "text_ijXyVk": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>As found on </em><a href=\"https://sites.tyndale.com/ntv/\" target=\"_blank\" title=\"https://sites.tyndale.com/ntv/\"><em>Tyndale’s site</em></a></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_KhjWz6",
+        "text_ijXyVk"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#7E9C79",
+        "color_text": "#FFFFFF",
+        "space_above": 50,
+        "space_below": 50
+      }
+    },
+    "rich_text_E6rYFk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_C9HPq4": {
+          "type": "heading",
+          "settings": {
+            "title": "About the Nueva Traducción Vivente"
+          }
+        },
+        "text_YKw6i9": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The <strong>Holy Bible, Nueva Traducción Viviente (NTV)</strong> is an outstanding Bible translation written in clear, natural Spanish while remaining faithful to the original biblical languages. It is the result of the work of a team of more than fifty distinguished Bible scholars.</p><p>The NTV's combination of scholarly accuracy and clarity brings even the most difficult biblical passages to life. More importantly, however, countless testimonies show how this Bible is changing people's lives by speaking directly to their hearts. That is why we call it <strong>\"The Truth Made Clear.\"</strong></p><p>The Nueva Traducción Viviente is ideal for people of every age and stage of life because it allows the entire family to read from the same biblical text. The NTV is available in a wide variety of print editions and mobile applications.</p><p>To learn more about the NTV, visit <strong>BibliaNTV.com</strong>. (<a href=\"https://www.tyndale.com/ntv?utm_source=chatgpt.com\">Tyndale</a>)</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_C9HPq4",
+        "text_YKw6i9"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_wVa8Nw"
+    "slideshow_wVa8Nw",
+    "image_row_x3ahB6",
+    "single_button_cUhhUq",
+    "rich_text_c8BwXy",
+    "featured_collection_rBmtQP",
+    "rich_text_URhgdQ",
+    "rich_text_E6rYFk"
   ]
 }
