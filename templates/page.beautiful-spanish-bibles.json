@@ -237,6 +237,152 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_JQeNLr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ceNraq": {
+          "type": "heading",
+          "settings": {
+            "title": "Translation Process"
+          }
+        },
+        "text_FccPE6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The <strong>Nueva Traducción Viviente (NTV)</strong> was translated directly from the best available Hebrew, Aramaic, and Greek texts by a team of more than thirty evangelical Bible scholars from throughout Latin America.</p><p>The translation process took approximately ten years and involved multiple stages of review. Each book of the Bible was carefully examined by specialists in biblical languages, theology, linguistics, style, and grammar to ensure that the translation was both accurate and clear.</p><p>Throughout the process, the translators worked together to faithfully communicate the meaning of the original biblical texts in natural, contemporary Spanish. The result is a Bible that is both reliable for study and accessible for everyday reading.</p><p>The NTV follows the same translation principles that guided the development of the English <strong>New Living Translation (NLT)</strong> while carefully adapting the language to communicate naturally and effectively in Spanish.”</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_ceNraq",
+        "text_FccPE6"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_BhpmY7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iVkUci": {
+          "type": "heading",
+          "settings": {
+            "title": "Translation Philosophy"
+          }
+        },
+        "text_HigyLc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The goal of the Nueva Traducción Viviente is to faithfully communicate the meaning of the original biblical authors in language that today's readers can easily understand.</p><p>Rather than translating word for word whenever possible, the NTV seeks to translate <strong>thought for thought</strong>. This approach allows modern readers to understand the message of Scripture as the original audience would have understood it.</p><p>The translators carefully considered the literary style, historical setting, grammar, vocabulary, and cultural context of each passage before determining the best way to express its meaning in contemporary Spanish.</p><p>When a literal translation would have been confusing or misleading to modern readers, the translators chose wording that clearly communicates the intended meaning while remaining faithful to the original text.”</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_iVkUci",
+        "text_HigyLc"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_AqdRhT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rAm6Lk": {
+          "type": "heading",
+          "settings": {
+            "title": "Accuracy and readability"
+          }
+        },
+        "text_yrjFQn": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“The NTV is built on a commitment to both <strong>accuracy</strong> and <strong>clarity</strong>.</p><p>Every translation involves balancing a faithful representation of the original languages with language that today's readers naturally understand. The NTV strives to achieve both goals simultaneously.</p><p>Its translation philosophy enables readers to experience the Bible with clarity while preserving the richness, beauty, and authority of God's Word.”</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_rAm6Lk",
+        "text_yrjFQn"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "slideshow_3VbCPy": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XzXUBB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/beautiful-spanish-bibles",
+            "link_text": "Shop beautiful Spanish Bibles",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_5.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_XzXUBB"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
@@ -247,6 +393,10 @@
     "rich_text_c8BwXy",
     "featured_collection_rBmtQP",
     "rich_text_URhgdQ",
-    "rich_text_E6rYFk"
+    "rich_text_E6rYFk",
+    "rich_text_JQeNLr",
+    "rich_text_BhpmY7",
+    "rich_text_AqdRhT",
+    "slideshow_3VbCPy"
   ]
 }
