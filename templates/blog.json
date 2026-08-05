@@ -37,7 +37,7 @@
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "section_height": "natural",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -76,7 +76,7 @@
         "heading_9yawBK": {
           "type": "heading",
           "settings": {
-            "title": "Marketing and copywriting itern"
+            "title": "Marketing and copywriting intern"
           }
         },
         "text_zrRnXp": {
