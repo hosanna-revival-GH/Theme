@@ -41,22 +41,43 @@
         "lazyload_images": true
       }
     },
+    "single_image_wiJVkr": {
+      "type": "single-image",
+      "blocks": {
+        "image_block_QmgPAd": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/logo-black_0221078c-6b12-404a-8772-81ad3ef01e6e.png",
+            "image_link": "",
+            "image_width": 200,
+            "space_above": 50,
+            "space_below": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_block_QmgPAd"
+      ],
+      "name": "Custom Image",
+      "settings": {
+        "section_title": "Featured Images"
+      }
+    },
     "rich_text_jDDMVz": {
       "type": "rich-text",
       "blocks": {
         "heading_jyQNt8": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "title": "Rich text"
+            "title": "Marketing and Copywriting Intern"
           }
         },
         "text_bTpBgV": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>We’re so grateful you want to shop Hosanna Revival in person! Please note that while these stores carry our products, we cannot guarantee that the specific item you’re looking for will be in stock. We recommend reaching out to the store directly for the most up-to-date information on what they currently have available.</p>",
-            "align_text_block": "inherit",
+            "enlarge_text": false,
+            "text": "<p>Hosanna Revival was created on the idea that as people of a broken world, we are in desperate need of revival. We exist to excite people about engaging in Scripture by creating beautiful and intentional tools for their lives. We design beautiful Bibles, journals, planners, devotionals, and more, and every product is designed with this mission in mind. Through our publishing efforts, we aim to make the Bible approachable by pairing Scripture-centered content with unique and purposeful design, with the hope that all people would grow in the knowledge and love of Christ.</p><p>Hosanna Revival is looking for a marketing intern to help carry forward our brand voice and vision — working directly alongside our Strategic Marketing Manager to capture the heart behind Hosanna Revival in writing. You'll help translate that vision into copy, campaigns, and content that reflects who we are.</p><p><strong>WHAT YOU CAN EXPECT</strong></p><ul><li>You will be given responsibility from day one that will make an impact on the Hosanna Revival brand and on the Kingdom of God.</li><li>You will be working within a company that is growing rapidly. Opportunities for growth, influence, tangible impact, and creativity are abundant.</li><li>You will work in a sometimes chaotic, always fast-paced, small business environment. You will work hard, learn a ton, and have a blast.</li></ul><p><strong>JOB RESPONSIBILITIES</strong></p><ul><li>Represent the Hosanna Revival brand and the gospel of Jesus Christ.</li><li>Participate in ideation of new creative campaigns, paying attention to the smallest details, knowing everything works together to achieve our goal of spreading the gospel.</li><li>Work alongside the marketing team to brainstorm fresh ideas for Hosanna Revival's customer lifecycle through web, email, SMS, ads, and social media.</li><li>Copywriting Assist: Assist in copywriting, learning the voice of Hosanna Revival, writing copy throughout multiple different channels including but not limited to SMS, Email, Social Media, and Websites.</li><li>Become trained in Shopify to assist in building and editing landing pages for the Hosanna Revival site.</li><li>SMS and Email Marketing Assist: Bring fresh ideas for creating touchpoints with customers through Email and SMS. Help the Strategic Marketing Manager strategize new campaigns.</li><li>TikTok: Assist the Creative Marketing Team with TikTok strategy. Work with the team to bring life to our TikTok through ideating, filming, and editing.</li></ul><p><strong>DESIRED SKILLS & EXPERIENCE</strong></p><ul><li>Entering final year of undergraduate studies</li><li>Pursuing a relevant field of study (marketing, communications, digital media, etc.)</li><li>Experience and fluency across multiple social media platforms</li><li>Passion for the mission of Hosanna Revival, working with excellence and seeing every task as an opportunity to advance the Kingdom of God</li><li>Comfortable brainstorming in groups, with confidence to share ideas</li><li>Highly motivated to find creative solutions to promote Hosanna Revival</li><li>Not easily overwhelmed by to-do lists and timelines</li><li>Organized and able to manage multiple projects at the same time</li><li>Skilled at remembering small details and making sure balls do not get dropped</li><li>Commitment to meeting timelines and deadlines</li><li>Excellent creative writing skills — able to communicate the gospel through writing and to appeal to different audiences</li><li>Strong at communicating ideas in a succinct way to people who think differently than you</li><li>Gumption to individually research best practices when roadblocks arise</li><li>Work with excellent grammar across multiple channels, reviewing content before publishing</li><li>Experience ideating and executing video content, comfort speaking on camera, and proficiency editing</li></ul><p><strong>JOB DETAILS</strong></p><p>Location: Cincinnati, OH (no remote candidates will be considered)<br/>Hours: 15 - 25 hrs/week<br/>Compensation: $18/hr<br/>Job Type: Part-time, internship<br/>Start and End Date: Preferred start date 9/14 - 2/1 (Potential to extend)</p><p><strong>TO APPLY</strong></p><p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe6tka3q3wHlUDfaSnNab0za3wMF_1uG57b9HEMITu54CR2ng/viewform\" target=\"_blank\">Please complete this preliminary interview by 8/12</a></p><p>Candidates moving on to the next round of interviews will be contacted by 8/13</p>",
+            "align_text_block": "left",
             "block_bottom_space": 30
           }
         }
@@ -65,7 +86,6 @@
         "heading_jyQNt8",
         "text_bTpBgV"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
@@ -75,25 +95,15 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
+        "space_above": 0,
         "space_below": 75
-      }
-    },
-    "blog_topics_directory_LUDrQc": {
-      "type": "blog-topics-directory",
-      "name": "Blog Topics Directory",
-      "settings": {
-        "blog": "",
-        "heading": "All Blog Topics",
-        "intro": "<p>Browse every topic we've written about.</p>",
-        "show_curated": true
       }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
-    "rich_text_jDDMVz",
-    "blog_topics_directory_LUDrQc"
+    "single_image_wiJVkr",
+    "rich_text_jDDMVz"
   ]
 }

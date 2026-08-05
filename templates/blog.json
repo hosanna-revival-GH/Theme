@@ -9,8 +9,47 @@
  */
 {
   "sections": {
+    "slideshow_DkBLDM": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gyg4WK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Careers",
+            "title_size": 50,
+            "subheading": "Thank you for your interest in joining the Hosanna Revival team. All current opportunities will be posted here.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Embroidered-Notebooks-Hosanna-Revival1016_1.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_gyg4WK"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "main": {
       "type": "blog-template",
+      "disabled": true,
       "settings": {
         "blog_show_tag_filter": false,
         "blog_show_rss": false,
@@ -19,11 +58,67 @@
         "blog_show_comments": false,
         "blog_show_author": false,
         "blog_show_excerpt": true,
-        "blog_image_size": "landscape"
+        "blog_image_size": "natural"
+      }
+    },
+    "rich_text_AfNp9k": {
+      "type": "rich-text",
+      "blocks": {
+        "text_nCTNJc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Currently open</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_9yawBK": {
+          "type": "heading",
+          "settings": {
+            "title": "Marketing and copywriting itern"
+          }
+        },
+        "text_zrRnXp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Hosanna Revival is looking for a marketing intern to help carry forward our brand voice and vision - working directly alongside our Strategic Marketing Manager to capture the heart behind Hosanna Revival in writing. You’ll help translate that vision into copy, campaigns, and content that reflects who we are.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_YqRcmP": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://blogs/careers",
+            "link_text": "Apply"
+          }
+        }
+      },
+      "block_order": [
+        "text_nCTNJc",
+        "heading_9yawBK",
+        "text_zrRnXp",
+        "button_YqRcmP"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
       }
     }
   },
   "order": [
-    "main"
+    "slideshow_DkBLDM",
+    "main",
+    "rich_text_AfNp9k"
   ]
 }
