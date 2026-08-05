@@ -36,6 +36,7 @@
       "block_order": [
         "image_nrxtXn"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -44,45 +45,6 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_GcPDX3": {
-      "type": "slideshow",
-      "blocks": {
-        "image_Nrgk3e": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/undated-planner",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Planner_Launch_Artboard_2_copy_43.png",
-            "image_mobile": "shopify://shop_images/Planner-Launch_Artboard-176-copy-9.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_Nrgk3e"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -113,6 +75,7 @@
       "block_order": [
         "image_QVcitx"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -127,6 +90,7 @@
     },
     "featured_collection_fq4ak3": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "find your new planner",
@@ -268,6 +232,45 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
+      }
+    },
+    "slideshow_GcPDX3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nrgk3e": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/undated-planner",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Planner_Launch_Artboard_2_copy_43.png",
+            "image_mobile": "shopify://shop_images/Planner-Launch_Artboard-176-copy-9.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Nrgk3e"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "slideshow_YNbwrF": {
@@ -556,13 +559,13 @@
   },
   "order": [
     "slideshow_gW9EVE",
-    "slideshow_GcPDX3",
     "slideshow_JzgDYA",
     "featured_collection_fq4ak3",
     "slideshow_X4MRpa",
     "promo_grid_BftCNi",
     "slideshow_8GYyKV",
     "featured_collection_AbN8iP",
+    "slideshow_GcPDX3",
     "slideshow_YNbwrF",
     "promo_grid_pwwBNx",
     "promo_grid_MmC94X",
