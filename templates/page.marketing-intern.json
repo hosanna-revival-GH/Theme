@@ -98,12 +98,51 @@
         "space_above": 0,
         "space_below": 75
       }
+    },
+    "slideshow_3REcKQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_DaV7bY": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Beautiful-Bibles_68e3396d-d2be-4925-ac6f-544de82faf08.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_DaV7bY"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
     "single_image_wiJVkr",
-    "rich_text_jDDMVz"
+    "rich_text_jDDMVz",
+    "slideshow_3REcKQ"
   ]
 }
