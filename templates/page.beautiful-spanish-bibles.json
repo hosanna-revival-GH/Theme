@@ -66,7 +66,7 @@
             "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_9.jpg",
             "image_width": 650,
             "caption": "Image Caption",
-            "link": ""
+            "link": "shopify://products/ntv-spanish-notetaking-bible-coram-theme"
           }
         },
         "image_XGziMP": {
@@ -76,7 +76,7 @@
             "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_8.jpg",
             "image_width": 650,
             "caption": "Image Caption",
-            "link": ""
+            "link": "shopify://products/ntv-spanish-notetaking-bible-aurora-theme"
           }
         },
         "image_KLxTTc": {
@@ -86,7 +86,7 @@
             "image": "shopify://shop_images/NTV_Spanish_Bibles_Hosanna_Revival_10.jpg",
             "image_width": 650,
             "caption": "Image Caption",
-            "link": ""
+            "link": "shopify://products/ntv-spanish-notetaking-bible-lisbon-theme"
           }
         }
       },
@@ -108,7 +108,7 @@
       "name": "Custom Button",
       "settings": {
         "button_text": "Choose your Beautiful Spanish Bible",
-        "button_link": "/",
+        "button_link": "shopify://collections/beautiful-spanish-bibles",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
