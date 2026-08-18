@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_MRNd63": {
@@ -50,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_LV9fMJ": {
@@ -101,7 +103,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 10,
-        "space_below": 20
+        "space_below": 20,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "text_and_image_zU4EYE": {
@@ -128,6 +132,16 @@
     "image_row_kw4pfp": {
       "type": "image-row",
       "blocks": {
+        "image_jzQ3pD": {
+          "type": "image",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Everyday-Banquet-Seasonal-Family-Discipleship-Devotional-Cookbook-SarahRuth-Owens-Styled-Shoot-Hosanna-Revival-071.jpg",
+            "image_width": 650,
+            "caption": "",
+            "link": ""
+          }
+        },
         "image_VkdRxh": {
           "type": "image",
           "settings": {
@@ -160,6 +174,7 @@
         }
       },
       "block_order": [
+        "image_jzQ3pD",
         "image_VkdRxh",
         "image_9Hhecz",
         "image_JV4QiC"
@@ -469,7 +484,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "rich_text_dgcFng": {
@@ -677,7 +693,9 @@
         "button_size": "large",
         "alignment": "center",
         "space_above": 10,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_hXXV9g": {
@@ -713,7 +731,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
