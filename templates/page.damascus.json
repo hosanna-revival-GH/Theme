@@ -1,0 +1,471 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true
+      }
+    },
+    "slideshow_RCfNgF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ij9NXK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "GOD OUR HOME",
+            "title_size": 80,
+            "subheading": "A 10 Week Study Through the Gospel of John",
+            "link": "https://hosannarevival.com/god-our-home-week-one",
+            "link_text": "download week one preview here",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-005.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ij9NXK"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_KYdJtQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MpP3q7": {
+          "type": "heading",
+          "settings": {
+            "title": "God Our home"
+          }
+        },
+        "text_TEj6rB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>God Our Home</em> is a 10-part Bible study on the Gospel of John for the one longing for a sense of rootedness that stretches beyond earthly security</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_6CEPzT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Intellectually, we know that God is our “firm foundation” and the “rock upon which we stand”—but what does that look like on any given Tuesday, in our apartment with friends, in the preschool pickup line, or at the breakfast table with a parent? In our newest Bible study, <em>God Our Home</em>, you will learn what it means to build your life on the truth and in the presence of God.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_MpP3q7",
+        "text_TEj6rB",
+        "text_6CEPzT"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "single_button_fjg6yG": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Preview Week One",
+        "button_link": "https://hosannarevival.com/god-our-home-week-one",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "featured_collection_HKyeNU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "katie-noble-collection",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "single_button_N7wpJC": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "hero_video_VAdaCG": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "AVAILABLE NOW",
+        "link": "https://hosannarevival.com/products/god-our-home",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c820e13e96a744889b2f0ce550bff9b9.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "da746f0b-4260-46bb-84ef-1971c4d26396": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "GOD OUR HOME",
+        "title": "This Devotional is for you if...",
+        "text": "<p>- You are longing for a sense of rootedness that stretches beyond earthly security<br/>- You are a disciple feeling disenchanted and a little lost<br/>- You are ready to stop making excuses and get to the bottom of their distrust of Jesus</p>",
+        "button_label": "CHOOSE THIS TOOL",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "98fc1525-b2f7-4d80-98e1-0c04723131b9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "THE DETAILS",
+        "title": "God Our Home",
+        "text": "<p><strong>Topic: </strong>The reality of God's nearness<strong><br/>Length of Study: </strong>10-week Bible Study<strong><br/>Focal Scripture: </strong>The Gospel of John</p><p>\"Our spiritual yearning for home exists because we were built by the hands of God to find our belonging in the heavenly home and the holy community prepared for us before the beginning of time.\"<em> </em>(16)</p><p><em>—Katie Noble, author </em></p>",
+        "button_label": "CHOOSE THIS TOOL",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fd8a4a54-1a72-4127-9d56-c56d54a85284": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "PEEK INSIDE",
+        "title": "The Devotional Structure",
+        "text": "<p><strong>Structure: </strong>10 week study<strong><br/>Elements: </strong><em>God Our Home</em> features section introductions, daily Scripture readings and reflection questions, weekly section reflections, and major discourse pauses to dive deeper into the Scripture. </p>",
+        "button_label": "choose this tool",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_bm4bgQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QzAQq8": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-552.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_QzAQq8"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "97a3c888-87e7-4e19-8b87-8bb3485410c8": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-04.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "GOD OUR HOME",
+        "title": "From The Introduction",
+        "text": "<p>\"The deep rest found exclusively in the presence and provision of God is available to us today, even if we find ourselves wandering and afraid. There is no amount of effort, moral performance, or financial or social status that will bring us closer to our home in God. It is fully accessible for you and for me, right now, as we are, by the abundant grace and mercy offered by the life, death, and resurrection of Christ.\" (16)</p><p>- <em>Katie Noble</em>, author</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ec723e1a-242d-4e25-893f-aa7c6662c78f": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "slideshow_edkEBU": {
+      "type": "slideshow",
+      "blocks": {
+        "image_C8d86c": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "BONUS CONTENT",
+            "title_size": 72,
+            "subheading": "For \"God Our Home\"",
+            "link": "https://www.instagram.com/katie.noble/",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-355.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_C8d86c"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "85eae3f3-17a5-4f53-88da-5cdeb31d135b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-05.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Bonus Content",
+        "title": "God Our Home Leader Guide",
+        "text": "<p>Are you a Bible Study leader looking for extra content to guide your group? Download the FREE<em> God Our Home</em> Leader Guide here.</p>",
+        "button_label": "Download Here",
+        "button_link": "https://hosannarevival.com/god-our-home-leader-guide",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "300b442e-c30a-43b8-aef7-784a2c15a66b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-06.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "MEET THE AUTHOR",
+        "title": "Katie Noble",
+        "text": "<p>Katie Noble is the founder and lead writer of Goodness Co. and the author of Pray Like This: Christ’s Guide to Praying the Scriptures, a devotional on the Lord’s Prayer published by Hosanna Revival. She lives and writes in central Ohio with her husband, David, and three children.</p>",
+        "button_label": "FOLLOW KATIE HERE",
+        "button_link": "https://www.instagram.com/katie.noble/",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fa90acba-9c86-4dbf-915e-68c375d60143": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/GOH-Landing-Page-Photos-07.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "MEET THE AUTHOR",
+        "title": "Katie's Story",
+        "text": "<p>I’ve never felt more alone than I did in the summer of 2020. We’d just moved to a new city in the thick of the pandemic. I spent those months unpacking boxes of familiar things into an unfamiliar house, carting two young sons to unfamiliar playgrounds with unfamiliar faces—half covered by masks—we weren’t allowed to get to know. We’d left a solid church, a rich community, and our families without the chance to say goodbye in order that we might bring the Gospel to a city a few hours north. I longed to go home that first year—begging God to make a way for us to go back to where we felt safe and comfortable.</p><p>Early one morning, as I read and cried in our living room, God pulled back the curtain on his purposes for me in this season of upheaval. “You’ve gotten to know the <em>things</em> of my Kingdom,” he whispered, “but I brought you here that you might finally get to know<em> me</em>.”</p><p>I’d had the rhythms, schedule, and intellectual understanding of any “good Christian”—I had the answers and the resume. But those are all circumstances, not a relationship. When our world turned on its side, I wanted a change of <em>circumstance</em>—the way I’d always experienced him<em>.</em> Instead, God gave me a change of awareness: a new sense of intimate knowledge of the God who’d brought us here in the first place.</p><p>Life in our new home has grown and flourished under God’s care. We’ve learned to love this place and these people. But our place and people are no match for the certainty of peace and belonging that come from being with the God who created, sees, and provides for us. He has become my home, and it’s made all the difference. I pray that in studying the gospel of John through <em>God Our Home</em>, you might also find the home you’re longing for.<br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "362b51ae-2645-4f20-913e-add26fcf5641": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "BUY NOW",
+        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "slideshow_hEcbWD": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dQpKfN": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/products/god-our-home",
+            "link_text": "SHOP GOD OUR HOME",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-368.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_dQpKfN"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "single_button_MMjYej": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "Back to Devotional Library",
+        "button_link": "shopify://collections/devotionals",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 60,
+        "space_below": 60
+      }
+    },
+    "featured_collection_RDWQem": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop all devotionals",
+        "home_featured_products": "devotionals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_RCfNgF",
+    "rich_text_KYdJtQ",
+    "single_button_fjg6yG",
+    "featured_collection_HKyeNU",
+    "single_button_N7wpJC",
+    "hero_video_VAdaCG",
+    "da746f0b-4260-46bb-84ef-1971c4d26396",
+    "98fc1525-b2f7-4d80-98e1-0c04723131b9",
+    "fd8a4a54-1a72-4127-9d56-c56d54a85284",
+    "slideshow_bm4bgQ",
+    "97a3c888-87e7-4e19-8b87-8bb3485410c8",
+    "ec723e1a-242d-4e25-893f-aa7c6662c78f",
+    "slideshow_edkEBU",
+    "85eae3f3-17a5-4f53-88da-5cdeb31d135b",
+    "300b442e-c30a-43b8-aef7-784a2c15a66b",
+    "fa90acba-9c86-4dbf-915e-68c375d60143",
+    "362b51ae-2645-4f20-913e-add26fcf5641",
+    "slideshow_hEcbWD",
+    "single_button_MMjYej",
+    "featured_collection_RDWQem"
+  ]
+}
