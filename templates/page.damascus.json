@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": true,
-        "page_content_enable": true
+        "page_content_enable": true,
+        "background_color": ""
       }
     },
     "slideshow_RCfNgF": {
@@ -24,9 +25,9 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "GOD OUR HOME",
+            "title": "Damascus",
             "title_size": 80,
-            "subheading": "A 10 Week Study Through the Gospel of John",
+            "subheading": "An Advent Journey Through the Life and Letters of Paul,",
             "link": "https://hosannarevival.com/god-our-home-week-one",
             "link_text": "download week one preview here",
             "link_2": "",
@@ -35,7 +36,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-005.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_KYdJtQ": {
@@ -58,23 +61,23 @@
         "heading_MpP3q7": {
           "type": "heading",
           "settings": {
-            "title": "God Our home"
-          }
-        },
-        "text_TEj6rB": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><em>God Our Home</em> is a 10-part Bible study on the Gospel of John for the one longing for a sense of rootedness that stretches beyond earthly security</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "title": "Damascus"
           }
         },
         "text_6CEPzT": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Intellectually, we know that God is our “firm foundation” and the “rock upon which we stand”—but what does that look like on any given Tuesday, in our apartment with friends, in the preschool pickup line, or at the breakfast table with a parent? In our newest Bible study, <em>God Our Home</em>, you will learn what it means to build your life on the truth and in the presence of God.</p>",
+            "text": "<p><em>Are you burnt out on the consumerism and busyness of the holiday season and longing to experience the true hope of Christmas?</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "text_TEj6rB": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>Damascus: An Advent Journey Through the Life and Letters of Paul</em> is a devotional that invites us to connect the miracle of Christ’s birth with the gift of our salvation. Inspired by Paul’s dramatic transformation on the road to Damascus in Acts 9, this devotional offers a fresh approach to the ancient practice of Advent.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -82,8 +85,8 @@
       },
       "block_order": [
         "heading_MpP3q7",
-        "text_TEj6rB",
-        "text_6CEPzT"
+        "text_6CEPzT",
+        "text_TEj6rB"
       ],
       "settings": {
         "align_text": "center",
@@ -105,7 +108,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 50
+        "space_below": 50,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "featured_collection_HKyeNU": {
@@ -128,7 +133,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 50
+        "space_below": 50,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "hero_video_VAdaCG": {
@@ -153,7 +160,7 @@
         "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "GOD OUR HOME",
+        "subtitle": "Damascus",
         "title": "This Devotional is for you if...",
         "text": "<p>- You are longing for a sense of rootedness that stretches beyond earthly security<br/>- You are a disciple feeling disenchanted and a little lost<br/>- You are ready to stop making excuses and get to the bottom of their distrust of Jesus</p>",
         "button_label": "CHOOSE THIS TOOL",
@@ -175,8 +182,8 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "THE DETAILS",
-        "title": "God Our Home",
-        "text": "<p><strong>Topic: </strong>The reality of God's nearness<strong><br/>Length of Study: </strong>10-week Bible Study<strong><br/>Focal Scripture: </strong>The Gospel of John</p><p>\"Our spiritual yearning for home exists because we were built by the hands of God to find our belonging in the heavenly home and the holy community prepared for us before the beginning of time.\"<em> </em>(16)</p><p><em>—Katie Noble, author </em></p>",
+        "title": "Damascus",
+        "text": "<p><strong>Topic: </strong>Advent<strong><br/>Length of Study: </strong>4-week Bible Study<strong><br/>Focal Scripture: </strong>The Life and Letters of Paul</p><p>\"Our spiritual yearning for home exists because we were built by the hands of God to find our belonging in the heavenly home and the holy community prepared for us before the beginning of time.\"<em> </em>(16)</p><p><em>—Katie Noble, author </em></p>",
         "button_label": "CHOOSE THIS TOOL",
         "button_link": "https://hosannarevival.com/products/god-our-home",
         "button_style": "primary",
@@ -228,7 +235,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-552.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -242,7 +250,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "97a3c888-87e7-4e19-8b87-8bb3485410c8": {
@@ -274,7 +283,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
-        "space_below": 50
+        "space_below": 50,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_edkEBU": {
@@ -295,7 +306,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-355.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -309,7 +321,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "85eae3f3-17a5-4f53-88da-5cdeb31d135b": {
@@ -383,7 +396,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
-        "space_below": 30
+        "space_below": 30,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "slideshow_hEcbWD": {
@@ -404,7 +419,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-368.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -418,7 +434,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": true,
+        "disable_animation": false
       }
     },
     "single_button_MMjYej": {
@@ -429,7 +446,9 @@
         "button_size": "huge",
         "alignment": "center",
         "space_above": 60,
-        "space_below": 60
+        "space_below": 60,
+        "link_color_background": "#9ba586",
+        "link_color_text": "#ffffff"
       }
     },
     "featured_collection_RDWQem": {
