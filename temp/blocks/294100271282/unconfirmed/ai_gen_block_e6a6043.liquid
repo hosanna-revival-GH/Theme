@@ -1,6 +1,234 @@
+{% doc %}
+  @prompt
+    Video hero Block with no text over top. Option to add a mobile version , make it so the desktop video doesn't show on a mobile view and the mobile video doesn't show on desktop view
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-video-hero-{{ ai_gen_id }} {
+    display: block;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background-color: {{ block.settings.background_color }};
+  }
+
+  .ai-video-hero-container-{{ ai_gen_id }} {
+    position: relative;
+    width: 100%;
+    height: {{ block.settings.desktop_height }}vh;
+  }
+
+  .ai-video-hero-video-{{ ai_gen_id }} {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .ai-video-hero-placeholder-{{ ai_gen_id }} {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-video-hero-placeholder-{{ ai_gen_id }} svg {
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    max-height: 500px;
+  }
+
+  .ai-video-hero-empty-state-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 12px 20px;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+    pointer-events: none;
+  }
+
+  .ai-video-hero-video-mobile-{{ ai_gen_id }} {
+    display: none;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-video-hero-container-{{ ai_gen_id }} {
+      height: {{ block.settings.mobile_height }}vh;
+    }
+
+    .ai-video-hero-video-desktop-{{ ai_gen_id }} {
+      display: none;
+    }
+
+    .ai-video-hero-video-mobile-{{ ai_gen_id }} {
+      display: block;
+    }
+  }
+{% endstyle %}
+
+<video-hero-{{ ai_gen_id }}
+  class="ai-video-hero-{{ ai_gen_id }}"
+  {{ block.shopify_attributes }}
+>
+  <div class="ai-video-hero-container-{{ ai_gen_id }}">
+    {% if block.settings.desktop_video != blank or block.settings.mobile_video != blank %}
+      {% if block.settings.desktop_video != blank %}
+        <video
+          class="ai-video-hero-video-{{ ai_gen_id }} ai-video-hero-video-desktop-{{ ai_gen_id }}"
+          autoplay
+          muted
+          loop
+          playsinline
+          {% if block.settings.video_poster != blank %}
+            poster="{{ block.settings.video_poster | image_url: width: 2000 }}"
+          {% endif %}
+        >
+          <source
+            src="{{ block.settings.desktop_video }}"
+            type="video/mp4"
+          >
+        </video>
+      {% endif %}
+
+      {% if block.settings.mobile_video != blank %}
+        <video
+          class="ai-video-hero-video-{{ ai_gen_id }} ai-video-hero-video-mobile-{{ ai_gen_id }}"
+          autoplay
+          muted
+          loop
+          playsinline
+          {% if block.settings.mobile_video_poster != blank %}
+            poster="{{ block.settings.mobile_video_poster | image_url: width: 1000 }}"
+          {% endif %}
+        >
+          <source
+            src="{{ block.settings.mobile_video }}"
+            type="video/mp4"
+          >
+        </video>
+      {% endif %}
+    {% else %}
+      <div class="ai-video-hero-placeholder-{{ ai_gen_id }}">
+        {{ 'hero-apparel-1' | placeholder_svg_tag }}
+        <div class="ai-video-hero-empty-state-{{ ai_gen_id }}">
+          Next, add a video
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</video-hero-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class VideoHero{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+      }
+
+      connectedCallback() {
+        this.videos = this.querySelectorAll('.ai-video-hero-video-{{ ai_gen_id }}');
+        this.setupVideos();
+      }
+
+      setupVideos() {
+        this.videos.forEach((video) => {
+          video.addEventListener('loadedmetadata', () => {
+            video.play().catch(() => {
+              console.log('Video autoplay prevented');
+            });
+          });
+        });
+      }
+    }
+
+    customElements.define('video-hero-{{ ai_gen_id }}', VideoHero{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Video hero",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Desktop video"
+    },
+    {
+      "type": "url",
+      "id": "desktop_video",
+      "label": "Desktop video URL"
+    },
+    {
+      "type": "image_picker",
+      "id": "video_poster",
+      "label": "Desktop video poster image"
+    },
+    {
+      "type": "range",
+      "id": "desktop_height",
+      "label": "Desktop height",
+      "min": 30,
+      "max": 100,
+      "step": 5,
+      "unit": "vh",
+      "default": 70
+    },
+    {
+      "type": "header",
+      "content": "Mobile video"
+    },
+    {
+      "type": "paragraph",
+      "content": "Add a mobile-optimized video for better performance on mobile devices. If no mobile video is added, the desktop video will be used."
+    },
+    {
+      "type": "url",
+      "id": "mobile_video",
+      "label": "Mobile video URL"
+    },
+    {
+      "type": "image_picker",
+      "id": "mobile_video_poster",
+      "label": "Mobile video poster image"
+    },
+    {
+      "type": "range",
+      "id": "mobile_height",
+      "label": "Mobile height",
+      "min": 30,
+      "max": 100,
+      "step": 5,
+      "unit": "vh",
+      "default": 50
+    },
+    {
+      "type": "header",
+      "content": "Style"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#000000"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Video hero"
+    }
+  ]
+}
 {% endschema %}
