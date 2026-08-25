@@ -34,7 +34,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-005.jpg",
+            "image": "shopify://shop_images/Damascus_Advent_Study_Book_5.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -103,33 +103,8 @@
     "single_button_fjg6yG": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preview Week One",
+        "button_text": "Preorder Damascus",
         "button_link": "https://hosannarevival.com/god-our-home-week-one",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 0,
-        "space_below": 50,
-        "link_color_background": "#9ba586",
-        "link_color_text": "#ffffff"
-      }
-    },
-    "featured_collection_HKyeNU": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "katie-noble-collection",
-        "per_row": 3,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
-    "single_button_N7wpJC": {
-      "type": "single-button",
-      "settings": {
-        "button_text": "BUY NOW",
-        "button_link": "https://hosannarevival.com/products/god-our-home",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 0,
@@ -465,6 +440,51 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "1787669511dc6def6c": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c55f3c4_UrxXN9": {
+          "type": "ai_gen_block_c55f3c4",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/e3aa7d83aa594393a7c274782467ceb7.mp4",
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "controls": false,
+            "desktop_width_percent": 100,
+            "aspect_ratio": "56.25",
+            "mobile_aspect_ratio": "100",
+            "background_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c55f3c4_UrxXN9"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "1787669694f93675b1": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_e6a6043_PVt43K": {
+          "type": "ai_gen_block_e6a6043",
+          "settings": {
+            "desktop_video": "https://cdn.shopify.com/videos/c/o/v/e3aa7d83aa594393a7c274782467ceb7.mp4",
+            "desktop_height": 70,
+            "mobile_video": "https://cdn.shopify.com/videos/c/o/v/0b5390e71cfc4fb5b0517d027cb05dc3.mp4",
+            "mobile_height": 50,
+            "background_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_e6a6043_PVt43K"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -472,8 +492,6 @@
     "slideshow_RCfNgF",
     "rich_text_KYdJtQ",
     "single_button_fjg6yG",
-    "featured_collection_HKyeNU",
-    "single_button_N7wpJC",
     "hero_video_VAdaCG",
     "da746f0b-4260-46bb-84ef-1971c4d26396",
     "98fc1525-b2f7-4d80-98e1-0c04723131b9",
@@ -488,6 +506,8 @@
     "362b51ae-2645-4f20-913e-add26fcf5641",
     "slideshow_hEcbWD",
     "single_button_MMjYej",
-    "featured_collection_RDWQem"
+    "featured_collection_RDWQem",
+    "1787669511dc6def6c",
+    "1787669694f93675b1"
   ]
 }
