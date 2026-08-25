@@ -224,43 +224,6 @@
         "lazyload_images": true
       }
     },
-    "slideshow_bm4bgQ": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QzAQq8": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-552.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QzAQq8"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "97a3c888-87e7-4e19-8b87-8bb3485410c8": {
       "type": "text-and-image",
       "settings": {
@@ -293,43 +256,6 @@
         "space_below": 50,
         "link_color_background": "#9ba586",
         "link_color_text": "#ffffff"
-      }
-    },
-    "slideshow_edkEBU": {
-      "type": "slideshow",
-      "blocks": {
-        "image_C8d86c": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "BONUS CONTENT",
-            "title_size": 72,
-            "subheading": "For \"God Our Home\"",
-            "link": "https://www.instagram.com/katie.noble/",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-355.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_C8d86c"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "85eae3f3-17a5-4f53-88da-5cdeb31d135b": {
@@ -507,10 +433,8 @@
     "da746f0b-4260-46bb-84ef-1971c4d26396",
     "98fc1525-b2f7-4d80-98e1-0c04723131b9",
     "fd8a4a54-1a72-4127-9d56-c56d54a85284",
-    "slideshow_bm4bgQ",
     "97a3c888-87e7-4e19-8b87-8bb3485410c8",
     "ec723e1a-242d-4e25-893f-aa7c6662c78f",
-    "slideshow_edkEBU",
     "85eae3f3-17a5-4f53-88da-5cdeb31d135b",
     "300b442e-c30a-43b8-aef7-784a2c15a66b",
     "fa90acba-9c86-4dbf-915e-68c375d60143",
