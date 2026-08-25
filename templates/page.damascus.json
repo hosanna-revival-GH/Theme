@@ -9,6 +9,26 @@
  */
 {
   "sections": {
+    "1787669694f93675b1": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_e6a6043_PVt43K": {
+          "type": "ai_gen_block_e6a6043",
+          "settings": {
+            "desktop_video": "https://cdn.shopify.com/videos/c/o/v/e3aa7d83aa594393a7c274782467ceb7.mp4",
+            "desktop_height": 70,
+            "mobile_video": "https://cdn.shopify.com/videos/c/o/v/0b5390e71cfc4fb5b0517d027cb05dc3.mp4",
+            "mobile_height": 50,
+            "background_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_e6a6043_PVt43K"
+      ],
+      "settings": {}
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -18,52 +38,9 @@
         "background_color": ""
       }
     },
-    "slideshow_RCfNgF": {
-      "type": "slideshow",
-      "blocks": {
-        "image_ij9NXK": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Damascus",
-            "title_size": 80,
-            "subheading": "An Advent Journey Through the Life and Letters of Paul,",
-            "link": "https://hosannarevival.com/god-our-home-week-one",
-            "link_text": "download week one preview here",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Damascus_Advent_Study_Book_5.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_ij9NXK"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "rich_text_KYdJtQ": {
       "type": "rich-text",
       "blocks": {
-        "heading_MpP3q7": {
-          "type": "heading",
-          "settings": {
-            "title": "Damascus"
-          }
-        },
         "text_6CEPzT": {
           "type": "text",
           "settings": {
@@ -84,7 +61,6 @@
         }
       },
       "block_order": [
-        "heading_MpP3q7",
         "text_6CEPzT",
         "text_TEj6rB"
       ],
@@ -96,8 +72,62 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
+        "space_above": 30,
         "space_below": 75
+      }
+    },
+    "featured_product_YYawkQ": {
+      "type": "featured-product",
+      "blocks": {
+        "price_V3Khcg": {
+          "type": "price",
+          "settings": {}
+        },
+        "description_H9GFBe": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_wFwwqe": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_gre4V6": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_V3Khcg",
+        "description_H9GFBe",
+        "variant_picker_wFwwqe",
+        "buy_buttons_gre4V6"
+      ],
+      "name": "t:sections.featured-product.presets.featured_product.name",
+      "settings": {
+        "featured_product": "god-our-home",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "full",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
       }
     },
     "single_button_fjg6yG": {
@@ -133,7 +163,7 @@
     "da746f0b-4260-46bb-84ef-1971c4d26396": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/GOH-Landing-Page-Photos-01.png",
+        "image": "shopify://shop_images/Damascus_Advent_Study_Book.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Damascus",
@@ -154,7 +184,7 @@
     "98fc1525-b2f7-4d80-98e1-0c04723131b9": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/GOH-Landing-Page-Photos-02.png",
+        "image": "shopify://shop_images/Damascus_Advent_Study_Book_1.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "THE DETAILS",
@@ -465,32 +495,13 @@
       ],
       "disabled": true,
       "settings": {}
-    },
-    "1787669694f93675b1": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_e6a6043_PVt43K": {
-          "type": "ai_gen_block_e6a6043",
-          "settings": {
-            "desktop_video": "https://cdn.shopify.com/videos/c/o/v/e3aa7d83aa594393a7c274782467ceb7.mp4",
-            "desktop_height": 70,
-            "mobile_video": "https://cdn.shopify.com/videos/c/o/v/0b5390e71cfc4fb5b0517d027cb05dc3.mp4",
-            "mobile_height": 50,
-            "background_color": "#000000"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_e6a6043_PVt43K"
-      ],
-      "settings": {}
     }
   },
   "order": [
+    "1787669694f93675b1",
     "main",
-    "slideshow_RCfNgF",
     "rich_text_KYdJtQ",
+    "featured_product_YYawkQ",
     "single_button_fjg6yG",
     "hero_video_VAdaCG",
     "da746f0b-4260-46bb-84ef-1971c4d26396",
@@ -507,7 +518,6 @@
     "slideshow_hEcbWD",
     "single_button_MMjYej",
     "featured_collection_RDWQem",
-    "1787669511dc6def6c",
-    "1787669694f93675b1"
+    "1787669511dc6def6c"
   ]
 }
