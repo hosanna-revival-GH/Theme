@@ -264,7 +264,7 @@
     "97a3c888-87e7-4e19-8b87-8bb3485410c8": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/GOH-Landing-Page-Photos-04.png",
+        "image": "shopify://shop_images/Damascus_Advent_Study_Book_6.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "GOD OUR HOME",
@@ -357,7 +357,7 @@
     "300b442e-c30a-43b8-aef7-784a2c15a66b": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/GOH-Landing-Page-Photos-06.png",
+        "image": "shopify://shop_images/Author_Shoot_Hannah_1.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "MEET THE AUTHOR",
@@ -378,7 +378,7 @@
     "fa90acba-9c86-4dbf-915e-68c375d60143": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/GOH-Landing-Page-Photos-07.png",
+        "image": "shopify://shop_images/Author_Shoot_Hannah.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "MEET THE AUTHOR",
@@ -420,12 +420,12 @@
             "title_size": 80,
             "subheading": "",
             "link": "https://hosannarevival.com/products/god-our-home",
-            "link_text": "SHOP GOD OUR HOME",
+            "link_text": "Preorder Damascus",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/God-Our-Home-Beautiful-Scripture-Devotional-Katie-Noble-Hosanna-Revival-368.jpg",
+            "image": "shopify://shop_images/Damascus_Advent_Study_Book_5.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
