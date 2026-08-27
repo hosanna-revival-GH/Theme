@@ -421,6 +421,28 @@
       ],
       "disabled": true,
       "settings": {}
+    },
+    "text_and_image_3MkzaG": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Hannah_Author_Shoot_5.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>That was the impetus for writing <em>Damascus</em>: to remind us all that Advent can be so much more than an ancient practice or an annual tradition, if we let it. It can be a sacred season during which we discover how Christmas is more than a story of a birth—it’s a story of rebirth, too. A story of miraculous transformation and undeserved redemption, much like the one Paul experienced on the road to Damascus. Paul, too, was well acquainted with the rules and religious practices but lacked a real relationship with Jesus until that miraculous encounter. I want us to have a similar encounter this Advent; one that takes this season from stressful to sacred and from performative to transformative.</p><p>I hope that you’ll join me this Advent as we discover how Christmas still has the power to change everything. Let’s not merely survive the holiday season—let’s embrace the wonder of Christmas and celebrate the hope that it gives us, not just for this life, but for the next. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -442,6 +464,7 @@
     "slideshow_hEcbWD",
     "single_button_MMjYej",
     "featured_collection_RDWQem",
-    "1787669511dc6def6c"
+    "1787669511dc6def6c",
+    "text_and_image_3MkzaG"
   ]
 }
