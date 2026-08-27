@@ -347,8 +347,8 @@
     "362b51ae-2645-4f20-913e-add26fcf5641": {
       "type": "single-button",
       "settings": {
-        "button_text": "BUY NOW",
-        "button_link": "https://hosannarevival.com/products/god-our-home",
+        "button_text": "PREORDER",
+        "button_link": "https://hosannarevival.com/products/damascus-by-hannah-jessen-conway",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
@@ -367,7 +367,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://hosannarevival.com/products/god-our-home",
+            "link": "https://hosannarevival.com/products/damascus-by-hannah-jessen-conway",
             "link_text": "Preorder Damascus",
             "link_2": "",
             "link_text_2": "",
