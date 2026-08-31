@@ -48,46 +48,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_JzgDYA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_QVcitx": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/undated-planner",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Planner_Launch_Artboard_2_copy_50.png",
-            "image_mobile": "shopify://shop_images/Planner_Launch_Artboard_176_copy_10.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QVcitx"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "featured_collection_fq4ak3": {
       "type": "featured-collection",
       "disabled": true,
@@ -118,8 +78,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_Sale-03_f7f6ea4b-a11b-4896-b86b-abe457c694a6.png",
-            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_3_72158208-2e9c-438c-bfe1-52f19321e72a.png",
+            "image": "shopify://shop_images/Post_Devo_Sale-06.png",
+            "image_mobile": "shopify://shop_images/Post_Devo_Sale_Artboard_19_copy_3.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -140,13 +100,52 @@
         "disable_animation": false
       }
     },
+    "slideshow_JzgDYA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_QVcitx": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/undated-planner",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Post_Devo_Sale-08.png",
+            "image_mobile": "shopify://shop_images/Post_Devo_Sale_Artboard_19_copy_2.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_QVcitx"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "promo_grid_BftCNi": {
       "type": "promo-grid",
       "blocks": {
         "image_wLbLxt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale-04_3caf8b9b-1567-4592-8ed8-4cc20fb8df67.png",
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_36.png",
             "link": "shopify://collections/books",
             "width": "33"
           }
@@ -154,7 +153,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale-05_89c7c2b3-1b82-4369-8df0-d5b657100f86.png",
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_47.png",
             "link": "shopify://collections/bible-studies",
             "width": "33"
           }
@@ -162,7 +161,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale-06_327ad768-e7b7-4d1c-bb08-f7d49ffa6401.png",
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_48.png",
             "link": "shopify://collections/devotionals",
             "width": "33"
           }
@@ -174,6 +173,47 @@
         "image_9fzeMq"
       ],
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "promo_grid_cMUWra": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_eFkJk4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_38.png",
+            "link": "shopify://collections/notebooks",
+            "width": "33"
+          }
+        },
+        "image_jfUqn4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_51.png",
+            "link": "shopify://collections/stocking-stuffers",
+            "width": "33"
+          }
+        },
+        "image_6AwjAt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_52.png",
+            "link": "shopify://collections/planners",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_eFkJk4",
+        "image_jfUqn4",
+        "image_6AwjAt"
+      ],
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -198,8 +238,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo_Sale_Artboard_26_5f8d1064-a30c-4965-8cbf-a6f26ff1817c.png",
-            "image_mobile": "shopify://shop_images/Devo_Sale_Artboard_19_copy_cd7c9206-0ebe-43bd-852d-2a214158d9ab.png",
+            "image": "shopify://shop_images/Post_Devo_Sale-19.png",
+            "image_mobile": "shopify://shop_images/Post_Devo_Sale_Artboard_19_copy_4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -221,8 +261,51 @@
         "disable_animation": false
       }
     },
+    "promo_grid_MmC94X": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_J9rbT7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_54.png",
+            "link": "shopify://products/motherhood-and-the-good-life",
+            "width": "33"
+          }
+        },
+        "image_AbVRfx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_53.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "33"
+          }
+        },
+        "image_wHrqXB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_39.png",
+            "link": "shopify://products/nlt-notetaking-bible-belfast-theme",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_J9rbT7",
+        "image_AbVRfx",
+        "image_wHrqXB"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "our Library",
@@ -261,6 +344,7 @@
       "block_order": [
         "image_Nrgk3e"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -300,6 +384,7 @@
       "block_order": [
         "image_EBgzXT"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -315,79 +400,27 @@
     "promo_grid_pwwBNx": {
       "type": "promo-grid",
       "blocks": {
-        "image_jTMdmz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Devo-Sale_Artboard-2-copy-45.png",
-            "link": "shopify://collections/notebooks",
-            "width": "33"
-          }
-        },
         "image_e7NFe9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale_Artboard_2_copy_35.png",
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_37.png",
             "link": "shopify://collections/one-thing-i-ask",
-            "width": "33"
+            "width": "50"
           }
         },
         "image_PaJnE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Devo_Sale_Artboard_2_copy_46.png",
+            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_49_e81f076d-bf1e-4f68-897f-c77c6ea0de55.png",
             "link": "https://hosannarevival.com/blogs/when-blog/tagged/new-to-following-jesus",
-            "width": "33"
+            "width": "50"
           }
         }
       },
       "block_order": [
-        "image_jTMdmz",
         "image_e7NFe9",
         "image_PaJnE3"
       ],
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "promo_grid_MmC94X": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_J9rbT7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/05.png",
-            "link": "shopify://products/motherhood-and-the-good-life",
-            "width": "33"
-          }
-        },
-        "image_AbVRfx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/06_b5f53b13-7efe-4502-b1b8-747d5b7daaf0.png",
-            "link": "shopify://collections/beautiful-bibles",
-            "width": "33"
-          }
-        },
-        "image_wHrqXB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/07.png",
-            "link": "shopify://products/nlt-notetaking-bible-belfast-theme",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_J9rbT7",
-        "image_AbVRfx",
-        "image_wHrqXB"
-      ],
-      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -449,75 +482,6 @@
         "lazyload_images": true
       }
     },
-    "promo_grid_cMUWra": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_GzxX7N": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-012_bf3fd4de-116f-4647-8822-b3d9bf9e9ab6.png",
-            "link": "shopify://pages/your-one-thing-i-ask-journal",
-            "width": "33"
-          }
-        },
-        "image_wzNDzm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/December_02_and_beyond-04_44fbd8a7-4952-4574-8cf8-a5e30faefbc7.png",
-            "link": "shopify://collections/beautiful-bibles",
-            "width": "33"
-          }
-        },
-        "image_T9PWGX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BFCM-Begins-Homepage-014.png",
-            "link": "shopify://collections/devotionals",
-            "width": "33"
-          }
-        },
-        "image_eFkJk4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/December_02_and_beyond-06_f001d6ce-072d-4153-91aa-475fbca068d0.png",
-            "link": "shopify://collections/notebooks",
-            "width": "33"
-          }
-        },
-        "image_jfUqn4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/December_02_and_beyond-07_e577a3f4-fc88-4c3c-a696-57f520836d2d.png",
-            "link": "shopify://collections/stocking-stuffers",
-            "width": "33"
-          }
-        },
-        "image_6AwjAt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/December_02_and_beyond-08_2fe9f28e-99e1-4690-a837-aa7744082a54.png",
-            "link": "shopify://collections/planners",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_GzxX7N",
-        "image_wzNDzm",
-        "image_T9PWGX",
-        "image_eFkJk4",
-        "image_jfUqn4",
-        "image_6AwjAt"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -534,8 +498,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Devo-Sale-02_63c63834-e738-4da7-90a0-c85dc69cc140.png",
-            "image_mobile": "shopify://shop_images/Devo-Sale-01_bdab3b6f-523f-4400-b33f-116fd54386dd.png",
+            "image": "shopify://shop_images/Post_Devo_Sale-02.png",
+            "image_mobile": "shopify://shop_images/Post_Devo_Sale-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -559,18 +523,18 @@
   },
   "order": [
     "slideshow_gW9EVE",
-    "slideshow_JzgDYA",
     "featured_collection_fq4ak3",
     "slideshow_X4MRpa",
+    "slideshow_JzgDYA",
     "promo_grid_BftCNi",
+    "promo_grid_cMUWra",
     "slideshow_8GYyKV",
+    "promo_grid_MmC94X",
     "featured_collection_AbN8iP",
     "slideshow_GcPDX3",
     "slideshow_YNbwrF",
     "promo_grid_pwwBNx",
-    "promo_grid_MmC94X",
     "promo_grid_UydWcM",
-    "promo_grid_cMUWra",
     "slideshow_LAdPKf"
   ]
 }
