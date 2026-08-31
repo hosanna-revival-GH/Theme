@@ -47,17 +47,17 @@
         "announcement_BUQCL9": {
           "type": "announcement",
           "settings": {
-            "text": "New planners are here",
-            "link_text": "Plan your beautiful life",
-            "link": "shopify://pages/undated-planner"
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Find a tool that excites you to engage in the beauty of Scripture",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "30% off the devotional library all month long",
-            "link_text": "Choose a study fit for the season you’re in",
-            "link": "shopify://collections/devotionals"
+            "text": "Preorder your 2026 Advent Study",
+            "link_text": "Damascus: An Advent Journey Through the Life and Letters of Paul",
+            "link": "shopify://products/damascus-by-hannah-jessen-conway"
           }
         },
         "announcement_FNqfy6": {
