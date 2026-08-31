@@ -87,6 +87,7 @@
     },
     "single_button_3L6q9A": {
       "type": "single-button",
+      "disabled": true,
       "settings": {
         "button_text": "30% off our devotional library",
         "button_link": "shopify://collections/devotionals",
@@ -100,6 +101,7 @@
     },
     "single_button_QbwFRq": {
       "type": "single-button",
+      "disabled": true,
       "name": "Custom Button",
       "settings": {
         "button_text": "Shop the Spring Collection",
