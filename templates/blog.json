@@ -76,14 +76,14 @@
         "heading_9yawBK": {
           "type": "heading",
           "settings": {
-            "title": "Marketing and copywriting intern"
+            "title": "Shipping Staff"
           }
         },
         "text_zrRnXp": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Hosanna Revival is looking for a marketing intern to help carry forward our brand voice and vision - working directly alongside our Strategic Marketing Manager to capture the heart behind Hosanna Revival in writing. You’ll help translate that vision into copy, campaigns, and content that reflects who we are.</p>",
+            "text": "<p>Hosanna Revival is looking to grow our Shipping Team! As a member of our Shipping Team, you will be part of the final piece of the puzzle in Hosanna Revival’s Operation. Our marketing and design teams work hard to produce our products and market them to our customers, but the process isn’t complete until the Bible, journal, planner, or devotional is packed up and shipped off. That’s the beauty of this role: no product gets to our customers without passing through your hands.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -91,7 +91,7 @@
         "button_YqRcmP": {
           "type": "button",
           "settings": {
-            "link": "shopify://blogs/careers/marketing-and-copywriting-intern",
+            "link": "shopify://blogs/careers/shipping-staff",
             "link_text": "Apply"
           }
         }
@@ -114,11 +114,67 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_prcHqH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_J4wUjF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Currently open</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_LXRgge": {
+          "type": "heading",
+          "settings": {
+            "title": "Warehouse Staff"
+          }
+        },
+        "text_ipQbPR": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Hosanna Revival is looking to grow our Warehouse Team! As a member of our Warehouse Team, you are essential and will be supporting the final piece of the puzzle in Hosanna Revival’s Operation. Our marketing and design teams work hard to produce our products and market them to our customers, but the process isn’t complete until the Bible, journal, planner, or devotional is packed up and shipped off successfully. That’s the beauty of this role: no product gets to our customers without the result of your needed work.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_FXG9mH": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://blogs/careers/warehouse-staff",
+            "link_text": "Apply"
+          }
+        }
+      },
+      "block_order": [
+        "text_J4wUjF",
+        "heading_LXRgge",
+        "text_ipQbPR",
+        "button_FXG9mH"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
     "slideshow_DkBLDM",
     "main",
-    "rich_text_AfNp9k"
+    "rich_text_AfNp9k",
+    "rich_text_prcHqH"
   ]
 }
