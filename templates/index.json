@@ -72,7 +72,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/devotionals",
+            "link": "shopify://collections/best-sellers",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -110,7 +110,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/undated-planner",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -146,7 +146,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_36.png",
-            "link": "shopify://collections/books",
+            "link": "shopify://collections/study-bibles",
             "width": "33"
           }
         },
@@ -154,7 +154,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_47.png",
-            "link": "shopify://collections/bible-studies",
+            "link": "shopify://collections/nlt-compact-bibles",
             "width": "33"
           }
         },
@@ -162,7 +162,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_48.png",
-            "link": "shopify://collections/devotionals",
+            "link": "shopify://collections/beautiful-bibles",
             "width": "33"
           }
         }
@@ -196,7 +196,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_51.png",
-            "link": "shopify://collections/stocking-stuffers",
+            "link": "shopify://collections/notebooks",
             "width": "33"
           }
         },
@@ -204,7 +204,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_52.png",
-            "link": "shopify://collections/planners",
+            "link": "shopify://collections/one-thing-i-ask",
             "width": "33"
           }
         }
@@ -232,7 +232,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/the-everyday-banquet",
+            "link": "shopify://collections/devotionals",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -268,7 +268,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_54.png",
-            "link": "shopify://products/motherhood-and-the-good-life",
+            "link": "shopify://collections/devos",
             "width": "33"
           }
         },
@@ -276,7 +276,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_53.png",
-            "link": "shopify://collections/beautiful-bibles",
+            "link": "shopify://collections/books",
             "width": "33"
           }
         },
@@ -284,7 +284,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_39.png",
-            "link": "shopify://products/nlt-notetaking-bible-belfast-theme",
+            "link": "shopify://collections/bible-studies",
             "width": "33"
           }
         }
@@ -404,7 +404,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_37.png",
-            "link": "shopify://collections/one-thing-i-ask",
+            "link": "shopify://pages/damascus",
             "width": "50"
           }
         },
