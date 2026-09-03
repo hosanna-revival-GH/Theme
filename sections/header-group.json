@@ -83,6 +83,7 @@
         "announcement_FNqfy6",
         "announcement_NXQKWa"
       ],
+      "disabled": true,
       "settings": {
         "announcement_compact": true
       }
