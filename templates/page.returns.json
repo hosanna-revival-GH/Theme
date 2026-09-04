@@ -68,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>To begin a return request, <a href=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\" target=\"_blank\" title=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\">head here! </a></p><p>If your request meets our requirements, we will be able to process a refund for you. We will process new return requests within 48 hours, and you will be updated via email.</p>",
+            "text": "<p>To begin a return request, <a href=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\" target=\"_blank\" title=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\">head here! </a></p><p>If your request meets our requirements, we will be able to assist you! </p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -100,7 +100,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Wrong/Damaged item?",
-            "text": "<p>If you received a wrong or damaged item, please go to <a href=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\" title=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\">our return portal here</a>, and state wrong or damaged item as your return reason.</p>",
+            "text": "<p>If you received a wrong or damaged item, please go to <a href=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\" title=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\">our return portal here</a>, and state wrong or damaged item as your return reason. We will take care of your request!</p>",
             "button_label": "",
             "button_link": ""
           }
