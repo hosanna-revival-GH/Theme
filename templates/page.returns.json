@@ -68,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>To begin a return request, <a href=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\" target=\"_blank\" title=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\">head here! </a></p><p>If your request meets our requirements, we will be able to assist you! </p>",
+            "text": "<p>To begin a return request, <a href=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\" target=\"_blank\" title=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login\">head here! </a></p><p>If your request meets our requirements, we will be able to assist you.</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
