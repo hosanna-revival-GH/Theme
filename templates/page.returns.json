@@ -112,7 +112,7 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Did you receive a gift?",
-            "text": "<p>If you received a Hosanna Revival intentional tool as a gift, please reach out to <a href=\"mailto:support@hosannarevival.com\">support@hosannarevival.com</a> and provide the order number and name of purchaser. We will be happy to assist you!</p>",
+            "text": "<p>If you received a Hosanna Revival intentional tool as a gift, please go to <a href=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login?start_gift_return=true\" title=\"https://hosanna-revival.myshopify.com/apps/redo/returns-portal/login?start_gift_return=true\">our gift return portal here</a>. We will be happy to assist you!</p>",
             "button_label": "",
             "button_link": ""
           }
