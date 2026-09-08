@@ -149,6 +149,28 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_jPyUwr": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/CTS_Web_Header_02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "An email series",
+        "title": "Still Waters: An Invitation to Create Through Psalm 23",
+        "text": "<p>Join us for the 4-week journey: <em>Still Waters: An invitation to create through Psalm 23</em>. Featuring painting, hobbying, embroidery and more!</p>",
+        "button_label": "Learn More",
+        "button_link": "shopify://pages/still-waters",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
         "layout": "right",
         "divider": false,
         "top_padding": true,
@@ -239,28 +261,6 @@
         "section_height": "650px",
         "mobile_height": "auto"
       }
-    },
-    "text_and_image_jPyUwr": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/CTS_Web_Header_02.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "An email series",
-        "title": "Still Waters: An Invitation to Create Through Psalm 23",
-        "text": "<p>Join us for the 4-week journey: <em>Still Waters: An invitation to create through Psalm 23</em>. Featuring painting, hobbying, embroidery and more!</p>",
-        "button_label": "Learn More",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -269,10 +269,10 @@
     "slideshow_aNqVnn",
     "text_columns_tMDUnq",
     "text_and_image_tr6aqq",
+    "text_and_image_jPyUwr",
     "text_and_image_A8aAaP",
     "text_and_image_y4jfF4",
     "text_and_image_dGgT6w",
-    "hero_video_6KBbWG",
-    "text_and_image_jPyUwr"
+    "hero_video_6KBbWG"
   ]
 }
