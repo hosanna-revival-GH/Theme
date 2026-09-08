@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "slideshow_a3yL44": {
@@ -35,7 +36,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Pleasant-Places-Header-2_284b0892-1d38-4b7b-96c8-e5e8e2f14319.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "17403578378bacc56a": {
@@ -66,7 +69,7 @@
         "klaviyo_email_marketing_sms_form_embed_block_HFLmyn"
       ],
       "custom_css": [
-        ".klaviyo-form-ULzZZs {background-color: rgb(247, 240, 232);}"
+        ".klaviyo-form-X2fw95 {background-color: rgb(247, 240, 232);}"
       ],
       "settings": {
         "full_width": true,
