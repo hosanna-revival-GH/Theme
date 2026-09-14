@@ -68,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><em>Join us at our in-person pop-up shop on Saturday, December 13th from 9 am - 1 pm for all your intentional gifting needs! Get the details below, and invite your friends.</em></p>",
+            "text": "<p><em>Join us at our in-person pop-up shop on Saturday, December 12th from 9 am - 1 pm for all your intentional gifting needs! Get the details below, and invite your friends.</em></p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -119,7 +119,7 @@
         "image2_mask": "none",
         "subtitle": "Warehouse Sale",
         "title": "The Invitation",
-        "text": "<p><strong>When: </strong>Saturday, December 13th</p><p><strong>Time: </strong>9 am - 1 pm</p><p><strong>Where: </strong>Hosanna Revival Headquarters —<br/>4 Kovach Drive, Suite 430<br/>Cincinnati, OH 45215</p><p><strong>Who: </strong>Anyone! This event is open to all, whether you're local to Cincinnati or willing to road-trip—come one come all! <em>*Please Note: No cash, card only.</em></p>",
+        "text": "<p><strong>When: </strong>Saturday, December 12th</p><p><strong>Time: </strong>9 am - 1 pm</p><p><strong>Where: </strong>Hosanna Revival Headquarters —<br/>4 Kovach Drive, Suite 430<br/>Cincinnati, OH 45215</p><p><strong>Who: </strong>Anyone! This event is open to all, whether you're local to Cincinnati or willing to road-trip—come one come all! <em>*Please Note: No cash, card only.</em></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -140,7 +140,7 @@
         "image2_mask": "none",
         "subtitle": "Warehouse Sale",
         "title": "The Details",
-        "text": "<p><strong>What: </strong>Need any last-minute gifts? Our Christmas Warehouse Pop-Up Sale is December 13th from 9 am-1 pm! Choose beautiful and intentional gifts from both our new tools (with an extra special sale!) and our extremely-discounted Bumped and Bruised section (rumored to feature some out-of-stock items!). This is the one time a year our doors open to the public so come shop and hang out with us!</p><p><strong>Perks: </strong>First 200 customers through the door will be getting exclusive freebies! Plus, we have several local businesses showing up to provide coffee and sweet treats for sale to enjoy as you shop.</p>",
+        "text": "<p><strong>What: </strong>Need any last-minute gifts? Our Christmas Warehouse Pop-Up Sale is December 12th from 9 am-1 pm! Choose beautiful and intentional gifts from both our new tools (with an extra special sale!) and our extremely-discounted Bumped and Bruised section (rumored to feature some out-of-stock items!). This is the one time a year our doors open to the public so come shop and hang out with us!</p><p><strong>Perks: </strong>First 200 customers through the door will be getting exclusive freebies! Plus, we have several local businesses showing up to provide coffee and sweet treats for sale to enjoy as you shop.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
