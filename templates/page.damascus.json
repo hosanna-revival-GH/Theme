@@ -133,7 +133,7 @@
     "single_button_fjg6yG": {
       "type": "single-button",
       "settings": {
-        "button_text": "Preorder Damascus",
+        "button_text": "Order Damascus",
         "button_link": "https://hosannarevival.com/products/damascus-by-hannah-jessen-conway",
         "button_size": "huge",
         "alignment": "center",
@@ -248,7 +248,7 @@
     "ec723e1a-242d-4e25-893f-aa7c6662c78f": {
       "type": "single-button",
       "settings": {
-        "button_text": "PREORDER",
+        "button_text": "ORDER",
         "button_link": "https://hosannarevival.com/products/damascus-by-hannah-jessen-conway",
         "button_size": "huge",
         "alignment": "center",
@@ -347,7 +347,7 @@
     "362b51ae-2645-4f20-913e-add26fcf5641": {
       "type": "single-button",
       "settings": {
-        "button_text": "PREORDER",
+        "button_text": "ORDER",
         "button_link": "https://hosannarevival.com/products/damascus-by-hannah-jessen-conway",
         "button_size": "huge",
         "alignment": "center",
