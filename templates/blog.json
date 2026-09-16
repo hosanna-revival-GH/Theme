@@ -76,7 +76,7 @@
         "heading_9yawBK": {
           "type": "heading",
           "settings": {
-            "title": "Shipping Staff"
+            "title": "Full-Time Shipping Staff"
           }
         },
         "text_zrRnXp": {
@@ -115,6 +115,50 @@
         "space_below": 75
       }
     },
+    "rich_text_XnL7Pf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AwMV79": {
+          "type": "heading",
+          "settings": {
+            "title": "Seasonal Shipping Staff"
+          }
+        },
+        "text_he4JeW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Hosanna Revival is looking to grow our Shipping Team during the busiest time of the year! As a member of our Seasonal Shipping Team, you will be part of the final piece of the puzzle in Hosanna Revival’s Operation. Our marketing and design teams work hard to produce our products and market them to our customers, but the process isn’t complete until the Bible, journal, planner, or devotional is packed up and shipped off. That’s the beauty of this role: no product gets to our customers without passing through your hands.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_jnhMyw": {
+          "type": "button",
+          "settings": {
+            "link": "https://forms.gle/EdAtPQtu3nrTDAqS6",
+            "link_text": "Apply"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AwMV79",
+        "text_he4JeW",
+        "button_jnhMyw"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "rich_text_prcHqH": {
       "type": "rich-text",
       "blocks": {
@@ -131,7 +175,7 @@
         "heading_LXRgge": {
           "type": "heading",
           "settings": {
-            "title": "Warehouse Staff"
+            "title": "Full-time Warehouse Staff"
           }
         },
         "text_ipQbPR": {
@@ -175,6 +219,7 @@
     "slideshow_DkBLDM",
     "main",
     "rich_text_AfNp9k",
+    "rich_text_XnL7Pf",
     "rich_text_prcHqH"
   ]
 }
