@@ -153,44 +153,6 @@
         "disable_animation": false
       }
     },
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/products/the-abide-notebook",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/abide-journal-desktop.png",
-            "image_mobile": "shopify://shop_images/abide-journal.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
     "slideshow_gG4Qiw": {
       "type": "slideshow",
       "blocks": {
@@ -227,6 +189,44 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/products/the-abide-notebook",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/abide-journal-desktop.png",
+            "image_mobile": "shopify://shop_images/abide-journal.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
         "disable_animation": false
       }
     },
@@ -605,8 +605,8 @@
     "featured_collection_fq4ak3",
     "slideshow_X4MRpa",
     "slideshow_8GYyKV",
-    "slideshow_gW9EVE",
     "slideshow_gG4Qiw",
+    "slideshow_gW9EVE",
     "slideshow_rVxgdf",
     "slideshow_GcPDX3",
     "promo_grid_BftCNi",
