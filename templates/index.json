@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Damascus_launch_Artboard_2_copy_40.png",
-            "image_mobile": "shopify://shop_images/Damascus_launch_Artboard_19_copy_8.png",
+            "image": "shopify://shop_images/Best_sellers-05.png",
+            "image_mobile": "shopify://shop_images/Best_sellers_Artboard_19_copy_7.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -46,6 +46,19 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "our favorites",
+        "home_featured_products": "best-sellers",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "featured_collection_fq4ak3": {
@@ -89,6 +102,7 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -127,6 +141,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -205,6 +220,7 @@
       "block_order": [
         "image_b6EUJP"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -244,6 +260,7 @@
       "block_order": [
         "image_4AF4QK"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -420,20 +437,6 @@
         "lazyload_images": true
       }
     },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "our Library",
-        "home_featured_products": "devotionals",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "slideshow_YNbwrF": {
       "type": "slideshow",
       "blocks": {
@@ -601,6 +604,7 @@
   },
   "order": [
     "slideshow_JzgDYA",
+    "featured_collection_AbN8iP",
     "featured_collection_fq4ak3",
     "slideshow_X4MRpa",
     "slideshow_8GYyKV",
@@ -611,7 +615,6 @@
     "promo_grid_BftCNi",
     "promo_grid_cMUWra",
     "promo_grid_MmC94X",
-    "featured_collection_AbN8iP",
     "slideshow_YNbwrF",
     "promo_grid_pwwBNx",
     "promo_grid_UydWcM",
