@@ -47,9 +47,9 @@
         "announcement_BUQCL9": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Find a tool that excites you to engage in the beauty of Scripture",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": ": Enjoy 15% off select best sellers",
+            "link_text": "Find a tool that gets you back into the Word.",
+            "link": "shopify://collections/best-sellers"
           }
         },
         "announcement_mMUAeX": {
@@ -63,9 +63,9 @@
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Beautiful Spanish Bibles",
-            "link_text": " now available—choose yours",
-            "link": "shopify://collections/beautiful-spanish-bibles"
+            "text": "Free Shipping on orders over $100",
+            "link_text": "Stock up and enjoy shipping on us!",
+            "link": "shopify://collections/hosanna-revival-shop"
           }
         },
         "announcement_NXQKWa": {

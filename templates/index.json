@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Damascus_launch_Artboard_2_copy_40.png",
-            "image_mobile": "shopify://shop_images/Damascus_launch_Artboard_19_copy_8.png",
+            "image": "shopify://shop_images/Best_sellers-05.png",
+            "image_mobile": "shopify://shop_images/Best_sellers_Artboard_19_copy_7.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -50,7 +50,6 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "our favorites",
@@ -103,6 +102,7 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -141,6 +141,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -180,6 +181,7 @@
       "block_order": [
         "image_b6EUJP"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
