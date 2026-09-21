@@ -47,7 +47,7 @@
         "announcement_BUQCL9": {
           "type": "announcement",
           "settings": {
-            "text": ": Enjoy 15% off select best sellers",
+            "text": "Enjoy 15% off select best sellers",
             "link_text": "Find a tool that gets you back into the Word.",
             "link": "shopify://collections/best-sellers"
           }
