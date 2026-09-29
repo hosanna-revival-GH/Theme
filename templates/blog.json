@@ -61,10 +61,10 @@
         "blog_image_size": "natural"
       }
     },
-    "rich_text_AfNp9k": {
+    "rich_text_8idtNJ": {
       "type": "rich-text",
       "blocks": {
-        "text_nCTNJc": {
+        "text_zwBxNC": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
@@ -73,6 +73,51 @@
             "block_bottom_space": 30
           }
         },
+        "heading_mzAtJc": {
+          "type": "heading",
+          "settings": {
+            "title": "Part-Time Bookkeeper"
+          }
+        },
+        "text_WaRWWi": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We're looking for a detail-oriented, highly organized bookkeeper to take ownership of key parts of our financial operations, including bookkeeping, accounts payable, and accounts receivable. You'll keep our books clean, accurate, and on schedule, which directly supports how we make decisions across the business.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_GhAA8D": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://blogs/careers/part-time-bookkeeper",
+            "link_text": "Apply"
+          }
+        }
+      },
+      "block_order": [
+        "text_zwBxNC",
+        "heading_mzAtJc",
+        "text_WaRWWi",
+        "button_GhAA8D"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_AfNp9k": {
+      "type": "rich-text",
+      "blocks": {
         "heading_9yawBK": {
           "type": "heading",
           "settings": {
@@ -97,7 +142,6 @@
         }
       },
       "block_order": [
-        "text_nCTNJc",
         "heading_9yawBK",
         "text_zrRnXp",
         "button_YqRcmP"
@@ -218,6 +262,7 @@
   "order": [
     "slideshow_DkBLDM",
     "main",
+    "rich_text_8idtNJ",
     "rich_text_AfNp9k",
     "rich_text_XnL7Pf",
     "rich_text_prcHqH"
