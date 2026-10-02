@@ -355,7 +355,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "This Devotional is for you if...",
-        "text": "<ul><li>You’re longing to notice more of God's presence in everyday life.</li><li>You want a fresh and creative way to meditate on Scripture.</li><li>You long to create but feel held back by fear and self-doubt.</li></ul>",
+        "text": "<ul><li>You’re longing to notice more of God's presence in everyday life.</li><li>You want to explore how to connect faith and creativity.</li><li>You long to create but feel held back by fear and self-doubt.</li></ul>",
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
@@ -523,7 +523,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2></h2><p>Lord, thank you that our marriage is sheltered by your grace and mercy. In your enveloping love, please protect us from believing the worst of the other on the bad days and fill our hearts with gratitude on the good days. Help us be wise about the schemes of hell to disrupt and divide the true unity we have in you. </p>",
+            "text": "<h2></h2><p>Lord, thank you for giving my life purpose, and for designing me to be creative. Help me focus on making art that is honest and reflects my faith.</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -586,7 +586,7 @@
         "subtitle": "Meet the Author",
         "title": "Anna Núñez",
         "text": "<p>Anna Núñez is a mixed-media artist whose abstract paintings explore themes of faith, surrender, and childlike creativity. After earning her degree in studio art, she spent six years as a graphic designer before dedicating herself fully to a career in fine art. Anna’s paintings have been exhibited, collected worldwide, and featured in partnership with brands like Croft House, Tacit Collective, Artfully Walls, and Anthropologie.</p>",
-        "button_label": "Learn more about Tammy here",
+        "button_label": "Learn more about Anna here",
         "button_link": "https://drtammysmith.com/",
         "button_style": "primary",
         "align_text": "left",
