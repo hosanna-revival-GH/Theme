@@ -194,6 +194,11 @@
           "background_color": "#000000",
           "text_color": "#ffffff"
         }
+      },
+      "12421755347703162438": {
+        "type": "shopify://apps/influencer-hero/blocks/ih_tracker/01a0ec90-879a-7609-a098-a9ca26e33e9c",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
