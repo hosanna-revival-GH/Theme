@@ -78,8 +78,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#EF5027",
-        "color_text": "#FDF7ED",
+        "color_bg": "#ef5027",
+        "color_text": "#fdf7ed",
         "space_above": 60,
         "space_below": 0
       }
@@ -344,7 +344,7 @@
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
         "align_text": "left",
-        "image_width": "50",
+        "image_width": "66",
         "layout": "left",
         "divider": false,
         "top_padding": true,
