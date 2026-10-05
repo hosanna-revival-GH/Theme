@@ -478,6 +478,27 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "text_and_image_kwijie": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -493,6 +514,7 @@
     "slideshow_UC7cyw",
     "rich_text_hjcJjW",
     "text_and_image_TnnR6t",
+    "text_and_image_kwijie",
     "text_and_image_WGta8f",
     "slideshow_NEtP87",
     "rich_text_hYNHYq",
