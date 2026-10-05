@@ -325,8 +325,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#769180",
-        "color_text": "#f5f0e6",
+        "color_bg": "#EF5027",
+        "color_text": "#FDF7ED",
         "space_above": 30,
         "space_below": 40
       }
@@ -469,8 +469,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#769180",
-        "color_text": "#ffffff",
+        "color_bg": "#EF5027",
+        "color_text": "#FDF7ED",
         "space_above": 75,
         "space_below": 75
       }
@@ -484,8 +484,8 @@
         "alignment": "center",
         "space_above": 60,
         "space_below": 60,
-        "link_color_background": "#769180",
-        "link_color_text": "#ffffff"
+        "link_color_background": "#EF5027",
+        "link_color_text": "#FDF7ED"
       }
     },
     "featured_collection_wb8PnE": {
