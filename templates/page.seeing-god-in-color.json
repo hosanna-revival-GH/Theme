@@ -339,13 +339,34 @@
         "image2_mask": "none",
         "subtitle": "Meet the Author",
         "title": "Anna’s Story",
-        "text": "<p>When I was in college, a friend handed me a book about the intersection of faith and creativity that opened my eyes to the idea that my creativity wasn’t just a fun hobby, but something God had woven into the very fabric of who He designed me to be. I learned that God not only delights in my creativity but can also meet me in the creative process by inviting the Holy Spirit in. Through that shift, my perfectionism began to fade, my confidence grew, and God led me down a sweet path toward becoming a graphic designer and a fine artist.</p><p>As I recognized color’s ability to communicate so much emotion, memory, and meaning, I began writing more about it on my blog. That blog grew into a book that weaves together personal stories, reflections on Scripture, my own original paintings, and thoughtful prompts that invite readers to exercise their creativity, regardless of artistic skill.</p><p>When I had the opportunity to write Seeing God in Color, that younger version of myself instantly came to mind. I wondered who else might benefit from learning the same truth: that God created them to be creative. Regardless of your level of artistic interest or skill, I am convinced that we have all been created to create.</p><p>I wrote Seeing God in Color for anyone who longs to draw nearer to the Lord through a fresh and creative approach. It is for those who wonder what their creativity has to do with their faith and those who love beauty and art but have never considered how those things might point them toward God.</p><p>My hope is that Seeing God in Color will offer inspiration for your soul, encouragement to create, and beauty for your space.</p>",
+        "text": "<p>When I was in college, a friend handed me a book about the intersection of faith and creativity that opened my eyes to the idea that my creativity wasn’t just a fun hobby, but something God had woven into the very fabric of who He designed me to be. I learned that God not only delights in my creativity but can also meet me in the creative process by inviting the Holy Spirit in. Through that shift, my perfectionism began to fade, my confidence grew, and God led me down a sweet path toward becoming a graphic designer and a fine artist.</p><p>As I recognized color’s ability to communicate so much emotion, memory, and meaning, I began writing more about it on my blog. That blog grew into a book that weaves together personal stories, reflections on Scripture, my own original paintings, and thoughtful prompts that invite readers to exercise their creativity, regardless of artistic skill.</p>",
         "button_label": "",
         "button_link": "https://hosannarevival.com/products/in-weeping-and-rejoicing-by-paige-stitt-mcbride",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
         "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_kwijie": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
@@ -477,27 +498,6 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
-      }
-    },
-    "text_and_image_kwijie": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     }
   },
