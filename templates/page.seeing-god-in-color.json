@@ -186,7 +186,7 @@
     "text_and_image_c87NAi": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Winter_Collection_2026_Bible.jpg",
+        "image": "shopify://shop_images/Winter_Collection_2026_Bible_7.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
@@ -207,7 +207,7 @@
     "text_and_image_kXTmWw": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Winter_Collection_2026_Bible_3.jpg",
+        "image": "shopify://shop_images/Winter_Collection_2026_Bible_5.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Details",
@@ -254,7 +254,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-72.jpg",
+            "image": "shopify://shop_images/Winter_Collection_2026_Bible_afc259b0-fd6f-4f60-9fc4-275d15ceb954.jpg",
             "image_mobile": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-72.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
