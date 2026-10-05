@@ -78,8 +78,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#EF5027",
-        "color_text": "#FDF7ED",
+        "color_bg": "#ef5027",
+        "color_text": "#fdf7ed",
         "space_above": 60,
         "space_below": 0
       }
@@ -179,14 +179,14 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 30,
-        "link_color_background": "#EF5027",
-        "link_color_text": "#FDF7ED"
+        "link_color_background": "#ef5027",
+        "link_color_text": "#fdf7ed"
       }
     },
     "text_and_image_c87NAi": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-2.jpg",
+        "image": "shopify://shop_images/Winter_Collection_2026_Bible.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
@@ -207,7 +207,7 @@
     "text_and_image_kXTmWw": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/WMMR-Devotional-Tammy-Smith-Hosanna-Revival-7.jpg",
+        "image": "shopify://shop_images/Winter_Collection_2026_Bible.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Details",
@@ -234,8 +234,8 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 60,
-        "link_color_background": "#EF5027",
-        "link_color_text": "#FDF7ED"
+        "link_color_background": "#ef5027",
+        "link_color_text": "#fdf7ed"
       }
     },
     "slideshow_UC7cyw": {
@@ -325,8 +325,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#FDF7ED",
-        "color_text": "#EF5027",
+        "color_bg": "#fdf7ed",
+        "color_text": "#ef5027",
         "space_above": 30,
         "space_below": 40
       }
@@ -334,7 +334,7 @@
     "text_and_image_TnnR6t": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-152.jpg",
+        "image": "shopify://shop_images/Alice_Mae_Photography_Nashville.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
@@ -356,6 +356,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
+        "image": "shopify://shop_images/Alice_Mae_Photography_Nashville_1.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
@@ -376,7 +377,7 @@
     "text_and_image_WGta8f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Tammy-Author-Shoot-Hosanna-Revival-38.jpg",
+        "image": "shopify://shop_images/Alice_Mae_Photography_Nashville_2_7e495fe6-bdff-4782-888e-0a79e3313416.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Meet the Author",
@@ -469,8 +470,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#FDF7ED",
-        "color_text": "#EF5027",
+        "color_bg": "#fdf7ed",
+        "color_text": "#ef5027",
         "space_above": 75,
         "space_below": 75
       }
@@ -484,8 +485,8 @@
         "alignment": "center",
         "space_above": 60,
         "space_below": 60,
-        "link_color_background": "#EF5027",
-        "link_color_text": "#FDF7ED"
+        "link_color_background": "#ef5027",
+        "link_color_text": "#fdf7ed"
       }
     },
     "featured_collection_wb8PnE": {
