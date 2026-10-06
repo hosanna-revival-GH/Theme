@@ -44,8 +44,17 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_k47GUq": {
+          "type": "announcement",
+          "settings": {
+            "text": "your home for beautiful Bibles",
+            "link_text": "choose yours",
+            "link": "shopify://collections/beautiful-bibles"
+          }
+        },
         "announcement_BUQCL9": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Enjoy 15% off select best sellers",
             "link_text": "Find a tool that gets you back into the Word.",
@@ -55,8 +64,8 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": " Now Available: Damascus",
-            "link_text": "Our first printed Advent study",
+            "text": "embrace your creativity",
+            "link_text": "with Seeing God in Color — preorder your copy",
             "link": "shopify://products/damascus-by-hannah-jessen-conway"
           }
         },
@@ -78,6 +87,7 @@
         }
       },
       "block_order": [
+        "announcement_k47GUq",
         "announcement_BUQCL9",
         "announcement_mMUAeX",
         "announcement_FNqfy6",

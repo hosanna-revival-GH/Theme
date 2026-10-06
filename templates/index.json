@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Best_sellers-05.png",
-            "image_mobile": "shopify://shop_images/Best_sellers_Artboard_19_copy_7.png",
+            "image": "shopify://shop_images/SGIC-Preorder.png",
+            "image_mobile": "shopify://shop_images/SGIC_Preorder_Artboard_19_copy_6.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -46,6 +46,39 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "promo_grid_EMhhYk": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_CCyyzW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SGIC_Preorder_Artboard_2_copy_40.png",
+            "link": "",
+            "width": "50"
+          }
+        },
+        "image_c4egAk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SGIC_Preorder_Artboard_2_copy_50.png",
+            "link": "",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_CCyyzW",
+        "image_c4egAk"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "featured_collection_AbN8iP": {
@@ -603,6 +636,7 @@
   },
   "order": [
     "slideshow_JzgDYA",
+    "promo_grid_EMhhYk",
     "featured_collection_AbN8iP",
     "featured_collection_fq4ak3",
     "slideshow_X4MRpa",
