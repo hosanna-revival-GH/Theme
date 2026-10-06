@@ -83,6 +83,7 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "our favorites",
@@ -254,6 +255,7 @@
       "block_order": [
         "image_nrxtXn"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
