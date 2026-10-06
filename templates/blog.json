@@ -146,6 +146,7 @@
         "text_zrRnXp",
         "button_YqRcmP"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
