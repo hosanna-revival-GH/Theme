@@ -170,13 +170,6 @@
         "disabled": true,
         "settings": {}
       },
-      "10605408327587305396": {
-        "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
-        "disabled": false,
-        "settings": {
-          "version": "v3"
-        }
-      },
       "4252583770683550135": {
         "type": "shopify://apps/redo/blocks/redo_app_embed/c613644b-6df4-4d11-b336-43a5c06745a1",
         "disabled": false,
@@ -199,6 +192,25 @@
         "type": "shopify://apps/influencer-hero/blocks/ih_tracker/01a0ec90-879a-7609-a098-a9ca26e33e9c",
         "disabled": false,
         "settings": {}
+      },
+      "7079518687644006178": {
+        "type": "shopify://apps/checkout-blocks/blocks/app-embed/b0024ca5-9de8-4bf0-a92f-cd0783877ae2",
+        "disabled": false,
+        "settings": {
+          "utm_id": true,
+          "utm_source": true,
+          "utm_medium": true,
+          "utm_campaign": true,
+          "utm_term": true,
+          "ref": true
+        }
+      },
+      "10605408327587305396": {
+        "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
+        "disabled": true,
+        "settings": {
+          "version": "v3"
+        }
       }
     }
   },
