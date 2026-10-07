@@ -62,8 +62,8 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "New Planners",
-        "button_link": "shopify://collections/planners",
+        "button_text": "Preorder your copy of Seeing God in Color",
+        "button_link": "https://hosannarevival.com/products/seeing-god-in-color-by-anna-nunez",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
