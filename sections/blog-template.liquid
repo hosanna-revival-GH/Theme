@@ -48,7 +48,7 @@
 {%- endcase -%} 
 
 {%- for article in blog.articles -%}
-  {%- render 'article-grid-item', article: article, grid_item_width: grid_item_width, per_row: number_of_columns | default: 4, image_size: section.settings.blog_image_size -%}
+  {%- render 'article-grid-item', article: article, grid_item_width: grid_item_width, per_row: number_of_columns, default: 4, image_size: section.settings.blog_image_size -%}
 {%- endfor -%}
     </div>
 
@@ -136,3 +136,17 @@
   }
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- render 'article-grid-item', article: article, grid_item_width: grid_item_width,
+    per_row: number_of_columns | default: 4, image_size: section.settings.blog_image_size
+    -%}"
+  to: "{%- render 'article-grid-item', article: article, grid_item_width: grid_item_width,
+    per_row: number_of_columns, default: 4, image_size: section.settings.blog_image_size
+    -%}"
+  position: 2572..2744
+{% endcomment %}
