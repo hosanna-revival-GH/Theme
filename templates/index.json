@@ -55,7 +55,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/SGIC_Preorder_Artboard_2_copy_40.png",
-            "link": "https://hosannarevival.com/products/seeing-god-in-color-by-anna-nunez",
+            "link": "shopify://pages/seeing-god-in-color",
             "width": "50"
           }
         },
