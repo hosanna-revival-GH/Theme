@@ -102,6 +102,7 @@
         "text_WaRWWi",
         "button_GhAA8D"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
         "align_text": "center",
@@ -163,6 +164,15 @@
     "rich_text_XnL7Pf": {
       "type": "rich-text",
       "blocks": {
+        "text_RQBedd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Currently Open</em></p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
         "heading_AwMV79": {
           "type": "heading",
           "settings": {
@@ -187,6 +197,7 @@
         }
       },
       "block_order": [
+        "text_RQBedd",
         "heading_AwMV79",
         "text_he4JeW",
         "button_jnhMyw"
