@@ -143,6 +143,7 @@
         },
         "buy_buttons_ahxUNr": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "surface_pickup_enable": false,
