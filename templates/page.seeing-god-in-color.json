@@ -229,7 +229,7 @@
       "type": "single-button",
       "settings": {
         "button_text": "Preorder today",
-        "button_link": "https://hosannarevival.com/pages/seeing-god-in-color",
+        "button_link": "shopify://products/seeing-god-in-color-by-anna-nunez",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
