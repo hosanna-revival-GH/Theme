@@ -14,7 +14,8 @@
       "disabled": true,
       "settings": {
         "page_title_enable": false,
-        "page_content_enable": false
+        "page_content_enable": false,
+        "background_color": ""
       }
     },
     "slideshow_DtTLhm": {
@@ -35,7 +36,8 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Affiliate-Page-Header.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
@@ -49,7 +51,8 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": false
+        "lazyload_images": false,
+        "disable_animation": false
       }
     },
     "rich_text_pgWzi7": {
@@ -65,7 +68,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>The Hosanna Revival Affiliate Program exists as a way to partner with influential women who love to share the mission of Hosanna Revival. We work to excite women about engaging in Scripture by creating beautiful and intentional tools for their lives. We’re seeking women who truly care about their audience knowing Christ, and use their platform to encourage them with truth! </p>",
+            "text": "<p>The Hosanna Revival Affiliate Program exists as a way to partner with influential women who love to share the mission of Hosanna Revival. We work to excite women about engaging in Scripture by creating beautiful and intentional tools for their lives. We’re seeking women who truly care about their audience knowing Christ, and use their platform to encourage them with truth!&nbsp;</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -111,7 +114,7 @@
             "title": "APPLY TO BE AN AFFILIATE",
             "text": "<p>Interested in our Affiliate Program?<br/>Apply through the link below</p>",
             "button_label": "APPLY",
-            "button_link": "https://join.collabs.shopify.com/community/apply/ctvk-QKHXfY"
+            "button_link": "https://forms.influencer-hero.com/1lJozCj"
           }
         },
         "text_block_fH8RbT": {
