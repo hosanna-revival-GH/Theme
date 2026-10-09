@@ -87,25 +87,57 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
+        "space_below": 39
+      }
+    },
+    "rich_text_L7qfVz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_x4AXKE": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_mPKRWt": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Interested in our Affiliate Program?<br/>Apply through the link below</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "button_73rMFj": {
+          "type": "button",
+          "settings": {
+            "link": "https://forms.influencer-hero.com/1lJozCj",
+            "link_text": "Apply"
+          }
+        }
+      },
+      "block_order": [
+        "heading_x4AXKE",
+        "text_mPKRWt",
+        "button_73rMFj"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
         "space_below": 75
       }
     },
     "text_columns_37Wcch": {
       "type": "text-columns",
       "blocks": {
-        "text_block_jRiEPw": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "enable_image": false,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "CURRENT AFFILIATES",
-            "text": "<p>If you are already an affiliate with&nbsp;<br/>Hosanna Revival, Log in below&nbsp;</p>",
-            "button_label": "Log In",
-            "button_link": "https://join.collabs.shopify.com/community/apply/ctvk-QKHXfY"
-          }
-        },
         "text_block_gAGdjA": {
           "type": "text_block",
           "settings": {
@@ -120,22 +152,23 @@
         },
         "text_block_fH8RbT": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
             "title": "GUIDELINES",
-            "text": "<p>Click below to view the Hosanna <br/>Revival Affiliate Guidelines</p>",
+            "text": "<p>Click below to view the Hosanna&nbsp;<br/>Revival Affiliate Guidelines</p>",
             "button_label": "DOWNLOAD PDF",
             "button_link": "https://cdn.shopify.com/s/files/1/0074/7674/0155/files/2024_Hosanna-Revival-Affiliate-Program-Guidelines_1.pdf?v=1706819842"
           }
         }
       },
       "block_order": [
-        "text_block_jRiEPw",
         "text_block_gAGdjA",
         "text_block_fH8RbT"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -147,6 +180,7 @@
     "main",
     "slideshow_DtTLhm",
     "rich_text_pgWzi7",
+    "rich_text_L7qfVz",
     "text_columns_37Wcch"
   ]
 }
