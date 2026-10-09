@@ -1,0 +1,488 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_title_enable": true,
+        "page_content_enable": true,
+        "background_color": ""
+      }
+    },
+    "slideshow_fKC7bk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_UGkbDz": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Introducing",
+            "title": "The Spring Collection",
+            "title_size": 40,
+            "subheading": "Let the truth of Scripture restore your heart",
+            "link": "https://hosannarevival.com/collections/spring-2026-collection",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring_Collection_Bibles.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_UGkbDz"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "rich_text_KkwPiq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9XLEt7": {
+          "type": "heading",
+          "settings": {
+            "title": "Welcome to the 2026 Spring Collection"
+          }
+        },
+        "text_CQyQJh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>This collection was designed to reflect the all-encompassing, rich and deep love of God. A love that restores, pursues, and gently reminds us that we are seen and chosen. Each piece is designed to draw you into the deep well of his presence: steady, renewing, and full of grace.</p><p>Including 2 ESV Journaling Bibles, 3 NLT notetaking Bibles, 2 Women’s CSB Study Bibles, and 4 notebooks, this collection is an invitation to rest, to be restored, and to remember that you are deeply loved by a God who meets you in your weariness, brings light into darkness, and faithfully leads your heart back to peace.</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 5
+          }
+        }
+      },
+      "block_order": [
+        "heading_9XLEt7",
+        "text_CQyQJh"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#f3ece3",
+        "color_text": "#71865b",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
+    "rich_text_xjbQme": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GgcTpa": {
+          "type": "heading",
+          "settings": {
+            "title": "3 New Landscape designs"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GgcTpa"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#d8b7c5",
+        "color_text": "#f3ece3",
+        "space_above": 15,
+        "space_below": 15
+      }
+    },
+    "text_columns_JR3fGQ": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_dqkeLX": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring_Collection_Bibles_13.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Santa Lucia ESV Journaling Bible",
+            "text": "<p>The artwork on this beautiful Bible reflects the quiet tension between darkness and dawn and the stillness before his light breaks through. The back features the words “Satisfied in You,” a reminder that we can rest in his sustaining love.</p>",
+            "button_label": "Shop",
+            "button_link": "https://hosannarevival.com/products/esv-journaling-bible-santa-lucia-theme"
+          }
+        },
+        "text_block_cK6Fqe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring_Collection_Bibles_12.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Cana NLT Notetaking Bible",
+            "text": "<p>The deep purple and blue hues, combined with vibrant red flowers, reflect the richness of his generosity and the joy he pours out. They serve as a reminder that God does not merely meet our needs,  he delights in rejoicing over us. </p>",
+            "button_label": "Shop",
+            "button_link": "https://hosannarevival.com/products/nlt-notetaking-bible-cana-theme"
+          }
+        },
+        "text_block_mftjPR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Spring_Collection_Bibles_11.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Rosemary Beach NLT NOtetaking Bible",
+            "text": "<p>Sunsets along Florida’s coast overlooking the Gulf of Mexico produce vibrant, pink skies, inspiring the colors on this beautiful Rosemary Beach Bible. The hand-painted skies on the cover reflect a radiant beauty, echoing God’s character.</p>",
+            "button_label": "Shop",
+            "button_link": "https://hosannarevival.com/products/nlt-notetaking-bible-rosemary-beach-theme"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_dqkeLX",
+        "text_block_cK6Fqe",
+        "text_block_mftjPR"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "slideshow_zHFQXR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_weKapr": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "featuring",
+            "title": "four new notebooks",
+            "title_size": 60,
+            "subheading": "",
+            "link": "shopify://collections/notebooks",
+            "link_text": "shop notebooks",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Spring_Collection_Bibles_16_16714e12-4cc7-4dd8-a1a6-625c0c3b9fd5.jpg",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Bibles_16.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_weKapr"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "text_and_image_VdWRMG": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_14.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "Palma ESV Journaling Bible",
+        "text": "<p>The deep, brown color and delicate gold foiling outlining the embossed florals of this Bible were inspired by the beauty of The Cathedral of Palma in Mallorca, Spain. The intricate architecture inspired the detailed florals and arched design. Our heart behind this design is that it would remind you of the rich depth that the Word of God carries. Within every detail of his Word is wisdom that reveals and points us toward Christ. May the gold foiling be a reminder that within this book, you will unveil truth that is more precious than gold.</p>",
+        "button_label": "Shop Palma",
+        "button_link": "shopify://products/esv-journaling-bible-palma-theme",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6wkmVR": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_15.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "Belfast NLT Notetaking Bible",
+        "text": "<p>Our Belfast Bible’s delicate, soft yellow color features an embossed daffodil. After a long winter, the daffodil is the first to make its return in the Spring. These flowers can endure harsh conditions, symbolizing a pure and gentle resilience, one we ourselves can receive through Christ’s strength within us. Through his power within us, we are able to endure, relying on his strength alone.</p>",
+        "button_label": "Shop Belfast",
+        "button_link": "shopify://products/nlt-notetaking-bible-belfast-theme-bstock",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "single_button_jJhiGP": {
+      "type": "single-button",
+      "disabled": true,
+      "settings": {
+        "button_text": "shop Spring collection",
+        "button_link": "shopify://collections/winter-2024-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 60,
+        "link_color_background": "#d8b7c5",
+        "link_color_text": "#ffffff"
+      }
+    },
+    "featured_collections_iYnhdN": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_7mxHyc": {
+          "type": "collection",
+          "settings": {
+            "collection": "winter-2025-bibles",
+            "title": "Bibles",
+            "focal_point": "center center"
+          }
+        },
+        "collection_g8iGrq": {
+          "type": "collection",
+          "settings": {
+            "collection": "winter-2025-notebooks",
+            "title": "Notebooks",
+            "focal_point": "center center"
+          }
+        },
+        "collection_CrnNPE": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "5-Year Prayer Journal",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_7mxHyc",
+        "collection_g8iGrq",
+        "collection_CrnNPE"
+      ],
+      "disabled": true,
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "text_and_image_xEJ9TN": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_4.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Introducing",
+        "title": "The CSB Women’s Study Bible",
+        "text": "<p>The <em>CSB Women’s Study Bible, </em>is designed to help women of all ages know and be transformed by God’s Word, keeping the beauty and majesty of Scripture primary on every page. </p><p>This robust, full-color study Bible, created for women and by women, features helpful study notes paired with carefully placed articles, profiles, word studies, photographs, charts, timelines, maps, and more presented on the same page as the biblical text they refer to. For both deep study and daily reading, this Bible is uniquely crafted to equip women to dig deeper into Scripture themselves and disciple other women in their life to do the same.</p>",
+        "button_label": "Shop CSB Women's Study Bible",
+        "button_link": "shopify://collections/csb-womens-study-bibles",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_Yh9cNV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_5.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featuring a new 5-Year Prayer Journal",
+        "title": "The Coram One Thing I Ask 5-Year Prayer Journal",
+        "text": "<p>Now in our best-selling Coram design, our <em>One Thing I Ask</em> is our signature 5-Year Prayer Journal dreamt up and designed by Hosanna Revival. These beautiful journals were designed to help you remember the faithfulness of God as you journal your prayers. This keepsake journal contains 366 unprompted daily spreads with five entries per day to document your prayers over five years. Each date offers seven lines per day where you can summarize your prayers into short phrases, or jot them down as bullet points. Over the next five years, this journal will become an active record of God’s movement in your life.</p>",
+        "button_label": "Shop the Coram 5-Year Prayer Journal",
+        "button_link": "shopify://products/one-thing-i-ask-5-year-prayer-journal-coram-theme",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_KDTJN4": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Spring_Collection_Bibles_18.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Featuring a new KJV Design",
+        "title": "Coram KJV Large Print Notetaking Bible",
+        "text": "<p>For the one who grew up reading the King James Version and is looking for a beautiful cover to pair with the beautiful words within</p>",
+        "button_label": "Shop Coram KJV",
+        "button_link": "shopify://products/kjv-large-print-notetaking-bible-coram-theme",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_6xgrG6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_qUyFfK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Winter-Collection-Launch-prayer.png",
+            "image_mobile": "shopify://shop_images/Winter-Collection-Launch-Prayer-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_qUyFfK"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
+    "featured_collection_YcQbAb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Explore the collection",
+        "home_featured_products": "spring-2026-collection",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "slideshow_nMLnw7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tVcxNQ": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "shopify://collections/spring-2026-collection",
+            "link_text": "Shop 2026 Spring Collection",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Spring_Collection_Bibles_7_5b7e88ec-2f30-4611-afa2-464549a05acd.jpg",
+            "image_mobile": "shopify://shop_images/Spring_Collection_Bibles_7_d7e1afd0-9a4c-49f4-9393-05925d354d12.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_tVcxNQ"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_fKC7bk",
+    "rich_text_KkwPiq",
+    "rich_text_xjbQme",
+    "text_columns_JR3fGQ",
+    "slideshow_zHFQXR",
+    "text_and_image_VdWRMG",
+    "text_and_image_6wkmVR",
+    "single_button_jJhiGP",
+    "featured_collections_iYnhdN",
+    "text_and_image_xEJ9TN",
+    "text_and_image_Yh9cNV",
+    "text_and_image_KDTJN4",
+    "slideshow_6xgrG6",
+    "featured_collection_YcQbAb",
+    "slideshow_nMLnw7"
+  ]
+}
