@@ -95,12 +95,13 @@
       "blocks": {
         "text_block_jRiEPw": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "enable_image": false,
             "image_mask": "none",
             "image_width": 650,
             "title": "CURRENT AFFILIATES",
-            "text": "<p>If you are already an affiliate with <br/>Hosanna Revival, Log in below </p>",
+            "text": "<p>If you are already an affiliate with&nbsp;<br/>Hosanna Revival, Log in below&nbsp;</p>",
             "button_label": "Log In",
             "button_link": "https://join.collabs.shopify.com/community/apply/ctvk-QKHXfY"
           }
