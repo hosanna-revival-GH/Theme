@@ -84,8 +84,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#f3ece3",
-        "color_text": "#71865b",
+        "color_bg": "#F3ECE3",
+        "color_text": "#48372F",
         "space_above": 75,
         "space_below": 75
       }
@@ -110,8 +110,8 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#d8b7c5",
-        "color_text": "#f3ece3",
+        "color_bg": "#324E3D",
+        "color_text": "#F3ECE3",
         "space_above": 15,
         "space_below": 15
       }
