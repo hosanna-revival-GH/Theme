@@ -9,6 +9,44 @@
  */
 {
   "sections": {
+    "slideshow_X4MRpa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PDEHTW": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/damascus",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2026_winter_collection_launch-10.png",
+            "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_5.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PDEHTW"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
     "slideshow_JzgDYA": {
       "type": "slideshow",
       "blocks": {
@@ -25,8 +63,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/SGIC-Preorder.png",
-            "image_mobile": "shopify://shop_images/SGIC_Preorder_Artboard_19_copy_6.png",
+            "image": "shopify://shop_images/2026-winter-collection-launch.png",
+            "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_3.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -48,13 +86,52 @@
         "disable_animation": false
       }
     },
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/damascus",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2026_winter_collection_launch-12.png",
+            "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_2.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "promo_grid_EMhhYk": {
       "type": "promo-grid",
       "blocks": {
         "image_CCyyzW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SGIC_Preorder_Artboard_2_copy_40.png",
+            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_38.png",
             "link": "shopify://pages/seeing-god-in-color",
             "width": "50"
           }
@@ -62,7 +139,7 @@
         "image_c4egAk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SGIC_Preorder_Artboard_2_copy_50_15fff2b5-93ee-4bdf-b009-322b597fe868.png",
+            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_51.png",
             "link": "shopify://products/seeing-god-in-color-by-anna-nunez",
             "width": "50"
           }
@@ -109,85 +186,6 @@
         "divider": false
       }
     },
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/damascus",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Damascus-launch-02.png",
-            "image_mobile": "shopify://shop_images/Damascus_launch_Artboard_19_copy_6.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://pages/damascus",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Damascus_launch_Artboard_69_copy_3.png",
-            "image_mobile": "shopify://shop_images/Damascus_launch_Artboard_19_copy_7.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "slideshow_gG4Qiw": {
       "type": "slideshow",
       "blocks": {
@@ -204,8 +202,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Damascus-launch-03.png",
-            "image_mobile": "shopify://shop_images/Damascus_launch-09.png",
+            "image": "shopify://shop_images/2026-winter-collection-launch2.png",
+            "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -215,7 +213,6 @@
       "block_order": [
         "image_b6EUJP"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -226,6 +223,39 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "promo_grid_UydWcM": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_JHPNPj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_39.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "50"
+          }
+        },
+        "image_8pcdHL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_52.png",
+            "link": "shopify://collections/devotionals",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_JHPNPj",
+        "image_8pcdHL"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_gW9EVE": {
@@ -334,6 +364,7 @@
       "block_order": [
         "image_Nrgk3e"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -379,48 +410,8 @@
         "image_NWGAkF",
         "image_9fzeMq"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
-    "promo_grid_cMUWra": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_eFkJk4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_38.png",
-            "link": "shopify://collections/notebooks",
-            "width": "33"
-          }
-        },
-        "image_jfUqn4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_51.png",
-            "link": "shopify://collections/notebooks",
-            "width": "33"
-          }
-        },
-        "image_6AwjAt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_52.png",
-            "link": "shopify://collections/one-thing-i-ask",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_eFkJk4",
-        "image_jfUqn4",
-        "image_6AwjAt"
-      ],
       "settings": {
         "full_width": true,
         "gutter_size": 0,
@@ -462,6 +453,7 @@
         "image_AbVRfx",
         "image_wHrqXB"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -545,58 +537,6 @@
         "lazyload_images": true
       }
     },
-    "promo_grid_UydWcM": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_JHPNPj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_29.png",
-            "link": "shopify://collections/beautiful-bibles",
-            "width": "50"
-          }
-        },
-        "image_8pcdHL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_39.png",
-            "link": "shopify://collections/devotionals",
-            "width": "50"
-          }
-        },
-        "image_dcHMiN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_34.png",
-            "link": "shopify://collections/notebooks",
-            "width": "50"
-          }
-        },
-        "image_Gm3rH7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_web_Artboard_2_copy_47.png",
-            "link": "shopify://collections/one-thing-i-ask",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_JHPNPj",
-        "image_8pcdHL",
-        "image_dcHMiN",
-        "image_Gm3rH7"
-      ],
-      "disabled": true,
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -613,7 +553,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Post_Devo_Sale-02.png",
+            "image": "shopify://shop_images/2026_winter_collection_launch-02.png",
             "image_mobile": "shopify://shop_images/Post_Devo_Sale-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -637,22 +577,21 @@
     }
   },
   "order": [
+    "slideshow_X4MRpa",
     "slideshow_JzgDYA",
+    "slideshow_8GYyKV",
     "promo_grid_EMhhYk",
     "featured_collection_AbN8iP",
     "featured_collection_fq4ak3",
-    "slideshow_X4MRpa",
-    "slideshow_8GYyKV",
     "slideshow_gG4Qiw",
+    "promo_grid_UydWcM",
     "slideshow_gW9EVE",
     "slideshow_rVxgdf",
     "slideshow_GcPDX3",
     "promo_grid_BftCNi",
-    "promo_grid_cMUWra",
     "promo_grid_MmC94X",
     "slideshow_YNbwrF",
     "promo_grid_pwwBNx",
-    "promo_grid_UydWcM",
     "slideshow_LAdPKf"
   ]
 }
