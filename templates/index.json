@@ -554,7 +554,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/2026_winter_collection_launch-02.png",
-            "image_mobile": "shopify://shop_images/Post_Devo_Sale-01.png",
+            "image_mobile": "shopify://shop_images/2026_winter_collection_launch-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
