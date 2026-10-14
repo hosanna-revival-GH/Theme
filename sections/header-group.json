@@ -47,9 +47,9 @@
         "announcement_k47GUq": {
           "type": "announcement",
           "settings": {
-            "text": "your home for beautiful Bibles",
-            "link_text": "choose yours",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": "The Winter Collection is Here",
+            "link_text": "Free Bible Tabs on Orders over $75",
+            "link": "shopify://collections/winter-2026-collection"
           }
         },
         "announcement_BUQCL9": {
@@ -64,24 +64,24 @@
         "announcement_mMUAeX": {
           "type": "announcement",
           "settings": {
-            "text": "embrace your creativity",
-            "link_text": "with Seeing God in Color — preorder your copy and get a set of 4 postcards",
-            "link": "shopify://pages/seeing-god-in-color"
+            "text": " Preorder Seeing God in Color",
+            "link_text": "Connect with God though everyday colors",
+            "link": "shopify://products/seeing-god-in-color-by-anna-nunez"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Free Shipping on orders over $100",
-            "link_text": "Stock up and enjoy shipping on us!",
-            "link": "shopify://collections/hosanna-revival-shop"
+            "text": " Your 2026 Advent Study",
+            "link_text": "Order Damascus today",
+            "link": "shopify://products/damascus-by-hannah-jessen-conway"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Explore our WHEN blog",
-            "link_text": "Scripture-based answers to life’s questions",
+            "text": "New Sketchbooks",
+            "link_text": "Create as your respond to Scripture",
             "link": "shopify://blogs/when-blog"
           }
         }
