@@ -58,6 +58,19 @@
         "disable_animation": false
       }
     },
+    "single_button_3L6q9A": {
+      "type": "single-button",
+      "settings": {
+        "button_text": "shop the winter collection",
+        "button_link": "shopify://collections/winter-2026-collection",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#473A33",
+        "link_color_text": "#f8f1ea"
+      }
+    },
     "single_button_qAwKEz": {
       "type": "single-button",
       "name": "Custom Button",
@@ -68,7 +81,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
       }
     },
@@ -81,22 +94,8 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
-      }
-    },
-    "single_button_3L6q9A": {
-      "type": "single-button",
-      "disabled": true,
-      "settings": {
-        "button_text": "30% off our devotional library",
-        "button_link": "shopify://collections/devotionals",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#a67469",
-        "link_color_text": "#f8f1ea"
       }
     },
     "single_button_QbwFRq": {
@@ -123,7 +122,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
       }
     },
@@ -150,7 +149,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
       }
     },
@@ -163,7 +162,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
       }
     },
@@ -190,7 +189,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
       }
     },
@@ -203,7 +202,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
       }
     },
@@ -216,7 +215,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#a67469",
+        "link_color_background": "#473A33",
         "link_color_text": "#ffffff"
       }
     }
@@ -224,9 +223,9 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_3L6q9A",
     "single_button_qAwKEz",
     "single_button_GryJY9",
-    "single_button_3L6q9A",
     "single_button_QbwFRq",
     "single_button_JD887j",
     "single_button_KDXcyH",
