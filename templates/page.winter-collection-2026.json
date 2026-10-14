@@ -187,7 +187,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Winter_Collection_2026_Bible_4_61178518-8f8e-483d-96dd-77b8f26d741f.jpg",
+            "image": "shopify://shop_images/Winter_Collection_2026_Bible_17.jpg",
             "image_mobile": "shopify://shop_images/Winter_Collection_2026_Bible_4_61178518-8f8e-483d-96dd-77b8f26d741f.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -200,7 +200,7 @@
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "section_height": "natural",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
