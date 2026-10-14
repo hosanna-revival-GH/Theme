@@ -131,7 +131,7 @@
         "image_CCyyzW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_38.png",
+            "image": "shopify://shop_images/2026-winter-collection-launch-1.png",
             "link": "shopify://pages/seeing-god-in-color",
             "width": "50"
           }
@@ -139,7 +139,7 @@
         "image_c4egAk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_51.png",
+            "image": "shopify://shop_images/2026-winter-collection-launch-2.png",
             "link": "shopify://products/seeing-god-in-color-by-anna-nunez",
             "width": "50"
           }
@@ -202,7 +202,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2026-winter-collection-launch2.png",
+            "image": "shopify://shop_images/2026-winter-collection-launch-3.png",
             "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
@@ -231,7 +231,7 @@
         "image_JHPNPj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_39.png",
+            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_39_f53a1a13-49f3-4917-9e7a-c8b9a63541b0.png",
             "link": "shopify://collections/beautiful-bibles",
             "width": "50"
           }
@@ -239,7 +239,7 @@
         "image_8pcdHL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_52.png",
+            "image": "shopify://shop_images/2026_winter_collection_launch_Artboard_2_copy_52_273c7d0c-3da1-41ae-8bb7-4c75e7660396.png",
             "link": "shopify://collections/devotionals",
             "width": "50"
           }
