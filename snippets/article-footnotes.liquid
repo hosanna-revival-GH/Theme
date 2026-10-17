@@ -1,0 +1,54 @@
+{%- comment -%}
+  Article body with footnotes.
+  Usage: {% render 'article-footnotes', article: article %}
+
+  Metafield: custom.footnotes (Rich text, single) on Blog posts.
+  Editor: type [^1], [^2]... in the body. Add notes as a numbered list in the metafield, same order.
+  Posts with a blank metafield (e.g. migrated WordPress posts) render the body unchanged.
+{%- endcomment -%}
+
+{%- liquid
+  assign body = article.content
+  assign notes = article.metafields.custom.footnotes
+  assign notes_html = ''
+  assign items = ''
+  if notes != blank
+    assign notes_html = notes | metafield_tag
+    assign items = notes_html | split: '<li>'
+    assign count = items.size | minus: 1
+    if count > 0
+      for i in (1..count)
+        assign marker = '[^' | append: i | append: ']'
+        assign sup = '<sup class="fn-ref"><a href="#fn-' | append: i | append: '" id="fnref-' | append: i | append: '" aria-describedby="footnotes-label">' | append: i | append: '</a></sup>'
+        assign body = body | replace: marker, sup
+      endfor
+    endif
+  endif
+-%}
+
+{{ body }}
+
+{%- if notes != blank -%}
+  <section class="article-footnotes" aria-labelledby="footnotes-label">
+    <h3 id="footnotes-label">Notes</h3>
+    {%- if items.size > 1 -%}
+      <ol>
+        {%- for item in items offset: 1 -%}
+          {%- assign n = forloop.index -%}
+          {%- assign inner = item | remove: '</ol>' | remove: '</li>' | strip -%}
+          <li id="fn-{{ n }}">{{ inner }} <a href="#fnref-{{ n }}" class="fn-back" aria-label="Back to reference {{ n }}">↩︎</a></li>
+        {%- endfor -%}
+      </ol>
+    {%- else -%}
+      {{ notes_html }}
+    {%- endif -%}
+  </section>
+{%- endif -%}
+
+{%- style -%}
+  .fn-ref { font-size: .75em; line-height: 0; }
+  .fn-ref a { text-decoration: none; }
+  .article-footnotes { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid currentColor; font-size: .9em; }
+  .article-footnotes li, .fn-ref a { scroll-margin-top: 120px; }
+  .fn-back { text-decoration: none; margin-left: .25em; }
+{%- endstyle -%}
