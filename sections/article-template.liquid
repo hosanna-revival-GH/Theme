@@ -208,11 +208,17 @@
   </div>
 </div>
 
+{%- assign schema_body = article.content | strip_html -%}
+{%- for i in (1..30) -%}
+  {%- assign fn_marker = '[^' | append: i | append: ']' -%}
+  {%- assign schema_body = schema_body | remove: fn_marker -%}
+{%- endfor -%}
+
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "articleBody": {{ article.content | strip_html | json }},
+  "articleBody": {{ schema_body | json }},
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": {{ shop.url | append: article.url | json }}
