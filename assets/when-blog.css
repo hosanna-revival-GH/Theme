@@ -1129,6 +1129,44 @@ h1.section-header__title{
 }
 
 
+/* Author Bio Layout */
+.when-author-bio {
+  display: grid !important;
+  grid-template-columns: 140px minmax(0, 1fr) !important;
+  align-items: start;
+  gap: 28px !important;
+  width: 100%;
+}
+
+/* Author Photo */
+.when-author-bio__photo {
+  width: 140px !important;
+  height: 140px !important;
+}
+
+.when-author-bio__photo img {
+  display: block;
+  width: 140px !important;
+  height: 140px !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* Author Content */
+.when-author-bio__content {
+  min-width: 0;
+}
+
+.when-author-bio__name {
+  margin: 0 0 8px;
+}
+
+.when-author-bio__bio {
+  margin: 0 0 12px;
+}
+
+/* Mobile */
 @media (max-width: 600px) {
   .when-author-bio {
     grid-template-columns: 100px minmax(0, 1fr) !important;
