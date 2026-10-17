@@ -1127,3 +1127,17 @@ a.when-topics-directory__anchor:focus-visible {
 h1.section-header__title{
   padding: .5rem 0;
 }
+
+
+@media (max-width: 600px) {
+  .when-author-bio {
+    grid-template-columns: 100px minmax(0, 1fr) !important;
+    gap: 16px !important;
+  }
+
+  .when-author-bio__photo,
+  .when-author-bio__photo img {
+    width: 100px !important;
+    height: 100px !important;
+  }
+}
