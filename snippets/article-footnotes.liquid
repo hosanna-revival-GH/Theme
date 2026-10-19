@@ -35,7 +35,7 @@
       <ol>
         {%- for item in items offset: 1 -%}
           {%- assign n = forloop.index -%}
-          {%- assign inner = item | remove: '</ol>' | remove: '</li>' | strip -%}
+          {%- assign inner = item | split: '</li>' | first | strip -%}
           <li id="fn-{{ n }}">{{ inner }} <a href="#fnref-{{ n }}" class="fn-back" aria-label="Back to reference {{ n }}">↩︎</a></li>
         {%- endfor -%}
       </ol>
