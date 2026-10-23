@@ -51,4 +51,18 @@
   .article-footnotes { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid currentColor; font-size: .9em; }
   .article-footnotes li, .fn-ref a { scroll-margin-top: 120px; }
   .fn-back { text-decoration: none; margin-left: .25em; }
+
+  #MainContent .rte sup.fn-ref a,
+  #MainContent .rte a.fn-back {
+    border-bottom: 0 !important;
+    display: inline !important;
+  }
+  #MainContent .rte sup.fn-ref a::after,
+  #MainContent .rte a.fn-back::after {
+    display: none !important;
+  }
+  #MainContent .rte sup.fn-ref a:hover,
+  #MainContent .rte sup.fn-ref a:focus-visible {
+    text-decoration: underline;
+  }
 {%- endstyle -%}
