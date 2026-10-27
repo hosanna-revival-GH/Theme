@@ -91,7 +91,7 @@
         "image_wLbLxt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_39.png",
+            "image": "shopify://shop_images/SGIC_LAunch.png",
             "link": "shopify://collections/study-bibles",
             "width": "33"
           }
@@ -99,7 +99,7 @@
         "image_NWGAkF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_52.png",
+            "image": "shopify://shop_images/SGIC-LAunch.png",
             "link": "shopify://collections/nlt-compact-bibles",
             "width": "33"
           }
@@ -107,7 +107,7 @@
         "image_9fzeMq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_53.png",
+            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_53_801fd4e9-223e-4953-accc-796086cdf886.png",
             "link": "shopify://collections/notetaking-bibles",
             "width": "33"
           }
