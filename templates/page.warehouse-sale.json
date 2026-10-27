@@ -113,6 +113,7 @@
     },
     "a2e2d0e5-7c56-49e1-b684-c10ae0393507": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Post-Winter-Collection-Launch-01.png",
         "image_mask": "none",
