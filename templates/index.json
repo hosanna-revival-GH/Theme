@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2026_winter_collection_launch-10.png",
-            "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_5.png",
+            "image": "shopify://shop_images/SGIC_LAunch-03.png",
+            "image_mobile": "shopify://shop_images/SGIC_LAunch_Artboard_19_copy_6.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -44,6 +44,125 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "slideshow_gW9EVE": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nrxtXn": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https://hosannarevival.com/products/the-abide-notebook",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/SGIC_LAunch-05.png",
+            "image_mobile": "shopify://shop_images/SGIC_LAunch_Artboard_19_copy_8.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_nrxtXn"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false,
+        "disable_animation": false
+      }
+    },
+    "promo_grid_BftCNi": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_wLbLxt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_39.png",
+            "link": "shopify://collections/study-bibles",
+            "width": "33"
+          }
+        },
+        "image_NWGAkF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_52.png",
+            "link": "shopify://collections/nlt-compact-bibles",
+            "width": "33"
+          }
+        },
+        "image_9fzeMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_53.png",
+            "link": "shopify://collections/notetaking-bibles",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "image_wLbLxt",
+        "image_NWGAkF",
+        "image_9fzeMq"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_rVxgdf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_4AF4QK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://products/damascus-by-hannah-jessen-conway",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/SGIC_LAunch-11.png",
+            "image_mobile": "shopify://shop_images/SGIC_LAunch_Artboard_19_copy_10.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_4AF4QK"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -113,6 +232,7 @@
       "block_order": [
         "image_AXTDqX"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -149,6 +269,7 @@
         "image_CCyyzW",
         "image_c4egAk"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -213,6 +334,7 @@
       "block_order": [
         "image_b6EUJP"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
@@ -249,6 +371,7 @@
         "image_JHPNPj",
         "image_8pcdHL"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -256,85 +379,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "slideshow_gW9EVE": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nrxtXn": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/products/the-abide-notebook",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/abide-journal-desktop.png",
-            "image_mobile": "shopify://shop_images/abide-journal.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_nrxtXn"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_rVxgdf": {
-      "type": "slideshow",
-      "blocks": {
-        "image_4AF4QK": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://products/damascus-by-hannah-jessen-conway",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Damascus-launch.png",
-            "image_mobile": "shopify://shop_images/Damascus_launch-10.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_4AF4QK"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "slideshow_GcPDX3": {
@@ -375,49 +419,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
-      }
-    },
-    "promo_grid_BftCNi": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_wLbLxt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_36.png",
-            "link": "shopify://collections/study-bibles",
-            "width": "33"
-          }
-        },
-        "image_NWGAkF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_47.png",
-            "link": "shopify://collections/nlt-compact-bibles",
-            "width": "33"
-          }
-        },
-        "image_9fzeMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Post_Devo_Sale_Artboard_2_copy_48.png",
-            "link": "shopify://collections/notetaking-bibles",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_wLbLxt",
-        "image_NWGAkF",
-        "image_9fzeMq"
-      ],
-      "disabled": true,
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
       }
     },
     "promo_grid_MmC94X": {
@@ -578,6 +579,9 @@
   },
   "order": [
     "slideshow_X4MRpa",
+    "slideshow_gW9EVE",
+    "promo_grid_BftCNi",
+    "slideshow_rVxgdf",
     "slideshow_JzgDYA",
     "slideshow_8GYyKV",
     "promo_grid_EMhhYk",
@@ -585,10 +589,7 @@
     "featured_collection_fq4ak3",
     "slideshow_gG4Qiw",
     "promo_grid_UydWcM",
-    "slideshow_gW9EVE",
-    "slideshow_rVxgdf",
     "slideshow_GcPDX3",
-    "promo_grid_BftCNi",
     "promo_grid_MmC94X",
     "slideshow_YNbwrF",
     "promo_grid_pwwBNx",
