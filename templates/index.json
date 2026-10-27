@@ -281,11 +281,10 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "our favorites",
-        "home_featured_products": "best-sellers",
+        "title": "the winter collection",
+        "home_featured_products": "winter-2026-collection",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
