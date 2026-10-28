@@ -34,7 +34,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-230.jpg",
+            "image": "shopify://shop_images/Christmas_Revival_2026.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -114,7 +114,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-110.jpg",
+            "image": "shopify://shop_images/Christmas_Revival_0727.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Best Sellers",
@@ -127,7 +127,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-414.jpg",
+            "image": "shopify://shop_images/Christmas_Revival_2026_1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "For the new believer",
@@ -140,7 +140,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Jerusalem-Notebook-Lined-Journal-Black-Suede-Leather-Bible-Verse-Hosanna-Revival-Styled-03.jpg",
+            "image": "shopify://shop_images/Christmas_Hosanna_Revival_2026.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "For Deep Study",
@@ -360,43 +360,6 @@
         "divider": false
       }
     },
-    "slideshow_k6XLra": {
-      "type": "slideshow",
-      "blocks": {
-        "image_XYVVtX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/hosanna-revival-shop",
-            "link_text": "shop all",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Cropped-Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-229.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_XYVVtX"
-      ],
-      "settings": {
-        "section_height": "450px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
-      }
-    },
     "text_columns_g6AqGH": {
       "type": "text-columns",
       "blocks": {
@@ -473,6 +436,43 @@
         "title": "Shop by translation",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "slideshow_k6XLra": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XYVVtX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "link_text": "shop all",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Cropped-Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-229.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_XYVVtX"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
