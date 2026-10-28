@@ -67,7 +67,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#f8f1ea"
       }
     },
@@ -75,13 +75,13 @@
       "type": "single-button",
       "name": "Custom Button",
       "settings": {
-        "button_text": "Preorder your copy of Seeing God in Color",
+        "button_text": "Order your copy of Seeing God in Color",
         "button_link": "https://hosannarevival.com/products/seeing-god-in-color-by-anna-nunez",
         "button_size": "huge",
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     },
@@ -94,7 +94,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     },
@@ -122,7 +122,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     },
@@ -149,7 +149,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     },
@@ -162,7 +162,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     },
@@ -189,7 +189,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     },
@@ -202,7 +202,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     },
@@ -215,7 +215,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#473A33",
+        "link_color_background": "#473a33",
         "link_color_text": "#ffffff"
       }
     }
