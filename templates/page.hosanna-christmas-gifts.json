@@ -123,19 +123,6 @@
             "button_link": "shopify://collections/birthday-gifts"
           }
         },
-        "text_block_NnatEH": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Christmas_Revival_2026_1.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "For the new believer",
-            "text": "",
-            "button_label": "SHOP",
-            "button_link": "shopify://collections/wedding-gifts"
-          }
-        },
         "text_block_dMJ7qf": {
           "type": "text_block",
           "settings": {
@@ -161,13 +148,26 @@
             "button_label": "SHOP",
             "button_link": "shopify://collections/graduation-gifts"
           }
+        },
+        "text_block_NnatEH": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Revival_2026_1.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "For the new believer",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/wedding-gifts"
+          }
         }
       },
       "block_order": [
         "text_block_7dXp8U",
-        "text_block_NnatEH",
         "text_block_dMJ7qf",
-        "text_block_VAwKkd"
+        "text_block_VAwKkd",
+        "text_block_NnatEH"
       ],
       "settings": {
         "title": "",
@@ -182,6 +182,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Hosanna_2026_1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Landscape",
@@ -194,6 +195,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Hosanna_Revival_2026_1.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Leather-like",
@@ -206,9 +208,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Revival_2026_2_a45d56a1-989b-41c1-9d32-1fcbe6c06a1c.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Floral",
+            "title": "embroidered",
             "text": "",
             "button_label": "Shop",
             "button_link": ""
