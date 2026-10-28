@@ -178,19 +178,6 @@
     "text_columns_4jQQ3V": {
       "type": "text-columns",
       "blocks": {
-        "text_block_hdEBjf": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Christmas_Hosanna_2026_1.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Landscape",
-            "text": "",
-            "button_label": "SHOP",
-            "button_link": ""
-          }
-        },
         "text_block_epX6Tk": {
           "type": "text_block",
           "settings": {
@@ -201,6 +188,19 @@
             "title": "Leather-like",
             "text": "",
             "button_label": "Shop",
+            "button_link": ""
+          }
+        },
+        "text_block_hdEBjf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Hosanna_2026_1.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Landscape",
+            "text": "",
+            "button_label": "SHOP",
             "button_link": ""
           }
         },
@@ -219,8 +219,8 @@
         }
       },
       "block_order": [
-        "text_block_hdEBjf",
         "text_block_epX6Tk",
+        "text_block_hdEBjf",
         "text_block_Uckwn8"
       ],
       "name": "t:sections.text-columns.presets.text_columns_with_images.name",
