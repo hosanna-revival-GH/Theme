@@ -25,7 +25,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "It's the most wonderful time of the year",
+            "title": "The most wonderful time of the year",
             "title_size": 40,
             "subheading": "Invest in their faith with a tool that points them towards the beauty of Christ",
             "link": "shopify://collections/hosanna-revival-shop",
@@ -94,10 +94,10 @@
       "type": "hero-video",
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
-        "title": "The Mother’s Day Gift Guide",
+        "title": "The Gifting Library",
         "title_size": 40,
-        "subheading": "Find a gift she’ll truly cherish",
-        "link_text": "Shop",
+        "subheading": "Wander the shelves and find the gift they never saw coming",
+        "link_text": "Shop gift guides",
         "link": "shopify://pages/your-mothers-day-gift-guide",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
