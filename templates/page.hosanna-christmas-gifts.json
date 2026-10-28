@@ -110,18 +110,6 @@
     "text_columns_FdDd96": {
       "type": "text-columns",
       "blocks": {
-        "text_block_KEnR9p": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Landscape Designs",
-            "text": "",
-            "button_label": "Shop",
-            "button_link": ""
-          }
-        },
         "text_block_7dXp8U": {
           "type": "text_block",
           "settings": {
@@ -176,7 +164,6 @@
         }
       },
       "block_order": [
-        "text_block_KEnR9p",
         "text_block_7dXp8U",
         "text_block_NnatEH",
         "text_block_dMJ7qf",
@@ -186,6 +173,32 @@
         "title": "",
         "align_text": "center",
         "divider": false
+      }
+    },
+    "rich_text_UFUnjc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VQ6MBy": {
+          "type": "heading",
+          "settings": {
+            "title": "Shop by Design"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VQ6MBy"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
       }
     },
     "rich_text_3zRiRP": {
@@ -541,6 +554,58 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "text_columns_4jQQ3V": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_hdEBjf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Landscape",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": ""
+          }
+        },
+        "text_block_epX6Tk": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Leather-like",
+            "text": "",
+            "button_label": "Shop",
+            "button_link": ""
+          }
+        },
+        "text_block_Uckwn8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Floral",
+            "text": "",
+            "button_label": "Shop",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hdEBjf",
+        "text_block_epX6Tk",
+        "text_block_Uckwn8"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "settings": {
+        "title": "Shop by Design",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -549,12 +614,14 @@
     "rich_text_MgYrmf",
     "hero_video_dWyMXi",
     "text_columns_FdDd96",
+    "rich_text_UFUnjc",
     "rich_text_3zRiRP",
     "text_columns_DwipUV",
     "image_row_7JLYt8",
     "promo_grid_4rdNFx",
     "testimonials_G4RgLn",
     "text_columns_93TUbp",
-    "slideshow_k6XLra"
+    "slideshow_k6XLra",
+    "text_columns_4jQQ3V"
   ]
 }
