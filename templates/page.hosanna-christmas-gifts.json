@@ -110,6 +110,18 @@
     "text_columns_FdDd96": {
       "type": "text-columns",
       "blocks": {
+        "text_block_KEnR9p": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Landscape Designs",
+            "text": "",
+            "button_label": "Shop",
+            "button_link": ""
+          }
+        },
         "text_block_7dXp8U": {
           "type": "text_block",
           "settings": {
@@ -161,87 +173,14 @@
             "button_label": "SHOP",
             "button_link": "shopify://collections/graduation-gifts"
           }
-        },
-        "text_block_Xpg9t7": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Spread-The-Word-Collective-Video-BTS-Beautiful-Biblea-Hosanna-Revival-015.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Birthday Gifts",
-            "text": "",
-            "button_label": "shop",
-            "button_link": ""
-          }
-        },
-        "text_block_LiyywU": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        },
-        "text_block_nMz38N": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-210.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "GIFTS UNDER $25",
-            "text": "",
-            "button_label": "shop",
-            "button_link": "shopify://collections/by-price"
-          }
-        },
-        "text_block_zNp8kU": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-182.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "GIFTS UNDER $50",
-            "text": "",
-            "button_label": "shop",
-            "button_link": "shopify://collections/under-60"
-          }
-        },
-        "text_block_zKpXRq": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-173.jpg",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "GIFTS UNDER $75",
-            "text": "",
-            "button_label": "shop",
-            "button_link": "shopify://collections/under-100"
-          }
         }
       },
       "block_order": [
+        "text_block_KEnR9p",
         "text_block_7dXp8U",
         "text_block_NnatEH",
         "text_block_dMJ7qf",
-        "text_block_VAwKkd",
-        "text_block_Xpg9t7",
-        "text_block_LiyywU",
-        "text_block_nMz38N",
-        "text_block_zNp8kU",
-        "text_block_zKpXRq"
+        "text_block_VAwKkd"
       ],
       "settings": {
         "title": "",
