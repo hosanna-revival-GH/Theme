@@ -397,16 +397,55 @@
         "disable_animation": false
       }
     },
-    "featured_collection_m76LGH": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
+    "text_columns_g6AqGH": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_E9bJPL": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "ESV",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_y6TKhR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "NLT",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_LirEif": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "CSB",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_E9bJPL",
+        "text_block_y6TKhR",
+        "text_block_LirEif"
+      ],
+      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
       "settings": {
-        "title": "Gifts for Prayer",
-        "home_featured_products": "one-thing-i-ask",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
+        "title": "Shop by translation",
+        "align_text": "center",
         "divider": false
       }
     }
@@ -422,6 +461,6 @@
     "text_columns_DwipUV",
     "text_columns_93TUbp",
     "slideshow_k6XLra",
-    "featured_collection_m76LGH"
+    "text_columns_g6AqGH"
   ]
 }
