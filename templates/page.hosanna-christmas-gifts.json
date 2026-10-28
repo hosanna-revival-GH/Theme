@@ -493,6 +493,19 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "featured_collection_nqDQkf": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Under $100",
+        "home_featured_products": "under-100",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -508,6 +521,7 @@
     "text_columns_g6AqGH",
     "slideshow_k6XLra",
     "featured_collection_Kxf4kd",
-    "featured_collection_9eXhJ8"
+    "featured_collection_9eXhJ8",
+    "featured_collection_nqDQkf"
   ]
 }
