@@ -232,17 +232,6 @@
     },
     "rich_text_3zRiRP": {
       "type": "rich-text",
-      "blocks": {
-        "heading_Mj4qt9": {
-          "type": "heading",
-          "settings": {
-            "title": "Shop by price"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Mj4qt9"
-      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -303,6 +292,7 @@
         "text_block_eJdbkA",
         "text_block_UpgeAt"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -477,6 +467,19 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "featured_collection_Kxf4kd": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Under $25",
+        "home_featured_products": "by-price",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -490,6 +493,7 @@
     "text_columns_DwipUV",
     "text_columns_93TUbp",
     "text_columns_g6AqGH",
-    "slideshow_k6XLra"
+    "slideshow_k6XLra",
+    "featured_collection_Kxf4kd"
   ]
 }
