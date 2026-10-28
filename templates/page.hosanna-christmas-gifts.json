@@ -400,6 +400,30 @@
     "text_columns_g6AqGH": {
       "type": "text-columns",
       "blocks": {
+        "text_block_mcakGc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "NTV (Spanish)",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_3axL3V": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "KJV",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
         "text_block_E9bJPL": {
           "type": "text_block",
           "settings": {
@@ -438,6 +462,8 @@
         }
       },
       "block_order": [
+        "text_block_mcakGc",
+        "text_block_3axL3V",
         "text_block_E9bJPL",
         "text_block_y6TKhR",
         "text_block_LirEif"
