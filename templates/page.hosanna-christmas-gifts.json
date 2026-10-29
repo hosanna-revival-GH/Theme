@@ -360,6 +360,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Revival_2026_5.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "NTV (Spanish)",
@@ -372,6 +373,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Revival_2026_6.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "KJV",
@@ -384,6 +386,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Hosanna_Revival_2026_2.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "ESV",
@@ -396,6 +399,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Revival_2026_4.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "NLT",
@@ -408,6 +412,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Christmas_Hosanna_2026_2.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "CSB",
