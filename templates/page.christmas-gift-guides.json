@@ -41,13 +41,13 @@
         "lazyload_images": true
       }
     },
-    "hero_video_RTJQgT": {
+    "hero_video_TwVdJU": {
       "type": "hero-video",
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
         "title": "The Gifting Library",
         "title_size": 80,
-        "subheading": "",
+        "subheading": "Curated gift guides you can gift intentionally",
         "link_text": "Optional button",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
@@ -62,6 +62,6 @@
   "order": [
     "main",
     "advanced_content_RycVwR",
-    "hero_video_RTJQgT"
+    "hero_video_TwVdJU"
   ]
 }
