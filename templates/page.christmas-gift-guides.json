@@ -48,7 +48,7 @@
         "title": "The Gifting Library",
         "title_size": 51,
         "subheading": "Curated gift guides so you can gift intentionally",
-        "link_text": "Optional button",
+        "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
