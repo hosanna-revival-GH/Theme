@@ -399,7 +399,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Christmas_Revival_2026_4.jpg",
+            "image": "shopify://shop_images/Christmas_Revival_2026_7.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "NLT",
@@ -452,7 +452,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Cropped-Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-229.jpg",
+            "image": "shopify://shop_images/Christmas_Hosanna_Revival_2026_3.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
