@@ -252,7 +252,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-211.jpg",
+            "image": "shopify://shop_images/Christmas_Revival_Aug_31_2026.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Gifts under $25",
@@ -265,7 +265,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-187.jpg",
+            "image": "shopify://shop_images/Christmas_Revival_2026_3.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Gifts under $60",
@@ -278,7 +278,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Mother_s-Day-Giftable-Beautiful-Bibles-Hosanna-Revival-167.jpg",
+            "image": "shopify://shop_images/Christmas_Hosanna_Revival_150.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "Gifts under $100",
@@ -293,7 +293,6 @@
         "text_block_eJdbkA",
         "text_block_UpgeAt"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -468,45 +467,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "featured_collection_Kxf4kd": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Under $25",
-        "home_featured_products": "by-price",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_9eXhJ8": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "under $60",
-        "home_featured_products": "under-60",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_nqDQkf": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Under $100",
-        "home_featured_products": "under-100",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -520,9 +480,6 @@
     "text_columns_DwipUV",
     "text_columns_93TUbp",
     "text_columns_g6AqGH",
-    "slideshow_k6XLra",
-    "featured_collection_Kxf4kd",
-    "featured_collection_9eXhJ8",
-    "featured_collection_nqDQkf"
+    "slideshow_k6XLra"
   ]
 }
