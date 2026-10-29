@@ -55,6 +55,60 @@
         "disable_animation": false
       }
     },
+    "text_columns_93TUbp": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_3eKA6X": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 110,
+            "title": "",
+            "text": "<p>I absolutely LOVE my new Bible! I love the beautiful cover! The pages have lots of room for notes!<br/>- Lauren</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_RMXayD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 110,
+            "title": "",
+            "text": "<p>The most beautiful Bible! It truly is as beautiful as other comments say. I’m hooked on Hosanna Revival.<br/>- Jessica</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_UXky87": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/FiveStars.png",
+            "image_mask": "none",
+            "image_width": 110,
+            "title": "",
+            "text": "<p>This is so pretty and high quality.  Honestly, the beauty of it really draws me to open it up and read it.<br/>- Linda</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3eKA6X",
+        "text_block_RMXayD",
+        "text_block_UXky87"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "rich_text_MgYrmf": {
       "type": "rich-text",
       "blocks": {
@@ -299,60 +353,6 @@
         "divider": false
       }
     },
-    "text_columns_93TUbp": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_3eKA6X": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/FiveStars.png",
-            "image_mask": "none",
-            "image_width": 110,
-            "title": "",
-            "text": "<p>I absolutely LOVE my new Bible! I love the beautiful cover! The pages have lots of room for notes!<br/>- Lauren</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_RMXayD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/FiveStars.png",
-            "image_mask": "none",
-            "image_width": 110,
-            "title": "",
-            "text": "<p>The most beautiful Bible! It truly is as beautiful as other comments say. I’m hooked on Hosanna Revival.<br/>- Jessica</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_UXky87": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/FiveStars.png",
-            "image_mask": "none",
-            "image_width": 110,
-            "title": "",
-            "text": "<p>This is so pretty and high quality.  Honestly, the beauty of it really draws me to open it up and read it.<br/>- Linda</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_3eKA6X",
-        "text_block_RMXayD",
-        "text_block_UXky87"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
     "text_columns_g6AqGH": {
       "type": "text-columns",
       "blocks": {
@@ -477,13 +477,13 @@
   "order": [
     "main",
     "slideshow_cFeUAy",
+    "text_columns_93TUbp",
     "rich_text_MgYrmf",
     "hero_video_dWyMXi",
     "text_columns_FdDd96",
     "text_columns_4jQQ3V",
     "rich_text_3zRiRP",
     "text_columns_DwipUV",
-    "text_columns_93TUbp",
     "text_columns_g6AqGH",
     "slideshow_k6XLra"
   ]
