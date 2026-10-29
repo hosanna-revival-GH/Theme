@@ -145,6 +145,28 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_CFbxEf": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/gift_guide-05.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Gift Guide For",
+        "title": "DEEPER STUDY",
+        "text": "<p>For the person who's ready to sit down with their coffee and Bible, and stay their for awhile. Give a gift that ushers in peace and solitude with the Lord.&nbsp;</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -154,6 +176,7 @@
     "text_and_image_MfG8wm",
     "text_and_image_phm8fi",
     "text_and_image_4QgDw6",
-    "text_and_image_gYnMEy"
+    "text_and_image_gYnMEy",
+    "text_and_image_CFbxEf"
   ]
 }
