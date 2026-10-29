@@ -79,12 +79,35 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_phm8fi": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/gift_guide-02.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The gift guide for the",
+        "title": "New Believer",
+        "text": "<p>For the person in you're life that has just begun or restarted their relationship with Jesus. Give a gift that blesses their faith and encourages them to keep pursuing the Lord. &nbsp;</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
     "hero_video_TwVdJU",
-    "text_and_image_MfG8wm"
+    "text_and_image_MfG8wm",
+    "text_and_image_phm8fi"
   ]
 }
