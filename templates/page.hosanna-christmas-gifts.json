@@ -121,7 +121,7 @@
             "title": "Best Sellers",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "shopify://collections/birthday-gifts"
+            "button_link": "shopify://collections/best-sellers"
           }
         },
         "text_block_dMJ7qf": {
@@ -134,7 +134,7 @@
             "title": "For Deep Study",
             "text": "",
             "button_label": "shop",
-            "button_link": "shopify://collections/gifts-for-men"
+            "button_link": "shopify://collections/study-bibles"
           }
         },
         "text_block_VAwKkd": {
@@ -144,10 +144,10 @@
             "image": "shopify://shop_images/Christmas_Revival_1129.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "Everything but the Bible",
+            "title": "STOCKING STUFFERS",
             "text": "",
             "button_label": "SHOP",
-            "button_link": "shopify://collections/graduation-gifts"
+            "button_link": "shopify://collections/stocking-stuffers"
           }
         },
         "text_block_NnatEH": {
@@ -189,7 +189,7 @@
             "title": "Leather-like",
             "text": "",
             "button_label": "Shop",
-            "button_link": ""
+            "button_link": "shopify://collections/leather-like-bibles"
           }
         },
         "text_block_hdEBjf": {
@@ -202,7 +202,7 @@
             "title": "Landscape",
             "text": "",
             "button_label": "SHOP",
-            "button_link": ""
+            "button_link": "shopify://collections/landscape"
           }
         },
         "text_block_Uckwn8": {
@@ -215,7 +215,7 @@
             "title": "embroidered",
             "text": "",
             "button_label": "Shop",
-            "button_link": ""
+            "button_link": "shopify://collections/embroidery"
           }
         }
       },
@@ -366,7 +366,7 @@
             "title": "NTV (Spanish)",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
-            "button_link": ""
+            "button_link": "shopify://collections/beautiful-spanish-bibles"
           }
         },
         "text_block_3axL3V": {
@@ -379,7 +379,7 @@
             "title": "KJV",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
-            "button_link": ""
+            "button_link": "shopify://collections/kjv-bibles"
           }
         },
         "text_block_E9bJPL": {
@@ -392,7 +392,7 @@
             "title": "ESV",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
-            "button_link": ""
+            "button_link": "shopify://collections/esv-bibles"
           }
         },
         "text_block_y6TKhR": {
@@ -405,7 +405,7 @@
             "title": "NLT",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
-            "button_link": ""
+            "button_link": "shopify://collections/nlt-bibles"
           }
         },
         "text_block_LirEif": {
@@ -418,7 +418,7 @@
             "title": "CSB",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
-            "button_link": ""
+            "button_link": "shopify://collections/csb-bibles"
           }
         }
       },
