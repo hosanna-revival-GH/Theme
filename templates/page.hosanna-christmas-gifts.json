@@ -376,7 +376,7 @@
             "image": "shopify://shop_images/Christmas_Revival_2026_6.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "KJV",
+            "title": "KING JAMES VERSION",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
             "button_link": "shopify://collections/kjv-bibles"
@@ -389,7 +389,7 @@
             "image": "shopify://shop_images/Christmas_Hosanna_Revival_2026_2.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "ESV",
+            "title": "ENGLISH STANDARD VERSION",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
             "button_link": "shopify://collections/esv-bibles"
@@ -402,7 +402,7 @@
             "image": "shopify://shop_images/Christmas_Revival_2026_7.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "NLT",
+            "title": "NEW LIVING TRANSLATION",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
             "button_link": "shopify://collections/nlt-bibles"
@@ -415,7 +415,7 @@
             "image": "shopify://shop_images/Christmas_Hosanna_2026_2.jpg",
             "image_mask": "none",
             "image_width": 650,
-            "title": "CSB",
+            "title": "CHRISTIAN STANDARD BIBLE",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
             "button_label": "Optional button",
             "button_link": "shopify://collections/csb-bibles"
