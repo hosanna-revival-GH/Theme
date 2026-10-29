@@ -57,11 +57,34 @@
         "section_height": "650px",
         "mobile_height": "auto"
       }
+    },
+    "text_and_image_MfG8wm": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/gift_guide-01.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Gift Guide for the",
+        "title": "Intentional Gifter",
+        "text": "<p>For the one who wants the person receiving their gift to feel truly seen and known. Gifts that say \"I saw this and I thought of you specifically\". Bless someone with something unique this Christmas.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
-    "hero_video_TwVdJU"
+    "hero_video_TwVdJU",
+    "text_and_image_MfG8wm"
   ]
 }
