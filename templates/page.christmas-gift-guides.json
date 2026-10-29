@@ -123,6 +123,28 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_gYnMEy": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/gift_guide-04.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The",
+        "title": "Best Sellers Gift Guide",
+        "text": "<p>Proven to be well loved. These are gifts that are raved about for a reason. Choose a gift from there that you can trust will be enjoyed by the person receiving it.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -131,6 +153,7 @@
     "hero_video_TwVdJU",
     "text_and_image_MfG8wm",
     "text_and_image_phm8fi",
-    "text_and_image_4QgDw6"
+    "text_and_image_4QgDw6",
+    "text_and_image_gYnMEy"
   ]
 }
