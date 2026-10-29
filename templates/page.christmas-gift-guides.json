@@ -41,59 +41,27 @@
         "lazyload_images": true
       }
     },
-    "rich_text_jDDMVz": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jyQNt8": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text_bTpBgV": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We’re so grateful you want to shop Hosanna Revival in person! Please note that while these stores carry our products, we cannot guarantee that the specific item you’re looking for will be in stock. We recommend reaching out to the store directly for the most up-to-date information on what they currently have available.</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_jyQNt8",
-        "text_bTpBgV"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.rich_text.name",
+    "hero_video_RTJQgT": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "blog_topics_directory_LUDrQc": {
-      "type": "blog-topics-directory",
-      "name": "Blog Topics Directory",
-      "settings": {
-        "blog": "",
-        "heading": "All Blog Topics",
-        "intro": "<p>Browse every topic we've written about.</p>",
-        "show_curated": true
+        "title": "The Gifting Library",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     }
   },
   "order": [
     "main",
     "advanced_content_RycVwR",
-    "rich_text_jDDMVz",
-    "blog_topics_directory_LUDrQc"
+    "hero_video_RTJQgT"
   ]
 }
