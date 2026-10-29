@@ -101,6 +101,28 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_4QgDw6": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/gift_guide-03.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The Gift Guide for The",
+        "title": "Art lover",
+        "text": "<p>For the person in your life that is deeply artful, and has an appreciated for handcrafted beauty. Choose a gift that speaks to the way God designed them to create!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -108,6 +130,7 @@
     "advanced_content_RycVwR",
     "hero_video_TwVdJU",
     "text_and_image_MfG8wm",
-    "text_and_image_phm8fi"
+    "text_and_image_phm8fi",
+    "text_and_image_4QgDw6"
   ]
 }
