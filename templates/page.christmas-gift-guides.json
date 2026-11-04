@@ -67,19 +67,39 @@
             "title": "The Perfect Gift you didn’t Think of"
           }
         },
+        "text_EqqAFW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Dear intentional gifter,</em></p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
         "text_jxVfix": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
             "text": "<p>We took the guesswork out of gifting. Every piece in our gift guide comes from a brand our team loves and trusts, so all that’s left for you is choosing who gets what. We pray these curated gift guides would help you find the perfect intentional gift you didn’t think of.&nbsp;</p>",
-            "align_text_block": "center",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_gQhkzN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Beauty Awaits,<br/>Hosanna Revival</em></p>",
+            "align_text_block": "left",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
         "heading_KMbdbT",
-        "text_jxVfix"
+        "text_EqqAFW",
+        "text_jxVfix",
+        "text_gQhkzN"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
