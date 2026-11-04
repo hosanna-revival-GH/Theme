@@ -84,7 +84,7 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#311720",
+        "color_bg": "#852C33",
         "color_text": "#f7f0e8",
         "space_above": 75,
         "space_below": 75
@@ -141,7 +141,7 @@
         "image2_mask": "none",
         "subtitle": "Warehouse Sale",
         "title": "The Details",
-        "text": "<p><strong>What: </strong>Need any last-minute gifts? Our Christmas Warehouse Pop-Up Sale is December 12th from 9 am-1 pm! Choose beautiful and intentional gifts from both our new tools (with an extra special sale!) and our extremely-discounted Bumped and Bruised section (rumored to feature some out-of-stock items!). This is the one time a year our doors open to the public so come shop and hang out with us!</p><p><strong>Perks: </strong>First 200 customers through the door will be getting exclusive freebies!&nbsp;</p>",
+        "text": "<p><strong>What: </strong>Need any last-minute gifts? Our Christmas Warehouse Pop-Up Sale is December 12th from 9 am-1 pm! Choose beautiful and intentional gifts from both our new tools (with an extra special sale!) and our extremely-discounted Bumped and Bruised section (rumored to feature some out-of-stock items!). This is the one time a year our doors open to the public so come shop and hang out with us!</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
