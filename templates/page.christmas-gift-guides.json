@@ -136,6 +136,52 @@
         "lazyload_images": true
       }
     },
+    "rich_text_C6zzbp": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RbLBnA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        },
+        "heading_BC4L6y": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_kVR7e7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Intentional Gifts from Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_RbLBnA",
+        "heading_BC4L6y",
+        "text_kVR7e7"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "text_and_image_phm8fi": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -231,6 +277,7 @@
     "hero_video_TwVdJU",
     "rich_text_4cTdK3",
     "text_and_image_MfG8wm",
+    "rich_text_C6zzbp",
     "text_and_image_phm8fi",
     "text_and_image_4QgDw6",
     "text_and_image_gYnMEy",
