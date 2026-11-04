@@ -428,10 +428,20 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
+        },
+        "text_X9AQGa": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li><a href=\"https://gracelaced.com/collections/bookmarks\"><strong>Gracelaced Magnetic Bookmark Set</strong></a><strong>:</strong> Beautifully illustrated bookmarks that hold her place in Scripture and remind her of truth every time she opens her Bible.</li><li><a href=\"https://getbrick.com/products/grey-brick\"><strong>Brick</strong></a><strong>:</strong> A simple tool that blocks distracting apps, giving her the gift of being fully present in her quiet time, with her people and in her own life.</li><li><a href=\"https://magnolia.com/products/magnolia-daybreak-candle\"><strong>Magnolia Daybreak Candle</strong></a><strong>:</strong> A fresh, uplifting scent made for early mornings, open Bibles and a fresh cup of coffee.</li><li><a href=\"https://www.crossway.org/books/morning-and-evening-3case/\"><strong>Spurgeon's </strong><em><strong>Morning and Evening</strong></em></a><strong>:</strong> A timeless devotional that has walked believers through the beginning and end of every day for over a century.</li><li><a href=\"https://www.everymomentholy.com/\"><em><strong>Every Moment Holy</strong></em></a><strong>:</strong> A collection of liturgies for ordinary life that helps her see God's presence in everything from morning coffee to folding laundry.</li><li><a href=\"https://www.harpercollins.com/products/her-daily-bread-kate-wood?variant=39296929693730\"><em><strong>Her Daily Bread</strong></em><strong> by Kate Wood</strong></a><strong>:</strong> A beautiful book that invites her to find nourishment for both body and soul in the everyday.</li><li><a href=\"https://riflepaperco.com/products/gel-pen-set-of-4-paisley\"><strong>Rifle Paper Co. Paisley Gel Pen Set</strong></a><strong>:</strong> Pretty pens that make journaling, note-taking and Bible study feel a little more special.</li><li><a href=\"https://store.johnmarkpantana.com/products/love-secrets-b-sides-vinyl-record\"><strong>John Mark Pantana </strong><em><strong>Love Secrets (B-Sides)</strong></em><strong> Vinyl</strong></a><strong>:</strong> Intimate, worshipful music on vinyl, made for unhurried moments in God's presence.</li><li><a href=\"https://brightech.com/products/serena-table-lamp?variant=42866551062564\"><strong>Brightech Serena Mini Table Lamp</strong></a><strong>:</strong> A soft little lamp that makes her quiet-time corner feel warm, cozy and set apart.</li><li><a href=\"https://shop.wellwateredwomen.com/collections/journals/products/give-me-jesus-journal\"><strong>Well-Watered Women </strong><em><strong>Give Me Jesus</strong></em><strong> Journal</strong></a><strong>:</strong> A guided journal that helps her slow down, dig into Scripture and actually remember what God is teaching her.</li><li><a href=\"https://us.thesomewhereco.com/collections/picnic-blankets\"><strong>The Somewhere Co. Picnic Blanket</strong></a><strong>:</strong> An invitation to get outside, gather her people and enjoy the beauty of slow, sunny afternoons.</li></ul>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
-        "text_UtQGjr"
+        "text_UtQGjr",
+        "text_X9AQGa"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
