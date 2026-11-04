@@ -295,7 +295,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Gifts for the new believer from some of our favorite brands</p>",
+            "text": "<p>Gifts for the New Believer from some of our Favorite Brands</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -324,7 +324,7 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 0,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "text_and_image_4QgDw6": {
