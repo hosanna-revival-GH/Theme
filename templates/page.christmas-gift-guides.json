@@ -501,7 +501,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Best selling gifts from brands we love</p>",
+            "text": "<p>Best selling gifts from some of our Favorite Brands</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
