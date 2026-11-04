@@ -214,6 +214,55 @@
         "lazyload_images": true
       }
     },
+    "rich_text_wQLn3K": {
+      "type": "rich-text",
+      "blocks": {
+        "text_tfTRme": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for the new believer from Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_AF8qUN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for the new believer from some of our favorite brands</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_cxXjA3": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li><a href=\"https://shop.verselets.com/collections/singles\"><strong>Verselets Singles</strong></a><strong>:</strong> Wearable Scripture she can carry everywhere, a quiet reminder of God's Word right on her wrist.</li><li><a href=\"https://www.bellabeemade.com/product-page/butterflies-and-moths\"><strong>Bella Bee Made Butterfly Print</strong></a><strong>:</strong> A delicate print that celebrates transformation, perfect for the woman stepping into a new season. P.S. the sweet girl who designs our emails is the talented artist behind this beautiful print!</li><li><a href=\"https://gorings.com/\"><strong>Go Rings</strong></a><strong>:</strong> A meaningful ring with a mission, supporting ministry and fundraising partnerships with every purchase.</li><li><a href=\"https://www.joshgarrels.com/store/p/home-vinyl-lp\"><strong>Josh Garrels </strong><em><strong>Home</strong></em><strong> Vinyl LP</strong></a><strong>:</strong> Soulful, worshipful music made for slow evenings, spinning records and finding rest.</li><li><a href=\"https://elevatedfaith.com/collections/new-arrivals/products/cross-pendant-link-necklace\"><strong>Elevated Faith Cross Pendant Link Necklace</strong></a><strong>:</strong> A fresh take on the classic cross necklace, made for the woman who wants her faith to feel both timeless and modern.</li><li><a href=\"https://carissagraceart.com/prints/a-new-thing-illustrated-gicle-print-tztgw-35ecx\"><strong>Carissa Grace \"A New Thing\" Print</strong></a><strong>:</strong> A beautifully illustrated reminder from a Charlotte artist that God is always making all things new.</li><li><a href=\"https://www.patsyshaw.com/prints\"><strong>Patsy Shaw Prints</strong></a><strong>:</strong> Original artwork that brings warmth and beauty to any wall, a gift she'll enjoy every day.</li></ul>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_tfTRme",
+        "text_AF8qUN",
+        "text_cxXjA3"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "text_and_image_4QgDw6": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -280,41 +329,21 @@
         "lazyload_images": true
       }
     },
-    "rich_text_wQLn3K": {
+    "rich_text_8yR3az": {
       "type": "rich-text",
       "blocks": {
-        "text_tfTRme": {
+        "text_TPtcDe": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Gifts for the new believer from Hosanna Revival</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_AF8qUN": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Gifts for the new believer from some of our favorite brands</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        },
-        "text_cxXjA3": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<ul><li><a href=\"https://shop.verselets.com/collections/singles\"><strong>Verselets Singles</strong></a><strong>:</strong> Wearable Scripture she can carry everywhere, a quiet reminder of God's Word right on her wrist.</li><li><a href=\"https://www.bellabeemade.com/product-page/butterflies-and-moths\"><strong>Bella Bee Made Butterfly Print</strong></a><strong>:</strong> A delicate print that celebrates transformation, perfect for the woman stepping into a new season. P.S. the sweet girl who designs our emails is the talented artist behind this beautiful print!</li><li><a href=\"https://gorings.com/\"><strong>Go Rings</strong></a><strong>:</strong> A meaningful ring with a mission, supporting ministry and fundraising partnerships with every purchase.</li><li><a href=\"https://www.joshgarrels.com/store/p/home-vinyl-lp\"><strong>Josh Garrels </strong><em><strong>Home</strong></em><strong> Vinyl LP</strong></a><strong>:</strong> Soulful, worshipful music made for slow evenings, spinning records and finding rest.</li><li><a href=\"https://elevatedfaith.com/collections/new-arrivals/products/cross-pendant-link-necklace\"><strong>Elevated Faith Cross Pendant Link Necklace</strong></a><strong>:</strong> A fresh take on the classic cross necklace, made for the woman who wants her faith to feel both timeless and modern.</li><li><a href=\"https://carissagraceart.com/prints/a-new-thing-illustrated-gicle-print-tztgw-35ecx\"><strong>Carissa Grace \"A New Thing\" Print</strong></a><strong>:</strong> A beautifully illustrated reminder from a Charlotte artist that God is always making all things new.</li><li><a href=\"https://www.patsyshaw.com/prints\"><strong>Patsy Shaw Prints</strong></a><strong>:</strong> Original artwork that brings warmth and beauty to any wall, a gift she'll enjoy every day.</li></ul>",
+            "text": "<p>Gifts for the art lover from Hosanna Revival</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
         }
       },
       "block_order": [
-        "text_tfTRme",
-        "text_AF8qUN",
-        "text_cxXjA3"
+        "text_TPtcDe"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
@@ -338,9 +367,10 @@
     "text_and_image_MfG8wm",
     "rich_text_C6zzbp",
     "text_and_image_phm8fi",
+    "rich_text_wQLn3K",
     "text_and_image_4QgDw6",
     "text_and_image_gYnMEy",
     "text_and_image_CFbxEf",
-    "rich_text_wQLn3K"
+    "rich_text_8yR3az"
   ]
 }
