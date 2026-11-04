@@ -543,7 +543,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "home_featured_products": "gifts-for-the-art-lover",
         "per_row": 5,
         "rows": 1,
@@ -568,11 +568,11 @@
     "rich_text_wQLn3K",
     "text_and_image_4QgDw6",
     "rich_text_PqcGDY",
+    "featured_collection_hgCta4",
     "rich_text_8yR3az",
     "text_and_image_gYnMEy",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7",
-    "featured_collection_hgCta4"
+    "rich_text_afEwE7"
   ]
 }
