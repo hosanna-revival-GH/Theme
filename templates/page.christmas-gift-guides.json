@@ -529,8 +529,8 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
       }
     },
     "text_and_image_CFbxEf": {
@@ -593,6 +593,42 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_MRHkCy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jw4HC6": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_atCf8N": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for Deeper Study From Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_jw4HC6",
+        "text_atCf8N"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -617,6 +653,7 @@
     "featured_collection_fWyyk9",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7"
+    "rich_text_afEwE7",
+    "rich_text_MRHkCy"
   ]
 }
