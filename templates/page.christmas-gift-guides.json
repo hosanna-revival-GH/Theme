@@ -477,8 +477,21 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
+    "featured_collection_fWyyk9": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "",
+        "home_featured_products": "the-best-sellers-gift-guide",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "rich_text_UrCtwU": {
@@ -580,19 +593,6 @@
         "space_above": 75,
         "space_below": 75
       }
-    },
-    "featured_collection_fWyyk9": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "",
-        "home_featured_products": "the-best-sellers-gift-guide",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -614,9 +614,9 @@
     "rich_text_8yR3az",
     "text_and_image_gYnMEy",
     "rich_text_bgMJyE",
+    "featured_collection_fWyyk9",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7",
-    "featured_collection_fWyyk9"
+    "rich_text_afEwE7"
   ]
 }
