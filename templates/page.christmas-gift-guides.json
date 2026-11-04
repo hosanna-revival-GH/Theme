@@ -640,6 +640,42 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 0,
+        "space_below": 50
+      }
+    },
+    "rich_text_yNHpyQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9xR9WH": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_RiXcdr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifting is a chance to show people they are seen and known<em>.</em> We’re praying your search ends with gifts that feel like they were made just for the people you love. Merry Christmas and happy gifting!</p>",
+            "align_text_block": "inherit",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_9xR9WH",
+        "text_RiXcdr"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#852C33",
+        "color_text": "#F4EFE6",
+        "space_above": 50,
         "space_below": 75
       }
     }
@@ -668,6 +704,7 @@
     "text_and_image_CFbxEf",
     "rich_text_MRHkCy",
     "featured_collection_c6QxPi",
-    "rich_text_afEwE7"
+    "rich_text_afEwE7",
+    "rich_text_yNHpyQ"
   ]
 }
