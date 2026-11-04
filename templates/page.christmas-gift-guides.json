@@ -246,10 +246,10 @@
         "lazyload_images": true
       }
     },
-    "rich_text_wQLn3K": {
+    "rich_text_Pc4w8N": {
       "type": "rich-text",
       "blocks": {
-        "text_tfTRme": {
+        "text_F8QMDM": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
@@ -257,7 +257,27 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
-        },
+        }
+      },
+      "block_order": [
+        "text_F8QMDM"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 30,
+        "space_below": 30
+      }
+    },
+    "rich_text_wQLn3K": {
+      "type": "rich-text",
+      "blocks": {
         "text_AF8qUN": {
           "type": "text",
           "settings": {
@@ -278,7 +298,6 @@
         }
       },
       "block_order": [
-        "text_tfTRme",
         "text_AF8qUN",
         "text_cxXjA3"
       ],
@@ -487,6 +506,19 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "featured_collection_PRKDjF": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "gifts-for-the-new-believer",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -499,12 +531,14 @@
     "featured_collection_yHVGKr",
     "rich_text_C6zzbp",
     "text_and_image_phm8fi",
+    "rich_text_Pc4w8N",
     "rich_text_wQLn3K",
     "text_and_image_4QgDw6",
     "rich_text_8yR3az",
     "text_and_image_gYnMEy",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7"
+    "rich_text_afEwE7",
+    "featured_collection_PRKDjF"
   ]
 }
