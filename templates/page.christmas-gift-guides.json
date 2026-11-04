@@ -452,6 +452,35 @@
         "lazyload_images": true
       }
     },
+    "rich_text_bgMJyE": {
+      "type": "rich-text",
+      "blocks": {
+        "text_YNwyV8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Best Selling Gifts from Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_YNwyV8"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "rich_text_UrCtwU": {
       "type": "rich-text",
       "blocks": {
@@ -552,33 +581,17 @@
         "space_below": 75
       }
     },
-    "rich_text_bgMJyE": {
-      "type": "rich-text",
-      "blocks": {
-        "text_YNwyV8": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Best Selling Gifts from Hosanna Revival</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 0
-          }
-        }
-      },
-      "block_order": [
-        "text_YNwyV8"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
+    "featured_collection_fWyyk9": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
+        "title": "",
+        "home_featured_products": "the-best-sellers-gift-guide",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     }
   },
@@ -600,9 +613,10 @@
     "featured_collection_hgCta4",
     "rich_text_8yR3az",
     "text_and_image_gYnMEy",
+    "rich_text_bgMJyE",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
     "rich_text_afEwE7",
-    "rich_text_bgMJyE"
+    "featured_collection_fWyyk9"
   ]
 }
