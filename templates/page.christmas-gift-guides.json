@@ -369,21 +369,11 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
-        },
-        "text_TPtcDe": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Gifts for the art lover from Hosanna Revival</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
         }
       },
       "block_order": [
         "text_VVw3Wz",
-        "text_yb4McE",
-        "text_TPtcDe"
+        "text_yb4McE"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
@@ -519,6 +509,35 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_PqcGDY": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4hytak": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for the Art Lover from Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_4hytak"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -539,6 +558,7 @@
     "text_and_image_gYnMEy",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7"
+    "rich_text_afEwE7",
+    "rich_text_PqcGDY"
   ]
 }
