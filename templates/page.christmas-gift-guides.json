@@ -136,14 +136,43 @@
         "lazyload_images": true
       }
     },
+    "rich_text_tgfQVd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_h3HBhU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for Intentional Giving from Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "text_h3HBhU"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "featured_collection_yHVGKr": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "",
         "home_featured_products": "the-gift-guide-for-intentional-gifting",
-        "per_row": 4,
-        "rows": 5,
+        "per_row": 5,
+        "rows": 1,
         "mobile_scrollable": true,
         "view_all": false,
         "divider": false
@@ -445,35 +474,6 @@
       "block_order": [
         "text_UtQGjr",
         "text_X9AQGa"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 75,
-        "space_below": 75
-      }
-    },
-    "rich_text_tgfQVd": {
-      "type": "rich-text",
-      "blocks": {
-        "text_h3HBhU": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Gifts for Intentional Gifting from Hosanna Revival</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "text_h3HBhU"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
