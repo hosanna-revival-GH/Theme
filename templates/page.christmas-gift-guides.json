@@ -341,6 +341,15 @@
             "block_bottom_space": 30
           }
         },
+        "text_yb4McE": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li><a href=\"https://whitneysilvaart.com/pages/prints\"><strong>Whitney Silva Art Prints</strong></a><strong>:</strong> Soft, joyful artwork that fills a room with light and makes any space feel more like home.</li><li><a href=\"https://shop.emilylex.com/collections/watercolor-workbooks\"><strong>Emily Lex Studio Watercolor Workbook</strong></a><strong>:</strong> A gentle, guided way for her to slow down, pick up a brush and create something beautiful, no experience needed.</li><li><a href=\"https://www.leifshop.com/products/poppies-napkin-set\"><strong>Leif Poppies Napkin Set</strong></a><strong>:</strong> A cheerful touch for the woman who loves gathering people around her table.</li><li><a href=\"https://www.patsyshaw.com/prints\"><strong>Patsy Shaw Prints</strong></a><strong>:</strong> Artwork full of color and character, made for the friend whose home tells a story.</li><li><a href=\"https://fuumuui.com/products/fuumuui-3pcs-dual-tip-synthetic-travel-watercolor-brush-set-with-leather-pouch-6-shapes-for-watercolor-gouache?variant=47039249744064\"><strong>Fuumuui Travel Watercolor Brush Set</strong></a><strong>:</strong> A compact brush set in a leather pouch, so she can capture beauty wherever life takes her.</li><li><a href=\"https://www.dickblick.com/items/speedball-block-printing-starter-set/\"><strong>Speedball Block Printing Starter Set</strong></a><strong>:</strong> Everything she needs to try a new creative hobby and make handmade prints, cards and gifts of her own.</li><li><a href=\"https://abideembroidery.com/collections/kits\"><strong>Abide Embroidery Kits</strong></a><strong>:</strong> A peaceful, hands-on practice that invites her to slow down and stitch something meaningful.</li><li><a href=\"https://americas.elizabethbradley.com/collections/needlepoint-kits\"><strong>Elizabeth Bradley Needlepoint Kits</strong></a><strong>:</strong> A classic, cozy craft that becomes a family heirloom one stitch at a time.</li><li><strong>Small-Batch Pottery (</strong><a href=\"https://newlivingdesigns.com/shop/cat/ceramics/travel-cups/\"><strong>New Living Designs</strong></a><strong> and </strong><a href=\"https://stott-mountain-pottery.myshopify.com/\"><strong>Stott Mountain Pottery</strong></a><strong>):</strong> Handmade pieces, a few of our favorites, that make her morning coffee or tea time feel a little more sacred.</li></ul><p>I removed the tracking parameters from the Blick and Fuumuui links, so they'll go to the same pages without the extra clutter.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
         "text_TPtcDe": {
           "type": "text",
           "settings": {
@@ -353,6 +362,7 @@
       },
       "block_order": [
         "text_VVw3Wz",
+        "text_yb4McE",
         "text_TPtcDe"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
