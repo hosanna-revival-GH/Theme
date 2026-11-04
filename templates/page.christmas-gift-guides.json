@@ -332,6 +332,15 @@
     "rich_text_8yR3az": {
       "type": "rich-text",
       "blocks": {
+        "text_VVw3Wz": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for the art lover from brands we love</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
         "text_TPtcDe": {
           "type": "text",
           "settings": {
@@ -343,6 +352,7 @@
         }
       },
       "block_order": [
+        "text_VVw3Wz",
         "text_TPtcDe"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
