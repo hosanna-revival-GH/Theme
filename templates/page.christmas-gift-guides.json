@@ -64,7 +64,7 @@
         "heading_KMbdbT": {
           "type": "heading",
           "settings": {
-            "title": "The Perfect Gift you didn’t Think of"
+            "title": "The Perfect Gifts you didn’t Think of"
           }
         },
         "text_EqqAFW": {
@@ -111,7 +111,7 @@
         "color_bg": "#ffffff",
         "color_text": "#000000",
         "space_above": 75,
-        "space_below": 75
+        "space_below": 0
       }
     },
     "text_and_image_MfG8wm": {
@@ -131,7 +131,7 @@
         "image_width": "50",
         "layout": "right",
         "divider": false,
-        "top_padding": true,
+        "top_padding": false,
         "bottom_padding": true,
         "lazyload_images": true
       }
