@@ -79,7 +79,7 @@
         "text_jxVfix": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
+            "enlarge_text": true,
             "text": "<p>We took the guesswork out of gifting. Every piece in our gift guide comes from a brand our team loves and trusts, so all that’s left for you is choosing who gets what. We pray these curated gift guides would help you find the perfect intentional gift you didn’t think of.&nbsp;</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
@@ -108,10 +108,10 @@
         "divider": false,
         "css-id": "",
         "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
+        "color_bg": "#A84444",
+        "color_text": "#FFFFFF",
         "space_above": 75,
-        "space_below": 0
+        "space_below": 49
       }
     },
     "text_and_image_MfG8wm": {
@@ -591,6 +591,19 @@
         "space_below": 0
       }
     },
+    "featured_collection_c6QxPi": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "",
+        "home_featured_products": "gifts-for-deeper-study",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "rich_text_afEwE7": {
       "type": "rich-text",
       "blocks": {
@@ -629,19 +642,6 @@
         "space_above": 75,
         "space_below": 75
       }
-    },
-    "featured_collection_c6QxPi": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "",
-        "home_featured_products": "gifts-for-deeper-study",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -667,7 +667,7 @@
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
     "rich_text_MRHkCy",
-    "rich_text_afEwE7",
-    "featured_collection_c6QxPi"
+    "featured_collection_c6QxPi",
+    "rich_text_afEwE7"
   ]
 }
