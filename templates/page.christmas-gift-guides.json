@@ -381,6 +381,15 @@
     "rich_text_UrCtwU": {
       "type": "rich-text",
       "blocks": {
+        "text_4H3zCE": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li><a href=\"https://www.amazon.com/dp/B0DP1WXVK8\"><strong>Affordable Espresso Machine</strong></a><strong>:</strong> Café-style lattes at home, perfect for the friend who treasures a slow, cozy morning.</li><li><a href=\"https://riflepaperco.com/products/paper-wrapped-picture-frame-gracie\"><strong>Rifle Paper Co. Gracie Picture Frame</strong></a><strong>:</strong> A beautifully wrapped frame that turns a favorite memory into something she'll see and smile at every day.</li><li><a href=\"https://www.target.com/p/unti-cl-2-dle-ilnitzki-by-anon9780063516250-hardcover/-/A-1007250722\"><em><strong>The Lion, the Witch and the Wardrobe</strong></em><strong> Collector's Edition</strong></a><strong>:</strong> A timeless story of courage, sacrifice and redemption, in an edition worth keeping on the shelf for generations.</li><li><a href=\"https://www.worldmarket.com/p/capiz-shell-lighting-collection-SET69561.html\"><strong>World Market Capiz Shell Lamp</strong></a><strong>:</strong> Soft, shimmery light that makes any corner feel warm and welcoming.</li><li><a href=\"https://us.thesomewhereco.com/products/blueberry-lunch-bag\"><strong>The Somewhere Co. Blueberry Lunch Bag</strong></a><strong>:</strong> A sweet, practical gift that brings a little joy to her everyday routine.</li><li><a href=\"https://hudsongracesf.com/products/nuno-splatter-stoneware-mug\"><strong>Hudson Grace Nuno Splatter Mug</strong></a><strong>:</strong> A handsome speckled mug made for long conversations and quiet time with Jesus.</li><li><a href=\"https://elevatedfaith.com/products/gods-still-working-unisex-tee\"><strong>Elevated Faith \"God's Still Working\" Tee</strong></a><strong>:</strong> A comfy, encouraging reminder that her story isn't finished yet.</li><li><a href=\"https://elevatedfaith.com/collections/best-sellers/products/lilac-enamel-cross-ring\"><strong>Elevated Faith Lilac Enamel Cross Ring</strong></a><strong>:</strong> A soft pop of color and faith she can wear every day.</li><li><a href=\"https://heyricochet.com/products/bluebonnnet-claw\"><strong>Ricochet Bluebonnet Claw Clip</strong></a><strong>:</strong> A pretty, playful clip that makes even messy-bun days feel put together.</li><li><a href=\"https://www.flyingcowtallow.com/products/frankincense-lavender?variant=42514527256794\"><strong>Flying Cow Tallow Frankincense Lavender Balm</strong></a><strong>:</strong> A nourishing, simple-ingredient balm that turns her self-care into a calming ritual.</li><li><a href=\"https://lebonshoppe.com/products/cashmere-bandana-powder-blue\"><strong>Le Bon Shoppe Cashmere Bandana</strong></a><strong>:</strong> A soft, effortless accessory that adds a little charm to any outfit.</li><li><a href=\"https://www.etsy.com/listing/1566829036/made-to-order-nordic-pottery-matcha-bowl\"><strong>Handmade Nordic Matcha Bowl</strong></a><strong>:</strong> A handcrafted bowl that turns her daily matcha into a moment to slow down and savor.</li></ul><p>I left out the Anthropologie candle because it was crossed out in your list, and I removed the tracking parameters from the Amazon, Target and Etsy links. Let me know if you want the candle added back.</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
         "heading_te3xQX": {
           "type": "heading",
           "settings": {
@@ -398,6 +407,7 @@
         }
       },
       "block_order": [
+        "text_4H3zCE",
         "heading_te3xQX",
         "text_rgTqFA"
       ],
