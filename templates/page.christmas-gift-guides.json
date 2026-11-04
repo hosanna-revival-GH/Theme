@@ -139,15 +139,6 @@
     "rich_text_C6zzbp": {
       "type": "rich-text",
       "blocks": {
-        "text_RbLBnA": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
-          }
-        },
         "heading_BC4L6y": {
           "type": "heading",
           "settings": {
@@ -162,12 +153,31 @@
             "align_text_block": "left",
             "block_bottom_space": 30
           }
+        },
+        "text_RbLBnA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Intentional gifts from some of our favorite brands</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
+        "text_xpYMpx": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p></p><ul><li><a href=\"https://remindernailpolish.com/collections/gift-sets\"><strong>Reminder Nail Polish</strong></a><strong>:</strong> A little self-care with a message, so every glance at her fingertips becomes a small nudge toward truth.</li><li><a href=\"https://bgoodslettering.com/products/jane-austen-wax-seal-stamp-set-set-of-3\"><strong>Jane Austen Wax Seal Kit</strong></a><strong>:</strong> For the friend who still believes in handwritten letters, this kit makes every note feel like a keepsake.</li><li><a href=\"https://farmette.co/collections/art-prints\"><strong>Farmette Greeting Cards & Prints</strong></a><strong>:</strong> Simple, beautiful artwork that turns a few kind words into something worth framing.</li><li><a href=\"https://baqette.com/collections/essentials-pouch\"><strong>Baqette Essentials Pouch</strong></a><strong>:</strong> A thoughtfully made pouch from a women-owned Cincinnati brand, designed to keep her everyday essentials close and organized.</li><li><a href=\"https://caitlynminimalist.com/products/multiple-marquise-birthstone-ring\"><strong>Birthstone Ring</strong></a><strong>:</strong> A delicate way to carry the people she loves most with her, one birthstone at a time.</li><li><a href=\"https://www.davidaustinroses.com/products/eustacia-vye\"><strong>David Austin Roses: Eustacia Vye</strong></a><strong>:</strong> A gift that grows, blooms and comes back year after year, just like the love behind it.</li><li><a href=\"https://heirloomroses.com/products/arborose-laguna?variant=42964121452729\"><strong>Heirloom Roses: Arborose Laguna</strong></a><strong>:</strong> A fragrant climbing rose for the gardener in your life, planted once and treasured for seasons to come.</li><li><a href=\"https://www.carabellocoffee.com/collections/freshly-roasted-craft-coffee\"><strong>Carabello Coffee</strong></a><strong>:</strong> Freshly roasted craft coffee that turns her quiet morning time with God into something even sweeter.</li><li><a href=\"https://oursparechange.com/collections/custom-engraved-necklaces/products/engraved-handwriting-disc-necklace\"><strong>Engraved Handwriting Necklace</strong></a><strong>:</strong> A loved one's handwriting, kept close to her heart, makes this one of the most personal gifts she'll ever receive.</li><li><a href=\"https://www.etsy.com/listing/1325073563/in-stock-handmade-spoon-rest-ceramic\"><strong>Handmade Ceramic Spoon Rest</strong></a><strong>:</strong> A handcrafted piece for the woman whose kitchen is the heart of her home, bringing beauty to everyday moments.</li><li><a href=\"https://www.floraandfaunadesigns.co/shop\"><strong>Flora & Fauna Headband</strong></a><strong>:</strong> A pretty, playful accessory that makes getting ready feel a little more special.</li></ul>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
         }
       },
       "block_order": [
-        "text_RbLBnA",
         "heading_BC4L6y",
-        "text_kVR7e7"
+        "text_kVR7e7",
+        "text_RbLBnA",
+        "text_xpYMpx"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
@@ -178,7 +188,7 @@
         "css-class": "",
         "color_bg": "#ffffff",
         "color_text": "#000000",
-        "space_above": 75,
+        "space_above": 0,
         "space_below": 75
       }
     },
