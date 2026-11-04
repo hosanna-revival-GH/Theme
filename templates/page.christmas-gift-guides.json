@@ -283,6 +283,15 @@
     "rich_text_wQLn3K": {
       "type": "rich-text",
       "blocks": {
+        "text_tfTRme": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for the new believer from Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        },
         "text_AF8qUN": {
           "type": "text",
           "settings": {
@@ -303,6 +312,7 @@
         }
       },
       "block_order": [
+        "text_tfTRme",
         "text_AF8qUN",
         "text_cxXjA3"
       ],
