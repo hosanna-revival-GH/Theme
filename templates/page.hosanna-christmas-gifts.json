@@ -379,7 +379,7 @@
             "image_width": 650,
             "title": "KING JAMES VERSION",
             "text": "<p>First published in 1611, the KJV is the classic, with poetic, old-English language that has shaped how generations pray, sing and memorize Scripture. It’s for anyone who loves the timeless “thee and thou” cadence and wants the Word to read like the treasure it is.</p>",
-            "button_label": "Optional button",
+            "button_label": "shop",
             "button_link": "shopify://collections/kjv-bibles"
           }
         },
@@ -392,7 +392,7 @@
             "image_width": 650,
             "title": "ENGLISH STANDARD VERSION",
             "text": "<p>The ESV stays close to the original wording, word for word, while still reading clearly in modern English. It’s a favorite for deep study, journaling and sitting with a verse until it really sinks in.</p>",
-            "button_label": "Optional button",
+            "button_label": "shop",
             "button_link": "shopify://collections/esv-bibles"
           }
         },
@@ -405,7 +405,7 @@
             "image_width": 650,
             "title": "NEW LIVING TRANSLATION",
             "text": "<p>The NLT translates thought-for-thought into warm, everyday English, so Scripture reads the way you’d actually talk. It’s perfect if you’re new to the Bible, coming back to it, or just want to understand what you’re reading the first time through.</p>",
-            "button_label": "Optional button",
+            "button_label": "shop",
             "button_link": "shopify://collections/nlt-bibles"
           }
         },
@@ -418,7 +418,7 @@
             "image_width": 650,
             "title": "CHRISTIAN STANDARD BIBLE",
             "text": "<p>The CSB stays faithful to the original text while keeping the language easy to read. It’s the best of both worlds: precise enough to study and smooth enough to read for hours.</p>",
-            "button_label": "Optional button",
+            "button_label": "shop",
             "button_link": "shopify://collections/csb-bibles"
           }
         }
