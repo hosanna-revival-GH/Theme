@@ -118,7 +118,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/gift_guide-01.png",
+        "image": "shopify://shop_images/gift-guide-01.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "The Gift Guide for",
