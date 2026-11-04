@@ -555,6 +555,42 @@
         "lazyload_images": true
       }
     },
+    "rich_text_MRHkCy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jw4HC6": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_atCf8N": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for Deeper Study From Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_jw4HC6",
+        "text_atCf8N"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 0,
+        "space_below": 0
+      }
+    },
     "rich_text_afEwE7": {
       "type": "rich-text",
       "blocks": {
@@ -594,40 +630,17 @@
         "space_below": 75
       }
     },
-    "rich_text_MRHkCy": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jw4HC6": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "text_atCf8N": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Gifts for Deeper Study From Hosanna Revival</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
-          }
-        }
-      },
-      "block_order": [
-        "heading_jw4HC6",
-        "text_atCf8N"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
+    "featured_collection_c6QxPi": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#ffffff",
-        "color_text": "#000000",
-        "space_above": 0,
-        "space_below": 0
+        "title": "",
+        "home_featured_products": "gifts-for-deeper-study",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     }
   },
@@ -653,7 +666,8 @@
     "featured_collection_fWyyk9",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
+    "rich_text_MRHkCy",
     "rich_text_afEwE7",
-    "rich_text_MRHkCy"
+    "featured_collection_c6QxPi"
   ]
 }
