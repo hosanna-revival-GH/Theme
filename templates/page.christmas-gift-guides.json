@@ -58,6 +58,42 @@
         "mobile_height": "auto"
       }
     },
+    "rich_text_4cTdK3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KMbdbT": {
+          "type": "heading",
+          "settings": {
+            "title": "The Perfect Gift you didn’t Think of"
+          }
+        },
+        "text_jxVfix": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We took the guesswork out of gifting. Every piece in our gift guide comes from a brand our team loves and trusts, so all that’s left for you is choosing who gets what. We pray these curated gift guides would help you find the perfect intentional gift you didn’t think of.&nbsp;</p>",
+            "align_text_block": "center",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_KMbdbT",
+        "text_jxVfix"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
+    },
     "text_and_image_MfG8wm": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -173,6 +209,7 @@
     "main",
     "advanced_content_RycVwR",
     "hero_video_TwVdJU",
+    "rich_text_4cTdK3",
     "text_and_image_MfG8wm",
     "text_and_image_phm8fi",
     "text_and_image_4QgDw6",
