@@ -191,7 +191,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Gifts for Intentional Giving from ome of our Favorite Brands</p>",
+            "text": "<p>Gifts for Intentional Giving from some of our Favorite Brands</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
@@ -253,7 +253,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Gifts for the new believer from Hosanna Revival</p>",
+            "text": "<p>Gifts for the New Believer from Hosanna Revival</p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
