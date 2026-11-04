@@ -71,7 +71,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p><em>Dear intentional gifter,</em></p>",
+            "text": "<p><em>Dear Intentional Gifter,</em></p>",
             "align_text_block": "left",
             "block_bottom_space": 30
           }
