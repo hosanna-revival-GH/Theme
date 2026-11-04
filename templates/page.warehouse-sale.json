@@ -160,14 +160,14 @@
         "heading_VMxB8X": {
           "type": "heading",
           "settings": {
-            "title": "What’s New This Year?"
+            "title": "A few things to note:"
           }
         },
         "text_EtARan": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>One of our favorite local businesses Mom ’n Em will be serving coffee, and this year we’ll be hosting the sale in our actual warehouse for more space!</p>",
+            "text": "<p>Our Warehouse Sale has grown so much that it’s officially moved into our warehouse! Bundle up, bring a friend and grab a warm drink, because the line starts outside and fills up fast. Trust us, it’s worth the wait. We’re so excited to meet you!</p>",
             "align_text_block": "inherit",
             "block_bottom_space": 30
           }
@@ -177,7 +177,6 @@
         "heading_VMxB8X",
         "text_EtARan"
       ],
-      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
