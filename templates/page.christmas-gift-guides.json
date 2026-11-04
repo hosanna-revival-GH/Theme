@@ -462,12 +462,6 @@
     "rich_text_tgfQVd": {
       "type": "rich-text",
       "blocks": {
-        "heading_mkpHVf": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
         "text_h3HBhU": {
           "type": "text",
           "settings": {
@@ -479,7 +473,6 @@
         }
       },
       "block_order": [
-        "heading_mkpHVf",
         "text_h3HBhU"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
@@ -502,6 +495,7 @@
     "hero_video_TwVdJU",
     "rich_text_4cTdK3",
     "text_and_image_MfG8wm",
+    "rich_text_tgfQVd",
     "featured_collection_yHVGKr",
     "rich_text_C6zzbp",
     "text_and_image_phm8fi",
@@ -511,7 +505,6 @@
     "text_and_image_gYnMEy",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7",
-    "rich_text_tgfQVd"
+    "rich_text_afEwE7"
   ]
 }
