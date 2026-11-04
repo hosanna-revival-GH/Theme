@@ -275,6 +275,19 @@
         "space_below": 30
       }
     },
+    "featured_collection_PRKDjF": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "",
+        "home_featured_products": "gifts-for-the-new-believer",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "rich_text_wQLn3K": {
       "type": "rich-text",
       "blocks": {
@@ -506,19 +519,6 @@
         "space_above": 75,
         "space_below": 75
       }
-    },
-    "featured_collection_PRKDjF": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "gifts-for-the-new-believer",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -532,13 +532,13 @@
     "rich_text_C6zzbp",
     "text_and_image_phm8fi",
     "rich_text_Pc4w8N",
+    "featured_collection_PRKDjF",
     "rich_text_wQLn3K",
     "text_and_image_4QgDw6",
     "rich_text_8yR3az",
     "text_and_image_gYnMEy",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7",
-    "featured_collection_PRKDjF"
+    "rich_text_afEwE7"
   ]
 }
