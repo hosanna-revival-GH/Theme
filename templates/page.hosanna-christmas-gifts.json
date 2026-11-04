@@ -437,6 +437,28 @@
         "divider": false
       }
     },
+    "text_and_image_Q9gew6": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Christmas_Revival_2026_5.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "The NTV",
+        "title": "Our first Spanish translation",
+        "text": "<p>The NTV is the Spanish-language sister of the NLT, translated thought-for-thought into clear, natural Spanish that speaks straight to the heart. It’s beautiful for personal devotion, for reading aloud with family, or for anyone who wants to meet God in their heart language.</p>",
+        "button_label": "shop",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "slideshow_k6XLra": {
       "type": "slideshow",
       "blocks": {
@@ -473,28 +495,6 @@
         "lazyload_images": true,
         "disable_animation": false
       }
-    },
-    "text_and_image_Q9gew6": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Christmas_Revival_2026_5.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "The NTV",
-        "title": "Our first Spanish translation",
-        "text": "<p>The NTV is the Spanish-language sister of the NLT, translated thought-for-thought into clear, natural Spanish that speaks straight to the heart. It’s beautiful for personal devotion, for reading aloud with family, or for anyone who wants to meet God in their heart language.</p>",
-        "button_label": "shop",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -508,7 +508,7 @@
     "rich_text_3zRiRP",
     "text_columns_DwipUV",
     "text_columns_g6AqGH",
-    "slideshow_k6XLra",
-    "text_and_image_Q9gew6"
+    "text_and_image_Q9gew6",
+    "slideshow_k6XLra"
   ]
 }
