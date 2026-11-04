@@ -136,6 +136,19 @@
         "lazyload_images": true
       }
     },
+    "featured_collection_yHVGKr": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "",
+        "home_featured_products": "the-gift-guide-for-intentional-gifting",
+        "per_row": 4,
+        "rows": 5,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
     "rich_text_C6zzbp": {
       "type": "rich-text",
       "blocks": {
@@ -143,15 +156,6 @@
           "type": "heading",
           "settings": {
             "title": ""
-          }
-        },
-        "text_kVR7e7": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Intentional Gifts from Hosanna Revival</p>",
-            "align_text_block": "left",
-            "block_bottom_space": 30
           }
         },
         "text_RbLBnA": {
@@ -175,7 +179,6 @@
       },
       "block_order": [
         "heading_BC4L6y",
-        "text_kVR7e7",
         "text_RbLBnA",
         "text_xpYMpx"
       ],
@@ -455,6 +458,42 @@
         "space_above": 75,
         "space_below": 75
       }
+    },
+    "rich_text_tgfQVd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mkpHVf": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text_h3HBhU": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Gifts for Intentional Gifting from Hosanna Revival</p>",
+            "align_text_block": "left",
+            "block_bottom_space": 30
+          }
+        }
+      },
+      "block_order": [
+        "heading_mkpHVf",
+        "text_h3HBhU"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "css-id": "",
+        "css-class": "",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "space_above": 75,
+        "space_below": 75
+      }
     }
   },
   "order": [
@@ -463,6 +502,7 @@
     "hero_video_TwVdJU",
     "rich_text_4cTdK3",
     "text_and_image_MfG8wm",
+    "featured_collection_yHVGKr",
     "rich_text_C6zzbp",
     "text_and_image_phm8fi",
     "rich_text_wQLn3K",
@@ -471,6 +511,7 @@
     "text_and_image_gYnMEy",
     "rich_text_UrCtwU",
     "text_and_image_CFbxEf",
-    "rich_text_afEwE7"
+    "rich_text_afEwE7",
+    "rich_text_tgfQVd"
   ]
 }
