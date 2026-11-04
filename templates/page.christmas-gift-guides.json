@@ -643,40 +643,61 @@
         "space_below": 50
       }
     },
-    "rich_text_yNHpyQ": {
-      "type": "rich-text",
+    "slideshow_qLdqn3": {
+      "type": "slideshow",
       "blocks": {
-        "heading_9xR9WH": {
-          "type": "heading",
+        "image_CP4KpF": {
+          "type": "image",
           "settings": {
-            "title": ""
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "Gifting is a chance to show people they are seen and known. We’re praying your search ends with gifts that feel like they were made just for the people you love. Merry Christmas and happy gifting!",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "link_text": "Gather your gifts",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Christmas_Hosanna_Revival_2026_4.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         },
-        "text_RiXcdr": {
-          "type": "text",
+        "image_wdNQid": {
+          "type": "image",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Gifting is a chance to show people they are seen and known<em>.</em> We’re praying your search ends with gifts that feel like they were made just for the people you love. Merry Christmas and happy gifting!</p>",
-            "align_text_block": "inherit",
-            "block_bottom_space": 30
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
           }
         }
       },
       "block_order": [
-        "heading_9xR9WH",
-        "text_RiXcdr"
+        "image_CP4KpF",
+        "image_wdNQid"
       ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false,
-        "css-id": "",
-        "css-class": "",
-        "color_bg": "#852C33",
-        "color_text": "#F4EFE6",
-        "space_above": 50,
-        "space_below": 75
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
       }
     }
   },
@@ -705,6 +726,6 @@
     "rich_text_MRHkCy",
     "featured_collection_c6QxPi",
     "rich_text_afEwE7",
-    "rich_text_yNHpyQ"
+    "slideshow_qLdqn3"
   ]
 }
