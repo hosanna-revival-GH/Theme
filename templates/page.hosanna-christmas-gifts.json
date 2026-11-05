@@ -99,7 +99,7 @@
         "title_size": 40,
         "subheading": "Browse our curated gift guides",
         "link_text": "Shop",
-        "link": "",
+        "link": "shopify://pages/the-gifting-library",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https://cdn.shopify.com/videos/c/o/v/d09729c43734418caedc6895c90a4281.mp4",
