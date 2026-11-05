@@ -166,6 +166,45 @@
         "disable_animation": false
       }
     },
+    "slideshow_8GYyKV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AXTDqX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/the-gifting-library",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/black_friday_priming_Artboard_56_copy.png",
+            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_45_copy_2.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_AXTDqX"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "slideshow_JzgDYA": {
       "type": "slideshow",
       "blocks": {
@@ -202,46 +241,6 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": false,
-        "disable_animation": false
-      }
-    },
-    "slideshow_8GYyKV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AXTDqX": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/collections/floral-winter-collection-2026",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2026_winter_collection_launch-12.png",
-            "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_2.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_AXTDqX"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
         "disable_animation": false
       }
     },
@@ -581,8 +580,8 @@
     "slideshow_gW9EVE",
     "promo_grid_BftCNi",
     "slideshow_rVxgdf",
-    "slideshow_JzgDYA",
     "slideshow_8GYyKV",
+    "slideshow_JzgDYA",
     "promo_grid_EMhhYk",
     "featured_collection_AbN8iP",
     "featured_collection_fq4ak3",
