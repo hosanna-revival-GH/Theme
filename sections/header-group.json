@@ -55,25 +55,25 @@
         "announcement_k47GUq": {
           "type": "announcement",
           "settings": {
-            "text": "The Winter Collection is Here",
-            "link_text": "retreat to the beauty of Scripture",
-            "link": "shopify://collections/winter-2026-collection"
+            "text": "Give the Gift of Beauty",
+            "link_text": "Explore the Christmas Gift Guide",
+            "link": "shopify://pages/the-gifting-library"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": " Your 2026 Advent Study",
-            "link_text": "Order Damascus today",
-            "link": "shopify://products/damascus-by-hannah-jessen-conway"
+            "text": "Seeing God in Color",
+            "link_text": "Draw near to the Lord in a fresh, creative way",
+            "link": "shopify://pages/seeing-god-in-color"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "New Sketchbooks",
-            "link_text": "Create as your respond to Scripture",
-            "link": "https://hosannarevival.com/collections/sketchbooks"
+            "text": "Your Home for Beautiful Bibles",
+            "link_text": "Find a Bible that draws you in to God’s Word",
+            "link": "shopify://collections/beautiful-bibles"
           }
         }
       },
