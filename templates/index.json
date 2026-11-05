@@ -205,6 +205,45 @@
         "disable_animation": false
       }
     },
+    "slideshow_gG4Qiw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_b6EUJP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/warehouse-sale",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/black_friday_priming_Artboard_2_copy_7.png",
+            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_2_copy_47.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_b6EUJP"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "slideshow_JzgDYA": {
       "type": "slideshow",
       "blocks": {
@@ -303,46 +342,6 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
-      }
-    },
-    "slideshow_gG4Qiw": {
-      "type": "slideshow",
-      "blocks": {
-        "image_b6EUJP": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https://hosannarevival.com/collections/faroe-collection",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2026-winter-collection-launch-3.png",
-            "image_mobile": "shopify://shop_images/2026_winter_collection_launch_Artboard_19_copy_4.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_b6EUJP"
-      ],
-      "disabled": true,
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true,
-        "disable_animation": false
       }
     },
     "promo_grid_UydWcM": {
@@ -581,11 +580,11 @@
     "promo_grid_BftCNi",
     "slideshow_rVxgdf",
     "slideshow_8GYyKV",
+    "slideshow_gG4Qiw",
     "slideshow_JzgDYA",
     "promo_grid_EMhhYk",
     "featured_collection_AbN8iP",
     "featured_collection_fq4ak3",
-    "slideshow_gG4Qiw",
     "promo_grid_UydWcM",
     "slideshow_GcPDX3",
     "promo_grid_MmC94X",
