@@ -9,42 +9,21 @@
  */
 {
   "sections": {
-    "slideshow_X4MRpa": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PDEHTW": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://products/seeing-god-in-color-by-anna-nunez",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/SGIC_LAunch-03.png",
-            "image_mobile": "shopify://shop_images/SGIC_LAunch_Artboard_19_copy_6.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "disable_border_button": false
-          }
-        }
-      },
-      "block_order": [
-        "image_PDEHTW"
-      ],
+    "hero_video_rQfQcN": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
-        "section_height": "natural",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false,
-        "disable_animation": false
+        "title": "Give the gift of beauty",
+        "title_size": 41,
+        "subheading": "Who’s on your heart this season?",
+        "link_text": "Prepare for Christmas",
+        "link": "shopify://pages/the-gifting-library",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/d09729c43734418caedc6895c90a4281.mp4",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "auto"
       }
     },
     "slideshow_gW9EVE": {
@@ -57,14 +36,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://www.instagram.com/annannunez/",
+            "link": "shopify://pages/the-gifting-library",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/SGIC-LAunch-05.png",
-            "image_mobile": "shopify://shop_images/SGIC_LAunch_Artboard_19_copy_8.png",
+            "image": "shopify://shop_images/black-friday-priming.png",
+            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_19_copy_6.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -91,7 +70,7 @@
         "image_wLbLxt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SGIC-LAunch_Artboard-2-copy-39.png",
+            "image": "shopify://shop_images/black_friday_priming_Artboard_19_copy_8.png",
             "link": "shopify://pages/seeing-god-in-color",
             "width": "33"
           }
@@ -118,6 +97,7 @@
         "image_NWGAkF",
         "image_9fzeMq"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -137,14 +117,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "https://www.annanunez.com/",
+            "link": "shopify://pages/damascus",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/SGIC_LAunch-11.png",
-            "image_mobile": "shopify://shop_images/SGIC_LAunch_Artboard_19_copy_10.png",
+            "image": "shopify://shop_images/black_friday_priming-03.png",
+            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_19_copy_8.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -205,24 +185,24 @@
         "disable_animation": false
       }
     },
-    "slideshow_gG4Qiw": {
+    "slideshow_X4MRpa": {
       "type": "slideshow",
       "blocks": {
-        "image_b6EUJP": {
+        "image_PDEHTW": {
           "type": "image",
           "settings": {
             "top_subheading": "",
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/warehouse-sale",
+            "link": "shopify://products/seeing-god-in-color-by-anna-nunez",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/black_friday_priming_Artboard_2_copy_7.png",
-            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_2_copy_47.png",
+            "image": "shopify://shop_images/SGIC-LAunch-02.png",
+            "image_mobile": "shopify://shop_images/SGIC-LAunch-01.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -230,9 +210,8 @@
         }
       },
       "block_order": [
-        "image_b6EUJP"
+        "image_PDEHTW"
       ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -240,7 +219,7 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true,
+        "lazyload_images": false,
         "disable_animation": false
       }
     },
@@ -254,14 +233,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/winter-2026-collection",
+            "link": "shopify://pages/newsletter-signup",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2026-winter-collection-launch_456ce897-2766-4457-a6e5-b972d5c5c98a.png",
-            "image_mobile": "shopify://shop_images/2026-winter-collection-launch-1_4518c64a-6f1b-4c78-beb9-1f62b27e870f.png",
+            "image": "shopify://shop_images/black_friday_priming_Artboard_2_copy_41.png",
+            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_2_copy_46.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -281,6 +260,33 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "featured_collection_AbN8iP": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "shop our new collection",
+        "home_featured_products": "winter-2026-collection",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_fq4ak3": {
+      "type": "featured-collection",
+      "disabled": true,
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "find your new planner",
+        "home_featured_products": "planners",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     },
     "promo_grid_EMhhYk": {
@@ -315,33 +321,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "featured_collection_AbN8iP": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "the winter collection",
-        "home_featured_products": "winter-2026-collection",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_fq4ak3": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "find your new planner",
-        "home_featured_products": "planners",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
       }
     },
     "promo_grid_UydWcM": {
@@ -535,6 +514,45 @@
         "lazyload_images": true
       }
     },
+    "slideshow_gG4Qiw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_b6EUJP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://pages/warehouse-sale",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/black_friday_priming_Artboard_2_copy_7.png",
+            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_2_copy_47.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "disable_border_button": false
+          }
+        }
+      },
+      "block_order": [
+        "image_b6EUJP"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "disable_animation": false
+      }
+    },
     "slideshow_LAdPKf": {
       "type": "slideshow",
       "blocks": {
@@ -551,8 +569,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2026_winter_collection_launch-02.png",
-            "image_mobile": "shopify://shop_images/2026_winter_collection_launch-01.png",
+            "image": "shopify://shop_images/black_friday_priming_Artboard_56.png",
+            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_45_copy.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -575,21 +593,22 @@
     }
   },
   "order": [
-    "slideshow_X4MRpa",
+    "hero_video_rQfQcN",
     "slideshow_gW9EVE",
     "promo_grid_BftCNi",
     "slideshow_rVxgdf",
     "slideshow_8GYyKV",
-    "slideshow_gG4Qiw",
+    "slideshow_X4MRpa",
     "slideshow_JzgDYA",
-    "promo_grid_EMhhYk",
     "featured_collection_AbN8iP",
     "featured_collection_fq4ak3",
+    "promo_grid_EMhhYk",
     "promo_grid_UydWcM",
     "slideshow_GcPDX3",
     "promo_grid_MmC94X",
     "slideshow_YNbwrF",
     "promo_grid_pwwBNx",
+    "slideshow_gG4Qiw",
     "slideshow_LAdPKf"
   ]
 }
