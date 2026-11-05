@@ -9,23 +9,6 @@
  */
 {
   "sections": {
-    "hero_video_rQfQcN": {
-      "type": "hero-video",
-      "name": "t:sections.hero-video.presets.video_hero.name",
-      "settings": {
-        "title": "Give the gift of beauty",
-        "title_size": 41,
-        "subheading": "Who’s on your heart this season?",
-        "link_text": "Prepare for Christmas",
-        "link": "shopify://pages/the-gifting-library",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/d09729c43734418caedc6895c90a4281.mp4",
-        "overlay_opacity": 0,
-        "section_height": "450px",
-        "mobile_height": "auto"
-      }
-    },
     "slideshow_gW9EVE": {
       "type": "slideshow",
       "blocks": {
@@ -62,6 +45,23 @@
         "autoplay_speed": 5,
         "lazyload_images": false,
         "disable_animation": false
+      }
+    },
+    "hero_video_rQfQcN": {
+      "type": "hero-video",
+      "name": "t:sections.hero-video.presets.video_hero.name",
+      "settings": {
+        "title": "Give the gift of beauty",
+        "title_size": 41,
+        "subheading": "Who’s on your heart this season?",
+        "link_text": "Prepare for Christmas",
+        "link": "shopify://pages/the-gifting-library",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/d09729c43734418caedc6895c90a4281.mp4",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "auto"
       }
     },
     "promo_grid_BftCNi": {
@@ -593,8 +593,8 @@
     }
   },
   "order": [
-    "hero_video_rQfQcN",
     "slideshow_gW9EVE",
+    "hero_video_rQfQcN",
     "promo_grid_BftCNi",
     "slideshow_rVxgdf",
     "slideshow_8GYyKV",
