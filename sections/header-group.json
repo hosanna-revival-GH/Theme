@@ -44,12 +44,12 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement_mMUAeX": {
+        "announcement_Tgqpzh": {
           "type": "announcement",
           "settings": {
-            "text": "Order Seeing God in Color",
-            "link_text": "Connect with God though everyday colors",
-            "link": "shopify://products/seeing-god-in-color-by-anna-nunez"
+            "text": " Damascus: Your 2026 Advent Study",
+            "link_text": "Order by November 20th to receive it in time for Advent",
+            "link": "shopify://products/damascus-by-hannah-jessen-conway"
           }
         },
         "announcement_k47GUq": {
@@ -78,7 +78,7 @@
         }
       },
       "block_order": [
-        "announcement_mMUAeX",
+        "announcement_Tgqpzh",
         "announcement_k47GUq",
         "announcement_FNqfy6",
         "announcement_NXQKWa"
