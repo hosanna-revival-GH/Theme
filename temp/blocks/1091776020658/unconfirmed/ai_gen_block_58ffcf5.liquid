@@ -1,0 +1,115 @@
+{% doc %}
+  @prompt
+     make a video hero that does not have any darkening for text or any visible button but if you click on it it links to a page
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-video-hero-{{ ai_gen_id }} {
+    display: block;
+    position: relative;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    overflow: hidden;
+    background: #f2f0ec;
+  }
+
+  .ai-video-hero-{{ ai_gen_id }} a {
+    display: block;
+    width: 100%;
+    position: relative;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .ai-video-hero-{{ ai_gen_id }}__media {
+    width: 100%;
+    height: {{ block.settings.height_desktop }}px;
+    display: block;
+    object-fit: cover;
+  }
+
+  .ai-video-hero-{{ ai_gen_id }}__placeholder {
+    display: flex;
+    height: {{ block.settings.height_desktop }}px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background: #f2f0ec;
+  }
+
+  .ai-video-hero-{{ ai_gen_id }}__placeholder svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    color: #d1cdc5;
+  }
+
+  .ai-video-hero-{{ ai_gen_id }}__empty-state {
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+    margin: 0;
+    padding: 8px 12px;
+    color: #1c1d1d;
+    background: #ffffff;
+    font-size: 13px;
+  }
+
+  .ai-video-hero-{{ ai_gen_id }}__link-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .ai-video-hero-{{ ai_gen_id }} a:focus-visible {
+    outline: 3px solid #2d4834;
+    outline-offset: 3px;
+    z-index: 1;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-video-hero-{{ ai_gen_id }}__media,
+    .ai-video-hero-{{ ai_gen_id }}__placeholder {
+      height: {{ block.settings.height_mobile }}px;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-video-hero-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  {% if block.settings.destination != blank %}<a href="{{ block.settings.destination }}" aria-label="{{ block.settings.link_label | default: 'Open linked page' | escape }}">{% endif %}
+    {% if block.settings.video != blank %}
+      {{ block.settings.video | video_tag: class: 'ai-video-hero-' | append: ai_gen_id | append: '__media', autoplay: true, loop: true, muted: true, controls: false, playsinline: true }}
+    {% else %}
+      <div class="ai-video-hero-{{ ai_gen_id }}__placeholder">
+        {{ 'hero-apparel-1' | placeholder_svg_tag }}
+        <p class="ai-video-hero-{{ ai_gen_id }}__empty-state">Add a video to display this hero.</p>
+      </div>
+    {% endif %}
+    {% if block.settings.destination != blank %}<span class="ai-video-hero-{{ ai_gen_id }}__link-label">{{ block.settings.link_label | default: 'Open linked page' | escape }}</span></a>{% endif %}
+</div>
+
+{% schema %}
+{
+  "name": "Video hero link",
+  "settings": [
+    { "type": "video", "id": "video", "label": "Video" },
+    { "type": "url", "id": "destination", "label": "Linked page" },
+    { "type": "text", "id": "link_label", "label": "Accessible link label", "default": "Explore this collection" },
+    { "type": "range", "id": "desktop_width_percent", "label": "Desktop width", "min": 50, "max": 100, "step": 5, "unit": "%", "default": 100 },
+    { "type": "range", "id": "height_desktop", "label": "Desktop height", "min": 250, "max": 900, "step": 50, "unit": "px", "default": 600 },
+    { "type": "range", "id": "height_mobile", "label": "Mobile height", "min": 200, "max": 700, "step": 50, "unit": "px", "default": 400 }
+  ],
+  "presets": [{ "name": "Video hero link" }],
+  "tag": null,
+  "class": "video-hero-link-block"
+}
+{% endschema %}
