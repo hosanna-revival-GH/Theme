@@ -47,33 +47,33 @@
         "announcement_Tgqpzh": {
           "type": "announcement",
           "settings": {
-            "text": " Damascus: Your 2026 Advent Study",
-            "link_text": "Order by November 20th to receive it in time for Advent",
-            "link": "shopify://products/damascus-by-hannah-jessen-conway"
+            "text": " The Black Friday Sale is Here",
+            "link_text": "30% off everything + Free Tote on orders over $125",
+            "link": "shopify://collections/best-sellers"
           }
         },
         "announcement_k47GUq": {
           "type": "announcement",
           "settings": {
-            "text": "Give the Gift of Beauty",
-            "link_text": "Explore the Christmas Gift Guide",
+            "text": "The perfect gift you didn’t think of",
+            "link_text": "Shop curated gift guides",
             "link": "shopify://pages/the-gifting-library"
           }
         },
         "announcement_FNqfy6": {
           "type": "announcement",
           "settings": {
-            "text": "Seeing God in Color",
-            "link_text": "Draw near to the Lord in a fresh, creative way",
-            "link": "shopify://pages/seeing-god-in-color"
+            "text": " Your home for Beautiful Bibles",
+            "link_text": " Invest in their faith this Christmas",
+            "link": "shopify://collections/beautiful-bibles"
           }
         },
         "announcement_NXQKWa": {
           "type": "announcement",
           "settings": {
-            "text": "Your Home for Beautiful Bibles",
-            "link_text": "Find a Bible that draws you in to God’s Word",
-            "link": "shopify://collections/beautiful-bibles"
+            "text": "Join us for our annual Warehouse Sale",
+            "link_text": "December 12th in Cincinnati, Ohio",
+            "link": "shopify://pages/warehouse-sale"
           }
         }
       },
