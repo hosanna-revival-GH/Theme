@@ -51,14 +51,14 @@
       "type": "hero-video",
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
-        "title": "let every heart prepare him room",
+        "title": "",
         "title_size": 40,
         "subheading": "",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/d09729c43734418caedc6895c90a4281.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/2147e2025658496c98acdb0ede4aa55d.mp4",
         "overlay_opacity": 0,
         "section_height": "450px",
         "mobile_height": "auto"
