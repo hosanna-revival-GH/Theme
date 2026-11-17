@@ -103,6 +103,41 @@
         "disable_animation": false
       }
     },
+    "1794932667ad25784a": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_8b1f9a0_YfYyYq": {
+          "type": "ai_gen_block_8b1f9a0",
+          "settings": {
+            "desktop_width_percent": 100,
+            "image_1": "shopify://shop_images/BFCM_Begins_Homepage-04_4dd62e35-f453-4723-b636-f4f3baa5529d.png",
+            "title_1": "",
+            "link_1": "shopify://collections/beautiful-bibles",
+            "image_2": "shopify://shop_images/BFCM_Begins_Homepage-06_296c44ee-f58b-4816-8e4d-b9ac3826dbcc.png",
+            "title_2": "",
+            "link_2": "shopify://collections/one-thing-i-ask",
+            "image_3": "shopify://shop_images/BFCM_Begins_Homepage-05_af7edeb4-d359-40a9-b28c-32daebac4c59.png",
+            "title_3": "",
+            "link_3": "shopify://collections/notebooks",
+            "image_4": "shopify://shop_images/BFCM_Begins_Homepage-09.png",
+            "title_4": "",
+            "link_4": "shopify://collections/devotionals",
+            "link_label": "",
+            "gap": 0,
+            "title_size": 16,
+            "tile_background": "#2D4834",
+            "text_color": "#FFFFFF",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_8b1f9a0_YfYyYq"
+      ],
+      "settings": {}
+    },
     "promo_grid_BftCNi": {
       "type": "promo-grid",
       "blocks": {
@@ -145,6 +180,7 @@
         "image_9fzeMq",
         "image_LnQkm9"
       ],
+      "disabled": true,
       "name": "t:sections.promo-grid.presets.promotional_grid.name",
       "settings": {
         "full_width": true,
@@ -604,6 +640,7 @@
     "slideshow_gW9EVE",
     "hero_video_rQfQcN",
     "slideshow_rVxgdf",
+    "1794932667ad25784a",
     "promo_grid_BftCNi",
     "slideshow_8GYyKV",
     "promo_grid_EMhhYk",
