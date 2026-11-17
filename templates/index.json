@@ -19,14 +19,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/the-gifting-library",
+            "link": "shopify://pages/hosanna-revival-christmas-gifts",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/black-friday-priming-01_0092cd1a-9881-4fb9-bcd5-a175eb3b1413.png",
-            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_19_copy_6_0c0f0778-f5ad-4b0f-8ab0-b2ca38b58f78.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-03_1793c97b-e474-40c8-a932-d40e4f9bb78c.png",
+            "image_mobile": "shopify://shop_images/BFCM_Begins_Homepage-01_9a81815e-03e2-449a-9e9e-0c7475e9ebef.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -51,60 +51,17 @@
       "type": "hero-video",
       "name": "t:sections.hero-video.presets.video_hero.name",
       "settings": {
-        "title": "Give the gift of beauty",
-        "title_size": 41,
-        "subheading": "Who’s on your heart this season?",
-        "link_text": "Prepare for Christmas",
-        "link": "shopify://pages/the-gifting-library",
+        "title": "let every heart prepare him room",
+        "title_size": 40,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https://cdn.shopify.com/videos/c/o/v/d09729c43734418caedc6895c90a4281.mp4",
         "overlay_opacity": 0,
         "section_height": "450px",
         "mobile_height": "auto"
-      }
-    },
-    "promo_grid_BftCNi": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_wLbLxt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/black_friday_priming_Artboard_19_copy_8.png",
-            "link": "shopify://pages/seeing-god-in-color",
-            "width": "33"
-          }
-        },
-        "image_NWGAkF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/SGIC-LAunch.png",
-            "link": "https://www.instagram.com/p/DeZqDSJEYPH/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==",
-            "width": "33"
-          }
-        },
-        "image_9fzeMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/SGIC_LAunch_Artboard_2_copy_53_801fd4e9-223e-4953-accc-796086cdf886.png",
-            "link": "shopify://products/seeing-god-in-color-postcards-4-pack",
-            "width": "33"
-          }
-        }
-      },
-      "block_order": [
-        "image_wLbLxt",
-        "image_NWGAkF",
-        "image_9fzeMq"
-      ],
-      "disabled": true,
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
       }
     },
     "slideshow_rVxgdf": {
@@ -117,14 +74,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/damascus",
+            "link": "shopify://collections/beautiful-bibles",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/black_friday_priming-03.png",
-            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_19_copy_8.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-08_7d4f54f5-8f08-477c-8591-082bfaa5b33c.png",
+            "image_mobile": "shopify://shop_images/BFCM_Begins_Homepage-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -146,6 +103,57 @@
         "disable_animation": false
       }
     },
+    "promo_grid_BftCNi": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_wLbLxt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-04_4dd62e35-f453-4723-b636-f4f3baa5529d.png",
+            "link": "shopify://collections/beautiful-bibles",
+            "width": "25"
+          }
+        },
+        "image_NWGAkF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-05_af7edeb4-d359-40a9-b28c-32daebac4c59.png",
+            "link": "shopify://collections/notebooks",
+            "width": "25"
+          }
+        },
+        "image_9fzeMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-06_296c44ee-f58b-4816-8e4d-b9ac3826dbcc.png",
+            "link": "shopify://collections/one-thing-i-ask",
+            "width": "25"
+          }
+        },
+        "image_LnQkm9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-09.png",
+            "link": "shopify://collections/devotionals",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "image_wLbLxt",
+        "image_NWGAkF",
+        "image_9fzeMq",
+        "image_LnQkm9"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "slideshow_8GYyKV": {
       "type": "slideshow",
       "blocks": {
@@ -162,8 +170,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/black_friday_priming_Artboard_56_copy.png",
-            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_45_copy_2.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage_Artboard_56_copy.png",
+            "image_mobile": "shopify://shop_images/BFCM_Begins_Homepage_Artboard_45_copy_2_e60cfc34-6474-441c-b311-ff826ba99034.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -183,6 +191,39 @@
         "autoplay_speed": 5,
         "lazyload_images": true,
         "disable_animation": false
+      }
+    },
+    "promo_grid_EMhhYk": {
+      "type": "promo-grid",
+      "blocks": {
+        "image_CCyyzW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-12.png",
+            "link": "shopify://collections/best-sellers",
+            "width": "50"
+          }
+        },
+        "image_c4egAk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BFCM_Begins_Homepage-13.png",
+            "link": "shopify://collections/hosanna-revival-shop",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "image_CCyyzW",
+        "image_c4egAk"
+      ],
+      "name": "t:sections.promo-grid.presets.promotional_grid.name",
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
       }
     },
     "slideshow_X4MRpa": {
@@ -212,6 +253,7 @@
       "block_order": [
         "image_PDEHTW"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -233,14 +275,14 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://pages/newsletter-signup",
+            "link": "shopify://pages/hosanna-revival-christmas-gifts",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/black_friday_priming_Artboard_2_copy_41_c7cb0051-1eb7-418f-95a9-18c5f5f4cd79.png",
-            "image_mobile": "shopify://shop_images/black_friday_priming_Artboard_2_copy_46.png",
+            "image": "shopify://shop_images/BFCM_Begins_Homepage_Artboard_56_copy_2.png",
+            "image_mobile": "shopify://shop_images/BFCM_Begins_Homepage_Artboard_45_copy_3.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -264,6 +306,7 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "shop our new collection",
@@ -287,40 +330,6 @@
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
-      }
-    },
-    "promo_grid_EMhhYk": {
-      "type": "promo-grid",
-      "blocks": {
-        "image_CCyyzW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2026-winter-collection-launch-1_702443c6-6a77-40f0-ac5b-4290bd222b6c.png",
-            "link": "shopify://products/nlt-compact-bible-willow-theme",
-            "width": "50"
-          }
-        },
-        "image_c4egAk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2026-winter-collection-launch-2.png",
-            "link": "shopify://products/esv-large-print-journaling-bible-verona-theme",
-            "width": "50"
-          }
-        }
-      },
-      "block_order": [
-        "image_CCyyzW",
-        "image_c4egAk"
-      ],
-      "disabled": true,
-      "name": "t:sections.promo-grid.presets.promotional_grid.name",
-      "settings": {
-        "full_width": true,
-        "gutter_size": 0,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
       }
     },
     "promo_grid_UydWcM": {
@@ -595,14 +604,14 @@
   "order": [
     "slideshow_gW9EVE",
     "hero_video_rQfQcN",
-    "promo_grid_BftCNi",
     "slideshow_rVxgdf",
+    "promo_grid_BftCNi",
     "slideshow_8GYyKV",
+    "promo_grid_EMhhYk",
     "slideshow_X4MRpa",
     "slideshow_JzgDYA",
     "featured_collection_AbN8iP",
     "featured_collection_fq4ak3",
-    "promo_grid_EMhhYk",
     "promo_grid_UydWcM",
     "slideshow_GcPDX3",
     "promo_grid_MmC94X",
