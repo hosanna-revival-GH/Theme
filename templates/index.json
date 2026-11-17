@@ -72,8 +72,8 @@
           "type": "ai_gen_block_a09a133",
           "settings": {
             "video": "shopify://files/videos/014FFB86-7709-49F8-944D-61DFB2A3388E.mp4",
-            "destination": "",
-            "link_label": "Explore this collection",
+            "destination": "shopify://collections/beautiful-bibles",
+            "link_label": "let every heart prepare him room",
             "desktop_width_percent": 100,
             "height_desktop": 350,
             "height_mobile": 400
