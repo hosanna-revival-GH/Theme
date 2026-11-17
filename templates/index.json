@@ -306,11 +306,10 @@
     },
     "featured_collection_AbN8iP": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "title": "shop our new collection",
-        "home_featured_products": "winter-2026-collection",
+        "title": "gift intentionally",
+        "home_featured_products": "the-gift-guide-for-intentional-gifting",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
