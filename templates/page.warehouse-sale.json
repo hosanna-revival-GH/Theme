@@ -34,7 +34,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Warehouse-Sale-Hosanna-Revival--61.jpg",
+            "image": "shopify://shop_images/warehousa_sale-02.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
@@ -136,7 +136,7 @@
     "cf50b4a4-9841-4e04-8175-ccfab05b1db5": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Warehouse-Sale-Hosanna-Revival--21_a38e7f28-a4bb-4262-a939-7eb23f963478.jpg",
+        "image": "shopify://shop_images/warehousa_sale-01.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "Warehouse Sale",
@@ -205,7 +205,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Warehouse-Sale-Hosanna-Revival--55.jpg",
+            "image": "shopify://shop_images/warehousa_sale-03.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "disable_border_button": false
