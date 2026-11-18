@@ -147,8 +147,8 @@
             "link_label": "",
             "gap": 0,
             "title_size": 16,
-            "tile_background": "#2D4834",
-            "text_color": "#FFFFFF",
+            "tile_background": "#2d4834",
+            "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           },
@@ -656,6 +656,33 @@
         "lazyload_images": true,
         "disable_animation": false
       }
+    },
+    "179501650963c3bb48": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_820db92_Htzadb": {
+          "type": "ai_gen_block_820db92",
+          "settings": {
+            "heading": "last chance for 30% off",
+            "end_date": "2026-11-27",
+            "end_time": "23:59",
+            "timezone": "America/New_York",
+            "expired_message": "This countdown has ended.",
+            "desktop_width_percent": 100,
+            "heading_font": "libre_baskerville_n4",
+            "body_font": "libre_baskerville_n4",
+            "heading_size": 18,
+            "background_color": "#F8F1EA",
+            "text_color": "#2D4834"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_820db92_Htzadb"
+      ],
+      "disabled": true,
+      "settings": {}
     }
   },
   "order": [
@@ -677,6 +704,7 @@
     "slideshow_YNbwrF",
     "promo_grid_pwwBNx",
     "slideshow_gG4Qiw",
-    "slideshow_LAdPKf"
+    "slideshow_LAdPKf",
+    "179501650963c3bb48"
   ]
 }
