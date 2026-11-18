@@ -672,8 +672,8 @@
             "heading_font": "libre_baskerville_n4",
             "body_font": "libre_baskerville_n4",
             "heading_size": 18,
-            "background_color": "#F8F1EA",
-            "text_color": "#2D4834"
+            "background_color": "#f8f1ea",
+            "text_color": "#2d4834"
           },
           "blocks": {}
         }
