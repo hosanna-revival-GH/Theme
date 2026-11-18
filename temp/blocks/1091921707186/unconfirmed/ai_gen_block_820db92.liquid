@@ -1,6 +1,167 @@
+{% doc %}
+  @prompt
+    make me a countdown block that is adjusted for time zones, can you remove the squares around the numbers
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-countdown-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    padding: 24px;
+    background: {{ block.settings.background_color }};
+    color: {{ block.settings.text_color }};
+    text-align: center;
+    box-sizing: border-box;
+    font-family: {{ block.settings.body_font.family }}, {{ block.settings.body_font.fallback_families }};
+  }
+  .ai-countdown-{{ ai_gen_id }}__heading {
+    margin: 0 0 16px;
+    color: {{ block.settings.text_color }};
+    font-family: {{ block.settings.heading_font.family }}, {{ block.settings.heading_font.fallback_families }};
+    font-size: {{ block.settings.heading_size }}px;
+  }
+  .ai-countdown-{{ ai_gen_id }}__timer {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .ai-countdown-{{ ai_gen_id }}__unit {
+    min-width: 68px;
+    padding: 12px 10px;
+  }
+  .ai-countdown-{{ ai_gen_id }}__number {
+    display: block;
+    font-size: 26px;
+    line-height: 1.2;
+    font-variant-numeric: tabular-nums;
+  }
+  .ai-countdown-{{ ai_gen_id }}__label {
+    display: block;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+  .ai-countdown-{{ ai_gen_id }}__message {
+    margin: 12px 0 0;
+  }
+  @media screen and (max-width: 749px) {
+    .ai-countdown-{{ ai_gen_id }} { padding: 20px 14px; }
+    .ai-countdown-{{ ai_gen_id }}__unit { min-width: 58px; padding: 10px 7px; }
+    .ai-countdown-{{ ai_gen_id }}__number { font-size: 22px; }
+  }
+{% endstyle %}
+
+<timezone-countdown-{{ ai_gen_id }}
+  class="ai-countdown-{{ ai_gen_id }}"
+  data-date="{{ block.settings.end_date | escape }}"
+  data-time="{{ block.settings.end_time | escape }}"
+  data-timezone="{{ block.settings.timezone | escape }}"
+  data-expired="{{ block.settings.expired_message | escape }}"
+  {{ block.shopify_attributes }}
+>
+  {% if block.settings.heading != blank %}<h2 class="ai-countdown-{{ ai_gen_id }}__heading">{{ block.settings.heading | escape }}</h2>{% endif %}
+  <div class="ai-countdown-{{ ai_gen_id }}__timer" role="timer" aria-live="off">
+    <div class="ai-countdown-{{ ai_gen_id }}__unit"><span class="ai-countdown-{{ ai_gen_id }}__number" data-days>00</span><span class="ai-countdown-{{ ai_gen_id }}__label">Days</span></div>
+    <div class="ai-countdown-{{ ai_gen_id }}__unit"><span class="ai-countdown-{{ ai_gen_id }}__number" data-hours>00</span><span class="ai-countdown-{{ ai_gen_id }}__label">Hours</span></div>
+    <div class="ai-countdown-{{ ai_gen_id }}__unit"><span class="ai-countdown-{{ ai_gen_id }}__number" data-minutes>00</span><span class="ai-countdown-{{ ai_gen_id }}__label">Minutes</span></div>
+    <div class="ai-countdown-{{ ai_gen_id }}__unit"><span class="ai-countdown-{{ ai_gen_id }}__number" data-seconds>00</span><span class="ai-countdown-{{ ai_gen_id }}__label">Seconds</span></div>
+  </div>
+  <p class="ai-countdown-{{ ai_gen_id }}__message" data-message hidden></p>
+</timezone-countdown-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    const tagName = 'timezone-countdown-{{ ai_gen_id }}';
+    if (customElements.get(tagName)) return;
+    class TimezoneCountdown extends HTMLElement {
+      connectedCallback() {
+        this.timer = this.querySelector('[role="timer"]');
+        this.message = this.querySelector('[data-message]');
+        this.days = this.querySelector('[data-days]');
+        this.hours = this.querySelector('[data-hours]');
+        this.minutes = this.querySelector('[data-minutes]');
+        this.seconds = this.querySelector('[data-seconds]');
+        this.expiredText = this.dataset.expired;
+        this.stop();
+        const date = this.dataset.date;
+        const time = this.dataset.time;
+        const zone = this.dataset.timezone;
+        if (!date || !time || !zone) {
+          this.showMessage('Set an end date, time, and time zone to start the countdown.');
+          return;
+        }
+        try {
+          const localDate = new Date(`${date}T${time}:00`);
+          if (Number.isNaN(localDate.getTime())) throw new Error('Invalid date');
+          const parts = new Intl.DateTimeFormat('en-US', {
+            timeZone: zone, year: 'numeric', month: '2-digit', day: '2-digit',
+            hour: '2-digit', minute: '2-digit', second: '2-digit', hourCycle: 'h23'
+          }).formatToParts(localDate);
+          const values = {};
+          parts.forEach((part) => { if (part.type !== 'literal') values[part.type] = Number(part.value); });
+          const desiredUtc = Date.UTC(Number(date.slice(0, 4)), Number(date.slice(5, 7)) - 1, Number(date.slice(8, 10)), Number(time.slice(0, 2)), Number(time.slice(3, 5)));
+          const shownUtc = Date.UTC(values.year, values.month - 1, values.day, values.hour, values.minute, values.second);
+          this.target = desiredUtc - (shownUtc - localDate.getTime());
+          this.tick();
+          this.interval = window.setInterval(() => this.tick(), 1000);
+        } catch (error) {
+          this.showMessage('The selected time zone could not be used.');
+        }
+      }
+      disconnectedCallback() { this.stop(); }
+      stop() { if (this.interval) window.clearInterval(this.interval); }
+      showMessage(text) {
+        this.timer.hidden = true;
+        this.message.hidden = false;
+        this.message.textContent = text;
+      }
+      tick() {
+        const remaining = Math.max(0, Math.floor((this.target - Date.now()) / 1000));
+        if (remaining <= 0) {
+          this.stop();
+          this.showMessage(this.expiredText || 'This countdown has ended.');
+          return;
+        }
+        this.days.textContent = String(Math.floor(remaining / 86400)).padStart(2, '0');
+        this.hours.textContent = String(Math.floor((remaining % 86400) / 3600)).padStart(2, '0');
+        this.minutes.textContent = String(Math.floor((remaining % 3600) / 60)).padStart(2, '0');
+        this.seconds.textContent = String(remaining % 60).padStart(2, '0');
+      }
+    }
+    customElements.define(tagName, TimezoneCountdown);
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Time zone countdown",
+  "settings": [
+    { "type": "text", "id": "heading", "label": "Heading", "default": "Coming soon" },
+    { "type": "text", "id": "end_date", "label": "End date", "default": "2026-12-31", "info": "Use YYYY-MM-DD. The entered date and time are interpreted in the selected time zone." },
+    { "type": "text", "id": "end_time", "label": "End time", "default": "23:59", "info": "Use 24-hour HH:MM format." },
+    { "type": "select", "id": "timezone", "label": "Time zone", "options": [
+      { "value": "America/New_York", "label": "Eastern time" },
+      { "value": "America/Chicago", "label": "Central time" },
+      { "value": "America/Denver", "label": "Mountain time" },
+      { "value": "America/Los_Angeles", "label": "Pacific time" },
+      { "value": "UTC", "label": "UTC" },
+      { "value": "Europe/London", "label": "London" },
+      { "value": "Europe/Paris", "label": "Central European time" },
+      { "value": "Asia/Tokyo", "label": "Japan time" },
+      { "value": "Australia/Sydney", "label": "Sydney time" }
+    ], "default": "America/New_York" },
+    { "type": "text", "id": "expired_message", "label": "After countdown", "default": "This countdown has ended." },
+    { "type": "range", "id": "desktop_width_percent", "label": "Desktop width", "min": 50, "max": 100, "step": 5, "unit": "%", "default": 100 },
+    { "type": "font_picker", "id": "heading_font", "label": "Heading font", "default": "libre_baskerville_n4" },
+    { "type": "font_picker", "id": "body_font", "label": "Body font", "default": "libre_baskerville_n4" },
+    { "type": "range", "id": "heading_size", "label": "Heading size", "min": 18, "max": 48, "step": 2, "unit": "px", "default": 28 },
+    { "type": "color", "id": "background_color", "label": "Background", "default": "#F8F1EA" },
+    { "type": "color", "id": "text_color", "label": "Text", "default": "#2D4834" }
+  ],
+  "presets": [{ "name": "Time zone countdown" }],
+  "tag": null,
+  "class": "time-zone-countdown"
+}
 {% endschema %}
