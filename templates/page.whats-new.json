@@ -58,6 +58,20 @@
         "disable_animation": false
       }
     },
+    "single_button_qAwKEz": {
+      "type": "single-button",
+      "name": "Custom Button",
+      "settings": {
+        "button_text": "30% off sitewide",
+        "button_link": "https://hosannarevival.com",
+        "button_size": "huge",
+        "alignment": "center",
+        "space_above": 30,
+        "space_below": 20,
+        "link_color_background": "#7A1A25",
+        "link_color_text": "#ffffff"
+      }
+    },
     "single_button_QbwFRq": {
       "type": "single-button",
       "name": "Custom Button",
@@ -68,7 +82,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#f8f1ea"
       }
     },
@@ -81,23 +95,8 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#f8f1ea"
-      }
-    },
-    "single_button_qAwKEz": {
-      "type": "single-button",
-      "disabled": true,
-      "name": "Custom Button",
-      "settings": {
-        "button_text": "Order your copy of Seeing God in Color",
-        "button_link": "https://hosannarevival.com/products/seeing-god-in-color-by-anna-nunez",
-        "button_size": "huge",
-        "alignment": "center",
-        "space_above": 30,
-        "space_below": 20,
-        "link_color_background": "#473a33",
-        "link_color_text": "#ffffff"
       }
     },
     "single_button_GryJY9": {
@@ -109,7 +108,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#ffffff"
       }
     },
@@ -150,7 +149,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#ffffff"
       }
     },
@@ -163,7 +162,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#ffffff"
       }
     },
@@ -190,7 +189,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#ffffff"
       }
     },
@@ -203,7 +202,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#ffffff"
       }
     },
@@ -216,7 +215,7 @@
         "alignment": "center",
         "space_above": 30,
         "space_below": 20,
-        "link_color_background": "#7A1A25",
+        "link_color_background": "#7a1a25",
         "link_color_text": "#ffffff"
       }
     }
@@ -224,9 +223,9 @@
   "order": [
     "main",
     "slideshow_xWCjYr",
+    "single_button_qAwKEz",
     "single_button_QbwFRq",
     "single_button_3L6q9A",
-    "single_button_qAwKEz",
     "single_button_GryJY9",
     "single_button_JD887j",
     "single_button_KDXcyH",
