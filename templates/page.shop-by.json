@@ -224,6 +224,32 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/Winter-Collection-2026-Bible-Hosanna-Revival301.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "WINTER 2026 COLLECTION",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/winter-2026-collection"
+          }
+        },
+        "text_block_74": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Beautiful-Bibles-Spring-Collection-Hosanna-Revival1068_2.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "SPRING 2026 COLLECTION",
+            "text": "",
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/spring-2026-collection"
+          }
+        },
+        "text_block_75": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
             "image": "shopify://shop_images/Winter-Collection-Styled-Hosanna-Revival-585_2.jpg",
             "image_mask": "square",
             "image_width": 650,
@@ -231,32 +257,6 @@
             "text": "",
             "button_label": "SHOP",
             "button_link": "shopify://collections/winter-2025-collection"
-          }
-        },
-        "text_block_74": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Casablanca-NLT-Compact-Bible-Embroidered-Cream-White-Floral-Hosanna-Revival-10_1.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "SPRING 2025 COLLECTION",
-            "text": "",
-            "button_label": "SHOP",
-            "button_link": "shopify://collections/spring-2025-collection"
-          }
-        },
-        "text_block_75": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Winter-Collection-2024-Beautiful-Bibles-Notebook-Styled-Hosanna-Revival-287.jpg",
-            "image_mask": "square",
-            "image_width": 650,
-            "title": "WINTER 2024 COLLECTION",
-            "text": "",
-            "button_label": "SHOP",
-            "button_link": "shopify://collections/winter-2024-collection"
           }
         }
       },
